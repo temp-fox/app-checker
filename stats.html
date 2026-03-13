@@ -1,0 +1,1296 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>限免统计 · 近10天</title>
+  <meta name="description" content="App Store 限免统计，记录近10天每次运行发现的限免数据">
+  <link rel="icon" href="https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png">
+  <style>
+    
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --primary: #0A84FF;
+      --primary-hover: #0070E0;
+      --bg: #F5F5F9;
+      --card: #FFFFFF;
+      --card-blur: rgba(255, 255, 255, 0.7);
+      --text: #1D1D1F;
+      --sub: #86868B;
+      --border: #E5E5EA;
+      --border-light: rgba(229, 229, 234, 0.5);
+      --shadow-sm: 0 4px 14px rgba(0,0,0,0.03);
+      --shadow-md: 0 8px 24px rgba(0,0,0,0.06);
+      --shadow-lg: 0 20px 48px rgba(0,0,0,0.08);
+      --r: 22px;
+      --r-sm: 12px;
+    }
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", sans-serif;
+      background-color: var(--bg);
+      background-image: 
+        radial-gradient(circle at 15% 50%, rgba(10, 132, 255, 0.04), transparent 25%),
+        radial-gradient(circle at 85% 30%, rgba(255, 149, 0, 0.04), transparent 25%);
+      background-attachment: fixed;
+      color: var(--text); 
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* ── Header ── */
+    .header {
+      padding: 60px 20px 80px; text-align: center;
+      position: relative; overflow: hidden;
+      color: #1D1D1F; /* Fix: Changed from white to dark text for contrast */
+      background: transparent; /* Rely on body bg or add subtle gradient below */
+    }
+    
+    /* Unique header styles based on page context (using the classes added to HTML) */
+    .index-header {
+      background: radial-gradient(ellipse at 50% 0%, #E3F2FD 0%, transparent 70%);
+    }
+    .featured-header {
+      background: radial-gradient(ellipse at 50% 0%, #FFF3E0 0%, transparent 70%);
+    }
+    .stats-header {
+      background: radial-gradient(ellipse at 50% 0%, #E8F5E9 0%, transparent 70%);
+    }
+
+    .hc { position: relative; z-index: 1; max-width: 800px; margin: 0 auto; }
+    .h-icon { font-size: 56px; margin-bottom: 16px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.05)); animation: float 3s ease-in-out infinite; }
+    @keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-6px); } 100% { transform: translateY(0px); } }
+    
+    .h-date {
+      display: inline-block; background: var(--card-blur); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+      border-radius: 24px; padding: 6px 16px; font-size: 13px; font-weight: 700; margin-bottom: 16px; 
+      border: 1px solid var(--border-light); box-shadow: 0 4px 12px rgba(0,0,0,0.03); text-transform: uppercase; letter-spacing: 0.5px;
+      color: var(--primary);
+    }
+    .h-title { font-size: clamp(28px, 6vw, 46px); font-weight: 800; letter-spacing: -1px; margin-bottom: 10px; line-height: 1.1; }
+    .h-sub { font-size: 16px; font-weight: 500; color: var(--sub); margin-bottom: 30px; letter-spacing: -0.2px; }
+    
+    .h-stats {
+      display: inline-flex; gap: 0; background: var(--card-blur);
+      backdrop-filter: blur(24px); -webkit-backdrop-filter: blur(24px); border-radius: 20px;
+      border: 1px solid rgba(255,255,255,0.8); box-shadow: var(--shadow-md); overflow: hidden;
+    }
+    .stat { text-align: center; padding: 14px 24px; border-right: 1px solid var(--border-light); }
+    .stat:last-child { border-right: none; }
+    .stat-num { font-size: 28px; font-weight: 800; display: block; line-height: 1; color: var(--text); }
+    .stat-label { font-size: 12px; font-weight: 600; color: var(--sub); margin-top: 5px; display: block; text-transform: uppercase; letter-spacing: 0.5px; }
+
+    /* ── Content ── */
+    .content { max-width: 1300px; margin: -30px auto 0; padding: 0 16px 60px; position: relative; z-index: 2; }
+
+    /* ── Filter bar & Back bar ── */
+    .filter-bar, .back-bar {
+      display: flex; gap: 12px; margin-bottom: 24px;
+      background: var(--card-blur); backdrop-filter: saturate(180%) blur(24px); -webkit-backdrop-filter: saturate(180%) blur(24px);
+      border-radius: var(--r); padding: 14px 18px;
+      box-shadow: var(--shadow-sm); border: 1px solid rgba(255,255,255,0.8);
+      align-items: center; justify-content: space-between; flex-wrap: wrap;
+    }
+    
+    .filter-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; flex: 1; }
+    .action-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; justify-content: flex-end; }
+    
+    .back-bar { justify-content: flex-start; }
+    .back-bar .qr-select { margin-left: auto; } /* Push elements to the right */
+    
+    .fl { font-size: 14px; font-weight: 600; color: var(--sub); flex-shrink: 0; padding-left: 4px; }
+    
+    .fb, .qr-select, .fb-featured, .fb-copy, .back-btn {
+      border: 1px solid transparent; border-radius: 20px; /* Pillow shape */
+      padding: 8px 16px; font-size: 14px; font-weight: 600; cursor: pointer;
+      transition: all 0.2s cubic-bezier(0.2, 0.8, 0.2, 1); white-space: nowrap; outline: none;
+      display: inline-flex; align-items: center; justify-content: center; height: 36px;
+    }
+    
+    .fb { background: #E5E5EA; color: var(--text); }
+    .fb:hover { background: #D1D1D6; transform: translateY(-1px); }
+    .fb.active { background: var(--text); color: #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+    
+    .fb-featured { background: linear-gradient(135deg, #10b981, #059669); color: #fff; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.2); }
+    .fb-featured:hover { background: linear-gradient(135deg, #059669, #047857); transform: translateY(-2px); box-shadow: 0 6px 16px rgba(16, 185, 129, 0.3); }
+    
+    .fb-copy { background: linear-gradient(135deg, #8b5cf6, #7c3aed); color: #fff; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2); }
+    .fb-copy:hover { background: linear-gradient(135deg, #7c3aed, #6d28d9); transform: translateY(-2px); box-shadow: 0 6px 16px rgba(139, 92, 246, 0.3); }
+    .fb-copy#previewWxBtn { border-color: #059669; color: #047857; background: linear-gradient(135deg, #ecfdf5, #d1fae5); box-shadow: none; }
+    .fb-copy#previewWxBtn:hover { background: linear-gradient(135deg, #d1fae5, #a7f3d0); box-shadow: 0 4px 12px rgba(5, 150, 105, 0.1); border-color: transparent; color: #065f46; margin-left:1px; }
+
+    .qr-select { background: #fff; color: #ea580c; border: 1px solid #fdba74; box-shadow: 0 2px 8px rgba(253, 186, 116, 0.2); padding-right: 28px; background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ea580c' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e"); background-repeat: no-repeat; background-position: right 8px center; background-size: 14px; }
+    .qr-select:hover { border-color: #f97316; }
+    
+    .back-btn { background: #fff; color: var(--primary); border: 1px solid var(--border); box-shadow: var(--shadow-sm); }
+    .back-btn:hover { background: #f0f8ff; border-color: var(--primary); transform: translateY(-1px); }
+
+    /* ── Grid ── */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 20px;
+      justify-content: center;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: var(--card-blur); backdrop-filter: saturate(180%) blur(20px); -webkit-backdrop-filter: saturate(180%) blur(20px);
+      border-radius: var(--r); border: 1px solid rgba(255,255,255,0.8);
+      box-shadow: var(--shadow-sm); padding: 20px;
+      transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.3s ease;
+      cursor: pointer; display: flex; flex-direction: column; gap: 14px;
+      position: relative; overflow: hidden; min-width: 0;
+    }
+    .card:hover { transform: translateY(-6px); box-shadow: var(--shadow-lg); border-color: rgba(255,255,255,1); }
+
+    .rank-badge {
+      position: absolute; top: -8px; left: -8px;
+      width: 32px; height: 32px; border-radius: 50%;
+      background: linear-gradient(135deg, #f59e0b, #ea580c);
+      color: #fff; font-size: 14px; font-weight: 800;
+      display: flex; align-items: center; justify-content: center;
+      box-shadow: 0 4px 10px rgba(234,88,12,.3); z-index: 10;
+    }
+
+    /* card header */
+    .card-header { display: flex; gap: 14px; align-items: flex-start; }
+    .icon-link { flex-shrink: 0; }
+    .app-icon {
+      width: 68px; height: 68px; border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0,0,0,.08); object-fit: cover; display: block;
+      transition: transform .25s cubic-bezier(0.2, 0.8, 0.2, 1); background: #f2f2f7;
+      border: 1px solid rgba(0,0,0,0.04);
+    }
+    .icon-link:hover .app-icon { transform: scale(1.08) rotate(-3deg); box-shadow: 0 8px 20px rgba(0,0,0,.12); }
+    .app-info { flex: 1; min-width: 0; }
+    .app-name-row { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 6px; }
+    .app-name {
+      font-size: 16px; font-weight: 700; line-height: 1.3; letter-spacing: -0.3px; color: var(--text);
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; flex: 1;
+    }
+    .badge { flex-shrink: 0; font-size: 11px; font-weight: 700; padding: 3px 8px; border-radius: 8px; white-space: nowrap; margin-top: 1px; }
+    .badge-free { background: #dcfce7; color: #166534; }
+    .badge-iap  { background: #fef9c3; color: #854d0e; }
+    .badge-discount { background: #fee2e2; color: #991b1b; }
+    
+    .app-meta { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 4px; }
+    .genre-tag { font-size: 12px; font-weight: 500; padding: 2px 8px; border-radius: 8px; background: rgba(0,0,0,0.03); color: var(--sub); border: 1px solid var(--border-light); }
+    .source-tag { font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.02); }
+    .devices { font-size: 12px; font-weight: 500; color: var(--sub); line-height: 1.4; margin-top: 4px; }
+
+    /* price */
+    .price-section { border-radius: var(--r-sm); overflow: hidden; margin-top: 2px; }
+    .price-display { display: flex; align-items: center; gap: 8px; padding: 10px 14px; border-radius: var(--r-sm); }
+    .price-display.is-free { background: linear-gradient(135deg, #f0fdf4, #dcfce7); border: 1px solid rgba(187, 247, 208, 0.5); }
+    .price-display.is-discount { background: linear-gradient(135deg, #fff7ed, #ffedd5); border: 1px solid rgba(254, 215, 170, 0.5); }
+    .price-from { color: var(--sub); text-decoration: line-through; font-size: 14px; font-weight: 500; }
+    .price-arrow { color: var(--sub); font-size: 14px; }
+    .price-display.is-free .price-to { color: #166534; font-weight: 800; font-size: 18px; letter-spacing: -0.5px; }
+    .price-display.is-discount .price-to { color: #9a3412; font-weight: 800; font-size: 18px; letter-spacing: -0.5px; }
+    
+    .price-section.iap-mode { background: linear-gradient(135deg, #fffbeb, #fef3c7); border: 1px solid rgba(253, 230, 138, 0.5); padding: 10px 14px; border-radius: var(--r-sm); }
+    .iap-header { font-size: 13px; font-weight: 700; color: #92400e; margin-bottom: 6px; }
+    .iap-item { display: flex; justify-content: space-between; align-items: center; padding: 4px 0; border-top: 1px solid rgba(253, 230, 138, 0.3); }
+    .iap-item:first-of-type { border-top: none; }
+    .iap-name { font-size: 13px; font-weight: 500; color: #78350f; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding-right: 8px; }
+    .iap-price { font-size: 13px; font-weight: 600; white-space: nowrap; display: flex; align-items: center; gap: 4px; }
+    .iap-price s { color: #9ca3af; font-weight: 400; }
+    .iap-price .arrow { font-size: 11px; color: #d97706; }
+    .iap-price b { color: #b45309; }
+
+    /* desc */
+    .app-desc { font-size: 14px; color: #4b5563; line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+
+    /* ── 截图 ── */
+    .screenshots { display: flex; gap: 10px; justify-content: center; margin-top: 2px; }
+    .screenshot {
+      flex: 1; min-width: 0; height: 250px; object-fit: cover; border-radius: 14px;
+      border: 1px solid var(--border-light); box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+    }
+    .screenshots-mac .screenshot { height: auto; aspect-ratio: 16/10; }
+    .screenshots-icon-fallback { justify-content: center; }
+    .shot-icon {
+      flex: none !important; width: 110px !important; height: 110px !important; aspect-ratio: 1 !important; max-height: none !important;
+      border-radius: 24px !important; object-fit: cover; box-shadow: 0 8px 24px rgba(0,0,0,0.08); border: 1px solid var(--border-light);
+    }
+
+    /* ── 移动端二维码（截图下方） ── */
+    .qr-below { display: none; text-align: center; margin-top: 10px; }
+    .qr-below .qr-canvas {
+      width: 130px; height: 130px; margin: 0 auto; border-radius: 16px; overflow: hidden; padding: 6px;
+      border: 1px solid var(--border-light); background: #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+    }
+    .qr-below .qr-canvas canvas, .qr-below .qr-canvas img { display: block !important; width: 116px !important; height: 116px !important; }
+    .qr-below-tip { font-size: 12px; font-weight: 600; color: var(--primary); margin-top: 8px; }
+
+    /* ── 二维码缩略图（footer 内） ── */
+    .qr-thumb {
+      width: 42px; height: 42px; border-radius: 10px; overflow: hidden; cursor: pointer; flex-shrink: 0; position: relative; padding: 2px;
+      border: 1px solid var(--border-light); background: #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.04); transition: all 0.2s;
+    }
+    .qr-thumb:hover { border-color: var(--primary); transform: scale(1.05); box-shadow: 0 4px 12px rgba(10,132,255,.15); }
+    .qr-thumb .qr-canvas { width: 144px; height: 144px; transform: scale(0.25); transform-origin: top left; }
+    .qr-thumb .qr-canvas canvas, .qr-thumb .qr-canvas img { display: block !important; width: 144px !important; height: 144px !important; }
+
+    /* ── 二维码弹出蒙层 ── */
+    .qr-overlay {
+      position: fixed; inset: 0; background: rgba(0,0,0,.4); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+      display: flex; align-items: center; justify-content: center; z-index: 1000; animation: fadeIn .2s cubic-bezier(0.2, 0.8, 0.2, 1);
+    }
+    @keyframes fadeIn { from { opacity: 0; transform: scale(0.95); } to { opacity: 1; transform: scale(1); } }
+    .qr-overlay-content {
+      background: rgba(255,255,255,0.85); backdrop-filter: blur(24px); -webkit-backdrop-filter: blur(24px);
+      border-radius: 28px; padding: 30px; text-align: center; position: relative;
+      box-shadow: 0 24px 48px rgba(0,0,0,.15); border: 1px solid rgba(255,255,255,0.6);
+    }
+    .qr-overlay-content .qr-canvas {
+      width: 180px; height: 180px; border-radius: 16px; overflow: hidden; padding: 8px; background: #fff;
+      border: 1px solid var(--border-light); margin: 0 auto; box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+    }
+    .qr-overlay-content .qr-canvas canvas, .qr-overlay-content .qr-canvas img { display: block !important; width: 162px !important; height: 162px !important; }
+    .qr-overlay-icon {
+      position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); margin-top: -14px;
+      width: 48px; height: 48px; border-radius: 12px; border: 4px solid #fff; background: #fff;
+      box-shadow: 0 4px 12px rgba(0,0,0,.1); object-fit: cover; pointer-events: none;
+    }
+    .qr-overlay-tip { font-size: 14px; font-weight: 600; color: var(--text); margin-top: 16px; }
+
+    /* footer */
+    .card-footer { display: flex; justify-content: space-between; align-items: center; padding-top: 14px; border-top: 1px solid var(--border-light); margin-top: auto; }
+    .footer-actions { display: flex; align-items: center; gap: 12px; }
+    .update-time { font-size: 12px; font-weight: 500; color: var(--sub); }
+    .store-link { font-size: 14px; font-weight: 600; color: var(--primary); text-decoration: none; padding: 6px 14px; border-radius: 16px; background: rgba(10,132,255,0.06); transition: all 0.2s; }
+    .store-link:hover { background: rgba(10,132,255,0.12); transform: translateY(-1px); }
+
+    /* hints */
+    .price-range { font-size: 12px; font-weight: 500; color: var(--sub); padding: 4px 14px 6px; opacity: .8; }
+    .iap-hint { font-size: 12px; font-weight: 600; color: #b45309; padding: 6px 14px; background: rgba(254,243,199,.5); border-top: 1px dashed rgba(253, 230, 138, 0.6); }
+    .iap-range { font-size: 11px; font-weight: 500; color: #d97706; margin-left: 6px; opacity: .8; }
+    .artist-name { font-size: 12px; font-weight: 500; color: var(--sub); margin-top: 2px; }
+
+    /* back-to-top */
+    .back-top {
+      position: fixed; bottom: 30px; right: 30px;
+      width: 48px; height: 48px; border-radius: 24px;
+      background: var(--card-blur); color: var(--text); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+      border: 1px solid rgba(255,255,255,0.8); font-size: 20px; line-height: 1; cursor: pointer;
+      box-shadow: var(--shadow-md);
+      display: none; align-items: center; justify-content: center;
+      transition: all .3s cubic-bezier(0.2, 0.8, 0.2, 1); z-index: 100;
+    }
+    .back-top.visible { display: flex; }
+    .back-top:hover { transform: translateY(-4px); box-shadow: var(--shadow-lg); color: var(--primary); border-color: #fff; }
+
+    /* empty */
+    .empty { text-align: center; padding: 100px 20px; grid-column: 1/-1; background: var(--card-blur); backdrop-filter: blur(20px); border-radius: var(--r); box-shadow: var(--shadow-sm); border: 1px solid rgba(255,255,255,0.6); }
+    .empty-icon { font-size: 64px; margin-bottom: 20px; filter: grayscale(1); opacity: 0.5; }
+    .empty p { color: var(--sub); font-size: 18px; font-weight: 500; }
+
+    /* page footer */
+    .page-footer { text-align: center; padding: 40px 20px 60px; color: var(--sub); font-size: 13px; font-weight: 500; margin-top: 20px; }
+    .page-footer a { color: var(--primary); text-decoration: none; font-weight: 600; }
+
+    /* responsive */
+    @media (max-width: 860px) {
+      .back-bar { flex-direction: column; align-items: stretch; justify-content: flex-start; gap: 12px; }
+      .back-bar .qr-select { margin-left: 0; width: 100%; }
+      .back-bar .action-row { justify-content: space-between; width: 100%; gap: 8px;}
+      .back-bar .fb-copy { flex: 1; margin: 0; }
+    }
+    
+    @media (max-width: 768px) {
+      .grid { grid-template-columns: 1fr; gap: 16px; }
+      .header { padding: 40px 16px 50px; }
+      .h-stats { flex-wrap: wrap; justify-content: center; border-radius: 16px; }
+      .stat { padding: 10px 16px; }
+      .stat-num { font-size: 24px; }
+      .stat-label { font-size: 11px; }
+      .card { padding: 16px; }
+      .screenshots { overflow: hidden; }
+      .screenshot { min-width: 0; }
+      .qr-below { display: block; }
+      .qr-thumb { display: none; }
+      
+      .filter-bar, .back-bar { padding: 14px; border-radius: 16px; }
+      .filter-row { flex-direction: row; gap: 8px; }
+      .action-row { width: 100%; justify-content: stretch; gap: 8px; }
+      .action-row > * { flex: 1; text-align: center; }
+      .fb, .fb-featured, .fb-copy, .back-btn { padding: 10px 12px; font-size: 13px; height: 38px; }
+      .qr-select { font-size: 13px; height: 38px; }
+    }
+    
+    @media (max-width: 500px) {
+      .header { padding: 32px 12px 46px; }
+      .h-title { font-size: 26px; }
+      .h-sub { font-size: 14px; margin-bottom: 24px; }
+      .h-stats { background: rgba(255,255,255,0.7); border: none; box-shadow: 0 4px 16px rgba(0,0,0,0.05); }
+      .stat { padding: 10px 14px; border-color: rgba(0,0,0,0.04); }
+      .stat-num { font-size: 20px; }
+      .content { padding: 0 12px 40px; margin-top: -24px; }
+      
+      .filter-bar, .back-bar { padding: 12px; gap: 10px; }
+      .filter-row { align-items: stretch; }
+      .filter-row .fb { flex: 1; min-width: 30%; font-size: 12px; padding: 8px; }
+      .action-row { flex-direction: column; width: 100%; }
+      .action-row .fb-copy, .action-row .fb-featured { width: 100%; }
+      
+      /* Target the dropdown correctly on mobile */
+      .back-bar .qr-select { display: block; width: 100%; font-size: 13px; }
+      
+      .screenshot { height: 180px; }
+      .app-icon { width: 56px; height: 56px; }
+      .back-btn { width: 100%; text-align: center; }
+      .card-header { gap: 12px; }
+    }
+  
+
+    /* ── Stats specific ── */
+    .stats-day { background: var(--card); border-radius: var(--r); box-shadow: var(--shadow-sm); margin-bottom: 20px; overflow: hidden; border: 1px solid var(--border); }
+    .stats-day-header {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 1 ৬px 20px; background: linear-gradient(135deg, #f0fdf4, #dcfce7);
+      border-bottom: 1px solid #bbf7d0;
+    }
+    .stats-day-label { font-size: 16px; font-weight: 800; color: #166534; }
+    .stats-day-summary { font-size: 14px; font-weight: 600; color: #15803d; }
+
+    .stats-run { padding: 16px 20px; border-bottom: 1px solid rgba(0,0,0,0.05); }
+    .stats-run:last-child { border-bottom: none; }
+    .stats-run-header { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+    .stats-run-time { font-size: 15px; font-weight: 700; color: var(--text); }
+    .stats-run-tag {
+      font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 12px;
+      background: var(--bg); color: var(--sub); border: 1px solid var(--border);
+    }
+    .stats-run-tag.tag-price { background: #dcfce7; color: #166534; border-color: #bbf7d0; }
+    .stats-run-tag.tag-iap { background: #fef9c3; color: #854d0e; border-color: #fde68a; }
+
+    .stats-apps { display: flex; flex-direction: column; gap: 6px; }
+    .stats-app {
+      display: flex; align-items: center; gap: 10px;
+      padding: 8px 12px; border-radius: 10px; background: #f9fafb; border: 1px solid rgba(0,0,0,0.02);
+    }
+    .app-tag {
+      font-size: 11px; font-weight: 700; padding: 3px 8px; border-radius: 8px;
+      white-space: nowrap; flex-shrink: 0;
+    }
+    .app-tag-price { background: #dcfce7; color: #166534; }
+    .app-tag-iap { background: #fef9c3; color: #854d0e; }
+    .stats-app .app-name {
+      font-size: 14px; font-weight: 600; color: var(--text);
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex-shrink: 1; min-width: 0;
+    }
+    .stats-app .app-detail { font-size: 13px; font-weight: 500; color: var(--sub); white-space: nowrap; flex-shrink: 0; }
+
+    @media (max-width: 768px) {
+      .stats-day-header { flex-direction: column; align-items: flex-start; gap: 6px; }
+      .stats-app { flex-wrap: wrap; gap: 6px; }
+    }
+  </style>
+</head>
+<body>
+<header class="header stats-header">
+  <div class="hc">
+    <div class="h-icon">📊</div>
+    <h1 class="h-title">限免统计 · 近10天</h1>
+    <p class="h-sub">记录每次 Action 运行发现的限免数据</p>
+    <div class="h-stats">
+      <div class="stat"><span class="stat-num">6</span><span class="stat-label">天</span></div>
+      <div class="stat"><span class="stat-num">39</span><span class="stat-label">次运行</span></div>
+      <div class="stat"><span class="stat-num">153</span><span class="stat-label">个限免</span></div>
+    </div>
+  </div>
+</header>
+<div class="content">
+  <div class="back-bar">
+    <a href="index.html" class="back-btn">← 返回主页</a>
+  </div>
+  <div class="stats-day">
+      <div class="stats-day-header">
+        <span class="stats-day-label">3月13日</span>
+        <span class="stats-day-summary">6 次运行 · 24 个限免</span>
+      </div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">14:48</span>
+          <span class="stats-run-tag">总计 5</span>
+          <span class="stats-run-tag tag-price">本体 5</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Lumi-自拍补光灯-氛围感神器</span>
+            <span class="app-detail">¥3.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">霸刀传奇-文字挂机放置怀旧福利版</span>
+            <span class="app-detail">¥1.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">三国英雄传奇-全民主公Q萌觉醒！</span>
+            <span class="app-detail">¥1.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">御妖伏魔录-开坛斗法书写你的捉鬼传奇</span>
+            <span class="app-detail">¥1.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">佛系传奇:君王天下</span>
+            <span class="app-detail">¥1.00 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">12:13</span>
+          <span class="stats-run-tag">总计 7</span>
+          <span class="stats-run-tag tag-price">本体 4</span>
+          <span class="stats-run-tag tag-iap">内购 3</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">2Do - Todo List, Tasks & Notes</span>
+            <span class="app-detail">Email to 2Do: ¥28.00 → ¥15.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Aurader: 沉浸式听书</span>
+            <span class="app-detail">LifeTime Pro: ¥398.00 → ¥198.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">腕能 - 压力睡眠健康监测与冥想助手</span>
+            <span class="app-detail">终身会员: ¥68.00 → ¥58.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">TeFont</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Offline AI - Pisheru</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Crios: 网络IP端口扫描器</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Balloon Stack Runner</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">09:23</span>
+          <span class="stats-run-tag">总计 7</span>
+          <span class="stats-run-tag tag-price">本体 7</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">EE35 Film Camera Retro Instant</span>
+            <span class="app-detail">¥68.00 → ¥38.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">元素周期表 - 化学 2026</span>
+            <span class="app-detail">¥68.00 → ¥38.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">水平仪 HD</span>
+            <span class="app-detail">¥8.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Today - Task Manager</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">iPetReminder - Pet Care&Health</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">平息·箱式呼吸：压力·焦虑·睡眠·专注</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">RetroHabits</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">06:26</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 0</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">TuneIn Radio Pro</span>
+            <span class="app-detail">TuneIn Premium: ¥518.00 → ¥73.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">02:48</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 0</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Binance Smart Chain Explorer</span>
+            <span class="app-detail">Real-time Notifications: ¥123.00 → ¥14.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">00:59</span>
+          <span class="stats-run-tag">总计 3</span>
+          <span class="stats-run-tag tag-price">本体 2</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">TuneIn Radio Pro</span>
+            <span class="app-detail">TuneIn Premium Pro: ¥728.00 → ¥498.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">King of Digital D1: Epic Synth</span>
+            <span class="app-detail">¥68.00 → ¥58.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">婚启</span>
+            <span class="app-detail">¥8.00 → 免费</span>
+          </div></div></div></div><div class="stats-day">
+      <div class="stats-day-header">
+        <span class="stats-day-label">3月12日</span>
+        <span class="stats-day-summary">9 次运行 · 31 个限免</span>
+      </div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">22:51</span>
+          <span class="stats-run-tag">总计 4</span>
+          <span class="stats-run-tag tag-price">本体 3</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">PDF转换器 - 转换、合并和压缩PDF，打印PDF</span>
+            <span class="app-detail">PDF: ¥198.00 → ¥148.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">印影-一键为照片添加边框水印</span>
+            <span class="app-detail">¥15.00 → ¥12.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">度量衡单位换算器</span>
+            <span class="app-detail">¥8.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">相册清理大师 - 智能照片管理</span>
+            <span class="app-detail">¥22.00 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">20:47</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 1</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">小猫陪你-ADHD番茄钟</span>
+            <span class="app-detail">¥6.00 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">18:39</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 1</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">什么日历 - 农历节假日中华万年历小组件</span>
+            <span class="app-detail">¥1.00 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">16:44</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 0</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">婚启</span>
+            <span class="app-detail">永久会员: ¥59.90 → ¥29.90</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">12:13</span>
+          <span class="stats-run-tag">总计 13</span>
+          <span class="stats-run-tag tag-price">本体 12</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">PinPocK</span>
+            <span class="app-detail">¥6.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">8bit音乐大师</span>
+            <span class="app-detail">¥12.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">SongDetect 音乐识别与播放</span>
+            <span class="app-detail">¥3.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Free Tone - Calling & Texting</span>
+            <span class="app-detail">Get this phone number: ¥48.00 → ¥7.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">熊熊专注计时器：番茄钟</span>
+            <span class="app-detail">¥22.00 → ¥8.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">BlurPass: Privacy Photo Editor</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">SleepGlow - Sleep & Relax</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">MBTI性格测试-绿色版，飞速了解自己的性格</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Anuloma Viloma Timer</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">RotorFury</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Gamu Neko</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">西洋美术风象-艺术名画瀑布流</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Lighting Check</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">09:21</span>
+          <span class="stats-run-tag">总计 5</span>
+          <span class="stats-run-tag tag-price">本体 4</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Pocket Posters: AI Video AR</span>
+            <span class="app-detail">Pocket Posters Pro: ¥198.00 → ¥98.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Stable - Video Stabilizer</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">填满它吧</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">安全监控照片+视频Pro</span>
+            <span class="app-detail">¥28.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Resume Maker: CV Maker</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">06:26</span>
+          <span class="stats-run-tag">总计 2</span>
+          <span class="stats-run-tag tag-price">本体 2</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">乐谱全能音乐王一键纯净AI扒谱扒歌伴奏制作和弦检测节拍器调音</span>
+            <span class="app-detail">¥12.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Realtime Filter</span>
+            <span class="app-detail">¥8.00 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">04:38</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 1</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Lights Out: Formula Stats</span>
+            <span class="app-detail">¥22.00 → ¥15.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">00:54</span>
+          <span class="stats-run-tag">总计 3</span>
+          <span class="stats-run-tag tag-price">本体 1</span>
+          <span class="stats-run-tag tag-iap">内购 2</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">FyTube - 没有广告的 YouTube</span>
+            <span class="app-detail">¥38.00 → ¥22.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">JOY - 3DS,PSX,PSP,GBA,街机全能模拟器</span>
+            <span class="app-detail">Joy Pro Forever 早鸟特惠!: ¥48.00 → ¥28.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">SwipeClean-相册整理与随机回顾</span>
+            <span class="app-detail">永久 PRO: ¥68.00 → ¥0.00</span>
+          </div></div></div></div><div class="stats-day">
+      <div class="stats-day-header">
+        <span class="stats-day-label">3月11日</span>
+        <span class="stats-day-summary">8 次运行 · 24 个限免</span>
+      </div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">22:49</span>
+          <span class="stats-run-tag">总计 2</span>
+          <span class="stats-run-tag tag-price">本体 0</span>
+          <span class="stats-run-tag tag-iap">内购 2</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Business Speak AI: Job English</span>
+            <span class="app-detail">Business Speak Premium Lifetime: ¥1,298.00 → ¥0.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Find My Car - Car Parking</span>
+            <span class="app-detail">Find My Car Premium Monthly: ¥38.00 → ¥22.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">20:47</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 0</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Sequincer：MIDI音序器</span>
+            <span class="app-detail">Loops 特惠: ¥38.00 → ¥0.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">18:38</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 1</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">PixPhoto-证件照,高清证件照制作</span>
+            <span class="app-detail">¥3.00 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">14:47</span>
+          <span class="stats-run-tag">总计 2</span>
+          <span class="stats-run-tag tag-price">本体 1</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">LINA：艺术治疗和日记</span>
+            <span class="app-detail">LINA Premium (1 year): ¥328.00 → ¥298.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">iWriter Pro</span>
+            <span class="app-detail">¥38.00 → ¥22.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">12:09</span>
+          <span class="stats-run-tag">总计 11</span>
+          <span class="stats-run-tag tag-price">本体 11</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">战争档案</span>
+            <span class="app-detail">¥18.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Lut相机</span>
+            <span class="app-detail">¥1.50 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">祥瑞金业-黄金贵金属投资炒黄金</span>
+            <span class="app-detail">¥8.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">安全密码锁-分类管理本地隐私保护</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">InfoGraphic and Poster Creator</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">微笑相机 - 笑容检测 · 自动拍照</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Adiem</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Speed Up Video</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Hidden Camera - Spy</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">集美天气</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Teddy's Nanny</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">09:19</span>
+          <span class="stats-run-tag">总计 4</span>
+          <span class="stats-run-tag tag-price">本体 4</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Picky For Pinterest</span>
+            <span class="app-detail">¥22.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">ScheduleMe</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">虚线大食蛇</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Currency – Simple Converter</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">02:46</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 1</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Grocery Shopping List</span>
+            <span class="app-detail">¥8.00 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">00:56</span>
+          <span class="stats-run-tag">总计 2</span>
+          <span class="stats-run-tag tag-price">本体 2</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">super copy: smart keyboard</span>
+            <span class="app-detail">¥1.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Lut相机</span>
+            <span class="app-detail">¥1.80 → 免费</span>
+          </div></div></div></div><div class="stats-day">
+      <div class="stats-day-header">
+        <span class="stats-day-label">3月10日</span>
+        <span class="stats-day-summary">7 次运行 · 36 个限免</span>
+      </div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">22:49</span>
+          <span class="stats-run-tag">总计 5</span>
+          <span class="stats-run-tag tag-price">本体 3</span>
+          <span class="stats-run-tag tag-iap">内购 2</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Articulate: AI Pronunciation</span>
+            <span class="app-detail">Premium Version: ¥58.00 → ¥28.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">超强夜拍NightShot Pro – 夜间拍摄必备神器, 实时降噪</span>
+            <span class="app-detail">¥15.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">衍图 Yan - 赛博艺术照片生成</span>
+            <span class="app-detail">Weekly: ¥6.00 → ¥1.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Weather Now PRO – 天气预报</span>
+            <span class="app-detail">¥148.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">My PaintBrush Pro: 画画和照片编辑</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">18:38</span>
+          <span class="stats-run-tag">总计 5</span>
+          <span class="stats-run-tag tag-price">本体 3</span>
+          <span class="stats-run-tag tag-iap">内购 2</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">重要日子｜轻松管理重要日期</span>
+            <span class="app-detail">¥3.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">衍图 Yan - 赛博艺术照片生成</span>
+            <span class="app-detail">Lifetime: ¥88.00 → ¥38.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">WaterBaby: Hydration Tracker</span>
+            <span class="app-detail">PRO Lifetime: ¥148.00 → ¥0.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">每日植物</span>
+            <span class="app-detail">¥1.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">阅读器-轻量版</span>
+            <span class="app-detail">¥6.00 → ¥3.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">16:43</span>
+          <span class="stats-run-tag">总计 4</span>
+          <span class="stats-run-tag tag-price">本体 4</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">离线中文汉语全能字典词典 - 文典星</span>
+            <span class="app-detail">¥6.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Peep - Screen Time</span>
+            <span class="app-detail">¥15.00 → ¥8.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">领头羊GPS-经纬度定位海拔速度测量仪</span>
+            <span class="app-detail">¥8.00 → ¥1.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">每日植物</span>
+            <span class="app-detail">¥2.00 → ¥1.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">12:15</span>
+          <span class="stats-run-tag">总计 9</span>
+          <span class="stats-run-tag tag-price">本体 9</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">涨了么-向上复盘</span>
+            <span class="app-detail">¥3.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">百炼仙途-凡人修仙，逆天破境</span>
+            <span class="app-detail">¥1.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Turtle: Watch Party</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Passport Photo: ID Photo</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">SovereignAI</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">PDF Converter ℗</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">All Banks - Manage accouns</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Helix Planner</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">三事</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">09:19</span>
+          <span class="stats-run-tag">总计 10</span>
+          <span class="stats-run-tag tag-price">本体 10</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">战争档案</span>
+            <span class="app-detail">¥35.00 → ¥18.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">App Secret Pro</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">World of Juice</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Distorted Camera</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">数独学会 - 网络数独对战</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Mosaic Match</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Wiggly Bomb</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Up Slide Down</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Unzip Fast - ZIP RAR 7Z</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">KarmaSync: Health Dashboard</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">04:31</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 0</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">OffGrid : Offline Chat AI</span>
+            <span class="app-detail">Lifetime Premium Access: ¥98.00 → ¥68.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">02:53</span>
+          <span class="stats-run-tag">总计 2</span>
+          <span class="stats-run-tag tag-price">本体 2</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Mandelbrot Metal</span>
+            <span class="app-detail">¥38.00 → ¥8.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Blink - 快速备忘录 + 小组件</span>
+            <span class="app-detail">¥15.00 → ¥8.00</span>
+          </div></div></div></div><div class="stats-day">
+      <div class="stats-day-header">
+        <span class="stats-day-label">3月9日</span>
+        <span class="stats-day-summary">8 次运行 · 35 个限免</span>
+      </div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">22:49</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 1</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">超级橡皮擦Eraser Pro: 修图,智能缩放图像</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">21:45</span>
+          <span class="stats-run-tag">总计 1</span>
+          <span class="stats-run-tag tag-price">本体 1</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">24点智能识别助手（有解无解）</span>
+            <span class="app-detail">¥6.00 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">16:44</span>
+          <span class="stats-run-tag">总计 2</span>
+          <span class="stats-run-tag tag-price">本体 1</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Clap拍立得</span>
+            <span class="app-detail">¥6.00 → ¥1.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">体重小本 – 体重记录</span>
+            <span class="app-detail">Weigh-In Pro Lifetime: ¥28.00 → ¥18.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">14:58</span>
+          <span class="stats-run-tag">总计 6</span>
+          <span class="stats-run-tag tag-price">本体 4</span>
+          <span class="stats-run-tag tag-iap">内购 2</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Quit Smoking Tracker</span>
+            <span class="app-detail">¥15.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">公粮簿</span>
+            <span class="app-detail">¥3.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">不能打</span>
+            <span class="app-detail">¥8.00 → ¥3.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Kingdom Rush Frontiers 塔防史诗冒险</span>
+            <span class="app-detail">波恩哈特: ¥48.00 → ¥38.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Kingdom Rush Frontiers 塔防史诗冒险</span>
+            <span class="app-detail">沙塔尔: ¥22.00 → ¥8.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">iPixelCamera Pro - 鱼眼视频</span>
+            <span class="app-detail">¥22.00 → ¥8.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">12:18</span>
+          <span class="stats-run-tag">总计 11</span>
+          <span class="stats-run-tag tag-price">本体 11</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">解压大师Pro - zip、rar、7z 压缩解压</span>
+            <span class="app-detail">¥28.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">一饭一会 - 你的可视化美食日记</span>
+            <span class="app-detail">¥9.90 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Star录音 - 音频录制剪辑 & 录音机</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Medrea Video Compressor</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Path Journal</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Spendwise - Money Manager</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">放松缠结专业版</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Lines Knight</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Grocery Shopping List</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Gokaku: Learn JLPT N5 Words</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Wright: crack language barrier</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">09:23</span>
+          <span class="stats-run-tag">总计 7</span>
+          <span class="stats-run-tag tag-price">本体 5</span>
+          <span class="stats-run-tag tag-iap">内购 2</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">DocCompare: PDF & Word Diff</span>
+            <span class="app-detail">¥22.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">TodaysList - 您的一日生活管家</span>
+            <span class="app-detail">高级版: ¥16.00 → ¥12.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Card.Note - 多彩卡片笔记</span>
+            <span class="app-detail">Card.Note Premiun: ¥16.00 → ¥12.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">视频变声器(专业版)</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Dads4Dads</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Find X - Find the odd one</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">A4Pad</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">04:25</span>
+          <span class="stats-run-tag">总计 3</span>
+          <span class="stats-run-tag tag-price">本体 2</span>
+          <span class="stats-run-tag tag-iap">内购 1</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Vorlor</span>
+            <span class="app-detail">¥8.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Budget Hive</span>
+            <span class="app-detail">¥98.00 → ¥38.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">Emotica: AI Mood Tracker Diary</span>
+            <span class="app-detail">Emotica Pro Lifetime: ¥598.00 → ¥0.00</span>
+          </div></div></div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">00:28</span>
+          <span class="stats-run-tag">总计 4</span>
+          <span class="stats-run-tag tag-price">本体 4</span>
+          <span class="stats-run-tag tag-iap">内购 0</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">下一站江湖Ⅱ</span>
+            <span class="app-detail">¥24.00 → ¥18.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">AudioTunes - FLAC, APE, WMA Converter</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">我的画笔 MyBrushes</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">Intelligent Scissors - Remove Unwanted Object from Photo and Resize Image</span>
+            <span class="app-detail">付费 → 免费</span>
+          </div></div></div></div><div class="stats-day">
+      <div class="stats-day-header">
+        <span class="stats-day-label">3月8日</span>
+        <span class="stats-day-summary">1 次运行 · 3 个限免</span>
+      </div><div class="stats-run">
+        <div class="stats-run-header">
+          <span class="stats-run-time">22:24</span>
+          <span class="stats-run-tag">总计 3</span>
+          <span class="stats-run-tag tag-price">本体 1</span>
+          <span class="stats-run-tag tag-iap">内购 2</span>
+        </div><div class="stats-apps"><div class="stats-app">
+            <span class="app-tag app-tag-price">本体</span>
+            <span class="app-name">进化星球 - 140亿年物语</span>
+            <span class="app-detail">¥98.00 → 免费</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">腕能App - 压力睡眠健康监测与冥想助手</span>
+            <span class="app-detail">终身会员: ¥68.00 → ¥48.00</span>
+          </div><div class="stats-app">
+            <span class="app-tag app-tag-iap">内购</span>
+            <span class="app-name">实时天气Pro -国家天气预报&空气质量</span>
+            <span class="app-detail">专业天气VIP套餐: ¥68.00 → ¥38.00</span>
+          </div></div></div></div>
+</div>
+<footer class="page-footer">
+  数据来源：App Store 官方 · 每 2 小时自动更新
+</footer>
+<button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="返回顶部">↑</button>
+<script>
+  (function() {
+    var btn = document.getElementById('backTop');
+    if (!btn) return;
+    window.addEventListener('scroll', function() {
+      btn.classList.toggle('visible', window.scrollY > 400);
+    }, { passive: true });
+  })();
+</script>
+</body>
+</html>
