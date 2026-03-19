@@ -103,6 +103,9 @@
     .back-bar .qr-select { margin-left: auto; } /* Push elements to the right */
     
     .fl { font-size: 14px; font-weight: 600; color: var(--sub); flex-shrink: 0; padding-left: 4px; }
+    @media (max-width: 500px) {
+      .fl { display: none; }
+    }
     
     .fb, .qr-select, .fb-featured, .fb-copy, .back-btn {
       border: 1px solid transparent; border-radius: 20px; /* Pillow shape */
@@ -356,7 +359,7 @@
     <div class="h-icon">🎉</div>
     <div class="h-date">2026年3月20日</div>
     <h1 class="h-title">App Store 今日限免</h1>
-    <p class="h-sub">每 2 小时自动更新 · 仅显示近 24 小时发现的优惠应用</p>
+    
     <div class="h-stats">
       <div class="stat"><span class="stat-num">55</span><span class="stat-label">今日优惠</span></div>
       <div class="stat"><span class="stat-num">18</span><span class="stat-label">完全免费</span></div>

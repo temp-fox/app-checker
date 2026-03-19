@@ -103,6 +103,9 @@
     .back-bar .qr-select { margin-left: auto; } /* Push elements to the right */
     
     .fl { font-size: 14px; font-weight: 600; color: var(--sub); flex-shrink: 0; padding-left: 4px; }
+    @media (max-width: 500px) {
+      .fl { display: none; }
+    }
     
     .fb, .qr-select, .fb-featured, .fb-copy, .back-btn {
       border: 1px solid transparent; border-radius: 20px; /* Pillow shape */
@@ -391,7 +394,7 @@
   <div class="hc">
     <div class="h-icon">📊</div>
     <h1 class="h-title">限免统计趋势图</h1>
-    <p class="h-sub">记录每次爬虫运行发现的限免数据趋势，支持日期段筛选</p>
+    
     <div class="h-stats">
       <div class="stat"><span class="stat-num">10</span><span class="stat-label">天</span></div>
       <div class="stat"><span class="stat-num">78</span><span class="stat-label">次运行</span></div>
