@@ -68,7 +68,7 @@
     .h-date {
       display: inline-block; background: var(--card-blur); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
       border-radius: 24px; padding: 6px 16px; font-size: 13px; font-weight: 700; margin-bottom: 16px; 
-      border: 1px solid var(--border-light); box-shadow: 0 8px 24px rgba(40,40,50,0.30), 0 2px 6px rgba(0,0,0,0.12); text-transform: uppercase; letter-spacing: 0.5px;
+      border: 1px solid var(--border-light); box-shadow: 0 0 10px rgba(0,0,0,0.15); text-transform: uppercase; letter-spacing: 0.5px;
       color: var(--primary);
     }
     .h-title { font-size: clamp(28px, 6vw, 46px); font-weight: 800; letter-spacing: -1px; margin-bottom: 10px; line-height: 1.1; }
@@ -165,7 +165,7 @@
     .icon-link { flex-shrink: 0; }
     .app-icon {
       width: 68px; height: 68px; border-radius: 16px;
-      box-shadow: 0 4px 14px rgba(60,60,70,0.25), 0 1px 4px rgba(0,0,0,0.10); object-fit: cover; display: block;
+      box-shadow: 0 0 10px rgba(0,0,0,0.15); object-fit: cover; display: block;
       transition: transform .25s cubic-bezier(0.2, 0.8, 0.2, 1); background: #f2f2f7;
       border: 1px solid rgba(0,0,0,0.04);
     }
@@ -213,20 +213,20 @@
     .screenshots { display: flex; gap: 10px; justify-content: center; margin-top: 2px; }
     .screenshot {
       flex: 1; min-width: 0; height: 250px; object-fit: cover; border-radius: 14px;
-      border: 1px solid var(--border-light); box-shadow: 0 4px 12px rgba(0,0,0,0.18);
+      border: 1px solid var(--border-light); box-shadow: 0 0 10px rgba(0,0,0,0.15);
     }
     .screenshots-mac .screenshot { height: auto; aspect-ratio: 16/10; }
     .screenshots-icon-fallback { justify-content: center; }
     .shot-icon {
       flex: none !important; width: 110px !important; height: 110px !important; aspect-ratio: 1 !important; max-height: none !important;
-      border-radius: 24px !important; object-fit: cover; box-shadow: 0 8px 24px rgba(40,40,50,0.30), 0 2px 6px rgba(0,0,0,0.12); border: 1px solid var(--border-light);
+      border-radius: 24px !important; object-fit: cover; box-shadow: 0 0 10px rgba(0,0,0,0.15); border: 1px solid var(--border-light);
     }
 
     /* ── 移动端二维码（截图下方） ── */
     .qr-below { display: none; text-align: center; margin-top: 10px; }
     .qr-below .qr-canvas {
       width: 130px; height: 130px; margin: 0 auto; border-radius: 16px; overflow: hidden; padding: 6px;
-      border: 1px solid var(--border-light); background: #fff; box-shadow: 0 8px 24px rgba(40,40,50,0.30), 0 2px 6px rgba(0,0,0,0.12);
+      border: 1px solid var(--border-light); background: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.15);
     }
     .qr-below .qr-canvas canvas, .qr-below .qr-canvas img { display: block !important; width: 116px !important; height: 116px !important; }
     .qr-below-tip { font-size: 12px; font-weight: 600; color: var(--primary); margin-top: 8px; }
@@ -234,7 +234,7 @@
     /* ── 二维码缩略图（footer 内） ── */
     .qr-thumb {
       width: 42px; height: 42px; border-radius: 10px; overflow: hidden; cursor: pointer; flex-shrink: 0; position: relative; padding: 2px;
-      border: 1px solid var(--border-light); background: #fff; box-shadow: 0 4px 14px rgba(60,60,70,0.25), 0 1px 4px rgba(0,0,0,0.10); transition: all 0.2s;
+      border: 1px solid var(--border-light); background: #fff; box-shadow: 0 0 8px rgba(0,0,0,0.12); transition: all 0.2s;
     }
     .qr-thumb:hover { border-color: var(--primary); transform: scale(1.05); box-shadow: 0 4px 12px rgba(10,132,255,.15); }
     .qr-thumb .qr-canvas { width: 144px; height: 144px; transform: scale(0.25); transform-origin: top left; }
@@ -253,7 +253,7 @@
     }
     .qr-overlay-content .qr-canvas {
       width: 180px; height: 180px; border-radius: 16px; overflow: hidden; padding: 8px; background: #fff;
-      border: 1px solid var(--border-light); margin: 0 auto; box-shadow: 0 4px 12px rgba(0,0,0,0.20);
+      border: 1px solid var(--border-light); margin: 0 auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);
     }
     .qr-overlay-content .qr-canvas canvas, .qr-overlay-content .qr-canvas img { display: block !important; width: 162px !important; height: 162px !important; }
     .qr-overlay-icon {
@@ -361,10 +361,10 @@
     <h1 class="h-title">App Store 今日限免</h1>
     
     <div class="h-stats">
-      <div class="stat"><span class="stat-num">55</span><span class="stat-label">今日优惠</span></div>
-      <div class="stat"><span class="stat-num">18</span><span class="stat-label">完全免费</span></div>
-      <div class="stat"><span class="stat-num">7</span><span class="stat-label">内购优惠</span></div>
-      <div class="stat"><span class="stat-num">30</span><span class="stat-label">限时降价</span></div>
+      <div class="stat"><span class="stat-num">52</span><span class="stat-label">今日优惠</span></div>
+      <div class="stat"><span class="stat-num">17</span><span class="stat-label">完全免费</span></div>
+      <div class="stat"><span class="stat-num">6</span><span class="stat-label">内购优惠</span></div>
+      <div class="stat"><span class="stat-num">29</span><span class="stat-label">限时降价</span></div>
     </div>
   </div>
 </header>
@@ -372,10 +372,10 @@
   <div class="filter-bar">
     <div class="filter-row">
       <span class="fl">筛选：</span>
-      <button class="fb active" onclick="filter('all',this)">全部 (55)</button>
-      <button class="fb" onclick="filter('free',this)">完全免费 (18)</button>
-      <button class="fb" onclick="filter('iap',this)">内购优惠 (7)</button>
-      <button class="fb" onclick="filter('discount',this)">限时降价 (30)</button>
+      <button class="fb active" onclick="filter('all',this)">全部 (52)</button>
+      <button class="fb" onclick="filter('free',this)">完全免费 (17)</button>
+      <button class="fb" onclick="filter('iap',this)">内购优惠 (6)</button>
+      <button class="fb" onclick="filter('discount',this)">限时降价 (29)</button>
     </div>
     <div class="action-row">
       <button class="fb-featured" onclick="window.open('featured.html','_blank','noopener')">⭐ 今日精选</button>
@@ -3202,167 +3202,6 @@
           在 App Store 查看 →
         </a>
         <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/grocery-shopping-list/id6754260863" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/58/1d/aa581dec-2ea3-4a5c-e561-13948af60121/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/%E4%BF%A1%E5%8F%B7%E9%9B%B7%E8%BE%BE/id6759822954" data-type="free">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/%E4%BF%A1%E5%8F%B7%E9%9B%B7%E8%BE%BE/id6759822954" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/17/3d/ff173d28-fb74-da23-8cd5-2e4b04508325/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg" alt="信号雷达" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">信号雷达</h3>
-          <span class="badge badge-free">完全免费</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">工具</span>
-          <span class="source-tag" style="background:#6366f118;color:#6366f1;border:1px solid #6366f135">付费榜</span>
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch</div>
-        <div class="artist-name">海峰 程</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-free">
-          <span class="price-from">¥8.00</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">免费</span>
-        </div><div class="price-range">[免费 ~ ¥8.00]</div></div>
-
-    <p class="app-desc" data-raw="当意外来临，手机无信号、无法手动求救怎么办？信号雷达（Signal Radar）专为解决突发失联、信号中断后的求救难题而生，后台静默运行，自动检测手机信号状态，一旦信号恢复，立即自动发送预设SOS求救邮件，同时触发弹窗+震动提醒，方便用户及时了解信号恢复状态，精准传递你的位置信息与求救诉求，为救援争取宝贵时间，做你身边24小时不打烊的安全守护者。 【核心功能亮点】 ▪ 后台自动监测：无需手动启动，訊號雷達后台持续静默运行，不占用手机内存、不打扰日常使用，实时捕捉手机信号恢复瞬间，杜绝因慌乱遗漏求救时机，信号恢复后同步触发弹窗+震动提醒。 ▪ 自动发送SOS邮件：信号恢复后无需手动操作，系统自动触发邮件发送，可预设多位紧急联系人邮箱，确保求救信息多渠道送达，避免单一联系方式失效。 ▪ 精准信息传递：求救邮件自动包含手机当前定位、信号恢复时间等关键信息，帮助紧急联系人与救援人员快速锁定位置，提升救援效率，助力“精准救援”落地。 ▪ 极简设置，上手即会：无需复杂操作，首次设置仅需填写紧急联系人邮箱、预设求救话术，后续全程自动运行，老人、户外爱好者等各类人群均可轻松使用。 ▪ 低耗不卡顿：优化后台运行机制，占用极低电量与内存，不影响手机正常使用，长期开启也无需担心续航压力，时刻保持待命状态。 【适用场景】 ▪ 户外探险、徒步登山：身处偏远山区、无人区，信号中断后无需持续手动尝试，信号恢复即">当意外来临，手机无信号、无法手动求救怎么办？信号雷达（Signal Radar）专为解决突发失联、信号中断后的求救难题而生，后台静默运行，自动检测手机信号状态，一旦信号恢复，立即自动发送预设SOS求救邮件，同时触发弹窗+震动提醒，方便用户及时了解信号恢复状态，精准传递你的位置信息与求救诉求，为救援争取宝贵时间，做你身边24小时不打烊的安全守护者。 【核心功能亮点】 ▪ 后台自动监测：无需手动启动，訊號雷達后台持续静默运行，不占用手机内存、不打扰日常使用，实时捕捉手机信号恢复瞬间，杜绝因慌乱遗漏求救时机，信号恢复后同步触发弹窗+震动提醒。 ▪ 自动发送SOS邮件：信号恢复后无需手动操作，系统自动...</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/38/ae/2538aebf-a137-54c2-bec5-2b934619b7cf/resized__U5fae_U4fe1_U56fe_U7247_20260228175007_37_256__U00284_U0029.png/1242x2688bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/70/8d/cc708d66-beb3-6143-ce9d-c431af843ffb/resized__U5fae_U4fe1_U56fe_U7247_20260228175611_38_256__U00284_U0029.png/1242x2688bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E4%BF%A1%E5%8F%B7%E9%9B%B7%E8%BE%BE/id6759822954" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/17/3d/ff173d28-fb74-da23-8cd5-2e4b04508325/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">长按二维码识别下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/19 00:58</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/%E4%BF%A1%E5%8F%B7%E9%9B%B7%E8%BE%BE/id6759822954" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E4%BF%A1%E5%8F%B7%E9%9B%B7%E8%BE%BE/id6759822954" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/17/3d/ff173d28-fb74-da23-8cd5-2e4b04508325/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/%E4%BD%9C%E6%9B%B2%E6%80%9D%E7%BB%B4/id6744673208" data-type="discount">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/%E4%BD%9C%E6%9B%B2%E6%80%9D%E7%BB%B4/id6744673208" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/68/ed/a168ed91-1741-9fc8-dc26-a97dc9d5d06f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="作曲思维" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">作曲思维</h3>
-          <span class="badge badge-discount">限时降价</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">音乐</span>
-          <span class="source-tag" style="background:#6366f118;color:#6366f1;border:1px solid #6366f135">付费榜</span>
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch</div>
-        <div class="artist-name">笑一 杨</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-discount">
-          <span class="price-from">¥148.00</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">¥128.00</span>
-        </div><div class="price-range">[¥128.00 ~ ¥148.00]</div></div>
-
-    <p class="app-desc" data-raw="音集模块（Set Module）： 音集模块旨在帮助音乐伙伴们自由地探索各类和声结构与音阶素材，并发现组织音高的新方式。 为了能够让创作者在进行较复杂运算的同时，能获得直观、亲近的创作体验，应用在音集理论的基础上，在极简的UI设计下，集成了独有的限定母集、限定子集、不变量计算、音程向量限制、相似性（Z-relation, R0, R1, R2, Rp）、复合型（K与Kh）、展开、数字重组等多种模式功能，同时也包含了镜像和声、新黎曼进行图示。目标是为歌曲创作、编曲、电影音乐创作以及音乐厅作品创作提供清晰、易用的支持。 速度模块（Tempo Module）： 速度模块允许用户自定义节奏单位的范围，并设置误差容忍度，支持最多六种速度的自由切换转化的系统设计。 微分音模块（Tuning Module）： 从1/1出发，通过音分或比例自由搭建律制体系，将其映射到标准键盘，既可在 十二平均律下移调，也可按cent步进。实时聆听你的微分音音阶，随后将 .scl 和 .tun 文件一键导出到 DAW，得到12音之外无垠的宇宙。 新增欧几里得模块、Orbit模块，详尽说明近期更新！">音集模块（Set Module）： 音集模块旨在帮助音乐伙伴们自由地探索各类和声结构与音阶素材，并发现组织音高的新方式。 为了能够让创作者在进行较复杂运算的同时，能获得直观、亲近的创作体验，应用在音集理论的基础上，在极简的UI设计下，集成了独有的限定母集、限定子集、不变量计算、音程向量限制、相似性（Z-relation, R0, R1, R2, Rp）、复合型（K与Kh）、展开、数字重组等多种模式功能，同时也包含了镜像和声、新黎曼进行图示。目标是为歌曲创作、编曲、电影音乐创作以及音乐厅作品创作提供清晰、易用的支持。 速度模块（Tempo Module）： 速度模块允许用户自定义节奏单位的范围，...</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/cb/09/ddcb09a1-7594-9cce-abe5-6a350374d17d/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-06-19_at_13.51.51.png/2732x2048bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/5c/65/aa5c65c4-bff7-b688-5b04-55f6244e961a/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-06-19_at_14.17.58.png/2732x2048bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E4%BD%9C%E6%9B%B2%E6%80%9D%E7%BB%B4/id6744673208" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/68/ed/a168ed91-1741-9fc8-dc26-a97dc9d5d06f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">长按二维码识别下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/19 00:58</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/%E4%BD%9C%E6%9B%B2%E6%80%9D%E7%BB%B4/id6744673208" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E4%BD%9C%E6%9B%B2%E6%80%9D%E7%BB%B4/id6744673208" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/68/ed/a168ed91-1741-9fc8-dc26-a97dc9d5d06f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD-%E5%8E%8B%E5%8A%9B%E7%9D%A1%E7%9C%A0%E5%81%A5%E5%BA%B7%E7%9B%91%E6%B5%8B%E4%B8%8E%E5%86%A5%E6%83%B3%E5%8A%A9%E6%89%8B/id6448225070" data-type="iap">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD-%E5%8E%8B%E5%8A%9B%E7%9D%A1%E7%9C%A0%E5%81%A5%E5%BA%B7%E7%9B%91%E6%B5%8B%E4%B8%8E%E5%86%A5%E6%83%B3%E5%8A%A9%E6%89%8B/id6448225070" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/15/9e/c9159ee7-ccde-c2ad-448d-cdcde809d741/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" alt="腕能 - 压力睡眠健康监测与冥想助手" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">腕能 - 压力睡眠健康监测与冥想助手</h3>
-          <span class="badge badge-iap">内购优惠</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">健康健美</span>
-          <span class="source-tag" style="background:#6366f118;color:#6366f1;border:1px solid #6366f135">付费榜</span>
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch · ⌚Apple Watch</div>
-        <div class="artist-name">辉 王</div>
-      </div>
-    </div>
-
-    <div class="price-section iap-mode">
-        <div class="iap-header">内购优惠</div><div class="iap-item">
-            <span class="iap-name">终身会员</span>
-            <span class="iap-price"><s>¥58.00</s><span class="arrow">→</span><b>¥0.00</b> <span class="iap-range">[¥0.00 ~ ¥68.00]</span></span>
-          </div></div>
-
-    <p class="app-desc" data-raw="【东方美学与现代运动科学的完美共振】 这不是另一个冷冰冰的数据仪表盘，而是一座为您量身打造的身心修养庭院。 [腕能App] 是一款基于**心理生理学（Psychophysiology） 与 运动科学（Sports Science）**理论构建的综合健康管理工具。我们查阅了大量专业期刊文献，将复杂的生理指标转化为直观、优雅的东方美学体验，帮助您在喧嚣中找回身心的掌控感。 为什么选择我们？ 1. 今日健康：看见您的“气场” (Biofeedback Visualization) 告别枯燥的数字堆砌。我们基于 生物反馈（Biofeedback） 技术，将您的实时压力值、BMI、体能状态通过动态的“气场”动画直观呈现。 科学依据 ：研究表明，可视化的生物反馈能比单纯数字更有效地降低认知焦虑（ Frontiers in Psychology ）。 特色功能 ：结合二十四节气与农历宜忌，让您的每一天都顺应天时，科学养生。 2. 观照：长期趋势的深度洞察 (Long-term Trends) 健康不是一时的快照，而是长期的律动。我们摒弃了单一的瞬时数据，转而关注 基线（Baseline） 与 趋势（Trends） 。 压力热力图 (Stress Heatmap) ：将全天的压力分布可视化为热力图，帮助您识别生活中的“压力触发点”与“放松窗口期”。 HRV 与静息心率追踪 ：通过 SpriteKi">【东方美学与现代运动科学的完美共振】 这不是另一个冷冰冰的数据仪表盘，而是一座为您量身打造的身心修养庭院。 [腕能App] 是一款基于**心理生理学（Psychophysiology） 与 运动科学（Sports Science）**理论构建的综合健康管理工具。我们查阅了大量专业期刊文献，将复杂的生理指标转化为直观、优雅的东方美学体验，帮助您在喧嚣中找回身心的掌控感。 为什么选择我们？ 1. 今日健康：看见您的“气场” (Biofeedback Visualization) 告别枯燥的数字堆砌。我们基于 生物反馈（Biofeedback） 技术，将您的实时压力值、BMI、体能状态通过动态的“气...</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/96/5e/9e965e31-bd4e-e1ad-5318-c78ebd648cb9/df7f1a4c-46e0-438b-8b12-50f6edf95031_Shot1352210156721.png/392x696bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/30/0b/85300b34-4565-d508-e8c8-facebe81574e/3c026518-272d-47b0-8a85-30c8337fbda0_Shot1352211302877.png/392x696bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD-%E5%8E%8B%E5%8A%9B%E7%9D%A1%E7%9C%A0%E5%81%A5%E5%BA%B7%E7%9B%91%E6%B5%8B%E4%B8%8E%E5%86%A5%E6%83%B3%E5%8A%A9%E6%89%8B/id6448225070" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/15/9e/c9159ee7-ccde-c2ad-448d-cdcde809d741/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">长按二维码识别下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/19 00:58</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD-%E5%8E%8B%E5%8A%9B%E7%9D%A1%E7%9C%A0%E5%81%A5%E5%BA%B7%E7%9B%91%E6%B5%8B%E4%B8%8E%E5%86%A5%E6%83%B3%E5%8A%A9%E6%89%8B/id6448225070" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD-%E5%8E%8B%E5%8A%9B%E7%9D%A1%E7%9C%A0%E5%81%A5%E5%BA%B7%E7%9B%91%E6%B5%8B%E4%B8%8E%E5%86%A5%E6%83%B3%E5%8A%A9%E6%89%8B/id6448225070" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/15/9e/c9159ee7-ccde-c2ad-448d-cdcde809d741/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
           <div class="qr-canvas"></div>
         </div>
       </div>
