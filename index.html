@@ -68,7 +68,7 @@
     .h-date {
       display: inline-block; background: var(--card-blur); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
       border-radius: 24px; padding: 6px 16px; font-size: 13px; font-weight: 700; margin-bottom: 16px; 
-      border: 1px solid var(--border-light); box-shadow: 0 4px 12px rgba(0,0,0,0.03); text-transform: uppercase; letter-spacing: 0.5px;
+      border: 1px solid var(--border-light); box-shadow: 0 4px 12px rgba(0,0,0,0.08); text-transform: uppercase; letter-spacing: 0.5px;
       color: var(--primary);
     }
     .h-title { font-size: clamp(28px, 6vw, 46px); font-weight: 800; letter-spacing: -1px; margin-bottom: 10px; line-height: 1.1; }
@@ -165,7 +165,7 @@
     .icon-link { flex-shrink: 0; }
     .app-icon {
       width: 68px; height: 68px; border-radius: 16px;
-      box-shadow: 0 8px 24px rgba(0,0,0,.15); object-fit: cover; display: block;
+      box-shadow: 0 4px 12px rgba(0,0,0,.15); object-fit: cover; display: block;
       transition: transform .25s cubic-bezier(0.2, 0.8, 0.2, 1); background: #f2f2f7;
       border: 1px solid rgba(0,0,0,0.04);
     }
@@ -213,20 +213,20 @@
     .screenshots { display: flex; gap: 10px; justify-content: center; margin-top: 2px; }
     .screenshot {
       flex: 1; min-width: 0; height: 250px; object-fit: cover; border-radius: 14px;
-      border: 1px solid var(--border-light); box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+      border: 1px solid var(--border-light); box-shadow: 0 4px 12px rgba(0,0,0,0.08);
     }
     .screenshots-mac .screenshot { height: auto; aspect-ratio: 16/10; }
     .screenshots-icon-fallback { justify-content: center; }
     .shot-icon {
       flex: none !important; width: 110px !important; height: 110px !important; aspect-ratio: 1 !important; max-height: none !important;
-      border-radius: 24px !important; object-fit: cover; box-shadow: 0 12px 32px rgba(0,0,0,0.18); border: 1px solid var(--border-light);
+      border-radius: 24px !important; object-fit: cover; box-shadow: 0 6px 16px rgba(0,0,0,0.12); border: 1px solid var(--border-light);
     }
 
     /* ── 移动端二维码（截图下方） ── */
     .qr-below { display: none; text-align: center; margin-top: 10px; }
     .qr-below .qr-canvas {
       width: 130px; height: 130px; margin: 0 auto; border-radius: 16px; overflow: hidden; padding: 6px;
-      border: 1px solid var(--border-light); background: #fff; box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+      border: 1px solid var(--border-light); background: #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.10);
     }
     .qr-below .qr-canvas canvas, .qr-below .qr-canvas img { display: block !important; width: 116px !important; height: 116px !important; }
     .qr-below-tip { font-size: 12px; font-weight: 600; color: var(--primary); margin-top: 8px; }
@@ -234,7 +234,7 @@
     /* ── 二维码缩略图（footer 内） ── */
     .qr-thumb {
       width: 42px; height: 42px; border-radius: 10px; overflow: hidden; cursor: pointer; flex-shrink: 0; position: relative; padding: 2px;
-      border: 1px solid var(--border-light); background: #fff; box-shadow: 0 6px 16px rgba(0,0,0,0.1); transition: all 0.2s;
+      border: 1px solid var(--border-light); background: #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.10); transition: all 0.2s;
     }
     .qr-thumb:hover { border-color: var(--primary); transform: scale(1.05); box-shadow: 0 4px 12px rgba(10,132,255,.15); }
     .qr-thumb .qr-canvas { width: 144px; height: 144px; transform: scale(0.25); transform-origin: top left; }
@@ -253,7 +253,7 @@
     }
     .qr-overlay-content .qr-canvas {
       width: 180px; height: 180px; border-radius: 16px; overflow: hidden; padding: 8px; background: #fff;
-      border: 1px solid var(--border-light); margin: 0 auto; box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+      border: 1px solid var(--border-light); margin: 0 auto; box-shadow: 0 4px 12px rgba(0,0,0,0.10);
     }
     .qr-overlay-content .qr-canvas canvas, .qr-overlay-content .qr-canvas img { display: block !important; width: 162px !important; height: 162px !important; }
     .qr-overlay-icon {
