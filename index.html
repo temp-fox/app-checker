@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>App Store 今日限免 - 2026年3月19日</title>
+  <title>App Store 今日限免 - 2026年3月20日</title>
   <meta name="description" content="App Store 今日限免应用，每2小时自动更新">
   <link rel="icon" href="https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png">
   <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
@@ -16,23 +16,25 @@
       --primary-hover: #0070E0;
       --bg: #F5F5F9;
       --card: #FFFFFF;
-      --card-blur: rgba(255, 255, 255, 0.7);
+      /* Liquid Glass transparent effect */
+      --card-blur: rgba(255, 255, 255, 0.35);
       --text: #1D1D1F;
       --sub: #86868B;
-      --border: #E5E5EA;
-      --border-light: rgba(229, 229, 234, 0.5);
-      --shadow-sm: 0 4px 14px rgba(0,0,0,0.03);
-      --shadow-md: 0 8px 24px rgba(0,0,0,0.06);
-      --shadow-lg: 0 20px 48px rgba(0,0,0,0.08);
-      --r: 22px;
+      --border: rgba(255, 255, 255, 0.4);
+      --border-light: rgba(255, 255, 255, 0.25);
+      --shadow-sm: 0 8px 32px rgba(31, 38, 135, 0.07);
+      --shadow-md: 0 12px 40px rgba(31, 38, 135, 0.1);
+      --shadow-lg: 0 20px 48px rgba(31, 38, 135, 0.15);
+      --r: 24px;
       --r-sm: 12px;
     }
     body {
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", sans-serif;
-      background-color: var(--bg);
+      background-color: #f0f2f8;
       background-image: 
-        radial-gradient(circle at 15% 50%, rgba(10, 132, 255, 0.04), transparent 25%),
-        radial-gradient(circle at 85% 30%, rgba(255, 149, 0, 0.04), transparent 25%);
+        radial-gradient(circle at 15% 20%, rgba(10, 132, 255, 0.1), transparent 30%),
+        radial-gradient(circle at 85% 80%, rgba(255, 149, 0, 0.08), transparent 30%),
+        radial-gradient(circle at 50% 50%, rgba(139, 92, 246, 0.06), transparent 40%);
       background-attachment: fixed;
       color: var(--text); 
       min-height: 100vh;
@@ -137,14 +139,14 @@
 
     /* ── Card ── */
     .card {
-      background: var(--card-blur); backdrop-filter: saturate(180%) blur(20px); -webkit-backdrop-filter: saturate(180%) blur(20px);
-      border-radius: var(--r); border: 1px solid rgba(255,255,255,0.8);
+      background: var(--card-blur); backdrop-filter: saturate(180%) blur(24px); -webkit-backdrop-filter: saturate(180%) blur(24px);
+      border-radius: var(--r); border: 1px solid var(--border); border-top: 1px solid rgba(255,255,255,0.7); border-left: 1px solid rgba(255,255,255,0.7);
       box-shadow: var(--shadow-sm); padding: 20px;
       transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.3s ease;
       cursor: pointer; display: flex; flex-direction: column; gap: 14px;
       position: relative; overflow: hidden; min-width: 0;
     }
-    .card:hover { transform: translateY(-6px); box-shadow: var(--shadow-lg); border-color: rgba(255,255,255,1); }
+    .card:hover { transform: translateY(-6px); box-shadow: var(--shadow-lg); border-color: rgba(255,255,255,0.9); }
 
     .rank-badge {
       position: absolute; top: -8px; left: -8px;
@@ -352,14 +354,14 @@
 <header class="header index-header">
   <div class="hc">
     <div class="h-icon">🎉</div>
-    <div class="h-date">2026年3月19日</div>
+    <div class="h-date">2026年3月20日</div>
     <h1 class="h-title">App Store 今日限免</h1>
     <p class="h-sub">每 2 小时自动更新 · 仅显示近 24 小时发现的优惠应用</p>
     <div class="h-stats">
-      <div class="stat"><span class="stat-num">59</span><span class="stat-label">今日优惠</span></div>
-      <div class="stat"><span class="stat-num">21</span><span class="stat-label">完全免费</span></div>
+      <div class="stat"><span class="stat-num">55</span><span class="stat-label">今日优惠</span></div>
+      <div class="stat"><span class="stat-num">18</span><span class="stat-label">完全免费</span></div>
       <div class="stat"><span class="stat-num">7</span><span class="stat-label">内购优惠</span></div>
-      <div class="stat"><span class="stat-num">31</span><span class="stat-label">限时降价</span></div>
+      <div class="stat"><span class="stat-num">30</span><span class="stat-label">限时降价</span></div>
     </div>
   </div>
 </header>
@@ -367,10 +369,10 @@
   <div class="filter-bar">
     <div class="filter-row">
       <span class="fl">筛选：</span>
-      <button class="fb active" onclick="filter('all',this)">全部 (59)</button>
-      <button class="fb" onclick="filter('free',this)">完全免费 (21)</button>
+      <button class="fb active" onclick="filter('all',this)">全部 (55)</button>
+      <button class="fb" onclick="filter('free',this)">完全免费 (18)</button>
       <button class="fb" onclick="filter('iap',this)">内购优惠 (7)</button>
-      <button class="fb" onclick="filter('discount',this)">限时降价 (31)</button>
+      <button class="fb" onclick="filter('discount',this)">限时降价 (30)</button>
     </div>
     <div class="action-row">
       <button class="fb-featured" onclick="window.open('featured.html','_blank','noopener')">⭐ 今日精选</button>
@@ -3358,214 +3360,6 @@
           在 App Store 查看 →
         </a>
         <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD-%E5%8E%8B%E5%8A%9B%E7%9D%A1%E7%9C%A0%E5%81%A5%E5%BA%B7%E7%9B%91%E6%B5%8B%E4%B8%8E%E5%86%A5%E6%83%B3%E5%8A%A9%E6%89%8B/id6448225070" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/15/9e/c9159ee7-ccde-c2ad-448d-cdcde809d741/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/screen-mirroring-alfacast-x/id1500035542" data-type="free">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/screen-mirroring-alfacast-x/id1500035542" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/9d/48/da9d48c9-d64d-8f36-c8f8-7c6052d5357d/App_Icon-marketing.lsr/100x100bb.jpg" alt="Screen Mirroring - Alfacast X" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">Screen Mirroring - Alfacast X</h3>
-          <span class="badge badge-free">完全免费</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">摄影与录像</span>
-          <span class="source-tag" style="background:#f59e0b18;color:#f59e0b;border:1px solid #f59e0b35">OODATA</span>
-        </div>
-        <div class="devices">📺Apple TV</div>
-        <div class="artist-name">Roman Shpuntov</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-free">
-          <span class="price-from">¥28.00</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">免费</span>
-        </div><div class="price-range">[免费 ~ ¥28.00]</div></div>
-
-    <p class="app-desc" data-raw="在 alfacast 的扩展版本中体验出色的 4K 超高清视频质量。在观看直播时使用 alfacast 保持安全，该应用程序支持端到端加密技术。自动发现网络节点将让您享受使用该应用程序的乐趣。忘记登录、安装和设置视频广播服务器的漫长过程，对于 alfacast 来说根本没有必要。随时随地观看摄像机应用程序、相册应用程序中的内容、播放器应用程序中的流视频、展示演示文稿、幻灯片、照片或图片！ alfacast x 特点： 桌面屏幕查看器">在 alfacast 的扩展版本中体验出色的 4K 超高清视频质量。在观看直播时使用 alfacast 保持安全，该应用程序支持端到端加密技术。自动发现网络节点将让您享受使用该应用程序的乐趣。忘记登录、安装和设置视频广播服务器的漫长过程，对于 alfacast 来说根本没有必要。随时随地观看摄像机应用程序、相册应用程序中的内容、播放器应用程序中的流视频、展示演示文稿、幻灯片、照片或图片！ alfacast x 特点： 桌面屏幕查看器</p>
-
-    <div class="screenshots screenshots-icon-fallback"><img class="screenshot shot-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/9d/48/da9d48c9-d64d-8f36-c8f8-7c6052d5357d/App_Icon-marketing.lsr/512x512bb.jpg" alt="Screen Mirroring - Alfacast X" loading="lazy"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/screen-mirroring-alfacast-x/id1500035542" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/9d/48/da9d48c9-d64d-8f36-c8f8-7c6052d5357d/App_Icon-marketing.lsr/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">长按二维码识别下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/18 23:02</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/screen-mirroring-alfacast-x/id1500035542" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/screen-mirroring-alfacast-x/id1500035542" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/9d/48/da9d48c9-d64d-8f36-c8f8-7c6052d5357d/App_Icon-marketing.lsr/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/%E4%B8%AD%E8%8B%B1%E8%AF%8D%E5%85%B8/id6755187414" data-type="discount">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/%E4%B8%AD%E8%8B%B1%E8%AF%8D%E5%85%B8/id6755187414" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/c9/97/abc99750-6b9c-a8b2-2aa5-fffc41539334/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" alt="中英词典" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">中英词典</h3>
-          <span class="badge badge-discount">限时降价</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">教育</span>
-          <span class="source-tag" style="background:#6366f118;color:#6366f1;border:1px solid #6366f135">付费榜</span>
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch</div>
-        <div class="artist-name">Murat Yasin YAZDIRAN</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-discount">
-          <span class="price-from">¥15.00</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">¥8.00</span>
-        </div><div class="price-range">[¥8.00 ~ ¥15.00]</div></div>
-
-    <p class="app-desc" data-raw="包含500多个英语–中文单词。 支持英语↔中文翻译，可添加自定义单词，收藏常用词汇，随机或顺序学习。 支持深色和浅色模式，可离线使用。 功能特点： 500+ 英语–中文常用单词 英语↔中文互译 添加自定义单词 收藏夹功能 随机或顺序学习模式 深色与浅色主题 离线使用 界面简洁">包含500多个英语–中文单词。 支持英语↔中文翻译，可添加自定义单词，收藏常用词汇，随机或顺序学习。 支持深色和浅色模式，可离线使用。 功能特点： 500+ 英语–中文常用单词 英语↔中文互译 添加自定义单词 收藏夹功能 随机或顺序学习模式 深色与浅色主题 离线使用 界面简洁</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/1f/b5/1a1fb54f-4652-8924-abf5-d04ce1f0cafd/IMG_1956.png/1284x2778bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/c9/df/14c9df9f-d297-6f5c-a965-2979b913f7fa/IMG_1957.png/1284x2778bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E4%B8%AD%E8%8B%B1%E8%AF%8D%E5%85%B8/id6755187414" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/c9/97/abc99750-6b9c-a8b2-2aa5-fffc41539334/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">长按二维码识别下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/18 23:02</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/%E4%B8%AD%E8%8B%B1%E8%AF%8D%E5%85%B8/id6755187414" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E4%B8%AD%E8%8B%B1%E8%AF%8D%E5%85%B8/id6755187414" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/c9/97/abc99750-6b9c-a8b2-2aa5-fffc41539334/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/%E6%AF%94%E6%AF%94%E6%80%AA-%E5%A4%96%E5%8D%96%E6%88%AA%E5%9B%BE%E6%90%9C%E5%90%8C%E5%BA%97%E6%AF%94%E4%BB%B7/id6757590970" data-type="free">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/%E6%AF%94%E6%AF%94%E6%80%AA-%E5%A4%96%E5%8D%96%E6%88%AA%E5%9B%BE%E6%90%9C%E5%90%8C%E5%BA%97%E6%AF%94%E4%BB%B7/id6757590970" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ee/53/ecee534d-3657-e202-88f6-94cb4b576a2a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg" alt="比比怪 - 外卖截图搜同店比价" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">比比怪 - 外卖截图搜同店比价</h3>
-          <span class="badge badge-free">完全免费</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">美食佳饮</span>
-          <span class="source-tag" style="background:#6366f118;color:#6366f1;border:1px solid #6366f135">付费榜</span>
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch</div>
-        <div class="artist-name">宇 张</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-free">
-          <span class="price-from">¥6.00</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">免费</span>
-        </div><div class="price-range">[免费 ~ ¥6.00]</div></div>
-
-    <p class="app-desc" data-raw="【下单前比一下，少花冤枉钱】 比比怪 (Compy) 将你的外卖截图变成 “搜索入口”。 在美团、淘宝闪购、京东秒送之间快速搜同店，下单前先比价，价格更透明，决策更从容。 【核心功能】 ● 截图即搜： 在订单页截图，自动识别店名与关键信息。 ● 一键直达： 跳转目标平台自动搜索同店，省去手动打字烦恼。 ● 极速模式： 支持 iOS “双击背面” 快捷指令，系统级唤起比价。 【为什么选择比比怪】 覆盖广： 支持美团、淘宝闪购、京东秒送等主流平台。 速度快： 相比手动切换 App 输入店名，效率大幅提升。 重隐私： 不申请网络权限，识别在本地完成，更安心。 温馨提示：商品价格与活动会随时间和平台实时变化，比价结果仅供参考，请以最终下单页信息为准。">【下单前比一下，少花冤枉钱】 比比怪 (Compy) 将你的外卖截图变成 “搜索入口”。 在美团、淘宝闪购、京东秒送之间快速搜同店，下单前先比价，价格更透明，决策更从容。 【核心功能】 ● 截图即搜： 在订单页截图，自动识别店名与关键信息。 ● 一键直达： 跳转目标平台自动搜索同店，省去手动打字烦恼。 ● 极速模式： 支持 iOS “双击背面” 快捷指令，系统级唤起比价。 【为什么选择比比怪】 覆盖广： 支持美团、淘宝闪购、京东秒送等主流平台。 速度快： 相比手动切换 App 输入店名，效率大幅提升。 重隐私： 不申请网络权限，识别在本地完成，更安心。 温馨提示：商品价格与活动会随时间和平台实...</p>
-
-    <div class="screenshots screenshots-icon-fallback"><img class="screenshot shot-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ee/53/ecee534d-3657-e202-88f6-94cb4b576a2a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" alt="比比怪 - 外卖截图搜同店比价" loading="lazy"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E6%AF%94%E6%AF%94%E6%80%AA-%E5%A4%96%E5%8D%96%E6%88%AA%E5%9B%BE%E6%90%9C%E5%90%8C%E5%BA%97%E6%AF%94%E4%BB%B7/id6757590970" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ee/53/ecee534d-3657-e202-88f6-94cb4b576a2a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">长按二维码识别下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/18 23:02</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/%E6%AF%94%E6%AF%94%E6%80%AA-%E5%A4%96%E5%8D%96%E6%88%AA%E5%9B%BE%E6%90%9C%E5%90%8C%E5%BA%97%E6%AF%94%E4%BB%B7/id6757590970" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E6%AF%94%E6%AF%94%E6%80%AA-%E5%A4%96%E5%8D%96%E6%88%AA%E5%9B%BE%E6%90%9C%E5%90%8C%E5%BA%97%E6%AF%94%E4%BB%B7/id6757590970" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ee/53/ecee534d-3657-e202-88f6-94cb4b576a2a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0-pro/id460661291" data-type="free">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0-pro/id460661291" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/2d/f7/f42df744-038d-e065-6292-39ff60df77bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="安全笔记+ Pro" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">安全笔记+ Pro</h3>
-          <span class="badge badge-free">完全免费</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">效率</span>
-          <span class="source-tag" style="background:#f59e0b18;color:#f59e0b;border:1px solid #f59e0b35">IT之家</span>
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch</div>
-        <div class="artist-name">Eightythree Technology</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-free">
-          <span class="price-from">付费</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">免费</span>
-        </div></div>
-
-    <p class="app-desc" data-raw="介绍安全笔记+：保护您最私密的笔记 您有没有遇到过这样的情况？您把手机借给别人，他们却像自己的一样翻阅您的信息。您是否讨厌这样的事情？如果您有一些不希望其他人访问的笔记，那么您需要安全笔记+。通过这款应用，您可以快速、轻松地设置密码保护您最私密或敏感的笔记，以便只有您自己能够找到它们。 主要功能： 使用触摸ID或面容ID支持的生物识别来解锁应用程序 入侵者报告：当入侵者试图访问您的应用程序时，应用程序将捕捉其照片 伪装密码以保护您的真实隐私 对个别文件夹进行密码锁定 提供更高安全性的点图案锁定样式 密码锁定样式（组合锁、键盘锁） 可选择的时尚主题，界面易于使用 按文件夹创建和排序笔记 支持移动、复制和粘贴 支持全方位显示 通过iTunes文件共享或iCloud将笔记从iPhone备份到电脑 通过蓝牙/ Wi-Fi与安装了安全笔记+的两个iOS设备共享笔记 自动保存笔记 搜索您的笔记 发送电子邮件笔记 该应用程序适用于iPhone和iPad，您只需购买一次 凭借三种时尚且易于使用的锁定设计，您可以根据自己的喜好自定义密码样式，而不会影响安全性。现在，您可以选择使用标准的组合锁样式、键盘样式或全新的点图案样式，以便轻松访问那些私人物品。为了增加安全性，为每个单独的文件夹设置独特的密码和锁定设计。 立即下载安全笔记+，您可以确保只有您可以查看安全笔记+中的内容。 访问我们的网站： 网站：">介绍安全笔记+：保护您最私密的笔记 您有没有遇到过这样的情况？您把手机借给别人，他们却像自己的一样翻阅您的信息。您是否讨厌这样的事情？如果您有一些不希望其他人访问的笔记，那么您需要安全笔记+。通过这款应用，您可以快速、轻松地设置密码保护您最私密或敏感的笔记，以便只有您自己能够找到它们。 主要功能： 使用触摸ID或面容ID支持的生物识别来解锁应用程序 入侵者报告：当入侵者试图访问您的应用程序时，应用程序将捕捉其照片 伪装密码以保护您的真实隐私 对个别文件夹进行密码锁定 提供更高安全性的点图案锁定样式 密码锁定样式（组合锁、键盘锁） 可选择的时尚主题，界面易于使用 按文件夹创建和排序笔记 支持移动...</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0-pro/id460661291" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/2d/f7/f42df744-038d-e065-6292-39ff60df77bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">长按二维码识别下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/18 23:02</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0-pro/id460661291" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0-pro/id460661291" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/2d/f7/f42df744-038d-e065-6292-39ff60df77bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
           <div class="qr-canvas"></div>
         </div>
       </div>

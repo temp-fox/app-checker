@@ -3,9 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>限免统计 · 近10天</title>
-  <meta name="description" content="App Store 限免统计，记录近10天每次运行发现的限免数据">
+  <title>限免统计 · 趋势图表</title>
+  <meta name="description" content="App Store 限免趋势图表">
   <link rel="icon" href="https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png">
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
   <style>
     
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
@@ -15,23 +16,25 @@
       --primary-hover: #0070E0;
       --bg: #F5F5F9;
       --card: #FFFFFF;
-      --card-blur: rgba(255, 255, 255, 0.7);
+      /* Liquid Glass transparent effect */
+      --card-blur: rgba(255, 255, 255, 0.35);
       --text: #1D1D1F;
       --sub: #86868B;
-      --border: #E5E5EA;
-      --border-light: rgba(229, 229, 234, 0.5);
-      --shadow-sm: 0 4px 14px rgba(0,0,0,0.03);
-      --shadow-md: 0 8px 24px rgba(0,0,0,0.06);
-      --shadow-lg: 0 20px 48px rgba(0,0,0,0.08);
-      --r: 22px;
+      --border: rgba(255, 255, 255, 0.4);
+      --border-light: rgba(255, 255, 255, 0.25);
+      --shadow-sm: 0 8px 32px rgba(31, 38, 135, 0.07);
+      --shadow-md: 0 12px 40px rgba(31, 38, 135, 0.1);
+      --shadow-lg: 0 20px 48px rgba(31, 38, 135, 0.15);
+      --r: 24px;
       --r-sm: 12px;
     }
     body {
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", sans-serif;
-      background-color: var(--bg);
+      background-color: #f0f2f8;
       background-image: 
-        radial-gradient(circle at 15% 50%, rgba(10, 132, 255, 0.04), transparent 25%),
-        radial-gradient(circle at 85% 30%, rgba(255, 149, 0, 0.04), transparent 25%);
+        radial-gradient(circle at 15% 20%, rgba(10, 132, 255, 0.1), transparent 30%),
+        radial-gradient(circle at 85% 80%, rgba(255, 149, 0, 0.08), transparent 30%),
+        radial-gradient(circle at 50% 50%, rgba(139, 92, 246, 0.06), transparent 40%);
       background-attachment: fixed;
       color: var(--text); 
       min-height: 100vh;
@@ -136,14 +139,14 @@
 
     /* ── Card ── */
     .card {
-      background: var(--card-blur); backdrop-filter: saturate(180%) blur(20px); -webkit-backdrop-filter: saturate(180%) blur(20px);
-      border-radius: var(--r); border: 1px solid rgba(255,255,255,0.8);
+      background: var(--card-blur); backdrop-filter: saturate(180%) blur(24px); -webkit-backdrop-filter: saturate(180%) blur(24px);
+      border-radius: var(--r); border: 1px solid var(--border); border-top: 1px solid rgba(255,255,255,0.7); border-left: 1px solid rgba(255,255,255,0.7);
       box-shadow: var(--shadow-sm); padding: 20px;
       transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.3s ease;
       cursor: pointer; display: flex; flex-direction: column; gap: 14px;
       position: relative; overflow: hidden; min-width: 0;
     }
-    .card:hover { transform: translateY(-6px); box-shadow: var(--shadow-lg); border-color: rgba(255,255,255,1); }
+    .card:hover { transform: translateY(-6px); box-shadow: var(--shadow-lg); border-color: rgba(255,255,255,0.9); }
 
     .rank-badge {
       position: absolute; top: -8px; left: -8px;
@@ -347,46 +350,39 @@
   
 
     /* ── Stats specific ── */
-    .stats-day { background: var(--card); border-radius: var(--r); box-shadow: var(--shadow-sm); margin-bottom: 20px; overflow: hidden; border: 1px solid var(--border); }
-    .stats-day-header {
-      display: flex; align-items: center; justify-content: space-between;
-      padding: 1 ৬px 20px; background: linear-gradient(135deg, #f0fdf4, #dcfce7);
-      border-bottom: 1px solid #bbf7d0;
+    .controls {
+      background: var(--card-blur);
+      backdrop-filter: blur(24px); -webkit-backdrop-filter: blur(24px);
+      border-radius: var(--r-sm);
+      border: 1px solid var(--border);
+      padding: 16px; margin-bottom: 20px;
+      display: flex; gap: 16px; align-items: center; justify-content: flex-start;
+      flex-wrap: wrap; box-shadow: var(--shadow-sm);
     }
-    .stats-day-label { font-size: 16px; font-weight: 800; color: #166534; }
-    .stats-day-summary { font-size: 14px; font-weight: 600; color: #15803d; }
-
-    .stats-run { padding: 16px 20px; border-bottom: 1px solid rgba(0,0,0,0.05); }
-    .stats-run:last-child { border-bottom: none; }
-    .stats-run-header { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
-    .stats-run-time { font-size: 15px; font-weight: 700; color: var(--text); }
-    .stats-run-tag {
-      font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 12px;
-      background: var(--bg); color: var(--sub); border: 1px solid var(--border);
+    .control-group { display: flex; align-items: center; gap: 8px; }
+    .control-label { font-size: 14px; font-weight: 600; color: var(--text); }
+    .date-input {
+      padding: 8px 12px; border: 1px solid var(--border-light); border-radius: 8px;
+      font-size: 14px; outline: none; background: rgba(255,255,255,0.8);
+      color: var(--text); font-family: 'Inter', sans-serif;
     }
-    .stats-run-tag.tag-price { background: #dcfce7; color: #166534; border-color: #bbf7d0; }
-    .stats-run-tag.tag-iap { background: #fef9c3; color: #854d0e; border-color: #fde68a; }
-
-    .stats-apps { display: flex; flex-direction: column; gap: 6px; }
-    .stats-app {
-      display: flex; align-items: center; gap: 10px;
-      padding: 8px 12px; border-radius: 10px; background: #f9fafb; border: 1px solid rgba(0,0,0,0.02);
+    .date-input:focus { border-color: var(--primary); }
+    
+    .chart-container {
+      background: var(--card-blur); backdrop-filter: blur(24px); -webkit-backdrop-filter: blur(24px);
+      border-radius: var(--r); border: 1px solid var(--border);
+      box-shadow: var(--shadow-md); padding: 20px;
+      margin-bottom: 40px;
     }
-    .app-tag {
-      font-size: 11px; font-weight: 700; padding: 3px 8px; border-radius: 8px;
-      white-space: nowrap; flex-shrink: 0;
+    #statsChart {
+      width: 100%; height: 500px;
     }
-    .app-tag-price { background: #dcfce7; color: #166534; }
-    .app-tag-iap { background: #fef9c3; color: #854d0e; }
-    .stats-app .app-name {
-      font-size: 14px; font-weight: 600; color: var(--text);
-      white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex-shrink: 1; min-width: 0;
-    }
-    .stats-app .app-detail { font-size: 13px; font-weight: 500; color: var(--sub); white-space: nowrap; flex-shrink: 0; }
-
+    
     @media (max-width: 768px) {
-      .stats-day-header { flex-direction: column; align-items: flex-start; gap: 6px; }
-      .stats-app { flex-wrap: wrap; gap: 6px; }
+      .controls { flex-direction: column; align-items: stretch; }
+      .control-group { justify-content: space-between; }
+      .chart-container { padding: 10px; }
+      #statsChart { height: 400px; padding: 0; }
     }
   </style>
 </head>
@@ -394,12 +390,12 @@
 <header class="header stats-header">
   <div class="hc">
     <div class="h-icon">📊</div>
-    <h1 class="h-title">限免统计 · 近10天</h1>
-    <p class="h-sub">记录每次 Action 运行发现的限免数据</p>
+    <h1 class="h-title">限免统计趋势图</h1>
+    <p class="h-sub">记录每次爬虫运行发现的限免数据趋势，支持日期段筛选</p>
     <div class="h-stats">
       <div class="stat"><span class="stat-num">10</span><span class="stat-label">天</span></div>
       <div class="stat"><span class="stat-num">78</span><span class="stat-label">次运行</span></div>
-      <div class="stat"><span class="stat-num">363</span><span class="stat-label">个限免</span></div>
+      <div class="stat"><span class="stat-num">363</span><span class="stat-label">个限免(累计)</span></div>
     </div>
   </div>
 </header>
@@ -407,1979 +403,154 @@
   <div class="back-bar">
     <a href="index.html" class="back-btn">← 返回主页</a>
   </div>
-  <div class="stats-day">
-      <div class="stats-day-header">
-        <span class="stats-day-label">3月19日</span>
-        <span class="stats-day-summary">9 次运行 · 73 个限免</span>
-      </div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">22:54</span>
-          <span class="stats-run-tag">总计 27</span>
-          <span class="stats-run-tag tag-price">本体 22</span>
-          <span class="stats-run-tag tag-iap">内购 5</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">RunReceipt跑步小票</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">PDF转换器 - 转换、合并和压缩PDF，打印PDF</span>
-            <span class="app-detail">PDF Converter Pro: ¥148.00 → ¥68.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">LumaFusion</span>
-            <span class="app-detail">FCPXML Export: ¥148.00 → ¥89.80</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">LumaFusion</span>
-            <span class="app-detail">速度提升和关键帧: ¥148.00 → ¥89.80</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">LumaFusion</span>
-            <span class="app-detail">Multicam Studio: ¥148.00 → ¥89.80</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">去月球-To the Moon</span>
-            <span class="app-detail">¥30.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">艾希 - ICEY</span>
-            <span class="app-detail">¥18.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">末日方舟(无广告版)</span>
-            <span class="app-detail">¥30.00 → ¥18.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">恶果之地</span>
-            <span class="app-detail">¥18.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">少年的人间奇遇</span>
-            <span class="app-detail">¥18.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">露西她所期望的一切</span>
-            <span class="app-detail">¥12.00 → ¥6.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">无尽旅图</span>
-            <span class="app-detail">¥25.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">一生人脉</span>
-            <span class="app-detail">¥12.00 → ¥1.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">潜水员戴夫</span>
-            <span class="app-detail">¥30.00 → ¥24.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">挺进地牢</span>
-            <span class="app-detail">¥18.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">部落与弯刀</span>
-            <span class="app-detail">¥25.00 → ¥18.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">全面憨憨战争模拟器</span>
-            <span class="app-detail">¥18.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">大侠立志传</span>
-            <span class="app-detail">¥25.00 → ¥18.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">浮岛冒险</span>
-            <span class="app-detail">¥18.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">泰拉瑞亚</span>
-            <span class="app-detail">¥18.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">双子 Gemini</span>
-            <span class="app-detail">¥6.00 → ¥3.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">人类跌落梦境</span>
-            <span class="app-detail">¥18.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">蜡烛人</span>
-            <span class="app-detail">蜡烛人完整版: ¥30.00 → ¥18.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">画中世界</span>
-            <span class="app-detail">¥20.00 → ¥15.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">笼中窥梦</span>
-            <span class="app-detail">¥25.00 → ¥18.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">天天计算器 - 备忘录计算器</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">QR Creator Mini</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">18:49</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">生命之息-呼吸放松训练</span>
-            <span class="app-detail">¥6.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">16:52</span>
-          <span class="stats-run-tag">总计 4</span>
-          <span class="stats-run-tag tag-price">本体 3</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">趣味骰子 - 会说话的搞怪手表转盘</span>
-            <span class="app-detail">¥12.00 → ¥6.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Teleprompter AI Pro</span>
-            <span class="app-detail">Lifetime basic access plan: ¥698.00 → ¥0.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">职场浮生记</span>
-            <span class="app-detail">¥25.00 → ¥20.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">破门而入：行动小队</span>
-            <span class="app-detail">¥12.00 → ¥9.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">12:38</span>
-          <span class="stats-run-tag">总计 13</span>
-          <span class="stats-run-tag tag-price">本体 12</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">2Do - Todo List, Tasks & Notes</span>
-            <span class="app-detail">Email to 2Do: ¥28.00 → ¥15.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">BrainWave - Binaural Beats ™</span>
-            <span class="app-detail">¥48.00 → ¥38.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">为了吾王-多人联机策略跑团</span>
-            <span class="app-detail">¥18.00 → ¥15.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Inkwell Journal</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Pro Camera Photo & Video - AIR</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">TDP - Trading Day Plan</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">To do cards by Frido</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">DELTA Camera</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Live Focus</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">助记词密盒-数字资产安全存储保险箱</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Chicken Revolt</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">FlagRush: World Flags Quiz</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Radar Game</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">10:08</span>
-          <span class="stats-run-tag">总计 18</span>
-          <span class="stats-run-tag tag-price">本体 9</span>
-          <span class="stats-run-tag tag-iap">内购 9</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">我的足迹: GPS记录仪</span>
-            <span class="app-detail">¥8.00 → ¥1.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">筑梦水乡-治愈解压建造</span>
-            <span class="app-detail">¥9.00 → ¥6.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">饥饿派画家2：迷失</span>
-            <span class="app-detail">¥15.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">心灵渡船-灵魂摆渡人正版移植手游</span>
-            <span class="app-detail">¥25.00 → ¥18.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">怪物乐土</span>
-            <span class="app-detail">¥18.00 → ¥15.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">打造世界-经典沙盒建造</span>
-            <span class="app-detail">¥18.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">打造世界-经典沙盒建造</span>
-            <span class="app-detail">DLC：英雄对决: ¥8.00 → ¥6.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">打造世界-经典沙盒建造</span>
-            <span class="app-detail">DLC：怪物联盟: ¥12.00 → ¥9.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">打造世界-经典沙盒建造</span>
-            <span class="app-detail">DLC：贪婪洞窟: ¥6.00 → ¥4.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">打造世界-经典沙盒建造</span>
-            <span class="app-detail">DLC：龙之神庙: ¥9.00 → ¥7.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">打造世界-经典沙盒建造</span>
-            <span class="app-detail">DLC：外星入侵: ¥8.00 → ¥6.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">打造世界-经典沙盒建造</span>
-            <span class="app-detail">DLC：异界: ¥8.00 → ¥6.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">打造世界-经典沙盒建造</span>
-            <span class="app-detail">DLC：邪恶之心: ¥12.00 → ¥9.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">打造世界-经典沙盒建造</span>
-            <span class="app-detail">DLC：孤山世界: ¥12.00 → ¥9.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">打造世界-经典沙盒建造</span>
-            <span class="app-detail">奇境森林: ¥15.00 → ¥13.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">小时刻-时间线日记</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">3D 2048</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">早上好！</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">06:47</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">健身伙伴+：健身房锻炼</span>
-            <span class="app-detail">Premium: ¥283.00 → ¥143.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">04:53</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">实时天气雷达Pro - 降雨预报</span>
-            <span class="app-detail">¥98.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">莫比乌斯之恋</span>
-            <span class="app-detail">解锁全部内容: ¥48.00 → ¥28.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">03:12</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Grocery Shopping List</span>
-            <span class="app-detail">¥15.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">01:11</span>
-          <span class="stats-run-tag">总计 6</span>
-          <span class="stats-run-tag tag-price">本体 3</span>
-          <span class="stats-run-tag tag-iap">内购 3</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">生命之息-呼吸放松训练</span>
-            <span class="app-detail">¥18.00 → ¥6.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">信号雷达</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">作曲思维</span>
-            <span class="app-detail">¥148.00 → ¥128.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">腕能 - 压力睡眠健康监测与冥想助手</span>
-            <span class="app-detail">终身会员: ¥58.00 → ¥0.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Kingdom Rush Frontiers 塔防史诗冒险</span>
-            <span class="app-detail">波恩哈特: ¥48.00 → ¥38.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Kingdom Rush Frontiers 塔防史诗冒险</span>
-            <span class="app-detail">沙塔尔: ¥22.00 → ¥8.00</span>
-          </div></div></div></div><div class="stats-day">
-      <div class="stats-day-header">
-        <span class="stats-day-label">3月18日</span>
-        <span class="stats-day-summary">7 次运行 · 34 个限免</span>
-      </div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">23:16</span>
-          <span class="stats-run-tag">总计 5</span>
-          <span class="stats-run-tag tag-price">本体 4</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Screen Mirroring - Alfacast X</span>
-            <span class="app-detail">¥28.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Relax Melodies P: Sleep Sounds</span>
-            <span class="app-detail">订购: ¥70.00 → ¥35.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">中英词典</span>
-            <span class="app-detail">¥15.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">比比怪 - 外卖截图搜同店比价</span>
-            <span class="app-detail">¥6.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">安全笔记+ Pro</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">21:14</span>
-          <span class="stats-run-tag">总计 6</span>
-          <span class="stats-run-tag tag-price">本体 5</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">SleepGlow - Sleep & Relax</span>
-            <span class="app-detail">¥68.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">霸刀传奇-全新文字挂机高爆福利版</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Think Local: AI Private Chat</span>
-            <span class="app-detail">¥28.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">EPub 助手 - 传书、格式转换</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">血压：追踪器</span>
-            <span class="app-detail">Lifetime: ¥1,998.00 → ¥798.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">每日植物</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">18:59</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Teleprompter AI Pro</span>
-            <span class="app-detail">Lifetime basic access plan: ¥698.00 → ¥0.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">12:40</span>
-          <span class="stats-run-tag">总计 16</span>
-          <span class="stats-run-tag tag-price">本体 16</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">FilmRoll - Film Camera Recipe</span>
-            <span class="app-detail">¥22.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">IconGet</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">快扫 - 更快更全能</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Calmus Remote</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Protocol O: Document Scanner</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Upcoming Deadlines</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Marginalia: Annotate Organize</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">DiceyDice Dice Sandbox</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Relaxing Noise</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Noise for noise</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">AI Lecture Note Taker</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">MP3剪切合并大师: 极速无损剪辑mp3等音频文件</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Metronomia - Quick Metronome</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Barcoder - Barcode Generator</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Ai粤语拼音大师</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">粤语拼音大师｜ 准确标注粤拼</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">10:07</span>
-          <span class="stats-run-tag">总计 4</span>
-          <span class="stats-run-tag tag-price">本体 3</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Jinx - 极简广告拦截与隐私保护</span>
-            <span class="app-detail">Jinx永久VIP: ¥20.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">One Hit.</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Clumsy Bomb: Endless Offline</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Invoice maker : invoice app</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">06:38</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Baby Led Weaning Recipes</span>
-            <span class="app-detail">¥38.00 → ¥28.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">04:48</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Tunable – Tuner & Metronome</span>
-            <span class="app-detail">¥58.00 → ¥8.50</span>
-          </div></div></div></div><div class="stats-day">
-      <div class="stats-day-header">
-        <span class="stats-day-label">3月17日</span>
-        <span class="stats-day-summary">9 次运行 · 41 个限免</span>
-      </div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">23:01</span>
-          <span class="stats-run-tag">总计 9</span>
-          <span class="stats-run-tag tag-price">本体 9</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">PoPoem - 最纯粹的诗文创作平台</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">菜书</span>
-            <span class="app-detail">¥3.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Adblocker For YouTube Videos</span>
-            <span class="app-detail">¥22.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Neongraf - 氖灯格拉夫</span>
-            <span class="app-detail">¥22.00 → ¥15.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">萌宠餐单</span>
-            <span class="app-detail">¥15.00 → ¥1.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">墨典单词-高效学英语锁屏背单词的必备神器</span>
-            <span class="app-detail">¥30.00 → ¥6.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">TodaysList - 您的一日生活管家</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Stream Music Player</span>
-            <span class="app-detail">¥15.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Card.Note - 多彩卡片笔记</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">18:57</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Random data file generator</span>
-            <span class="app-detail">¥68.00 → ¥15.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">17:00</span>
-          <span class="stats-run-tag">总计 3</span>
-          <span class="stats-run-tag tag-price">本体 3</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">浙江省高校教师教育理论培训考试题库</span>
-            <span class="app-detail">¥58.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">灵动药盒</span>
-            <span class="app-detail">¥22.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">ZenWalker-步履生花 - 治愈系步行伴侣</span>
-            <span class="app-detail">¥15.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">15:18</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">解压大师Pro - zip、rar、7z 压缩解压</span>
-            <span class="app-detail">¥28.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">12:25</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">善恶录-好人一生平安</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">10:03</span>
-          <span class="stats-run-tag">总计 21</span>
-          <span class="stats-run-tag tag-price">本体 20</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">手表游戏:游戏大全</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Ptable-元素周期表</span>
-            <span class="app-detail">¥15.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Offline AI - Pisheru</span>
-            <span class="app-detail">¥15.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">iCleanShot - 懒人专用</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">战争档案</span>
-            <span class="app-detail">¥15.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Vorlor</span>
-            <span class="app-detail">Full version: ¥22.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">LifeProgress - Life Expectancy</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">小小计数器</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Harmonium Anywhere</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">语音备忘录日记 - 60秒</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Live Lingo - 原生隐私翻译</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">The Mutiny</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">PicMate: Collection Manager</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">FontStar for Safari</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Bridge Begin: Card Game</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Normally</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">日日新</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">8bitWar: Apokalyps</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">围堵小猫</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Lekondo</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Oft.</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">06:38</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Ex PDF 123-联动阅读器</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Binance Smart Chain Explorer</span>
-            <span class="app-detail">Real-time Notifications: ¥123.00 → ¥14.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">03:11</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">拍猫相机-猫咪拍照助手,滤镜,吸猫,猫叫指南,猫言指北</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">01:09</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 2</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">SleepGlow - Sleep & Relax</span>
-            <span class="app-detail">¥68.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">UniReader</span>
-            <span class="app-detail">¥148.00 → 免费</span>
-          </div></div></div></div><div class="stats-day">
-      <div class="stats-day-header">
-        <span class="stats-day-label">3月16日</span>
-        <span class="stats-day-summary">6 次运行 · 32 个限免</span>
-      </div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">23:05</span>
-          <span class="stats-run-tag">总计 9</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 9</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">HabitBrix: Habit Tracker</span>
-            <span class="app-detail">HabitBrix Yearly: ¥168.00 → ¥58.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">HabitBrix: Habit Tracker</span>
-            <span class="app-detail">HabitBrix Weekly: ¥22.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">FastTrack: 禁食计时器</span>
-            <span class="app-detail">Yearly: ¥168.00 → ¥58.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">FastTrack: 禁食计时器</span>
-            <span class="app-detail">Weekly: ¥22.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">PillPing: Medication Reminder</span>
-            <span class="app-detail">PillPing Yearly: ¥128.00 → ¥58.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">PillPing: Medication Reminder</span>
-            <span class="app-detail">PillPing Weekly: ¥22.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">论玄</span>
-            <span class="app-detail">尊享会员-年卡: ¥168.00 → ¥148.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">论玄</span>
-            <span class="app-detail">专业会员-季卡: ¥48.80 → ¥40.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">论玄</span>
-            <span class="app-detail">专业会员-月卡: ¥26.80 → ¥22.80</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">21:14</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">SovereignAI</span>
-            <span class="app-detail">¥38.00 → ¥15.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">19:01</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">WaterBaby: Hydration Tracker</span>
-            <span class="app-detail">PRO Lifetime: ¥148.00 → ¥8.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">15:24</span>
-          <span class="stats-run-tag">总计 6</span>
-          <span class="stats-run-tag tag-price">本体 3</span>
-          <span class="stats-run-tag tag-iap">内购 3</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">BingoDo - ADHD Friendly Todo</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">HabitBrix: Habit Tracker</span>
-            <span class="app-detail">HabitBrix Lifetime: ¥298.00 → ¥128.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">FastTrack: 禁食计时器</span>
-            <span class="app-detail">Lifetime: ¥298.00 → ¥128.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">PillPing: Medication Reminder</span>
-            <span class="app-detail">PillPing Lifetime: ¥228.00 → ¥128.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">睡觉时间+: − 睡眠周期追踪</span>
-            <span class="app-detail">¥58.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">猫咪说 - 猫语翻译器 | 猫咪测试</span>
-            <span class="app-detail">¥3.00 → ¥1.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">13:55</span>
-          <span class="stats-run-tag">总计 12</span>
-          <span class="stats-run-tag tag-price">本体 11</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">解压大师Pro - zip、rar、7z 压缩解压</span>
-            <span class="app-detail">¥28.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">开心果节拍器 - 节拍器 纯净无广告</span>
-            <span class="app-detail">¥15.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">莫比乌斯之恋</span>
-            <span class="app-detail">解锁全部内容: ¥38.00 → ¥28.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">CHM-Master</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Caffeine Tracker</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Bitcoin Halving</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">The Bitcoin Halving</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">CityPainter</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">猫力俯卧撑</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Await - Countdown Timer</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Gaze Guard</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">SUNA - Sauna Tracker</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">10:15</span>
-          <span class="stats-run-tag">总计 3</span>
-          <span class="stats-run-tag tag-price">本体 3</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">时空之歌</span>
-            <span class="app-detail">¥30.00 → ¥18.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">无处遁形：全网公敌</span>
-            <span class="app-detail">¥30.00 → ¥18.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Stacking: For Runners</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div></div><div class="stats-day">
-      <div class="stats-day-header">
-        <span class="stats-day-label">3月15日</span>
-        <span class="stats-day-summary">9 次运行 · 29 个限免</span>
-      </div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">22:38</span>
-          <span class="stats-run-tag">总计 3</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 2</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">有类相机-会分类的相机</span>
-            <span class="app-detail">年费VIP: ¥28.00 → ¥6.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">览色</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">一饭一会 - 你的可视化美食日记</span>
-            <span class="app-detail">一饭一会 周会员: ¥9.90 → ¥6.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">20:56</span>
-          <span class="stats-run-tag">总计 4</span>
-          <span class="stats-run-tag tag-price">本体 2</span>
-          <span class="stats-run-tag tag-iap">内购 2</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">QRoo</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">食音-超解压的美食白噪音软件</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Scroll the Volume</span>
-            <span class="app-detail">Lifetime: ¥298.00 → ¥98.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">TapeACall Pro: 记录通话记录</span>
-            <span class="app-detail">Pro W/Unlimited Recording: ¥598.00 → ¥38.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">18:37</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Currency – Simple Converter</span>
-            <span class="app-detail">Currency Plus: ¥38.00 → ¥22.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">16:43</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">宗师-武林风云传</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">13:34</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 2</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Accelerando: Play with motion</span>
-            <span class="app-detail">¥68.00 → ¥58.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">善恶录-好人一生平安</span>
-            <span class="app-detail">¥15.00 → ¥8.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">10:15</span>
-          <span class="stats-run-tag">总计 15</span>
-          <span class="stats-run-tag tag-price">本体 14</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">PixPhoto-证件照,高清证件照制作</span>
-            <span class="app-detail">PRO Lifetime: ¥68.00 → ¥0.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">GPS to SMS 2</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">QRwizard</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Linearama - Smart notes</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Hold It – App Block</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Sleep Well Baby. White Noise.</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Save & Buy</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Symmetrain</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Caffeinate</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Paddles! Pong edition</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Smart IPTV Live TV</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Thunder Spikes Volleyball</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Clear: To Dos & Reminders</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Skip Tunes</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">美丽绣曲线 - 趣味数学</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">04:34</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Helix Planner</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">02:44</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Teddy's Nanny</span>
-            <span class="app-detail">¥58.00 → ¥48.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">00:37</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">地磁检测</span>
-            <span class="app-detail">¥12.00 → 免费</span>
-          </div></div></div></div><div class="stats-day">
-      <div class="stats-day-header">
-        <span class="stats-day-label">3月14日</span>
-        <span class="stats-day-summary">8 次运行 · 39 个限免</span>
-      </div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">22:34</span>
-          <span class="stats-run-tag">总计 5</span>
-          <span class="stats-run-tag tag-price">本体 5</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Ptable-元素周期表</span>
-            <span class="app-detail">¥22.00 → ¥15.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">电影精灵 - 专业视频编辑和电影制作</span>
-            <span class="app-detail">¥68.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">商业画布 - 构建您自己的商业模式</span>
-            <span class="app-detail">¥22.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">语宙单词 - 四六级考研英语词汇学习</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">ROMAN: 进食计画、减肥、减脂一体化。 体重管理。</span>
-            <span class="app-detail">¥8.00 → ¥1.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">20:53</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 2</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Helix Planner</span>
-            <span class="app-detail">¥58.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">运动派蒙 Paimon - 真 AI 运动伙伴</span>
-            <span class="app-detail">¥6.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">18:32</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 2</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">战争档案</span>
-            <span class="app-detail">¥28.00 → ¥15.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Think Local: AI Private Chat</span>
-            <span class="app-detail">¥28.00 → ¥8.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">14:50</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">SnapOCR – Video Text Tool</span>
-            <span class="app-detail">¥22.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">12:20</span>
-          <span class="stats-run-tag">总计 17</span>
-          <span class="stats-run-tag tag-price">本体 17</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">公易行拼音 - 汉语拼音学习点读机</span>
-            <span class="app-detail">¥98.00 → ¥88.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">精灵扫描仪-OCR文字识别智能语音全能助手</span>
-            <span class="app-detail">¥3.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">ROMAN: 进食计画、减肥、减脂一体化。 体重管理。</span>
-            <span class="app-detail">¥58.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">ShopList simple</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">ScoreMaster 桌游计分助手</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Ragemotion</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">私隐保险箱 - 私密相册视频</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Antikythera Mechanism</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">JAX MIDI Jinny PRO</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Screen Mirroring - Alfacast X</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">静匣播放器 </span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">SpeedLauncher</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">ClipboardMenu</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">ReTitle</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">PersoPhoto</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Morris Friend</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Accelerando: Play with motion</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">10:00</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 2</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">White Noise for Everyone</span>
-            <span class="app-detail">¥15.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Sound Meter for Everyone Pro</span>
-            <span class="app-detail">¥15.00 → ¥8.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">04:43</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 2</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">腕能 - 压力睡眠健康监测与冥想助手</span>
-            <span class="app-detail">年度会员: ¥128.00 → ¥58.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">腕能 - 压力睡眠健康监测与冥想助手</span>
-            <span class="app-detail">月度会员: ¥16.00 → ¥8.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">02:46</span>
-          <span class="stats-run-tag">总计 8</span>
-          <span class="stats-run-tag tag-price">本体 4</span>
-          <span class="stats-run-tag tag-iap">内购 4</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">三事</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">战争档案</span>
-            <span class="app-detail">解锁全部时代（二战 + 19 世纪 + 俄乌）: ¥228.00 → ¥148.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">OffGrid : Offline Chat AI</span>
-            <span class="app-detail">Monthly Premium Access: ¥38.00 → ¥22.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Aurader: 沉浸式听书</span>
-            <span class="app-detail">Weekly Pro: ¥22.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Aurader: 沉浸式听书</span>
-            <span class="app-detail">Annual Pro: ¥198.00 → ¥98.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">听写文本：语音识别</span>
-            <span class="app-detail">¥15.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">指尖轮盘 - 有趣的手指转盘决定器</span>
-            <span class="app-detail">¥3.00 → ¥1.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Phone Drive Pro - 云储存管理和文件共享</span>
-            <span class="app-detail">¥28.00 → 免费</span>
-          </div></div></div></div><div class="stats-day">
-      <div class="stats-day-header">
-        <span class="stats-day-label">3月13日</span>
-        <span class="stats-day-summary">6 次运行 · 24 个限免</span>
-      </div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">14:48</span>
-          <span class="stats-run-tag">总计 5</span>
-          <span class="stats-run-tag tag-price">本体 5</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Lumi-自拍补光灯-氛围感神器</span>
-            <span class="app-detail">¥3.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">霸刀传奇-文字挂机放置怀旧福利版</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">三国英雄传奇-全民主公Q萌觉醒！</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">御妖伏魔录-开坛斗法书写你的捉鬼传奇</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">佛系传奇:君王天下</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">12:13</span>
-          <span class="stats-run-tag">总计 7</span>
-          <span class="stats-run-tag tag-price">本体 4</span>
-          <span class="stats-run-tag tag-iap">内购 3</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">2Do - Todo List, Tasks & Notes</span>
-            <span class="app-detail">Email to 2Do: ¥28.00 → ¥15.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Aurader: 沉浸式听书</span>
-            <span class="app-detail">LifeTime Pro: ¥398.00 → ¥198.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">腕能 - 压力睡眠健康监测与冥想助手</span>
-            <span class="app-detail">终身会员: ¥68.00 → ¥58.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">TeFont</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Offline AI - Pisheru</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Crios: 网络IP端口扫描器</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Balloon Stack Runner</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">09:23</span>
-          <span class="stats-run-tag">总计 7</span>
-          <span class="stats-run-tag tag-price">本体 7</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">EE35 Film Camera Retro Instant</span>
-            <span class="app-detail">¥68.00 → ¥38.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">元素周期表 - 化学 2026</span>
-            <span class="app-detail">¥68.00 → ¥38.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">水平仪 HD</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Today - Task Manager</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">iPetReminder - Pet Care&Health</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">平息·箱式呼吸：压力·焦虑·睡眠·专注</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">RetroHabits</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">06:26</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">TuneIn Radio Pro</span>
-            <span class="app-detail">TuneIn Premium: ¥518.00 → ¥73.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">02:48</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Binance Smart Chain Explorer</span>
-            <span class="app-detail">Real-time Notifications: ¥123.00 → ¥14.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">00:59</span>
-          <span class="stats-run-tag">总计 3</span>
-          <span class="stats-run-tag tag-price">本体 2</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">TuneIn Radio Pro</span>
-            <span class="app-detail">TuneIn Premium Pro: ¥728.00 → ¥498.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">King of Digital D1: Epic Synth</span>
-            <span class="app-detail">¥68.00 → ¥58.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">婚启</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div></div></div></div><div class="stats-day">
-      <div class="stats-day-header">
-        <span class="stats-day-label">3月12日</span>
-        <span class="stats-day-summary">9 次运行 · 31 个限免</span>
-      </div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">22:51</span>
-          <span class="stats-run-tag">总计 4</span>
-          <span class="stats-run-tag tag-price">本体 3</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">PDF转换器 - 转换、合并和压缩PDF，打印PDF</span>
-            <span class="app-detail">PDF: ¥198.00 → ¥148.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">印影-一键为照片添加边框水印</span>
-            <span class="app-detail">¥15.00 → ¥12.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">度量衡单位换算器</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">相册清理大师 - 智能照片管理</span>
-            <span class="app-detail">¥22.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">20:47</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">小猫陪你-ADHD番茄钟</span>
-            <span class="app-detail">¥6.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">18:39</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">什么日历 - 农历节假日中华万年历小组件</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">16:44</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">婚启</span>
-            <span class="app-detail">永久会员: ¥59.90 → ¥29.90</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">12:13</span>
-          <span class="stats-run-tag">总计 13</span>
-          <span class="stats-run-tag tag-price">本体 12</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">PinPocK</span>
-            <span class="app-detail">¥6.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">8bit音乐大师</span>
-            <span class="app-detail">¥12.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">SongDetect 音乐识别与播放</span>
-            <span class="app-detail">¥3.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Free Tone - Calling & Texting</span>
-            <span class="app-detail">Get this phone number: ¥48.00 → ¥7.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">熊熊专注计时器：番茄钟</span>
-            <span class="app-detail">¥22.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">BlurPass: Privacy Photo Editor</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">SleepGlow - Sleep & Relax</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">MBTI性格测试-绿色版，飞速了解自己的性格</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Anuloma Viloma Timer</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">RotorFury</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Gamu Neko</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">西洋美术风象-艺术名画瀑布流</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Lighting Check</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">09:21</span>
-          <span class="stats-run-tag">总计 5</span>
-          <span class="stats-run-tag tag-price">本体 4</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Pocket Posters: AI Video AR</span>
-            <span class="app-detail">Pocket Posters Pro: ¥198.00 → ¥98.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Stable - Video Stabilizer</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">填满它吧</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">安全监控照片+视频Pro</span>
-            <span class="app-detail">¥28.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Resume Maker: CV Maker</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">06:26</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 2</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">乐谱全能音乐王一键纯净AI扒谱扒歌伴奏制作和弦检测节拍器调音</span>
-            <span class="app-detail">¥12.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Realtime Filter</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">04:38</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Lights Out: Formula Stats</span>
-            <span class="app-detail">¥22.00 → ¥15.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">00:54</span>
-          <span class="stats-run-tag">总计 3</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 2</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">FyTube - 没有广告的 YouTube</span>
-            <span class="app-detail">¥38.00 → ¥22.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">JOY - 3DS,PSX,PSP,GBA,街机全能模拟器</span>
-            <span class="app-detail">Joy Pro Forever 早鸟特惠!: ¥48.00 → ¥28.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">SwipeClean-相册整理与随机回顾</span>
-            <span class="app-detail">永久 PRO: ¥68.00 → ¥0.00</span>
-          </div></div></div></div><div class="stats-day">
-      <div class="stats-day-header">
-        <span class="stats-day-label">3月11日</span>
-        <span class="stats-day-summary">8 次运行 · 24 个限免</span>
-      </div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">22:49</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 2</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Business Speak AI: Job English</span>
-            <span class="app-detail">Business Speak Premium Lifetime: ¥1,298.00 → ¥0.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Find My Car - Car Parking</span>
-            <span class="app-detail">Find My Car Premium Monthly: ¥38.00 → ¥22.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">20:47</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Sequincer：MIDI音序器</span>
-            <span class="app-detail">Loops 特惠: ¥38.00 → ¥0.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">18:38</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">PixPhoto-证件照,高清证件照制作</span>
-            <span class="app-detail">¥3.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">14:47</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">LINA：艺术治疗和日记</span>
-            <span class="app-detail">LINA Premium (1 year): ¥328.00 → ¥298.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">iWriter Pro</span>
-            <span class="app-detail">¥38.00 → ¥22.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">12:09</span>
-          <span class="stats-run-tag">总计 11</span>
-          <span class="stats-run-tag tag-price">本体 11</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">战争档案</span>
-            <span class="app-detail">¥18.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Lut相机</span>
-            <span class="app-detail">¥1.50 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">祥瑞金业-黄金贵金属投资炒黄金</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">安全密码锁-分类管理本地隐私保护</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">InfoGraphic and Poster Creator</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">微笑相机 - 笑容检测 · 自动拍照</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Adiem</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Speed Up Video</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Hidden Camera - Spy</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">集美天气</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Teddy's Nanny</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">09:19</span>
-          <span class="stats-run-tag">总计 4</span>
-          <span class="stats-run-tag tag-price">本体 4</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Picky For Pinterest</span>
-            <span class="app-detail">¥22.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">ScheduleMe</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">虚线大食蛇</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Currency – Simple Converter</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">02:46</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 1</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Grocery Shopping List</span>
-            <span class="app-detail">¥8.00 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">00:56</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 2</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">super copy: smart keyboard</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Lut相机</span>
-            <span class="app-detail">¥1.80 → 免费</span>
-          </div></div></div></div><div class="stats-day">
-      <div class="stats-day-header">
-        <span class="stats-day-label">3月10日</span>
-        <span class="stats-day-summary">7 次运行 · 36 个限免</span>
-      </div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">22:49</span>
-          <span class="stats-run-tag">总计 5</span>
-          <span class="stats-run-tag tag-price">本体 3</span>
-          <span class="stats-run-tag tag-iap">内购 2</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">Articulate: AI Pronunciation</span>
-            <span class="app-detail">Premium Version: ¥58.00 → ¥28.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">超强夜拍NightShot Pro – 夜间拍摄必备神器, 实时降噪</span>
-            <span class="app-detail">¥15.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">衍图 Yan - 赛博艺术照片生成</span>
-            <span class="app-detail">Weekly: ¥6.00 → ¥1.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Weather Now PRO – 天气预报</span>
-            <span class="app-detail">¥148.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">My PaintBrush Pro: 画画和照片编辑</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">18:38</span>
-          <span class="stats-run-tag">总计 5</span>
-          <span class="stats-run-tag tag-price">本体 3</span>
-          <span class="stats-run-tag tag-iap">内购 2</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">重要日子｜轻松管理重要日期</span>
-            <span class="app-detail">¥3.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">衍图 Yan - 赛博艺术照片生成</span>
-            <span class="app-detail">Lifetime: ¥88.00 → ¥38.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">WaterBaby: Hydration Tracker</span>
-            <span class="app-detail">PRO Lifetime: ¥148.00 → ¥0.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">每日植物</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">阅读器-轻量版</span>
-            <span class="app-detail">¥6.00 → ¥3.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">16:43</span>
-          <span class="stats-run-tag">总计 4</span>
-          <span class="stats-run-tag tag-price">本体 4</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">离线中文汉语全能字典词典 - 文典星</span>
-            <span class="app-detail">¥6.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Peep - Screen Time</span>
-            <span class="app-detail">¥15.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">领头羊GPS-经纬度定位海拔速度测量仪</span>
-            <span class="app-detail">¥8.00 → ¥1.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">每日植物</span>
-            <span class="app-detail">¥2.00 → ¥1.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">12:15</span>
-          <span class="stats-run-tag">总计 9</span>
-          <span class="stats-run-tag tag-price">本体 9</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">涨了么-向上复盘</span>
-            <span class="app-detail">¥3.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">百炼仙途-凡人修仙，逆天破境</span>
-            <span class="app-detail">¥1.00 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Turtle: Watch Party</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Passport Photo: ID Photo</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">SovereignAI</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">PDF Converter ℗</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">All Banks - Manage accouns</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Helix Planner</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">三事</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">09:19</span>
-          <span class="stats-run-tag">总计 10</span>
-          <span class="stats-run-tag tag-price">本体 10</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">战争档案</span>
-            <span class="app-detail">¥35.00 → ¥18.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">App Secret Pro</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">World of Juice</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Distorted Camera</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">数独学会 - 网络数独对战</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Mosaic Match</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Wiggly Bomb</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Up Slide Down</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Unzip Fast - ZIP RAR 7Z</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">KarmaSync: Health Dashboard</span>
-            <span class="app-detail">付费 → 免费</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">04:31</span>
-          <span class="stats-run-tag">总计 1</span>
-          <span class="stats-run-tag tag-price">本体 0</span>
-          <span class="stats-run-tag tag-iap">内购 1</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-iap">内购</span>
-            <span class="app-name">OffGrid : Offline Chat AI</span>
-            <span class="app-detail">Lifetime Premium Access: ¥98.00 → ¥68.00</span>
-          </div></div></div><div class="stats-run">
-        <div class="stats-run-header">
-          <span class="stats-run-time">02:53</span>
-          <span class="stats-run-tag">总计 2</span>
-          <span class="stats-run-tag tag-price">本体 2</span>
-          <span class="stats-run-tag tag-iap">内购 0</span>
-        </div><div class="stats-apps"><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Mandelbrot Metal</span>
-            <span class="app-detail">¥38.00 → ¥8.00</span>
-          </div><div class="stats-app">
-            <span class="app-tag app-tag-price">本体</span>
-            <span class="app-name">Blink - 快速备忘录 + 小组件</span>
-            <span class="app-detail">¥15.00 → ¥8.00</span>
-          </div></div></div></div>
+  
+  <div class="controls">
+    <div class="control-group">
+      <label class="control-label" for="startDate">开始日期</label>
+      <input type="date" id="startDate" class="date-input">
+    </div>
+    <div class="control-group">
+      <label class="control-label" for="endDate">结束日期</label>
+      <input type="date" id="endDate" class="date-input">
+    </div>
+  </div>
+
+  <div class="chart-container">
+    <div id="statsChart"></div>
+  </div>
+
 </div>
 <footer class="page-footer">
   数据来源：App Store 官方 · 每 2 小时自动更新
 </footer>
-<button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="返回顶部">↑</button>
 <script>
   (function() {
-    var btn = document.getElementById('backTop');
-    if (!btn) return;
-    window.addEventListener('scroll', function() {
-      btn.classList.toggle('visible', window.scrollY > 400);
-    }, { passive: true });
+    var rawData = [{"timestamp":1773932050502,"cn":{"total":27,"price":22,"iap":5,"apps":[{"id":6759910078,"name":"RunReceipt跑步小票","type":"price","detail":"¥8.00 → 免费"},{"id":6758571428,"name":"PDF转换器 - 转换、合并和压缩PDF，打印PDF","type":"iap","detail":"PDF Converter Pro: ¥148.00 → ¥68.00"},{"id":1062022008,"name":"LumaFusion","type":"iap","detail":"FCPXML Export: ¥148.00 → ¥89.80"},{"id":1062022008,"name":"LumaFusion","type":"iap","detail":"速度提升和关键帧: ¥148.00 → ¥89.80"},{"id":1062022008,"name":"LumaFusion","type":"iap","detail":"Multicam Studio: ¥148.00 → ¥89.80"},{"id":1159700098,"name":"去月球-To the Moon","type":"price","detail":"¥30.00 → ¥12.00"},{"id":1271620263,"name":"艾希 - ICEY","type":"price","detail":"¥18.00 → ¥12.00"},{"id":1438820350,"name":"末日方舟(无广告版)","type":"price","detail":"¥30.00 → ¥18.00"},{"id":1453808408,"name":"恶果之地","type":"price","detail":"¥18.00 → ¥12.00"},{"id":1498582245,"name":"少年的人间奇遇","type":"price","detail":"¥18.00 → ¥12.00"},{"id":1550062096,"name":"露西她所期望的一切","type":"price","detail":"¥12.00 → ¥6.00"},{"id":1670078436,"name":"无尽旅图","type":"price","detail":"¥25.00 → ¥12.00"},{"id":6756007860,"name":"一生人脉","type":"price","detail":"¥12.00 → ¥1.00"},{"id":6755228041,"name":"潜水员戴夫","type":"price","detail":"¥30.00 → ¥24.00"},{"id":6444396120,"name":"挺进地牢","type":"price","detail":"¥18.00 → ¥12.00"},{"id":1614200925,"name":"部落与弯刀","type":"price","detail":"¥25.00 → ¥18.00"},{"id":6443786927,"name":"全面憨憨战争模拟器","type":"price","detail":"¥18.00 → ¥12.00"},{"id":6502489827,"name":"大侠立志传","type":"price","detail":"¥25.00 → ¥18.00"},{"id":6499512726,"name":"浮岛冒险","type":"price","detail":"¥18.00 → ¥12.00"},{"id":1157863540,"name":"泰拉瑞亚","type":"price","detail":"¥18.00 → ¥12.00"},{"id":1159266744,"name":"双子 Gemini","type":"price","detail":"¥6.00 → ¥3.00"},{"id":1458460469,"name":"人类跌落梦境","type":"price","detail":"¥18.00 → ¥12.00"},{"id":1344655035,"name":"蜡烛人","type":"iap","detail":"蜡烛人完整版: ¥30.00 → ¥18.00"},{"id":6446614518,"name":"画中世界","type":"price","detail":"¥20.00 → ¥15.00"},{"id":1584313012,"name":"笼中窥梦","type":"price","detail":"¥25.00 → ¥18.00"},{"id":1195788077,"name":"天天计算器 - 备忘录计算器","type":"price","detail":"付费 → 免费"},{"id":1185353935,"name":"QR Creator Mini","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773917341737,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6753211831,"name":"生命之息-呼吸放松训练","type":"price","detail":"¥6.00 → 免费"}]}},{"timestamp":1773910328071,"cn":{"total":4,"price":3,"iap":1,"apps":[{"id":6760533965,"name":"趣味骰子 - 会说话的搞怪手表转盘","type":"price","detail":"¥12.00 → ¥6.00"},{"id":6502439587,"name":"Teleprompter AI Pro","type":"iap","detail":"Lifetime basic access plan: ¥698.00 → ¥0.00"},{"id":6677036432,"name":"职场浮生记","type":"price","detail":"¥25.00 → ¥20.00"},{"id":6740115177,"name":"破门而入：行动小队","type":"price","detail":"¥12.00 → ¥9.00"}]}},{"timestamp":1773895121667,"cn":{"total":13,"price":12,"iap":1,"apps":[{"id":303656546,"name":"2Do - Todo List, Tasks & Notes","type":"iap","detail":"Email to 2Do: ¥28.00 → ¥15.00"},{"id":307219387,"name":"BrainWave - Binaural Beats ™","type":"price","detail":"¥48.00 → ¥38.00"},{"id":6633427774,"name":"为了吾王-多人联机策略跑团","type":"price","detail":"¥18.00 → ¥15.00"},{"id":1447748407,"name":"Inkwell Journal","type":"price","detail":"付费 → 免费"},{"id":6755509693,"name":"Pro Camera Photo & Video - AIR","type":"price","detail":"付费 → 免费"},{"id":6757748097,"name":"TDP - Trading Day Plan","type":"price","detail":"付费 → 免费"},{"id":6746710260,"name":"To do cards by Frido","type":"price","detail":"付费 → 免费"},{"id":1283167249,"name":"DELTA Camera","type":"price","detail":"付费 → 免费"},{"id":1050917948,"name":"Live Focus","type":"price","detail":"付费 → 免费"},{"id":1635052866,"name":"助记词密盒-数字资产安全存储保险箱","type":"price","detail":"付费 → 免费"},{"id":1505092525,"name":"Chicken Revolt","type":"price","detail":"付费 → 免费"},{"id":6759735262,"name":"FlagRush: World Flags Quiz","type":"price","detail":"付费 → 免费"},{"id":1508877005,"name":"Radar Game","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773886129834,"cn":{"total":18,"price":9,"iap":9,"apps":[{"id":1464666446,"name":"我的足迹: GPS记录仪","type":"price","detail":"¥8.00 → ¥1.00"},{"id":6553988080,"name":"筑梦水乡-治愈解压建造","type":"price","detail":"¥9.00 → ¥6.00"},{"id":6742870341,"name":"饥饿派画家2：迷失","type":"price","detail":"¥15.00 → ¥12.00"},{"id":6738571698,"name":"心灵渡船-灵魂摆渡人正版移植手游","type":"price","detail":"¥25.00 → ¥18.00"},{"id":6612011484,"name":"怪物乐土","type":"price","detail":"¥18.00 → ¥15.00"},{"id":6550914957,"name":"打造世界-经典沙盒建造","type":"price","detail":"¥18.00 → ¥12.00"},{"id":6550914957,"name":"打造世界-经典沙盒建造","type":"iap","detail":"DLC：英雄对决: ¥8.00 → ¥6.00"},{"id":6550914957,"name":"打造世界-经典沙盒建造","type":"iap","detail":"DLC：怪物联盟: ¥12.00 → ¥9.00"},{"id":6550914957,"name":"打造世界-经典沙盒建造","type":"iap","detail":"DLC：贪婪洞窟: ¥6.00 → ¥4.00"},{"id":6550914957,"name":"打造世界-经典沙盒建造","type":"iap","detail":"DLC：龙之神庙: ¥9.00 → ¥7.00"},{"id":6550914957,"name":"打造世界-经典沙盒建造","type":"iap","detail":"DLC：外星入侵: ¥8.00 → ¥6.00"},{"id":6550914957,"name":"打造世界-经典沙盒建造","type":"iap","detail":"DLC：异界: ¥8.00 → ¥6.00"},{"id":6550914957,"name":"打造世界-经典沙盒建造","type":"iap","detail":"DLC：邪恶之心: ¥12.00 → ¥9.00"},{"id":6550914957,"name":"打造世界-经典沙盒建造","type":"iap","detail":"DLC：孤山世界: ¥12.00 → ¥9.00"},{"id":6550914957,"name":"打造世界-经典沙盒建造","type":"iap","detail":"奇境森林: ¥15.00 → ¥13.00"},{"id":1114389016,"name":"小时刻-时间线日记","type":"price","detail":"付费 → 免费"},{"id":6446044437,"name":"3D 2048","type":"price","detail":"付费 → 免费"},{"id":1205068010,"name":"早上好！","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773874031896,"cn":{"total":1,"price":0,"iap":1,"apps":[{"id":443646748,"name":"健身伙伴+：健身房锻炼","type":"iap","detail":"Premium: ¥283.00 → ¥143.00"}]}},{"timestamp":1773867230161,"cn":{"total":2,"price":1,"iap":1,"apps":[{"id":488674899,"name":"实时天气雷达Pro - 降雨预报","type":"price","detail":"¥98.00 → 免费"},{"id":6752695482,"name":"莫比乌斯之恋","type":"iap","detail":"解锁全部内容: ¥48.00 → ¥28.00"}]}},{"timestamp":1773861146492,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6754260863,"name":"Grocery Shopping List","type":"price","detail":"¥15.00 → 免费"}]}},{"timestamp":1773853867502,"cn":{"total":6,"price":3,"iap":3,"apps":[{"id":6753211831,"name":"生命之息-呼吸放松训练","type":"price","detail":"¥18.00 → ¥6.00"},{"id":6759822954,"name":"信号雷达","type":"price","detail":"¥8.00 → 免费"},{"id":6744673208,"name":"作曲思维","type":"price","detail":"¥148.00 → ¥128.00"},{"id":6448225070,"name":"腕能 - 压力睡眠健康监测与冥想助手","type":"iap","detail":"终身会员: ¥58.00 → ¥0.00"},{"id":598581396,"name":"Kingdom Rush Frontiers 塔防史诗冒险","type":"iap","detail":"波恩哈特: ¥48.00 → ¥38.00"},{"id":598581396,"name":"Kingdom Rush Frontiers 塔防史诗冒险","type":"iap","detail":"沙塔尔: ¥22.00 → ¥8.00"}]}},{"timestamp":1773847009076,"cn":{"total":5,"price":4,"iap":1,"apps":[{"id":1500035542,"name":"Screen Mirroring - Alfacast X","type":"price","detail":"¥28.00 → 免费"},{"id":331529422,"name":"Relax Melodies P: Sleep Sounds","type":"iap","detail":"订购: ¥70.00 → ¥35.00"},{"id":6755187414,"name":"中英词典","type":"price","detail":"¥15.00 → ¥8.00"},{"id":6757590970,"name":"比比怪 - 外卖截图搜同店比价","type":"price","detail":"¥6.00 → 免费"},{"id":460661291,"name":"安全笔记+ Pro","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773839672819,"cn":{"total":6,"price":5,"iap":1,"apps":[{"id":6758992994,"name":"SleepGlow - Sleep & Relax","type":"price","detail":"¥68.00 → 免费"},{"id":6758197131,"name":"霸刀传奇-全新文字挂机高爆福利版","type":"price","detail":"¥1.00 → 免费"},{"id":6758632782,"name":"Think Local: AI Private Chat","type":"price","detail":"¥28.00 → ¥8.00"},{"id":6759946014,"name":"EPub 助手 - 传书、格式转换","type":"price","detail":"¥1.00 → 免费"},{"id":6502426413,"name":"血压：追踪器","type":"iap","detail":"Lifetime: ¥1,998.00 → ¥798.00"},{"id":6749935288,"name":"每日植物","type":"price","detail":"¥1.00 → 免费"}]}},{"timestamp":1773831577768,"cn":{"total":1,"price":0,"iap":1,"apps":[{"id":6502439587,"name":"Teleprompter AI Pro","type":"iap","detail":"Lifetime basic access plan: ¥698.00 → ¥0.00"}]}},{"timestamp":1773808842574,"cn":{"total":16,"price":16,"iap":0,"apps":[{"id":6737540969,"name":"FilmRoll - Film Camera Recipe","type":"price","detail":"¥22.00 → 免费"},{"id":6745116041,"name":"IconGet","type":"price","detail":"付费 → 免费"},{"id":6736847099,"name":"快扫 - 更快更全能","type":"price","detail":"付费 → 免费"},{"id":1357955372,"name":"Calmus Remote","type":"price","detail":"付费 → 免费"},{"id":6468364673,"name":"Protocol O: Document Scanner","type":"price","detail":"付费 → 免费"},{"id":6447928276,"name":"Upcoming Deadlines","type":"price","detail":"付费 → 免费"},{"id":6758641325,"name":"Marginalia: Annotate Organize","type":"price","detail":"付费 → 免费"},{"id":6464077724,"name":"DiceyDice Dice Sandbox","type":"price","detail":"付费 → 免费"},{"id":1567872901,"name":"Relaxing Noise","type":"price","detail":"付费 → 免费"},{"id":1569982799,"name":"Noise for noise","type":"price","detail":"付费 → 免费"},{"id":1624460253,"name":"AI Lecture Note Taker","type":"price","detail":"付费 → 免费"},{"id":989083059,"name":"MP3剪切合并大师: 极速无损剪辑mp3等音频文件","type":"price","detail":"付费 → 免费"},{"id":1492177661,"name":"Metronomia - Quick Metronome","type":"price","detail":"付费 → 免费"},{"id":994610360,"name":"Barcoder - Barcode Generator","type":"price","detail":"付费 → 免费"},{"id":6760236378,"name":"Ai粤语拼音大师","type":"price","detail":"付费 → 免费"},{"id":6757694004,"name":"粤语拼音大师｜ 准确标注粤拼","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773799672317,"cn":{"total":4,"price":3,"iap":1,"apps":[{"id":6755475735,"name":"Jinx - 极简广告拦截与隐私保护","type":"iap","detail":"Jinx永久VIP: ¥20.00 → ¥12.00"},{"id":1450743822,"name":"One Hit.","type":"price","detail":"付费 → 免费"},{"id":1621319922,"name":"Clumsy Bomb: Endless Offline","type":"price","detail":"付费 → 免费"},{"id":6740463259,"name":"Invoice maker : invoice app","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773787122158,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":1114320457,"name":"Baby Led Weaning Recipes","type":"price","detail":"¥38.00 → ¥28.00"}]}},{"timestamp":1773780499796,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":608540795,"name":"Tunable – Tuner & Metronome","type":"price","detail":"¥58.00 → ¥8.50"}]}},{"timestamp":1773759693349,"cn":{"total":9,"price":9,"iap":0,"apps":[{"id":1363152302,"name":"PoPoem - 最纯粹的诗文创作平台","type":"price","detail":"¥1.00 → 免费"},{"id":6758020377,"name":"菜书","type":"price","detail":"¥3.00 → 免费"},{"id":1621531549,"name":"Adblocker For YouTube Videos","type":"price","detail":"¥22.00 → 免费"},{"id":1479572902,"name":"Neongraf - 氖灯格拉夫","type":"price","detail":"¥22.00 → ¥15.00"},{"id":6757535616,"name":"萌宠餐单","type":"price","detail":"¥15.00 → ¥1.00"},{"id":1373544809,"name":"墨典单词-高效学英语锁屏背单词的必备神器","type":"price","detail":"¥30.00 → ¥6.00"},{"id":1534869072,"name":"TodaysList - 您的一日生活管家","type":"price","detail":"¥1.00 → 免费"},{"id":1065802380,"name":"Stream Music Player","type":"price","detail":"¥15.00 → 免费"},{"id":1400032769,"name":"Card.Note - 多彩卡片笔记","type":"price","detail":"¥1.00 → 免费"}]}},{"timestamp":1773745056032,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6478828510,"name":"Random data file generator","type":"price","detail":"¥68.00 → ¥15.00"}]}},{"timestamp":1773738028865,"cn":{"total":3,"price":3,"iap":0,"apps":[{"id":1227367086,"name":"浙江省高校教师教育理论培训考试题库","type":"price","detail":"¥58.00 → 免费"},{"id":6756868955,"name":"灵动药盒","type":"price","detail":"¥22.00 → 免费"},{"id":6757518749,"name":"ZenWalker-步履生花 - 治愈系步行伴侣","type":"price","detail":"¥15.00 → 免费"}]}},{"timestamp":1773731916957,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":1501798473,"name":"解压大师Pro - zip、rar、7z 压缩解压","type":"price","detail":"¥28.00 → 免费"}]}},{"timestamp":1773721556227,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6760123046,"name":"善恶录-好人一生平安","type":"price","detail":"¥8.00 → 免费"}]}},{"timestamp":1773713035434,"cn":{"total":21,"price":20,"iap":1,"apps":[{"id":6745447086,"name":"手表游戏:游戏大全","type":"price","detail":"¥8.00 → 免费"},{"id":6760158538,"name":"Ptable-元素周期表","type":"price","detail":"¥15.00 → ¥8.00"},{"id":6752916073,"name":"Offline AI - Pisheru","type":"price","detail":"¥15.00 → 免费"},{"id":6756064954,"name":"iCleanShot - 懒人专用","type":"price","detail":"¥1.00 → 免费"},{"id":6759263235,"name":"战争档案","type":"price","detail":"¥15.00 → 免费"},{"id":6758899839,"name":"Vorlor","type":"iap","detail":"Full version: ¥22.00 → ¥8.00"},{"id":1447212549,"name":"LifeProgress - Life Expectancy","type":"price","detail":"付费 → 免费"},{"id":6746063227,"name":"小小计数器","type":"price","detail":"付费 → 免费"},{"id":1115016614,"name":"Harmonium Anywhere","type":"price","detail":"付费 → 免费"},{"id":6759174302,"name":"语音备忘录日记 - 60秒","type":"price","detail":"付费 → 免费"},{"id":6758243435,"name":"Live Lingo - 原生隐私翻译","type":"price","detail":"付费 → 免费"},{"id":1524415528,"name":"The Mutiny","type":"price","detail":"付费 → 免费"},{"id":6468482998,"name":"PicMate: Collection Manager","type":"price","detail":"付费 → 免费"},{"id":6751470918,"name":"FontStar for Safari","type":"price","detail":"付费 → 免费"},{"id":1241733213,"name":"Bridge Begin: Card Game","type":"price","detail":"付费 → 免费"},{"id":6759253570,"name":"Normally","type":"price","detail":"付费 → 免费"},{"id":1125898114,"name":"日日新","type":"price","detail":"付费 → 免费"},{"id":937788787,"name":"8bitWar: Apokalyps","type":"price","detail":"付费 → 免费"},{"id":1610256963,"name":"围堵小猫","type":"price","detail":"付费 → 免费"},{"id":6755449231,"name":"Lekondo","type":"price","detail":"付费 → 免费"},{"id":6760247891,"name":"Oft.","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773700726319,"cn":{"total":2,"price":1,"iap":1,"apps":[{"id":1472869683,"name":"Ex PDF 123-联动阅读器","type":"price","detail":"¥8.00 → 免费"},{"id":1572877652,"name":"Binance Smart Chain Explorer","type":"iap","detail":"Real-time Notifications: ¥123.00 → ¥14.00"}]}},{"timestamp":1773688277311,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6759347583,"name":"拍猫相机-猫咪拍照助手,滤镜,吸猫,猫叫指南,猫言指北","type":"price","detail":"¥1.00 → 免费"}]}},{"timestamp":1773680988116,"cn":{"total":2,"price":2,"iap":0,"apps":[{"id":6758992994,"name":"SleepGlow - Sleep & Relax","type":"price","detail":"¥68.00 → 免费"},{"id":6759504986,"name":"UniReader","type":"price","detail":"¥148.00 → 免费"}]}},{"timestamp":1773673527921,"cn":{"total":9,"price":0,"iap":9,"apps":[{"id":6759487422,"name":"HabitBrix: Habit Tracker","type":"iap","detail":"HabitBrix Yearly: ¥168.00 → ¥58.00"},{"id":6759487422,"name":"HabitBrix: Habit Tracker","type":"iap","detail":"HabitBrix Weekly: ¥22.00 → ¥8.00"},{"id":6759444553,"name":"FastTrack: 禁食计时器","type":"iap","detail":"Yearly: ¥168.00 → ¥58.00"},{"id":6759444553,"name":"FastTrack: 禁食计时器","type":"iap","detail":"Weekly: ¥22.00 → ¥8.00"},{"id":6759600027,"name":"PillPing: Medication Reminder","type":"iap","detail":"PillPing Yearly: ¥128.00 → ¥58.00"},{"id":6759600027,"name":"PillPing: Medication Reminder","type":"iap","detail":"PillPing Weekly: ¥22.00 → ¥8.00"},{"id":6740080425,"name":"论玄","type":"iap","detail":"尊享会员-年卡: ¥168.00 → ¥148.00"},{"id":6740080425,"name":"论玄","type":"iap","detail":"专业会员-季卡: ¥48.80 → ¥40.00"},{"id":6740080425,"name":"论玄","type":"iap","detail":"专业会员-月卡: ¥26.80 → ¥22.80"}]}},{"timestamp":1773666870152,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6758922462,"name":"SovereignAI","type":"price","detail":"¥38.00 → ¥15.00"}]}},{"timestamp":1773658882188,"cn":{"total":1,"price":0,"iap":1,"apps":[{"id":6758539000,"name":"WaterBaby: Hydration Tracker","type":"iap","detail":"PRO Lifetime: ¥148.00 → ¥8.00"}]}},{"timestamp":1773645893355,"cn":{"total":6,"price":3,"iap":3,"apps":[{"id":6760214285,"name":"BingoDo - ADHD Friendly Todo","type":"price","detail":"¥1.00 → 免费"},{"id":6759487422,"name":"HabitBrix: Habit Tracker","type":"iap","detail":"HabitBrix Lifetime: ¥298.00 → ¥128.00"},{"id":6759444553,"name":"FastTrack: 禁食计时器","type":"iap","detail":"Lifetime: ¥298.00 → ¥128.00"},{"id":6759600027,"name":"PillPing: Medication Reminder","type":"iap","detail":"PillPing Lifetime: ¥228.00 → ¥128.00"},{"id":498360026,"name":"睡觉时间+: − 睡眠周期追踪","type":"price","detail":"¥58.00 → 免费"},{"id":6759597741,"name":"猫咪说 - 猫语翻译器 | 猫咪测试","type":"price","detail":"¥3.00 → ¥1.00"}]}},{"timestamp":1773640524757,"cn":{"total":12,"price":11,"iap":1,"apps":[{"id":1501798473,"name":"解压大师Pro - zip、rar、7z 压缩解压","type":"price","detail":"¥28.00 → 免费"},{"id":1538268059,"name":"开心果节拍器 - 节拍器 纯净无广告","type":"price","detail":"¥15.00 → ¥8.00"},{"id":6752695482,"name":"莫比乌斯之恋","type":"iap","detail":"解锁全部内容: ¥38.00 → ¥28.00"},{"id":6744491327,"name":"CHM-Master","type":"price","detail":"¥1.00 → 免费"},{"id":6759215724,"name":"Caffeine Tracker","type":"price","detail":"付费 → 免费"},{"id":6466124466,"name":"Bitcoin Halving","type":"price","detail":"付费 → 免费"},{"id":6475981256,"name":"The Bitcoin Halving","type":"price","detail":"付费 → 免费"},{"id":1489035444,"name":"CityPainter","type":"price","detail":"付费 → 免费"},{"id":6751374998,"name":"猫力俯卧撑","type":"price","detail":"付费 → 免费"},{"id":6756353576,"name":"Await - Countdown Timer","type":"price","detail":"付费 → 免费"},{"id":6758575687,"name":"Gaze Guard","type":"price","detail":"付费 → 免费"},{"id":6758952338,"name":"SUNA - Sauna Tracker","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773627331068,"cn":{"total":3,"price":3,"iap":0,"apps":[{"id":6737413553,"name":"时空之歌","type":"price","detail":"¥30.00 → ¥18.00"},{"id":1644917705,"name":"无处遁形：全网公敌","type":"price","detail":"¥30.00 → ¥18.00"},{"id":6744961269,"name":"Stacking: For Runners","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773585536248,"cn":{"total":3,"price":1,"iap":2,"apps":[{"id":6743779432,"name":"有类相机-会分类的相机","type":"iap","detail":"年费VIP: ¥28.00 → ¥6.00"},{"id":1080129732,"name":"览色","type":"price","detail":"¥8.00 → 免费"},{"id":6757452982,"name":"一饭一会 - 你的可视化美食日记","type":"iap","detail":"一饭一会 周会员: ¥9.90 → ¥6.00"}]}},{"timestamp":1773579370516,"cn":{"total":4,"price":2,"iap":2,"apps":[{"id":1604886331,"name":"QRoo","type":"price","detail":"¥8.00 → 免费"},{"id":6444528802,"name":"食音-超解压的美食白噪音软件","type":"price","detail":"¥1.00 → 免费"},{"id":6743161021,"name":"Scroll the Volume","type":"iap","detail":"Lifetime: ¥298.00 → ¥98.00"},{"id":577499909,"name":"TapeACall Pro: 记录通话记录","type":"iap","detail":"Pro W/Unlimited Recording: ¥598.00 → ¥38.00"}]}},{"timestamp":1773571034846,"cn":{"total":1,"price":0,"iap":1,"apps":[{"id":1109685198,"name":"Currency – Simple Converter","type":"iap","detail":"Currency Plus: ¥38.00 → ¥22.00"}]}},{"timestamp":1773564189238,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":1492049794,"name":"宗师-武林风云传","type":"price","detail":"¥1.00 → 免费"}]}},{"timestamp":1773552866110,"cn":{"total":2,"price":2,"iap":0,"apps":[{"id":6755481740,"name":"Accelerando: Play with motion","type":"price","detail":"¥68.00 → ¥58.00"},{"id":6760123046,"name":"善恶录-好人一生平安","type":"price","detail":"¥15.00 → ¥8.00"}]}},{"timestamp":1773540907596,"cn":{"total":15,"price":14,"iap":1,"apps":[{"id":6758658840,"name":"PixPhoto-证件照,高清证件照制作","type":"iap","detail":"PRO Lifetime: ¥68.00 → ¥0.00"},{"id":959271951,"name":"GPS to SMS 2","type":"price","detail":"付费 → 免费"},{"id":6755378157,"name":"QRwizard","type":"price","detail":"付费 → 免费"},{"id":6745355956,"name":"Linearama - Smart notes","type":"price","detail":"付费 → 免费"},{"id":6745756356,"name":"Hold It – App Block","type":"price","detail":"付费 → 免费"},{"id":1104687432,"name":"Sleep Well Baby. White Noise.","type":"price","detail":"付费 → 免费"},{"id":1253304449,"name":"Save & Buy","type":"price","detail":"付费 → 免费"},{"id":725274537,"name":"Symmetrain","type":"price","detail":"付费 → 免费"},{"id":6757215161,"name":"Caffeinate","type":"price","detail":"付费 → 免费"},{"id":1067049945,"name":"Paddles! Pong edition","type":"price","detail":"付费 → 免费"},{"id":6758929067,"name":"Smart IPTV Live TV","type":"price","detail":"付费 → 免费"},{"id":6756579426,"name":"Thunder Spikes Volleyball","type":"price","detail":"付费 → 免费"},{"id":493136154,"name":"Clear: To Dos & Reminders","type":"price","detail":"付费 → 免费"},{"id":499695659,"name":"Skip Tunes","type":"price","detail":"付费 → 免费"},{"id":1545284382,"name":"美丽绣曲线 - 趣味数学","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773520475328,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6759653903,"name":"Helix Planner","type":"price","detail":"¥8.00 → 免费"}]}},{"timestamp":1773513874619,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6759351727,"name":"Teddy's Nanny","type":"price","detail":"¥58.00 → ¥48.00"}]}},{"timestamp":1773506235585,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6758705432,"name":"地磁检测","type":"price","detail":"¥12.00 → 免费"}]}},{"timestamp":1773498899517,"cn":{"total":5,"price":5,"iap":0,"apps":[{"id":6760158538,"name":"Ptable-元素周期表","type":"price","detail":"¥22.00 → ¥15.00"},{"id":1020541183,"name":"电影精灵 - 专业视频编辑和电影制作","type":"price","detail":"¥68.00 → 免费"},{"id":1201211832,"name":"商业画布 - 构建您自己的商业模式","type":"price","detail":"¥22.00 → 免费"},{"id":6747289018,"name":"语宙单词 - 四六级考研英语词汇学习","type":"price","detail":"¥1.00 → 免费"},{"id":1423585518,"name":"ROMAN: 进食计画、减肥、减脂一体化。 体重管理。","type":"price","detail":"¥8.00 → ¥1.00"}]}},{"timestamp":1773492782727,"cn":{"total":2,"price":2,"iap":0,"apps":[{"id":6759653903,"name":"Helix Planner","type":"price","detail":"¥58.00 → ¥8.00"},{"id":6757925516,"name":"运动派蒙 Paimon - 真 AI 运动伙伴","type":"price","detail":"¥6.00 → 免费"}]}},{"timestamp":1773484357557,"cn":{"total":2,"price":2,"iap":0,"apps":[{"id":6759263235,"name":"战争档案","type":"price","detail":"¥28.00 → ¥15.00"},{"id":6758632782,"name":"Think Local: AI Private Chat","type":"price","detail":"¥28.00 → ¥8.00"}]}},{"timestamp":1773471026266,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6754893311,"name":"SnapOCR – Video Text Tool","type":"price","detail":"¥22.00 → 免费"}]}},{"timestamp":1773462015387,"cn":{"total":17,"price":17,"iap":0,"apps":[{"id":1669170459,"name":"公易行拼音 - 汉语拼音学习点读机","type":"price","detail":"¥98.00 → ¥88.00"},{"id":1435857951,"name":"精灵扫描仪-OCR文字识别智能语音全能助手","type":"price","detail":"¥3.00 → 免费"},{"id":1423585518,"name":"ROMAN: 进食计画、减肥、减脂一体化。 体重管理。","type":"price","detail":"¥58.00 → ¥8.00"},{"id":6450104156,"name":"ShopList simple","type":"price","detail":"付费 → 免费"},{"id":6759806669,"name":"ScoreMaster 桌游计分助手","type":"price","detail":"付费 → 免费"},{"id":1150347355,"name":"Ragemotion","type":"price","detail":"付费 → 免费"},{"id":6748754427,"name":"私隐保险箱 - 私密相册视频","type":"price","detail":"付费 → 免费"},{"id":989574753,"name":"Antikythera Mechanism","type":"price","detail":"付费 → 免费"},{"id":1664335771,"name":"JAX MIDI Jinny PRO","type":"price","detail":"付费 → 免费"},{"id":1500035542,"name":"Screen Mirroring - Alfacast X","type":"price","detail":"付费 → 免费"},{"id":6756213219,"name":"静匣播放器 ","type":"price","detail":"付费 → 免费"},{"id":6757640569,"name":"SpeedLauncher","type":"price","detail":"付费 → 免费"},{"id":6757977297,"name":"ClipboardMenu","type":"price","detail":"付费 → 免费"},{"id":6757639275,"name":"ReTitle","type":"price","detail":"付费 → 免费"},{"id":1420499675,"name":"PersoPhoto","type":"price","detail":"付费 → 免费"},{"id":6452083786,"name":"Morris Friend","type":"price","detail":"付费 → 免费"},{"id":6755481740,"name":"Accelerando: Play with motion","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773453634229,"cn":{"total":2,"price":2,"iap":0,"apps":[{"id":6755941450,"name":"White Noise for Everyone","type":"price","detail":"¥15.00 → 免费"},{"id":6759226326,"name":"Sound Meter for Everyone Pro","type":"price","detail":"¥15.00 → ¥8.00"}]}},{"timestamp":1773434587675,"cn":{"total":2,"price":0,"iap":2,"apps":[{"id":6448225070,"name":"腕能 - 压力睡眠健康监测与冥想助手","type":"iap","detail":"年度会员: ¥128.00 → ¥58.00"},{"id":6448225070,"name":"腕能 - 压力睡眠健康监测与冥想助手","type":"iap","detail":"月度会员: ¥16.00 → ¥8.00"}]}},{"timestamp":1773427610677,"cn":{"total":8,"price":4,"iap":4,"apps":[{"id":6759387576,"name":"三事","type":"price","detail":"¥1.00 → 免费"},{"id":6759263235,"name":"战争档案","type":"iap","detail":"解锁全部时代（二战 + 19 世纪 + 俄乌）: ¥228.00 → ¥148.00"},{"id":6758527067,"name":"OffGrid : Offline Chat AI","type":"iap","detail":"Monthly Premium Access: ¥38.00 → ¥22.00"},{"id":6758951184,"name":"Aurader: 沉浸式听书","type":"iap","detail":"Weekly Pro: ¥22.00 → ¥12.00"},{"id":6758951184,"name":"Aurader: 沉浸式听书","type":"iap","detail":"Annual Pro: ¥198.00 → ¥98.00"},{"id":1160943124,"name":"听写文本：语音识别","type":"price","detail":"¥15.00 → 免费"},{"id":1446399911,"name":"指尖轮盘 - 有趣的手指转盘决定器","type":"price","detail":"¥3.00 → ¥1.00"},{"id":431033044,"name":"Phone Drive Pro - 云储存管理和文件共享","type":"price","detail":"¥28.00 → 免费"}]}},{"timestamp":1773384527190,"cn":{"total":5,"price":5,"iap":0,"apps":[{"id":6759815954,"name":"Lumi-自拍补光灯-氛围感神器","type":"price","detail":"¥3.00 → 免费"},{"id":6749221162,"name":"霸刀传奇-文字挂机放置怀旧福利版","type":"price","detail":"¥1.00 → 免费"},{"id":6755715433,"name":"三国英雄传奇-全民主公Q萌觉醒！","type":"price","detail":"¥1.00 → 免费"},{"id":6746182611,"name":"御妖伏魔录-开坛斗法书写你的捉鬼传奇","type":"price","detail":"¥1.00 → 免费"},{"id":6446607609,"name":"佛系传奇:君王天下","type":"price","detail":"¥1.00 → 免费"}]}},{"timestamp":1773375187541,"cn":{"total":7,"price":4,"iap":3,"apps":[{"id":303656546,"name":"2Do - Todo List, Tasks & Notes","type":"iap","detail":"Email to 2Do: ¥28.00 → ¥15.00"},{"id":6758951184,"name":"Aurader: 沉浸式听书","type":"iap","detail":"LifeTime Pro: ¥398.00 → ¥198.00"},{"id":6448225070,"name":"腕能 - 压力睡眠健康监测与冥想助手","type":"iap","detail":"终身会员: ¥68.00 → ¥58.00"},{"id":6757922606,"name":"TeFont","type":"price","detail":"付费 → 免费"},{"id":6752916073,"name":"Offline AI - Pisheru","type":"price","detail":"付费 → 免费"},{"id":6502667203,"name":"Crios: 网络IP端口扫描器","type":"price","detail":"付费 → 免费"},{"id":1603097037,"name":"Balloon Stack Runner","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773365006520,"cn":{"total":7,"price":7,"iap":0,"apps":[{"id":1500849717,"name":"EE35 Film Camera Retro Instant","type":"price","detail":"¥68.00 → ¥38.00"},{"id":1471848710,"name":"元素周期表 - 化学 2026","type":"price","detail":"¥68.00 → ¥38.00"},{"id":510249014,"name":"水平仪 HD","type":"price","detail":"¥8.00 → 免费"},{"id":330551758,"name":"Today - Task Manager","type":"price","detail":"付费 → 免费"},{"id":6468405466,"name":"iPetReminder - Pet Care&Health","type":"price","detail":"付费 → 免费"},{"id":6751648959,"name":"平息·箱式呼吸：压力·焦虑·睡眠·专注","type":"price","detail":"付费 → 免费"},{"id":6756184886,"name":"RetroHabits","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773354387606,"cn":{"total":1,"price":0,"iap":1,"apps":[{"id":319295332,"name":"TuneIn Radio Pro","type":"iap","detail":"TuneIn Premium: ¥518.00 → ¥73.00"}]}},{"timestamp":1773341280577,"cn":{"total":1,"price":0,"iap":1,"apps":[{"id":1572877652,"name":"Binance Smart Chain Explorer","type":"iap","detail":"Real-time Notifications: ¥123.00 → ¥14.00"}]}},{"timestamp":1773334777476,"cn":{"total":3,"price":2,"iap":1,"apps":[{"id":319295332,"name":"TuneIn Radio Pro","type":"iap","detail":"TuneIn Premium Pro: ¥728.00 → ¥498.00"},{"id":6467825289,"name":"King of Digital D1: Epic Synth","type":"price","detail":"¥68.00 → ¥58.00"},{"id":6754641661,"name":"婚启","type":"price","detail":"¥8.00 → 免费"}]}},{"timestamp":1773327069299,"cn":{"total":4,"price":3,"iap":1,"apps":[{"id":6758571428,"name":"PDF转换器 - 转换、合并和压缩PDF，打印PDF","type":"iap","detail":"PDF: ¥198.00 → ¥148.00"},{"id":6748356183,"name":"印影-一键为照片添加边框水印","type":"price","detail":"¥15.00 → ¥12.00"},{"id":458584668,"name":"度量衡单位换算器","type":"price","detail":"¥8.00 → 免费"},{"id":6757903809,"name":"相册清理大师 - 智能照片管理","type":"price","detail":"¥22.00 → 免费"}]}},{"timestamp":1773319625167,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6759667618,"name":"小猫陪你-ADHD番茄钟","type":"price","detail":"¥6.00 → 免费"}]}},{"timestamp":1773311994445,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":1572415524,"name":"什么日历 - 农历节假日中华万年历小组件","type":"price","detail":"¥1.00 → 免费"}]}},{"timestamp":1773305098733,"cn":{"total":1,"price":0,"iap":1,"apps":[{"id":6754641661,"name":"婚启","type":"iap","detail":"永久会员: ¥59.90 → ¥29.90"}]}},{"timestamp":1773288832710,"cn":{"total":13,"price":12,"iap":1,"apps":[{"id":6756922006,"name":"PinPocK","type":"price","detail":"¥6.00 → 免费"},{"id":6759585707,"name":"8bit音乐大师","type":"price","detail":"¥12.00 → 免费"},{"id":6753138898,"name":"SongDetect 音乐识别与播放","type":"price","detail":"¥3.00 → 免费"},{"id":338088432,"name":"Free Tone - Calling & Texting","type":"iap","detail":"Get this phone number: ¥48.00 → ¥7.00"},{"id":1328806990,"name":"熊熊专注计时器：番茄钟","type":"price","detail":"¥22.00 → ¥8.00"},{"id":6759348795,"name":"BlurPass: Privacy Photo Editor","type":"price","detail":"付费 → 免费"},{"id":6758992994,"name":"SleepGlow - Sleep & Relax","type":"price","detail":"付费 → 免费"},{"id":6475711743,"name":"MBTI性格测试-绿色版，飞速了解自己的性格","type":"price","detail":"付费 → 免费"},{"id":982387523,"name":"Anuloma Viloma Timer","type":"price","detail":"付费 → 免费"},{"id":6759600587,"name":"RotorFury","type":"price","detail":"付费 → 免费"},{"id":6759168102,"name":"Gamu Neko","type":"price","detail":"付费 → 免费"},{"id":6476061688,"name":"西洋美术风象-艺术名画瀑布流","type":"price","detail":"付费 → 免费"},{"id":1317618609,"name":"Lighting Check","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773278519548,"cn":{"total":5,"price":4,"iap":1,"apps":[{"id":6748644117,"name":"Pocket Posters: AI Video AR","type":"iap","detail":"Pocket Posters Pro: ¥198.00 → ¥98.00"},{"id":6479000660,"name":"Stable - Video Stabilizer","type":"price","detail":"付费 → 免费"},{"id":1643112964,"name":"填满它吧","type":"price","detail":"付费 → 免费"},{"id":456637671,"name":"安全监控照片+视频Pro","type":"price","detail":"¥28.00 → 免费"},{"id":6468965114,"name":"Resume Maker: CV Maker","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773267999170,"cn":{"total":2,"price":2,"iap":0,"apps":[{"id":6757254512,"name":"乐谱全能音乐王一键纯净AI扒谱扒歌伴奏制作和弦检测节拍器调音","type":"price","detail":"¥12.00 → 免费"},{"id":1521562701,"name":"Realtime Filter","type":"price","detail":"¥8.00 → 免费"}]}},{"timestamp":1773261499271,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6748966538,"name":"Lights Out: Formula Stats","type":"price","detail":"¥22.00 → ¥15.00"}]}},{"timestamp":1773248055432,"cn":{"total":3,"price":1,"iap":2,"apps":[{"id":1610668825,"name":"FyTube - 没有广告的 YouTube","type":"price","detail":"¥38.00 → ¥22.00"},{"id":6754980046,"name":"JOY - 3DS,PSX,PSP,GBA,街机全能模拟器","type":"iap","detail":"Joy Pro Forever 早鸟特惠!: ¥48.00 → ¥28.00"},{"id":6757922053,"name":"SwipeClean-相册整理与随机回顾","type":"iap","detail":"永久 PRO: ¥68.00 → ¥0.00"}]}},{"timestamp":1773240581508,"cn":{"total":2,"price":0,"iap":2,"apps":[{"id":6759009234,"name":"Business Speak AI: Job English","type":"iap","detail":"Business Speak Premium Lifetime: ¥1,298.00 → ¥0.00"},{"id":815542507,"name":"Find My Car - Car Parking","type":"iap","detail":"Find My Car Premium Monthly: ¥38.00 → ¥22.00"}]}},{"timestamp":1773233246683,"cn":{"total":1,"price":0,"iap":1,"apps":[{"id":6738126393,"name":"Sequincer：MIDI音序器","type":"iap","detail":"Loops 特惠: ¥38.00 → ¥0.00"}]}},{"timestamp":1773225538350,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6758658840,"name":"PixPhoto-证件照,高清证件照制作","type":"price","detail":"¥3.00 → 免费"}]}},{"timestamp":1773211664311,"cn":{"total":2,"price":1,"iap":1,"apps":[{"id":6446257235,"name":"LINA：艺术治疗和日记","type":"iap","detail":"LINA Premium (1 year): ¥328.00 → ¥298.00"},{"id":892374380,"name":"iWriter Pro","type":"price","detail":"¥38.00 → ¥22.00"}]}},{"timestamp":1773202194687,"cn":{"total":11,"price":11,"iap":0,"apps":[{"id":6759263235,"name":"战争档案","type":"price","detail":"¥18.00 → 免费"},{"id":6751861389,"name":"Lut相机","type":"price","detail":"¥1.50 → 免费"},{"id":6499511475,"name":"祥瑞金业-黄金贵金属投资炒黄金","type":"price","detail":"¥8.00 → 免费"},{"id":6449745506,"name":"安全密码锁-分类管理本地隐私保护","type":"price","detail":"付费 → 免费"},{"id":977865042,"name":"InfoGraphic and Poster Creator","type":"price","detail":"付费 → 免费"},{"id":6751161934,"name":"微笑相机 - 笑容检测 · 自动拍照","type":"price","detail":"付费 → 免费"},{"id":1562295627,"name":"Adiem","type":"price","detail":"付费 → 免费"},{"id":6470886230,"name":"Speed Up Video","type":"price","detail":"付费 → 免费"},{"id":6759331411,"name":"Hidden Camera - Spy","type":"price","detail":"付费 → 免费"},{"id":6755380530,"name":"集美天气","type":"price","detail":"付费 → 免费"},{"id":6759351727,"name":"Teddy's Nanny","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773191965326,"cn":{"total":4,"price":4,"iap":0,"apps":[{"id":1493357013,"name":"Picky For Pinterest","type":"price","detail":"¥22.00 → 免费"},{"id":1364583892,"name":"ScheduleMe","type":"price","detail":"付费 → 免费"},{"id":6566180433,"name":"虚线大食蛇","type":"price","detail":"付费 → 免费"},{"id":1109685198,"name":"Currency – Simple Converter","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773168397905,"cn":{"total":1,"price":1,"iap":0,"apps":[{"id":6754260863,"name":"Grocery Shopping List","type":"price","detail":"¥8.00 → 免费"}]}},{"timestamp":1773161786761,"cn":{"total":2,"price":2,"iap":0,"apps":[{"id":6759796851,"name":"super copy: smart keyboard","type":"price","detail":"¥1.00 → 免费"},{"id":6751861389,"name":"Lut相机","type":"price","detail":"¥1.80 → 免费"}]}},{"timestamp":1773154171614,"cn":{"total":5,"price":3,"iap":2,"apps":[{"id":6753924420,"name":"Articulate: AI Pronunciation","type":"iap","detail":"Premium Version: ¥58.00 → ¥28.00"},{"id":1048330766,"name":"超强夜拍NightShot Pro – 夜间拍摄必备神器, 实时降噪","type":"price","detail":"¥15.00 → 免费"},{"id":6757863100,"name":"衍图 Yan - 赛博艺术照片生成","type":"iap","detail":"Weekly: ¥6.00 → ¥1.00"},{"id":1422605014,"name":"Weather Now PRO – 天气预报","type":"price","detail":"¥148.00 → 免费"},{"id":583822799,"name":"My PaintBrush Pro: 画画和照片编辑","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773139130902,"cn":{"total":5,"price":3,"iap":2,"apps":[{"id":6759002825,"name":"重要日子｜轻松管理重要日期","type":"price","detail":"¥3.00 → 免费"},{"id":6757863100,"name":"衍图 Yan - 赛博艺术照片生成","type":"iap","detail":"Lifetime: ¥88.00 → ¥38.00"},{"id":6758539000,"name":"WaterBaby: Hydration Tracker","type":"iap","detail":"PRO Lifetime: ¥148.00 → ¥0.00"},{"id":6749935288,"name":"每日植物","type":"price","detail":"¥1.00 → 免费"},{"id":6759563626,"name":"阅读器-轻量版","type":"price","detail":"¥6.00 → ¥3.00"}]}},{"timestamp":1773132231634,"cn":{"total":4,"price":4,"iap":0,"apps":[{"id":6748726246,"name":"离线中文汉语全能字典词典 - 文典星","type":"price","detail":"¥6.00 → 免费"},{"id":6752670359,"name":"Peep - Screen Time","type":"price","detail":"¥15.00 → ¥8.00"},{"id":6736681479,"name":"领头羊GPS-经纬度定位海拔速度测量仪","type":"price","detail":"¥8.00 → ¥1.00"},{"id":6749935288,"name":"每日植物","type":"price","detail":"¥2.00 → ¥1.00"}]}},{"timestamp":1773116107824,"cn":{"total":9,"price":9,"iap":0,"apps":[{"id":6757797244,"name":"涨了么-向上复盘","type":"price","detail":"¥3.00 → 免费"},{"id":6756951467,"name":"百炼仙途-凡人修仙，逆天破境","type":"price","detail":"¥1.00 → 免费"},{"id":6756984703,"name":"Turtle: Watch Party","type":"price","detail":"付费 → 免费"},{"id":6472762578,"name":"Passport Photo: ID Photo","type":"price","detail":"付费 → 免费"},{"id":6758922462,"name":"SovereignAI","type":"price","detail":"付费 → 免费"},{"id":6758571428,"name":"PDF Converter ℗","type":"price","detail":"付费 → 免费"},{"id":6744983251,"name":"All Banks - Manage accouns","type":"price","detail":"付费 → 免费"},{"id":6759653903,"name":"Helix Planner","type":"price","detail":"付费 → 免费"},{"id":6759387576,"name":"三事","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773105596963,"cn":{"total":10,"price":10,"iap":0,"apps":[{"id":6759263235,"name":"战争档案","type":"price","detail":"¥35.00 → ¥18.00"},{"id":572225713,"name":"App Secret Pro","type":"price","detail":"付费 → 免费"},{"id":1473749077,"name":"World of Juice","type":"price","detail":"付费 → 免费"},{"id":6505119756,"name":"Distorted Camera","type":"price","detail":"付费 → 免费"},{"id":1460453150,"name":"数独学会 - 网络数独对战","type":"price","detail":"付费 → 免费"},{"id":6475325582,"name":"Mosaic Match","type":"price","detail":"付费 → 免费"},{"id":1535574776,"name":"Wiggly Bomb","type":"price","detail":"付费 → 免费"},{"id":1478561459,"name":"Up Slide Down","type":"price","detail":"付费 → 免费"},{"id":6752353634,"name":"Unzip Fast - ZIP RAR 7Z","type":"price","detail":"付费 → 免费"},{"id":6759564126,"name":"KarmaSync: Health Dashboard","type":"price","detail":"付费 → 免费"}]}},{"timestamp":1773088292068,"cn":{"total":1,"price":0,"iap":1,"apps":[{"id":6758527067,"name":"OffGrid : Offline Chat AI","type":"iap","detail":"Lifetime Premium Access: ¥98.00 → ¥68.00"}]}},{"timestamp":1773082421190,"cn":{"total":2,"price":2,"iap":0,"apps":[{"id":6749807290,"name":"Mandelbrot Metal","type":"price","detail":"¥38.00 → ¥8.00"},{"id":1182856129,"name":"Blink - 快速备忘录 + 小组件","type":"price","detail":"¥15.00 → ¥8.00"}]}}];
+    
+    // Sort ascending by time
+    rawData.sort(function(a, b) { return a.timestamp - b.timestamp; });
+
+    var chartDom = document.getElementById('statsChart');
+    var myChart = echarts.init(chartDom);
+    var startDateInput = document.getElementById('startDate');
+    var endDateInput = document.getElementById('endDate');
+
+    function formatDateForInput(date) {
+      var d = new Date(date),
+          month = '' + (d.getMonth() + 1),
+          day = '' + d.getDate(),
+          year = d.getFullYear();
+
+      if (month.length < 2) month = '0' + month;
+      if (day.length < 2) day = '0' + day;
+
+      return [year, month, day].join('-');
+    }
+
+    if (rawData.length > 0) {
+      var maxTime = rawData[rawData.length - 1].timestamp;
+      var maxDate = new Date(maxTime);
+      var minTime = maxTime - 14 * 24 * 60 * 60 * 1000;
+      var minDate = new Date(Math.max(rawData[0].timestamp, minTime));
+      
+      startDateInput.value = formatDateForInput(minDate);
+      endDateInput.value = formatDateForInput(maxDate);
+    }
+
+    function renderChart() {
+      if (rawData.length === 0) {
+        myChart.showLoading({ text: '暂无数据' });
+        return;
+      }
+      
+      var sVal = startDateInput.value ? new Date(startDateInput.value + 'T00:00:00+08:00').getTime() : 0;
+      var eVal = endDateInput.value ? new Date(endDateInput.value + 'T23:59:59+08:00').getTime() : Date.now();
+      
+      var filtered = rawData.filter(function(d) { return d.timestamp >= sVal && d.timestamp <= eVal; });
+      
+      if (filtered.length === 0) {
+        myChart.clear();
+        return;
+      }
+
+      var times = filtered.map(function(d) {
+        var dt = new Date(d.timestamp);
+        return (dt.getMonth() + 1) + '/' + dt.getDate() + ' ' + (dt.getHours() < 10 ? '0' : '') + dt.getHours() + ':' + (dt.getMinutes() < 10 ? '0' : '') + dt.getMinutes();
+      });
+      var totals = filtered.map(function(d) { return d.cn.total; });
+      var prices = filtered.map(function(d) { return d.cn.price; });
+      var iaps = filtered.map(function(d) { return d.cn.iap; });
+
+      var option = {
+        tooltip: {
+          trigger: 'axis'
+        },
+        legend: {
+          data: ['总限免', '本体限免', '内购限免'],
+          bottom: 10,
+          textStyle: { color: '#666' }
+        },
+        grid: {
+          left: '2%',
+          right: '4%',
+          bottom: '12%',
+          containLabel: true
+        },
+        xAxis: {
+          type: 'category',
+          boundaryGap: false,
+          data: times,
+          axisLine: { lineStyle: { color: '#ddd' } },
+          axisLabel: { color: '#666' }
+        },
+        yAxis: {
+          type: 'value',
+          axisLine: { show: false },
+          splitLine: { lineStyle: { color: '#eee', type: 'dashed' } },
+          axisLabel: { color: '#666' }
+        },
+        series: [
+          {
+            name: '总限免',
+            type: 'line',
+            symbol: 'circle',
+            symbolSize: 8,
+            smooth: true,
+            itemStyle: { color: '#0A84FF' },
+            areaStyle: { color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [{offset: 0, color: 'rgba(10,132,255,0.3)'},{offset: 1, color: 'rgba(10,132,255,0)'}]) },
+            data: totals
+          },
+          {
+            name: '本体限免',
+            type: 'line',
+            symbol: 'circle',
+            symbolSize: 6,
+            smooth: true,
+            itemStyle: { color: '#10b981' },
+            data: prices
+          },
+          {
+            name: '内购限免',
+            type: 'line',
+            symbol: 'circle',
+            symbolSize: 6,
+            smooth: true,
+            itemStyle: { color: '#f59e0b' },
+            data: iaps
+          }
+        ]
+      };
+      myChart.setOption(option, true);
+    }
+
+    renderChart();
+
+    startDateInput.addEventListener('change', renderChart);
+    endDateInput.addEventListener('change', renderChart);
+
+    window.addEventListener('resize', function() {
+      myChart.resize();
+    });
   })();
 </script>
 </body>
