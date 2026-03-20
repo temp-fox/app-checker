@@ -1461,7 +1461,7 @@ With an intuitive multi-slider interface, CtrlSlide makes it easy to adjust MIDI
     try {
       data = ensureFeaturedData();
     } catch (e) {
-      showErrorDialog('导出失败', e.message || String(e));
+      showDetailedError('导出失败', e, '按钮=复制为Markdown');
       return;
     }
 
@@ -1685,6 +1685,24 @@ With an intuitive multi-slider interface, CtrlSlide makes it easy to adjust MIDI
     }, 2000);
   }
 
+  function formatDebugError(title, error, extra) {
+    var parts = [title];
+    if (extra) parts.push('上下文: ' + extra);
+    if (error) {
+      parts.push('名称: ' + (error.name || 'Error'));
+      parts.push('消息: ' + (error.message || String(error)));
+      if (error.stack) parts.push('堆栈:
+' + error.stack);
+    }
+    return parts.join('
+
+');
+  }
+
+  function showDetailedError(title, error, extra) {
+    showErrorDialog(title, formatDebugError(title, error, extra));
+  }
+
   // 错误弹窗：显示详细错误信息 + 复制按钮
   function showErrorDialog(title, message) {
     var ov = document.createElement('div');
@@ -1760,7 +1778,7 @@ With an intuitive multi-slider interface, CtrlSlide makes it easy to adjust MIDI
       document.execCommand('copy');
       showCopied(btn);
     } catch(e) {
-      showErrorDialog('复制失败', e.message || '请手动复制');
+      showDetailedError('复制失败', e, '阶段=fallbackCopyMarkdown');
     }
     sel.removeAllRanges();
     document.body.removeChild(tmp);
@@ -2121,7 +2139,7 @@ With an intuitive multi-slider interface, CtrlSlide makes it easy to adjust MIDI
     } catch(e) {
       console.error('复制失败:', e);
       if (btn) { btn.textContent = origText; }
-      showErrorDialog('复制失败', e.message || String(e));
+      showDetailedError('复制失败', e, '按钮=复制到公众号');
     }
     if (btn) { btn.disabled = false; }
   }
@@ -2159,7 +2177,9 @@ With an intuitive multi-slider interface, CtrlSlide makes it easy to adjust MIDI
     }
     var html = getWxHtml();
     if (!html) {
-      showErrorDialog('预览失败', '未生成可预览的公众号内容');
+      showErrorDialog('预览失败', '未生成可预览的公众号内容
+
+上下文: 按钮=预览公众号');
       return;
     }
     var overlay = document.createElement('div');
