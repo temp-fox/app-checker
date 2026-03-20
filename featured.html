@@ -1330,6 +1330,18 @@ With an intuitive multi-slider interface, CtrlSlide makes it easy to adjust MIDI
     return '';
   }
 
+  function resizeArticleImageUrl(url, maxW) {
+    if (!url) return url || '';
+    return url.replace(//(d+)x(d+)(bb.w+)$/, function(_, w, h, suf) {
+      var ow = parseInt(w, 10);
+      var oh = parseInt(h, 10);
+      if (ow <= maxW) return '/' + ow + 'x' + oh + suf;
+      var nw = maxW;
+      var nh = Math.round(oh * maxW / ow);
+      return '/' + nw + 'x' + nh + suf;
+    });
+  }
+
   function getCardArticleScreenshotsFromDOM(card) {
     var container = card.querySelector('[data-screenshots], .screenshots');
     if (!container || container.classList.contains('screenshots-icon-fallback')) return [];
@@ -1341,7 +1353,7 @@ With an intuitive multi-slider interface, CtrlSlide makes it easy to adjust MIDI
     });
     urls = urls.slice(0, 2);
     return urls.map(function(url) {
-      return resizeAppleImg(url, isMac || urls.length === 1 ? ARTICLE_SCREENSHOT_SINGLE_WIDTH : ARTICLE_SCREENSHOT_DOUBLE_WIDTH);
+      return resizeArticleImageUrl(url, isMac || urls.length === 1 ? ARTICLE_SCREENSHOT_SINGLE_WIDTH : ARTICLE_SCREENSHOT_DOUBLE_WIDTH);
     });
   }
 
@@ -1387,7 +1399,7 @@ With an intuitive multi-slider interface, CtrlSlide makes it easy to adjust MIDI
         type: type,
         url: url,
         name: name,
-        iconHD: resizeAppleImg(iconSrc, WX_ICON_WIDTH),
+        iconHD: resizeArticleImageUrl(iconSrc, WX_ICON_WIDTH),
         badgeText: badgeText,
         badgeCls: badgeCls,
         genre: genre,
