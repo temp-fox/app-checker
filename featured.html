@@ -1357,7 +1357,7 @@ With an intuitive multi-slider interface, CtrlSlide makes it easy to adjust MIDI
     });
     urls = urls.slice(0, 2);
     return urls.map(function(url) {
-      return resizeArticleImageUrl(url, isMac || urls.length === 1 ? ARTICLE_SCREENSHOT_SINGLE_WIDTH : ARTICLE_SCREENSHOT_DOUBLE_WIDTH);
+      return resizeArticleImageUrl(url, isMac || urls.length === 1 ? 540 : 300);
     });
   }
 
@@ -1403,7 +1403,7 @@ With an intuitive multi-slider interface, CtrlSlide makes it easy to adjust MIDI
         type: type,
         url: url,
         name: name,
-        iconHD: resizeArticleImageUrl(iconSrc, WX_ICON_WIDTH),
+        iconHD: resizeArticleImageUrl(iconSrc, 180),
         badgeText: badgeText,
         badgeCls: badgeCls,
         genre: genre,
