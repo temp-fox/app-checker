@@ -1342,6 +1342,10 @@ With an intuitive multi-slider interface, CtrlSlide makes it easy to adjust MIDI
     });
   }
 
+  function resizeAppleImg(url, maxW) {
+    return resizeArticleImageUrl(url, maxW);
+  }
+
   function getCardArticleScreenshotsFromDOM(card) {
     var container = card.querySelector('[data-screenshots], .screenshots');
     if (!container || container.classList.contains('screenshots-icon-fallback')) return [];
