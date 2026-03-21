@@ -352,9 +352,146 @@
       .card-header { gap: 12px; }
     }
   
+    /* ── 数据来源横幅 ── */
+    .source-banner {
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+      background: linear-gradient(135deg, #0A84FF, #5E5CE6);
+      color: #fff; font-size: 13px; font-weight: 600; letter-spacing: 0.3px;
+      padding: 10px 16px; text-align: center;
+    }
+    .source-banner::before { content: '📡'; }
+
+    /* ── Sticky 筛选栏 ── */
+    .filter-bar {
+      position: sticky; top: 0; z-index: 50;
+      border-radius: 0 0 var(--r) var(--r) !important;
+      margin-left: -16px; margin-right: -16px; margin-top: 0;
+      padding: 12px 20px !important;
+      background: rgba(255,255,255,0.85) !important;
+      backdrop-filter: saturate(200%) blur(30px) !important; -webkit-backdrop-filter: saturate(200%) blur(30px) !important;
+      border-top: none !important; border-left: none !important; border-right: none !important;
+      border-bottom: 1px solid rgba(0,0,0,0.06) !important;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08) !important;
+      transition: box-shadow 0.3s, background 0.3s;
+    }
+    .filter-bar .fb {
+      background: rgba(0,0,0,0.04); border: 1px solid rgba(0,0,0,0.08);
+      font-size: 13px; height: 34px; padding: 6px 14px;
+      border-radius: 18px; transition: all 0.2s;
+    }
+    .filter-bar .fb:hover { background: rgba(0,0,0,0.08); border-color: rgba(0,0,0,0.12); }
+    .filter-bar .fb.active {
+      background: var(--primary); color: #fff;
+      border-color: var(--primary); box-shadow: 0 2px 8px rgba(10,132,255,0.3);
+    }
+
+    /* ── Sticky 返回栏 ── */
+    .back-bar {
+      position: sticky; top: 0; z-index: 50;
+      border-radius: 0 0 var(--r) var(--r) !important;
+      margin-left: -16px; margin-right: -16px; margin-top: 0;
+      padding: 12px 20px !important;
+      background: rgba(255,255,255,0.85) !important;
+      backdrop-filter: saturate(200%) blur(30px) !important; -webkit-backdrop-filter: saturate(200%) blur(30px) !important;
+      border-bottom: 1px solid rgba(0,0,0,0.06) !important;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08) !important;
+    }
+
+    /* ── Dark Mode ── */
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --primary: #0A84FF;
+        --bg: #000000;
+        --card: #1C1C1E;
+        --card-blur: rgba(44, 44, 46, 0.65);
+        --text: #F5F5F7;
+        --sub: #98989D;
+        --border: rgba(255, 255, 255, 0.1);
+        --border-light: rgba(255, 255, 255, 0.08);
+        --shadow-sm: 0 8px 32px rgba(0, 0, 0, 0.3);
+        --shadow-md: 0 12px 40px rgba(0, 0, 0, 0.4);
+        --shadow-lg: 0 20px 48px rgba(0, 0, 0, 0.5);
+      }
+      body {
+        background-color: #000;
+        background-image:
+          radial-gradient(circle at 15% 20%, rgba(10, 132, 255, 0.08), transparent 30%),
+          radial-gradient(circle at 85% 80%, rgba(255, 149, 0, 0.05), transparent 30%),
+          radial-gradient(circle at 50% 50%, rgba(139, 92, 246, 0.04), transparent 40%);
+      }
+      .header { color: #F5F5F7; }
+      .index-header { background: radial-gradient(ellipse at 50% 0%, rgba(10,50,120,0.4) 0%, transparent 70%); }
+      .featured-header { background: radial-gradient(ellipse at 50% 0%, rgba(120,60,0,0.3) 0%, transparent 70%); }
+
+      .card {
+        background: rgba(44,44,46,0.65);
+        border: 1px solid rgba(255,255,255,0.08);
+        border-top-color: rgba(255,255,255,0.12); border-left-color: rgba(255,255,255,0.12);
+      }
+      .card:hover { border-color: rgba(255,255,255,0.18); }
+
+      .app-name { color: #F5F5F7; }
+      .app-desc { color: #AEAEB2; }
+      .store-link { color: #0A84FF; background: rgba(10,132,255,0.12); }
+      .store-link:hover { background: rgba(10,132,255,0.2); }
+
+      .badge-free { background: rgba(52,199,89,0.2); color: #30D158; }
+      .badge-iap  { background: rgba(255,214,10,0.15); color: #FFD60A; }
+      .badge-discount { background: rgba(255,69,58,0.15); color: #FF6961; }
+
+      .price-display.is-free { background: linear-gradient(135deg, rgba(52,199,89,0.12), rgba(52,199,89,0.06)); border-color: rgba(52,199,89,0.2); }
+      .price-display.is-free .price-to { color: #30D158; }
+      .price-display.is-discount { background: linear-gradient(135deg, rgba(255,149,0,0.12), rgba(255,149,0,0.06)); border-color: rgba(255,149,0,0.2); }
+      .price-display.is-discount .price-to { color: #FF9F0A; }
+
+      .price-section.iap-mode { background: linear-gradient(135deg, rgba(255,214,10,0.1), rgba(255,214,10,0.05)); border-color: rgba(255,214,10,0.2); }
+      .iap-header { color: #FFD60A; }
+      .iap-name { color: #AEAEB2; }
+      .iap-price b { color: #FF9F0A; }
+      .iap-price s { color: #636366; }
+
+      .genre-tag { background: rgba(255,255,255,0.06); color: #98989D; border-color: rgba(255,255,255,0.08); }
+      .screenshot { border-color: rgba(255,255,255,0.08); box-shadow: 0 0 10px rgba(0,0,0,0.4); }
+      .card-footer { border-top-color: rgba(255,255,255,0.06); }
+
+      .h-date { background: rgba(44,44,46,0.7); border-color: rgba(255,255,255,0.1); box-shadow: 0 0 10px rgba(0,0,0,0.3); }
+      .h-stats { background: rgba(44,44,46,0.65); border-color: rgba(255,255,255,0.1); }
+      .stat { border-right-color: rgba(255,255,255,0.06); }
+      .stat-num { color: #F5F5F7; }
+
+      .qr-thumb { background: #1C1C1E; border-color: rgba(255,255,255,0.1); }
+      .qr-below .qr-canvas { background: #fff; }
+      .qr-overlay-content { background: rgba(44,44,46,0.9); border-color: rgba(255,255,255,0.1); }
+      .qr-overlay-tip { color: #F5F5F7; }
+
+      .empty { background: rgba(44,44,46,0.65); border-color: rgba(255,255,255,0.08); }
+
+      .back-top { background: rgba(44,44,46,0.8); color: #F5F5F7; border-color: rgba(255,255,255,0.1); }
+      .back-top:hover { color: #0A84FF; }
+
+      .source-banner { background: linear-gradient(135deg, #0A84FF, #5E5CE6); }
+
+      /* Sticky bars dark */
+      .filter-bar, .back-bar {
+        background: rgba(28,28,30,0.88) !important;
+        border-bottom-color: rgba(255,255,255,0.06) !important;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.3) !important;
+      }
+      .filter-bar .fb { background: rgba(255,255,255,0.06); border-color: rgba(255,255,255,0.1); color: #F5F5F7; }
+      .filter-bar .fb:hover { background: rgba(255,255,255,0.1); }
+      .filter-bar .fb.active { background: #0A84FF; color: #fff; border-color: #0A84FF; }
+      .back-btn { background: rgba(44,44,46,0.8); color: #0A84FF; border-color: rgba(255,255,255,0.1); }
+      .back-btn:hover { background: rgba(44,44,46,1); }
+    }
+
+    @media (prefers-color-scheme: dark) and (max-width: 500px) {
+      .h-stats { background: rgba(44,44,46,0.8); box-shadow: 0 4px 16px rgba(0,0,0,0.3); }
+    }
+  
   </style>
 </head>
 <body>
+<div class="source-banner">数据来源：App Store 官方 · 每 2 小时自动更新</div>
 <header class="header index-header">
   <div class="hc">
     <div class="h-icon">🎉</div>
@@ -362,10 +499,10 @@
     <h1 class="h-title">App Store 今日限免</h1>
     
     <div class="h-stats">
-      <div class="stat"><span class="stat-num">33</span><span class="stat-label">今日优惠</span></div>
+      <div class="stat"><span class="stat-num">31</span><span class="stat-label">今日优惠</span></div>
       <div class="stat"><span class="stat-num">25</span><span class="stat-label">完全免费</span></div>
       <div class="stat"><span class="stat-num">3</span><span class="stat-label">内购优惠</span></div>
-      <div class="stat"><span class="stat-num">5</span><span class="stat-label">限时降价</span></div>
+      <div class="stat"><span class="stat-num">3</span><span class="stat-label">限时降价</span></div>
     </div>
   </div>
 </header>
@@ -373,10 +510,10 @@
   <div class="filter-bar">
     <div class="filter-row">
       <span class="fl">筛选：</span>
-      <button class="fb active" onclick="filter('all',this)">全部 (33)</button>
+      <button class="fb active" onclick="filter('all',this)">全部 (31)</button>
       <button class="fb" onclick="filter('free',this)">完全免费 (25)</button>
       <button class="fb" onclick="filter('iap',this)">内购优惠 (3)</button>
-      <button class="fb" onclick="filter('discount',this)">限时降价 (5)</button>
+      <button class="fb" onclick="filter('discount',this)">限时降价 (3)</button>
     </div>
     <div class="action-row">
       
@@ -437,6 +574,13 @@
         </div>
       </div>
     </div>
+  </div>
+
+  <div class="card card-ad" style="min-height:200px;display:flex;align-items:center;justify-content:center;">
+    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid"
+         data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-XXXXXXX"
+         data-ad-slot="XXXXXXX"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/economy-picking-guitar-school/id543001890" data-type="discount">
@@ -545,13 +689,6 @@
         </div>
       </div>
     </div>
-  </div>
-
-  <div class="card card-ad" style="min-height:200px;display:flex;align-items:center;justify-content:center;">
-    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid"
-         data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-XXXXXXX"
-         data-ad-slot="XXXXXXX"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/infographic-and-poster-creator/id977865042" data-type="free">
@@ -2055,114 +2192,6 @@
           在 App Store 查看 →
         </a>
         <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E5%99%AA%E9%9F%B3%E6%97%A5%E8%AE%B0/id6757107132" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1b/cd/c01bcdef-5deb-79bb-4a2b-ee9f743ec47f/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/private-ai-rewriter/id6754262357" data-type="discount">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/private-ai-rewriter/id6754262357" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/dc/79/b0dc79a7-399c-dc12-9e80-b33d38ad075a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" alt="Private AI Rewriter" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">Private AI Rewriter</h3>
-          <span class="badge badge-discount">限时降价</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">效率</span>
-          <span class="source-tag" style="background:#6366f118;color:#6366f1;border:1px solid #6366f135">付费榜</span>
-        </div>
-        <div class="devices">💻Mac · 📱iPhone · 📟iPad · 🎵iPod touch</div>
-        <div class="artist-name">David ROTHSCHILD</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-discount">
-          <span class="price-from">¥28.00</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">¥8.00</span>
-        </div><div class="price-range">[¥8.00 ~ ¥28.00]</div></div>
-
-    <p class="app-desc" data-raw="在您的设备上快速、轻松地私下重写文本。 PrivateAI-Rewriter 使用 Apple Intelligence 将您的写作转换为您选择的风格 - 全部在您的 iPhone 或 iPad 上处理，零数据离开您的设备。非常适合工作、学习或创意写作——任何注重隐私的地方。没有订阅。没有云。一次性购买，无限使用。工作原理 1. 复制任何文本（来自 Mac、文档或电子邮件）。 2. 将其粘贴到 PrivateAI-Rewriter 中。 3. 选择您想要的重写风格。 4. 点击“在设备上重写”——立即查看您的新版本。 5、另一种用途：" data-full-description="在您的设备上快速、轻松地私下重写文本。 PrivateAI-Rewriter 使用 Apple Intelligence 将您的写作转换为您选择的风格 - 全部在您的 iPhone 或 iPad 上处理，零数据离开您的设备。非常适合工作、学习或创意写作——任何注重隐私的地方。没有订阅。没有云。一次性购买，无限使用。工作原理 1. 复制任何文本（来自 Mac、文档或电子邮件）。 2. 将其粘贴到 PrivateAI-Rewriter 中。 3. 选择您想要的重写风格。 4. 点击“在设备上重写”——立即查看您的新版本。 5、另一种用途：">在您的设备上快速、轻松地私下重写文本。 PrivateAI-Rewriter 使用 Apple Intelligence 将您的写作转换为您选择的风格 - 全部在您的 iPhone 或 iPad 上处理，零数据离开您的设备。非常适合工作、学习或创意写作——任何注重隐私的地方。没有订阅。没有云。一次性购买，无限使用。工作原理 1. 复制任何文本（来自 Mac、文档或电子邮件）。 2. 将其粘贴到 PrivateAI-Rewriter 中。 3. 选择您想要的重写风格。 4. 点击“在设备上重写”——立即查看您的新版本。 5、另一种用途：</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/40/cf/c440cf14-0d43-1925-6f4e-cea56efe1938/IMG_0005.PNG/2048x2732bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/af/d7/d2afd777-8701-153f-2009-20290202e894/IMG_0004.PNG/2048x2732bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/private-ai-rewriter/id6754262357" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/dc/79/b0dc79a7-399c-dc12-9e80-b33d38ad075a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">扫描二维码下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/21 02:45</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/private-ai-rewriter/id6754262357" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/private-ai-rewriter/id6754262357" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/dc/79/b0dc79a7-399c-dc12-9e80-b33d38ad075a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/money-pro-personal-finance-ar/id918609651" data-type="discount">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/money-pro-personal-finance-ar/id918609651" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/3d/41/183d41d4-2609-5cd5-7c52-ea57f633fb37/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg" alt="Money Pro: Personal Finance AR" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">Money Pro: Personal Finance AR</h3>
-          <span class="badge badge-discount">限时降价</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">财务</span>
-          <span class="source-tag" style="background:#6366f118;color:#6366f1;border:1px solid #6366f135">付费榜</span>
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch · ⌚Apple Watch</div>
-        <div class="artist-name">iBear LLC</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-discount">
-          <span class="price-from">¥38.00</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">¥8.00</span>
-        </div><div class="price-range">[¥8.00 ~ ¥38.00]</div></div>
-
-    <p class="app-desc" data-raw="轻松做预算。 使用 Money Pro® 来削减开支！ Money Pro 提供一站式账单计划、预算管理和账户跟踪。 本应用程序拥有轻松同步功能，iPhone/iPad 合用同一版本。用户手册中文版能为您提供很大的帮助。 Money Pro 是下一代理财应用程序（全球下载量超过 200 万）。 功能 日历 在大日历中标出账单到期的日子 设置可自定义周期的重复性账单 通过在日历中选择日期来筛选交易 今日视图 快速查看到期账单 发生交易时快速批准 Money Pro 可以预测当天未手动安排的交易 账单到期通知 全面的提醒系统可以提醒您即将到期的账单 快速重新计划选项可以帮助您处理（明天、3 日内、下周）到期的账单 预算 为收入和支出创建预算条目，并指定每个条目的预算限值 您可以为每个时间段设置不同的预算限值，如果您打算逐月缩减开支，此功能非常有用 开始添加您的每个交易，查看每个类别的发展变化情况和总体发展变化情况 用于监控预算超支的直观指示器 选择要分析的类别并即时查看所生成的预算趋势图 预算转结 您可以设置将当前时间段内的预算结余转结至下一预算时间段 如果您在之前的时间段超支，预算转结可自动限制您的支出 支票明细账 您可以同时设立不限数量的账户（支票、储蓄、信用卡等） 将交易设为经常性交易或一次性交易 结余变化历史 用于管理记录的额外字段，包括收款人、说明、支票号、分类（个人支出/出" data-full-description="轻松做预算。 使用 Money Pro® 来削减开支！ Money Pro 提供一站式账单计划、预算管理和账户跟踪。 本应用程序拥有轻松同步功能，iPhone/iPad 合用同一版本。用户手册中文版能为您提供很大的帮助。 Money Pro 是下一代理财应用程序（全球下载量超过 200 万）。 功能 日历 在大日历中标出账单到期的日子 设置可自定义周期的重复性账单 通过在日历中选择日期来筛选交易 今日视图 快速查看到期账单 发生交易时快速批准 Money Pro 可以预测当天未手动安排的交易 账单到期通知 全面的提醒系统可以提醒您即将到期的账单 快速重新计划选项可以帮助您处理（明天、3 日内、下周）到期的账单 预算 为收入和支出创建预算条目，并指定每个条目的预算限值 您可以为每个时间段设置不同的预算限值，如果您打算逐月缩减开支，此功能非常有用 开始添加您的每个交易，查看每个类别的发展变化情况和总体发展变化情况 用于监控预算超支的直观指示器 选择要分析的类别并即时查看所生成的预算趋势图 预算转结 您可以设置将当前时间段内的预算结余转结至下一预算时间段 如果您在之前的时间段超支，预算转结可自动限制您的支出 支票明细账 您可以同时设立不限数量的账户（支票、储蓄、信用卡等） 将交易设为经常性交易或一次性交易 结余变化历史 用于管理记录的额外字段，包括收款人、说明、支票号、分类（个人支出/出">轻松做预算。 使用 Money Pro® 来削减开支！ Money Pro 提供一站式账单计划、预算管理和账户跟踪。 本应用程序拥有轻松同步功能，iPhone/iPad 合用同一版本。用户手册中文版能为您提供很大的帮助。 Money Pro 是下一代理财应用程序（全球下载量超过 200 万）。 功能 日历 在大日历中标出账单到期的日子 设置可自定义周期的重复性账单 通过在日历中选择日期来筛选交易 今日视图 快速查看到期账单 发生交易时快速批准 Money Pro 可以预测当天未手动安排的交易 账单到期通知 全面的提醒系统可以提醒您即将到期的账单 快速重新计划选项可以帮助您处理（明天、3 日内、...</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/95/bb/4395bbc4-501d-a698-761e-11b93f2ff80b/14dcf7d6-85e7-4bea-b6bf-72230b7fb3d0_1.png/1284x2778bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/54/01/58/54015806-8ae2-d653-5ab5-268c58eec278/31b81ae5-bfd3-4b94-90d6-23d10ff4fa59_2.png/1284x2778bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/money-pro-personal-finance-ar/id918609651" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/3d/41/183d41d4-2609-5cd5-7c52-ea57f633fb37/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">扫描二维码下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/21 02:45</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/money-pro-personal-finance-ar/id918609651" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/money-pro-personal-finance-ar/id918609651" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/3d/41/183d41d4-2609-5cd5-7c52-ea57f633fb37/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
           <div class="qr-canvas"></div>
         </div>
       </div>
