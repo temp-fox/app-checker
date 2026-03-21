@@ -996,6 +996,24 @@
     return /[\u4e00-\u9fff]/.test(text);
   }
 
+  function sanitizeDescriptionTextForExport(desc) {
+    if (!desc) return '';
+    return desc
+      .replace(/^[#•·►▸‣⁃*->s]+/gm, '')
+      .replace(/[
+]+/g, ' ')
+      .replace(/s{2,}/g, ' ')
+      .trim();
+  }
+
+  function extractCardExportDescription(card, maxLen) {
+    var limit = typeof maxLen === 'number' ? maxLen : 200;
+    var descEl = card.querySelector('.app-desc');
+    var source = (descEl && (descEl.getAttribute('data-full-description') || descEl.getAttribute('data-raw') || descEl.textContent)) || '';
+    var desc = sanitizeDescriptionTextForExport(source);
+    return desc.length > limit ? desc.substring(0, limit) + '...' : desc;
+  }
+
   async function translateText(text) {
     try {
       var url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=' + encodeURIComponent(text);
