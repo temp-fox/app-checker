@@ -380,7 +380,7 @@
     </div>
     <div class="action-row">
       
-      <button class="fb-featured" style="background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-color:#059669" onclick="window.open('stats.html','_blank','noopener')">📊 历史统计</button>
+      
     </div>
   </div>
   <div class="grid" id="grid">
@@ -493,6 +493,13 @@
     </div>
   </div>
 
+  <div class="card card-ad" style="min-height:200px;display:flex;align-items:center;justify-content:center;">
+    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid"
+         data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-XXXXXXX"
+         data-ad-slot="XXXXXXX"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+
   <div class="card" data-url="https://apps.apple.com/cn/app/fortune-cookie-daily-quotes/id6747518757" data-type="discount">
     
     <div class="card-header">
@@ -545,13 +552,6 @@
         </div>
       </div>
     </div>
-  </div>
-
-  <div class="card card-ad" style="min-height:200px;display:flex;align-items:center;justify-content:center;">
-    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid"
-         data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-XXXXXXX"
-         data-ad-slot="XXXXXXX"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/infographic-and-poster-creator/id977865042" data-type="free">
@@ -2223,9 +2223,7 @@
   </div>
   </div>
 </div>
-<footer class="page-footer">
-  数据来源：App Store 官方 · 每 2 小时自动更新
-</footer>
+
 <button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="返回顶部">↑</button>
 <script>
   
@@ -2359,11 +2357,16 @@
     var content = document.createElement('div');
     content.className = 'qr-overlay-content';
     content.onclick = function(e) { e.stopPropagation(); };
-    var qrCanvas = el.querySelector('.qr-canvas');
-    if (qrCanvas) {
-      var clone = qrCanvas.cloneNode(true);
-      clone.style.transform = 'none';
-      content.appendChild(clone);
+    var url = el.getAttribute('data-url');
+    if (url) {
+      var qrDiv = document.createElement('div');
+      qrDiv.className = 'qr-canvas';
+      new QRCode(qrDiv, {
+        text: url, width: 162, height: 162,
+        colorDark: '#1c1c1e', colorLight: '#ffffff',
+        correctLevel: QRCode.CorrectLevel.M
+      });
+      content.appendChild(qrDiv);
     }
     var iconUrl = el.getAttribute('data-icon');
     if (iconUrl) {
