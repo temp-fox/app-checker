@@ -414,6 +414,8 @@
     <select id="qrProviderSelect" class="qr-select" title="选择二维码API服务商"></select>
     <button class="fb-copy" id="copyMdBtn" onclick="copyAsMarkdown()">📝 复制为Markdown</button>
     <button class="fb-copy" id="copySvgBtn" onclick="copyAsSvgMarkdown()">🖼 生成SVG</button>
+    <button class="fb-copy" id="copySvgFullBtn" onclick="copySvgFull()" style="display:none">📋 完整复制</button>
+    <button class="fb-copy" id="copySvgLiteBtn" onclick="copySvgLite()" style="display:none">📋 轻量复制</button>
     <button class="fb-copy" id="copyWxBtn" onclick="copyAsWxArticleHtml()">📋 复制为公众号</button>
     <button class="fb-copy" id="previewWxBtn" onclick="previewWeChat()">👁 预览公众号</button>
   </div>
@@ -1487,41 +1489,81 @@
 
   // ── 「复制为 SVG」两步模式 ──
   // 第一步：点击"生成SVG"→ 异步转 base64 + SVG 包裹，结果存入 _svgPreparedHtml
-  // 第二步：点击"复制SVG"→ 立即写入剪贴板（无异步操作，手势不会超时）
+  // 第二步：点击"完整复制"或"轻量复制"→ 立即写入剪贴板
   var _svgPreparedHtml = null;
+
+  // 切换按钮显示状态
+  function _svgShowCopyBtns(show) {
+    var genBtn = document.getElementById('copySvgBtn');
+    var fullBtn = document.getElementById('copySvgFullBtn');
+    var liteBtn = document.getElementById('copySvgLiteBtn');
+    if (show) {
+      genBtn && (genBtn.style.display = 'none');
+      fullBtn && (fullBtn.style.display = '');
+      liteBtn && (liteBtn.style.display = '');
+    } else {
+      genBtn && (genBtn.style.display = '');
+      genBtn && (genBtn.style.cssText = '');
+      fullBtn && (fullBtn.style.display = 'none');
+      liteBtn && (liteBtn.style.display = 'none');
+    }
+  }
+
+  // 完整复制：text/html + text/plain 都是完整 HTML（数据量大，兼容性强）
+  async function copySvgFull() {
+    if (!_svgPreparedHtml) return;
+    var dataHtml = _svgPreparedHtml;
+    _svgPreparedHtml = null;
+    var btn = document.getElementById('copySvgFullBtn');
+    var copied = false;
+    if (navigator.clipboard && window.ClipboardItem) {
+      try {
+        await navigator.clipboard.write([
+          new ClipboardItem({
+            'text/html': new Blob([dataHtml], { type: 'text/html' }),
+            'text/plain': new Blob([dataHtml], { type: 'text/plain' })
+          })
+        ]);
+        copied = true;
+      } catch(e) {}
+    }
+    if (!copied) {
+      fallbackCopyMarkdown(dataHtml, btn);
+      copied = true;
+    }
+    _svgShowCopyBtns(false);
+    if (copied) showCopied(document.getElementById('copySvgBtn'), '🖼 生成SVG');
+  }
+
+  // 轻量复制：text/html = 完整 HTML, text/plain = 占位符（数据量小）
+  async function copySvgLite() {
+    if (!_svgPreparedHtml) return;
+    var dataHtml = _svgPreparedHtml;
+    _svgPreparedHtml = null;
+    var btn = document.getElementById('copySvgLiteBtn');
+    var copied = false;
+    if (navigator.clipboard && window.ClipboardItem) {
+      try {
+        await navigator.clipboard.write([
+          new ClipboardItem({
+            'text/html': new Blob([dataHtml], { type: 'text/html' }),
+            'text/plain': new Blob(['[SVG公众号内容 - 请在富文本编辑器中粘贴]'], { type: 'text/plain' })
+          })
+        ]);
+        copied = true;
+      } catch(e) {}
+    }
+    if (!copied) {
+      fallbackCopyMarkdown(dataHtml, btn);
+      copied = true;
+    }
+    _svgShowCopyBtns(false);
+    if (copied) showCopied(document.getElementById('copySvgBtn'), '🖼 生成SVG');
+  }
+
+  // 第一步：生成 SVG 数据
   async function copyAsSvgMarkdown() {
     var btn = document.getElementById('copySvgBtn');
-
-    // ── 第二步：数据已就绪，立即复制 ──
-    if (_svgPreparedHtml) {
-      var dataHtml = _svgPreparedHtml;
-      _svgPreparedHtml = null;
-      var copied = false;
-      if (navigator.clipboard && window.ClipboardItem) {
-        try {
-          await navigator.clipboard.write([
-            new ClipboardItem({
-              'text/html': new Blob([dataHtml], { type: 'text/html' }),
-              'text/plain': new Blob(['SVG 公众号内容'], { type: 'text/plain' })
-            })
-          ]);
-          copied = true;
-        } catch(e) {}
-      }
-      if (!copied) {
-        fallbackCopyMarkdown(dataHtml, btn);
-        copied = true;
-      }
-      if (copied) {
-        showCopied(btn, '🖼 生成SVG');
-      } else {
-        btn.textContent = '🖼 生成SVG';
-        btn.style.cssText = '';
-      }
-      return;
-    }
-
-    // ── 第一步：生成 SVG 数据 ──
     var cards = document.querySelectorAll('.card');
     if (!cards.length) return;
 
@@ -1649,12 +1691,9 @@
     await wrapImagesWithSvg(tmp);
     _svgPreparedHtml = tmp.innerHTML;
 
-    // 生成完成，切换按钮为"复制"状态
+    // 生成完成，隐藏"生成"按钮，显示两个复制按钮
     btn && (btn.disabled = false);
-    btn.textContent = '📋 复制SVG';
-    btn.style.borderColor = '#059669';
-    btn.style.color = '#047857';
-    btn.style.background = 'linear-gradient(135deg,#ecfdf5,#d1fae5)';
+    _svgShowCopyBtns(true);
   }
 
   function parseYuan(str) {
