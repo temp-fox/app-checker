@@ -1452,48 +1452,85 @@
   }
 
   // ── 将 <img> 替换为 SVG 包裹，绕过公众号 base64 图片限制 ──
-  function wrapImagesWithSvg(container) {
+  // 使用 viewBox 定义坐标系，CSS 控制显示尺寸，确保百分比宽度图片正确缩放
+  async function wrapImagesWithSvg(container) {
     var imgs = Array.from(container.querySelectorAll('img'));
-    imgs.forEach(function(img, idx) {
+    for (var idx = 0; idx < imgs.length; idx++) {
+      var img = imgs[idx];
       var src = img.getAttribute('src') || '';
       var style = img.getAttribute('style') || '';
 
-      // 解析 width / height
-      var wMatch = style.match(/width\s*:\s*(\d+(?:\.\d+)?)px/);
-      var hMatch = style.match(/height\s*:\s*(\d+(?:\.\d+)?)px/);
-      var w = wMatch ? parseFloat(wMatch[1]) : (img.naturalWidth || img.width || 100);
-      var h = hMatch ? parseFloat(hMatch[1]) : (img.naturalHeight || img.height || 100);
+      // 检测 object-fit:cover → SVG preserveAspectRatio="xMidYMid slice"
+      var hasObjectFitCover = /object-fit\s*:\s*cover/i.test(style);
+
+      // 解析像素 width / height（用于 viewBox 和 image 元素）
+      var pxWMatch = style.match(/(?:^|;)\s*width\s*:\s*(\d+(?:\.\d+)?)px/i);
+      var pxHMatch = style.match(/(?:^|;)\s*height\s*:\s*(\d+(?:\.\d+)?)px/i);
+      var pxW = pxWMatch ? parseFloat(pxWMatch[1]) : 0;
+      var pxH = pxHMatch ? parseFloat(pxHMatch[1]) : 0;
+
+      // 检测百分比宽度（如 width:100%）
+      var hasPercentWidth = /(?:^|;)\s*width\s*:\s*[\d.]+%/i.test(style);
+
+      // 如果没有像素尺寸，从 base64 图片获取实际尺寸
+      if ((!pxW || !pxH) && src.startsWith('data:')) {
+        var dims = await getImageDimensions(src);
+        if (!pxW) pxW = dims.width;
+        if (!pxH) pxH = dims.height;
+      }
+      if (!pxW) pxW = 100;
+      if (!pxH) pxH = 100;
 
       // 解析 border-radius → rx
       var brMatch = style.match(/border-radius\s*:\s*(\d+(?:\.\d+)?)px/);
       var rx = brMatch ? parseFloat(brMatch[1]) : 0;
 
-      // 收集需要保留到 SVG 元素上的样式（排除 width/height/border-radius）
+      // 构建 SVG 样式：保留原始 CSS（包括 width/height），排除 border-radius 和 object-fit
       var svgStyles = [];
       style.split(';').forEach(function(part) {
         var trimmed = part.trim();
         if (!trimmed) return;
-        if (/^width\s*:/i.test(trimmed)) return;
-        if (/^height\s*:/i.test(trimmed)) return;
         if (/^border-radius\s*:/i.test(trimmed)) return;
+        if (/^object-fit\s*:/i.test(trimmed)) return;
         svgStyles.push(trimmed);
       });
-      var svgStyleStr = svgStyles.length > 0 ? svgStyles.join(';') + ';' : '';
+      // 百分比宽度且无显式 height 时，加 height:auto 保持比例
+      if (hasPercentWidth && !pxHMatch) {
+        svgStyles.push('height:auto');
+      }
+      var svgStyleStr = svgStyles.join(';') + ';';
 
       var clipId = 'clip-' + idx;
+      var svgPAR = hasObjectFitCover ? 'xMidYMid slice' : 'xMidYMid meet';
+
       var svgHtml = '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"'
-        + ' width="' + w + '" height="' + h + '"'
-        + (svgStyleStr ? ' style="' + svgStyleStr + '"' : '') + '>';
+        + ' viewBox="0 0 ' + pxW + ' ' + pxH + '"'
+        + ' preserveAspectRatio="' + svgPAR + '"'
+        + ' style="' + svgStyleStr + '">';
       if (rx > 0) {
-        svgHtml += '<defs><clipPath id="' + clipId + '"><rect width="' + w + '" height="' + h + '" rx="' + rx + '"/></clipPath></defs>';
+        svgHtml += '<defs><clipPath id="' + clipId + '"><rect width="' + pxW + '" height="' + pxH + '" rx="' + rx + '"/></clipPath></defs>';
       }
       svgHtml += '<image xlink:href="' + src.replace(/&/g, '&amp;').replace(/"/g, '&quot;') + '"'
-        + ' width="' + w + '" height="' + h + '"'
+        + ' width="' + pxW + '" height="' + pxH + '"'
         + (rx > 0 ? ' clip-path="url(#' + clipId + ')"' : '')
         + ' preserveAspectRatio="xMidYMid slice"/>';
       svgHtml += '</svg>';
 
       img.outerHTML = svgHtml;
+    }
+  }
+
+  // 从 base64 data URL 获取图片实际像素尺寸
+  function getImageDimensions(src) {
+    return new Promise(function(resolve) {
+      var img = new Image();
+      img.onload = function() {
+        resolve({ width: img.naturalWidth || img.width || 100, height: img.naturalHeight || img.height || 100 });
+      };
+      img.onerror = function() {
+        resolve({ width: 100, height: 100 });
+      };
+      img.src = src;
     });
   }
 
@@ -1627,7 +1664,7 @@
     }
 
     // 将 <img> 替换为 SVG 包裹
-    wrapImagesWithSvg(tmp);
+    await wrapImagesWithSvg(tmp);
     var convertedHtml = tmp.innerHTML;
 
     // 写入剪贴板
