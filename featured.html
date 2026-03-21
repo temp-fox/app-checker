@@ -1452,13 +1452,21 @@
   }
 
   // ── 将 <img> 替换为 SVG 包裹，绕过公众号 base64 图片限制 ──
-  // 使用 viewBox 定义坐标系，CSS 控制显示尺寸，确保百分比宽度图片正确缩放
+  // 有装饰属性（border-radius / box-shadow / border）的图片用 <span> 包裹：
+  //   装饰样式放在 span 上 + overflow:hidden，SVG 仅负责显示图片
+  // 无装饰的图片（如截图）直接用 SVG 替换，viewBox + CSS 控制尺寸
   async function wrapImagesWithSvg(container) {
     var imgs = Array.from(container.querySelectorAll('img'));
     for (var idx = 0; idx < imgs.length; idx++) {
       var img = imgs[idx];
       var src = img.getAttribute('src') || '';
       var style = img.getAttribute('style') || '';
+
+      // 检测装饰属性
+      var hasBorderRadius = /border-radius\s*:/i.test(style);
+      var hasBoxShadow = /box-shadow\s*:/i.test(style);
+      var hasBorder = /(?:^|;)\s*border\s*:/i.test(style);
+      var needsWrapper = hasBorderRadius || hasBoxShadow || hasBorder;
 
       // 检测 object-fit:cover → SVG preserveAspectRatio="xMidYMid slice"
       var hasObjectFitCover = /object-fit\s*:\s*cover/i.test(style);
@@ -1481,42 +1489,55 @@
       if (!pxW) pxW = 100;
       if (!pxH) pxH = 100;
 
-      // 解析 border-radius → rx
-      var brMatch = style.match(/border-radius\s*:\s*(\d+(?:\.\d+)?)px/);
-      var rx = brMatch ? parseFloat(brMatch[1]) : 0;
-
-      // 构建 SVG 样式：保留原始 CSS（包括 width/height），排除 border-radius 和 object-fit
-      var svgStyles = [];
-      style.split(';').forEach(function(part) {
-        var trimmed = part.trim();
-        if (!trimmed) return;
-        if (/^border-radius\s*:/i.test(trimmed)) return;
-        if (/^object-fit\s*:/i.test(trimmed)) return;
-        svgStyles.push(trimmed);
-      });
-      // 百分比宽度且无显式 height 时，加 height:auto 保持比例
-      if (hasPercentWidth && !pxHMatch) {
-        svgStyles.push('height:auto');
-      }
-      var svgStyleStr = svgStyles.join(';') + ';';
-
-      var clipId = 'clip-' + idx;
       var svgPAR = hasObjectFitCover ? 'xMidYMid slice' : 'xMidYMid meet';
 
-      var svgHtml = '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"'
-        + ' viewBox="0 0 ' + pxW + ' ' + pxH + '"'
-        + ' preserveAspectRatio="' + svgPAR + '"'
-        + ' style="' + svgStyleStr + '">';
-      if (rx > 0) {
-        svgHtml += '<defs><clipPath id="' + clipId + '"><rect width="' + pxW + '" height="' + pxH + '" rx="' + rx + '"/></clipPath></defs>';
-      }
-      svgHtml += '<image xlink:href="' + src.replace(/&/g, '&amp;').replace(/"/g, '&quot;') + '"'
-        + ' width="' + pxW + '" height="' + pxH + '"'
-        + (rx > 0 ? ' clip-path="url(#' + clipId + ')"' : '')
-        + ' preserveAspectRatio="xMidYMid slice"/>';
-      svgHtml += '</svg>';
+      if (needsWrapper) {
+        // ── 包裹模式：span 负责装饰（圆角/阴影/边框），SVG 只显示图片 ──
+        var wrapperStyles = ['display:inline-block', 'overflow:hidden'];
+        style.split(';').forEach(function(part) {
+          var trimmed = part.trim();
+          if (!trimmed) return;
+          if (/^object-fit\s*:/i.test(trimmed)) return;
+          wrapperStyles.push(trimmed);
+        });
+        var wrapperStyleStr = wrapperStyles.join(';') + ';';
 
-      img.outerHTML = svgHtml;
+        var html = '<span style="' + wrapperStyleStr + '">';
+        html += '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"';
+        html += ' viewBox="0 0 ' + pxW + ' ' + pxH + '"';
+        html += ' preserveAspectRatio="' + svgPAR + '"';
+        html += ' style="display:block;width:100%;height:100%;">';
+        html += '<image xlink:href="' + src.replace(/&/g, '&amp;').replace(/"/g, '&quot;') + '"';
+        html += ' width="' + pxW + '" height="' + pxH + '"';
+        html += ' preserveAspectRatio="xMidYMid slice"/>';
+        html += '</svg></span>';
+
+        img.outerHTML = html;
+      } else {
+        // ── 直接模式：截图等无装饰图片，SVG 保留原始 CSS ──
+        var svgStyles = [];
+        style.split(';').forEach(function(part) {
+          var trimmed = part.trim();
+          if (!trimmed) return;
+          if (/^object-fit\s*:/i.test(trimmed)) return;
+          svgStyles.push(trimmed);
+        });
+        if (hasPercentWidth && !pxHMatch) {
+          svgStyles.push('height:auto');
+        }
+        var svgStyleStr = svgStyles.join(';') + ';';
+
+        var svgHtml = '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"'
+          + ' viewBox="0 0 ' + pxW + ' ' + pxH + '"'
+          + ' preserveAspectRatio="' + svgPAR + '"'
+          + ' style="' + svgStyleStr + '">';
+        svgHtml += '<image xlink:href="' + src.replace(/&/g, '&amp;').replace(/"/g, '&quot;') + '"'
+          + ' width="' + pxW + '" height="' + pxH + '"'
+          + ' preserveAspectRatio="xMidYMid slice"/>';
+        svgHtml += '</svg>';
+
+        img.outerHTML = svgHtml;
+      }
     }
   }
 
