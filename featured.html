@@ -413,7 +413,7 @@
     <a href="index.html" class="back-btn">← 返回全部</a>
     <select id="qrProviderSelect" class="qr-select" title="选择二维码API服务商"></select>
     <button class="fb-copy" id="copyMdBtn" onclick="copyAsMarkdown()">📝 复制为Markdown</button>
-    <button class="fb-copy" id="copySvgBtn" onclick="copyAsSvgMarkdown()">🖼 复制为SVG</button>
+    <button class="fb-copy" id="copySvgBtn" onclick="copyAsSvgMarkdown()">🖼 生成SVG</button>
     <button class="fb-copy" id="copyWxBtn" onclick="copyAsWxArticleHtml()">📋 复制为公众号</button>
     <button class="fb-copy" id="previewWxBtn" onclick="previewWeChat()">👁 预览公众号</button>
   </div>
@@ -1485,10 +1485,43 @@
     });
   }
 
-  // ── 「复制为 SVG」按钮 ──
-  // 与 copyAsMarkdown 类似，但始终转 base64 + SVG 包裹，不弹对话框
+  // ── 「复制为 SVG」两步模式 ──
+  // 第一步：点击"生成SVG"→ 异步转 base64 + SVG 包裹，结果存入 _svgPreparedHtml
+  // 第二步：点击"复制SVG"→ 立即写入剪贴板（无异步操作，手势不会超时）
+  var _svgPreparedHtml = null;
   async function copyAsSvgMarkdown() {
     var btn = document.getElementById('copySvgBtn');
+
+    // ── 第二步：数据已就绪，立即复制 ──
+    if (_svgPreparedHtml) {
+      var dataHtml = _svgPreparedHtml;
+      _svgPreparedHtml = null;
+      var copied = false;
+      if (navigator.clipboard && window.ClipboardItem) {
+        try {
+          await navigator.clipboard.write([
+            new ClipboardItem({
+              'text/html': new Blob([dataHtml], { type: 'text/html' }),
+              'text/plain': new Blob([dataHtml], { type: 'text/plain' })
+            })
+          ]);
+          copied = true;
+        } catch(e) {}
+      }
+      if (!copied) {
+        fallbackCopyMarkdown(dataHtml, btn);
+        copied = true;
+      }
+      if (copied) {
+        showCopied(btn, '🖼 生成SVG');
+      } else {
+        btn.textContent = '🖼 生成SVG';
+        btn.style.cssText = '';
+      }
+      return;
+    }
+
+    // ── 第一步：生成 SVG 数据 ──
     var cards = document.querySelectorAll('.card');
     if (!cards.length) return;
 
@@ -1499,7 +1532,7 @@
     var mMatch = dateText.match(/(\d+)月(\d+)日/);
     if (mMatch) monthDay = mMatch[1] + '月' + mMatch[2] + '日';
 
-    // 解析所有卡片数据（复用 copyAsMarkdown 相同逻辑）
+    // 解析所有卡片数据
     var appList = [];
     cards.forEach(function(card) {
       var type = card.dataset.type || 'free';
@@ -1598,33 +1631,30 @@
     // 构建 HTML
     var html = buildWeChatHTML(titleLine1, titleLine2, titleLine3, appList);
 
-    // 始终转 base64 + SVG 包裹
-    // 利用 clipboardWriteAsync 的 Promise<Blob> 机制保持移动端手势有效性
-    var origText = btn ? btn.textContent : '';
-    btn && (btn.textContent = '⏳ 正在处理图片...');
+    // 异步转 base64 + SVG 包裹
+    btn && (btn.textContent = '⏳ 正在生成...');
     btn && (btn.disabled = true);
 
-    try {
-      await clipboardWriteAsync(async function() {
-        var tmp = document.createElement('div');
-        tmp.innerHTML = html;
-        var failures = await convertImagesToBase64(tmp);
-        if (failures.length > 0) {
-          var err = new Error('conversion');
-          err.failures = failures;
-          throw err;
-        }
-        await wrapImagesWithSvg(tmp);
-        return tmp.innerHTML;
-      }, btn, origText);
-    } catch(e) {
-      if (e.failures) {
-        var details = e.failures.map(function(f) { return f.url + ' → ' + f.error; }).join('\n');
-        showErrorDialog('图片转换失败（' + e.failures.length + ' 张）', details);
-      }
+    var tmp = document.createElement('div');
+    tmp.innerHTML = html;
+    var failures = await convertImagesToBase64(tmp);
+    if (failures.length > 0) {
+      btn && (btn.disabled = false);
+      btn && (btn.textContent = '🖼 生成SVG');
+      var details = failures.map(function(f) { return f.url + ' → ' + f.error; }).join('\n');
+      showErrorDialog('图片转换失败（' + failures.length + ' 张）', details);
+      return;
     }
+
+    await wrapImagesWithSvg(tmp);
+    _svgPreparedHtml = tmp.innerHTML;
+
+    // 生成完成，切换按钮为"复制"状态
     btn && (btn.disabled = false);
-    btn && (btn.textContent = origText);
+    btn.textContent = '📋 复制SVG';
+    btn.style.borderColor = '#059669';
+    btn.style.color = '#047857';
+    btn.style.background = 'linear-gradient(135deg,#ecfdf5,#d1fae5)';
   }
 
   function parseYuan(str) {
