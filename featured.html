@@ -1489,7 +1489,6 @@
   async function copyMdFull() {
     if (!_mdPreparedHtml) return;
     var dataHtml = _mdPreparedHtml;
-    _mdPreparedHtml = null;
     var btn = document.getElementById('copyMdFullBtn');
     var copied = false;
     if (navigator.clipboard && window.ClipboardItem) {
@@ -1507,15 +1506,13 @@
       fallbackCopyMarkdown(dataHtml, btn);
       copied = true;
     }
-    _mdShowCopyBtns(false);
-    if (copied) showCopied(document.getElementById('copyMdBtn'), '📝 复制为Markdown');
+    if (copied) showCopied(btn);
   }
 
   // Markdown 轻量复制：text/html = 完整 HTML, text/plain = 占位符
   async function copyMdLite() {
     if (!_mdPreparedHtml) return;
     var dataHtml = _mdPreparedHtml;
-    _mdPreparedHtml = null;
     var btn = document.getElementById('copyMdLiteBtn');
     var copied = false;
     if (navigator.clipboard && window.ClipboardItem) {
@@ -1533,24 +1530,18 @@
       fallbackCopyMarkdown(dataHtml, btn);
       copied = true;
     }
-    _mdShowCopyBtns(false);
-    if (copied) showCopied(document.getElementById('copyMdBtn'), '📝 复制为Markdown');
+    if (copied) showCopied(btn);
   }
 
-  // Markdown 纯文本复制：仅 text/plain = 完整 HTML
+  // Markdown 纯文本复制：仅写纯文本
   async function copyMdText() {
     if (!_mdPreparedHtml) return;
     var dataHtml = _mdPreparedHtml;
-    _mdPreparedHtml = null;
     var btn = document.getElementById('copyMdTextBtn');
     var copied = false;
-    if (navigator.clipboard && window.ClipboardItem) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
       try {
-        await navigator.clipboard.write([
-          new ClipboardItem({
-            'text/plain': new Blob([dataHtml], { type: 'text/plain' })
-          })
-        ]);
+        await navigator.clipboard.writeText(dataHtml);
         copied = true;
       } catch(e) {}
     }
@@ -1565,8 +1556,7 @@
         copied = true;
       } catch(e2) {}
     }
-    _mdShowCopyBtns(false);
-    if (copied) showCopied(document.getElementById('copyMdBtn'), '📝 复制为Markdown');
+    if (copied) showCopied(btn);
   }
 
   // 切换 SVG 按钮显示状态
@@ -1593,7 +1583,6 @@
   async function copySvgFull() {
     if (!_svgPreparedHtml) return;
     var dataHtml = _svgPreparedHtml;
-    _svgPreparedHtml = null;
     var btn = document.getElementById('copySvgFullBtn');
     var copied = false;
     if (navigator.clipboard && window.ClipboardItem) {
@@ -1611,15 +1600,13 @@
       fallbackCopyMarkdown(dataHtml, btn);
       copied = true;
     }
-    _svgShowCopyBtns(false);
-    if (copied) showCopied(document.getElementById('copySvgBtn'), '🖼 生成SVG');
+    if (copied) showCopied(btn);
   }
 
   // 轻量复制：text/html = 完整 HTML, text/plain = 占位符（数据量小）
   async function copySvgLite() {
     if (!_svgPreparedHtml) return;
     var dataHtml = _svgPreparedHtml;
-    _svgPreparedHtml = null;
     var btn = document.getElementById('copySvgLiteBtn');
     var copied = false;
     if (navigator.clipboard && window.ClipboardItem) {
@@ -1637,24 +1624,18 @@
       fallbackCopyMarkdown(dataHtml, btn);
       copied = true;
     }
-    _svgShowCopyBtns(false);
-    if (copied) showCopied(document.getElementById('copySvgBtn'), '🖼 生成SVG');
+    if (copied) showCopied(btn);
   }
 
-  // 纯文本复制：仅 text/plain = 完整 HTML（纯文本编辑器场景）
+  // 纯文本复制：仅写纯文本
   async function copySvgText() {
     if (!_svgPreparedHtml) return;
     var dataHtml = _svgPreparedHtml;
-    _svgPreparedHtml = null;
     var btn = document.getElementById('copySvgTextBtn');
     var copied = false;
-    if (navigator.clipboard && window.ClipboardItem) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
       try {
-        await navigator.clipboard.write([
-          new ClipboardItem({
-            'text/plain': new Blob([dataHtml], { type: 'text/plain' })
-          })
-        ]);
+        await navigator.clipboard.writeText(dataHtml);
         copied = true;
       } catch(e) {}
     }
@@ -1669,8 +1650,7 @@
         copied = true;
       } catch(e2) {}
     }
-    _svgShowCopyBtns(false);
-    if (copied) showCopied(document.getElementById('copySvgBtn'), '🖼 生成SVG');
+    if (copied) showCopied(btn);
   }
 
   // 第一步：生成 SVG 数据
