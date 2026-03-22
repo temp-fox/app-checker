@@ -410,6 +410,33 @@
       box-shadow: 0 4px 20px rgba(0,0,0,0.08) !important;
     }
 
+    /* ── 工具栏折叠（移动端） ── */
+    .tools-toggle {
+      display: none; /* 电脑端隐藏 */
+      border: 1px solid transparent; border-radius: 20px;
+      padding: 8px 16px; font-size: 14px; font-weight: 600; cursor: pointer;
+      background: linear-gradient(135deg, #f59e0b, #d97706); color: #fff;
+      box-shadow: 0 2px 8px rgba(245,158,11,0.2); white-space: nowrap;
+      height: 36px; align-items: center; justify-content: center;
+      transition: all 0.2s;
+    }
+    .tools-toggle:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(245,158,11,0.3); }
+    .tools-toggle.active { background: linear-gradient(135deg, #d97706, #b45309); }
+    .tools-area { display: contents; } /* 电脑端所有按钮正常流式排列 */
+
+    @media (max-width: 860px) {
+      .tools-toggle { display: inline-flex; }
+      .tools-area {
+        display: none; /* 默认折叠 */
+        width: 100%; flex-wrap: wrap; gap: 8px;
+        padding-top: 12px; margin-top: 12px;
+        border-top: 1px solid var(--border-light);
+      }
+      .tools-area.open { display: flex; }
+      .tools-area > * { flex: 1; min-width: 45%; }
+      .back-bar { flex-wrap: wrap; }
+    }
+
     /* ── Dark Mode (class-based) ── */
     html.dark {
       --primary: #0A84FF;
@@ -481,6 +508,7 @@
     }
     html.dark .back-btn { background: rgba(44,44,46,0.8); color: #0A84FF; border-color: rgba(255,255,255,0.1); }
     html.dark .back-btn:hover { background: rgba(44,44,46,1); }
+    html.dark .tools-area { border-top-color: rgba(255,255,255,0.08); }
     html.dark .price-range { color: #98989D; }
     html.dark .iap-hint { color: #FFD60A; background: rgba(255,214,10,0.08); border-top-color: rgba(255,214,10,0.15); }
     html.dark .iap-range { color: #FF9F0A; }
@@ -622,15 +650,6 @@
     </div>
   </div>
 
-  <!-- AD_PLACEHOLDER
-  <div class="card card-ad" style="min-height:200px;display:flex;align-items:center;justify-content:center;">
-    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid"
-         data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-XXXXXXX"
-         data-ad-slot="XXXXXXX"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-  </div>
-  AD_PLACEHOLDER -->
-
   <div class="card" data-url="https://apps.apple.com/cn/app/economy-picking-guitar-school/id543001890" data-type="discount">
     <div class="rank-badge">3</div>
     <div class="card-header">
@@ -684,6 +703,15 @@
       </div>
     </div>
   </div>
+
+  <!-- AD_PLACEHOLDER
+  <div class="card card-ad" style="min-height:200px;display:flex;align-items:center;justify-content:center;">
+    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid"
+         data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-XXXXXXX"
+         data-ad-slot="XXXXXXX"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  AD_PLACEHOLDER -->
 
   <div class="card" data-url="https://apps.apple.com/cn/app/fortune-cookie-daily-quotes/id6747518757" data-type="discount">
     <div class="rank-badge">4</div>
