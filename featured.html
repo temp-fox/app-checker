@@ -352,16 +352,35 @@
       .card-header { gap: 12px; }
     }
   
-    /* ── 数据来源（融入 header 底部） ── */
-    .source-info {
-      display: inline-flex; align-items: center; gap: 6px;
-      margin-top: 20px; padding: 8px 18px; border-radius: 20px;
-      background: var(--card-blur); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
-      border: 1px solid var(--border-light);
-      font-size: 12px; font-weight: 600; color: var(--sub); letter-spacing: 0.2px;
+    /* ── 数据来源副标题 ── */
+    .h-sub-source {
+      font-size: 14px; font-weight: 500; color: var(--sub);
+      margin-bottom: 24px; letter-spacing: -0.1px;
     }
-    .source-info .dot { width: 6px; height: 6px; border-radius: 50%; background: #34C759; animation: pulse 2s ease-in-out infinite; }
-    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+    .h-sub-source::before { content: '📡 '; }
+
+    /* ── 统计标签可点击 + sticky ── */
+    .h-stats-clickable {
+      position: sticky; top: 0; z-index: 50;
+      margin-left: -20px; margin-right: -20px;
+      padding: 0 !important;
+      transition: background 0.3s, box-shadow 0.3s, border-radius 0.3s;
+    }
+    .h-stats-clickable .stat-filter {
+      cursor: pointer; transition: all 0.25s cubic-bezier(0.2,0.8,0.2,1);
+      position: relative; user-select: none;
+    }
+    .h-stats-clickable .stat-filter:hover { background: rgba(10,132,255,0.06); }
+    .h-stats-clickable .stat-filter.active {
+      background: rgba(10,132,255,0.08);
+    }
+    .h-stats-clickable .stat-filter.active::after {
+      content: ''; position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);
+      width: 24px; height: 3px; border-radius: 3px;
+      background: var(--primary);
+    }
+    .h-stats-clickable .stat-filter.active .stat-num { color: var(--primary); }
+    .h-stats-clickable .stat-filter.active .stat-label { color: var(--primary); opacity: 0.8; }
 
     /* ── 暗色模式切换按钮 ── */
     .theme-toggle {
@@ -373,30 +392,6 @@
       transition: all 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
     }
     .theme-toggle:hover { transform: translateY(-3px) scale(1.05); box-shadow: var(--shadow-lg); }
-
-    /* ── Sticky 筛选栏 ── */
-    .filter-bar {
-      position: sticky; top: 0; z-index: 50;
-      border-radius: 0 0 var(--r) var(--r) !important;
-      margin-left: -16px; margin-right: -16px; margin-top: 0;
-      padding: 12px 20px !important;
-      background: rgba(255,255,255,0.85) !important;
-      backdrop-filter: saturate(200%) blur(30px) !important; -webkit-backdrop-filter: saturate(200%) blur(30px) !important;
-      border-top: none !important; border-left: none !important; border-right: none !important;
-      border-bottom: 1px solid rgba(0,0,0,0.06) !important;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.08) !important;
-      transition: box-shadow 0.3s, background 0.3s;
-    }
-    .filter-bar .fb {
-      background: rgba(0,0,0,0.04); border: 1px solid rgba(0,0,0,0.08);
-      font-size: 13px; height: 34px; padding: 6px 14px;
-      border-radius: 18px; transition: all 0.2s;
-    }
-    .filter-bar .fb:hover { background: rgba(0,0,0,0.08); border-color: rgba(0,0,0,0.12); }
-    .filter-bar .fb.active {
-      background: var(--primary); color: #fff;
-      border-color: var(--primary); box-shadow: 0 2px 8px rgba(10,132,255,0.3);
-    }
 
     /* ── Sticky 返回栏 ── */
     .back-bar {
@@ -470,16 +465,15 @@
     html.dark .empty { background: rgba(44,44,46,0.65); border-color: rgba(255,255,255,0.08); }
     html.dark .back-top { background: rgba(44,44,46,0.8); color: #F5F5F7; border-color: rgba(255,255,255,0.1); }
     html.dark .back-top:hover { color: #0A84FF; }
-    html.dark .source-info { background: rgba(44,44,46,0.7); border-color: rgba(255,255,255,0.08); }
+    html.dark .h-sub-source { color: #98989D; }
+    html.dark .h-stats-clickable .stat-filter:hover { background: rgba(10,132,255,0.1); }
+    html.dark .h-stats-clickable .stat-filter.active { background: rgba(10,132,255,0.15); }
     html.dark .theme-toggle { background: rgba(44,44,46,0.8); border-color: rgba(255,255,255,0.1); }
-    html.dark .filter-bar, html.dark .back-bar {
+    html.dark .back-bar {
       background: rgba(28,28,30,0.88) !important;
       border-bottom-color: rgba(255,255,255,0.06) !important;
       box-shadow: 0 4px 20px rgba(0,0,0,0.3) !important;
     }
-    html.dark .filter-bar .fb { background: rgba(255,255,255,0.06); border-color: rgba(255,255,255,0.1); color: #F5F5F7; }
-    html.dark .filter-bar .fb:hover { background: rgba(255,255,255,0.1); }
-    html.dark .filter-bar .fb.active { background: #0A84FF; color: #fff; border-color: #0A84FF; }
     html.dark .back-btn { background: rgba(44,44,46,0.8); color: #0A84FF; border-color: rgba(255,255,255,0.1); }
     html.dark .back-btn:hover { background: rgba(44,44,46,1); }
     html.dark .price-range { color: #98989D; }
@@ -500,14 +494,14 @@
     <div class="h-icon">⭐</div>
     <div class="h-date">2026年3月22日</div>
     <h1 class="h-title">今日精选限免</h1>
-    <p class="h-sub">从今日 31 款优惠中精选 · 最值得下载</p>
+    <p class="h-sub-source">数据来源 App Store 官方 · 每 2 小时自动更新</p>
+    <p class="h-sub">从今日 28 款优惠中精选 · 最值得下载</p>
     <div class="h-stats">
       <div class="stat"><span class="stat-num">10</span><span class="stat-label">精选应用</span></div>
       <div class="stat"><span class="stat-num">10</span><span class="stat-label">完全免费</span></div>
       <div class="stat"><span class="stat-num">0</span><span class="stat-label">内购优惠</span></div>
       <div class="stat"><span class="stat-num">0</span><span class="stat-label">限时降价</span></div>
     </div>
-    <div class="source-info"><span class="dot"></span>数据来源 App Store 官方 · 每 2 小时自动更新</div>
   </div>
 </header>
 <div class="content">
@@ -570,121 +564,8 @@
     </div>
   </div>
 
-  <div class="card" data-url="https://apps.apple.com/cn/app/%E6%8C%87%E5%8D%97%E9%92%88-pro/id1120591899" data-type="free">
-    <div class="rank-badge">2</div>
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/%E6%8C%87%E5%8D%97%E9%92%88-pro/id1120591899" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/da/ec/9cdaec84-15fd-bf16-6dd1-872ebedfe894/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg" alt="指南针 Pro" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">指南针 Pro</h3>
-          <span class="badge badge-free">完全免费</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">工具</span>
-          
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch</div>
-        <div class="artist-name">良峰 侯</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-free">
-          <span class="price-from">付费</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">免费</span>
-        </div></div>
-
-    <p class="app-desc" data-raw="你的 iPhone 和 iPad 上的最佳指南针。 √ 符合 iPhone 用户习惯，高仿原装指南针 √ 全高清设计，美观、大方 √ 磁北、正北两种方式选择 √ 多语言支持 温馨提示：为了让指南针能够准确校准正北方向，当你看到需要获取你的位置信息时，请选择＂允许＂。 冷知识：地球磁场的北极，称为磁北，和地理北极（正北）大约相差 1500 公里，而且随时间不停变化。在我国大部份地区，磁北和正北大约相差 2 ~ 5 度（也叫磁偏角），最大可以相差 10 度。 指南针 HD 会使用你所处位置的经纬度，计算出磁偏角，校准正北的方向。 URL scheme is &quot;FLCompassPro://&quot;" data-full-description="你的 iPhone 和 iPad 上的最佳指南针。 √ 符合 iPhone 用户习惯，高仿原装指南针 √ 全高清设计，美观、大方 √ 磁北、正北两种方式选择 √ 多语言支持 温馨提示：为了让指南针能够准确校准正北方向，当你看到需要获取你的位置信息时，请选择＂允许＂。 冷知识：地球磁场的北极，称为磁北，和地理北极（正北）大约相差 1500 公里，而且随时间不停变化。在我国大部份地区，磁北和正北大约相差 2 ~ 5 度（也叫磁偏角），最大可以相差 10 度。 指南针 HD 会使用你所处位置的经纬度，计算出磁偏角，校准正北的方向。 URL scheme is &quot;FLCompassPro://&quot;">你的 iPhone 和 iPad 上的最佳指南针。 √ 符合 iPhone 用户习惯，高仿原装指南针 √ 全高清设计，美观、大方 √ 磁北、正北两种方式选择 √ 多语言支持 温馨提示：为了让指南针能够准确校准正北方向，当你看到需要获取你的位置信息时，请选择＂允许＂。 冷知识：地球磁场的北极，称为磁北，和地理北极（正北）大约相差 1500 公里，而且随时间不停变化。在我国大部份地区，磁北和正北大约相差 2 ~ 5 度（也叫磁偏角），最大可以相差 10 度。 指南针 HD 会使用你所处位置的经纬度，计算出磁偏角，校准正北的方向。 URL scheme is "FLCompassPro://"</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7b/45/16/7b4516d8-a832-7ea3-d289-8c6f0ab33b92/pr_source.png/1242x2688bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/56/e3/20/56e320f2-10bd-5fb2-c4ce-e66247ee487c/pr_source.png/1242x2688bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E6%8C%87%E5%8D%97%E9%92%88-pro/id1120591899" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/da/ec/9cdaec84-15fd-bf16-6dd1-872ebedfe894/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">扫描二维码下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/21 09:49</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/%E6%8C%87%E5%8D%97%E9%92%88-pro/id1120591899" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E6%8C%87%E5%8D%97%E9%92%88-pro/id1120591899" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/da/ec/9cdaec84-15fd-bf16-6dd1-872ebedfe894/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card card-ad" style="min-height:200px;display:flex;align-items:center;justify-content:center;">
-    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid"
-         data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-XXXXXXX"
-         data-ad-slot="XXXXXXX"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/%E5%99%AA%E9%9F%B3%E6%97%A5%E8%AE%B0/id6757107132" data-type="free">
-    <div class="rank-badge">3</div>
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/%E5%99%AA%E9%9F%B3%E6%97%A5%E8%AE%B0/id6757107132" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1b/cd/c01bcdef-5deb-79bb-4a2b-ee9f743ec47f/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.jpg" alt="噪音日记" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">噪音日记</h3>
-          <span class="badge badge-free">完全免费</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">健康健美</span>
-          
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch · ⌚Apple Watch</div>
-        <div class="artist-name">保哲 刘</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-free">
-          <span class="price-from">付费</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">免费</span>
-        </div></div>
-
-    <p class="app-desc" data-raw="噪音日记是一款噪音暴露监测应用，帮助您实时了解环境噪音对健康的影响，守护您的健康。 【核心功能】 噪音监测 自动从 Apple Health 获取环境音频暴露数据；每 10 分钟更新一次，全天候监测；支持后台自动记录，无需手动操作。 根据位置和噪音数据关联 自动识别您的位置（家、办公室、室外）；按位置分类统计噪音暴露数据；长按按钮即可设置常用位置。 可视化数据展示 精美的圆环图表，直观展示全天噪音数据；颜色编码：绿色（安静）至 橙色（有害）；支持查看单个位置或全部位置的噪音数据。 多语言支持 支持 9 种语言：英语、简体中文、日语、西班牙语、德语、法语、繁体中文、葡萄牙语（巴西）、韩语；自动适配系统语言。 【使用场景】 在家时：监测家庭环境的噪音水平 在办公室：了解工作环境的噪音暴露 在室外：追踪户外活动的噪音影响 【技术特点】 基于 Apple HealthKit，数据准确可靠 自动后台监测，节省电量 适配所有 Apple Watch 表盘尺寸（40mm/44mm） 最新的Liquid Glass 设计风格 支持数字表冠快速切换位置 【隐私政策】 您的隐私至关重要： 所有数据存储在本地设备 不会上传任何个人信息 位置信息仅用于分类噪音数据 【健康建议】 根据 WHO 和 OSHA 标准： 40-60 dB：正常对话范围，安全 70 dB：WHO 建议的长期暴露上限 85 dB：听" data-full-description="噪音日记是一款噪音暴露监测应用，帮助您实时了解环境噪音对健康的影响，守护您的健康。 【核心功能】 噪音监测 自动从 Apple Health 获取环境音频暴露数据；每 10 分钟更新一次，全天候监测；支持后台自动记录，无需手动操作。 根据位置和噪音数据关联 自动识别您的位置（家、办公室、室外）；按位置分类统计噪音暴露数据；长按按钮即可设置常用位置。 可视化数据展示 精美的圆环图表，直观展示全天噪音数据；颜色编码：绿色（安静）至 橙色（有害）；支持查看单个位置或全部位置的噪音数据。 多语言支持 支持 9 种语言：英语、简体中文、日语、西班牙语、德语、法语、繁体中文、葡萄牙语（巴西）、韩语；自动适配系统语言。 【使用场景】 在家时：监测家庭环境的噪音水平 在办公室：了解工作环境的噪音暴露 在室外：追踪户外活动的噪音影响 【技术特点】 基于 Apple HealthKit，数据准确可靠 自动后台监测，节省电量 适配所有 Apple Watch 表盘尺寸（40mm/44mm） 最新的Liquid Glass 设计风格 支持数字表冠快速切换位置 【隐私政策】 您的隐私至关重要： 所有数据存储在本地设备 不会上传任何个人信息 位置信息仅用于分类噪音数据 【健康建议】 根据 WHO 和 OSHA 标准： 40-60 dB：正常对话范围，安全 70 dB：WHO 建议的长期暴露上限 85 dB：听">噪音日记是一款噪音暴露监测应用，帮助您实时了解环境噪音对健康的影响，守护您的健康。 【核心功能】 噪音监测 自动从 Apple Health 获取环境音频暴露数据；每 10 分钟更新一次，全天候监测；支持后台自动记录，无需手动操作。 根据位置和噪音数据关联 自动识别您的位置（家、办公室、室外）；按位置分类统计噪音暴露数据；长按按钮即可设置常用位置。 可视化数据展示 精美的圆环图表，直观展示全天噪音数据；颜色编码：绿色（安静）至 橙色（有害）；支持查看单个位置或全部位置的噪音数据。 多语言支持 支持 9 种语言：英语、简体中文、日语、西班牙语、德语、法语、繁体中文、葡萄牙语（巴西）、韩语；自动适...</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/05/aa/0405aa85-c666-ba49-0fee-9b6f218fb155/incoming-07DFD3CA-E12E-4FEB-9B8A-2457FDC4D145.PNG/230x288bb.webp" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E5%99%AA%E9%9F%B3%E6%97%A5%E8%AE%B0/id6757107132" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1b/cd/c01bcdef-5deb-79bb-4a2b-ee9f743ec47f/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">扫描二维码下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/21 09:49</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/%E5%99%AA%E9%9F%B3%E6%97%A5%E8%AE%B0/id6757107132" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E5%99%AA%E9%9F%B3%E6%97%A5%E8%AE%B0/id6757107132" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1b/cd/c01bcdef-5deb-79bb-4a2b-ee9f743ec47f/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
   <div class="card" data-url="https://apps.apple.com/cn/app/infographic-and-poster-creator/id977865042" data-type="free">
-    <div class="rank-badge">4</div>
+    <div class="rank-badge">2</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/infographic-and-poster-creator/id977865042" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/e0/27/d4e02727-9703-38c7-07b0-16c8ad2d6575/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" alt="InfoGraphic and Poster Creator" loading="lazy"
@@ -738,7 +619,7 @@
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/autofilter/id6526479418" data-type="free">
-    <div class="rank-badge">5</div>
+    <div class="rank-badge">3</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/autofilter/id6526479418" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/78/e0/fd78e086-81d5-579a-11ac-0539d4566e98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="AutoFilter" loading="lazy"
@@ -791,8 +672,15 @@
     </div>
   </div>
 
+  <div class="card card-ad" style="min-height:200px;display:flex;align-items:center;justify-content:center;">
+    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid"
+         data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-XXXXXXX"
+         data-ad-slot="XXXXXXX"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+
   <div class="card" data-url="https://apps.apple.com/cn/app/tiny-sale-for-apple-watch/id1378915043" data-type="free">
-    <div class="rank-badge">6</div>
+    <div class="rank-badge">4</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/tiny-sale-for-apple-watch/id1378915043" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/85/de/1485de6b-038b-f47f-54ed-bfe0239d7e2e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" alt="Tiny Sale for Apple Watch" loading="lazy"
@@ -846,7 +734,7 @@
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/timesx-times-tables-tester/id1161872069" data-type="free">
-    <div class="rank-badge">7</div>
+    <div class="rank-badge">5</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/timesx-times-tables-tester/id1161872069" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/db/32/fedb327b-c465-800a-a1d5-6be0fbeabb9d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg" alt="TimesX Times Tables Tester" loading="lazy"
@@ -900,7 +788,7 @@
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/pulsecraft-studio/id6502294305" data-type="free">
-    <div class="rank-badge">8</div>
+    <div class="rank-badge">6</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/pulsecraft-studio/id6502294305" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/77/ae/b577ae09-5cee-2c5a-257f-fb675ea4952d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg" alt="PulseCraft Studio" loading="lazy"
@@ -954,7 +842,7 @@
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/couples-daily-bond-betweenus/id6758199343" data-type="free">
-    <div class="rank-badge">9</div>
+    <div class="rank-badge">7</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/couples-daily-bond-betweenus/id6758199343" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/b7/c2/34b7c25f-5554-0081-9a7d-c116b2a0ff6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="Couples Daily Bond - BetweenUs" loading="lazy"
@@ -1008,7 +896,7 @@
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/pixel-designer-pro/id1485016367" data-type="free">
-    <div class="rank-badge">10</div>
+    <div class="rank-badge">8</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/pixel-designer-pro/id1485016367" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/9b/43/b69b4358-b448-0388-76cc-1b74b03cc728/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="Pixel Designer Pro" loading="lazy"
@@ -1060,8 +948,117 @@
       </div>
     </div>
   </div>
+
+  <div class="card" data-url="https://apps.apple.com/cn/app/deskveil-hide-desktop-icons/id6756845728?mt=12" data-type="free">
+    <div class="rank-badge">9</div>
+    <div class="card-header">
+      <a href="https://apps.apple.com/cn/app/deskveil-hide-desktop-icons/id6756845728?mt=12" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
+        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/16/04/8116046d-b22e-b668-1812-e3deab0173d5/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png" alt="DeskVeil - Hide Desktop Icons" loading="lazy"
+          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
+      </a>
+      <div class="app-info">
+        <div class="app-name-row">
+          <h3 class="app-name">DeskVeil - Hide Desktop Icons</h3>
+          <span class="badge badge-free">完全免费</span>
+        </div>
+        <div class="app-meta">
+          <span class="genre-tag">效率</span>
+          
+        </div>
+        <div class="devices">💻Mac</div>
+        <div class="artist-name">Muhammad Masykur</div>
+      </div>
+    </div>
+
+    <div class="price-section">
+        <div class="price-display is-free">
+          <span class="price-from">付费</span>
+          <span class="price-arrow">→</span>
+          <span class="price-to">免费</span>
+        </div></div>
+
+    <p class="app-desc" data-raw="DeskVeil 是在 Mac 上隐藏桌面图标的优雅解决方案。只需一个键盘快捷键，即可将杂乱的桌面转变为干净、专业的工作空间。即时桌面隐私 在共享屏幕、截取屏幕截图或演示期间立即隐藏所有桌面文件和文件夹。会议前不再需要忙着清理桌面。可定制的叠加 从多种叠加样式中进行选择以匹配您的工作流程： 纯色 - 以您喜欢的任何颜色进行简单、干净的覆盖 模糊效果 - 柔和地遮盖您的桌面，同时保持视觉美感" data-full-description="DeskVeil 是在 Mac 上隐藏桌面图标的优雅解决方案。只需一个键盘快捷键，即可将杂乱的桌面转变为干净、专业的工作空间。即时桌面隐私 在共享屏幕、截取屏幕截图或演示期间立即隐藏所有桌面文件和文件夹。会议前不再需要忙着清理桌面。可定制的叠加 从多种叠加样式中进行选择以匹配您的工作流程： 纯色 - 以您喜欢的任何颜色进行简单、干净的覆盖 模糊效果 - 柔和地遮盖您的桌面，同时保持视觉美感">DeskVeil 是在 Mac 上隐藏桌面图标的优雅解决方案。只需一个键盘快捷键，即可将杂乱的桌面转变为干净、专业的工作空间。即时桌面隐私 在共享屏幕、截取屏幕截图或演示期间立即隐藏所有桌面文件和文件夹。会议前不再需要忙着清理桌面。可定制的叠加 从多种叠加样式中进行选择以匹配您的工作流程： 纯色 - 以您喜欢的任何颜色进行简单、干净的覆盖 模糊效果 - 柔和地遮盖您的桌面，同时保持视觉美感</p>
+
+    <div class="screenshots screenshots-mac"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/fc/c4/84fcc4b9-9730-072c-ebbf-937a12602766/macos-screenshot-1280x800__U00283_U0029.png/800x500bb.jpg" alt="截图" loading="lazy"
+            onload="adjustScreenshot(this)"
+            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/cb/5b/96cb5b23-d086-75a6-0409-c2092943c576/macos-screenshot-1280x800__U00282_U0029.png/800x500bb.jpg" alt="截图" loading="lazy"
+            onload="adjustScreenshot(this)"
+            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
+
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/deskveil-hide-desktop-icons/id6756845728?mt=12" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/16/04/8116046d-b22e-b668-1812-e3deab0173d5/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
+
+    <div class="card-footer">
+      <span class="update-time">🕐 03/21 10:22</span>
+      <div class="footer-actions">
+        <a href="https://apps.apple.com/cn/app/deskveil-hide-desktop-icons/id6756845728?mt=12" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
+          在 App Store 查看 →
+        </a>
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/deskveil-hide-desktop-icons/id6756845728?mt=12" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/16/04/8116046d-b22e-b668-1812-e3deab0173d5/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" data-url="https://apps.apple.com/cn/app/wu-ausampledelay/id1530887051" data-type="free">
+    <div class="rank-badge">10</div>
+    <div class="card-header">
+      <a href="https://apps.apple.com/cn/app/wu-ausampledelay/id1530887051" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
+        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/a2/f2/05a2f2fc-3fed-4b73-935d-ada98d62479a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg" alt="WU: AUSampleDelay" loading="lazy"
+          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
+      </a>
+      <div class="app-info">
+        <div class="app-name-row">
+          <h3 class="app-name">WU: AUSampleDelay</h3>
+          <span class="badge badge-free">完全免费</span>
+        </div>
+        <div class="app-meta">
+          <span class="genre-tag">音乐</span>
+          
+        </div>
+        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch</div>
+        <div class="artist-name">Jens Guell</div>
+      </div>
+    </div>
+
+    <div class="price-section">
+        <div class="price-display is-free">
+          <span class="price-from">付费</span>
+          <span class="price-arrow">→</span>
+          <span class="price-to">免费</span>
+        </div></div>
+
+    <p class="app-desc" data-raw="WU（Wrapped Units）系列音频单元公开了系统音频单元的用户界面，并使其可供所有支持 AUv3 音频处理插件的主机应用程序使用。即使这些主机不支持无 UI 单元。将 MacOS 和 iOS 上的 GarageBand 众所周知的效果与任何主机应用程序一起使用，并确保所有项目的声音一致。" data-full-description="WU（Wrapped Units）系列音频单元公开了系统音频单元的用户界面，并使其可供所有支持 AUv3 音频处理插件的主机应用程序使用。即使这些主机不支持无 UI 单元。将 MacOS 和 iOS 上的 GarageBand 众所周知的效果与任何主机应用程序一起使用，并确保所有项目的声音一致。">WU（Wrapped Units）系列音频单元公开了系统音频单元的用户界面，并使其可供所有支持 AUv3 音频处理插件的主机应用程序使用。即使这些主机不支持无 UI 单元。将 MacOS 和 iOS 上的 GarageBand 众所周知的效果与任何主机应用程序一起使用，并确保所有项目的声音一致。</p>
+
+    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ac/2d/35/ac2d3584-f65b-ad29-a472-5b6aeee5a572/c6a78344-b695-4729-bcf0-88e1f553e1ff_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-09-08_at_06.08.06.png/1242x2688bb.png" alt="截图" loading="lazy"
+            onload="adjustScreenshot(this)"
+            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/70/c8/2b/70c82b65-43c2-ee26-84b6-22a08c3b948c/0d4593af-1670-4e42-92af-d3c67030e3f4_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-09-08_at_06.08.00.png/2688x1242bb.png" alt="截图" loading="lazy"
+            onload="adjustScreenshot(this)"
+            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
+
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/wu-ausampledelay/id1530887051" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/a2/f2/05a2f2fc-3fed-4b73-935d-ada98d62479a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
+
+    <div class="card-footer">
+      <span class="update-time">🕐 03/21 10:22</span>
+      <div class="footer-actions">
+        <a href="https://apps.apple.com/cn/app/wu-ausampledelay/id1530887051" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
+          在 App Store 查看 →
+        </a>
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/wu-ausampledelay/id1530887051" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/a2/f2/05a2f2fc-3fed-4b73-935d-ada98d62479a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
+      </div>
+    </div>
+  </div>
   </div>
 </div>
+<button class="theme-toggle" id="themeToggle" aria-label="切换暗色模式">🌙</button>
 <button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="返回顶部">↑</button>
 <script>
   
@@ -1238,6 +1235,5 @@
     };
   })();
 </script>
-<button class="theme-toggle" id="themeToggle" aria-label="切换暗色模式">🌙</button>
 </body>
 </html>

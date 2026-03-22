@@ -352,16 +352,35 @@
       .card-header { gap: 12px; }
     }
   
-    /* ── 数据来源（融入 header 底部） ── */
-    .source-info {
-      display: inline-flex; align-items: center; gap: 6px;
-      margin-top: 20px; padding: 8px 18px; border-radius: 20px;
-      background: var(--card-blur); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
-      border: 1px solid var(--border-light);
-      font-size: 12px; font-weight: 600; color: var(--sub); letter-spacing: 0.2px;
+    /* ── 数据来源副标题 ── */
+    .h-sub-source {
+      font-size: 14px; font-weight: 500; color: var(--sub);
+      margin-bottom: 24px; letter-spacing: -0.1px;
     }
-    .source-info .dot { width: 6px; height: 6px; border-radius: 50%; background: #34C759; animation: pulse 2s ease-in-out infinite; }
-    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+    .h-sub-source::before { content: '📡 '; }
+
+    /* ── 统计标签可点击 + sticky ── */
+    .h-stats-clickable {
+      position: sticky; top: 0; z-index: 50;
+      margin-left: -20px; margin-right: -20px;
+      padding: 0 !important;
+      transition: background 0.3s, box-shadow 0.3s, border-radius 0.3s;
+    }
+    .h-stats-clickable .stat-filter {
+      cursor: pointer; transition: all 0.25s cubic-bezier(0.2,0.8,0.2,1);
+      position: relative; user-select: none;
+    }
+    .h-stats-clickable .stat-filter:hover { background: rgba(10,132,255,0.06); }
+    .h-stats-clickable .stat-filter.active {
+      background: rgba(10,132,255,0.08);
+    }
+    .h-stats-clickable .stat-filter.active::after {
+      content: ''; position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);
+      width: 24px; height: 3px; border-radius: 3px;
+      background: var(--primary);
+    }
+    .h-stats-clickable .stat-filter.active .stat-num { color: var(--primary); }
+    .h-stats-clickable .stat-filter.active .stat-label { color: var(--primary); opacity: 0.8; }
 
     /* ── 暗色模式切换按钮 ── */
     .theme-toggle {
@@ -373,30 +392,6 @@
       transition: all 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
     }
     .theme-toggle:hover { transform: translateY(-3px) scale(1.05); box-shadow: var(--shadow-lg); }
-
-    /* ── Sticky 筛选栏 ── */
-    .filter-bar {
-      position: sticky; top: 0; z-index: 50;
-      border-radius: 0 0 var(--r) var(--r) !important;
-      margin-left: -16px; margin-right: -16px; margin-top: 0;
-      padding: 12px 20px !important;
-      background: rgba(255,255,255,0.85) !important;
-      backdrop-filter: saturate(200%) blur(30px) !important; -webkit-backdrop-filter: saturate(200%) blur(30px) !important;
-      border-top: none !important; border-left: none !important; border-right: none !important;
-      border-bottom: 1px solid rgba(0,0,0,0.06) !important;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.08) !important;
-      transition: box-shadow 0.3s, background 0.3s;
-    }
-    .filter-bar .fb {
-      background: rgba(0,0,0,0.04); border: 1px solid rgba(0,0,0,0.08);
-      font-size: 13px; height: 34px; padding: 6px 14px;
-      border-radius: 18px; transition: all 0.2s;
-    }
-    .filter-bar .fb:hover { background: rgba(0,0,0,0.08); border-color: rgba(0,0,0,0.12); }
-    .filter-bar .fb.active {
-      background: var(--primary); color: #fff;
-      border-color: var(--primary); box-shadow: 0 2px 8px rgba(10,132,255,0.3);
-    }
 
     /* ── Sticky 返回栏 ── */
     .back-bar {
@@ -470,16 +465,15 @@
     html.dark .empty { background: rgba(44,44,46,0.65); border-color: rgba(255,255,255,0.08); }
     html.dark .back-top { background: rgba(44,44,46,0.8); color: #F5F5F7; border-color: rgba(255,255,255,0.1); }
     html.dark .back-top:hover { color: #0A84FF; }
-    html.dark .source-info { background: rgba(44,44,46,0.7); border-color: rgba(255,255,255,0.08); }
+    html.dark .h-sub-source { color: #98989D; }
+    html.dark .h-stats-clickable .stat-filter:hover { background: rgba(10,132,255,0.1); }
+    html.dark .h-stats-clickable .stat-filter.active { background: rgba(10,132,255,0.15); }
     html.dark .theme-toggle { background: rgba(44,44,46,0.8); border-color: rgba(255,255,255,0.1); }
-    html.dark .filter-bar, html.dark .back-bar {
+    html.dark .back-bar {
       background: rgba(28,28,30,0.88) !important;
       border-bottom-color: rgba(255,255,255,0.06) !important;
       box-shadow: 0 4px 20px rgba(0,0,0,0.3) !important;
     }
-    html.dark .filter-bar .fb { background: rgba(255,255,255,0.06); border-color: rgba(255,255,255,0.1); color: #F5F5F7; }
-    html.dark .filter-bar .fb:hover { background: rgba(255,255,255,0.1); }
-    html.dark .filter-bar .fb.active { background: #0A84FF; color: #fff; border-color: #0A84FF; }
     html.dark .back-btn { background: rgba(44,44,46,0.8); color: #0A84FF; border-color: rgba(255,255,255,0.1); }
     html.dark .back-btn:hover { background: rgba(44,44,46,1); }
     html.dark .price-range { color: #98989D; }
@@ -501,30 +495,17 @@
     <div class="h-icon">🎉</div>
     <div class="h-date">2026年3月22日</div>
     <h1 class="h-title">App Store 今日限免</h1>
-
-    <div class="h-stats">
-      <div class="stat"><span class="stat-num">31</span><span class="stat-label">今日优惠</span></div>
-      <div class="stat"><span class="stat-num">25</span><span class="stat-label">完全免费</span></div>
-      <div class="stat"><span class="stat-num">3</span><span class="stat-label">内购优惠</span></div>
-      <div class="stat"><span class="stat-num">3</span><span class="stat-label">限时降价</span></div>
+    <p class="h-sub-source">数据来源 App Store 官方 · 每 2 小时自动更新</p>
+    <div class="h-stats h-stats-clickable">
+      <div class="stat stat-filter active" data-filter="all" onclick="filterByStat(this)"><span class="stat-num">28</span><span class="stat-label">今日优惠</span></div>
+      <div class="stat stat-filter" data-filter="free" onclick="filterByStat(this)"><span class="stat-num">23</span><span class="stat-label">完全免费</span></div>
+      <div class="stat stat-filter" data-filter="iap" onclick="filterByStat(this)"><span class="stat-num">2</span><span class="stat-label">内购优惠</span></div>
+      <div class="stat stat-filter" data-filter="discount" onclick="filterByStat(this)"><span class="stat-num">3</span><span class="stat-label">限时降价</span></div>
     </div>
-    <div class="source-info"><span class="dot"></span>数据来源 App Store 官方 · 每 2 小时自动更新</div>
   </div>
 </header>
 <div class="content">
-  <div class="filter-bar">
-    <div class="filter-row">
-      <span class="fl">筛选：</span>
-      <button class="fb active" onclick="filter('all',this)">全部 (31)</button>
-      <button class="fb" onclick="filter('free',this)">完全免费 (25)</button>
-      <button class="fb" onclick="filter('iap',this)">内购优惠 (3)</button>
-      <button class="fb" onclick="filter('discount',this)">限时降价 (3)</button>
-    </div>
-    <div class="action-row">
-      
-      
-    </div>
-  </div>
+  
   <div class="grid" id="grid">
     
   <div class="card" data-url="https://apps.apple.com/cn/app/bartender-app-bargenius/id6740407542" data-type="iap">
@@ -2043,168 +2024,10 @@
       </div>
     </div>
   </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/%E8%A1%80%E5%8E%8B-%E8%BF%BD%E8%B8%AA%E5%99%A8/id6502426413" data-type="iap">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/%E8%A1%80%E5%8E%8B-%E8%BF%BD%E8%B8%AA%E5%99%A8/id6502426413" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/eb/25/67eb25c5-2f6d-e85a-a6d8-30218166ea01/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" alt="血压：追踪器" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">血压：追踪器</h3>
-          <span class="badge badge-iap">内购优惠</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">健康健美</span>
-          
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch</div>
-        <div class="artist-name">CARDILOG PTY LTD</div>
-      </div>
-    </div>
-
-    <div class="price-section iap-mode">
-        <div class="iap-header">内购优惠</div><div class="iap-item">
-            <span class="iap-name">Lifetime</span>
-            <span class="iap-price"><s>¥1,998.00</s><span class="arrow">→</span><b>¥798.00</b> <span class="iap-range">[¥798.00 ~ ¥1,998.00]</span></span>
-          </div></div>
-
-    <p class="app-desc" data-raw="Cardilog 不仅仅是一款血压应用程序，它还是您健康的伙伴。这款血压应用程序将帮助您控制血压、保持稳定并看到真正的进步。如果您遵循个性化的每日计划，您将了解微小的改变如何累积起来，从而减少数字、增加能量和更健康的心脏。 Cardilog 通过每条日志、提醒和见解，让您保持正轨并激励您实现目标。 你可以做什么： 记录收缩压、舒张压、心率、体重和压力 (0-10) 发现模式：上午与下午、工作日与周末、夜间下降以及揭示真正影响血压的趋势 获取人工智能见解和个性化每日计划，指导您逐步实现更健康的数字 设定收缩压、舒张压和心率目标，并遵循明确的提示来实现这些目标 添加标签和注释（例如，运动后、喝咖啡或服药后）以了解您的触发因素和习惯 与 Apple Health 同步，从受信任的血压监测仪导入/导出读数 创建并分享一份可供医生使用的 PDF 健康报告，其中包含图表和见解 通过药物提醒和记录保持正轨 支持多个单位 离线工作 黑暗模式带来舒适感 可选的跨设备云备份 100% 无广告，带来专注的体验 专为您的旅程而设计： 自定义和交互式图表可快速发现趋势 适用于所有连接 Apple Health 的袖带（Omron、Withings、iHealth、Qardio、AD；检查兼容性） 与 Apple Watch 心率数据同步以获得完整图像 Cardilog 是一款血压应用程序、追踪器和高血压监测" data-full-description="Cardilog 不仅仅是一款血压应用程序，它还是您健康的伙伴。这款血压应用程序将帮助您控制血压、保持稳定并看到真正的进步。如果您遵循个性化的每日计划，您将了解微小的改变如何累积起来，从而减少数字、增加能量和更健康的心脏。 Cardilog 通过每条日志、提醒和见解，让您保持正轨并激励您实现目标。 你可以做什么： 记录收缩压、舒张压、心率、体重和压力 (0-10) 发现模式：上午与下午、工作日与周末、夜间下降以及揭示真正影响血压的趋势 获取人工智能见解和个性化每日计划，指导您逐步实现更健康的数字 设定收缩压、舒张压和心率目标，并遵循明确的提示来实现这些目标 添加标签和注释（例如，运动后、喝咖啡或服药后）以了解您的触发因素和习惯 与 Apple Health 同步，从受信任的血压监测仪导入/导出读数 创建并分享一份可供医生使用的 PDF 健康报告，其中包含图表和见解 通过药物提醒和记录保持正轨 支持多个单位 离线工作 黑暗模式带来舒适感 可选的跨设备云备份 100% 无广告，带来专注的体验 专为您的旅程而设计： 自定义和交互式图表可快速发现趋势 适用于所有连接 Apple Health 的袖带（Omron、Withings、iHealth、Qardio、AD；检查兼容性） 与 Apple Watch 心率数据同步以获得完整图像 Cardilog 是一款血压应用程序、追踪器和高血压监测">Cardilog 不仅仅是一款血压应用程序，它还是您健康的伙伴。这款血压应用程序将帮助您控制血压、保持稳定并看到真正的进步。如果您遵循个性化的每日计划，您将了解微小的改变如何累积起来，从而减少数字、增加能量和更健康的心脏。 Cardilog 通过每条日志、提醒和见解，让您保持正轨并激励您实现目标。 你可以做什么： 记录收缩压、舒张压、心率、体重和压力 (0-10) 发现模式：上午与下午、工作日与周末、夜间下降以及揭示真正影响血压的趋势 获取人工智能见解和个性化每日计划，指导您逐步实现更健康的数字 设定收缩压、舒张压和心率目标，并遵循明确的提示来实现这些目标 添加标签和注释（例如，运动后、喝咖啡...</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/79/9a/19799a02-0909-91d1-cb39-d38e9004685d/image1.jpg/2048x2732bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/2a/d8/842ad895-fbc9-29fc-e371-df6b18dc55f4/image4.jpg/2048x2732bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E8%A1%80%E5%8E%8B-%E8%BF%BD%E8%B8%AA%E5%99%A8/id6502426413" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/eb/25/67eb25c5-2f6d-e85a-a6d8-30218166ea01/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">扫描二维码下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/21 09:49</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/%E8%A1%80%E5%8E%8B-%E8%BF%BD%E8%B8%AA%E5%99%A8/id6502426413" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E8%A1%80%E5%8E%8B-%E8%BF%BD%E8%B8%AA%E5%99%A8/id6502426413" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/eb/25/67eb25c5-2f6d-e85a-a6d8-30218166ea01/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/%E6%8C%87%E5%8D%97%E9%92%88-pro/id1120591899" data-type="free">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/%E6%8C%87%E5%8D%97%E9%92%88-pro/id1120591899" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/da/ec/9cdaec84-15fd-bf16-6dd1-872ebedfe894/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg" alt="指南针 Pro" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">指南针 Pro</h3>
-          <span class="badge badge-free">完全免费</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">工具</span>
-          
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch</div>
-        <div class="artist-name">良峰 侯</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-free">
-          <span class="price-from">付费</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">免费</span>
-        </div></div>
-
-    <p class="app-desc" data-raw="你的 iPhone 和 iPad 上的最佳指南针。 √ 符合 iPhone 用户习惯，高仿原装指南针 √ 全高清设计，美观、大方 √ 磁北、正北两种方式选择 √ 多语言支持 温馨提示：为了让指南针能够准确校准正北方向，当你看到需要获取你的位置信息时，请选择＂允许＂。 冷知识：地球磁场的北极，称为磁北，和地理北极（正北）大约相差 1500 公里，而且随时间不停变化。在我国大部份地区，磁北和正北大约相差 2 ~ 5 度（也叫磁偏角），最大可以相差 10 度。 指南针 HD 会使用你所处位置的经纬度，计算出磁偏角，校准正北的方向。 URL scheme is &quot;FLCompassPro://&quot;" data-full-description="你的 iPhone 和 iPad 上的最佳指南针。 √ 符合 iPhone 用户习惯，高仿原装指南针 √ 全高清设计，美观、大方 √ 磁北、正北两种方式选择 √ 多语言支持 温馨提示：为了让指南针能够准确校准正北方向，当你看到需要获取你的位置信息时，请选择＂允许＂。 冷知识：地球磁场的北极，称为磁北，和地理北极（正北）大约相差 1500 公里，而且随时间不停变化。在我国大部份地区，磁北和正北大约相差 2 ~ 5 度（也叫磁偏角），最大可以相差 10 度。 指南针 HD 会使用你所处位置的经纬度，计算出磁偏角，校准正北的方向。 URL scheme is &quot;FLCompassPro://&quot;">你的 iPhone 和 iPad 上的最佳指南针。 √ 符合 iPhone 用户习惯，高仿原装指南针 √ 全高清设计，美观、大方 √ 磁北、正北两种方式选择 √ 多语言支持 温馨提示：为了让指南针能够准确校准正北方向，当你看到需要获取你的位置信息时，请选择＂允许＂。 冷知识：地球磁场的北极，称为磁北，和地理北极（正北）大约相差 1500 公里，而且随时间不停变化。在我国大部份地区，磁北和正北大约相差 2 ~ 5 度（也叫磁偏角），最大可以相差 10 度。 指南针 HD 会使用你所处位置的经纬度，计算出磁偏角，校准正北的方向。 URL scheme is "FLCompassPro://"</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7b/45/16/7b4516d8-a832-7ea3-d289-8c6f0ab33b92/pr_source.png/1242x2688bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/56/e3/20/56e320f2-10bd-5fb2-c4ce-e66247ee487c/pr_source.png/1242x2688bb.png" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E6%8C%87%E5%8D%97%E9%92%88-pro/id1120591899" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/da/ec/9cdaec84-15fd-bf16-6dd1-872ebedfe894/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">扫描二维码下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/21 09:49</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/%E6%8C%87%E5%8D%97%E9%92%88-pro/id1120591899" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E6%8C%87%E5%8D%97%E9%92%88-pro/id1120591899" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/da/ec/9cdaec84-15fd-bf16-6dd1-872ebedfe894/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="card" data-url="https://apps.apple.com/cn/app/%E5%99%AA%E9%9F%B3%E6%97%A5%E8%AE%B0/id6757107132" data-type="free">
-    
-    <div class="card-header">
-      <a href="https://apps.apple.com/cn/app/%E5%99%AA%E9%9F%B3%E6%97%A5%E8%AE%B0/id6757107132" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
-        <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1b/cd/c01bcdef-5deb-79bb-4a2b-ee9f743ec47f/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.jpg" alt="噪音日记" loading="lazy"
-          onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 60 60%22%3E%3Crect width=%2260%22 height=%2260%22 rx=%2212%22 fill=%22%23e5e7eb%22/%3E%3C/svg%3E'">
-      </a>
-      <div class="app-info">
-        <div class="app-name-row">
-          <h3 class="app-name">噪音日记</h3>
-          <span class="badge badge-free">完全免费</span>
-        </div>
-        <div class="app-meta">
-          <span class="genre-tag">健康健美</span>
-          
-        </div>
-        <div class="devices">📱iPhone · 📟iPad · 🎵iPod touch · ⌚Apple Watch</div>
-        <div class="artist-name">保哲 刘</div>
-      </div>
-    </div>
-
-    <div class="price-section">
-        <div class="price-display is-free">
-          <span class="price-from">付费</span>
-          <span class="price-arrow">→</span>
-          <span class="price-to">免费</span>
-        </div></div>
-
-    <p class="app-desc" data-raw="噪音日记是一款噪音暴露监测应用，帮助您实时了解环境噪音对健康的影响，守护您的健康。 【核心功能】 噪音监测 自动从 Apple Health 获取环境音频暴露数据；每 10 分钟更新一次，全天候监测；支持后台自动记录，无需手动操作。 根据位置和噪音数据关联 自动识别您的位置（家、办公室、室外）；按位置分类统计噪音暴露数据；长按按钮即可设置常用位置。 可视化数据展示 精美的圆环图表，直观展示全天噪音数据；颜色编码：绿色（安静）至 橙色（有害）；支持查看单个位置或全部位置的噪音数据。 多语言支持 支持 9 种语言：英语、简体中文、日语、西班牙语、德语、法语、繁体中文、葡萄牙语（巴西）、韩语；自动适配系统语言。 【使用场景】 在家时：监测家庭环境的噪音水平 在办公室：了解工作环境的噪音暴露 在室外：追踪户外活动的噪音影响 【技术特点】 基于 Apple HealthKit，数据准确可靠 自动后台监测，节省电量 适配所有 Apple Watch 表盘尺寸（40mm/44mm） 最新的Liquid Glass 设计风格 支持数字表冠快速切换位置 【隐私政策】 您的隐私至关重要： 所有数据存储在本地设备 不会上传任何个人信息 位置信息仅用于分类噪音数据 【健康建议】 根据 WHO 和 OSHA 标准： 40-60 dB：正常对话范围，安全 70 dB：WHO 建议的长期暴露上限 85 dB：听" data-full-description="噪音日记是一款噪音暴露监测应用，帮助您实时了解环境噪音对健康的影响，守护您的健康。 【核心功能】 噪音监测 自动从 Apple Health 获取环境音频暴露数据；每 10 分钟更新一次，全天候监测；支持后台自动记录，无需手动操作。 根据位置和噪音数据关联 自动识别您的位置（家、办公室、室外）；按位置分类统计噪音暴露数据；长按按钮即可设置常用位置。 可视化数据展示 精美的圆环图表，直观展示全天噪音数据；颜色编码：绿色（安静）至 橙色（有害）；支持查看单个位置或全部位置的噪音数据。 多语言支持 支持 9 种语言：英语、简体中文、日语、西班牙语、德语、法语、繁体中文、葡萄牙语（巴西）、韩语；自动适配系统语言。 【使用场景】 在家时：监测家庭环境的噪音水平 在办公室：了解工作环境的噪音暴露 在室外：追踪户外活动的噪音影响 【技术特点】 基于 Apple HealthKit，数据准确可靠 自动后台监测，节省电量 适配所有 Apple Watch 表盘尺寸（40mm/44mm） 最新的Liquid Glass 设计风格 支持数字表冠快速切换位置 【隐私政策】 您的隐私至关重要： 所有数据存储在本地设备 不会上传任何个人信息 位置信息仅用于分类噪音数据 【健康建议】 根据 WHO 和 OSHA 标准： 40-60 dB：正常对话范围，安全 70 dB：WHO 建议的长期暴露上限 85 dB：听">噪音日记是一款噪音暴露监测应用，帮助您实时了解环境噪音对健康的影响，守护您的健康。 【核心功能】 噪音监测 自动从 Apple Health 获取环境音频暴露数据；每 10 分钟更新一次，全天候监测；支持后台自动记录，无需手动操作。 根据位置和噪音数据关联 自动识别您的位置（家、办公室、室外）；按位置分类统计噪音暴露数据；长按按钮即可设置常用位置。 可视化数据展示 精美的圆环图表，直观展示全天噪音数据；颜色编码：绿色（安静）至 橙色（有害）；支持查看单个位置或全部位置的噪音数据。 多语言支持 支持 9 种语言：英语、简体中文、日语、西班牙语、德语、法语、繁体中文、葡萄牙语（巴西）、韩语；自动适...</p>
-
-    <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/05/aa/0405aa85-c666-ba49-0fee-9b6f218fb155/incoming-07DFD3CA-E12E-4FEB-9B8A-2457FDC4D145.PNG/230x288bb.webp" alt="截图" loading="lazy"
-            onload="adjustScreenshot(this)"
-            onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
-
-    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E5%99%AA%E9%9F%B3%E6%97%A5%E8%AE%B0/id6757107132" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1b/cd/c01bcdef-5deb-79bb-4a2b-ee9f743ec47f/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.jpg">
-      <div class="qr-canvas"></div>
-      <p class="qr-below-tip">扫描二维码下载</p>
-    </div>
-
-    <div class="card-footer">
-      <span class="update-time">🕐 03/21 09:49</span>
-      <div class="footer-actions">
-        <a href="https://apps.apple.com/cn/app/%E5%99%AA%E9%9F%B3%E6%97%A5%E8%AE%B0/id6757107132" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
-          在 App Store 查看 →
-        </a>
-        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E5%99%AA%E9%9F%B3%E6%97%A5%E8%AE%B0/id6757107132" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1b/cd/c01bcdef-5deb-79bb-4a2b-ee9f743ec47f/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
-          <div class="qr-canvas"></div>
-        </div>
-      </div>
-    </div>
-  </div>
   </div>
 </div>
 
+<button class="theme-toggle" id="themeToggle" aria-label="切换暗色模式">🌙</button>
 <button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="返回顶部">↑</button>
 <script>
   
@@ -2372,6 +2195,15 @@
       card.style.display = (type === 'all' || card.dataset.type === type) ? '' : 'none';
     });
   }
+  function filterByStat(el) {
+    document.querySelectorAll('.stat-filter').forEach(function(s){ s.classList.remove('active'); });
+    el.classList.add('active');
+    var type = el.getAttribute('data-filter');
+    document.querySelectorAll('.card').forEach(function(card) {
+      if (card.classList.contains('card-ad')) return;
+      card.style.display = (type === 'all' || card.dataset.type === type) ? '' : 'none';
+    });
+  }
   
   (function(){
     var html = document.documentElement;
@@ -2389,6 +2221,5 @@
     };
   })();
 </script>
-<button class="theme-toggle" id="themeToggle" aria-label="切换暗色模式">🌙</button>
 </body>
 </html>
