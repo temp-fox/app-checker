@@ -400,14 +400,12 @@
 
     /* ── Sticky 返回栏 ── */
     .back-bar {
-      position: sticky; top: 0; z-index: 50;
-      border-radius: 0 0 var(--r) var(--r) !important;
-      margin-left: -16px; margin-right: -16px; margin-top: 0;
+      border-radius: var(--r) !important;
       padding: 12px 20px !important;
-      background: rgba(255,255,255,0.85) !important;
-      backdrop-filter: saturate(200%) blur(30px) !important; -webkit-backdrop-filter: saturate(200%) blur(30px) !important;
-      border-bottom: 1px solid rgba(0,0,0,0.06) !important;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.08) !important;
+      background: var(--card-blur) !important;
+      backdrop-filter: saturate(180%) blur(24px) !important; -webkit-backdrop-filter: saturate(180%) blur(24px) !important;
+      border: 1px solid rgba(255,255,255,0.8) !important;
+      box-shadow: var(--shadow-sm) !important;
     }
 
     /* ── 工具栏折叠（移动端） ── */
