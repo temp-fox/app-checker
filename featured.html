@@ -4,8 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>今日精选限免 - 2026年4月6日</title>
-  <meta name="description" content="查看今日精选的 App Store 限免与折扣应用。">
+  <meta name="description" content="App Store 今日精选限免应用">
   <link rel="icon" href="https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png">
+  <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXX" crossorigin="anonymous"></script> -->
   <style>
     
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
@@ -516,105 +518,32 @@
       html.dark .h-stats { background: rgba(44,44,46,0.8); box-shadow: 0 4px 16px rgba(0,0,0,0.3); }
     }
   
-    .site-shell { min-height: 100vh; }
-    .site-nav-wrap { position: sticky; top: 0; z-index: 90; padding: 14px 16px 0; }
-    .site-nav {
-      max-width: 1300px; margin: 0 auto;
-      display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
-      background: rgba(255,255,255,0.82); backdrop-filter: saturate(180%) blur(20px); -webkit-backdrop-filter: saturate(180%) blur(20px);
-      border: 1px solid rgba(255,255,255,0.78); border-radius: 24px; padding: 14px 18px;
-      box-shadow: var(--shadow-sm);
-    }
-    .site-brand { display: flex; flex-direction: column; gap: 2px; min-width: 180px; }
-    .site-brand-title { font-size: 15px; font-weight: 800; color: var(--text); text-decoration: none; }
-    .site-brand-sub { font-size: 12px; color: var(--sub); }
-    .site-nav-links { display: flex; gap: 8px; flex: 1; flex-wrap: wrap; }
-    .site-nav-link {
-      text-decoration: none; color: var(--sub); font-size: 13px; font-weight: 700;
-      padding: 8px 14px; border-radius: 999px; background: rgba(255,255,255,0.55);
-      border: 1px solid transparent; transition: all 0.2s ease;
-    }
-    .site-nav-link:hover { color: var(--primary); background: rgba(10,132,255,0.08); }
-    .site-nav-link.active { color: #fff; background: var(--primary); box-shadow: 0 6px 16px rgba(10,132,255,.22); }
-    .site-nav-cta {
-      text-decoration: none; color: #fff; font-size: 13px; font-weight: 700;
-      padding: 10px 16px; border-radius: 999px; background: linear-gradient(135deg, #0A84FF, #2563eb);
-      box-shadow: 0 6px 16px rgba(37,99,235,.2);
-    }
-    .site-main { max-width: 1300px; margin: 0 auto; padding: 0 16px 60px; }
-    .site-intro {
-      margin: -16px auto 24px; background: rgba(255,255,255,0.72); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
-      border: 1px solid rgba(255,255,255,0.7); border-radius: var(--r); padding: 22px 24px; box-shadow: var(--shadow-sm);
-    }
-    .intro-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; margin-top: 16px; }
-    .intro-item, .section-card {
-      background: rgba(255,255,255,0.62); border: 1px solid rgba(255,255,255,0.66); border-radius: 18px; padding: 16px 18px;
-      box-shadow: 0 6px 20px rgba(31,38,135,0.06);
-    }
-    .intro-item strong, .section-title { display: block; font-size: 15px; font-weight: 800; color: var(--text); margin-bottom: 6px; }
-    .intro-item p, .section-text, .page-copy p, .page-copy li { font-size: 14px; color: #4b5563; line-height: 1.7; }
-    .site-section { margin-bottom: 24px; }
-    .section-eyebrow { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; font-weight: 800; color: var(--primary); margin-bottom: 8px; }
-    .section-title { margin-bottom: 8px; }
-    .section-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
-    .section-link {
-      display: inline-flex; align-items: center; justify-content: center; padding: 10px 14px; border-radius: 999px;
-      background: rgba(10,132,255,0.08); color: var(--primary); text-decoration: none; font-size: 13px; font-weight: 700;
-    }
-    .ad-card { border-style: dashed; }
-    .page-copy { display: grid; gap: 14px; }
-    .page-copy ul { padding-left: 20px; }
-    .category-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
-    .category-item { text-decoration: none; color: inherit; }
-    .category-item:hover .section-card { transform: translateY(-2px); box-shadow: var(--shadow-md); }
-    .site-footer {
-      max-width: 1300px; margin: 0 auto; padding: 12px 16px 60px;
-    }
-    .site-footer-card {
-      background: rgba(255,255,255,0.72); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
-      border: 1px solid rgba(255,255,255,0.76); border-radius: var(--r); padding: 22px 24px; box-shadow: var(--shadow-sm);
-    }
-    .site-footer-top { display: flex; justify-content: space-between; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
-    .site-footer-title { font-size: 16px; font-weight: 800; color: var(--text); margin-bottom: 6px; }
-    .site-footer-text { font-size: 13px; color: var(--sub); line-height: 1.7; max-width: 640px; }
-    .site-footer-links { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 16px; }
-    .site-footer-links a {
-      text-decoration: none; color: var(--primary); font-size: 13px; font-weight: 700; padding: 8px 12px;
-      border-radius: 999px; background: rgba(10,132,255,0.08);
-    }
-    html.dark .site-nav, html.dark .site-intro, html.dark .site-footer-card, html.dark .intro-item, html.dark .section-card {
-      background: rgba(28,28,30,0.82); border-color: rgba(255,255,255,0.08);
-    }
-    html.dark .site-nav-link { background: rgba(255,255,255,0.04); color: #b0b3b8; }
-    html.dark .site-nav-link:hover { color: #7cc4ff; background: rgba(10,132,255,0.16); }
-    html.dark .intro-item p, html.dark .section-text, html.dark .page-copy p, html.dark .page-copy li, html.dark .site-footer-text { color: #c4c7cc; }
-    @media (max-width: 860px) {
-      .site-nav { border-radius: 18px; }
-      .site-brand { min-width: 100%; }
-      .site-nav-links { width: 100%; }
-      .site-nav-cta { width: 100%; text-align: center; }
-      .site-intro { margin-top: -10px; }
-    }
-  
   </style>
 </head>
-<body class="">
-  <div class="site-shell">
-    <div class="site-nav-wrap">
-      <nav class="site-nav" aria-label="站点导航">
-        <div class="site-brand">
-          <a href="index.html" class="site-brand-title">App Store 限免情报站</a>
-          <div class="site-brand-sub">追踪中国区 App Store 近 24 小时内的限免与折扣动态</div>
-        </div>
-        <div class="site-nav-links"><a href="index.html" class="site-nav-link">今日首页</a><a href="featured.html" class="site-nav-link active">今日精选</a><a href="latest-updates.html" class="site-nav-link">最新更新</a><a href="stats.html" class="site-nav-link">历史统计</a><a href="free.html" class="site-nav-link">完全免费</a><a href="iap.html" class="site-nav-link">内购优惠</a><a href="discount.html" class="site-nav-link">限时降价</a><a href="categories.html" class="site-nav-link">应用分类</a><a href="methodology.html" class="site-nav-link">更新说明</a><a href="about.html" class="site-nav-link">关于本站</a><a href="privacy.html" class="site-nav-link">隐私政策</a><a href="contact.html" class="site-nav-link">联系反馈</a><a href="terms.html" class="site-nav-link">使用条款</a><a href="disclaimer.html" class="site-nav-link">免责声明</a><a href="faq.html" class="site-nav-link">常见问题</a></div>
-        <a class="site-nav-cta" href="https://github.com/temp-fox/app-checker/issues" target="_blank" rel="noopener">反馈与收录</a>
-      </nav>
+<body>
+<header class="header featured-header">
+  <div class="hc">
+    <div class="h-icon">⭐</div>
+    <div class="h-date">2026年4月6日</div>
+    <h1 class="h-title">今日精选限免</h1>
+    <p class="h-sub-source">数据来源 App Store 官方 · 每 2 小时更新</p>
+    <p class="h-sub">从今日 16 款优惠中精选 · 最值得下载</p>
+    <div class="h-stats">
+      <div class="stat"><span class="stat-num">10</span><span class="stat-label">精选应用</span></div>
+      <div class="stat"><span class="stat-num">8</span><span class="stat-label">完全免费</span></div>
+      <div class="stat"><span class="stat-num">2</span><span class="stat-label">内购优惠</span></div>
+      <div class="stat"><span class="stat-num">0</span><span class="stat-label">限时降价</span></div>
     </div>
-    <header class="header featured-header"><div class="hc"><div class="h-icon">⭐</div><div class="h-date">2026年4月6日</div><h1 class="h-title">今日精选限免</h1><p class="h-sub-source">数据来源 App Store 官方 · 每 2 小时更新</p><p class="h-sub">从今日 16 款优惠中精选 · 最值得下载</p><div class="h-stats"><div class="stat"><span class="stat-num">10</span><span class="stat-label">精选应用</span></div><div class="stat"><span class="stat-num">8</span><span class="stat-label">完全免费</span></div><div class="stat"><span class="stat-num">2</span><span class="stat-label">内购优惠</span></div><div class="stat"><span class="stat-num">0</span><span class="stat-label">限时降价</span></div></div></div></header>
-    <main class="site-main">
-      <section class="site-intro"><div class="page-copy"><div><div class="section-eyebrow">Site overview</div><p class="section-text">App Store 限免情报站 只聚合和整理 App Store 中国区近 24 小时内的限免、内购优惠与限时降价信息，帮助用户快速浏览今天发生了什么变化。</p></div><div class="intro-grid"><article class="intro-item"><strong>精选标准</strong><p>优先考虑本体限免、内购免费、社区提交与高折扣项目，避免首页信息过载。</p></article><article class="intro-item"><strong>页面作用</strong><p>精选页帮助用户快速看完当天最值得关注的内容，也为公开站提供独立主题页。</p></article><article class="intro-item"><strong>如何使用</strong><p>如果你想看完整列表，可以随时返回首页；如果只关心趋势，可直接跳到统计页。</p></article></div></div></section><section class="site-section"><div class="grid" id="grid">
-  <div class="card" data-url="https://apps.apple.com/cn/app/nexdo/id6760636016" data-type="free">
+  </div>
+</header>
+<div class="content">
+  <div class="back-bar">
+    <a href="index.html" class="back-btn">← 返回全部</a>
+  </div>
+  <div class="grid" id="grid">
     
+  <div class="card" data-url="https://apps.apple.com/cn/app/nexdo/id6760636016" data-type="free">
+    <div class="rank-badge">1</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/nexdo/id6760636016" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/3b/e3/c23be305-6c03-7015-9e86-32c5452f632a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" alt="NexDo" loading="lazy"
@@ -649,7 +578,10 @@
             onload="adjustScreenshot(this)"
             onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
 
-    
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/nexdo/id6760636016" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/3b/e3/c23be305-6c03-7015-9e86-32c5452f632a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
 
     <div class="card-footer">
       <span class="update-time">🕐 04/06 02:41</span>
@@ -657,13 +589,24 @@
         <a href="https://apps.apple.com/cn/app/nexdo/id6760636016" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
           在 App Store 查看 →
         </a>
-        
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/nexdo/id6760636016" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/3b/e3/c23be305-6c03-7015-9e86-32c5452f632a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
       </div>
     </div>
   </div>
 
+  <!-- AD_PLACEHOLDER
+  <div class="card card-ad" style="min-height:200px;display:flex;align-items:center;justify-content:center;">
+    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid"
+         data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-XXXXXXX"
+         data-ad-slot="XXXXXXX"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  AD_PLACEHOLDER -->
+
   <div class="card" data-url="https://apps.apple.com/cn/app/sakura-reader/id6759867397" data-type="free">
-    
+    <div class="rank-badge">2</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/sakura-reader/id6759867397" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/40/53/984053cc-ab6c-860d-9868-869a2a1b7ac1/AppIcon-0-1x_U007ephone-0-0-0-1-0-85-220-0.png/100x100bb.jpg" alt="Sakura Reader" loading="lazy"
@@ -698,7 +641,10 @@
             onload="adjustScreenshot(this)"
             onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
 
-    
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/sakura-reader/id6759867397" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/40/53/984053cc-ab6c-860d-9868-869a2a1b7ac1/AppIcon-0-1x_U007ephone-0-0-0-1-0-85-220-0.png/100x100bb.jpg">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
 
     <div class="card-footer">
       <span class="update-time">🕐 04/05 13:45</span>
@@ -706,13 +652,15 @@
         <a href="https://apps.apple.com/cn/app/sakura-reader/id6759867397" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
           在 App Store 查看 →
         </a>
-        
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/sakura-reader/id6759867397" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/40/53/984053cc-ab6c-860d-9868-869a2a1b7ac1/AppIcon-0-1x_U007ephone-0-0-0-1-0-85-220-0.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/melodee-audio-file-player/id6465898934" data-type="free">
-    
+    <div class="rank-badge">3</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/melodee-audio-file-player/id6465898934" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/84/66/cb8466ce-16d5-48dc-0509-ea1671cd9b04/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.jpg" alt="Melodee Audio File Player" loading="lazy"
@@ -747,7 +695,10 @@
             onload="adjustScreenshot(this)"
             onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
 
-    
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/melodee-audio-file-player/id6465898934" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/84/66/cb8466ce-16d5-48dc-0509-ea1671cd9b04/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.jpg">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
 
     <div class="card-footer">
       <span class="update-time">🕐 04/05 13:45</span>
@@ -755,13 +706,15 @@
         <a href="https://apps.apple.com/cn/app/melodee-audio-file-player/id6465898934" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
           在 App Store 查看 →
         </a>
-        
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/melodee-audio-file-player/id6465898934" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/84/66/cb8466ce-16d5-48dc-0509-ea1671cd9b04/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/phone-diagnostics-expert/id6752949053" data-type="free">
-    
+    <div class="rank-badge">4</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/phone-diagnostics-expert/id6752949053" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/ab/6d/c2ab6d0d-b02a-5233-b095-6a862a6715fb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" alt="Phone Diagnostics Expert" loading="lazy"
@@ -796,7 +749,10 @@
             onload="adjustScreenshot(this)"
             onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
 
-    
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/phone-diagnostics-expert/id6752949053" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/ab/6d/c2ab6d0d-b02a-5233-b095-6a862a6715fb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
 
     <div class="card-footer">
       <span class="update-time">🕐 04/05 13:45</span>
@@ -804,13 +760,15 @@
         <a href="https://apps.apple.com/cn/app/phone-diagnostics-expert/id6752949053" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
           在 App Store 查看 →
         </a>
-        
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/phone-diagnostics-expert/id6752949053" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/ab/6d/c2ab6d0d-b02a-5233-b095-6a862a6715fb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/airshots/id6757754493?mt=12" data-type="free">
-    
+    <div class="rank-badge">5</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/airshots/id6757754493?mt=12" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/d2/23/22d22310-8f06-f01c-9dea-ffe8c9da9b7f/AirShotsIcon-0-0-85-220-0-0-6-0-2x-sRGB.png/100x100bb.png" alt="AirShots" loading="lazy"
@@ -845,7 +803,10 @@
             onload="adjustScreenshot(this)"
             onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
 
-    
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/airshots/id6757754493?mt=12" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/d2/23/22d22310-8f06-f01c-9dea-ffe8c9da9b7f/AirShotsIcon-0-0-85-220-0-0-6-0-2x-sRGB.png/100x100bb.png">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
 
     <div class="card-footer">
       <span class="update-time">🕐 04/05 22:34</span>
@@ -853,13 +814,15 @@
         <a href="https://apps.apple.com/cn/app/airshots/id6757754493?mt=12" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
           在 App Store 查看 →
         </a>
-        
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/airshots/id6757754493?mt=12" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/d2/23/22d22310-8f06-f01c-9dea-ffe8c9da9b7f/AirShotsIcon-0-0-85-220-0-0-6-0-2x-sRGB.png/100x100bb.png" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/lighting-check/id1317618609" data-type="free">
-    
+    <div class="rank-badge">6</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/lighting-check/id1317618609" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/90/57/d79057fc-dfbb-9da2-7a0c-3e254731b21d/AppIcon-1x_U007epad-0-1-P3-85-220-0.png/100x100bb.jpg" alt="Lighting Check" loading="lazy"
@@ -894,7 +857,10 @@
             onload="adjustScreenshot(this)"
             onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
 
-    
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/lighting-check/id1317618609" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/90/57/d79057fc-dfbb-9da2-7a0c-3e254731b21d/AppIcon-1x_U007epad-0-1-P3-85-220-0.png/100x100bb.jpg">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
 
     <div class="card-footer">
       <span class="update-time">🕐 04/05 22:34</span>
@@ -902,13 +868,15 @@
         <a href="https://apps.apple.com/cn/app/lighting-check/id1317618609" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
           在 App Store 查看 →
         </a>
-        
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/lighting-check/id1317618609" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/90/57/d79057fc-dfbb-9da2-7a0c-3e254731b21d/AppIcon-1x_U007epad-0-1-P3-85-220-0.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/5memories-%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4/id6760924859" data-type="free">
-    
+    <div class="rank-badge">7</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/5memories-%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4/id6760924859" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/7f/b3/207fb35a-218d-0485-34bc-b865e2a5b063/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="5Memories - 照片拼贴" loading="lazy"
@@ -943,7 +911,10 @@
             onload="adjustScreenshot(this)"
             onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
 
-    
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/5memories-%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4/id6760924859" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/7f/b3/207fb35a-218d-0485-34bc-b865e2a5b063/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
 
     <div class="card-footer">
       <span class="update-time">🕐 04/05 10:11</span>
@@ -951,13 +922,15 @@
         <a href="https://apps.apple.com/cn/app/5memories-%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4/id6760924859" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
           在 App Store 查看 →
         </a>
-        
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/5memories-%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4/id6760924859" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/7f/b3/207fb35a-218d-0485-34bc-b865e2a5b063/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/flexialarm-watch-alarm/id6502886443" data-type="free">
-    
+    <div class="rank-badge">8</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/flexialarm-watch-alarm/id6502886443" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/35/12/f83512c5-12cc-be24-9f4b-de1ec0d7a858/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" alt="FlexiAlarm: Watch Alarm" loading="lazy"
@@ -992,7 +965,10 @@
             onload="adjustScreenshot(this)"
             onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
 
-    
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/flexialarm-watch-alarm/id6502886443" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/35/12/f83512c5-12cc-be24-9f4b-de1ec0d7a858/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
 
     <div class="card-footer">
       <span class="update-time">🕐 04/05 10:11</span>
@@ -1000,13 +976,15 @@
         <a href="https://apps.apple.com/cn/app/flexialarm-watch-alarm/id6502886443" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
           在 App Store 查看 →
         </a>
-        
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/flexialarm-watch-alarm/id6502886443" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/35/12/f83512c5-12cc-be24-9f4b-de1ec0d7a858/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/daily%E8%AE%B0%E8%B4%A6-%E8%B4%A2%E5%8A%A1%E5%81%A5%E5%BA%B7%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7/id1551286006" data-type="iap">
-    
+    <div class="rank-badge">9</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/daily%E8%AE%B0%E8%B4%A6-%E8%B4%A2%E5%8A%A1%E5%81%A5%E5%BA%B7%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7/id1551286006" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/1e/5f/b11e5ff6-4134-6ca8-3438-65f885439f2d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg" alt="Daily记账-财务健康优化工具" loading="lazy"
@@ -1032,7 +1010,7 @@
             <span class="iap-price"><s>¥30.00</s><span class="arrow">→</span><b>¥6.00</b> <span class="iap-range">[¥6.00 ~ ¥30.00]</span></span>
           </div></div>
 
-    <p class="app-desc" data-raw="Daily是一款优化消费习惯&有效管理财务配置的记账App，希望你像关心身体健康一样关注自身财务健康，把钱花好，把心愿实现~。 我们致力于提供真正能指导未来财务生活的记账软件： 0秒启动、拒绝广告、无社区、清爽精致、支持便捷小组件与深色模式等值得你拥有 我们将围绕以下3点，开启财务自由的第一步： 1. 知道钱花哪儿了？ ——高效快捷记录收支，账本报表一应俱全； 2. 花得如何？Daily会自动输出财务报告 ——生活水平（恩格尔系数）&消费结构 让你花得越来越好； 3. 怎么分配手上的财富，给自己“加薪”？ ——资产分配地图&债务管理，从综合角度按需规划美好生活。 以上都不是我们脱离自己财务状况能简单得出答案的，怎么用钱是非常个性化且环环相扣，Daily围绕财务报告&资产分配需求统筹安排，助力你更快进入到一个稳步前进的财务路径。 我们为你准备好了账本List： 默认的日常账本来罗列消费支出/收入来源 人生保障账户汇总【养老/医疗/公积金/其他保险】 资产账簿盘点你的身家【储蓄/投资升值/愿望小金库】 债务账簿罗列【各项贷款/花呗/白条等借款或应收账款】 按宝宝/爱宠/家庭/孝心/度假等不同场景的专题账簿 采购/装修账簿List来记好事项，当购物清单，预购单用（金额可以为0哦） 【开发者说】我们尊重数据的绝对隐私，你拥有自己数据的所有权 你不需创建账号，所有财务数据均存在你自己的iCl" data-full-description="Daily是一款优化消费习惯&有效管理财务配置的记账App，希望你像关心身体健康一样关注自身财务健康，把钱花好，把心愿实现~。 我们致力于提供真正能指导未来财务生活的记账软件： 0秒启动、拒绝广告、无社区、清爽精致、支持便捷小组件与深色模式等值得你拥有 我们将围绕以下3点，开启财务自由的第一步： 1. 知道钱花哪儿了？ ——高效快捷记录收支，账本报表一应俱全； 2. 花得如何？Daily会自动输出财务报告 ——生活水平（恩格尔系数）&消费结构 让你花得越来越好； 3. 怎么分配手上的财富，给自己“加薪”？ ——资产分配地图&债务管理，从综合角度按需规划美好生活。 以上都不是我们脱离自己财务状况能简单得出答案的，怎么用钱是非常个性化且环环相扣，Daily围绕财务报告&资产分配需求统筹安排，助力你更快进入到一个稳步前进的财务路径。 我们为你准备好了账本List： 默认的日常账本来罗列消费支出/收入来源 人生保障账户汇总【养老/医疗/公积金/其他保险】 资产账簿盘点你的身家【储蓄/投资升值/愿望小金库】 债务账簿罗列【各项贷款/花呗/白条等借款或应收账款】 按宝宝/爱宠/家庭/孝心/度假等不同场景的专题账簿 采购/装修账簿List来记好事项，当购物清单，预购单用（金额可以为0哦） 【开发者说】我们尊重数据的绝对隐私，你拥有自己数据的所有权 你不需创建账号，所有财务数据均存在你自己的iCl">Daily是一款优化消费习惯&amp;有效管理财务配置的记账App，希望你像关心身体健康一样关注自身财务健康，把钱花好，把心愿实现~。 我们致力于提供真正能指导未来财务生活的记账软件： 0秒启动、拒绝广告、无社区、清爽精致、支持便捷小组件与深色模式等值得你拥有 我们将围绕以下3点，开启财务自由的第一步： 1. 知道钱花哪儿了？ ——高效快捷记录收支，账本报表一应俱全； 2. 花得如何？Daily会自动输出财务报告 ——生活水平（恩格尔系数）&amp;消费结构 让你花得越来越好； 3. 怎么分配手上的财富，给自己“加薪”？ ——资产分配地图&amp;债务管理，从综合角度按需规划美好生活。 以上都...</p>
+    <p class="app-desc" data-raw="Daily是一款优化消费习惯&有效管理财务配置的记账App，希望你像关心身体健康一样关注自身财务健康，把钱花好，把心愿实现~。 我们致力于提供真正能指导未来财务生活的记账软件： 0秒启动、拒绝广告、无社区、清爽精致、支持便捷小组件与深色模式等值得你拥有 我们将围绕以下3点，开启财务自由的第一步： 1. 知道钱花哪儿了？ ——高效快捷记录收支，账本报表一应俱全； 2. 花得如何？Daily会自动输出财务报告 ——生活水平（恩格尔系数）&消费结构 让你花得越来越好； 3. 怎么分配手上的财富，给自己“加薪”？ ——资产分配地图&债务管理，从综合角度按需规划美好生活。 以上都不是我们脱离自己财务状况能简单得出答案的，怎么用钱是非常个性化且环环相扣，Daily围绕财务报告&资产分配需求统筹安排，助力你更快进入到一个稳步前进的财务路径。 我们为你准备好了账本List： 默认的日常账本来罗列消费支出/收入来源 人生保障账户汇总【养老/医疗/公积金/其他保险】 资产账簿盘点你的身家【储蓄/投资升值/愿望小金库】 债务账簿罗列【各项贷款/花呗/白条等借款或应收账款】 按宝宝/爱宠/家庭/孝心/度假等不同场景的专题账簿 采购/装修账簿List来记好事项，当购物清单，预购单用（金额可以为0哦） 【开发者说】我们尊重数据的绝对隐私，你拥有自己数据的所有权 你不需创建账号，所有财务数据均存在你自己的iCl" data-full-description="Daily是一款优化消费习惯&有效管理财务配置的记账App，希望你像关心身体健康一样关注自身财务健康，把钱花好，把心愿实现~。 我们致力于提供真正能指导未来财务生活的记账软件： 0秒启动、拒绝广告、无社区、清爽精致、支持便捷小组件与深色模式等值得你拥有 我们将围绕以下3点，开启财务自由的第一步： 1. 知道钱花哪儿了？ ——高效快捷记录收支，账本报表一应俱全； 2. 花得如何？Daily会自动输出财务报告 ——生活水平（恩格尔系数）&消费结构 让你花得越来越好； 3. 怎么分配手上的财富，给自己“加薪”？ ——资产分配地图&债务管理，从综合角度按需规划美好生活。 以上都不是我们脱离自己财务状况能简单得出答案的，怎么用钱是非常个性化且环环相扣，Daily围绕财务报告&资产分配需求统筹安排，助力你更快进入到一个稳步前进的财务路径。 我们为你准备好了账本List： 默认的日常账本来罗列消费支出/收入来源 人生保障账户汇总【养老/医疗/公积金/其他保险】 资产账簿盘点你的身家【储蓄/投资升值/愿望小金库】 债务账簿罗列【各项贷款/花呗/白条等借款或应收账款】 按宝宝/爱宠/家庭/孝心/度假等不同场景的专题账簿 采购/装修账簿List来记好事项，当购物清单，预购单用（金额可以为0哦） 【开发者说】我们尊重数据的绝对隐私，你拥有自己数据的所有权 你不需创建账号，所有财务数据均存在你自己的iCl">Daily是一款优化消费习惯&有效管理财务配置的记账App，希望你像关心身体健康一样关注自身财务健康，把钱花好，把心愿实现~。 我们致力于提供真正能指导未来财务生活的记账软件： 0秒启动、拒绝广告、无社区、清爽精致、支持便捷小组件与深色模式等值得你拥有 我们将围绕以下3点，开启财务自由的第一步： 1. 知道钱花哪儿了？ ——高效快捷记录收支，账本报表一应俱全； 2. 花得如何？Daily会自动输出财务报告 ——生活水平（恩格尔系数）&消费结构 让你花得越来越好； 3. 怎么分配手上的财富，给自己“加薪”？ ——资产分配地图&债务管理，从综合角度按需规划美好生活。 以上都不是我们脱离自己财务状况...</p>
 
     <div class="screenshots"><img class="screenshot" src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/3e/a1/35/3ea135ce-0ebf-efe3-fa1f-559064625088/2fd5f04c-bfb2-44e5-be5b-6b33c08dc752_4-_U5c0f_U624b_U673a_Uff08_U4e2d_U6587_Uff09@3x.png/392x696bb.png" alt="截图" loading="lazy"
             onload="adjustScreenshot(this)"
@@ -1040,7 +1018,10 @@
             onload="adjustScreenshot(this)"
             onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
 
-    
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/daily%E8%AE%B0%E8%B4%A6-%E8%B4%A2%E5%8A%A1%E5%81%A5%E5%BA%B7%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7/id1551286006" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/1e/5f/b11e5ff6-4134-6ca8-3438-65f885439f2d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
 
     <div class="card-footer">
       <span class="update-time">🕐 04/06 06:29</span>
@@ -1048,13 +1029,15 @@
         <a href="https://apps.apple.com/cn/app/daily%E8%AE%B0%E8%B4%A6-%E8%B4%A2%E5%8A%A1%E5%81%A5%E5%BA%B7%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7/id1551286006" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
           在 App Store 查看 →
         </a>
-        
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/daily%E8%AE%B0%E8%B4%A6-%E8%B4%A2%E5%8A%A1%E5%81%A5%E5%BA%B7%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7/id1551286006" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/1e/5f/b11e5ff6-4134-6ca8-3438-65f885439f2d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="card" data-url="https://apps.apple.com/cn/app/%E8%A1%80%E5%8E%8B-%E8%BF%BD%E8%B8%AA%E5%99%A8/id6502426413" data-type="iap">
-    
+    <div class="rank-badge">10</div>
     <div class="card-header">
       <a href="https://apps.apple.com/cn/app/%E8%A1%80%E5%8E%8B-%E8%BF%BD%E8%B8%AA%E5%99%A8/id6502426413" target="_blank" rel="noopener" class="icon-link" onclick="event.stopPropagation()">
         <img class="app-icon" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/04/72/750472ff-36c7-42bf-aa8a-0acee7b4fbb1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" alt="血压：追踪器" loading="lazy"
@@ -1088,7 +1071,10 @@
             onload="adjustScreenshot(this)"
             onerror="this.style.display='none';checkScreenshots(this.parentElement)"></div>
 
-    
+    <div class="qr-below" data-url="https://apps.apple.com/cn/app/%E8%A1%80%E5%8E%8B-%E8%BF%BD%E8%B8%AA%E5%99%A8/id6502426413" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/04/72/750472ff-36c7-42bf-aa8a-0acee7b4fbb1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg">
+      <div class="qr-canvas"></div>
+      <p class="qr-below-tip">扫描二维码下载</p>
+    </div>
 
     <div class="card-footer">
       <span class="update-time">🕐 04/06 02:41</span>
@@ -1096,21 +1082,40 @@
         <a href="https://apps.apple.com/cn/app/%E8%A1%80%E5%8E%8B-%E8%BF%BD%E8%B8%AA%E5%99%A8/id6502426413" target="_blank" rel="noopener" class="store-link" onclick="event.stopPropagation()">
           在 App Store 查看 →
         </a>
-        
+        <div class="qr-thumb" data-url="https://apps.apple.com/cn/app/%E8%A1%80%E5%8E%8B-%E8%BF%BD%E8%B8%AA%E5%99%A8/id6502426413" data-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/04/72/750472ff-36c7-42bf-aa8a-0acee7b4fbb1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" onclick="event.stopPropagation();showQR(this)">
+          <div class="qr-canvas"></div>
+        </div>
       </div>
     </div>
-  </div></div></section>
-    </main>
-    <footer class="site-footer"><div class="site-footer-card"><div class="site-footer-top"><div><div class="site-footer-title">App Store 限免情报站</div><p class="site-footer-text">本站为第三方信息整理站点，不隶属于 Apple。页面展示的价格、限免与内购优惠具有时效性，请以 App Store 实际页为准。广告如启用，会单独标识并与编辑内容分离。</p></div><div><a class="site-nav-cta" href="https://github.com/temp-fox/app-checker/issues" target="_blank" rel="noopener">提交反馈</a></div></div><div class="site-footer-links"><a href="index.html">今日首页</a><a href="featured.html">今日精选</a><a href="latest-updates.html">最新更新</a><a href="stats.html">历史统计</a><a href="free.html">完全免费</a><a href="iap.html">内购优惠</a><a href="discount.html">限时降价</a><a href="categories.html">应用分类</a><a href="methodology.html">更新说明</a><a href="about.html">关于本站</a><a href="privacy.html">隐私政策</a><a href="contact.html">联系反馈</a><a href="terms.html">使用条款</a><a href="disclaimer.html">免责声明</a><a href="faq.html">常见问题</a></div></div></footer>
   </div>
-  <button class="theme-toggle" id="themeToggle" aria-label="切换暗色模式">🌙</button>
-  <button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="返回顶部">↑</button>
-  <script>
-    
+  </div>
+</div>
+<button class="theme-toggle" id="themeToggle" aria-label="切换暗色模式">🌙</button>
+<button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="返回顶部">↑</button>
+<script>
+  
 
+  // 初始化二维码（批量渲染，每个间隔50ms，避免主线程卡顿）
   document.addEventListener('DOMContentLoaded', function() {
+    var wraps = Array.from(document.querySelectorAll('.qr-thumb[data-url], .qr-below[data-url]'));
+    wraps.forEach(function(wrap, idx) {
+      setTimeout(function() {
+        var url = wrap.getAttribute('data-url');
+        var canvas = wrap.querySelector('.qr-canvas');
+        if (!url || !canvas) return;
+        new QRCode(canvas, {
+          text: url, width: 160, height: 160,
+          colorDark: '#1c1c1e', colorLight: '#ffffff',
+          correctLevel: QRCode.CorrectLevel.M
+        });
+      }, idx * 50);
+    });
+
+    // 英文简介自动翻译
+    translateDescriptions();
   });
 
+  // 返回顶部按钮
   (function() {
     var btn = document.getElementById('backTop');
     if (!btn) return;
@@ -1119,7 +1124,67 @@
     }, { passive: true });
   })();
 
+  // ── 英文简介自动翻译 ──
+  function hasChineseText(text) {
+    return /[\u4e00-\u9fff]/.test(text);
+  }
 
+  async function translateText(text) {
+    try {
+      var url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=' + encodeURIComponent(text);
+      var r = await fetch(url);
+      var d = await r.json();
+      if (!d || !d[0]) return null;
+      return d[0].filter(function(i){ return i && i[0]; }).map(function(i){ return i[0]; }).join('');
+    } catch(e) {
+      return null;
+    }
+  }
+
+  async function translateDescriptions() {
+    var descs = Array.from(document.querySelectorAll('.app-desc'));
+    var toTranslate = descs.filter(function(el) {
+      var raw = el.getAttribute('data-raw') || el.textContent || '';
+      return raw.trim().length > 0 && !hasChineseText(raw);
+    });
+
+    if (toTranslate.length === 0) return;
+
+    var successCount = 0;
+    var failCount = 0;
+
+    // 每批最多 4 个并发，避免限流
+    for (var i = 0; i < toTranslate.length; i += 4) {
+      var batch = toTranslate.slice(i, i + 4);
+      await Promise.all(batch.map(async function(el) {
+        var raw = el.getAttribute('data-raw') || el.textContent || '';
+        var cacheKey = 'tr_' + btoa(encodeURIComponent(raw.substring(0, 120)));
+        try {
+          var cached = sessionStorage.getItem(cacheKey);
+          if (cached) { el.textContent = cached; successCount++; return; }
+        } catch(e) {}
+        var translated = await translateText(raw);
+        if (translated) {
+          el.textContent = translated;
+          successCount++;
+          try { sessionStorage.setItem(cacheKey, translated); } catch(e) {}
+        } else {
+          failCount++;
+        }
+      }));
+    }
+
+    // 在页面底部显示翻译统计
+    var footer = document.querySelector('.page-footer');
+    if (footer && toTranslate.length > 0) {
+      var stat = document.createElement('div');
+      stat.style.cssText = 'font-size:12px;color:#9ca3af;margin-top:4px;';
+      stat.textContent = '翻译统计：需翻译 ' + toTranslate.length + ' 条，成功 ' + successCount + ' 条，失败 ' + failCount + ' 条';
+      footer.appendChild(stat);
+    }
+  }
+
+  // ── 截图加载失败处理 ──
   function checkScreenshots(container) {
     if (!container) return;
     var imgs = container.querySelectorAll('.screenshot');
@@ -1130,6 +1195,7 @@
     if (allHidden) container.style.display = 'none';
   }
 
+  // ── 截图加载成功：根据实际比例调整容器高度 ──
   function adjustScreenshot(img) {
     if (!img.naturalWidth || !img.naturalHeight) return;
     var container = img.parentElement;
@@ -1148,7 +1214,43 @@
     imgs.forEach(function(i) { i.style.height = targetH + 'px'; });
   }
 
-    
+  // ── 二维码弹出蒙层 ──
+  function showQR(el) {
+    var existing = document.querySelector('.qr-overlay');
+    if (existing) existing.parentNode.removeChild(existing);
+    var overlay = document.createElement('div');
+    overlay.className = 'qr-overlay';
+    overlay.onclick = function() { overlay.parentNode.removeChild(overlay); };
+    var content = document.createElement('div');
+    content.className = 'qr-overlay-content';
+    content.onclick = function(e) { e.stopPropagation(); };
+    var url = el.getAttribute('data-url');
+    if (url) {
+      var qrDiv = document.createElement('div');
+      qrDiv.className = 'qr-canvas';
+      new QRCode(qrDiv, {
+        text: url, width: 162, height: 162,
+        colorDark: '#1c1c1e', colorLight: '#ffffff',
+        correctLevel: QRCode.CorrectLevel.M
+      });
+      content.appendChild(qrDiv);
+    }
+    var iconUrl = el.getAttribute('data-icon');
+    if (iconUrl) {
+      var icon = document.createElement('img');
+      icon.src = iconUrl;
+      icon.className = 'qr-overlay-icon';
+      icon.onerror = function() { this.style.display = 'none'; };
+      content.appendChild(icon);
+    }
+    var tip = document.createElement('p');
+    tip.className = 'qr-overlay-tip';
+    tip.textContent = '扫描二维码下载';
+    content.appendChild(tip);
+    overlay.appendChild(content);
+    document.body.appendChild(overlay);
+  }
+  
   (function(){
     var html = document.documentElement;
     var btn = document.getElementById('themeToggle');
@@ -1164,6 +1266,6 @@
       btn.textContent = isDark ? '☀️' : '🌙';
     };
   })();
-  </script>
+</script>
 </body>
 </html>
