@@ -1,0 +1,1 @@
+export const IN_APP_PURCHASE_MAX_TIMES = 10

@@ -1,0 +1,108 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/appstore-discounts/appstore-discounts/appconfig.schema.json",
+  "title": "AppConfig JSON Schema",
+  "description": "Configuration for an app in the appstore-discounts system",
+  "type": "object",
+  "required": [
+    "$schema",
+    "appConfig"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "The JSON Schema version used for this file"
+    },
+    "appConfig": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name"
+        ],
+        "properties": {
+          "id": {
+            "type": "integer",
+            "description": "The AppID of the app（应用的 AppID）"
+          },
+          "name": {
+            "oneOf": [
+              {
+                "type": "string",
+                "description": "The name of the app used across all regions（所有国家或地区通用的应用名称）"
+              },
+              {
+                "type": "object",
+                "description": "Region-specific app names（指定国家或地区的应用名称）",
+                "patternProperties": {
+                  "^(cn|hk|mo|tw|us|tr|pt)$": {
+                    "type": "string"
+                  }
+                },
+                "additionalProperties": false
+              },
+              {
+                "type": "array",
+                "description": "A tuple with a common name and region-specific overrides",
+                "minItems": 2,
+                "maxItems": 2,
+                "items": [
+                  {
+                    "type": "string",
+                    "description": "The common name for multiple regions"
+                  },
+                  {
+                    "type": "object",
+                    "description": "Region-specific app names that override the common name",
+                    "patternProperties": {
+                      "^(cn|hk|mo|tw|us|tr|pt)$": {
+                        "type": "string"
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                ]
+              }
+            ]
+          },
+          "allowNotification": {
+            "type": "boolean",
+            "description": "Whether notifications are allowed for this app（应用是否允许通知，默认为允许）"
+          },
+          "addType": {
+            "type": "string",
+            "enum": [
+              "manual",
+              "auto",
+              "external"
+            ],
+            "description": "How the app was added to the configuration（应用添加的方式，默认为手动）"
+          },
+          "addSource": {
+            "type": "string",
+            "description": "Specific source: 'GoFans', 'OODATA', 'issue-123', etc."
+          },
+          "_externalSource": {
+            "type": "string",
+            "description": "External source name (for tracking external app origins)"
+          },
+          "_shouldBePaid": {
+            "type": "boolean",
+            "description": "Whether the app should be treated as a paid app"
+          },
+          "_externalSourceFirstSeen": {
+            "type": "integer",
+            "description": "Timestamp when the external source was first discovered"
+          },
+          "_discountType": {
+            "type": "string",
+            "enum": ["app", "iap", "unknown"],
+            "description": "Type of discount: app=full app, iap=in-app purchase, unknown=unknown"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

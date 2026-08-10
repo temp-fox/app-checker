@@ -1,0 +1,159 @@
+name: Auto Add App from Issue
+
+on:
+  issues:
+    types: [opened]
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  process-issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm i -g pnpm && pnpm i --no-frozen-lockfile
+
+      - name: Create Comment - Initial Reply
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `🤖 **自动处理中...**\n\n我已收到你的应用提交请求，正在验证应用信息...\n\n验证包括:\n- ✓ 应用是否存在\n- ✓ 是否为付费应用\n- ✓ 内容是否符合要求\n\n请稍等...`
+            })
+
+      - name: Process Issue and Add App
+        id: process
+        run: npx tsx src/data/issues/run.ts
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+
+      - name: Configure Git
+        if: success()
+        run: |
+          git config --global user.email "temp-fox@users.noreply.github.com"
+          git config --global user.name "temp-fox"
+
+      - name: Commit changes to apps.json
+        id: commit
+        if: success()
+        run: |
+          if git status -s | grep -q .; then
+            git add apps.json
+            git commit -m "feat: 从 Issue #${{ github.event.issue.number }} 添加应用" || true
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Push changes
+        if: steps.commit.outputs.has_changes == 'true'
+        run: |
+          git pull --rebase origin main || true
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Post Result Comment
+        if: always()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs')
+            let result
+            try {
+              result = JSON.parse(fs.readFileSync('issue_result.json', 'utf-8'))
+            } catch (e) {
+              result = {
+                status: 'error',
+                error: '脚本执行异常，未生成结果文件',
+                addedApps: [], failedApps: [], existingApps: []
+              }
+            }
+
+            const { status, addedApps = [], failedApps = [], existingApps = [] } = result
+            let body = ''
+
+            if (status === 'success') {
+              const appList = addedApps.map(a => `- **${a.name}** (ID: \`${a.id}\`)  当前价格：${a.formattedPrice}`).join('\n')
+              body = `✅ **添加成功！**\n\n以下应用已成功加入追踪列表：\n${appList}\n\n📋 **后续说明**\n- 下次 RSS 更新时（约每 2 小时）将开始追踪\n- 当应用价格发生变动时会出现在 RSS Feed 中\n\n感谢你的贡献！🎉`
+
+            } else if (status === 'no_links') {
+              body = `❌ **未找到 App Store 链接**\n\nIssue 内容中没有识别到有效的 App Store 链接。\n\n请确保链接格式正确，例如：\n\`\`\`\nhttps://apps.apple.com/cn/app/应用名/id1234567890\n\`\`\`\n\n如有疑问可重新提交 Issue。`
+
+            } else if (status === 'all_exists') {
+              const appList = existingApps.map(a => `- **${a.name}** (ID: \`${a.id}\`)`).join('\n')
+              body = `ℹ️ **应用已在追踪列表**\n\n以下应用早已在追踪列表中，无需重复添加：\n${appList}\n\n当该应用价格出现变动时，会自动出现在 RSS Feed 中。`
+
+            } else if (status === 'all_failed') {
+              const reasonList = failedApps.map(f => {
+                const name = f.name ? ` (**${f.name}**)` : ''
+                return `- \`${f.id}\`${name}：${f.reason}`
+              }).join('\n')
+              body = `❌ **验证未通过**\n\n以下应用未能通过验证：\n${reasonList}\n\n---\n**常见原因说明**\n- 应用当前是免费的 → 本系统追踪付费应用的限免动态，需提交正常售价 > ¥0 的应用\n- 应用在 CN 区不存在 → 请确认该应用在中国区 App Store 已上架，或改用其他区链接\n- 包含屏蔽关键词 → VPN、代理、成人内容等类别不予收录\n- iTunes API 暂时无法访问 → 请稍后重新提交\n\n如有疑问可修改后重新提交。`
+
+            } else if (status === 'partial') {
+              const addedList = addedApps.map(a => `- ✅ **${a.name}** (ID: \`${a.id}\`)，价格 ${a.formattedPrice}`).join('\n')
+              const failedList = failedApps.map(f => {
+                const name = f.name ? ` (**${f.name}**)` : ''
+                return `- ❌ \`${f.id}\`${name}：${f.reason}`
+              }).join('\n')
+              const existsList = existingApps.length > 0
+                ? `\n\n**已在追踪列表（跳过）：**\n${existingApps.map(a => `- ℹ️ **${a.name}**`).join('\n')}`
+                : ''
+              body = `⚠️ **部分成功**\n\n**已成功添加：**\n${addedList}\n\n**未通过验证：**\n${failedList}${existsList}`
+
+            } else {
+              const errMsg = result.error || (failedApps[0] && failedApps[0].reason) || '未知错误'
+              const actionUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}/actions`
+              body = `⚠️ **处理时出现错误**\n\n错误信息：\`${errMsg}\`\n\n请查看 [Action 日志](${actionUrl}) 了解详情，或重新提交 Issue。`
+            }
+
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body
+            })
+
+      - name: Add Label
+        if: always()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs')
+            let status = 'error'
+            try {
+              const result = JSON.parse(fs.readFileSync('issue_result.json', 'utf-8'))
+              status = result.status
+            } catch (e) {}
+
+            const label = ['success', 'partial', 'all_exists'].includes(status)
+              ? '✅ 已处理'
+              : '⚠️ 需要检查'
+
+            try {
+              await github.rest.issues.addLabels({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                labels: [label]
+              })
+            } catch (e) {
+              console.log('添加标签失败（标签可能不存在）:', e.message)
+            }
