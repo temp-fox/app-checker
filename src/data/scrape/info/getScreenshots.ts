@@ -1,4 +1,5 @@
 import nodeFetch from 'node-fetch'
+import { chromium, Browser } from 'playwright'
 
 export interface ScreenshotResult {
   screenshotUrls: string[]
@@ -16,56 +17,99 @@ const EMPTY_RESULT: ScreenshotResult = {
   ipadScreenshotUrls: [],
 }
 
-// Module-level token cache
-let cachedToken: string | null = null
+// Module-level token cache — keyed by region.
+const tokenCache = new Map<Region, string>()
+
+// Shared Playwright browser instance for token extraction (lightweight, no page rendering).
+let tokenBrowser: Browser | null = null
 
 /**
- * Fetch and cache the amp-api Bearer token for a given region.
- * 1. GET the App Store homepage HTML
- * 2. Extract the JS bundle path from the HTML
- * 3. Fetch the JS bundle and extract the JWT token
+ * Fetch a real JWT token from Apple's amp-api by launching a headless browser,
+ * intercepting the Authorization header from an amp-api request on the App Store
+ * page.
+ *
+ * Apple changed their architecture: the JWT is no longer embedded in any static
+ * JS bundle — it is generated dynamically by the browser-side
+ * `mediaTokenService.refreshToken()` / `jwtProvider.getNonSearchJwt()` flow.
+ *
+ * This function captures a real token from a live browser session.
  */
 export async function initAmpApiToken(region: Region): Promise<boolean> {
+  if (tokenCache.has(region)) {
+    return true
+  }
+
   try {
-    // Step 1: fetch App Store homepage
-    const homepageUrl = `https://apps.apple.com/${region}`
-    const html = await nodeFetch(homepageUrl, {
-      headers: { Accept: 'text/html', 'User-Agent': 'Mozilla/5.0' },
-    }).then((res) => res.text())
-
-    // Step 2: extract JS bundle path (e.g. /assets/index~abcdef12.js)
-    const bundleMatch = html.match(
-      /(?:src|href)=["'](\/assets\/index[^"']+\.js)["']/,
-    )
-    if (!bundleMatch) {
-      console.warn('amp-api: 无法从首页 HTML 中提取 JS bundle 路径')
-      return false
+    // Launch a single shared browser if not already running
+    if (!tokenBrowser) {
+      tokenBrowser = await chromium.launch({ headless: true })
     }
 
-    const bundleUrl = `https://apps.apple.com${bundleMatch[1]}`
+    const context = await tokenBrowser.newContext({
+      userAgent:
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15',
+      locale: 'zh-CN',
+    })
+    const page = await context.newPage()
 
-    // Step 3: fetch the JS bundle and extract JWT token
-    const jsContent = await nodeFetch(bundleUrl, {
-      headers: { Accept: '*/*', 'User-Agent': 'Mozilla/5.0' },
-    }).then((res) => res.text())
+    // Intercept ALL requests — capture the first Authorization header sent to amp-api
+    const tokenPromise = new Promise<string>((resolve, reject) => {
+      const timeout = setTimeout(() => reject(new Error('timeout waiting for amp-api request')), 15000)
 
-    const tokenMatch = jsContent.match(
-      /eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+/,
-    )
-    if (!tokenMatch) {
-      console.warn('amp-api: 无法从 JS bundle 中提取 JWT token')
-      return false
+      page.on('request', (request) => {
+        const url = request.url()
+        if (url.includes('amp-api') || url.includes('amp-api-edge') || url.includes('amp-api-search-edge')) {
+          const auth = request.headers()['authorization']
+          if (auth && auth.startsWith('Bearer ')) {
+            clearTimeout(timeout)
+            const token = auth.slice(7) // strip 'Bearer ' prefix
+            resolve(token)
+          }
+        }
+      })
+    })
+
+    // Load the App Store homepage — this triggers amp-api requests
+    await page.goto(`https://apps.apple.com/${region}`, {
+      waitUntil: 'networkidle',
+      timeout: 20000,
+    })
+
+    let token: string
+    try {
+      token = await tokenPromise
+    } catch {
+      // Fallback: try the search page which makes simpler amp-api calls
+      await page.goto(
+        `https://apps.apple.com/${region}/search/%E5%85%8D%E8%B4%B9`,
+        { waitUntil: 'networkidle', timeout: 20000 },
+      )
+      token = await tokenPromise
     }
 
-    cachedToken = tokenMatch[0]
+    tokenCache.set(region, token)
     console.log(
-      `amp-api: token 获取成功 (${cachedToken.slice(0, 40)}...)`,
+      `amp-api: token 获取成功 (${region}, Playwright, ${token.slice(0, 40)}...)`,
     )
+
+    await context.close()
     return true
   } catch (error) {
-    console.warn('amp-api: token 获取失败:', error)
+    console.warn(`amp-api: Playwright token 获取失败 (${region}):`, error)
     return false
   }
+}
+
+/** Cleanup the shared token browser (call once at process exit). */
+export async function closeTokenBrowser(): Promise<void> {
+  if (tokenBrowser) {
+    await tokenBrowser.close()
+  }
+}
+
+/** Return the token previously cached by initAmpApiToken or null. */
+export function getAmpApiToken(region: Region): string | null {
+  return tokenCache.get(region) || null
 }
 
 function resolveTemplateUrl(template: string, width: number, height: number): string {
@@ -229,7 +273,8 @@ export async function getScreenshotsByAmpApi(
 ): Promise<Map<number, ScreenshotResult>> {
   const result = new Map<number, ScreenshotResult>()
 
-  if (!cachedToken) {
+  const token = getAmpApiToken(region)
+  if (!token) {
     console.warn('amp-api: token 未初始化，跳过截图获取')
     return result
   }
@@ -241,7 +286,7 @@ export async function getScreenshotsByAmpApi(
     try {
       const response = await nodeFetch(url, {
         headers: {
-          Authorization: `Bearer ${cachedToken}`,
+          Authorization: `Bearer ${token}`,
           Origin: 'https://apps.apple.com',
           Accept: 'application/json',
           'User-Agent': 'Mozilla/5.0',
@@ -306,7 +351,8 @@ export async function getAppMetadataByAmpApi(
 ): Promise<Map<number, AppMetadataResult>> {
   const result = new Map<number, AppMetadataResult>()
 
-  if (!cachedToken) {
+  const token = getAmpApiToken(region)
+  if (!token) {
     console.warn('amp-api: token 未初始化，跳过元数据获取')
     return result
   }
@@ -318,7 +364,7 @@ export async function getAppMetadataByAmpApi(
     try {
       const response = await nodeFetch(url, {
         headers: {
-          Authorization: `Bearer ${cachedToken}`,
+          Authorization: `Bearer ${token}`,
           Origin: 'https://apps.apple.com',
           Accept: 'application/json',
           'User-Agent': 'Mozilla/5.0',
