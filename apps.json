@@ -2,6 +2,486 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 502011399,
+      "name": {
+        "cn": "福爾摩斯探案(福尔摩斯探案)"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379401737,
+      "_discountType": "app"
+    },
+    {
+      "id": 554100040,
+      "name": {
+        "cn": "孙子兵法（文言白话对照版）"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379401737,
+      "_discountType": "app"
+    },
+    {
+      "id": 583295230,
+      "name": {
+        "cn": "rubyi$-运行脚本, 自动联想，代码颜色，类及方法索引"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391179,
+      "_discountType": "app"
+    },
+    {
+      "id": 1023661063,
+      "name": {
+        "cn": "妖精的漫画日语① 五十音图篇"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379398913,
+      "_discountType": "app"
+    },
+    {
+      "id": 1072547160,
+      "name": {
+        "cn": "NumPad: 数字键盘"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391179,
+      "_discountType": "app"
+    },
+    {
+      "id": 1080905503,
+      "name": {
+        "cn": "和合本修訂版聖經 RCUV 聆聽版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379401737,
+      "_discountType": "app"
+    },
+    {
+      "id": 1131034724,
+      "name": {
+        "cn": "eFiles Pro 文件管理专业版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391179,
+      "_discountType": "app"
+    },
+    {
+      "id": 1480114559,
+      "name": {
+        "cn": "Cargo Optimizer Max 10"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379385542,
+      "_discountType": "app"
+    },
+    {
+      "id": 1549683587,
+      "name": {
+        "cn": "Money Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379399175,
+      "_discountType": "app"
+    },
+    {
+      "id": 1550228040,
+      "name": {
+        "cn": "跆拳道計分器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379388165,
+      "_discountType": "app"
+    },
+    {
+      "id": 1566760482,
+      "name": {
+        "cn": "马来语大全"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391135,
+      "_discountType": "app"
+    },
+    {
+      "id": 1573461917,
+      "name": {
+        "cn": "SponsorBlock for Safari"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391179,
+      "_discountType": "app"
+    },
+    {
+      "id": 1590589672,
+      "name": {
+        "cn": "Map Redirect for Map Links"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786379426349,
+      "_discountType": "app"
+    },
+    {
+      "id": 1638900655,
+      "name": {
+        "cn": "拾色器 · 拾色·配色·标准色·安全色"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786379426349,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786705222,
+      "name": {
+        "cn": "BaroCast"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379385694,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792648049,
+      "name": {
+        "cn": "最糟糕的 乘客 航空公司 航班"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391135,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794281589,
+      "name": {
+        "cn": "Dear Passengers Panic Playbook"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391135,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761789354,
+      "name": {
+        "cn": "Aircraft Maintenance Assistant"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391135,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795366716,
+      "name": {
+        "cn": "WorkList-工作记录与月度清单，随手记工作，成果不遗漏"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391179,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789408515,
+      "name": {
+        "cn": "Focus-专注力自控力认知训练"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391179,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757666009,
+      "name": {
+        "cn": "One Thing: Minimalist Todo App"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391179,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782077919,
+      "name": {
+        "cn": "混凝土试块送检台账2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379391179,
+      "_discountType": "app"
+    },
+    {
+      "id": 6470280991,
+      "name": {
+        "cn": "Music Folders"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379393864,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767005738,
+      "name": {
+        "cn": "Crate for Plex"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379393864,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759053769,
+      "name": {
+        "cn": "Eclipse Companion"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379396358,
+      "_discountType": "app"
+    },
+    {
+      "id": 6749773052,
+      "name": {
+        "cn": "物品收纳盒"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379396358,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797524722,
+      "name": {
+        "cn": "RunBuddy"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379396395,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792601149,
+      "name": {
+        "cn": "いびきトラッカー：いびき録音・睡眠チェック"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379396395,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767082054,
+      "name": {
+        "cn": "减烟记-戒烟减烟吸烟打卡记录健康省钱统计助手工具版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379396395,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786938491,
+      "name": {
+        "cn": "神战三国-全新超高颜值不肝不氪国风卡牌"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379396391,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792650070,
+      "name": {
+        "cn": "央行数据-社融 M2 货币供应金融统计查询"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379399175,
+      "_discountType": "app"
+    },
+    {
+      "id": 6737250915,
+      "name": {
+        "cn": "Pet Translator - Human to Pet"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379398897,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763554405,
+      "name": {
+        "cn": "Face Scanner: AI Analysis"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379398897,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781155997,
+      "name": {
+        "cn": "跑团轮次助手TRPG骰子2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379398897,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787367825,
+      "name": {
+        "cn": "词途TOEIC托业核心词汇"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786379398913,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759317346,
+      "name": {
+        "cn": "Piclean :  相册整理助手"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786379426349,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6787686405,
+      "name": {
+        "cn": "魔镜魔镜：一键穿上魔法"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786379426349,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6789836770,
+      "name": {
+        "cn": "Brainrot Soundboard: Memes Box"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786379426349,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6474092236,
+      "name": {
+        "cn": "The Lettervan"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786379426349,
+      "_discountType": "app"
+    },
+    {
+      "id": 6769523587,
+      "name": {
+        "cn": "OpenGraph"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786379426349,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762195970,
+      "name": {
+        "cn": "Kinnect"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786379426349,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789645403,
+      "name": {
+        "cn": "CompassOne"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786379426349,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760980619,
+      "name": {
+        "cn": "Compress & Upload for Safari"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786379426349,
+      "_discountType": "app"
+    },
+    {
       "id": 453260249,
       "name": {
         "cn": "B737 Alerts"
@@ -8973,8 +9453,8 @@
       "name": {
         "cn": "Tracker Note - 全能追踪笔记"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1784701752771,
