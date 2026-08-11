@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1227932062,
+      "name": {
+        "cn": "GeoShred Play"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786487904481,
+      "_discountType": "app"
+    },
+    {
+      "id": 1599230728,
+      "name": {
+        "cn": "Solar Snap"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786487901907,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792435964,
+      "name": {
+        "cn": "Shadow101：英语跟读 新概念英语"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786487909827,
+      "_discountType": "app"
+    },
+    {
       "id": 1266175049,
       "name": {
         "cn": "郑州网约车考试-网约车考试司机从业资格证新题库"
