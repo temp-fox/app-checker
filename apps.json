@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1436855580,
+      "name": {
+        "cn": "FracPad III"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786460150864,
+      "_discountType": "app"
+    },
+    {
+      "id": 6752805381,
+      "name": {
+        "cn": "SmartBehavior"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786460161999,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793947556,
+      "name": {
+        "cn": "The Odyssey by Homer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786460164627,
+      "_discountType": "app"
+    },
+    {
+      "id": 6738851170,
+      "name": {
+        "cn": "English Grammar Drills"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786460164705,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768790843,
+      "name": {
+        "cn": "OL Reader"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786460167350,
+      "_discountType": "app"
+    },
+    {
       "id": 1170257804,
       "name": {
         "cn": "电话黑名单 Pro - 骚扰电话拦截·来电卫士·防诈骗"
