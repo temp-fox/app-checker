@@ -24,6 +24,49 @@ const tokenCache = new Map<Region, string>()
 let tokenBrowser: Browser | null = null
 
 /**
+ * Navigate to `url` and wait up to `timeoutMs` for the first amp-api
+ * Authorization header.  Returns the bare JWT (without "Bearer "), or null.
+ */
+async function tryCaptureToken(
+  page: any,
+  url: string,
+  timeoutMs = 15000,
+): Promise<string | null> {
+  return new Promise<string | null>((resolve) => {
+    let settled = false
+
+    const done = (value: string | null) => {
+      if (settled) return
+      settled = true
+      clearTimeout(timer)
+      resolve(value)
+    }
+
+    const timer = setTimeout(() => done(null), timeoutMs)
+
+    page.on('request', (request: any) => {
+      if (settled) return
+      const reqUrl = request.url()
+      if (
+        reqUrl.includes('amp-api') ||
+        reqUrl.includes('amp-api-edge') ||
+        reqUrl.includes('amp-api-search-edge')
+      ) {
+        const auth = request.headers()['authorization']
+        if (auth && auth.startsWith('Bearer ')) {
+          done(auth.slice(7))
+        }
+      }
+    })
+
+    // Fire-and-forget navigation — if it fails we wait for the timeout.
+    page.goto(url, { waitUntil: 'domcontentloaded', timeout: timeoutMs + 5000 }).catch(() => {
+      // Navigation may fail after the token was already captured; that's fine.
+    })
+  })
+}
+
+/**
  * Fetch a real JWT token from Apple's amp-api by launching a headless browser,
  * intercepting the Authorization header from an amp-api request on the App Store
  * page.
@@ -33,79 +76,87 @@ let tokenBrowser: Browser | null = null
  * `mediaTokenService.refreshToken()` / `jwtProvider.getNonSearchJwt()` flow.
  *
  * This function captures a real token from a live browser session.
+ * Includes anti-detection measures so Apple serves real pages (not challenge pages)
+ * on headless CI runners.
  */
 export async function initAmpApiToken(region: Region): Promise<boolean> {
   if (tokenCache.has(region)) {
     return true
   }
 
+  let context: any = null
+  let page: any = null
+
   try {
-    // Launch a single shared browser if not already running
+    // Launch a single shared browser if not already running.
     if (!tokenBrowser) {
-      tokenBrowser = await chromium.launch({ headless: true })
-    }
-
-    const context = await tokenBrowser.newContext({
-      userAgent:
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15',
-      locale: 'zh-CN',
-    })
-
-    /**
-     * Create a fresh token-catching promise.
-     * We rebuild this per-attempt because once a Promise settles it cannot be reused.
-     */
-    function createTokenPromise(page: any): Promise<string> {
-      return new Promise<string>((resolve, reject) => {
-        const timeout = setTimeout(() => reject(new Error('timeout waiting for amp-api request')), 20000)
-
-        page.on('request', (request: any) => {
-          const url = request.url()
-          if (url.includes('amp-api') || url.includes('amp-api-edge') || url.includes('amp-api-search-edge')) {
-            const auth = request.headers()['authorization']
-            if (auth && auth.startsWith('Bearer ')) {
-              clearTimeout(timeout)
-              resolve(auth.slice(7)) // strip 'Bearer ' prefix
-            }
-          }
-        })
+      tokenBrowser = await chromium.launch({
+        headless: true,
+        args: [
+          // Mask headless-mode signals that Apple's WAF checks.
+          '--disable-blink-features=AutomationControlled',
+          '--disable-features=IsolateOrigins,site-per-process',
+          // CI-friendly flags.
+          '--no-sandbox',
+          '--disable-setuid-sandbox',
+          '--disable-dev-shm-usage',
+          '--disable-gpu',
+        ],
       })
     }
 
-    const page = await context.newPage()
-    let tokenPromise = createTokenPromise(page)
-
-    // Load the App Store homepage with domcontentloaded — enough to trigger
-    // amp-api requests, avoids networkidle hanging on CI runners.
-    await page.goto(`https://apps.apple.com/${region}/app/id1163682613`, {
-      waitUntil: 'domcontentloaded',
-      timeout: 30000,
+    context = await tokenBrowser.newContext({
+      userAgent:
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15',
+      locale: 'zh-CN',
+      viewport: { width: 1440, height: 900 },
+      deviceScaleFactor: 2,
     })
 
-    let token: string
-    try {
-      token = await tokenPromise
-    } catch {
-      // Fallback: simplified page with a fresh promise + fresh page
-      await page.goto(
-        `https://apps.apple.com/${region}/app/id1163682613`,
-        { waitUntil: 'domcontentloaded', timeout: 30000 },
-      )
-      // Rebuild the promise — old one was already rejected
-      tokenPromise = createTokenPromise(page)
-      token = await tokenPromise
+    page = await context.newPage()
+
+    // Anti-detection: strip every automation signal before any page JS runs.
+    await page.addInitScript(() => {
+      // Remove the "navigator.webdriver" flag that headless Chrome sets.
+      Object.defineProperty(navigator, 'webdriver', { get: () => false })
+
+      // Add a minimal chrome.runtime so bot detectors don't flag it as missing.
+      ;(window as any).chrome = { runtime: {} }
+
+      // Suppress "Chrome is being controlled by automated software" infobar.
+      const originalQuery = window.navigator.permissions.query.bind(window.navigator.permissions)
+      window.navigator.permissions.query = (parameters: any) =>
+        parameters.name === 'notifications'
+          ? Promise.resolve({ state: Notification.permission } as PermissionStatus)
+          : originalQuery(parameters)
+    })
+
+    // ---- first attempt: a specific app page (lightweight, triggers amp-api) ----
+    let token = await tryCaptureToken(page, `https://apps.apple.com/${region}/app/id1163682613`)
+
+    // ---- second attempt: a different app on the same region ----
+    if (!token) {
+      token = await tryCaptureToken(page, `https://apps.apple.com/${region}/app/id835599320`)
     }
 
-    tokenCache.set(region, token)
-    console.log(
-      `amp-api: token 获取成功 (${region}, Playwright, ${token.slice(0, 40)}...)`,
-    )
+    if (token) {
+      tokenCache.set(region, token)
+      console.log(`amp-api: token 获取成功 (${region}, Playwright, ${token.slice(0, 40)}...)`)
+      return true
+    }
 
-    await context.close()
-    return true
+    console.warn(`amp-api: 两次尝试均未截获 token (${region})`)
+    return false
   } catch (error) {
     console.warn(`amp-api: Playwright token 获取失败 (${region}):`, error)
     return false
+  } finally {
+    if (page) {
+      try { await page.close() } catch (_) { /* ignore */ }
+    }
+    if (context) {
+      try { await context.close() } catch (_) { /* ignore */ }
+    }
   }
 }
 

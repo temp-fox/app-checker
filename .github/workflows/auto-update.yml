@@ -10,7 +10,7 @@ env:
 
 concurrency:
   group: auto-update-main
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   generate:
