@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1170257804,
+      "name": {
+        "cn": "电话黑名单 Pro - 骚扰电话拦截·来电卫士·防诈骗"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786445304058,
+      "_discountType": "app"
+    },
+    {
+      "id": 1486110292,
+      "name": {
+        "cn": "Minitube for Youtube"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786445295896,
+      "_discountType": "app"
+    },
+    {
+      "id": 6777158029,
+      "name": {
+        "cn": "测亩仪助手 - 地图AR测量土地面积"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786445290296,
+      "_discountType": "app"
+    },
+    {
       "id": 6775514489,
       "name": {
         "cn": "TinyGPSEditor"
