@@ -2,7 +2,7 @@ import './i18n' // NOTE initial i18n
 import 'dotenv/config'
 import { regions } from 'appinfo.config'
 import { appConfig as existingAppConfig } from 'apps.json'
-import { getRegionAppTopInfo, getRegionAppInfo, refreshRssAppInfos, scrapeExternalSources } from './scrape'
+import { closeTokenBrowser } from './scrape/info/getScreenshots'
 import { getStorageAppInfo, setStorageAppInfo } from './storage'
 import calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo, { getPrice } from './calculate'
 import updateFeeds from './rss'
@@ -315,6 +315,9 @@ async function controller() {
     limitCount,
     scrapeType,
   })
+
+  // 总是释放 token 浏览器，防止孤儿进程阻止 Node 退出
+  await closeTokenBrowser()
 }
 
 controller()
