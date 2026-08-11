@@ -1,16 +1,22 @@
 [
   {
-    "timestamp": 1786424572649,
+    "timestamp": 1786429899870,
     "cn": {
-      "total": 8,
-      "price": 8,
-      "iap": 0,
+      "total": 14,
+      "price": 13,
+      "iap": 1,
       "apps": [
         {
           "id": 1549683587,
           "name": "Money Pro",
           "type": "price",
           "detail": "¥38.00 → ¥22.00"
+        },
+        {
+          "id": 6751220299,
+          "name": "快牛记账 - 您的智能记账管家",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
         },
         {
           "id": 6770859326,
@@ -29,6 +35,12 @@
           "name": "Capture It",
           "type": "price",
           "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6777819460,
+          "name": "AirPhotos:相册管理,照片整理 - Slidebox",
+          "type": "iap",
+          "detail": "终身: ¥88.00 → ¥58.00"
         },
         {
           "id": 1410507137,
@@ -53,6 +65,30 @@
           "name": "围堵小猫",
           "type": "price",
           "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6780910513,
+          "name": "Sonoqi - Music Connection Tune",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6756681306,
+          "name": "SleepTune: White Noise & Rain",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6759510427,
+          "name": "Taiga: Anime & Manga Tracker",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6796669579,
+          "name": "Coloring Challenge: Flag Quiz",
+          "type": "price",
+          "detail": "付费 → 免费"
         }
       ]
     }
