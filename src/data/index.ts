@@ -2,6 +2,7 @@ import './i18n' // NOTE initial i18n
 import 'dotenv/config'
 import { regions } from 'appinfo.config'
 import { appConfig as existingAppConfig } from 'apps.json'
+import { getRegionAppTopInfo, getRegionAppInfo, refreshRssAppInfos, scrapeExternalSources } from './scrape'
 import { closeTokenBrowser } from './scrape/info/getScreenshots'
 import { getStorageAppInfo, setStorageAppInfo } from './storage'
 import calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo, { getPrice } from './calculate'
