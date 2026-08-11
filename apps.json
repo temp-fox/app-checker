@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6776464449,
+      "name": {
+        "cn": "Siloz"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786431693395,
+      "_discountType": "app"
+    },
+    {
       "id": 365696387,
       "name": {
         "cn": "学习 尼泊尔语 - EuroTalk"

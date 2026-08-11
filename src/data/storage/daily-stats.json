@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": 1786436387918,
+    "cn": {
+      "total": 6,
+      "price": 6,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 1631718834,
+          "name": "Camera Copy",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6767151538,
+          "name": "NUMEN：重拾数学直觉",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6763220968,
+          "name": "Temporary Photos",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1536423489,
+          "name": "Plain Text Editor By MCK",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1577062674,
+          "name": "NotifiNote: Notification Notes",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6443696943,
+          "name": "Mockup Screenshot",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786429899870,
     "cn": {
       "total": 14,
@@ -3293,34 +3339,6 @@
           "name": "BodyMorpher: 3D身材模拟器",
           "type": "price",
           "detail": "¥88.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785570468855,
-    "cn": {
-      "total": 3,
-      "price": 2,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6788028079,
-          "name": "家长日程",
-          "type": "price",
-          "detail": "¥6.00 → ¥1.00"
-        },
-        {
-          "id": 6779157571,
-          "name": "私密照片保险箱 - Arca",
-          "type": "iap",
-          "detail": "Arca Premium Lifetime: ¥28.00 → ¥0.00"
-        },
-        {
-          "id": 453164367,
-          "name": "Sharp Lynx: System Monitor",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
