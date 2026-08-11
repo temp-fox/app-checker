@@ -2,6 +2,127 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 356282026,
+      "name": {
+        "cn": "Soul Lessons Oracle Cards"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786467348876,
+      "_discountType": "app"
+    },
+    {
+      "id": 1171390573,
+      "name": {
+        "cn": "Unique for iPhone"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786467346053,
+      "_discountType": "app"
+    },
+    {
+      "id": 1182634885,
+      "name": {
+        "cn": "Airsoft Shot Timer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786467337584,
+      "_discountType": "app"
+    },
+    {
+      "id": 1468073248,
+      "name": {
+        "cn": "小学生古诗80首(真人专业朗读版)"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786467351534,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758230068,
+      "name": {
+        "cn": "再点一下试试"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786467337584,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768623085,
+      "name": {
+        "cn": "FrameSmoother"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786467343240,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790423528,
+      "name": {
+        "cn": "Fishtail"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786467346053,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797875277,
+      "name": {
+        "cn": "羽球迹"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786467348871,
+      "_discountType": "app"
+    },
+    {
+      "id": 6791957749,
+      "name": {
+        "cn": "ZenFocus: Attention Trainer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786467348871,
+      "_discountType": "app"
+    },
+    {
+      "id": 6502905400,
+      "name": {
+        "cn": "XRateAverage"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786467351702,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755909295,
+      "name": {
+        "cn": "WatchDictApp"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786467351534,
+      "_discountType": "app"
+    },
+    {
       "id": 1436855580,
       "name": {
         "cn": "FracPad III"
@@ -70378,7 +70499,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1775800658495,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6759829432,
