@@ -20,83 +20,64 @@ const EMPTY_RESULT: ScreenshotResult = {
 // Module-level token cache — keyed by region.
 const tokenCache = new Map<Region, string>()
 
-// Shared Playwright browser instance for token extraction (lightweight, no page rendering).
+// Shared Playwright browser instance for token extraction.
 let tokenBrowser: Browser | null = null
 
 /**
- * Navigate to `url` and wait up to `timeoutMs` for the first amp-api
- * Authorization header.  Returns the bare JWT (without "Bearer "), or null.
+ * Absolute maximum wall-clock time we will spend trying to get a token.
+ * After this the function returns false and the caller proceeds without amp-api.
  */
-async function tryCaptureToken(
-  page: any,
-  url: string,
-  timeoutMs = 15000,
-): Promise<string | null> {
-  return new Promise<string | null>((resolve) => {
-    let settled = false
+const TOKEN_ACQUIRE_TIMEOUT_MS = 45_000
 
-    const done = (value: string | null) => {
-      if (settled) return
-      settled = true
-      clearTimeout(timer)
-      resolve(value)
-    }
+/**
+ * Wait up to `timeoutMs` for a single `Authorization: Bearer <JWT>` header
+ * headed to any amp-api URL.  The caller wires this into a Promise.race so a
+ * total-deadline is always enforced.
+ */
+function raceTokenOnPage(page: any, url: string, timeoutMs: number): Promise<string> {
+  return new Promise<string>((resolve, reject) => {
+    const timer = setTimeout(() => reject(new Error('timeout')), timeoutMs)
 
-    const timer = setTimeout(() => done(null), timeoutMs)
-
-    page.on('request', (request: any) => {
-      if (settled) return
+    const onRequest = (request: any) => {
       const reqUrl = request.url()
-      if (
-        reqUrl.includes('amp-api') ||
-        reqUrl.includes('amp-api-edge') ||
-        reqUrl.includes('amp-api-search-edge')
-      ) {
+      if (reqUrl.includes('amp-api') || reqUrl.includes('amp-api-edge') || reqUrl.includes('amp-api-search-edge')) {
         const auth = request.headers()['authorization']
         if (auth && auth.startsWith('Bearer ')) {
-          done(auth.slice(7))
+          clearTimeout(timer)
+          page.removeListener('request', onRequest)
+          resolve(auth.slice(7))
         }
       }
-    })
+    }
 
-    // Fire-and-forget navigation — if it fails we wait for the timeout.
-    page.goto(url, { waitUntil: 'domcontentloaded', timeout: timeoutMs + 5000 }).catch(() => {
-      // Navigation may fail after the token was already captured; that's fine.
-    })
+    page.on('request', onRequest)
+
+    // Start navigation — fire-and-forget; the timeout guards against failure.
+    page.goto(url, { waitUntil: 'domcontentloaded', timeout: Math.min(timeoutMs, 25_000) }).catch(() => {})
   })
 }
 
 /**
- * Fetch a real JWT token from Apple's amp-api by launching a headless browser,
- * intercepting the Authorization header from an amp-api request on the App Store
- * page.
+ * Return a human-readable JWT for Apple's amp-api or null.
  *
- * Apple changed their architecture: the JWT is no longer embedded in any static
- * JS bundle — it is generated dynamically by the browser-side
- * `mediaTokenService.refreshToken()` / `jwtProvider.getNonSearchJwt()` flow.
+ * The browser is launched with anti-detection flags so that Apple's WAF doesn't
+ * serve challenge pages that lack real amp-api calls.
  *
- * This function captures a real token from a live browser session.
- * Includes anti-detection measures so Apple serves real pages (not challenge pages)
- * on headless CI runners.
+ * A hard total-deadline (Promise.race) guarantees this function returns within
+ * TOKEN_ACQUIRE_TIMEOUT_MS milliseconds — regardless of hung navigations, lost
+ * Playwright events, or network stalls.
  */
-export async function initAmpApiToken(region: Region): Promise<boolean> {
-  if (tokenCache.has(region)) {
-    return true
-  }
-
+async function extractTokenFromBrowser(region: Region): Promise<string | null> {
   let context: any = null
   let page: any = null
 
   try {
-    // Launch a single shared browser if not already running.
     if (!tokenBrowser) {
       tokenBrowser = await chromium.launch({
         headless: true,
         args: [
-          // Mask headless-mode signals that Apple's WAF checks.
           '--disable-blink-features=AutomationControlled',
           '--disable-features=IsolateOrigins,site-per-process',
-          // CI-friendly flags.
           '--no-sandbox',
           '--disable-setuid-sandbox',
           '--disable-dev-shm-usage',
@@ -115,55 +96,71 @@ export async function initAmpApiToken(region: Region): Promise<boolean> {
 
     page = await context.newPage()
 
-    // Anti-detection: strip every automation signal before any page JS runs.
+    // -- anti-detection (runs before any page JS) ----------------------------
     await page.addInitScript(() => {
-      // Remove the "navigator.webdriver" flag that headless Chrome sets.
       Object.defineProperty(navigator, 'webdriver', { get: () => false })
-
-      // Add a minimal chrome.runtime so bot detectors don't flag it as missing.
       ;(window as any).chrome = { runtime: {} }
-
-      // Suppress "Chrome is being controlled by automated software" infobar.
-      const originalQuery = window.navigator.permissions.query.bind(window.navigator.permissions)
-      window.navigator.permissions.query = (parameters: any) =>
-        parameters.name === 'notifications'
+      const orig = window.navigator.permissions.query.bind(window.navigator.permissions)
+      window.navigator.permissions.query = (p: any) =>
+        p.name === 'notifications'
           ? Promise.resolve({ state: Notification.permission } as PermissionStatus)
-          : originalQuery(parameters)
+          : orig(p)
     })
 
-    // ---- first attempt: a specific app page (lightweight, triggers amp-api) ----
-    let token = await tryCaptureToken(page, `https://apps.apple.com/${region}/app/id1163682613`)
+    // -- first attempt -------------------------------------------------------
+    const race1 = raceTokenOnPage(page, `https://apps.apple.com/${region}/app/id1163682613`, 20_000)
+    const winner1 = await Promise.race([race1, sleep(25_000).then(() => null)])
+    if (winner1) return winner1
 
-    // ---- second attempt: a different app on the same region ----
-    if (!token) {
-      token = await tryCaptureToken(page, `https://apps.apple.com/${region}/app/id835599320`)
-    }
+    // -- second attempt: a different app ------------------------------------
+    const race2 = raceTokenOnPage(page, `https://apps.apple.com/${region}/app/id835599320`, 20_000)
+    const winner2 = await Promise.race([race2, sleep(25_000).then(() => null)])
+    return winner2 || null
+  } finally {
+    try { page?.close() } catch (_) { /* */ }
+    try { context?.close() } catch (_) { /* */ }
+  }
+}
 
+function sleep(ms: number) {
+  return new Promise<void>((r) => setTimeout(r, ms))
+}
+
+// ---- public API ------------------------------------------------------------
+
+/**
+ * Fetch a real JWT token from Apple's amp-api.  Returns false if the token
+ * could not be acquired within the hard deadline — callers should gracefully
+ * fall back to non-amp-api paths.
+ */
+export async function initAmpApiToken(region: Region): Promise<boolean> {
+  if (tokenCache.has(region)) {
+    return true
+  }
+
+  const race = extractTokenFromBrowser(region)
+  const timeout = sleep(TOKEN_ACQUIRE_TIMEOUT_MS).then(() => null)
+
+  try {
+    const token = await Promise.race([race, timeout])
     if (token) {
       tokenCache.set(region, token)
       console.log(`amp-api: token 获取成功 (${region}, Playwright, ${token.slice(0, 40)}...)`)
       return true
     }
-
-    console.warn(`amp-api: 两次尝试均未截获 token (${region})`)
-    return false
   } catch (error) {
-    console.warn(`amp-api: Playwright token 获取失败 (${region}):`, error)
-    return false
-  } finally {
-    if (page) {
-      try { await page.close() } catch (_) { /* ignore */ }
-    }
-    if (context) {
-      try { await context.close() } catch (_) { /* ignore */ }
-    }
+    console.warn(`amp-api: token 获取异常 (${region}):`, error)
   }
+
+  console.warn(`amp-api: ${TOKEN_ACQUIRE_TIMEOUT_MS / 1000}s 内未获取到 token (${region})，跳过 amp-api`)
+  return false
 }
 
 /** Cleanup the shared token browser (call once at process exit). */
 export async function closeTokenBrowser(): Promise<void> {
   if (tokenBrowser) {
     await tokenBrowser.close()
+    tokenBrowser = null
   }
 }
 
