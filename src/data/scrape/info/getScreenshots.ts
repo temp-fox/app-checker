@@ -50,40 +50,49 @@ export async function initAmpApiToken(region: Region): Promise<boolean> {
         'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15',
       locale: 'zh-CN',
     })
-    const page = await context.newPage()
 
-    // Intercept ALL requests — capture the first Authorization header sent to amp-api
-    const tokenPromise = new Promise<string>((resolve, reject) => {
-      const timeout = setTimeout(() => reject(new Error('timeout waiting for amp-api request')), 15000)
+    /**
+     * Create a fresh token-catching promise.
+     * We rebuild this per-attempt because once a Promise settles it cannot be reused.
+     */
+    function createTokenPromise(page: any): Promise<string> {
+      return new Promise<string>((resolve, reject) => {
+        const timeout = setTimeout(() => reject(new Error('timeout waiting for amp-api request')), 20000)
 
-      page.on('request', (request) => {
-        const url = request.url()
-        if (url.includes('amp-api') || url.includes('amp-api-edge') || url.includes('amp-api-search-edge')) {
-          const auth = request.headers()['authorization']
-          if (auth && auth.startsWith('Bearer ')) {
-            clearTimeout(timeout)
-            const token = auth.slice(7) // strip 'Bearer ' prefix
-            resolve(token)
+        page.on('request', (request: any) => {
+          const url = request.url()
+          if (url.includes('amp-api') || url.includes('amp-api-edge') || url.includes('amp-api-search-edge')) {
+            const auth = request.headers()['authorization']
+            if (auth && auth.startsWith('Bearer ')) {
+              clearTimeout(timeout)
+              resolve(auth.slice(7)) // strip 'Bearer ' prefix
+            }
           }
-        }
+        })
       })
-    })
+    }
 
-    // Load the App Store homepage — this triggers amp-api requests
-    await page.goto(`https://apps.apple.com/${region}`, {
-      waitUntil: 'networkidle',
-      timeout: 20000,
+    const page = await context.newPage()
+    let tokenPromise = createTokenPromise(page)
+
+    // Load the App Store homepage with domcontentloaded — enough to trigger
+    // amp-api requests, avoids networkidle hanging on CI runners.
+    await page.goto(`https://apps.apple.com/${region}/app/id1163682613`, {
+      waitUntil: 'domcontentloaded',
+      timeout: 30000,
     })
 
     let token: string
     try {
       token = await tokenPromise
     } catch {
-      // Fallback: try the search page which makes simpler amp-api calls
+      // Fallback: simplified page with a fresh promise + fresh page
       await page.goto(
-        `https://apps.apple.com/${region}/search/%E5%85%8D%E8%B4%B9`,
-        { waitUntil: 'networkidle', timeout: 20000 },
+        `https://apps.apple.com/${region}/app/id1163682613`,
+        { waitUntil: 'domcontentloaded', timeout: 30000 },
       )
+      // Rebuild the promise — old one was already rejected
+      tokenPromise = createTokenPromise(page)
       token = await tokenPromise
     }
 
