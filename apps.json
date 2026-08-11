@@ -2,6 +2,160 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 365696387,
+      "name": {
+        "cn": "学习 尼泊尔语 - EuroTalk"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419657640,
+      "_discountType": "app"
+    },
+    {
+      "id": 381651376,
+      "name": {
+        "cn": "Do it (Tomorrow)"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419649762,
+      "_discountType": "app"
+    },
+    {
+      "id": 1294196178,
+      "name": {
+        "cn": "Ein Tag Deutsch in der Pflege"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419657640,
+      "_discountType": "app"
+    },
+    {
+      "id": 1531617400,
+      "name": {
+        "cn": "玉手箱対策 計数　就活・転職対策アプリ"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419657640,
+      "_discountType": "app"
+    },
+    {
+      "id": 1611411940,
+      "name": {
+        "cn": "Flux Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419652506,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756326263,
+      "name": {
+        "cn": "PratherPens Fountain Pen iD"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419649762,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788595011,
+      "name": {
+        "cn": "华夏岁时"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419655006,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782813075,
+      "name": {
+        "cn": "抽屉分格整理图2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419655006,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776863520,
+      "name": {
+        "cn": "挂画定位-照片墙排版助手2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419655006,
+      "_discountType": "app"
+    },
+    {
+      "id": 6736619440,
+      "name": {
+        "cn": "网球ACE - 网球专业运动AI记录分析"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419655086,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772506168,
+      "name": {
+        "cn": "个税计算器-工资薪资月薪年终奖五险一金专项扣除工具"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419657681,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756578345,
+      "name": {
+        "cn": "Where To Watch | Movies"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419657595,
+      "_discountType": "app"
+    },
+    {
+      "id": 6468938360,
+      "name": {
+        "cn": "PowerAmp"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419657640,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758428049,
+      "name": {
+        "cn": "魔法识谱-认音口诀读谱练习"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786419657640,
+      "_discountType": "app"
+    },
+    {
       "id": 502011399,
       "name": {
         "cn": "福爾摩斯探案(福尔摩斯探案)"
@@ -52827,8 +52981,8 @@
       "name": {
         "cn": "手持弹幕led-显示屏滚动字幕跑马灯"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1777789561712,
@@ -69445,7 +69599,8 @@
       "_shouldBePaid": true,
       "_externalSource": "GoFans",
       "_externalSourceFirstSeen": 1775832395528,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 985199462,
