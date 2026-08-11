@@ -6554,6 +6554,23 @@
     "history": [
       [
         {
+          "timestamp": 1786453017104,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Remove ads": "¥8.00",
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Effect Pack 1": "¥8.00",
+            "Effect Pack 2": "¥8.00",
+            "Film Pack 1": "¥8.00",
+            "Film Pack 4": "¥8.00",
+            "Film Pack 3": "¥8.00",
+            "Film Pack 2": "¥8.00",
+            "Idea Package": "¥8.00",
+            "Retro Package": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1786431728472,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -40536,10 +40553,18 @@
       "formattedPrice": "¥68.00"
     },
     "minPriceInfo": {
-      "price": 68,
-      "formattedPrice": "¥68.00"
+      "price": 38,
+      "formattedPrice": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786453017104,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782237058198,
@@ -40550,9 +40575,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/fieldscaper/id1006624104?uo=4",
-    "description": "Advanced field recorder combined with a sound warp engine and a collection of ready to use dynamic presets for iPad and iPhone. Discover new ways to create and construct unusual and exciting sounds from any environmental audio recordings or samples recorded from other apps through Inter-App audio or Audiobus. The main advantage is that you can record and modify samples along the way within the single app. You can record sounds and noises, delete unwanted parts and then use presets to give a whole new sounding or create spectacular soundscapes and textures to use them as loops in this app. And even use FieldScaper as effect in real time with other apps or external input. The FieldScaper consists of two main parts. The first part is the field recorder with special options for different ways of record environmental sound from microphone or record other sound sources. With the sample editor you can cut or split the source sample for more convenient use. The second part is the scaper sound engine that with using dynamic presets can easily transform the most ordinary sounds into something absolutely different. These parts connect with each other into one whole but you can use recorder or scaper independently. The FieldScaper supports complete MIDI control for all faders, knobs and many buttons. You can change the parameters of oscillators, filters, delays and mixer by using any external MIDI controller or MIDI apps like sequencers. With the MIDI controllers this app becomes very comfortable to use at live performance. Field recorder: Auto start record when input signal appears. Auto stop record when signal below threshold or by time. Record series of samples by a signal presence. Recorder timer in seconds or measure (sync with BPM). Input signal monitor with different modes. Automatic gain control, cut off input filters and noise gate. Advanced sample editor (delete, trim, split, cut, copy, paste, undo). Filter and normalizer for recorded sample. Scaper sound engine: Loop based mode for processing input in real time as effect. Three sample-based oscillators, each with set of effects. Low-pass, high-pass, band-pass, band-stop filters with resonance. Two range delay with smooth time change and additional modes. Advanced spatial mixer / reverb with changing of side and distance. Three-band parametric equalizer for each oscillator. Wide range changing of oscillator speed with option of reverse. Distortion effect based on breaking addressing of samples (like on circuit bending). Complex effect contains lofi, overload, noise, ringmod, flanger, phaser. Step sequencer can control selected parameter and envelope generator (ADSR). Individual or group of LFO for each effect with additional modes and BPM sync. The \"Main effect\" function for control several parameters simultaneously. Additional features: More 50 predefined presets with wide range of effects. Scenes for storing and loading all operation parameters. Pack the scene and all its samples and presets to single file. Convenient file manager with groups of files by name or date. Access samples and records via standard iOS app \"Files\". Complete MIDI control for all faders, knobs and other modes. Adaptive UI for portrait and landscape orientation. Different color schemes available for UI. Detailed application description (built-in and PDF file). Inter-App audio compatible (with transport and BPM controls). Supports Audiobus 3 with \"State Saving\" and MIDI features. Supports Ableton Link with start / stop sync. Requirements: Third generation of iPad or fifth generation of iPhone and higher is required. You can find more details about FieldScaper on the website: https://motion-soundscape.blogspot.com Overview and demo: https://youtu.be/n9nQRN6xWGo https://youtu.be/cCr5UPkdMY0 https://youtu.be/Kp88NkJpy2M",
-    "fullDescription": "Advanced field recorder combined with a sound warp engine and a collection of ready to use dynamic presets for iPad and iPhone. Discover new ways to create and construct unusual and exciting sounds from any environmental audio recordings or samples recorded from other apps through Inter-App audio or Audiobus. The main advantage is that you can record and modify samples along the way within the single app. You can record sounds and noises, delete unwanted parts and then use presets to give a whole new sounding or create spectacular soundscapes and textures to use them as loops in this app. And even use FieldScaper as effect in real time with other apps or external input. The FieldScaper consists of two main parts. The first part is the field recorder with special options for different ways of record environmental sound from microphone or record other sound sources. With the sample editor you can cut or split the source sample for more convenient use. The second part is the scaper sound engine that with using dynamic presets can easily transform the most ordinary sounds into something absolutely different. These parts connect with each other into one whole but you can use recorder or scaper independently. The FieldScaper supports complete MIDI control for all faders, knobs and many buttons. You can change the parameters of oscillators, filters, delays and mixer by using any external MIDI controller or MIDI apps like sequencers. With the MIDI controllers this app becomes very comfortable to use at live performance. Field recorder: Auto start record when input signal appears. Auto stop record when signal below threshold or by time. Record series of samples by a signal presence. Recorder timer in seconds or measure (sync with BPM). Input signal monitor with different modes. Automatic gain control, cut off input filters and noise gate. Advanced sample editor (delete, trim, split, cut, copy, paste, undo). Filter and normalizer for recorded sample. Scaper sound engine: Loop based mode for processing input in real time as effect. Three sample-based oscillators, each with set of effects. Low-pass, high-pass, band-pass, band-stop filters with resonance. Two range delay with smooth time change and additional modes. Advanced spatial mixer / reverb with changing of side and distance. Three-band parametric equalizer for each oscillator. Wide range changing of oscillator speed with option of reverse. Distortion effect based on breaking addressing of samples (like on circuit bending). Complex effect contains lofi, overload, noise, ringmod, flanger, phaser. Step sequencer can control selected parameter and envelope generator (ADSR). Individual or group of LFO for each effect with additional modes and BPM sync. The \"Main effect\" function for control several parameters simultaneously. Additional features: More 50 predefined presets with wide range of effects. Scenes for storing and loading all operation parameters. Pack the scene and all its samples and presets to single file. Convenient file manager with groups of files by name or date. Access samples and records via standard iOS app \"Files\". Complete MIDI control for all faders, knobs and other modes. Adaptive UI for portrait and landscape orientation. Different color schemes available for UI. Detailed application description (built-in and PDF file). Inter-App audio compatible (with transport and BPM controls). Supports Audiobus 3 with \"State Saving\" and MIDI features. Supports Ableton Link with start / stop sync. Requirements: Third generation of iPad or fifth generation of iPhone and higher is required. You can find more details about FieldScaper on the website: https://motion-soundscape.blogspot.com Overview and demo: https://youtu.be/n9nQRN6xWGo https://youtu.be/cCr5UPkdMY0 https://youtu.be/Kp88NkJpy2M",
-    "summaryDescription": "Advanced field recorder combined with a sound warp engine and a collection of ready to use dynamic presets for iPad and iPhone. Discover new ways to create and construct unusual and exciting sounds from any environmental audio recordings or samples recorded from other apps through Inter-App audio or Audiobus. The main advantage is that you can record and modify samples along the way within the single app. You can record sounds and noises, delete unwanted parts and then use presets to give a whole new sounding or create spectacular soundscapes and textures to use them as loops in this app. And even use FieldScaper as effect in real time with other apps or external input. The FieldScaper consists of two main parts. The first part is the field recorder with special options for different ways of record environmental sound from microphone or record other sound sources. With the sample editor you can cut or split the source sample for more convenient use. The second part is the scaper sound engine that with using dynamic presets can easily transform the most ordinary sounds into something absolutely different. These parts connect with each other into one whole but you can use recorder or scaper independently. The FieldScaper supports complete MIDI control for all faders, knobs and many buttons. You can change the parameters of oscillators, filters, delays and mixer by using any external MIDI controller or MIDI apps like sequencers. With the MIDI controllers this app becomes very comfortable to use at live performance. Field recorder: Auto start record when input signal appears. Auto stop record when signal below threshold or by time. Record series of samples by a signal presence. Recorder timer in seconds or measure (sync with BPM). Input signal monitor with different modes. Automatic gain control, cut off input filters and noise gate. Advanced sample editor (delete, trim, split, cut, copy, paste, undo). Filter and normalizer for recorded sample. Scaper sound engine: Loop based mode for processing input in real time as effect. Three sample-based oscillators, each with set of effects. Low-pass, high-pass, band-pass, band-stop filters with resonance. Two range delay with smooth time change and additional modes. Advanced spatial mixer / reverb with changing of side and distance. Three-band parametric equalizer for each oscillator. Wide range changing of oscillator speed with option of reverse. Distortion effect based on breaking addressing of samples (like on circuit bending). Complex effect contains lofi, overload, noise, ringmod, flanger, phaser. Step sequencer can control selected parameter and envelope generator (ADSR). Individual or group of LFO for each effect with additional modes and BPM sync. The \"Main effect\" function for control several parameters simultaneously. Additional features: More 50 predefined presets with wide range of effects. Scenes for storing and loading all operation parameters. Pack the scene and all its samples and presets to single file. Convenient file manager with groups of files by name or date. Access samples and records via standard iOS app \"Files\". Complete MIDI control for all faders, knobs and other modes. Adaptive UI for portrait and landscape orientation. Different color schemes available for UI. Detailed application description (built-in and PDF file). Inter-App audio compatible (with transport and BPM controls). Supports Audiobus 3 with \"State Saving\" and MIDI features. Supports Ableton Link with start / stop sync. Requirements: Third generation of iPad or fifth generation of iPhone and higher is required. You can find more details about FieldScaper on the website: https://motion-soundscape.blogspot.com Overview and demo: https://youtu.be/n9nQRN6xWGo https://youtu.be/cCr5UPkdMY0 https://youtu.be/Kp88NkJpy2M",
+    "description": "先进的现场录音机与声音变形引擎以及一系列适用于 iPad 和 iPhone 的即用型动态预设相结合。探索新的方法，从任何环境录音或通过应用程序间音频或音频总线从其他应用程序录制的样本中创建和构造不寻常且令人兴奋的声音。主要优点是您可以在单个应用程序中记录和修改示例。您可以录制声音和噪音，删除不需要的部分，然后使用预设来提供全新的声音或创建壮观的音景和纹理以将它们用作此应用程序中的循环。和",
+    "fullDescription": "先进的现场录音机与声音变形引擎以及一系列适用于 iPad 和 iPhone 的即用型动态预设相结合。探索新的方法，从任何环境录音或通过应用程序间音频或音频总线从其他应用程序录制的样本中创建和构造不寻常且令人兴奋的声音。主要优点是您可以在单个应用程序中记录和修改示例。您可以录制声音和噪音，删除不需要的部分，然后使用预设来提供全新的声音或创建壮观的音景和纹理以将它们用作此应用程序中的循环。和",
+    "summaryDescription": "先进的现场录音机与声音变形引擎以及一系列适用于 iPad 和 iPhone 的即用型动态预设相结合。探索新的方法，从任何环境录音或通过应用程序间音频或音频总线从其他应用程序录制的样本中创建和构造不寻常且令人兴奋的声音。主要优点是您可以在单个应用程序中记录和修改示例。您可以录制声音和噪音，删除不需要的部分，然后使用预设来提供全新的声音或创建壮观的音景和纹理以将它们用作此应用程序中的循环。和",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/17/14/57/17145786-42c8-d1a6-96ff-8912246efae7/AppIcon-1x_U007emarketing-0-9-0-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/17/14/57/17145786-42c8-d1a6-96ff-8912246efae7/AppIcon-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.jpg",
     "sellerName": "Igor Vasiliev",
@@ -59627,6 +59652,25 @@
       "灯和灯具": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786453017104,
+          "price": 698,
+          "formattedPrice": "¥698.00",
+          "inAppPurchases": {
+            "室内材质": "¥38.00",
+            "软体家具": "¥38.00",
+            "户外材料": "¥38.00",
+            "异域风情房屋": "¥38.00",
+            "儿童世界": "¥38.00",
+            "灯和灯具": "¥38.00",
+            "当代房屋": "¥38.00",
+            "浴室物品": "¥38.00",
+            "所有附加功能包": "¥498.00",
+            "额外家电": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786214246447,
@@ -119358,13 +119402,31 @@
     "trackName": "周期计时器+",
     "maxPriceInfo": {
       "price": 38,
-      "formattedPrice": "¥38.00"
+      "formattedPrice": "¥38.00",
+      "打赏一根香蕉": "¥3.00",
+      "打赏一杯咖啡": "¥28.00",
+      "捐赠：助力项目！": "¥68.00"
     },
     "minPriceInfo": {
       "price": 38,
-      "formattedPrice": "¥38.00"
+      "formattedPrice": "¥38.00",
+      "打赏一根香蕉": "¥3.00",
+      "打赏一杯咖啡": "¥28.00",
+      "捐赠：助力项目！": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786453017104,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "打赏一根香蕉": "¥3.00",
+            "打赏一杯咖啡": "¥28.00",
+            "捐赠：助力项目！": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773405519791,
@@ -119408,10 +119470,18 @@
       "formattedPrice": "¥98.00"
     },
     "minPriceInfo": {
-      "price": 98,
-      "formattedPrice": "¥98.00"
+      "price": 48,
+      "formattedPrice": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786453017104,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778307260187,
@@ -119422,9 +119492,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/synthscaper/id1175892734?uo=4",
-    "description": "Synthesizer specially designed for creating and experiments with ambient soundscapes in wide range from noises to melodic instruments and everything in between. The sound engine of SynthScaper has its own unique sounding differ from any other software synths. You can construct outstanding melodic pads or atonal soundscapes from different kind of built-in or downloaded samples by using all power of multi-layered oscillators, chains of filters and effects, envelope generators and low frequency oscillators. Or you can create your own sound scenes combining oscillators presets from build-in library. Or just use predefined scenes. Very flexible settings of each module give you a great opportunity for creating unique and colorful sounding from usual instruments or natural samples and adding automated changes and spatial effects for an endless variations. Different ways of assigning screen and MIDI keyboards to the oscillators provide very advanced features to control the sound. The on-screen keyboard is adapted to create special effects and varying the continuous textures and drones. The Designer tool uses the neural network to generates new presets based on already existing by adding some random variations and checking the result so that the new preset remains similar to the selected pattern. Key features: Three independent oscillators. Three layers for each oscillator. Six voices for each layer. Six envelope generators. Six low frequency oscillators. Arpeggiator / sequencer for each oscillator. Designer tool for generate scenes and presets. General processing of level, balance, LPF, HPF for each layer. Three slots for filters and effects after each oscillator. Twenty additional selectable filters and effects. Spatial mixer with two different sound space. Screen keyboard adapted for continuous textures and soundscapes. Predefined set of keyboard scales and custom scales. Full screen, double and split features for screen keyboard. Options of screen keyboard for pitch, continuous, modify, velocity. Supports for two virtual and two MIDI keyboards at the same time. Flexible assigning keyboards and controls to the oscillators. Two main effects controls can combine several parameters. Uploading samples thru Dropbox, Web access, clipboard. Auto and manual tuning of samples with frequency analyzer. Set of predefined and ready-to-use scenes and presets. Built-in library of samples of instruments, synths, noises, etc. Possibility to pack and share scenes and samples as single file. Supports loop points and note info in WAV files. Detailed application description (built-in and PDF file). Inter-App audio compatible (with transport and BPM controls). Supports Audiobus 3 with \"State Saving\" and MIDI features. Supports Ableton Link with start / stop sync. Requirements: Recommended at least iPhone 6 / iPad Mini 4 / iPad Air 2 and higher. You can find more details about SynthScaper on the website: http://motion-soundscape.blogspot.com Overview and demo video: Preview - http://youtu.be/qqeWdFVfBCg Preview - http://youtu.be/vyKX0ZfJ_n8 Sound design demo - http://youtu.be/oqCz7ALNhOM Presets demo - http://youtu.be/-pflmiFtHnc Presets demo - http://youtu.be/InWOcfHS6rA",
-    "fullDescription": "Synthesizer specially designed for creating and experiments with ambient soundscapes in wide range from noises to melodic instruments and everything in between. The sound engine of SynthScaper has its own unique sounding differ from any other software synths. You can construct outstanding melodic pads or atonal soundscapes from different kind of built-in or downloaded samples by using all power of multi-layered oscillators, chains of filters and effects, envelope generators and low frequency oscillators. Or you can create your own sound scenes combining oscillators presets from build-in library. Or just use predefined scenes. Very flexible settings of each module give you a great opportunity for creating unique and colorful sounding from usual instruments or natural samples and adding automated changes and spatial effects for an endless variations. Different ways of assigning screen and MIDI keyboards to the oscillators provide very advanced features to control the sound. The on-screen keyboard is adapted to create special effects and varying the continuous textures and drones. The Designer tool uses the neural network to generates new presets based on already existing by adding some random variations and checking the result so that the new preset remains similar to the selected pattern. Key features: Three independent oscillators. Three layers for each oscillator. Six voices for each layer. Six envelope generators. Six low frequency oscillators. Arpeggiator / sequencer for each oscillator. Designer tool for generate scenes and presets. General processing of level, balance, LPF, HPF for each layer. Three slots for filters and effects after each oscillator. Twenty additional selectable filters and effects. Spatial mixer with two different sound space. Screen keyboard adapted for continuous textures and soundscapes. Predefined set of keyboard scales and custom scales. Full screen, double and split features for screen keyboard. Options of screen keyboard for pitch, continuous, modify, velocity. Supports for two virtual and two MIDI keyboards at the same time. Flexible assigning keyboards and controls to the oscillators. Two main effects controls can combine several parameters. Uploading samples thru Dropbox, Web access, clipboard. Auto and manual tuning of samples with frequency analyzer. Set of predefined and ready-to-use scenes and presets. Built-in library of samples of instruments, synths, noises, etc. Possibility to pack and share scenes and samples as single file. Supports loop points and note info in WAV files. Detailed application description (built-in and PDF file). Inter-App audio compatible (with transport and BPM controls). Supports Audiobus 3 with \"State Saving\" and MIDI features. Supports Ableton Link with start / stop sync. Requirements: Recommended at least iPhone 6 / iPad Mini 4 / iPad Air 2 and higher. You can find more details about SynthScaper on the website: http://motion-soundscape.blogspot.com Overview and demo video: Preview - http://youtu.be/qqeWdFVfBCg Preview - http://youtu.be/vyKX0ZfJ_n8 Sound design demo - http://youtu.be/oqCz7ALNhOM Presets demo - http://youtu.be/-pflmiFtHnc Presets demo - http://youtu.be/InWOcfHS6rA",
-    "summaryDescription": "Synthesizer specially designed for creating and experiments with ambient soundscapes in wide range from noises to melodic instruments and everything in between. The sound engine of SynthScaper has its own unique sounding differ from any other software synths. You can construct outstanding melodic pads or atonal soundscapes from different kind of built-in or downloaded samples by using all power of multi-layered oscillators, chains of filters and effects, envelope generators and low frequency oscillators. Or you can create your own sound scenes combining oscillators presets from build-in library. Or just use predefined scenes. Very flexible settings of each module give you a great opportunity for creating unique and colorful sounding from usual instruments or natural samples and adding automated changes and spatial effects for an endless variations. Different ways of assigning screen and MIDI keyboards to the oscillators provide very advanced features to control the sound. The on-screen keyboard is adapted to create special effects and varying the continuous textures and drones. The Designer tool uses the neural network to generates new presets based on already existing by adding some random variations and checking the result so that the new preset remains similar to the selected pattern. Key features: Three independent oscillators. Three layers for each oscillator. Six voices for each layer. Six envelope generators. Six low frequency oscillators. Arpeggiator / sequencer for each oscillator. Designer tool for generate scenes and presets. General processing of level, balance, LPF, HPF for each layer. Three slots for filters and effects after each oscillator. Twenty additional selectable filters and effects. Spatial mixer with two different sound space. Screen keyboard adapted for continuous textures and soundscapes. Predefined set of keyboard scales and custom scales. Full screen, double and split features for screen keyboard. Options of screen keyboard for pitch, continuous, modify, velocity. Supports for two virtual and two MIDI keyboards at the same time. Flexible assigning keyboards and controls to the oscillators. Two main effects controls can combine several parameters. Uploading samples thru Dropbox, Web access, clipboard. Auto and manual tuning of samples with frequency analyzer. Set of predefined and ready-to-use scenes and presets. Built-in library of samples of instruments, synths, noises, etc. Possibility to pack and share scenes and samples as single file. Supports loop points and note info in WAV files. Detailed application description (built-in and PDF file). Inter-App audio compatible (with transport and BPM controls). Supports Audiobus 3 with \"State Saving\" and MIDI features. Supports Ableton Link with start / stop sync. Requirements: Recommended at least iPhone 6 / iPad Mini 4 / iPad Air 2 and higher. You can find more details about SynthScaper on the website: http://motion-soundscape.blogspot.com Overview and demo video: Preview - http://youtu.be/qqeWdFVfBCg Preview - http://youtu.be/vyKX0ZfJ_n8 Sound design demo - http://youtu.be/oqCz7ALNhOM Presets demo - http://youtu.be/-pflmiFtHnc Presets demo - http://youtu.be/InWOcfHS6rA",
+    "description": "合成器专为创建和实验环境音景而设计，范围广泛，从噪音到旋律乐器以及介于两者之间的一切。 SynthScaper 的声音引擎有其独特的声音，不同于任何其他软件合成器。您可以使用多层振荡器、滤波器和效果器链、包络发生器和低频振荡器的所有功能，从不同类型的内置或下载样本构建出色的旋律垫或无调性音景。或者，您可以结合内置库中的振荡器预设来创建自己的声音场景",
+    "fullDescription": "合成器专为创建和实验环境音景而设计，范围广泛，从噪音到旋律乐器以及介于两者之间的一切。 SynthScaper 的声音引擎有其独特的声音，不同于任何其他软件合成器。您可以使用多层振荡器、滤波器和效果器链、包络发生器和低频振荡器的所有功能，从不同类型的内置或下载样本构建出色的旋律垫或无调性音景。或者，您可以结合内置库中的振荡器预设来创建自己的声音场景",
+    "summaryDescription": "合成器专为创建和实验环境音景而设计，范围广泛，从噪音到旋律乐器以及介于两者之间的一切。 SynthScaper 的声音引擎有其独特的声音，不同于任何其他软件合成器。您可以使用多层振荡器、滤波器和效果器链、包络发生器和低频振荡器的所有功能，从不同类型的内置或下载样本构建出色的旋律垫或无调性音景。或者，您可以结合内置库中的振荡器预设来创建自己的声音场景",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ea/6f/72/ea6f7265-9b7f-4a60-3631-64f960427080/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ea/6f/72/ea6f7265-9b7f-4a60-3631-64f960427080/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/100x100bb.jpg",
     "sellerName": "Igor Vasiliev",
@@ -216465,5 +216535,162 @@
       ]
     ],
     "_externalSourceFirstSeen": 1772864983166
+  },
+  "1441536768": {
+    "name": "Sous Vide Temperature & Timer",
+    "trackName": "Sous Vide Temperature & Timer",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772375272895,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/sous-vide-temperature-timer/id1441536768?uo=4",
+    "description": "The only Sous Vide app you need! Measure your ingredient, set a timer, sit back and relax. Get warnings when your food is almost ready, ready, almost overcooking. Has a huge database of ingredients, but if something special is missing you can add your own. Among other ingredients are: beef, pork, chicken, seafood, vegetables and more",
+    "fullDescription": "The only Sous Vide app you need! Measure your ingredient, set a timer, sit back and relax. Get warnings when your food is almost ready, ready, almost overcooking. Has a huge database of ingredients, but if something special is missing you can add your own. Among other ingredients are: beef, pork, chicken, seafood, vegetables and more",
+    "summaryDescription": "The only Sous Vide app you need! Measure your ingredient, set a timer, sit back and relax. Get warnings when your food is almost ready, ready, almost overcooking. Has a huge database of ingredients, but if something special is missing you can add your own. Among other ingredients are: beef, pork, chicken, seafood, vegetables and more",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/cd/e6/c4cde658-977b-4464-6eea-63c076cfdf8b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/cd/e6/c4cde658-977b-4464-6eea-63c076cfdf8b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Klaas Kremer",
+    "artistName": "Klaas Kremer",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/fb/9b/bb/fb9bbb44-ec4e-3b57-4fc7-e10b67fb756b/b371e3ab-3611-4700-993a-605a12d0fa58_zero.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ba/ce/ea/baceea71-587f-4408-f826-6789036c9a03/314a3b08-d8fc-4e4e-9d82-c3ad8b0edcfc_two.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6e/cc/6c/6ecc6cec-8ae6-dd0c-c2fe-bcfc36122294/203f678d-abb4-48ad-8337-4f284f2bc94f_one.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a1/e5/2c/a1e52ce4-b8c8-8307-bcb1-94cb8d7a57f6/68e9588e-11dd-4d57-b0db-4be2110e5d20_zzzero.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/50/eb/8c/50eb8c6e-6832-9220-bd3b-0b2014ef60a0/e1bb3b2c-20ac-4f40-bcb2-363be8c671c6_five.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/64/22/85/6422856a-ad2d-c4bd-130c-097701beca1e/8a0d61de-8a8a-4517-9b3e-04ff1f78351e_three.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8b/e8/3d/8be83db5-bbc1-0860-26d2-90e4b35240f1/7bcdeb3d-852a-4cfb-b1af-77b638432513_four.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/bc/8c/7ebc8c9a-1ed5-66e1-f1d8-2158b4c0b858/0cac4d51-13a8-4e1a-9ac6-52a73d41e968_six.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d1/ea/09/d1ea0913-a0f8-4302-39be-3e065a221fae/08f0ed80-821d-4123-ae36-3589e81f6a71_zerozero.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/86/43/e8/8643e897-7ea2-03b4-ba64-c3fc0e9f3c2c/506a7306-b316-4ba2-bfeb-763ea05013bd_oit.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3f/63/fd/3f63fd7e-4171-eb78-18f2-035b1c9f748a/3b0dc39d-247c-4ea0-b37e-77d05078b660_dos.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/07/00/6d/07006d5b-8d2f-a84b-d2e8-ea6f8bfebc7d/30e96545-243b-4b85-b811-a396019df003_quattro.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/06/2e/7a/062e7a50-b6ea-d2a3-0024-130c661d3640/26e4924d-7f4c-4a56-8c1c-c091c10765b2_oitoit.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7f/6f/3c/7f6f3ce7-ce5f-ef90-9e90-84d349b0d023/8d58681e-47b0-4555-bbd8-bfe3a1f0c3ff_cinco.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/4d/47/7d/4d477dab-ed2d-0430-ffac-018604aefc6f/8cbae827-565d-45a6-9c9a-3912f3432e25_seiz.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/af/23/ae/af23aee1-7875-7367-940f-030291e99997/a393c846-0a07-40f6-8b60-b6584aebf38a_tres.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/94/da/18/94da18e2-4eb6-7039-e78d-0e7722b4a84a/42b0801f-4ab5-465d-bda3-22e60e621b63_uno.png/576x768bb.png"
+    ]
+  },
+  "1441546714": {
+    "name": "French Etymology and Origins",
+    "trackName": "French Etymology and Origins",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779202556014,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/french-etymology-and-origins/id1441546714?uo=4",
+    "description": "This app provides a dictionary of French etymology With more than 34300 entries this is the most authoritative and comprehensive dictionary of French etymology. It is an important etymological resource for linguistic experts, it is also a useful reference for anyone who is interested in French language ■ Etymology Over 34300 entries including words, names, prefixes, suffixes, roots. Entries are divided into categories ■ Entry Detailed etymology and origin Pronunciation Detailed meaning Alternative forms Derived terms Related terms Descendants Conjugation etc ■ Categories Entries are divided into categories Terms derived from Ancient Greek Terms derived from Germanic languages Terms derived from Latin Terms derived from Old French Terms derived from Old English Terms derived from Proto-Indo-European Terms derived from Hebrew etc ■ Parts of Speech Entries are divided into parts of speech French adjectives, French adverbs, French nouns, French verbs, French pronouns etc. ■ French prefixes and suffixes French prefixes and derived terms French suffixes and derived terms ■ French names etymology and origins of French given names and surnames ■ other features: search feature translation pronunciation bookmark feature built-in dictionary cross reference",
+    "fullDescription": "This app provides a dictionary of French etymology With more than 34300 entries this is the most authoritative and comprehensive dictionary of French etymology. It is an important etymological resource for linguistic experts, it is also a useful reference for anyone who is interested in French language ■ Etymology Over 34300 entries including words, names, prefixes, suffixes, roots. Entries are divided into categories ■ Entry Detailed etymology and origin Pronunciation Detailed meaning Alternative forms Derived terms Related terms Descendants Conjugation etc ■ Categories Entries are divided into categories Terms derived from Ancient Greek Terms derived from Germanic languages Terms derived from Latin Terms derived from Old French Terms derived from Old English Terms derived from Proto-Indo-European Terms derived from Hebrew etc ■ Parts of Speech Entries are divided into parts of speech French adjectives, French adverbs, French nouns, French verbs, French pronouns etc. ■ French prefixes and suffixes French prefixes and derived terms French suffixes and derived terms ■ French names etymology and origins of French given names and surnames ■ other features: search feature translation pronunciation bookmark feature built-in dictionary cross reference",
+    "summaryDescription": "This app provides a dictionary of French etymology With more than 34300 entries this is the most authoritative and comprehensive dictionary of French etymology. It is an important etymological resource for linguistic experts, it is also a useful reference for anyone who is interested in French language ■ Etymology Over 34300 entries including words, names, prefixes, suffixes, roots. Entries are divided into categories ■ Entry Detailed etymology and origin Pronunciation Detailed meaning Alternative forms Derived terms Related terms Descendants Conjugation etc ■ Categories Entries are divided into categories Terms derived from Ancient Greek Terms derived from Germanic languages Terms derived from Latin Terms derived from Old French Terms derived from Old English Terms derived from Proto-Indo-European Terms derived from Hebrew etc ■ Parts of Speech Entries are divided into parts of speech French adjectives, French adverbs, French nouns, French verbs, French pronouns etc. ■ French prefixes and suffixes French prefixes and derived terms French suffixes and derived terms ■ French names etymology and origins of French given names and surnames ■ other features: search feature translation pronunciation bookmark feature built-in dictionary cross reference",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/2e/f8/6d2ef81d-39ad-ba2c-c0ef-ff27e3fafbbe/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/2e/f8/6d2ef81d-39ad-ba2c-c0ef-ff27e3fafbbe/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Ngoc Anh",
+    "artistName": "Ngoc Anh",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/c1/8b/88c18bc7-f627-b076-cc80-6bdae65ca12d/s0_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/2f/e1/d72fe143-c548-d4b6-1ffe-9597152e0cda/s1_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/c7/f3/e4c7f3e1-a755-19b6-01ea-6dbae09a0ad7/s2_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/f3/fe/f5f3fe25-7647-a090-f15d-8c752b32817f/s3_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/4b/07/e04b0785-6c9f-2349-fb53-a72cc1261dab/s4_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/64/50/666450ed-53c2-9f8d-2d6b-b07256972886/s5_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/03/f6/7503f696-f1cf-adab-fdb0-8548ad555f74/s6_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/8e/f3/478ef3eb-79c1-c02e-73de-fcdef0f7e223/s7_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/3f/c9/b23fc9ad-68ec-c10b-9873-9e70fc52e767/s8_framed.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/11/db/fd11dbec-cc4b-1b20-e390-6d895d9829f8/s09_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/5a/27/a65a27ba-9839-727e-f4c1-bd0330ac9df4/s10_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/55/21/7e55210b-8dd5-3fbb-2ae9-e39a326591dd/s20_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/17/ac/7017ac2c-ab6a-eaa9-7316-7bda2c78c76e/s30_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/72/83/8572831a-06fc-e755-b8ef-77435da1e298/s40_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/dc/cb/90dccbc4-348d-8d31-146e-a6796c3974b7/s50_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/57/f0/2357f092-11b8-149c-3688-b1746a90c664/s60_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/ba/0a/76ba0a97-0ef6-0486-ed6d-5e72007de888/s70_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/72/69/637269a3-16dc-b0a0-780e-a13eff6c8d19/s80_framed.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1779202515855
+  },
+  "1441757824": {
+    "name": "一伴-同城相亲交友",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "一年高级会员": "¥298.00",
+      "一个月高级会员": "¥198.00",
+      "1个月VIP": "¥198.00",
+      "一年VIP": "¥298.00",
+      "一年SVIP": "¥398.00",
+      "365天高级会员": "¥228.00",
+      "永久VIP": "¥798.00",
+      "163个金币": "¥58.00",
+      "30天高级会员": "¥198.00",
+      "1个月SVIP": "¥298.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "一年高级会员": "¥298.00",
+      "一个月高级会员": "¥198.00",
+      "1个月VIP": "¥198.00",
+      "一年VIP": "¥298.00",
+      "一年SVIP": "¥398.00",
+      "365天高级会员": "¥228.00",
+      "永久VIP": "¥798.00",
+      "163个金币": "¥58.00",
+      "30天高级会员": "¥198.00",
+      "1个月SVIP": "¥298.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772871714807,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "一年高级会员": "¥298.00",
+            "一个月高级会员": "¥198.00",
+            "1个月VIP": "¥198.00",
+            "一年VIP": "¥298.00",
+            "一年SVIP": "¥398.00",
+            "365天高级会员": "¥228.00",
+            "永久VIP": "¥798.00",
+            "163个金币": "¥58.00",
+            "30天高级会员": "¥198.00",
+            "1个月SVIP": "¥298.00"
+          }
+        }
+      ]
+    ],
+    "_externalSourceFirstSeen": 1772871692381
   }
 }

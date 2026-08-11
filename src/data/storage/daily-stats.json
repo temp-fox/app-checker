@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": 1786459241882,
+    "cn": {
+      "total": 10,
+      "price": 8,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6747033581,
+          "name": "Meet Me At The Bar",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1006624104,
+          "name": "FieldScaper",
+          "type": "price",
+          "detail": "¥68.00 → ¥38.00"
+        },
+        {
+          "id": 1175892734,
+          "name": "SynthScaper",
+          "type": "price",
+          "detail": "¥98.00 → ¥48.00"
+        },
+        {
+          "id": 1570948841,
+          "name": "SoundSaw",
+          "type": "price",
+          "detail": "¥38.00 → ¥22.00"
+        },
+        {
+          "id": 1596872812,
+          "name": "SpaceFields",
+          "type": "price",
+          "detail": "¥78.00 → ¥38.00"
+        },
+        {
+          "id": 6472060413,
+          "name": "Stellarvox",
+          "type": "price",
+          "detail": "¥88.00 → ¥48.00"
+        },
+        {
+          "id": 6482988825,
+          "name": "LoopMangler",
+          "type": "price",
+          "detail": "¥98.00 → ¥58.00"
+        },
+        {
+          "id": 6748644082,
+          "name": "ExoSphere",
+          "type": "price",
+          "detail": "¥98.00 → ¥68.00"
+        },
+        {
+          "id": 6482291685,
+          "name": "Cuspart: GPS",
+          "type": "iap",
+          "detail": "12个月订阅: ¥228.00 → ¥68.00"
+        },
+        {
+          "id": 6482291685,
+          "name": "Cuspart: GPS",
+          "type": "iap",
+          "detail": "1个月订阅: ¥28.00 → ¥8.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786450678551,
     "cn": {
       "total": 12,
@@ -3369,52 +3439,6 @@
           "name": "记咖啡 - 用咖啡记录生活",
           "type": "iap",
           "detail": "记咖啡终身Pro会员: ¥28.00 → ¥0.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785587218327,
-    "cn": {
-      "total": 6,
-      "price": 4,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6793384013,
-          "name": "密码证件夹",
-          "type": "price",
-          "detail": "¥18.00 → ¥8.00"
-        },
-        {
-          "id": 6760344214,
-          "name": "Drone360",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 1610256963,
-          "name": "围堵小猫",
-          "type": "price",
-          "detail": "¥58.00 → ¥15.00"
-        },
-        {
-          "id": 6444037998,
-          "name": "Lab Tracker",
-          "type": "price",
-          "detail": "¥22.00 → ¥8.00"
-        },
-        {
-          "id": 6743148949,
-          "name": "盛世天下：女王的游戏",
-          "type": "iap",
-          "detail": "女帝篇: ¥59.00 → ¥53.00"
-        },
-        {
-          "id": 6743148949,
-          "name": "盛世天下：女王的游戏",
-          "type": "iap",
-          "detail": "媚娘篇: ¥39.00 → ¥33.00"
         }
       ]
     }
