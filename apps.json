@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1201765853,
+      "name": {
+        "cn": "小学语文三年级上册北师大版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786519190610,
+      "_discountType": "app"
+    },
+    {
+      "id": 1540077443,
+      "name": {
+        "cn": "德州扑克模拟器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786519190607,
+      "_discountType": "app"
+    },
+    {
+      "id": 6777304303,
+      "name": {
+        "cn": "装修日志-一站式记录家装预算与施工全过程"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786519190607,
+      "_discountType": "app"
+    },
+    {
       "id": 1460774889,
       "name": {
         "cn": "Stellar Photo Recovery"

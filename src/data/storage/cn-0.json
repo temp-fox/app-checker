@@ -12382,6 +12382,25 @@
     "history": [
       [
         {
+          "timestamp": 1786519225735,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {
+            "All-In Module Access": "¥68.00",
+            "SPL Pro Module": "¥58.00",
+            "ETC Module": "¥38.00",
+            "SoundScope VR": "¥168.00",
+            "Transfer Function": "¥328.00",
+            "Reference Files Module": "¥98.00",
+            "Phase Meter": "¥58.00",
+            "SPL Graph Module": "¥68.00",
+            "LARSA": "¥198.00",
+            "Surround Generator": "¥298.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786271723370,
           "price": 148,
           "formattedPrice": "¥148.00",
@@ -103363,6 +103382,23 @@
     "history": [
       [
         {
+          "timestamp": 1786519225735,
+          "price": 58,
+          "formattedPrice": "¥58.00",
+          "inAppPurchases": {
+            "Electro Pack": "¥8.00",
+            "Tuned Percussion Pack": "¥8.00",
+            "North Indian Pack": "¥8.00",
+            "Tambourines and Textures Pack": "¥8.00",
+            "Mixed World Pack": "¥8.00",
+            "Taiko Pack": "¥8.00",
+            "Latin Pack": "¥8.00",
+            "Brazil Pack": "¥8.00",
+            "Asian Metal and Bamboo Pack": "¥8.00",
+            "African Pack": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1786498887471,
           "price": 58,
           "formattedPrice": "¥58.00",
@@ -123350,11 +123386,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/anoc-pro-octave-editor/id597864931?uo=4",
-    "description": "Anoc is an Octave Editor for your iOS device. It allows you to create and manage Octave projects directly on your iOS device and generate the result and plots by using Verbosus (Online Octave Editor). This software is provided \"as is\" without warranties or conditions of any kind, either expressed or implied. Before you download this app please check if it can do everything you need by trying the available functions using the web interface on our website. Features: 2 Modes: Local Mode (stores .m documents on your device) and Cloud Mode (synchronizes your projects with Verbosus) Use a dedicated server to perform calculations and generate plots Automatic Dropbox synchronization (Local Mode) Automatic Box synchronization (Local Mode) Git integration (Local Mode) AI assistant (ChatGPT and Claude) Custom keyboard shortcuts Encrypted transmission to the server by using HTTPS Syntax highlighting (operators, plot functions, comments) Line numbers Assistive keyboard Hotkeys (see below) Web-Interface (Cloud Mode) Two factor authentication (Cloud Mode, in combination with Copiosus) No ads Additional features in Anoc Pro: Unlimited number of projects (Local Mode) Unlimited number of documents per project (Local Mode) Unlimited number of file uploads per project (Local Mode) Unlimited number of projects (Cloud Mode) Unlimited number of documents per project (Cloud Mode) Hotkeys in editor (can be changed in editor - settings - keyboard shortcuts): ctrl+,: Settings ctrl+s: Save ctrl+g: Generate result ctrl+f: Search ctrl+p: Preview ctrl+n: New document ctrl+d: Delete document ctrl+.: Next document Function files: Create a new file e.g. worker.m and fill it with function s = worker(x) % worker(x) Calculates sine(x) in degrees s = sin(x*pi/180); In your main .m file you can call it with worker(2) Load a file into a variable with the load command (Local Mode): data = load('name-of-file.txt');",
-    "fullDescription": "Anoc is an Octave Editor for your iOS device. It allows you to create and manage Octave projects directly on your iOS device and generate the result and plots by using Verbosus (Online Octave Editor). This software is provided \"as is\" without warranties or conditions of any kind, either expressed or implied. Before you download this app please check if it can do everything you need by trying the available functions using the web interface on our website. Features: 2 Modes: Local Mode (stores .m documents on your device) and Cloud Mode (synchronizes your projects with Verbosus) Use a dedicated server to perform calculations and generate plots Automatic Dropbox synchronization (Local Mode) Automatic Box synchronization (Local Mode) Git integration (Local Mode) AI assistant (ChatGPT and Claude) Custom keyboard shortcuts Encrypted transmission to the server by using HTTPS Syntax highlighting (operators, plot functions, comments) Line numbers Assistive keyboard Hotkeys (see below) Web-Interface (Cloud Mode) Two factor authentication (Cloud Mode, in combination with Copiosus) No ads Additional features in Anoc Pro: Unlimited number of projects (Local Mode) Unlimited number of documents per project (Local Mode) Unlimited number of file uploads per project (Local Mode) Unlimited number of projects (Cloud Mode) Unlimited number of documents per project (Cloud Mode) Hotkeys in editor (can be changed in editor - settings - keyboard shortcuts): ctrl+,: Settings ctrl+s: Save ctrl+g: Generate result ctrl+f: Search ctrl+p: Preview ctrl+n: New document ctrl+d: Delete document ctrl+.: Next document Function files: Create a new file e.g. worker.m and fill it with function s = worker(x) % worker(x) Calculates sine(x) in degrees s = sin(x*pi/180); In your main .m file you can call it with worker(2) Load a file into a variable with the load command (Local Mode): data = load('name-of-file.txt');",
-    "summaryDescription": "Anoc is an Octave Editor for your iOS device. It allows you to create and manage Octave projects directly on your iOS device and generate the result and plots by using Verbosus (Online Octave Editor). This software is provided \"as is\" without warranties or conditions of any kind, either expressed or implied. Before you download this app please check if it can do everything you need by trying the available functions using the web interface on our website. Features: 2 Modes: Local Mode (stores .m documents on your device) and Cloud Mode (synchronizes your projects with Verbosus) Use a dedicated server to perform calculations and generate plots Automatic Dropbox synchronization (Local Mode) Automatic Box synchronization (Local Mode) Git integration (Local Mode) AI assistant (ChatGPT and Claude) Custom keyboard shortcuts Encrypted transmission to the server by using HTTPS Syntax highlighting (operators, plot functions, comments) Line numbers Assistive keyboard Hotkeys (see below) Web-Interface (Cloud Mode) Two factor authentication (Cloud Mode, in combination with Copiosus) No ads Additional features in Anoc Pro: Unlimited number of projects (Local Mode) Unlimited number of documents per project (Local Mode) Unlimited number of file uploads per project (Local Mode) Unlimited number of projects (Cloud Mode) Unlimited number of documents per project (Cloud Mode) Hotkeys in editor (can be changed in editor - settings - keyboard shortcuts): ctrl+,: Settings ctrl+s: Save ctrl+g: Generate result ctrl+f: Search ctrl+p: Preview ctrl+n: New document ctrl+d: Delete document ctrl+.: Next document Function files: Create a new file e.g. worker.m and fill it with function s = worker(x) % worker(x) Calculates sine(x) in degrees s = sin(x*pi/180); In your main .m file you can call it with worker(2) Load a file into a variable with the load command (Local Mode): data = load('name-of-file.txt');",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/a2/b9/85a2b90b-346c-982e-1502-593089cae340/AppIcon-AnocPro-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/a2/b9/85a2b90b-346c-982e-1502-593089cae340/AppIcon-AnocPro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "description": "Anoc is an Octave Editor for your iOS device. It allows you to create and manage Octave projects directly on your iOS device and generate the result and plots by using Verbosus (Online Octave Editor). This software is provided \"as is\" without warranties or conditions of any kind, either expressed or implied. Before you download this app please check if it can do everything you need by trying the available functions using the web interface on our website. Features: 2 Modes: Local Mode (stores .m documents on your device) and Cloud Mode (synchronizes your projects with Verbosus) Use a dedicated server to perform calculations and generate plots Automatic Dropbox synchronization (Local Mode) Automatic Box synchronization (Local Mode) Git integration (Local Mode) AI assistant (ChatGPT and Claude, available in supported regions) Custom keyboard shortcuts Encrypted transmission to the server by using HTTPS Syntax highlighting (operators, plot functions, comments) Line numbers Assistive keyboard Hotkeys (see below) Web-Interface (Cloud Mode) Two factor authentication (Cloud Mode, in combination with Copiosus) No ads Additional features in Anoc Pro: Unlimited number of projects (Local Mode) Unlimited number of documents per project (Local Mode) Unlimited number of file uploads per project (Local Mode) Unlimited number of projects (Cloud Mode) Unlimited number of documents per project (Cloud Mode) Hotkeys in editor (can be changed in editor - settings - keyboard shortcuts): ctrl+,: Settings ctrl+s: Save ctrl+g: Generate result ctrl+f: Search ctrl+p: Preview ctrl+n: New document ctrl+d: Delete document ctrl+.: Next document Function files: Create a new file e.g. worker.m and fill it with function s = worker(x) % worker(x) Calculates sine(x) in degrees s = sin(x*pi/180); In your main .m file you can call it with worker(2) Load a file into a variable with the load command (Local Mode): data = load('name-of-file.txt');",
+    "fullDescription": "Anoc is an Octave Editor for your iOS device. It allows you to create and manage Octave projects directly on your iOS device and generate the result and plots by using Verbosus (Online Octave Editor). This software is provided \"as is\" without warranties or conditions of any kind, either expressed or implied. Before you download this app please check if it can do everything you need by trying the available functions using the web interface on our website. Features: 2 Modes: Local Mode (stores .m documents on your device) and Cloud Mode (synchronizes your projects with Verbosus) Use a dedicated server to perform calculations and generate plots Automatic Dropbox synchronization (Local Mode) Automatic Box synchronization (Local Mode) Git integration (Local Mode) AI assistant (ChatGPT and Claude, available in supported regions) Custom keyboard shortcuts Encrypted transmission to the server by using HTTPS Syntax highlighting (operators, plot functions, comments) Line numbers Assistive keyboard Hotkeys (see below) Web-Interface (Cloud Mode) Two factor authentication (Cloud Mode, in combination with Copiosus) No ads Additional features in Anoc Pro: Unlimited number of projects (Local Mode) Unlimited number of documents per project (Local Mode) Unlimited number of file uploads per project (Local Mode) Unlimited number of projects (Cloud Mode) Unlimited number of documents per project (Cloud Mode) Hotkeys in editor (can be changed in editor - settings - keyboard shortcuts): ctrl+,: Settings ctrl+s: Save ctrl+g: Generate result ctrl+f: Search ctrl+p: Preview ctrl+n: New document ctrl+d: Delete document ctrl+.: Next document Function files: Create a new file e.g. worker.m and fill it with function s = worker(x) % worker(x) Calculates sine(x) in degrees s = sin(x*pi/180); In your main .m file you can call it with worker(2) Load a file into a variable with the load command (Local Mode): data = load('name-of-file.txt');",
+    "summaryDescription": "Anoc is an Octave Editor for your iOS device. It allows you to create and manage Octave projects directly on your iOS device and generate the result and plots by using Verbosus (Online Octave Editor). This software is provided \"as is\" without warranties or conditions of any kind, either expressed or implied. Before you download this app please check if it can do everything you need by trying the available functions using the web interface on our website. Features: 2 Modes: Local Mode (stores .m documents on your device) and Cloud Mode (synchronizes your projects with Verbosus) Use a dedicated server to perform calculations and generate plots Automatic Dropbox synchronization (Local Mode) Automatic Box synchronization (Local Mode) Git integration (Local Mode) AI assistant (ChatGPT and Claude, available in supported regions) Custom keyboard shortcuts Encrypted transmission to the server by using HTTPS Syntax highlighting (operators, plot functions, comments) Line numbers Assistive keyboard Hotkeys (see below) Web-Interface (Cloud Mode) Two factor authentication (Cloud Mode, in combination with Copiosus) No ads Additional features in Anoc Pro: Unlimited number of projects (Local Mode) Unlimited number of documents per project (Local Mode) Unlimited number of file uploads per project (Local Mode) Unlimited number of projects (Cloud Mode) Unlimited number of documents per project (Cloud Mode) Hotkeys in editor (can be changed in editor - settings - keyboard shortcuts): ctrl+,: Settings ctrl+s: Save ctrl+g: Generate result ctrl+f: Search ctrl+p: Preview ctrl+n: New document ctrl+d: Delete document ctrl+.: Next document Function files: Create a new file e.g. worker.m and fill it with function s = worker(x) % worker(x) Calculates sine(x) in degrees s = sin(x*pi/180); In your main .m file you can call it with worker(2) Load a file into a variable with the load command (Local Mode): data = load('name-of-file.txt');",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/fe/4c/5ffe4c27-54cf-b5f3-e1a5-7e0ea7785a3d/AppIcon-AnocPro-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/fe/4c/5ffe4c27-54cf-b5f3-e1a5-7e0ea7785a3d/AppIcon-AnocPro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Daniel Kuster",
     "artistName": "Verbosus.com",
     "screenshotUrls": [
@@ -181803,6 +181839,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786519225735,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "假发 2": "¥0.00",
+            "假发": "¥0.00",
+            "胡子 2": "¥0.00",
+            "胡子": "¥0.00",
+            "帽子": "¥0.00",
+            "玻璃": "¥0.00",
+            "疯狂的阴影": "¥0.00",
+            "太阳镜": "¥0.00",
+            "木质": "¥0.00",
+            "碎片": "¥0.00"
+          }
+        },
         {
           "timestamp": 1786487940469,
           "price": 15,
