@@ -2,6 +2,87 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1460774889,
+      "name": {
+        "cn": "Stellar Photo Recovery"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786507515759,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772528649,
+      "name": {
+        "cn": "Exiv - EXIF Viewer & Editor"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786507515759,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761372644,
+      "name": {
+        "cn": "AllClean: 手机清理, 空间清理 & 手机优化大师"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786507515759,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761749464,
+      "name": {
+        "cn": "Typelet - 文本模板键盘"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786507515759,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6794079050,
+      "name": {
+        "cn": "Watermelon Maestro"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786507515759,
+      "_discountType": "app"
+    },
+    {
+      "id": 6447579801,
+      "name": {
+        "cn": "SignCloudNine: Signage"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786507515759,
+      "_discountType": "app"
+    },
+    {
+      "id": 6449465941,
+      "name": {
+        "cn": "Wachteroids"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786507515759,
+      "_discountType": "app"
+    },
+    {
       "id": 1383181685,
       "name": {
         "cn": "DWG to PDF Converter Pro"
