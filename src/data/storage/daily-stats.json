@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": 1786545057767,
+    "cn": {
+      "total": 6,
+      "price": 3,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6753762311,
+          "name": "超慢跑节拍器-快走节拍器",
+          "type": "iap",
+          "detail": "终身会员: ¥58.00 → ¥38.00"
+        },
+        {
+          "id": 1581565640,
+          "name": "Http Screen Mirror",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        },
+        {
+          "id": 6758964777,
+          "name": "Piksi 相机词典 拍照查词 扫描单词查释义",
+          "type": "price",
+          "detail": "¥38.00 → ¥15.00"
+        },
+        {
+          "id": 951324809,
+          "name": "隐藏照片视频 私密保险库",
+          "type": "iap",
+          "detail": "Annual Subscription: ¥98.00 → ¥68.00"
+        },
+        {
+          "id": 951324809,
+          "name": "隐藏照片视频 私密保险库",
+          "type": "iap",
+          "detail": "Monthly Subscription: ¥15.00 → ¥8.00"
+        },
+        {
+          "id": 899313582,
+          "name": "PDF Studio Editor: 文件编辑器·扫描·签名",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786529866239,
     "cn": {
       "total": 5,
@@ -3457,92 +3503,6 @@
           "name": "时间轴-全球历史",
           "type": "price",
           "detail": "¥28.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785680874478,
-    "cn": {
-      "total": 2,
-      "price": 1,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 1260277664,
-          "name": "Luxroom极影相机 : ccd相机 拍立得 复古 滤镜",
-          "type": "iap",
-          "detail": "Life Time: ¥198.00 → ¥0.00"
-        },
-        {
-          "id": 969460961,
-          "name": "Folder Icons",
-          "type": "price",
-          "detail": "¥38.00 → ¥15.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785668873549,
-    "cn": {
-      "total": 9,
-      "price": 8,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6788211888,
-          "name": "旺财计算器",
-          "type": "iap",
-          "detail": "永久会员: ¥18.00 → ¥3.00"
-        },
-        {
-          "id": 6772425829,
-          "name": "哮喘日记-峰流速症状用药ACT控制测试记录与离线导出",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6769270892,
-          "name": "排课表-私教教师学员课程排课课时收费管理助手工具版",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1207653001,
-          "name": "DanceAnimation - Stop Motion",
-          "type": "price",
-          "detail": "¥28.00 → ¥22.00"
-        },
-        {
-          "id": 6757885519,
-          "name": "Fasting Space",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6760660711,
-          "name": "Vintage Rhythm Machine Console",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6758648154,
-          "name": "Rhythm Machine Console",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6758878604,
-          "name": "Urban Chord Studio",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6758276161,
-          "name": "Yoga Yogi",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
         }
       ]
     }
