@@ -5238,14 +5238,22 @@
     "name": "CompassOne",
     "trackName": "CompassOne",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费"
+      "price": 12,
+      "formattedPrice": "¥12.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786574276972,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786379426434,
@@ -5256,9 +5264,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/compassone/id6789645403?uo=4",
-    "description": "使用 CompassOne（适用于 iPhone 和 Apple Watch 的现代导航和现场工具包）在野外找到路线、返回汽车或到达任何精确坐标。在一款专注的应用程序中节省停车位、跟踪路线、规划潮汐并转换坐标。从快速方位到丰富的现场项目，CompassOne 将您的定位工具集中在一处。主要功能 停车模式 使用标高、行、槽位或地标等注释保存您的停车位 一目了然地查看您当前的停车位，然后点击“引导我”导航返回 与朋友或家人共享您的停车位置 路径和路径点 记录行程路径和路径",
-    "fullDescription": "使用 CompassOne（适用于 iPhone 和 Apple Watch 的现代导航和现场工具包）在野外找到路线、返回汽车或到达任何精确坐标。在一款专注的应用程序中节省停车位、跟踪路线、规划潮汐并转换坐标。从快速方位到丰富的现场项目，CompassOne 将您的定位工具集中在一处。主要功能 停车模式 使用标高、行、槽位或地标等注释保存您的停车位 一目了然地查看您当前的停车位，然后点击“引导我”导航返回 与朋友或家人共享您的停车位置 路径和路径点 记录行程路径和路径",
-    "summaryDescription": "使用 CompassOne（适用于 iPhone 和 Apple Watch 的现代导航和现场工具包）在野外找到路线、返回汽车或到达任何精确坐标。在一款专注的应用程序中节省停车位、跟踪路线、规划潮汐并转换坐标。从快速方位到丰富的现场项目，CompassOne 将您的定位工具集中在一处。主要功能 停车模式 使用标高、行、槽位或地标等注释保存您的停车位 一目了然地查看您当前的停车位，然后点击“引导我”导航返回 与朋友或家人共享您的停车位置 路径和路径点 记录行程路径和路径",
+    "description": "Find your way in the field, back to your car, or to any precise coordinate with CompassOne, a modern navigation and field toolkit for iPhone and Apple Watch. Save parking, follow trails, plan tides, and convert coordinates in one focused app. From quick bearings to rich field projects, CompassOne keeps your location tools in one place. KEY FEATURES Parking Mode Save your parking spot with a note like level, row, slot, or landmark See your current parking at a glance and tap Guide Me to navigate back Share your parking location with friends or family Trails and Waypoints Record trip trails and review your Trail History Save waypoints from your current location Start Guidance along a route with Route Navigator Export trails and waypoints as GPX, KML, CSV, or JSON Coordinates and Import View your current location in multiple formats Convert between decimal coordinates, UTM, and Plus Code Paste coordinates, map links, UTM, or Plus Code and preview on the map Import GPX or KML files from Files and save imported places Sky Compass and Space Use Sky Compass to orient with the sky Show or hide planets for a cleaner sky view Track an estimate of the International Space Station position Center the sky view with the spatial viewport controls Tides and Moon Reference Check tide estimates on a simple tide timeline Use Moon Transit Estimate to set a tide reference time Set tide check time to now for quick status checks Read clear notes reminding you to use official tide stations for safety Field Cockpit and Projects Use Field Cockpit for an at a glance navigation and status view Capture Field Projects with project name and notes Save Field Snapshots for later reporting Export Field Projects as JSON for archiving or analysis Export Hub and Offline Pack Prepare export sets for waypoints, trails, and field projects Create an Offline Pack to keep essential data ready when coverage is poor Watch Companion Use the Watch Companion for quick compass actions on your wrist See compact field data with a watch ready layout Tools Grid Open Tools for focused utilities, including: Coordinate Converter: decimal, UTM, or Plus Code Decimal Coordinate entry with latitude and longitude Bearing Calculator for simple navigation bearings Route tools to work with saved paths Widgets and Shortcuts Add CompassOne widgets for quick access to compass and field info Use shortcuts like OpenCompass, SaveCurrentPlace, ShareLocation, GuideToCar, OpenFieldCockpit, OpenTides, or OpenLevel from the Shortcuts app Personalization and Settings Choose north mode, units, coordinate format, and smoothing preferences Pick a compass theme to match your environment Accuracy coaching and trust status help you understand location quality CompassOne is built for everyday navigation and serious fieldwork alike, from finding your car in a crowded lot to managing trails and tide checks on the coast. Install CompassOne today and bring a powerful field-ready compass, trail recorder, and coordinate toolkit wherever you go.",
+    "fullDescription": "Find your way in the field, back to your car, or to any precise coordinate with CompassOne, a modern navigation and field toolkit for iPhone and Apple Watch. Save parking, follow trails, plan tides, and convert coordinates in one focused app. From quick bearings to rich field projects, CompassOne keeps your location tools in one place. KEY FEATURES Parking Mode Save your parking spot with a note like level, row, slot, or landmark See your current parking at a glance and tap Guide Me to navigate back Share your parking location with friends or family Trails and Waypoints Record trip trails and review your Trail History Save waypoints from your current location Start Guidance along a route with Route Navigator Export trails and waypoints as GPX, KML, CSV, or JSON Coordinates and Import View your current location in multiple formats Convert between decimal coordinates, UTM, and Plus Code Paste coordinates, map links, UTM, or Plus Code and preview on the map Import GPX or KML files from Files and save imported places Sky Compass and Space Use Sky Compass to orient with the sky Show or hide planets for a cleaner sky view Track an estimate of the International Space Station position Center the sky view with the spatial viewport controls Tides and Moon Reference Check tide estimates on a simple tide timeline Use Moon Transit Estimate to set a tide reference time Set tide check time to now for quick status checks Read clear notes reminding you to use official tide stations for safety Field Cockpit and Projects Use Field Cockpit for an at a glance navigation and status view Capture Field Projects with project name and notes Save Field Snapshots for later reporting Export Field Projects as JSON for archiving or analysis Export Hub and Offline Pack Prepare export sets for waypoints, trails, and field projects Create an Offline Pack to keep essential data ready when coverage is poor Watch Companion Use the Watch Companion for quick compass actions on your wrist See compact field data with a watch ready layout Tools Grid Open Tools for focused utilities, including: Coordinate Converter: decimal, UTM, or Plus Code Decimal Coordinate entry with latitude and longitude Bearing Calculator for simple navigation bearings Route tools to work with saved paths Widgets and Shortcuts Add CompassOne widgets for quick access to compass and field info Use shortcuts like OpenCompass, SaveCurrentPlace, ShareLocation, GuideToCar, OpenFieldCockpit, OpenTides, or OpenLevel from the Shortcuts app Personalization and Settings Choose north mode, units, coordinate format, and smoothing preferences Pick a compass theme to match your environment Accuracy coaching and trust status help you understand location quality CompassOne is built for everyday navigation and serious fieldwork alike, from finding your car in a crowded lot to managing trails and tide checks on the coast. Install CompassOne today and bring a powerful field-ready compass, trail recorder, and coordinate toolkit wherever you go.",
+    "summaryDescription": "Find your way in the field, back to your car, or to any precise coordinate with CompassOne, a modern navigation and field toolkit for iPhone and Apple Watch. Save parking, follow trails, plan tides, and convert coordinates in one focused app. From quick bearings to rich field projects, CompassOne keeps your location tools in one place. KEY FEATURES Parking Mode Save your parking spot with a note like level, row, slot, or landmark See your current parking at a glance and tap Guide Me to navigate back Share your parking location with friends or family Trails and Waypoints Record trip trails and review your Trail History Save waypoints from your current location Start Guidance along a route with Route Navigator Export trails and waypoints as GPX, KML, CSV, or JSON Coordinates and Import View your current location in multiple formats Convert between decimal coordinates, UTM, and Plus Code Paste coordinates, map links, UTM, or Plus Code and preview on the map Import GPX or KML files from Files and save imported places Sky Compass and Space Use Sky Compass to orient with the sky Show or hide planets for a cleaner sky view Track an estimate of the International Space Station position Center the sky view with the spatial viewport controls Tides and Moon Reference Check tide estimates on a simple tide timeline Use Moon Transit Estimate to set a tide reference time Set tide check time to now for quick status checks Read clear notes reminding you to use official tide stations for safety Field Cockpit and Projects Use Field Cockpit for an at a glance navigation and status view Capture Field Projects with project name and notes Save Field Snapshots for later reporting Export Field Projects as JSON for archiving or analysis Export Hub and Offline Pack Prepare export sets for waypoints, trails, and field projects Create an Offline Pack to keep essential data ready when coverage is poor Watch Companion Use the Watch Companion for quick compass actions on your wrist See compact field data with a watch ready layout Tools Grid Open Tools for focused utilities, including: Coordinate Converter: decimal, UTM, or Plus Code Decimal Coordinate entry with latitude and longitude Bearing Calculator for simple navigation bearings Route tools to work with saved paths Widgets and Shortcuts Add CompassOne widgets for quick access to compass and field info Use shortcuts like OpenCompass, SaveCurrentPlace, ShareLocation, GuideToCar, OpenFieldCockpit, OpenTides, or OpenLevel from the Shortcuts app Personalization and Settings Choose north mode, units, coordinate format, and smoothing preferences Pick a compass theme to match your environment Accuracy coaching and trust status help you understand location quality CompassOne is built for everyday navigation and serious fieldwork alike, from finding your car in a crowded lot to managing trails and tide checks on the coast. Install CompassOne today and bring a powerful field-ready compass, trail recorder, and coordinate toolkit wherever you go.",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/8a/5d/638a5d4b-2214-59c1-cd2c-82fc153ed5ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/8a/5d/638a5d4b-2214-59c1-cd2c-82fc153ed5ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Ona Pacholo Asis",
@@ -6324,9 +6332,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/coloring-challenge-flag-quiz/id6796669579?uo=4",
-    "description": "你认为你了解世界各国的国旗吗？再想一想！有些东西缺失了，只有真正的地理奇才才能恢复世界的色彩。填色挑战：旗帜测验是一款充满活力、考验大脑的益智测验，其中旗帜已经失去了一部分身份。你的使命？在时间用完之前，点击或轻弹正确的颜色回到原来的位置！怎么玩 识别差距：看旗帜：一种颜色已被替换为标有“？”的灰色区域。扫描调色板：仔细检查可用的颜色选项。轻拂或点击：只需轻击或轻拂您选择的颜色到缺失的空间即可",
-    "fullDescription": "你认为你了解世界各国的国旗吗？再想一想！有些东西缺失了，只有真正的地理奇才才能恢复世界的色彩。填色挑战：旗帜测验是一款充满活力、考验大脑的益智测验，其中旗帜已经失去了一部分身份。你的使命？在时间用完之前，点击或轻弹正确的颜色回到原来的位置！怎么玩 识别差距：看旗帜：一种颜色已被替换为标有“？”的灰色区域。扫描调色板：仔细检查可用的颜色选项。轻拂或点击：只需轻击或轻拂您选择的颜色到缺失的空间即可",
-    "summaryDescription": "你认为你了解世界各国的国旗吗？再想一想！有些东西缺失了，只有真正的地理奇才才能恢复世界的色彩。填色挑战：旗帜测验是一款充满活力、考验大脑的益智测验，其中旗帜已经失去了一部分身份。你的使命？在时间用完之前，点击或轻弹正确的颜色回到原来的位置！怎么玩 识别差距：看旗帜：一种颜色已被替换为标有“？”的灰色区域。扫描调色板：仔细检查可用的颜色选项。轻拂或点击：只需轻击或轻拂您选择的颜色到缺失的空间即可",
+    "description": "你认为你了解世界各国的国旗吗？再想一想！有些东西缺失了，只有真正的地理奇才才能恢复世界的色彩。填色挑战：旗帜测验是一款充满活力、考验大脑的益智测验，其中旗帜已经失去了一部分身份。你的使命？在时间用完之前，点击或轻弹正确的颜色回到原位！怎么玩 识别差距：看旗帜：一种颜色已被替换为标有“？”的灰色区域。扫描调色板：仔细检查可用的颜色选项。轻拂或点击：只需轻击或轻拂您选择的颜色到缺失的空间即可",
+    "fullDescription": "你认为你了解世界各国的国旗吗？再想一想！有些东西缺失了，只有真正的地理奇才才能恢复世界的色彩。填色挑战：旗帜测验是一款充满活力、考验大脑的益智测验，其中旗帜已经失去了一部分身份。你的使命？在时间用完之前，点击或轻弹正确的颜色回到原位！怎么玩 识别差距：看旗帜：一种颜色已被替换为标有“？”的灰色区域。扫描调色板：仔细检查可用的颜色选项。轻拂或点击：只需轻击或轻拂您选择的颜色到缺失的空间即可",
+    "summaryDescription": "你认为你了解世界各国的国旗吗？再想一想！有些东西缺失了，只有真正的地理奇才才能恢复世界的色彩。填色挑战：旗帜测验是一款充满活力、考验大脑的益智测验，其中旗帜已经失去了一部分身份。你的使命？在时间用完之前，点击或轻弹正确的颜色回到原位！怎么玩 识别差距：看旗帜：一种颜色已被替换为标有“？”的灰色区域。扫描调色板：仔细检查可用的颜色选项。轻拂或点击：只需轻击或轻拂您选择的颜色到缺失的空间即可",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/2c/73/eb2c733f-3e8a-ca81-70b6-4a242d30423a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/2c/73/eb2c733f-3e8a-ca81-70b6-4a242d30423a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Marcin Wroblewski",
@@ -8350,5 +8358,188 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/da/01/1cda01e7-dd80-e9f8-317f-ceba9cb1bbd4/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-11-09_at_09.38.08.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1786567233820
+  },
+  "6773735058": {
+    "name": "晚风 - 视频播放器",
+    "trackName": "晚风 - 视频播放器",
+    "maxPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "minPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786574276972,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%99%9A%E9%A3%8E-%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id6773735058?uo=4",
+    "description": "支持 MKV、MP4、AVI、MOV、WMV、FLV 等 20+ 主流视频格式， 无需转码，导入即播。 【极简美学】 莫兰迪色系搭配中式留白，纯粹到骨子里的播放体验。 不打扰，不赘余 — 只有你需要的东西。 【全格式支持】 基于 VLC 核心引擎，几乎任何格式都能流畅播放。 4K HDR 不卡顿，硬件解码省电不发热。 【手势即直觉】 双击暂停/播放 左侧上下滑调节亮度 右侧上下滑调节音量 单击唤出/隐藏控件 【专业功能】 多音轨切换 外挂字幕（SRT/ASS/VTT）自动匹配 播放速度 0.5x-2.0x 画中画模式 后台音频播放 断点续播 — 自动记住进度 【隐私优先】 视频文件保存在你的设备上，不上传、不收集、不分享。 一次购买，iPhone、iPad、Mac 通用。 没有订阅，没有广告，只有纯粹的播放体验。",
+    "fullDescription": "支持 MKV、MP4、AVI、MOV、WMV、FLV 等 20+ 主流视频格式， 无需转码，导入即播。 【极简美学】 莫兰迪色系搭配中式留白，纯粹到骨子里的播放体验。 不打扰，不赘余 — 只有你需要的东西。 【全格式支持】 基于 VLC 核心引擎，几乎任何格式都能流畅播放。 4K HDR 不卡顿，硬件解码省电不发热。 【手势即直觉】 双击暂停/播放 左侧上下滑调节亮度 右侧上下滑调节音量 单击唤出/隐藏控件 【专业功能】 多音轨切换 外挂字幕（SRT/ASS/VTT）自动匹配 播放速度 0.5x-2.0x 画中画模式 后台音频播放 断点续播 — 自动记住进度 【隐私优先】 视频文件保存在你的设备上，不上传、不收集、不分享。 一次购买，iPhone、iPad、Mac 通用。 没有订阅，没有广告，只有纯粹的播放体验。",
+    "summaryDescription": "支持 MKV、MP4、AVI、MOV、WMV、FLV 等 20+ 主流视频格式， 无需转码，导入即播。 【极简美学】 莫兰迪色系搭配中式留白，纯粹到骨子里的播放体验。 不打扰，不赘余 — 只有你需要的东西。 【全格式支持】 基于 VLC 核心引擎，几乎任何格式都能流畅播放。 4K HDR 不卡顿，硬件解码省电不发热。 【手势即直觉】 双击暂停/播放 左侧上下滑调节亮度 右侧上下滑调节音量 单击唤出/隐藏控件 【专业功能】 多音轨切换 外挂字幕（SRT/ASS/VTT）自动匹配 播放速度 0.5x-2.0x 画中画模式 后台音频播放 断点续播 — 自动记住进度 【隐私优先】 视频文件保存在你的设备上，不上传、不收集、不分享。 一次购买，iPhone、iPad、Mac 通用。 没有订阅，没有广告，只有纯粹的播放体验。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/59/01/e85901f8-c55d-4849-9d53-e1e69ea52398/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/59/01/e85901f8-c55d-4849-9d53-e1e69ea52398/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "登阳 李",
+    "artistName": "登阳 李",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/51/7a/9a517a1e-806d-db0a-0b8a-5d4741b88ad4/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-05-31_at_16.02.35.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/07/21/250721cc-3edd-3d2c-9660-84dae204bc9c/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-05-31_at_16.02.40.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/88/ec/c288ecb5-23ed-c0ea-8f74-d8516de8c21d/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-05-31_at_16.06.45.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/07/74/bc077492-b77c-38b5-8adb-6666ca852ef1/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-31_at_16.13.28.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/80/8b/54808bff-eabd-707b-4a70-c2bb9ed3ec01/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-31_at_16.12.56.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ae/5d/ecae5dba-a29a-5103-af99-34a3bf8748b0/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-05-31_at_16.13.40.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1786574242987
+  },
+  "6759914086": {
+    "name": "针孔摄像头探测器 - 酒店隐藏摄像头探测",
+    "trackName": "针孔摄像头探测器 - 酒店隐藏摄像头探测",
+    "maxPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00",
+      "连续包年": "¥298.00",
+      "连续包月": "¥48.00",
+      "连续包周": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00",
+      "连续包年": "¥298.00",
+      "连续包月": "¥48.00",
+      "连续包周": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786574276972,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "连续包年": "¥298.00",
+            "连续包月": "¥48.00",
+            "连续包周": "¥15.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E9%92%88%E5%AD%94%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A2%E6%B5%8B%E5%99%A8-%E9%85%92%E5%BA%97%E9%9A%90%E8%97%8F%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A2%E6%B5%8B/id6759914086?uo=4",
+    "description": "一款专为注重隐私的旅行者与个人用户打造的专业隐藏摄像头检测工具。无论你入住酒店、民宿，或是使用公共更衣室，本应用可快速扫描周边环境，排查隐蔽监控设备。 四大核心检测技术协同运作，实现全方位防护： 【磁场检测】 借助手机磁力仪，捕捉隐藏电子设备发出的异常磁场信号。实时数值仪表直观展示磁场强度，检测到异常时自动震动提醒。 【红外线检测】 利用手机摄像头捕捉肉眼不可见的红外光线，自动识别并标记隐藏摄像头夜视功能常用的红外光源。支持灵敏度调节，适配各类光线环境。 【无线网络扫描】 扫描局域网内所有联网设备，探测摄像头常用端口。结合开放端口、设备名称、服务类型计算可疑评分，色彩分级风险等级，一目了然。 【蓝牙扫描】 探测周边蓝牙设备，根据设备特征判定可疑程度。实时显示信号强度，辅助判断设备距离与大致方位。 【检测指南】 内置专业排查教程，提供线下人工检查技巧，指导你系统性排查常见隐藏点位，无工具也可自查。 核心功能： 多功能合一：集成磁场、红外、WiFi、蓝牙全维度检测 操作简单：无需专业知识，上手即用 实时反馈：搭配震动预警提醒 可视化界面：智能仪表+彩色风险标识 隐私保障：所有检测仅本地运行，绝不上传任何数据 重要提示： 本应用依靠手机内置传感器辅助检测，检测结果仅供参考。若存在高度安全顾虑，请使用专业检测仪器或联系相关部门处理。 【法律声明】 使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策： https://camera-detector-pro.netlify.app/privacy.html",
+    "fullDescription": "一款专为注重隐私的旅行者与个人用户打造的专业隐藏摄像头检测工具。无论你入住酒店、民宿，或是使用公共更衣室，本应用可快速扫描周边环境，排查隐蔽监控设备。 四大核心检测技术协同运作，实现全方位防护： 【磁场检测】 借助手机磁力仪，捕捉隐藏电子设备发出的异常磁场信号。实时数值仪表直观展示磁场强度，检测到异常时自动震动提醒。 【红外线检测】 利用手机摄像头捕捉肉眼不可见的红外光线，自动识别并标记隐藏摄像头夜视功能常用的红外光源。支持灵敏度调节，适配各类光线环境。 【无线网络扫描】 扫描局域网内所有联网设备，探测摄像头常用端口。结合开放端口、设备名称、服务类型计算可疑评分，色彩分级风险等级，一目了然。 【蓝牙扫描】 探测周边蓝牙设备，根据设备特征判定可疑程度。实时显示信号强度，辅助判断设备距离与大致方位。 【检测指南】 内置专业排查教程，提供线下人工检查技巧，指导你系统性排查常见隐藏点位，无工具也可自查。 核心功能： 多功能合一：集成磁场、红外、WiFi、蓝牙全维度检测 操作简单：无需专业知识，上手即用 实时反馈：搭配震动预警提醒 可视化界面：智能仪表+彩色风险标识 隐私保障：所有检测仅本地运行，绝不上传任何数据 重要提示： 本应用依靠手机内置传感器辅助检测，检测结果仅供参考。若存在高度安全顾虑，请使用专业检测仪器或联系相关部门处理。 【法律声明】 使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策： https://camera-detector-pro.netlify.app/privacy.html",
+    "summaryDescription": "一款专为注重隐私的旅行者与个人用户打造的专业隐藏摄像头检测工具。无论你入住酒店、民宿，或是使用公共更衣室，本应用可快速扫描周边环境，排查隐蔽监控设备。 四大核心检测技术协同运作，实现全方位防护： 【磁场检测】 借助手机磁力仪，捕捉隐藏电子设备发出的异常磁场信号。实时数值仪表直观展示磁场强度，检测到异常时自动震动提醒。 【红外线检测】 利用手机摄像头捕捉肉眼不可见的红外光线，自动识别并标记隐藏摄像头夜视功能常用的红外光源。支持灵敏度调节，适配各类光线环境。 【无线网络扫描】 扫描局域网内所有联网设备，探测摄像头常用端口。结合开放端口、设备名称、服务类型计算可疑评分，色彩分级风险等级，一目了然。 【蓝牙扫描】 探测周边蓝牙设备，根据设备特征判定可疑程度。实时显示信号强度，辅助判断设备距离与大致方位。 【检测指南】 内置专业排查教程，提供线下人工检查技巧，指导你系统性排查常见隐藏点位，无工具也可自查。 核心功能： 多功能合一：集成磁场、红外、WiFi、蓝牙全维度检测 操作简单：无需专业知识，上手即用 实时反馈：搭配震动预警提醒 可视化界面：智能仪表+彩色风险标识 隐私保障：所有检测仅本地运行，绝不上传任何数据 重要提示： 本应用依靠手机内置传感器辅助检测，检测结果仅供参考。若存在高度安全顾虑，请使用专业检测仪器或联系相关部门处理。 【法律声明】 使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策： https://camera-detector-pro.netlify.app/privacy.html",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/98/f4/2a98f4ee-5ee7-ff68-7501-3a1ace9d76ac/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/98/f4/2a98f4ee-5ee7-ff68-7501-3a1ace9d76ac/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+    "sellerName": "三三 杨",
+    "artistName": "三三 杨",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/45/3e/5d453e04-2d4a-ab87-f8f7-096cbedc9b10/image1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/3f/d8/a83fd88a-49ff-d3c0-8167-763817b02070/image3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/0b/35/880b35f9-98e4-dff1-37df-b2e63fa909b3/image5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/ad/c3/68adc366-6c85-a845-ff98-f6c4d28fb7c9/image4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/61/ff/3e61ffa8-84bc-c194-a7fe-c8646ab1fadd/image6.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1786574242987
+  },
+  "6797372559": {
+    "name": "五子棋 - AI 对弈",
+    "trackName": "五子棋 - AI 对弈",
+    "maxPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "minPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786574276972,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E4%BA%94%E5%AD%90%E6%A3%8B-ai-%E5%AF%B9%E5%BC%88/id6797372559?uo=4",
+    "description": "gomoku - ai 将经典十五路五子棋、本地 AI 对弈和棋盘复盘整合在一个简洁的应用中。 三种对弈方式： 本地双人：在同一台设备上与朋友对弈 本地 AI：无需网络和 API Key，在设备上直接挑战 AI 云端 AI：连接你自己的模型接口和模型 提升每一步： 在棋盘上获得本地提示，查看推荐落点和对手意图 对局结束后逐手复盘，检查每一步的风险与更合理的走法 自动保存历史棋局，并为双方表现评分 在真实棋盘局面中查看分析，而不是脱离棋盘阅读文字结论 按自己的方式游玩： 选择玩家先手或 AI 先手 调整 AI 思考强度 自定义背景、触感反馈、背景音乐和落子音效 支持 OpenAI 兼容与 Anthropic 协议，可选择接口返回的模型或手动填写模型名称 本地棋局、设置和 API Secret 保存在当前设备。只有在你主动使用云端 AI 时，棋局请求才会直接发送到你配置的服务商，不经过游戏服务器。 云端 AI 功能需要用户自行提供有效的接口、密钥和模型，相关服务的可用性与费用由对应服务商决定。",
+    "fullDescription": "gomoku - ai 将经典十五路五子棋、本地 AI 对弈和棋盘复盘整合在一个简洁的应用中。 三种对弈方式： 本地双人：在同一台设备上与朋友对弈 本地 AI：无需网络和 API Key，在设备上直接挑战 AI 云端 AI：连接你自己的模型接口和模型 提升每一步： 在棋盘上获得本地提示，查看推荐落点和对手意图 对局结束后逐手复盘，检查每一步的风险与更合理的走法 自动保存历史棋局，并为双方表现评分 在真实棋盘局面中查看分析，而不是脱离棋盘阅读文字结论 按自己的方式游玩： 选择玩家先手或 AI 先手 调整 AI 思考强度 自定义背景、触感反馈、背景音乐和落子音效 支持 OpenAI 兼容与 Anthropic 协议，可选择接口返回的模型或手动填写模型名称 本地棋局、设置和 API Secret 保存在当前设备。只有在你主动使用云端 AI 时，棋局请求才会直接发送到你配置的服务商，不经过游戏服务器。 云端 AI 功能需要用户自行提供有效的接口、密钥和模型，相关服务的可用性与费用由对应服务商决定。",
+    "summaryDescription": "gomoku - ai 将经典十五路五子棋、本地 AI 对弈和棋盘复盘整合在一个简洁的应用中。 三种对弈方式： 本地双人：在同一台设备上与朋友对弈 本地 AI：无需网络和 API Key，在设备上直接挑战 AI 云端 AI：连接你自己的模型接口和模型 提升每一步： 在棋盘上获得本地提示，查看推荐落点和对手意图 对局结束后逐手复盘，检查每一步的风险与更合理的走法 自动保存历史棋局，并为双方表现评分 在真实棋盘局面中查看分析，而不是脱离棋盘阅读文字结论 按自己的方式游玩： 选择玩家先手或 AI 先手 调整 AI 思考强度 自定义背景、触感反馈、背景音乐和落子音效 支持 OpenAI 兼容与 Anthropic 协议，可选择接口返回的模型或手动填写模型名称 本地棋局、设置和 API Secret 保存在当前设备。只有在你主动使用云端 AI 时，棋局请求才会直接发送到你配置的服务商，不经过游戏服务器。 云端 AI 功能需要用户自行提供有效的接口、密钥和模型，相关服务的可用性与费用由对应服务商决定。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/ac/82/e4ac82e5-4aa8-4abf-8e51-12ae526c3b84/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/ac/82/e4ac82e5-4aa8-4abf-8e51-12ae526c3b84/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "华南 梁",
+    "artistName": "华南 梁",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/e6/88/86e68851-0b43-196b-14c9-6ebed9515373/01-iphone-home.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/a9/71/92a97118-b10f-54fd-e7a4-fb1cbf67630c/02-iphone-ai-game.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/35/37/a53537dc-1ecb-75cb-90d9-83be2e237421/03-iphone-ai-assist.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/88/d8/4588d820-1914-adc5-9cb8-d385d0d8dd8b/04-iphone-move-log.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/ca/1b/f1ca1b76-6238-0781-dfc5-8d735a028bb3/05-iphone-situation-analysis.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/2e/0d/032e0d14-a135-8019-e390-93245bbd4b77/06-iphone-history-board.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/83/c2/5083c2ca-8fb9-53e0-0837-1da97cce6dc3/01-ipad-home.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/05/4c/dd054cfd-9d6c-0a23-cd01-7174a2244d28/02-ipad-ai-game.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/ad/3f/8dad3f43-7b7f-a684-af11-ef51c1beac4a/03-ipad-ai-assist.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f7/9b/82f79b5f-109d-7a8c-2670-575dcd406e01/04-ipad-move-log.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/64/df/f464df18-8e5a-9354-b2f7-f710ac42a1f8/05-ipad-situation-analysis.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/e4/22/cee42214-b3d7-e5fd-00ae-00cc35c1a5a6/06-ipad-history-board.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1786574242987
+  },
+  "6766810579": {
+    "name": "收纳吧",
+    "trackName": "收纳吧",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786574276972,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%94%B6%E7%BA%B3%E5%90%A7/id6766810579?uo=4",
+    "description": "无限层级空间管理：支持“房间 > 柜子 > 抽屉”式的无限层级位置设定，让每一件物品都有迹可循。 智能分类系统：通过自定义分类与图标，快速筛选电子产品、工具、衣物等不同品类。 极致影像记录：内置照片录入功能，并采用自研压缩算法优化存储空间，在保持清晰的同时节省手机内存。 全局快速搜索：支持名称、备注、分类多维度检索，即刻定位物品所在的“物理路径”。 快捷扫码联动：集成 iOS 原生 VisionKit，支持通过条码/二维码直接跳转位置或物品，实现“扫码即达”。 数据安全与备份：基于 SwiftData 构建，支持 JSON 格式的一键导出备份与无损恢复，数据完全归您所有。",
+    "fullDescription": "无限层级空间管理：支持“房间 > 柜子 > 抽屉”式的无限层级位置设定，让每一件物品都有迹可循。 智能分类系统：通过自定义分类与图标，快速筛选电子产品、工具、衣物等不同品类。 极致影像记录：内置照片录入功能，并采用自研压缩算法优化存储空间，在保持清晰的同时节省手机内存。 全局快速搜索：支持名称、备注、分类多维度检索，即刻定位物品所在的“物理路径”。 快捷扫码联动：集成 iOS 原生 VisionKit，支持通过条码/二维码直接跳转位置或物品，实现“扫码即达”。 数据安全与备份：基于 SwiftData 构建，支持 JSON 格式的一键导出备份与无损恢复，数据完全归您所有。",
+    "summaryDescription": "无限层级空间管理：支持“房间 > 柜子 > 抽屉”式的无限层级位置设定，让每一件物品都有迹可循。 智能分类系统：通过自定义分类与图标，快速筛选电子产品、工具、衣物等不同品类。 极致影像记录：内置照片录入功能，并采用自研压缩算法优化存储空间，在保持清晰的同时节省手机内存。 全局快速搜索：支持名称、备注、分类多维度检索，即刻定位物品所在的“物理路径”。 快捷扫码联动：集成 iOS 原生 VisionKit，支持通过条码/二维码直接跳转位置或物品，实现“扫码即达”。 数据安全与备份：基于 SwiftData 构建，支持 JSON 格式的一键导出备份与无损恢复，数据完全归您所有。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/2d/20/3b2d20ce-cb3e-f39d-335f-a24d44357302/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/2d/20/3b2d20ce-cb3e-f39d-335f-a24d44357302/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "延春 高",
+    "artistName": "延春 高",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/92/07/9f9207e5-cc8a-1e43-0902-56f5c734ac69/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-05-07_at_04.31.31.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/56/00/bb560085-ccd1-b293-9995-4b302b09978c/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-05-07_at_04.30.34.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/5c/23/be5c233f-f543-4ba2-ac47-03f37df87b81/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-05-07_at_04.31.30.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/53/28/325328c9-aaad-1cce-3af1-21e3876d89ca/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-05-07_at_04.31.30.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/db/b0/2edbb025-8ec6-a617-13fd-d0e7aedd1b33/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-05-07_at_04.30.45.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/e9/50/f8e95022-48ac-5742-eff8-c62acf80b940/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-05-08_at_04.57.52.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/30/8b/b9308b7f-2ebd-2464-17e9-784102c330eb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-07_at_05.26.10.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/18/9c/23189ca2-80c2-b2b6-ac09-89e7011c6252/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-07_at_05.26.18.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/55/28/3d55284e-b2a3-70ab-22a8-8f0991f837f8/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-07_at_05.26.38.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/b5/5a/12b55a0e-09d7-4ef1-9ba8-69f26cdcd2e0/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-07_at_05.26.34.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/0c/f5/ed0cf524-a885-359b-a8ca-5bae89f5a92b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-07_at_05.26.58.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/0b/e8/f00be84a-58f8-1723-cb16-9af28085b615/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-07_at_05.26.27.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1786574248375
   }
 }
