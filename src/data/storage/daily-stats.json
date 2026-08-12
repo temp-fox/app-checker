@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": 1786503840971,
+    "cn": {
+      "total": 4,
+      "price": 3,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6747823925,
+          "name": "族谱制作",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6761967682,
+          "name": "BeautyNote : 美业笔记·客户款式管理、记账",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 284942940,
+          "name": "Morse-It",
+          "type": "iap",
+          "detail": "Morse-it Social Club: ¥298.00 → ¥28.00"
+        },
+        {
+          "id": 1610874968,
+          "name": "Amuse: Music Player",
+          "type": "price",
+          "detail": "¥28.00 → ¥8.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786492663716,
     "cn": {
       "total": 1,
@@ -3481,34 +3515,6 @@
           "name": "Talking Magic 8-Ball",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785629849267,
-    "cn": {
-      "total": 3,
-      "price": 3,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6757991090,
-          "name": "Worldmarks",
-          "type": "price",
-          "detail": "¥68.00 → ¥28.00"
-        },
-        {
-          "id": 6761397845,
-          "name": "Heliodose",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 6759224538,
-          "name": "ScreenDoctor PRO",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
         }
       ]
     }

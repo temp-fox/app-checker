@@ -2,6 +2,18 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1383181685,
+      "name": {
+        "cn": "DWG to PDF Converter Pro"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1786498887392,
+      "_discountType": "app"
+    },
+    {
       "id": 1227932062,
       "name": {
         "cn": "GeoShred Play"
