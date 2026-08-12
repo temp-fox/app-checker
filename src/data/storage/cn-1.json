@@ -27486,6 +27486,14 @@
     "history": [
       [
         {
+          "timestamp": 1786546451788,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786025020195,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -37532,14 +37540,22 @@
     "name": "photo2movie",
     "trackName": "photo2movie",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费"
+      "price": 8,
+      "formattedPrice": "¥8.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786546451788,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784472822864,
@@ -40867,9 +40883,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/fieldscaper/id1006624104?uo=4",
-    "description": "先进的现场录音机与声音变形引擎以及一系列适用于 iPad 和 iPhone 的即用型动态预设相结合。探索新的方法，从任何环境录音或通过应用程序间音频或音频总线从其他应用程序录制的样本中创建和构造不寻常且令人兴奋的声音。主要优点是您可以在单个应用程序中记录和修改示例。您可以录制声音和噪音，删除不需要的部分，然后使用预设来提供全新的声音或创建壮观的音景和纹理以将它们用作此应用程序中的循环。和",
-    "fullDescription": "先进的现场录音机与声音变形引擎以及一系列适用于 iPad 和 iPhone 的即用型动态预设相结合。探索新的方法，从任何环境录音或通过应用程序间音频或音频总线从其他应用程序录制的样本中创建和构造不寻常且令人兴奋的声音。主要优点是您可以在单个应用程序中记录和修改示例。您可以录制声音和噪音，删除不需要的部分，然后使用预设来提供全新的声音或创建壮观的音景和纹理以将它们用作此应用程序中的循环。和",
-    "summaryDescription": "先进的现场录音机与声音变形引擎以及一系列适用于 iPad 和 iPhone 的即用型动态预设相结合。探索新的方法，从任何环境录音或通过应用程序间音频或音频总线从其他应用程序录制的样本中创建和构造不寻常且令人兴奋的声音。主要优点是您可以在单个应用程序中记录和修改示例。您可以录制声音和噪音，删除不需要的部分，然后使用预设来提供全新的声音或创建壮观的音景和纹理以将它们用作此应用程序中的循环。和",
+    "description": "先进的现场录音机与声音变形引擎以及一系列适用于 iPad 和 iPhone 的即用型动态预设相结合。探索新的方法，从任何环境录音或通过应用程序间音频或音频总线从其他应用程序录制的样本中创建和构造不寻常且令人兴奋的声音。主要优点是您可以在单个应用程序中一路记录和修改示例。您可以录制声音和噪音，删除不需要的部分，然后使用预设来提供全新的声音或创建壮观的音景和纹理以将它们用作此应用程序中的循环。和",
+    "fullDescription": "先进的现场录音机与声音变形引擎以及一系列适用于 iPad 和 iPhone 的即用型动态预设相结合。探索新的方法，从任何环境录音或通过应用程序间音频或音频总线从其他应用程序录制的样本中创建和构造不寻常且令人兴奋的声音。主要优点是您可以在单个应用程序中一路记录和修改示例。您可以录制声音和噪音，删除不需要的部分，然后使用预设来提供全新的声音或创建壮观的音景和纹理以将它们用作此应用程序中的循环。和",
+    "summaryDescription": "先进的现场录音机与声音变形引擎以及一系列适用于 iPad 和 iPhone 的即用型动态预设相结合。探索新的方法，从任何环境录音或通过应用程序间音频或音频总线从其他应用程序录制的样本中创建和构造不寻常且令人兴奋的声音。主要优点是您可以在单个应用程序中一路记录和修改示例。您可以录制声音和噪音，删除不需要的部分，然后使用预设来提供全新的声音或创建壮观的音景和纹理以将它们用作此应用程序中的循环。和",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/17/14/57/17145786-42c8-d1a6-96ff-8912246efae7/AppIcon-1x_U007emarketing-0-9-0-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/17/14/57/17145786-42c8-d1a6-96ff-8912246efae7/AppIcon-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.jpg",
     "sellerName": "Igor Vasiliev",
@@ -48146,10 +48162,24 @@
       "Premium": "¥0.00",
       "Passcode Feature Plan": "¥15.00",
       "Ad Blocker Plan": "¥0.00",
-      "Annual Subscription": "¥98.00",
-      "Monthly Subscription": "¥15.00"
+      "Annual Subscription": "¥68.00",
+      "Monthly Subscription": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786546451788,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium": "¥398.00",
+            "Passcode Feature Plan": "¥15.00",
+            "Ad Blocker Plan": "¥22.00",
+            "Monthly Subscription": "¥8.00",
+            "Annual Subscription": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785756194685,
@@ -48402,9 +48432,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/clipbox-%E5%89%AA%E8%B4%B4%E6%9D%BF%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/id1036140929?uo=4",
-    "description": "您的 iPhone 剪贴板一次只能保存一条记录。ClipBox Pro 能为您保存所有内容。 告别数据丢失！ClipBox Pro 是 iPhone 和 iPad 上最强大的剪贴板管理、历史记录保存与复制粘贴整理工具。在您复制的瞬间，自动保存、搜索、整理并无缝同步文本、链接、图片和文件。 强大功能与深度定制 实时设备同步：无需任何操作，瞬间在您的所有设备之间同步剪贴板。 置顶常用项：将最重要、最常用的文本片段永久固定在列表顶部。 自定义命名：为保存的任何项目重命名，让搜索和整理毫不费力。 高级布局控制：密集的三列网格视图。支持模糊或完全隐藏缩略图，开启“防窥模式”，保护屏幕免受他人窥探。 手动备份与恢复：全面掌控您的数据。随时导出、加密和恢复您的剪贴板历史记录。 文件夹与标签：为您的历史记录分类，瞬间找到任何剪辑。 智能搜索：按内容类型筛选、按日期排序，或通过关键字在几秒钟内找到所需内容。 批量操作：一次性删除、归档或移动多个剪贴板项目。 无缝点击预览：轻触任何项目，即可快速无Bug地预览文本、链接或媒体。 坚如磐石的隐私与安全 100% 离线与加密：完全的端到端隐私保护。除非您主动选择同步，否则您的数据绝不会离开设备。 密码锁保管库：唯一内置锁定功能的剪贴板管理器。使用 Face ID（面容 ID）、Touch ID 或自定义密码保护单个剪辑或整个应用。 专属键盘扩展 — 随时随地，一键粘贴 ClipBox Pro 键盘扩展允许您直接从历史记录中粘贴到任何应用（信息、电子邮件、备忘录、浏览器），而无需切换屏幕。轻触任何保存的剪辑即可瞬间粘贴。这才是复制和粘贴本该有的样子。 支持所有内容类型 纯文本、富文本和带格式的备忘录 URL 和网页链接（带自动预览） 图片（JPEG、PNG、GIF、HEIC 和屏幕截图） 视频剪辑和媒体文件 音频文件和语音备忘录 PDF 文档 专为开发者准备的代码片段 跨应用无缝保存 共享扩展：使用 iOS 的“共享”菜单，将任何内容一键直接保存到 ClipBox Pro。 动作扩展：在任何地方选择文本或文件，直接推送到您的保管库，即使在限制标准复制行为的应用中也能完美运行。 谁在使用 ClipBox Pro？ 开发者：保存代码片段、API 密钥和终端命令。直接从键盘粘贴，保持专注不被打断。 创作者与作家：在调研时保存每一句引言、链接和参考资料，写作时通过键盘直接调用。 学生：在 iPad 上保存论文引用和文章 URL。赶截止日期时，瞬间找到所有资料。 客户服务：存储快捷回复和特定链接。通过键盘一键粘贴最准确的答案。 专业职场人士：在军用级加密和 Face ID 的保护下，安全存储敏感的客户数据、地址和账户详细信息。 国际化语言支持 我们为全球用户提供 20 种语言的全面本地化支持：英语、日语、德语、法语、韩语、西班牙语、葡萄牙语、中文（简体和繁体）、意大利语、荷兰语、俄语、阿拉伯语、土耳其语、印度尼西亚语、波兰语、泰语、越南语、印地语和乌克兰语。 停止重复输入，释放您的效率！立即下载 ClipBox Pro，全面掌控您的剪贴板！ 升级至高级版 (GO PREMIUM) 订阅计划：灵活计费，解锁所有高级功能。 终身买断：一次付费，永久享受。 价格因地区而异，并以当地货币结算。除非在当前计费周期结束前至少 24 小时取消，否则订阅将自动续期。您可以随时在 iTunes 账户设置中管理您的订阅计划。 隐私政策：https://appreator.com/privacy-policy/ 使用条款：https://appreator.com/terms-of-use/ 技术支持：admin@appreator.com",
-    "fullDescription": "您的 iPhone 剪贴板一次只能保存一条记录。ClipBox Pro 能为您保存所有内容。 告别数据丢失！ClipBox Pro 是 iPhone 和 iPad 上最强大的剪贴板管理、历史记录保存与复制粘贴整理工具。在您复制的瞬间，自动保存、搜索、整理并无缝同步文本、链接、图片和文件。 强大功能与深度定制 实时设备同步：无需任何操作，瞬间在您的所有设备之间同步剪贴板。 置顶常用项：将最重要、最常用的文本片段永久固定在列表顶部。 自定义命名：为保存的任何项目重命名，让搜索和整理毫不费力。 高级布局控制：密集的三列网格视图。支持模糊或完全隐藏缩略图，开启“防窥模式”，保护屏幕免受他人窥探。 手动备份与恢复：全面掌控您的数据。随时导出、加密和恢复您的剪贴板历史记录。 文件夹与标签：为您的历史记录分类，瞬间找到任何剪辑。 智能搜索：按内容类型筛选、按日期排序，或通过关键字在几秒钟内找到所需内容。 批量操作：一次性删除、归档或移动多个剪贴板项目。 无缝点击预览：轻触任何项目，即可快速无Bug地预览文本、链接或媒体。 坚如磐石的隐私与安全 100% 离线与加密：完全的端到端隐私保护。除非您主动选择同步，否则您的数据绝不会离开设备。 密码锁保管库：唯一内置锁定功能的剪贴板管理器。使用 Face ID（面容 ID）、Touch ID 或自定义密码保护单个剪辑或整个应用。 专属键盘扩展 — 随时随地，一键粘贴 ClipBox Pro 键盘扩展允许您直接从历史记录中粘贴到任何应用（信息、电子邮件、备忘录、浏览器），而无需切换屏幕。轻触任何保存的剪辑即可瞬间粘贴。这才是复制和粘贴本该有的样子。 支持所有内容类型 纯文本、富文本和带格式的备忘录 URL 和网页链接（带自动预览） 图片（JPEG、PNG、GIF、HEIC 和屏幕截图） 视频剪辑和媒体文件 音频文件和语音备忘录 PDF 文档 专为开发者准备的代码片段 跨应用无缝保存 共享扩展：使用 iOS 的“共享”菜单，将任何内容一键直接保存到 ClipBox Pro。 动作扩展：在任何地方选择文本或文件，直接推送到您的保管库，即使在限制标准复制行为的应用中也能完美运行。 谁在使用 ClipBox Pro？ 开发者：保存代码片段、API 密钥和终端命令。直接从键盘粘贴，保持专注不被打断。 创作者与作家：在调研时保存每一句引言、链接和参考资料，写作时通过键盘直接调用。 学生：在 iPad 上保存论文引用和文章 URL。赶截止日期时，瞬间找到所有资料。 客户服务：存储快捷回复和特定链接。通过键盘一键粘贴最准确的答案。 专业职场人士：在军用级加密和 Face ID 的保护下，安全存储敏感的客户数据、地址和账户详细信息。 国际化语言支持 我们为全球用户提供 20 种语言的全面本地化支持：英语、日语、德语、法语、韩语、西班牙语、葡萄牙语、中文（简体和繁体）、意大利语、荷兰语、俄语、阿拉伯语、土耳其语、印度尼西亚语、波兰语、泰语、越南语、印地语和乌克兰语。 停止重复输入，释放您的效率！立即下载 ClipBox Pro，全面掌控您的剪贴板！ 升级至高级版 (GO PREMIUM) 订阅计划：灵活计费，解锁所有高级功能。 终身买断：一次付费，永久享受。 价格因地区而异，并以当地货币结算。除非在当前计费周期结束前至少 24 小时取消，否则订阅将自动续期。您可以随时在 iTunes 账户设置中管理您的订阅计划。 隐私政策：https://appreator.com/privacy-policy/ 使用条款：https://appreator.com/terms-of-use/ 技术支持：admin@appreator.com",
-    "summaryDescription": "您的 iPhone 剪贴板一次只能保存一条记录。ClipBox Pro 能为您保存所有内容。 告别数据丢失！ClipBox Pro 是 iPhone 和 iPad 上最强大的剪贴板管理、历史记录保存与复制粘贴整理工具。在您复制的瞬间，自动保存、搜索、整理并无缝同步文本、链接、图片和文件。 强大功能与深度定制 实时设备同步：无需任何操作，瞬间在您的所有设备之间同步剪贴板。 置顶常用项：将最重要、最常用的文本片段永久固定在列表顶部。 自定义命名：为保存的任何项目重命名，让搜索和整理毫不费力。 高级布局控制：密集的三列网格视图。支持模糊或完全隐藏缩略图，开启“防窥模式”，保护屏幕免受他人窥探。 手动备份与恢复：全面掌控您的数据。随时导出、加密和恢复您的剪贴板历史记录。 文件夹与标签：为您的历史记录分类，瞬间找到任何剪辑。 智能搜索：按内容类型筛选、按日期排序，或通过关键字在几秒钟内找到所需内容。 批量操作：一次性删除、归档或移动多个剪贴板项目。 无缝点击预览：轻触任何项目，即可快速无Bug地预览文本、链接或媒体。 坚如磐石的隐私与安全 100% 离线与加密：完全的端到端隐私保护。除非您主动选择同步，否则您的数据绝不会离开设备。 密码锁保管库：唯一内置锁定功能的剪贴板管理器。使用 Face ID（面容 ID）、Touch ID 或自定义密码保护单个剪辑或整个应用。 专属键盘扩展 — 随时随地，一键粘贴 ClipBox Pro 键盘扩展允许您直接从历史记录中粘贴到任何应用（信息、电子邮件、备忘录、浏览器），而无需切换屏幕。轻触任何保存的剪辑即可瞬间粘贴。这才是复制和粘贴本该有的样子。 支持所有内容类型 纯文本、富文本和带格式的备忘录 URL 和网页链接（带自动预览） 图片（JPEG、PNG、GIF、HEIC 和屏幕截图） 视频剪辑和媒体文件 音频文件和语音备忘录 PDF 文档 专为开发者准备的代码片段 跨应用无缝保存 共享扩展：使用 iOS 的“共享”菜单，将任何内容一键直接保存到 ClipBox Pro。 动作扩展：在任何地方选择文本或文件，直接推送到您的保管库，即使在限制标准复制行为的应用中也能完美运行。 谁在使用 ClipBox Pro？ 开发者：保存代码片段、API 密钥和终端命令。直接从键盘粘贴，保持专注不被打断。 创作者与作家：在调研时保存每一句引言、链接和参考资料，写作时通过键盘直接调用。 学生：在 iPad 上保存论文引用和文章 URL。赶截止日期时，瞬间找到所有资料。 客户服务：存储快捷回复和特定链接。通过键盘一键粘贴最准确的答案。 专业职场人士：在军用级加密和 Face ID 的保护下，安全存储敏感的客户数据、地址和账户详细信息。 国际化语言支持 我们为全球用户提供 20 种语言的全面本地化支持：英语、日语、德语、法语、韩语、西班牙语、葡萄牙语、中文（简体和繁体）、意大利语、荷兰语、俄语、阿拉伯语、土耳其语、印度尼西亚语、波兰语、泰语、越南语、印地语和乌克兰语。 停止重复输入，释放您的效率！立即下载 ClipBox Pro，全面掌控您的剪贴板！ 升级至高级版 (GO PREMIUM) 订阅计划：灵活计费，解锁所有高级功能。 终身买断：一次付费，永久享受。 价格因地区而异，并以当地货币结算。除非在当前计费周期结束前至少 24 小时取消，否则订阅将自动续期。您可以随时在 iTunes 账户设置中管理您的订阅计划。 隐私政策：https://appreator.com/privacy-policy/ 使用条款：https://appreator.com/terms-of-use/ 技术支持：admin@appreator.com",
+    "description": "您的 iPhone 剪贴板一次只能保存一条记录。ClipBox Pro 能为您保存所有内容。 告别数据丢失！ClipBox Pro 是 iPhone 和 iPad 上最强大的剪贴板管理、历史记录保存与复制粘贴整理工具。在您复制的瞬间，自动保存、搜索、整理并无缝同步文本、链接、图片和文件。 强大功能与深度定制 实时设备同步：无需任何操作，瞬间在您的所有设备之间同步剪贴板。 置顶常用项：将最重要、最常用的文本片段永久固定在列表顶部。 自定义命名：为保存的任何项目重命名，让搜索和整理毫不费力。 高级布局控制：密集的三列网格视图。支持模糊或完全隐藏缩略图，开启“防窥模式”，保护屏幕免受他人窥探。 手动备份与恢复：全面掌控您的数据。随时导出、加密和恢复您的剪贴板历史记录。 文件夹与标签：为您的历史记录分类，瞬间找到任何剪辑。 智能搜索：按内容类型筛选、按日期排序，或通过关键字在几秒钟内找到所需内容。 批量操作：一次性删除、归档或移动多个剪贴板项目。 无缝点击预览：轻触任何项目，即可快速无Bug地预览文本、链接或媒体。 坚如磐石的隐私与安全 100% 离线与加密：完全的端到端隐私保护。除非您主动选择同步，否则您的数据绝不会离开设备。 密码锁保管库：唯一内置锁定功能的剪贴板管理器。使用 Face ID（面容 ID）、Touch ID 或自定义密码保护单个剪辑或整个应用。 专属键盘扩展 — 随时随",
+    "fullDescription": "您的 iPhone 剪贴板一次只能保存一条记录。ClipBox Pro 能为您保存所有内容。 告别数据丢失！ClipBox Pro 是 iPhone 和 iPad 上最强大的剪贴板管理、历史记录保存与复制粘贴整理工具。在您复制的瞬间，自动保存、搜索、整理并无缝同步文本、链接、图片和文件。 强大功能与深度定制 实时设备同步：无需任何操作，瞬间在您的所有设备之间同步剪贴板。 置顶常用项：将最重要、最常用的文本片段永久固定在列表顶部。 自定义命名：为保存的任何项目重命名，让搜索和整理毫不费力。 高级布局控制：密集的三列网格视图。支持模糊或完全隐藏缩略图，开启“防窥模式”，保护屏幕免受他人窥探。 手动备份与恢复：全面掌控您的数据。随时导出、加密和恢复您的剪贴板历史记录。 文件夹与标签：为您的历史记录分类，瞬间找到任何剪辑。 智能搜索：按内容类型筛选、按日期排序，或通过关键字在几秒钟内找到所需内容。 批量操作：一次性删除、归档或移动多个剪贴板项目。 无缝点击预览：轻触任何项目，即可快速无Bug地预览文本、链接或媒体。 坚如磐石的隐私与安全 100% 离线与加密：完全的端到端隐私保护。除非您主动选择同步，否则您的数据绝不会离开设备。 密码锁保管库：唯一内置锁定功能的剪贴板管理器。使用 Face ID（面容 ID）、Touch ID 或自定义密码保护单个剪辑或整个应用。 专属键盘扩展 — 随时随",
+    "summaryDescription": "您的 iPhone 剪贴板一次只能保存一条记录。ClipBox Pro 能为您保存所有内容。 告别数据丢失！ClipBox Pro 是 iPhone 和 iPad 上最强大的剪贴板管理、历史记录保存与复制粘贴整理工具。在您复制的瞬间，自动保存、搜索、整理并无缝同步文本、链接、图片和文件。 强大功能与深度定制 实时设备同步：无需任何操作，瞬间在您的所有设备之间同步剪贴板。 置顶常用项：将最重要、最常用的文本片段永久固定在列表顶部。 自定义命名：为保存的任何项目重命名，让搜索和整理毫不费力。 高级布局控制：密集的三列网格视图。支持模糊或完全隐藏缩略图，开启“防窥模式”，保护屏幕免受他人窥探。 手动备份与恢复：全面掌控您的数据。随时导出、加密和恢复您的剪贴板历史记录。 文件夹与标签：为您的历史记录分类，瞬间找到任何剪辑。 智能搜索：按内容类型筛选、按日期排序，或通过关键字在几秒钟内找到所需内容。 批量操作：一次性删除、归档或移动多个剪贴板项目。 无缝点击预览：轻触任何项目，即可快速无Bug地预览文本、链接或媒体。 坚如磐石的隐私与安全 100% 离线与加密：完全的端到端隐私保护。除非您主动选择同步，否则您的数据绝不会离开设备。 密码锁保管库：唯一内置锁定功能的剪贴板管理器。使用 Face ID（面容 ID）、Touch ID 或自定义密码保护单个剪辑或整个应用。 专属键盘扩展 — 随时随",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b8/56/19b85659-c184-a41c-9e2e-0119c58f916e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b8/56/19b85659-c184-a41c-9e2e-0119c58f916e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
     "sellerName": "Nitin Gohel",
@@ -58011,10 +58041,22 @@
       "price": 0,
       "formattedPrice": "免费",
       "iLockBox Lifetime Access": "¥0.00",
-      "iLockBox Premium": "¥15.00",
-      "iLockBox Premium Yearly": "¥98.00"
+      "iLockBox Premium": "¥8.00",
+      "iLockBox Premium Yearly": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786546451788,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "iLockBox Lifetime Access": "¥328.00",
+            "iLockBox Premium": "¥8.00",
+            "iLockBox Premium Yearly": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784991869226,
@@ -58169,9 +58211,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/ilockbox-%E7%85%A7%E7%89%87%E4%BF%9D%E9%99%A9%E7%AE%B1-%E5%BA%94%E7%94%A8%E9%94%81-%E9%9A%90%E8%97%8F%E7%85%A7%E7%89%87/id1064360258?uo=4",
-    "description": "保护您的私密照片、视频和应用 iLockBox 可将您的 iPhone 变成安全可靠的私密保险库，用于存储照片、视频和个人文件。通过强大的安全与隐私功能，保护您的重要回忆、敏感数据和私人内容。 无论您是想隐藏照片、保护视频、锁定应用，还是创建私密相册，iLockBox 都能提供您所需的一切工具，帮助您守护个人隐私。 主要功能 隐藏私密照片和视频 支持 Face ID、Touch ID 和 PIN 密码保护 创建私密和隐藏相册 锁定重要应用 保护敏感文件和个人内容 高级安全功能 计算器模式，伪装更自然 伪装保险库，增强隐私保护 非授权访问时自动拍摄入侵者照片 快速退出功能，立即保护隐私 隐身模式，提供更高等级的保密性 私密文件管理 轻松导入照片和视频 使用私密相册整理文件 内置私密相机 便捷管理照片、视频和文件夹 安全移动和整理文件 备份与恢复 加密备份选项 安全恢复数据 可靠保护重要回忆 以隐私为核心的数据存储方式 为什么选择 ILOCKBOX？ 许多用户希望找到一种安全可靠的方法来隐藏私人照片、保护视频以及保障个人数据安全。iLockBox 将强大的安全性、易用性和先进的隐私保护功能整合在同一款应用中。 订阅与终身访问 iLockBox 提供灵活的 Premium 方案： 月度订阅 年度订阅 一次购买，终身使用 价格可能因国家或地区而异，并以当地货币结算。除非您在当前订阅周期结束前至少 24 小时取消，否则订阅将自动续费。您可以随时在 App Store 账户设置中管理或取消订阅。 隐私政策： https://appreator.com/privacy-policy/ 使用条款： https://appreator.com/terms-of-use/ 支持： admin@appreator.com",
-    "fullDescription": "保护您的私密照片、视频和应用 iLockBox 可将您的 iPhone 变成安全可靠的私密保险库，用于存储照片、视频和个人文件。通过强大的安全与隐私功能，保护您的重要回忆、敏感数据和私人内容。 无论您是想隐藏照片、保护视频、锁定应用，还是创建私密相册，iLockBox 都能提供您所需的一切工具，帮助您守护个人隐私。 主要功能 隐藏私密照片和视频 支持 Face ID、Touch ID 和 PIN 密码保护 创建私密和隐藏相册 锁定重要应用 保护敏感文件和个人内容 高级安全功能 计算器模式，伪装更自然 伪装保险库，增强隐私保护 非授权访问时自动拍摄入侵者照片 快速退出功能，立即保护隐私 隐身模式，提供更高等级的保密性 私密文件管理 轻松导入照片和视频 使用私密相册整理文件 内置私密相机 便捷管理照片、视频和文件夹 安全移动和整理文件 备份与恢复 加密备份选项 安全恢复数据 可靠保护重要回忆 以隐私为核心的数据存储方式 为什么选择 ILOCKBOX？ 许多用户希望找到一种安全可靠的方法来隐藏私人照片、保护视频以及保障个人数据安全。iLockBox 将强大的安全性、易用性和先进的隐私保护功能整合在同一款应用中。 订阅与终身访问 iLockBox 提供灵活的 Premium 方案： 月度订阅 年度订阅 一次购买，终身使用 价格可能因国家或地区而异，并以当地货币结算。除非您在当前订阅周期结束前至少 24 小时取消，否则订阅将自动续费。您可以随时在 App Store 账户设置中管理或取消订阅。 隐私政策： https://appreator.com/privacy-policy/ 使用条款： https://appreator.com/terms-of-use/ 支持： admin@appreator.com",
-    "summaryDescription": "保护您的私密照片、视频和应用 iLockBox 可将您的 iPhone 变成安全可靠的私密保险库，用于存储照片、视频和个人文件。通过强大的安全与隐私功能，保护您的重要回忆、敏感数据和私人内容。 无论您是想隐藏照片、保护视频、锁定应用，还是创建私密相册，iLockBox 都能提供您所需的一切工具，帮助您守护个人隐私。 主要功能 隐藏私密照片和视频 支持 Face ID、Touch ID 和 PIN 密码保护 创建私密和隐藏相册 锁定重要应用 保护敏感文件和个人内容 高级安全功能 计算器模式，伪装更自然 伪装保险库，增强隐私保护 非授权访问时自动拍摄入侵者照片 快速退出功能，立即保护隐私 隐身模式，提供更高等级的保密性 私密文件管理 轻松导入照片和视频 使用私密相册整理文件 内置私密相机 便捷管理照片、视频和文件夹 安全移动和整理文件 备份与恢复 加密备份选项 安全恢复数据 可靠保护重要回忆 以隐私为核心的数据存储方式 为什么选择 ILOCKBOX？ 许多用户希望找到一种安全可靠的方法来隐藏私人照片、保护视频以及保障个人数据安全。iLockBox 将强大的安全性、易用性和先进的隐私保护功能整合在同一款应用中。 订阅与终身访问 iLockBox 提供灵活的 Premium 方案： 月度订阅 年度订阅 一次购买，终身使用 价格可能因国家或地区而异，并以当地货币结算。除非您在当前订阅周期结束前至少 24 小时取消，否则订阅将自动续费。您可以随时在 App Store 账户设置中管理或取消订阅。 隐私政策： https://appreator.com/privacy-policy/ 使用条款： https://appreator.com/terms-of-use/ 支持： admin@appreator.com",
+    "description": "保护您的私密照片、视频和应用 iLockBox 可将您的 iPhone 变成安全可靠的私密保险库，用于存储照片、视频和个人文件。通过强大的安全与隐私功能，保护您的重要回忆、敏感数据和私人内容。 无论您是想隐藏照片、保护视频、锁定应用，还是创建私密相册，iLockBox 都能提供您所需的一切工具，帮助您守护个人隐私。 主要功能 隐藏私密照片和视频 支持 Face ID、Touch ID 和 PIN 密码保护 创建私密和隐藏相册 锁定重要应用 保护敏感文件和个人内容 高级安全功能 计算器模式，伪装更自然 伪装保险库，增强隐私保护 非授权访问时自动拍摄入侵者照片 快速退出功能，立即保护隐私 隐身模式，提供更高等级的保密性 私密文件管理 轻松导入照片和视频 使用私密相册整理文件 内置私密相机 便捷管理照片、视频和文件夹 安全移动和整理文件 备份与恢复 加密备份选项 安全恢复数据 可靠保护重要回忆 以隐私为核心的数据存储方式 为什么选择 ILOCKBOX？ 许多用户希望找到一种安全可靠的方法来隐藏私人照片、保护视频以及保障个人数据安全。iLockBox 将强大的安全性、易用性和先进的隐私保护功能整合在同一款应用中。 订阅与终身访问 iLockBox 提供灵活的 Premium 方案： 月度订阅 年度订阅 一次购买，终身使用 价格可能因国家或地区而异，并以当地货币结算。除非您在当前订阅周期结束",
+    "fullDescription": "保护您的私密照片、视频和应用 iLockBox 可将您的 iPhone 变成安全可靠的私密保险库，用于存储照片、视频和个人文件。通过强大的安全与隐私功能，保护您的重要回忆、敏感数据和私人内容。 无论您是想隐藏照片、保护视频、锁定应用，还是创建私密相册，iLockBox 都能提供您所需的一切工具，帮助您守护个人隐私。 主要功能 隐藏私密照片和视频 支持 Face ID、Touch ID 和 PIN 密码保护 创建私密和隐藏相册 锁定重要应用 保护敏感文件和个人内容 高级安全功能 计算器模式，伪装更自然 伪装保险库，增强隐私保护 非授权访问时自动拍摄入侵者照片 快速退出功能，立即保护隐私 隐身模式，提供更高等级的保密性 私密文件管理 轻松导入照片和视频 使用私密相册整理文件 内置私密相机 便捷管理照片、视频和文件夹 安全移动和整理文件 备份与恢复 加密备份选项 安全恢复数据 可靠保护重要回忆 以隐私为核心的数据存储方式 为什么选择 ILOCKBOX？ 许多用户希望找到一种安全可靠的方法来隐藏私人照片、保护视频以及保障个人数据安全。iLockBox 将强大的安全性、易用性和先进的隐私保护功能整合在同一款应用中。 订阅与终身访问 iLockBox 提供灵活的 Premium 方案： 月度订阅 年度订阅 一次购买，终身使用 价格可能因国家或地区而异，并以当地货币结算。除非您在当前订阅周期结束",
+    "summaryDescription": "保护您的私密照片、视频和应用 iLockBox 可将您的 iPhone 变成安全可靠的私密保险库，用于存储照片、视频和个人文件。通过强大的安全与隐私功能，保护您的重要回忆、敏感数据和私人内容。 无论您是想隐藏照片、保护视频、锁定应用，还是创建私密相册，iLockBox 都能提供您所需的一切工具，帮助您守护个人隐私。 主要功能 隐藏私密照片和视频 支持 Face ID、Touch ID 和 PIN 密码保护 创建私密和隐藏相册 锁定重要应用 保护敏感文件和个人内容 高级安全功能 计算器模式，伪装更自然 伪装保险库，增强隐私保护 非授权访问时自动拍摄入侵者照片 快速退出功能，立即保护隐私 隐身模式，提供更高等级的保密性 私密文件管理 轻松导入照片和视频 使用私密相册整理文件 内置私密相机 便捷管理照片、视频和文件夹 安全移动和整理文件 备份与恢复 加密备份选项 安全恢复数据 可靠保护重要回忆 以隐私为核心的数据存储方式 为什么选择 ILOCKBOX？ 许多用户希望找到一种安全可靠的方法来隐藏私人照片、保护视频以及保障个人数据安全。iLockBox 将强大的安全性、易用性和先进的隐私保护功能整合在同一款应用中。 订阅与终身访问 iLockBox 提供灵活的 Premium 方案： 月度订阅 年度订阅 一次购买，终身使用 价格可能因国家或地区而异，并以当地货币结算。除非您在当前订阅周期结束",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/3d/d7/493dd7ab-1cb5-3e2a-e404-a2f46206ae7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/3d/d7/493dd7ab-1cb5-3e2a-e404-a2f46206ae7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Nitin Gohel",
@@ -147010,6 +147052,17 @@
     "history": [
       [
         {
+          "timestamp": 1786546451788,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Apollo Lunar Missions": "¥0.00",
+            "SkySafari Premium": "¥198.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786247026486,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -150942,10 +150995,23 @@
       "formattedPrice": "免费",
       "Unlock premium for Lifetime": "¥0.00",
       "Annual Subscription": "¥68.00",
-      "Monthly Subscription": "¥15.00",
+      "Monthly Subscription": "¥8.00",
       "Remove Ads For Lifetime": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786546451788,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Unlock premium for Lifetime": "¥68.00",
+            "Remove Ads For Lifetime": "¥22.00",
+            "Annual Subscription": "¥68.00",
+            "Monthly Subscription": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783008330519,
@@ -151039,9 +151105,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/cv-mania-%E7%AE%80%E5%8E%86%E5%88%B6%E4%BD%9C/id1270620536?uo=4",
-    "description": "CV Mania是一款由AI驱动的智能简历制作工具，并针对ATS（申请人跟踪系统）进行了深度优化。无论您是初入职场的毕业生、寻求职业转型的专业人士，还是正在规划下一步职业发展，CV Mania都能为您提供所需的所有工具，助您快速、自信地制作出令招聘官眼前一亮的专业简历。 利用AI制作更出色的简历 利用AI的强大功能，撰写更专业的个人简介，优化工作经历描述，突出您的核心成就，并自信地展示您的各项技能。AI将助您将复杂的信息整理成简洁、现代且符合招聘需求的专业简历。 专为ATS系统设计 许多企业使用申请人跟踪系统（ATS）自动筛选简历。CV Mania生成的简历结构清晰、规范，既能确保被ATS软件轻松读取，又保持了对招聘经理极具吸引力的视觉效果。 专业设计工作室 通过独具风格的简历脱颖而出。从30多种ATS优化模版中进行选择，并使用内置的设计工作室自定义每一个细节。模版切换、色彩调整、字体设置、文字大小、段落间距及板块顺序调整，一切均可实时预览，所见即所得。 导入与扫描现有简历 已有简历？只需导入PDF、DOCX或TXT文件，即可在几秒钟内继续编辑。AI能智能提取您的信息，无需从零开始。您甚至可以直接使用摄像头扫描纸质简历，将其转化为可编辑的数字文档。 所需功能应有尽有 您可以添加工作经历、教育背景、核心技能、专业证书、项目经验、语言能力、推荐人、个人作品集链接及社交媒体档案等专用板块。根据您的经验和应聘职位，灵活调整各板块顺序。 助力全球化职业发展 利用经过专业本地化的模版和板块标题，制作多语言简历。导出为PDF格式，助您从容应对本地及国际职位的申请。 多版本简历管理 针对不同的行业、企业及岗位，定制不同版本的简历。您可以将简历分类整理、复制现有版本、标记常用模版，随时随地快速查找所需的简历文件。 轻松导出与分享 将简历保存为高质量的PDF文件，确保在任何设备上展示时格式完美。支持通过邮件、云存储、社交应用直接分享，或直接上传至各类招聘平台。 为什么选择CV MANIA： AI辅助简历制作 ATS友好型模版 30+专业设计模版 支持实时预览的设计工作室 字体、颜色、间距及布局自定义 智能摄像头扫描功能 支持导入PDF、DOCX、TXT 智能简历数据解析 多版本简历管理 多语言本地化支持 高质量PDF导出 CV MANIA订阅服务： 订阅方案：通过灵活的计费方式解锁所有高级功能。 永久买断：一次付费，终身使用。 注意：价格因地区而异，并以当地货币计费。除非在当前计费周期结束前至少24小时取消，否则订阅将自动续订。您可以随时在iTunes账户设置中管理您的订阅方案。 Privacy Policy: https://appreator.com/privacy-policy/ Terms of Use: https://appreator.com/terms-of-use/ Support: admin@appreator.com",
-    "fullDescription": "CV Mania是一款由AI驱动的智能简历制作工具，并针对ATS（申请人跟踪系统）进行了深度优化。无论您是初入职场的毕业生、寻求职业转型的专业人士，还是正在规划下一步职业发展，CV Mania都能为您提供所需的所有工具，助您快速、自信地制作出令招聘官眼前一亮的专业简历。 利用AI制作更出色的简历 利用AI的强大功能，撰写更专业的个人简介，优化工作经历描述，突出您的核心成就，并自信地展示您的各项技能。AI将助您将复杂的信息整理成简洁、现代且符合招聘需求的专业简历。 专为ATS系统设计 许多企业使用申请人跟踪系统（ATS）自动筛选简历。CV Mania生成的简历结构清晰、规范，既能确保被ATS软件轻松读取，又保持了对招聘经理极具吸引力的视觉效果。 专业设计工作室 通过独具风格的简历脱颖而出。从30多种ATS优化模版中进行选择，并使用内置的设计工作室自定义每一个细节。模版切换、色彩调整、字体设置、文字大小、段落间距及板块顺序调整，一切均可实时预览，所见即所得。 导入与扫描现有简历 已有简历？只需导入PDF、DOCX或TXT文件，即可在几秒钟内继续编辑。AI能智能提取您的信息，无需从零开始。您甚至可以直接使用摄像头扫描纸质简历，将其转化为可编辑的数字文档。 所需功能应有尽有 您可以添加工作经历、教育背景、核心技能、专业证书、项目经验、语言能力、推荐人、个人作品集链接及社交媒体档案等专用板块。根据您的经验和应聘职位，灵活调整各板块顺序。 助力全球化职业发展 利用经过专业本地化的模版和板块标题，制作多语言简历。导出为PDF格式，助您从容应对本地及国际职位的申请。 多版本简历管理 针对不同的行业、企业及岗位，定制不同版本的简历。您可以将简历分类整理、复制现有版本、标记常用模版，随时随地快速查找所需的简历文件。 轻松导出与分享 将简历保存为高质量的PDF文件，确保在任何设备上展示时格式完美。支持通过邮件、云存储、社交应用直接分享，或直接上传至各类招聘平台。 为什么选择CV MANIA： AI辅助简历制作 ATS友好型模版 30+专业设计模版 支持实时预览的设计工作室 字体、颜色、间距及布局自定义 智能摄像头扫描功能 支持导入PDF、DOCX、TXT 智能简历数据解析 多版本简历管理 多语言本地化支持 高质量PDF导出 CV MANIA订阅服务： 订阅方案：通过灵活的计费方式解锁所有高级功能。 永久买断：一次付费，终身使用。 注意：价格因地区而异，并以当地货币计费。除非在当前计费周期结束前至少24小时取消，否则订阅将自动续订。您可以随时在iTunes账户设置中管理您的订阅方案。 Privacy Policy: https://appreator.com/privacy-policy/ Terms of Use: https://appreator.com/terms-of-use/ Support: admin@appreator.com",
-    "summaryDescription": "CV Mania是一款由AI驱动的智能简历制作工具，并针对ATS（申请人跟踪系统）进行了深度优化。无论您是初入职场的毕业生、寻求职业转型的专业人士，还是正在规划下一步职业发展，CV Mania都能为您提供所需的所有工具，助您快速、自信地制作出令招聘官眼前一亮的专业简历。 利用AI制作更出色的简历 利用AI的强大功能，撰写更专业的个人简介，优化工作经历描述，突出您的核心成就，并自信地展示您的各项技能。AI将助您将复杂的信息整理成简洁、现代且符合招聘需求的专业简历。 专为ATS系统设计 许多企业使用申请人跟踪系统（ATS）自动筛选简历。CV Mania生成的简历结构清晰、规范，既能确保被ATS软件轻松读取，又保持了对招聘经理极具吸引力的视觉效果。 专业设计工作室 通过独具风格的简历脱颖而出。从30多种ATS优化模版中进行选择，并使用内置的设计工作室自定义每一个细节。模版切换、色彩调整、字体设置、文字大小、段落间距及板块顺序调整，一切均可实时预览，所见即所得。 导入与扫描现有简历 已有简历？只需导入PDF、DOCX或TXT文件，即可在几秒钟内继续编辑。AI能智能提取您的信息，无需从零开始。您甚至可以直接使用摄像头扫描纸质简历，将其转化为可编辑的数字文档。 所需功能应有尽有 您可以添加工作经历、教育背景、核心技能、专业证书、项目经验、语言能力、推荐人、个人作品集链接及社交媒体档案等专用板块。根据您的经验和应聘职位，灵活调整各板块顺序。 助力全球化职业发展 利用经过专业本地化的模版和板块标题，制作多语言简历。导出为PDF格式，助您从容应对本地及国际职位的申请。 多版本简历管理 针对不同的行业、企业及岗位，定制不同版本的简历。您可以将简历分类整理、复制现有版本、标记常用模版，随时随地快速查找所需的简历文件。 轻松导出与分享 将简历保存为高质量的PDF文件，确保在任何设备上展示时格式完美。支持通过邮件、云存储、社交应用直接分享，或直接上传至各类招聘平台。 为什么选择CV MANIA： AI辅助简历制作 ATS友好型模版 30+专业设计模版 支持实时预览的设计工作室 字体、颜色、间距及布局自定义 智能摄像头扫描功能 支持导入PDF、DOCX、TXT 智能简历数据解析 多版本简历管理 多语言本地化支持 高质量PDF导出 CV MANIA订阅服务： 订阅方案：通过灵活的计费方式解锁所有高级功能。 永久买断：一次付费，终身使用。 注意：价格因地区而异，并以当地货币计费。除非在当前计费周期结束前至少24小时取消，否则订阅将自动续订。您可以随时在iTunes账户设置中管理您的订阅方案。 Privacy Policy: https://appreator.com/privacy-policy/ Terms of Use: https://appreator.com/terms-of-use/ Support: admin@appreator.com",
+    "description": "CV Mania是一款由AI驱动的智能简历制作工具，并针对ATS（申请人跟踪系统）进行了深度优化。无论您是初入职场的毕业生、寻求职业转型的专业人士，还是正在规划下一步职业发展，CV Mania都能为您提供所需的所有工具，助您快速、自信地制作出令招聘官眼前一亮的专业简历。 利用AI制作更出色的简历 利用AI的强大功能，撰写更专业的个人简介，优化工作经历描述，突出您的核心成就，并自信地展示您的各项技能。AI将助您将复杂的信息整理成简洁、现代且符合招聘需求的专业简历。 专为ATS系统设计 许多企业使用申请人跟踪系统（ATS）自动筛选简历。CV Mania生成的简历结构清晰、规范，既能确保被ATS软件轻松读取，又保持了对招聘经理极具吸引力的视觉效果。 专业设计工作室 通过独具风格的简历脱颖而出。从30多种ATS优化模版中进行选择，并使用内置的设计工作室自定义每一个细节。模版切换、色彩调整、字体设置、文字大小、段落间距及板块顺序调整，一切均可实时预览，所见即所得。 导入与扫描现有简历 已有简历？只需导入PDF、DOCX或TXT文件，即可在几秒钟内继续编辑。AI能智能提取您的信息，无需从零开始。您甚至可以直接使用摄像头扫描纸质简历，将其转化为可编辑的数字文档。 所需功能应有尽有 您可以添加工作经历、教育背景、核心技能、专业证书、项目经验、语言能力、推荐人、个人作品集链接及社交媒体档案等专用板块",
+    "fullDescription": "CV Mania是一款由AI驱动的智能简历制作工具，并针对ATS（申请人跟踪系统）进行了深度优化。无论您是初入职场的毕业生、寻求职业转型的专业人士，还是正在规划下一步职业发展，CV Mania都能为您提供所需的所有工具，助您快速、自信地制作出令招聘官眼前一亮的专业简历。 利用AI制作更出色的简历 利用AI的强大功能，撰写更专业的个人简介，优化工作经历描述，突出您的核心成就，并自信地展示您的各项技能。AI将助您将复杂的信息整理成简洁、现代且符合招聘需求的专业简历。 专为ATS系统设计 许多企业使用申请人跟踪系统（ATS）自动筛选简历。CV Mania生成的简历结构清晰、规范，既能确保被ATS软件轻松读取，又保持了对招聘经理极具吸引力的视觉效果。 专业设计工作室 通过独具风格的简历脱颖而出。从30多种ATS优化模版中进行选择，并使用内置的设计工作室自定义每一个细节。模版切换、色彩调整、字体设置、文字大小、段落间距及板块顺序调整，一切均可实时预览，所见即所得。 导入与扫描现有简历 已有简历？只需导入PDF、DOCX或TXT文件，即可在几秒钟内继续编辑。AI能智能提取您的信息，无需从零开始。您甚至可以直接使用摄像头扫描纸质简历，将其转化为可编辑的数字文档。 所需功能应有尽有 您可以添加工作经历、教育背景、核心技能、专业证书、项目经验、语言能力、推荐人、个人作品集链接及社交媒体档案等专用板块",
+    "summaryDescription": "CV Mania是一款由AI驱动的智能简历制作工具，并针对ATS（申请人跟踪系统）进行了深度优化。无论您是初入职场的毕业生、寻求职业转型的专业人士，还是正在规划下一步职业发展，CV Mania都能为您提供所需的所有工具，助您快速、自信地制作出令招聘官眼前一亮的专业简历。 利用AI制作更出色的简历 利用AI的强大功能，撰写更专业的个人简介，优化工作经历描述，突出您的核心成就，并自信地展示您的各项技能。AI将助您将复杂的信息整理成简洁、现代且符合招聘需求的专业简历。 专为ATS系统设计 许多企业使用申请人跟踪系统（ATS）自动筛选简历。CV Mania生成的简历结构清晰、规范，既能确保被ATS软件轻松读取，又保持了对招聘经理极具吸引力的视觉效果。 专业设计工作室 通过独具风格的简历脱颖而出。从30多种ATS优化模版中进行选择，并使用内置的设计工作室自定义每一个细节。模版切换、色彩调整、字体设置、文字大小、段落间距及板块顺序调整，一切均可实时预览，所见即所得。 导入与扫描现有简历 已有简历？只需导入PDF、DOCX或TXT文件，即可在几秒钟内继续编辑。AI能智能提取您的信息，无需从零开始。您甚至可以直接使用摄像头扫描纸质简历，将其转化为可编辑的数字文档。 所需功能应有尽有 您可以添加工作经历、教育背景、核心技能、专业证书、项目经验、语言能力、推荐人、个人作品集链接及社交媒体档案等专用板块",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/f4/c5/a4f4c570-53d9-0c2a-929d-42c96c98a54d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/f4/c5/a4f4c570-53d9-0c2a-929d-42c96c98a54d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
     "sellerName": "Nitin Gohel",
@@ -155404,6 +155470,14 @@
       "请喝饮料": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786546451788,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783008330519,
@@ -200101,9 +200175,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/dwg-to-pdf-converter-pro/id1383181685?mt=12&uo=4",
-    "description": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的尺寸。可出口l",
-    "fullDescription": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的尺寸。可出口l",
-    "summaryDescription": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的尺寸。可出口l",
+    "description": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的大小。可出口l",
+    "fullDescription": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的大小。可出口l",
+    "summaryDescription": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的大小。可出口l",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/9d/83/559d831f-aa17-b86d-c8ef-1f9a83fe89a6/AppIcon.png/60x60bb.png",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/9d/83/559d831f-aa17-b86d-c8ef-1f9a83fe89a6/AppIcon.png/100x100bb.png",
     "sellerName": "江 李",
@@ -216356,5 +216430,94 @@
       "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/13/7f/82/137f82dd-f142-6acc-4564-db8ce004b2dd/pr_source.png/576x768bb.png"
     ],
     "_externalSourceFirstSeen": 1781036370258
+  },
+  "1440480140": {
+    "name": "Latin Etymology Dictionary",
+    "trackName": "Latin Etymology Dictionary",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1780592010614,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/latin-etymology-dictionary/id1440480140?uo=4",
+    "description": "This app provides a dictionary of Latin Etymology With more than 22800 entries this is the most authoritative and comprehensive dictionary of Latin etymology. It is an important etymological resource for linguistic experts, it is also a useful reference for anyone who is interested in Latin language LATIN ETYMOLOGY Over 22800 entries including vocabulary, names, roots. Entries are divided into categories Detailed etymology and origin Pronunciation Detailed meaning Synonyms and antonyms Alternative forms Inflection Derived terms Related terms etc LATIN NAMES Latin names and their origins Latin female given names Latin male given names Latin surnames etc. LATIN ROOTS Latin prefixes and derived words Latin suffixes and derived words Latin roots and derived words etc CATEGORIES Entries are grouped into categories Terms derived from Ancient Greek Terms derived from Anglo-Norman Terms derived from Arabic Terms derived from Proto-Indo-European Terms derived from Hebrew etc. OTHER FEATURES Search feature Bookmark feature Translation Built-in dictionary Cross reference Note feature Custom lists",
+    "fullDescription": "This app provides a dictionary of Latin Etymology With more than 22800 entries this is the most authoritative and comprehensive dictionary of Latin etymology. It is an important etymological resource for linguistic experts, it is also a useful reference for anyone who is interested in Latin language LATIN ETYMOLOGY Over 22800 entries including vocabulary, names, roots. Entries are divided into categories Detailed etymology and origin Pronunciation Detailed meaning Synonyms and antonyms Alternative forms Inflection Derived terms Related terms etc LATIN NAMES Latin names and their origins Latin female given names Latin male given names Latin surnames etc. LATIN ROOTS Latin prefixes and derived words Latin suffixes and derived words Latin roots and derived words etc CATEGORIES Entries are grouped into categories Terms derived from Ancient Greek Terms derived from Anglo-Norman Terms derived from Arabic Terms derived from Proto-Indo-European Terms derived from Hebrew etc. OTHER FEATURES Search feature Bookmark feature Translation Built-in dictionary Cross reference Note feature Custom lists",
+    "summaryDescription": "This app provides a dictionary of Latin Etymology With more than 22800 entries this is the most authoritative and comprehensive dictionary of Latin etymology. It is an important etymological resource for linguistic experts, it is also a useful reference for anyone who is interested in Latin language LATIN ETYMOLOGY Over 22800 entries including vocabulary, names, roots. Entries are divided into categories Detailed etymology and origin Pronunciation Detailed meaning Synonyms and antonyms Alternative forms Inflection Derived terms Related terms etc LATIN NAMES Latin names and their origins Latin female given names Latin male given names Latin surnames etc. LATIN ROOTS Latin prefixes and derived words Latin suffixes and derived words Latin roots and derived words etc CATEGORIES Entries are grouped into categories Terms derived from Ancient Greek Terms derived from Anglo-Norman Terms derived from Arabic Terms derived from Proto-Indo-European Terms derived from Hebrew etc. OTHER FEATURES Search feature Bookmark feature Translation Built-in dictionary Cross reference Note feature Custom lists",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/1a/c4/061ac469-da3c-5ad2-93cf-dd5b0c581f54/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/1a/c4/061ac469-da3c-5ad2-93cf-dd5b0c581f54/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/100x100bb.jpg",
+    "sellerName": "Ngoc Anh",
+    "artistName": "Ngoc Anh",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/9b/da/239bda25-ec68-c210-8777-8e038cb99368/223e34ec-9869-487d-a73a-da5970a315b4_s09_framed.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/e7/e1/f6e7e146-b0c4-5bed-b2e2-d8be4622744f/a4dda2a0-51e2-4e23-896e-0f6c69477eb7_s10_framed.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/d1/54/91d15478-bb98-4c52-a749-40ed62932725/dd4099f2-fb2d-49ba-b05f-e7577a331bdb_s20_framed.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/ed/ff/7bedff3d-ca2e-da42-62c5-ce97c5357622/175e61f1-253d-4a35-b96c-12688d6c3b84_s30_framed.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/d7/35/f6d7356f-9e6e-bb66-9482-ed674f8b5b01/42599b44-37ae-415a-8015-cbf510ad9fab_s40_framed.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/8f/8c/648f8c9e-3bc2-d2b4-a3c5-464aa0e5ad1c/faac14db-85a0-4cc1-95ed-60737d8c6b0d_s50_framed.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/62/c2/6962c2e2-1e36-a0d7-04cb-4937fb47fecc/200e19a1-5173-4f45-becc-b4571f1ed68b_s60_framed.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/99/e1/0599e1f6-88fd-147d-cf6a-78c1f05cbed7/ca8373fe-c4fd-42d1-ad61-4ea0d15549b5_s70_framed.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/83/65/1d8365aa-d4d9-f352-80a9-a06d281517c2/f3dcb952-bba9-4609-ae88-4c863d1f22b5_s80_framed.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/ea/5b/64ea5b61-c343-ac3a-6cca-5bba0d00606f/f5c5ac46-903a-4bf7-8327-ed165ee495eb_s099_framed.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/1f/ca/c51fca5c-e44b-c60a-958f-f70e450a4980/2d652849-407a-4519-9e01-150021b31469_s100_framed.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/a7/66/e8a7664a-d243-6523-3499-86a60a39731a/484771d7-15ee-4b11-859c-0056149bd1fc_s200_framed.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/65/7b/df657b4a-a255-2e96-ebab-71f75abe384e/2629a242-9209-431c-9116-f259b3d4dbe3_s300_framed.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/a5/0b/6ca50b88-be68-b75a-1791-3598002515f5/90b982b6-08ff-4b63-ae94-606ba724acce_s400_framed.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/e6/d2/f9e6d282-429c-e967-8f30-7770b0ba64ef/ba40bc69-6773-4cce-97de-84aa635e688a_s500_framed.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/1c/cc/6f1ccc96-a079-de27-5c5d-66cc1ab1fc5c/ecf835c0-d12c-4fd1-a77e-a0ef4f0b00f6_s600_framed.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/b4/89/11b489d1-2edf-a9ab-cbeb-987916d8665b/177e6375-65b3-4fbe-b2ae-8f1412b9f52f_s700_framed.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/e1/be/57e1bedf-11b5-d882-08d4-be587a1963b3/57649aaa-16ba-4080-ab17-8be25a58073f_s800_framed.png/576x768bb.png"
+    ],
+    "_externalSourceFirstSeen": 1780591980247
+  },
+  "1440574221": {
+    "name": "더 좋은 국어사전 프로",
+    "trackName": "더 좋은 국어사전 프로",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774357674241,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%EB%8D%94-%EC%A2%8B%EC%9D%80-%EA%B5%AD%EC%96%B4%EC%82%AC%EC%A0%84-%ED%94%84%EB%A1%9C/id1440574221?uo=4",
+    "description": "주요 특징 >> 1. 국립국어원 정식 라이센싱 2. 최신 DB 내장 3. 하이퍼링크 + 보조검색 4. 사용자 사전 & 검색어 유지 5. 한자 음훈 정보 제공 6. 동음이의어들을 단 한 페이지에 제공 7. 가독성 개선 본 '더 좋은 표준국어대사전 프로'는 광고가 뜨지 않고 내장된 모든 편의 기능을 무제한 사용할 수 있는 국어사전입니다. 1. 국립국어원 정식 라이센싱 ▲ 국내유일 국가 편찬 국어사전 ▲ 연구기간 8년, 연구개발비 112억 = ‘표준국어대사전’의 모바일 앱 사전 공무원수험생_필독 #작가_편집자_기자_PD_사용하는사전 2. 언제나 최신 DB 내장 ▲ 인터넷이 필요 없는 앱 ▲ 1년에 4번 전체 DB 업데이트 (국립국어원 일정에 따름) 인터넷_없이도_잘만돌아감 #인터넷_없어야_일잘됨_공부잘됨 3. 하이퍼링크 + 보조검색 ▲ 관련 어휘가 하이퍼링크로 연결 ▲ 검색창 2개를 함께 사용 가능 드디어_표준국어대사전에_하이퍼링크 #보조검색창_한번쓰면_못끊음 4. 사용자 사전 & 검색어 유지 ▲ 자주 쓰는 온라인 사전들을 등록해 두고 ▲ 검색어는 단 한 번만 입력 사전에도_개취있음 #개취사전_한곳에_몰아놓고_한큐에_검색 5. 한자 음훈 정보 제공 ▲ 한자 7,310자의 음훈 정보 제공 ▲ 한자를 따로 검색하는 수고는 이제 그만 한자애송이_희소식 #사전에_한자정보_조용히_넣어둠 6. 동음이의어들을 단 한 페이지에 제공 ▲ 검색 결과가 아무리 많아도 ▲ 세로 스크롤로 한 번에 확인 페이지번호_수전증_빡침 #엄지족_맞춤서비스 7. 가독성 개선 ▲ 깔끔한 표 형식 ▲ 단순한 색 ▲ 요소 간 간격, 띄어쓰기, 자간 조정 국어사전_정보의집약_눈돌아감 #이뻐야_읽힌다",
+    "fullDescription": "주요 특징 >> 1. 국립국어원 정식 라이센싱 2. 최신 DB 내장 3. 하이퍼링크 + 보조검색 4. 사용자 사전 & 검색어 유지 5. 한자 음훈 정보 제공 6. 동음이의어들을 단 한 페이지에 제공 7. 가독성 개선 본 '더 좋은 표준국어대사전 프로'는 광고가 뜨지 않고 내장된 모든 편의 기능을 무제한 사용할 수 있는 국어사전입니다. 1. 국립국어원 정식 라이센싱 ▲ 국내유일 국가 편찬 국어사전 ▲ 연구기간 8년, 연구개발비 112억 = ‘표준국어대사전’의 모바일 앱 사전 공무원수험생_필독 #작가_편집자_기자_PD_사용하는사전 2. 언제나 최신 DB 내장 ▲ 인터넷이 필요 없는 앱 ▲ 1년에 4번 전체 DB 업데이트 (국립국어원 일정에 따름) 인터넷_없이도_잘만돌아감 #인터넷_없어야_일잘됨_공부잘됨 3. 하이퍼링크 + 보조검색 ▲ 관련 어휘가 하이퍼링크로 연결 ▲ 검색창 2개를 함께 사용 가능 드디어_표준국어대사전에_하이퍼링크 #보조검색창_한번쓰면_못끊음 4. 사용자 사전 & 검색어 유지 ▲ 자주 쓰는 온라인 사전들을 등록해 두고 ▲ 검색어는 단 한 번만 입력 사전에도_개취있음 #개취사전_한곳에_몰아놓고_한큐에_검색 5. 한자 음훈 정보 제공 ▲ 한자 7,310자의 음훈 정보 제공 ▲ 한자를 따로 검색하는 수고는 이제 그만 한자애송이_희소식 #사전에_한자정보_조용히_넣어둠 6. 동음이의어들을 단 한 페이지에 제공 ▲ 검색 결과가 아무리 많아도 ▲ 세로 스크롤로 한 번에 확인 페이지번호_수전증_빡침 #엄지족_맞춤서비스 7. 가독성 개선 ▲ 깔끔한 표 형식 ▲ 단순한 색 ▲ 요소 간 간격, 띄어쓰기, 자간 조정 국어사전_정보의집약_눈돌아감 #이뻐야_읽힌다",
+    "summaryDescription": "주요 특징 >> 1. 국립국어원 정식 라이센싱 2. 최신 DB 내장 3. 하이퍼링크 + 보조검색 4. 사용자 사전 & 검색어 유지 5. 한자 음훈 정보 제공 6. 동음이의어들을 단 한 페이지에 제공 7. 가독성 개선 본 '더 좋은 표준국어대사전 프로'는 광고가 뜨지 않고 내장된 모든 편의 기능을 무제한 사용할 수 있는 국어사전입니다. 1. 국립국어원 정식 라이센싱 ▲ 국내유일 국가 편찬 국어사전 ▲ 연구기간 8년, 연구개발비 112억 = ‘표준국어대사전’의 모바일 앱 사전 공무원수험생_필독 #작가_편집자_기자_PD_사용하는사전 2. 언제나 최신 DB 내장 ▲ 인터넷이 필요 없는 앱 ▲ 1년에 4번 전체 DB 업데이트 (국립국어원 일정에 따름) 인터넷_없이도_잘만돌아감 #인터넷_없어야_일잘됨_공부잘됨 3. 하이퍼링크 + 보조검색 ▲ 관련 어휘가 하이퍼링크로 연결 ▲ 검색창 2개를 함께 사용 가능 드디어_표준국어대사전에_하이퍼링크 #보조검색창_한번쓰면_못끊음 4. 사용자 사전 & 검색어 유지 ▲ 자주 쓰는 온라인 사전들을 등록해 두고 ▲ 검색어는 단 한 번만 입력 사전에도_개취있음 #개취사전_한곳에_몰아놓고_한큐에_검색 5. 한자 음훈 정보 제공 ▲ 한자 7,310자의 음훈 정보 제공 ▲ 한자를 따로 검색하는 수고는 이제 그만 한자애송이_희소식 #사전에_한자정보_조용히_넣어둠 6. 동음이의어들을 단 한 페이지에 제공 ▲ 검색 결과가 아무리 많아도 ▲ 세로 스크롤로 한 번에 확인 페이지번호_수전증_빡침 #엄지족_맞춤서비스 7. 가독성 개선 ▲ 깔끔한 표 형식 ▲ 단순한 색 ▲ 요소 간 간격, 띄어쓰기, 자간 조정 국어사전_정보의집약_눈돌아감 #이뻐야_읽힌다",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/76/dc/9176dcfb-b97f-bdcc-8ef0-22c389f74bd8/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/76/dc/9176dcfb-b97f-bdcc-8ef0-22c389f74bd8/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+    "sellerName": "Ka Wookhyeon",
+    "artistName": "WROOM3",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c9/b8/4b/c9b84b5b-e52a-93d4-86d0-0ee3c67e090b/mzl.nikhnixd.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/04/0c/63/040c63a9-43d5-3b7d-08c7-6ea877a51d3f/mzl.efdwiskm.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/49/8d/00/498d0095-ac8f-c475-9c50-eea4cb34658a/pr_source.png/392x696bb.png"
+    ],
+    "_externalSourceFirstSeen": 1774357638150
   }
 }

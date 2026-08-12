@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 525311993,
+      "name": {
+        "cn": "PCM Recorder Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786546416525,
+      "_discountType": "app"
+    },
+    {
+      "id": 1556321093,
+      "name": {
+        "cn": "WSET Level 3 Exam"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786546430071,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786556931,
+      "name": {
+        "cn": "四象限法则·艾森豪威尔矩阵高效待办清单单机版助手版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786546422013,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762013297,
+      "name": {
+        "cn": "HealthPatch"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786546427346,
+      "_discountType": "app"
+    },
+    {
       "id": 633008351,
       "name": {
         "cn": "Mortgage Payment Calculator"
