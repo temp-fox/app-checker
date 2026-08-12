@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 596339145,
+      "name": {
+        "cn": "学习 乌尔都语 - EuroTalk"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786567233820,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788285855,
+      "name": {
+        "cn": "VPN XX PRO"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786567219862,
+      "_discountType": "app"
+    },
+    {
+      "id": 6737333803,
+      "name": {
+        "cn": "Egyptian Transliterator"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786567233820,
+      "_discountType": "app"
+    },
+    {
       "id": 1569398493,
       "name": {
         "cn": "初中英语听力大全7～9年级"

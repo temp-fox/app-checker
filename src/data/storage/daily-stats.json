@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": 1786572874285,
+    "cn": {
+      "total": 2,
+      "price": 1,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 1156018315,
+          "name": "JPEG Jackal",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 573916046,
+          "name": "Fitness Point Pro: 健身与居家",
+          "type": "iap",
+          "detail": "Expert: ¥38.00 → ¥19.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786551335061,
     "cn": {
       "total": 15,
@@ -3495,114 +3517,6 @@
           "name": "Breastfeeding Tracker & Timer",
           "type": "iap",
           "detail": "Lifetime: ¥38.00 → ¥29.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785702913769,
-    "cn": {
-      "total": 4,
-      "price": 2,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6774842090,
-          "name": "AlarmCroc",
-          "type": "iap",
-          "detail": "Lifetime Pro: ¥198.00 → ¥68.00"
-        },
-        {
-          "id": 6502221306,
-          "name": "Snap2Gif",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1621267448,
-          "name": "FormCheck AI: 表格检查",
-          "type": "iap",
-          "detail": "weekly pro: ¥68.00 → ¥15.00"
-        },
-        {
-          "id": 6504854196,
-          "name": "下一站江湖Ⅱ",
-          "type": "price",
-          "detail": "¥36.00 → ¥12.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785694923108,
-    "cn": {
-      "total": 3,
-      "price": 3,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6786056591,
-          "name": "Tap & Color",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 6773472779,
-          "name": "CreatorGrade Pro",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 6759275149,
-          "name": "Spatial Agents",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785687841843,
-    "cn": {
-      "total": 6,
-      "price": 4,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6771486124,
-          "name": "每日记忆",
-          "type": "iap",
-          "detail": "阅读副本: ¥18.00 → ¥6.00"
-        },
-        {
-          "id": 6771668566,
-          "name": "账盈资产-AssetMinder记账理财",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6757496457,
-          "name": "Postura: 久坐姿势提醒",
-          "type": "iap",
-          "detail": "Postura Pro - Lifetime: ¥198.00 → ¥148.00"
-        },
-        {
-          "id": 6758037844,
-          "name": "Push Up Counter.",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6472762578,
-          "name": "Passport Photo+",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 818394449,
-          "name": "时间轴-全球历史",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
         }
       ]
     }
