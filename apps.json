@@ -2,6 +2,72 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1459029099,
+      "name": {
+        "cn": "爱唐诗 - 回到唐朝品唐诗三百首"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786605745929,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779826707,
+      "name": {
+        "cn": "简洁时钟 - 极简 翻页 简洁 flip 专业 桌面时钟"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786605735439,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785937978,
+      "name": {
+        "cn": "羽毛球拍穿线记录精选版2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786605738009,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797516588,
+      "name": {
+        "cn": "诗词山河图"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786605748473,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780897259,
+      "name": {
+        "cn": "旧书库存账本-图书盘点2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786605751096,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762036603,
+      "name": {
+        "cn": "Peoplebox 关系备忘录"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786605791089,
+      "_discountType": "iap"
+    },
+    {
       "id": 886683283,
       "name": {
         "cn": "Primary Particle"

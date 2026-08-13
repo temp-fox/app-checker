@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": 1786610915064,
+    "cn": {
+      "total": 1,
+      "price": 1,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6743553625,
+          "name": "Pomodrop: Focus & Breathing",
+          "type": "price",
+          "detail": "¥28.00 → ¥15.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786599153007,
     "cn": {
       "total": 15,
@@ -3461,64 +3477,6 @@
           "name": "ProperPDF: 文档编辑 PDF扫描",
           "type": "iap",
           "detail": "ProperPDF Pro - Lifetime Access: ¥329.00 → ¥164.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785744654656,
-    "cn": {
-      "total": 8,
-      "price": 6,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6779892226,
-          "name": "LandMeter: GPS测亩仪与面积测量",
-          "type": "price",
-          "detail": "¥58.00 → 免费"
-        },
-        {
-          "id": 6762442876,
-          "name": "Tracker Note - 全能追踪笔记",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 349880412,
-          "name": "Family Tracker",
-          "type": "iap",
-          "detail": "Family Tracker - 1 Month Subscription: ¥15.00 → ¥14.00"
-        },
-        {
-          "id": 6761336662,
-          "name": "Video Transcriber - Captions",
-          "type": "price",
-          "detail": "¥22.00 → ¥1.00"
-        },
-        {
-          "id": 6711341067,
-          "name": "Photo Squash",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1572627111,
-          "name": "Masterbezel",
-          "type": "price",
-          "detail": "¥3.00 → ¥1.00"
-        },
-        {
-          "id": 6741702484,
-          "name": "American Palette",
-          "type": "price",
-          "detail": "¥22.00 → ¥15.00"
-        },
-        {
-          "id": 6742074413,
-          "name": "NumFin记账 - 简洁好用的个人记账软件",
-          "type": "iap",
-          "detail": "永久会员: ¥12.00 → ¥3.00"
         }
       ]
     }
