@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": 1786630845199,
+    "cn": {
+      "total": 2,
+      "price": 2,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6759551011,
+          "name": "NightSnore - Snore Recorder",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6761265775,
+          "name": "English Dictionary Offline.",
+          "type": "price",
+          "detail": "¥68.00 → ¥8.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786616904603,
     "cn": {
       "total": 4,
@@ -3477,40 +3499,6 @@
           "name": "JPEG Jackal Lite",
           "type": "iap",
           "detail": "Upgrade to Full Version: ¥15.00 → ¥0.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785760773936,
-    "cn": {
-      "total": 4,
-      "price": 3,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6772425599,
-          "name": "嘌呤记-痛风食物嘌呤查询饮食记录·尿酸统计健康管理助手",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6772513247,
-          "name": "痛风记-尿酸管理日记嘌呤食物查询饮食控酸管理助手工具",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6737222046,
-          "name": "官方福利2025零氪传奇:高爆打金服神界传奇",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6760956540,
-          "name": "ProperPDF: 文档编辑 PDF扫描",
-          "type": "iap",
-          "detail": "ProperPDF Pro - Lifetime Access: ¥329.00 → ¥164.00"
         }
       ]
     }
