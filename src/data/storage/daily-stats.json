@@ -1,5 +1,135 @@
 [
   {
+    "timestamp": 1786637200466,
+    "cn": {
+      "total": 20,
+      "price": 19,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 633008351,
+          "name": "Mortgage Payment Calculator",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6760203085,
+          "name": "Grocery/ShoppingList",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 380800734,
+          "name": "GPS Locator: The Original",
+          "type": "price",
+          "detail": "¥68.00 → ¥8.00"
+        },
+        {
+          "id": 6777342797,
+          "name": "NFC Studio",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6788432853,
+          "name": "爱元曲 - 回到元朝品元曲九千首",
+          "type": "price",
+          "detail": "¥8.00 → ¥3.00"
+        },
+        {
+          "id": 1462418779,
+          "name": "BLEASS sidekick AUv3 plugin",
+          "type": "price",
+          "detail": "¥38.00 → ¥28.00"
+        },
+        {
+          "id": 6756459946,
+          "name": "打字学英语-中英输入法 背单词 英语翻译语音键盘",
+          "type": "iap",
+          "detail": "永久会员: ¥168.00 → ¥34.00"
+        },
+        {
+          "id": 1219649976,
+          "name": "Linux Command Library",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 458584668,
+          "name": "度量衡单位换算器",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1201211832,
+          "name": "商业画布 - 构建您自己的商业模式",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 448246366,
+          "name": "高清计算器",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1271620263,
+          "name": "艾希 - ICEY",
+          "type": "price",
+          "detail": "¥18.00 → ¥12.00"
+        },
+        {
+          "id": 1498582245,
+          "name": "少年的人间奇遇",
+          "type": "price",
+          "detail": "¥18.00 → ¥12.00"
+        },
+        {
+          "id": 6751309563,
+          "name": "火山的女儿：再度重逢",
+          "type": "price",
+          "detail": "¥18.00 → ¥15.00"
+        },
+        {
+          "id": 6444396120,
+          "name": "挺进地牢",
+          "type": "price",
+          "detail": "¥18.00 → ¥12.00"
+        },
+        {
+          "id": 1614200925,
+          "name": "部落与弯刀",
+          "type": "price",
+          "detail": "¥25.00 → ¥18.00"
+        },
+        {
+          "id": 6443786927,
+          "name": "全面憨憨战争模拟器",
+          "type": "price",
+          "detail": "¥18.00 → ¥12.00"
+        },
+        {
+          "id": 1458460469,
+          "name": "人类跌落梦境",
+          "type": "price",
+          "detail": "¥18.00 → ¥12.00"
+        },
+        {
+          "id": 1584313012,
+          "name": "笼中窥梦",
+          "type": "price",
+          "detail": "¥25.00 → ¥18.00"
+        },
+        {
+          "id": 449502656,
+          "name": "timeLAPSE",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786630845199,
     "cn": {
       "total": 2,
@@ -3423,82 +3553,6 @@
           "name": "拳趣",
           "type": "price",
           "detail": "¥6.00 → ¥3.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785772176515,
-    "cn": {
-      "total": 11,
-      "price": 6,
-      "iap": 5,
-      "apps": [
-        {
-          "id": 6761066887,
-          "name": "IPTV Smarters Pro 直播 M3U",
-          "type": "iap",
-          "detail": "IPTV Player Monthly Premium: ¥128.00 → ¥58.00"
-        },
-        {
-          "id": 6761066887,
-          "name": "IPTV Smarters Pro 直播 M3U",
-          "type": "iap",
-          "detail": "IPTV Player Weekly Premium: ¥68.00 → ¥38.00"
-        },
-        {
-          "id": 770657161,
-          "name": "Boulder Trainer",
-          "type": "iap",
-          "detail": "Boulder Pro Loyalty — Week: ¥28.00 → ¥15.00"
-        },
-        {
-          "id": 770657161,
-          "name": "Boulder Trainer",
-          "type": "iap",
-          "detail": "Boulder Pro — Weekly: ¥38.00 → ¥15.00"
-        },
-        {
-          "id": 1260990597,
-          "name": "月子餐",
-          "type": "price",
-          "detail": "¥3.00 → 免费"
-        },
-        {
-          "id": 6755978513,
-          "name": "Canon: Chord Composer",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6745541292,
-          "name": "课程计划专业版",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 1624460253,
-          "name": "AI Lecture Note Taker",
-          "type": "price",
-          "detail": "¥58.00 → 免费"
-        },
-        {
-          "id": 456637671,
-          "name": "安全监控照片+视频Pro",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 1467348990,
-          "name": "疯狂单词-考研四六级智能背单词",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 1169525771,
-          "name": "JPEG Jackal Lite",
-          "type": "iap",
-          "detail": "Upgrade to Full Version: ¥15.00 → ¥0.00"
         }
       ]
     }

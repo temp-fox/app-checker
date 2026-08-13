@@ -2,6 +2,84 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 449502656,
+      "name": {
+        "cn": "timeLAPSE"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1786632932959,
+      "_discountType": "app"
+    },
+    {
+      "id": 1128655547,
+      "name": {
+        "cn": "访问安全令牌"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786632875624,
+      "_discountType": "app"
+    },
+    {
+      "id": 1458279877,
+      "name": {
+        "cn": "DSLR remote for Canon EOS"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786632889401,
+      "_discountType": "app"
+    },
+    {
+      "id": 6476736257,
+      "name": {
+        "cn": "剑桥小学英语五年级上下册"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786632875275,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775912727,
+      "name": {
+        "cn": "收发文台账-公文登记管理2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786632881142,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761454875,
+      "name": {
+        "cn": "ShutterLife: Shutter Count"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786632881075,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772426629,
+      "name": {
+        "cn": "喝酒记-啤酒红酒白酒威士忌饮酒打卡记账·酒精热量统计"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786632894646,
+      "_discountType": "app"
+    },
+    {
       "id": 1459029099,
       "name": {
         "cn": "爱唐诗 - 回到唐朝品唐诗三百首"
