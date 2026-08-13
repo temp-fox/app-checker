@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 339948012,
+      "name": {
+        "cn": "Steam Tables"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786653575039,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759426126,
+      "name": {
+        "cn": "DualCameraVlog"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786653580585,
+      "_discountType": "app"
+    },
+    {
+      "id": 6541753289,
+      "name": {
+        "cn": "AI老花镜 - 拍照识文好帮手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786653585789,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775161758,
+      "name": {
+        "cn": "回本本"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786653588541,
+      "_discountType": "app"
+    },
+    {
       "id": 6758002070,
       "name": {
         "cn": "Hair Expert Pro：虚拟换发型"
