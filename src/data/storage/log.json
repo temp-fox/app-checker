@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": 1786640110698,
+    "regionAppInfo": {
+      "cn": [
+        {
+          "trackId": 1072547160,
+          "trackName": "NumPad: 数字键盘",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1370929515,
+          "trackName": "Split Lab",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1146328820,
+          "trackName": "Pocket Note Pro - 手写记事本",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1059218666,
+          "trackName": "Litchi for DJI Drones",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 424477181,
+          "trackName": "SMS Smileys",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "1h43m9.279s",
+    "regionAppCount": {
+      "cn": 11850
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1786632933031,
     "regionAppInfo": {
       "cn": [
