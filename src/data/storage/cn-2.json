@@ -24480,6 +24480,16 @@
     "history": [
       [
         {
+          "timestamp": 1786612176562,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Monthly Subscription": "¥78.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784926923136,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -24668,9 +24678,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/gitjournal/id1466519634?uo=4",
-    "description": "GitJournal is an open source note taking / journaling app built with privacy and data portability in mind. It stores all its notes in a standardised Markdown + YAML header format or plaintext. The notes are stored in a hosted Git Repo of your choice - GitHub / GitLab / Gitea / Gogs / Any Custom-provider. Features - Offline First - All yours notes are available offline No Account Required Categorize your Notes with Folders Open source / Free Software / FOSS Can easily be extended and integrated with other Git tools Can also be used to manage Hugo / Jekyll / Gatsby websites No Ads Never need to import / export your notes, as you always have control of the data. Apps may come and go, but your notes will always be with you. Git has been chosen as a backend as self-hosting a Git server is much simpler than almost any other software, additionally there are already many commercial providers of Git. So you can choose who you want to trust with your notes. We currently don't support encrypting the notes, but it's something we're actively working on.",
-    "fullDescription": "GitJournal is an open source note taking / journaling app built with privacy and data portability in mind. It stores all its notes in a standardised Markdown + YAML header format or plaintext. The notes are stored in a hosted Git Repo of your choice - GitHub / GitLab / Gitea / Gogs / Any Custom-provider. Features - Offline First - All yours notes are available offline No Account Required Categorize your Notes with Folders Open source / Free Software / FOSS Can easily be extended and integrated with other Git tools Can also be used to manage Hugo / Jekyll / Gatsby websites No Ads Never need to import / export your notes, as you always have control of the data. Apps may come and go, but your notes will always be with you. Git has been chosen as a backend as self-hosting a Git server is much simpler than almost any other software, additionally there are already many commercial providers of Git. So you can choose who you want to trust with your notes. We currently don't support encrypting the notes, but it's something we're actively working on.",
-    "summaryDescription": "GitJournal is an open source note taking / journaling app built with privacy and data portability in mind. It stores all its notes in a standardised Markdown + YAML header format or plaintext. The notes are stored in a hosted Git Repo of your choice - GitHub / GitLab / Gitea / Gogs / Any Custom-provider. Features - Offline First - All yours notes are available offline No Account Required Categorize your Notes with Folders Open source / Free Software / FOSS Can easily be extended and integrated with other Git tools Can also be used to manage Hugo / Jekyll / Gatsby websites No Ads Never need to import / export your notes, as you always have control of the data. Apps may come and go, but your notes will always be with you. Git has been chosen as a backend as self-hosting a Git server is much simpler than almost any other software, additionally there are already many commercial providers of Git. So you can choose who you want to trust with your notes. We currently don't support encrypting the notes, but it's something we're actively working on.",
+    "description": "GitJournal 是一款开源笔记/日记应用程序，在构建时考虑到了隐私和数据可移植性。它将所有注释存储在标准化的 Markdown + YAML 标头格式或纯文本中。这些注释存储在您选择的托管 Git 存储库中 - GitHub / GitLab / Gitea / Gogs / 任何自定义提供商。特点 - 离线优先 - 您的所有笔记都可以离线使用 无需帐户 使用文件夹对您的笔记进行分类 开源/免费软件/FOSS 可以轻松扩展并与其他 Git 工具集成 也可以用于管理 Hugo / Jekyll / Gatsby 网站 无广告 永远不需要",
+    "fullDescription": "GitJournal 是一款开源笔记/日记应用程序，在构建时考虑到了隐私和数据可移植性。它将所有注释存储在标准化的 Markdown + YAML 标头格式或纯文本中。这些注释存储在您选择的托管 Git 存储库中 - GitHub / GitLab / Gitea / Gogs / 任何自定义提供商。特点 - 离线优先 - 您的所有笔记都可以离线使用 无需帐户 使用文件夹对您的笔记进行分类 开源/免费软件/FOSS 可以轻松扩展并与其他 Git 工具集成 也可以用于管理 Hugo / Jekyll / Gatsby 网站 无广告 永远不需要",
+    "summaryDescription": "GitJournal 是一款开源笔记/日记应用程序，在构建时考虑到了隐私和数据可移植性。它将所有注释存储在标准化的 Markdown + YAML 标头格式或纯文本中。这些注释存储在您选择的托管 Git 存储库中 - GitHub / GitLab / Gitea / Gogs / 任何自定义提供商。特点 - 离线优先 - 您的所有笔记都可以离线使用 无需帐户 使用文件夹对您的笔记进行分类 开源/免费软件/FOSS 可以轻松扩展并与其他 Git 工具集成 也可以用于管理 Hugo / Jekyll / Gatsby 网站 无广告 永远不需要",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/e2/db/f7e2dbc8-b21f-a6d5-c1f0-486d3d0e96dd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/e2/db/f7e2dbc8-b21f-a6d5-c1f0-486d3d0e96dd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
     "sellerName": "Vishesh Handa",
@@ -136557,9 +136567,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/euclidean-auv3-sequencer/id1605757270?uo=4",
-    "description": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏起源于希腊数学家欧几里得算法，该算法涉及使用两个数字的最大公约数将命中数尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里德音序器是自动生成复杂音乐序列的好方法，无需先验",
-    "fullDescription": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏起源于希腊数学家欧几里得算法，该算法涉及使用两个数字的最大公约数将命中数尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里德音序器是自动生成复杂音乐序列的好方法，无需先验",
-    "summaryDescription": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏起源于希腊数学家欧几里得算法，该算法涉及使用两个数字的最大公约数将命中数尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里德音序器是自动生成复杂音乐序列的好方法，无需先验",
+    "description": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏源于希腊数学家欧几里得的算法，该算法涉及使用两个数字的最大公约数将匹配项尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里德音序器是自动生成复杂音乐序列的好方法，无需先验",
+    "fullDescription": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏源于希腊数学家欧几里得的算法，该算法涉及使用两个数字的最大公约数将匹配项尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里德音序器是自动生成复杂音乐序列的好方法，无需先验",
+    "summaryDescription": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏源于希腊数学家欧几里得的算法，该算法涉及使用两个数字的最大公约数将匹配项尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里德音序器是自动生成复杂音乐序列的好方法，无需先验",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/51/28/525128f0-a207-6c45-d72c-743f8b2a1ece/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/51/28/525128f0-a207-6c45-d72c-743f8b2a1ece/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Limelight Software",
@@ -229255,8 +229265,8 @@
     "description": "用悠扬乐声拯救世界，全新体验的绘本风角色扮演音乐游戏！ 扮演主角探索地图，通过音乐游戏进行“调律”，让黑白无声的世界恢复生机。 随着剧情推进，逐步解锁多样风格的乐曲，享受震撼人心的BOSS关卡演出，欣赏精美的绘本故事！ 【奖项与成就】 2025 厦门国际动漫节“金海豚奖“ Cyber Sousa Award「最佳游戏银奖」 2016 国际移动游戏大奖 1st IMGA SEA「最佳音乐音效奖 Excellence in Audio」 2016 GAME STAR游戏之星票选 Taiwan Indie Game 项目金奖」 2017 第13届 IMGA Global 入围 2017 Indie Prize Award - Casual Connect Asia「最佳移动游戏 Best Mobile Game」入围 【游戏特色】 新颖动感的音乐游戏 原创多变的演奏界面动画，跟随音乐节奏点击与滑动，演奏由数十位作曲家创作的高质量乐曲，体验充满魄力的BOSS关卡特别演出。我们为音乐游戏的初学者到高手打造不同难度等级与挑战任务，提升实力并解锁隐藏要素吧！ 精致迷人的绘本故事 “我相信，受音律眷顾的你，一定可以恢复世界原本的秩序。” 当各地的混乱能量通过“调律”恢复秩序，世界原本的模样也逐渐浮现。逐步探索地图上的未知地点，欣赏丰富的故事文本与手绘绘本插图，途中获得的道具，就像旅程中的纪念品。 排行榜、成就、成绩分享与存档 收集与剧情相关的成就，分享成绩给朋友，同时在排行榜上与全世界的音乐游戏高手一较高下。游戏支持云端存档。 【官方链接】 官方网站：https://lanota.gmzon.com 隐私权政策与服务条款：https://lanota.gmzon.com/privacy.html 在以下平台关注我们： Bilibili：@调律诗篇官方 公众号：@调律诗篇Lanota 小红书：@调律诗篇Lanota",
     "fullDescription": "用悠扬乐声拯救世界，全新体验的绘本风角色扮演音乐游戏！ 扮演主角探索地图，通过音乐游戏进行“调律”，让黑白无声的世界恢复生机。 随着剧情推进，逐步解锁多样风格的乐曲，享受震撼人心的BOSS关卡演出，欣赏精美的绘本故事！ 【奖项与成就】 2025 厦门国际动漫节“金海豚奖“ Cyber Sousa Award「最佳游戏银奖」 2016 国际移动游戏大奖 1st IMGA SEA「最佳音乐音效奖 Excellence in Audio」 2016 GAME STAR游戏之星票选 Taiwan Indie Game 项目金奖」 2017 第13届 IMGA Global 入围 2017 Indie Prize Award - Casual Connect Asia「最佳移动游戏 Best Mobile Game」入围 【游戏特色】 新颖动感的音乐游戏 原创多变的演奏界面动画，跟随音乐节奏点击与滑动，演奏由数十位作曲家创作的高质量乐曲，体验充满魄力的BOSS关卡特别演出。我们为音乐游戏的初学者到高手打造不同难度等级与挑战任务，提升实力并解锁隐藏要素吧！ 精致迷人的绘本故事 “我相信，受音律眷顾的你，一定可以恢复世界原本的秩序。” 当各地的混乱能量通过“调律”恢复秩序，世界原本的模样也逐渐浮现。逐步探索地图上的未知地点，欣赏丰富的故事文本与手绘绘本插图，途中获得的道具，就像旅程中的纪念品。 排行榜、成就、成绩分享与存档 收集与剧情相关的成就，分享成绩给朋友，同时在排行榜上与全世界的音乐游戏高手一较高下。游戏支持云端存档。 【官方链接】 官方网站：https://lanota.gmzon.com 隐私权政策与服务条款：https://lanota.gmzon.com/privacy.html 在以下平台关注我们： Bilibili：@调律诗篇官方 公众号：@调律诗篇Lanota 小红书：@调律诗篇Lanota",
     "summaryDescription": "用悠扬乐声拯救世界，全新体验的绘本风角色扮演音乐游戏！ 扮演主角探索地图，通过音乐游戏进行“调律”，让黑白无声的世界恢复生机。 随着剧情推进，逐步解锁多样风格的乐曲，享受震撼人心的BOSS关卡演出，欣赏精美的绘本故事！ 【奖项与成就】 2025 厦门国际动漫节“金海豚奖“ Cyber Sousa Award「最佳游戏银奖」 2016 国际移动游戏大奖 1st IMGA SEA「最佳音乐音效奖 Excellence in Audio」 2016 GAME STAR游戏之星票选 Taiwan Indie Game 项目金奖」 2017 第13届 IMGA Global 入围 2017 Indie Prize Award - Casual Connect Asia「最佳移动游戏 Best Mobile Game」入围 【游戏特色】 新颖动感的音乐游戏 原创多变的演奏界面动画，跟随音乐节奏点击与滑动，演奏由数十位作曲家创作的高质量乐曲，体验充满魄力的BOSS关卡特别演出。我们为音乐游戏的初学者到高手打造不同难度等级与挑战任务，提升实力并解锁隐藏要素吧！ 精致迷人的绘本故事 “我相信，受音律眷顾的你，一定可以恢复世界原本的秩序。” 当各地的混乱能量通过“调律”恢复秩序，世界原本的模样也逐渐浮现。逐步探索地图上的未知地点，欣赏丰富的故事文本与手绘绘本插图，途中获得的道具，就像旅程中的纪念品。 排行榜、成就、成绩分享与存档 收集与剧情相关的成就，分享成绩给朋友，同时在排行榜上与全世界的音乐游戏高手一较高下。游戏支持云端存档。 【官方链接】 官方网站：https://lanota.gmzon.com 隐私权政策与服务条款：https://lanota.gmzon.com/privacy.html 在以下平台关注我们： Bilibili：@调律诗篇官方 公众号：@调律诗篇Lanota 小红书：@调律诗篇Lanota",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/1e/c5/e21ec577-5baa-a3ea-d265-55c5109c694f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/1e/c5/e21ec577-5baa-a3ea-d265-55c5109c694f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/99/1a/bb991aed-97c4-e803-dcac-2569b1412127/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/99/1a/bb991aed-97c4-e803-dcac-2569b1412127/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Shanghai Gmzon Culture Co., Ltd.",
     "artistName": "Shanghai Gmzon Culture Co., Ltd.",
     "screenshotUrls": [
