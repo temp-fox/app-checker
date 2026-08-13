@@ -2,6 +2,168 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 886683283,
+      "name": {
+        "cn": "Primary Particle"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786594206210,
+      "_discountType": "app"
+    },
+    {
+      "id": 1206514629,
+      "name": {
+        "cn": "Quick CSV"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786594206210,
+      "_discountType": "app"
+    },
+    {
+      "id": 1207247199,
+      "name": {
+        "cn": "Pulse - Metronome"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786594206210,
+      "_discountType": "app"
+    },
+    {
+      "id": 1302709732,
+      "name": {
+        "cn": "Lettercam"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786594206210,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779276210,
+      "name": {
+        "cn": "柔道计分器比赛计时2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786594147855,
+      "_discountType": "app"
+    },
+    {
+      "id": 6777959650,
+      "name": {
+        "cn": "爱仓颉"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786594150833,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797827645,
+      "name": {
+        "cn": "爬楼助手 - 支持watch手表爬楼梯打卡"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786594156168,
+      "_discountType": "app"
+    },
+    {
+      "id": 6764478472,
+      "name": {
+        "cn": "PMP Exam Prep Guide 2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786594158748,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762170209,
+      "name": {
+        "cn": "QR Forge - QR Code Creator"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786594206210,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6749323539,
+      "name": {
+        "cn": "ImgZilla - 图片压缩工具"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786594206210,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6449623823,
+      "name": {
+        "cn": "Simori"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786594206210,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790190963,
+      "name": {
+        "cn": "Match Mates: Cozy Poplike"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786594206210,
+      "_discountType": "app"
+    },
+    {
+      "id": 6737806967,
+      "name": {
+        "cn": "Luna Glow"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786594206210,
+      "_discountType": "app"
+    },
+    {
+      "id": 6748052970,
+      "name": {
+        "cn": "Snapatch"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786594206210,
+      "_discountType": "app"
+    },
+    {
       "id": 6773735058,
       "name": {
         "cn": "晚风 - 视频播放器"
