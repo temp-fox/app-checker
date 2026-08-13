@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6758002070,
+      "name": {
+        "cn": "Hair Expert Pro：虚拟换发型"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786647587267,
+      "_discountType": "app"
+    },
+    {
+      "id": 6748564326,
+      "name": {
+        "cn": "Just Counter Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786647587267,
+      "_discountType": "app"
+    },
+    {
       "id": 6786557788,
       "name": {
         "cn": "九型人格测试性格心理深度测评MBTI双测离线工具版"
