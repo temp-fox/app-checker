@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1786589971754,
+    "cn": {
+      "total": 3,
+      "price": 3,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 1471181491,
+          "name": "FACEICON - Cartoon Yourself",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6741702484,
+          "name": "American Palette",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1542317784,
+          "name": "房价-国家统计局房价行情数据统计",
+          "type": "price",
+          "detail": "¥18.00 → ¥1.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786572874285,
     "cn": {
       "total": 2,
@@ -3479,44 +3507,6 @@
           "name": "Little Kitten  小猫—猫猫冒险游戏",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785716226758,
-    "cn": {
-      "total": 2,
-      "price": 2,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6449202094,
-          "name": "红光护眼",
-          "type": "price",
-          "detail": "¥48.00 → ¥22.00"
-        },
-        {
-          "id": 6762558902,
-          "name": "Counter Plan：倒數日計數器",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785709520359,
-    "cn": {
-      "total": 1,
-      "price": 0,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6754637800,
-          "name": "Breastfeeding Tracker & Timer",
-          "type": "iap",
-          "detail": "Lifetime: ¥38.00 → ¥29.00"
         }
       ]
     }
