@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1148793641,
+      "name": {
+        "cn": "Hooktheory II"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786704991875,
+      "_discountType": "app"
+    },
+    {
+      "id": 1357933382,
+      "name": {
+        "cn": "BlindsBook Drapery Calculator"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786704983696,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795751715,
+      "name": {
+        "cn": "拾序"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786704989334,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789735714,
+      "name": {
+        "cn": "音素听辨训练卡2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786704997123,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785122107,
+      "name": {
+        "cn": "分数跳GradeTrack"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786704997123,
+      "_discountType": "app"
+    },
+    {
       "id": 519126255,
       "name": {
         "cn": "Bubba's Golf Scorecard"
