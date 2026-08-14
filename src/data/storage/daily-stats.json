@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": 1786676320039,
+    "cn": {
+      "total": 4,
+      "price": 2,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6789408515,
+          "name": "Focus-专注力自控力认知训练",
+          "type": "price",
+          "detail": "¥8.00 → ¥3.00"
+        },
+        {
+          "id": 6478431169,
+          "name": "专注当下 - 每日时间管理工具",
+          "type": "iap",
+          "detail": "PRO永久会员: ¥68.00 → ¥0.00"
+        },
+        {
+          "id": 349880412,
+          "name": "Family Tracker",
+          "type": "iap",
+          "detail": "Family Tracker - 1 Month Subscription: ¥15.00 → ¥14.00"
+        },
+        {
+          "id": 6747655400,
+          "name": "RPGEmu - RPG Maker视觉小说们",
+          "type": "price",
+          "detail": "¥38.00 → ¥18.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786652376059,
     "cn": {
       "total": 3,
@@ -3437,150 +3471,6 @@
           "name": "FlatMol 2",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785802561560,
-    "cn": {
-      "total": 3,
-      "price": 2,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 862473183,
-          "name": "PDFMagic：PDF编辑器与扫描仪",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 6760583029,
-          "name": "RC Carbon Cavalieri App",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6744329263,
-          "name": "MockTimer Pro - 沉浸式考试模拟",
-          "type": "iap",
-          "detail": "高级会员(终身): ¥28.00 → ¥19.90"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785795617946,
-    "cn": {
-      "total": 1,
-      "price": 0,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6763273012,
-          "name": "语音提醒闹钟",
-          "type": "iap",
-          "detail": "Premium Lifetime: ¥98.00 → ¥68.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785789840661,
-    "cn": {
-      "total": 15,
-      "price": 13,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6782777024,
-          "name": "Blur Background - StudioBlur",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6776469291,
-          "name": "SuperHear - Hear Audio & Heart",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6774525820,
-          "name": "Budget Tracker - VeroSpend",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6789200263,
-          "name": "Boat Buddy - Nautical Guide",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6782638884,
-          "name": "PlateDetect",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6776190200,
-          "name": "Drawloft",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 6769327657,
-          "name": "Calorie Tracker - Calorya",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6774993071,
-          "name": "SitPose - Posture Monitoring",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6777542389,
-          "name": "Exifspot",
-          "type": "price",
-          "detail": "¥22.00 → ¥15.00"
-        },
-        {
-          "id": 6761960212,
-          "name": "Fast PDF APP",
-          "type": "price",
-          "detail": "¥28.00 → ¥22.00"
-        },
-        {
-          "id": 6775971574,
-          "name": "The Hue vault",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 6770024737,
-          "name": "Client Compass",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 476566660,
-          "name": "地球3D",
-          "type": "price",
-          "detail": "¥38.00 → ¥28.00"
-        },
-        {
-          "id": 966489322,
-          "name": "生辰 — 桌面时间小组件",
-          "type": "iap",
-          "detail": "永久会员: ¥98.00 → ¥88.00"
-        },
-        {
-          "id": 966489322,
-          "name": "生辰 — 桌面时间小组件",
-          "type": "iap",
-          "detail": "生辰-季度会员: ¥88.00 → ¥22.00"
         }
       ]
     }

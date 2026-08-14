@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 292240076,
+      "name": {
+        "cn": "Collins Italian-English"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786671701107,
+      "_discountType": "app"
+    },
+    {
+      "id": 1485673674,
+      "name": {
+        "cn": "PractiScore Log"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786671698402,
+      "_discountType": "app"
+    },
+    {
+      "id": 6764839155,
+      "name": {
+        "cn": "小白学钓鱼"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786671698402,
+      "_discountType": "app"
+    },
+    {
       "id": 6780054752,
       "name": {
         "cn": "小古文断句训练离线版2026"
