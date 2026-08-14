@@ -2,6 +2,116 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 519126255,
+      "name": {
+        "cn": "Bubba's Golf Scorecard"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786692003838,
+      "_discountType": "app"
+    },
+    {
+      "id": 1519614035,
+      "name": {
+        "cn": "LectroRM Watch"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786692006623,
+      "_discountType": "app"
+    },
+    {
+      "id": 1557818024,
+      "name": {
+        "cn": "人教版初中英语九年级全一册 -新目标同步点读教材"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786692006623,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792421948,
+      "name": {
+        "cn": "IssueFolio"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786692000804,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780678542,
+      "name": {
+        "cn": "食品留样台账记录2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786692000804,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767251208,
+      "name": {
+        "cn": "ClipHub 剪贴板"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786692000779,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795981351,
+      "name": {
+        "cn": "手柄·阿西西"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786692000779,
+      "_discountType": "app"
+    },
+    {
+      "id": 6477572502,
+      "name": {
+        "cn": "VisionKeys"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786692012015,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780411526,
+      "name": {
+        "cn": "特定技能 建設 対策"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786692014663,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779235773,
+      "name": {
+        "cn": "CantoMando"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786692014663,
+      "_discountType": "app"
+    },
+    {
       "id": 1438199765,
       "name": {
         "cn": "Watchee"
@@ -41830,7 +41940,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1779504329962,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6763953866,

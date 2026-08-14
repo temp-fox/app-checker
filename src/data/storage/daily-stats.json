@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": 1786697026362,
+    "cn": {
+      "total": 1,
+      "price": 0,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6753894048,
+          "name": "Remove BG・Background Remover",
+          "type": "iap",
+          "detail": "Lifetime: ¥68.00 → ¥0.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786685573726,
     "cn": {
       "total": 8,
@@ -3431,28 +3447,6 @@
           "name": "JPEG Jackal Lite",
           "type": "price",
           "detail": "¥8.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785829612261,
-    "cn": {
-      "total": 2,
-      "price": 2,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6757995651,
-          "name": "诗意云天气",
-          "type": "price",
-          "detail": "¥3.00 → 免费"
-        },
-        {
-          "id": 6794522553,
-          "name": "Renewa：订阅与账单管理",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
