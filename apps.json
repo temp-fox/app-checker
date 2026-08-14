@@ -2,6 +2,99 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1438199765,
+      "name": {
+        "cn": "Watchee"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786680413477,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788645279,
+      "name": {
+        "cn": "岛屿阅读 - AI朗读电子书阅读器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786680413477,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6740409947,
+      "name": {
+        "cn": "Focus & Sleep: Onkei"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786680413477,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6793369593,
+      "name": {
+        "cn": "Reprieve: Migraine Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786680413477,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6792522995,
+      "name": {
+        "cn": "Shift Plan Reminder"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786680413477,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796486391,
+      "name": {
+        "cn": "BreakThree"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786680413477,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799132221,
+      "name": {
+        "cn": "Spider Climb: Web Hero"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786680413477,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768739415,
+      "name": {
+        "cn": "SimpleFT8"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786680413477,
+      "_discountType": "app"
+    },
+    {
       "id": 292240076,
       "name": {
         "cn": "Collins Italian-English"
