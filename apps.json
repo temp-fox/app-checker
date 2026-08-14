@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 297540008,
+      "name": {
+        "cn": "Wallet"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786739311374,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761904457,
+      "name": {
+        "cn": "removeRAW"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786739307319,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760871632,
+      "name": {
+        "cn": "每日黄历-万年历&黄历，节气、天气与节假日、佛历、道历、诞辰"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786739315417,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780351047,
+      "name": {
+        "cn": "卷印净"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786739317432,
+      "_discountType": "app"
+    },
+    {
       "id": 483148811,
       "name": {
         "cn": "用于iPhone的时光倒流"
