@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1786780541635,
+    "cn": {
+      "total": 3,
+      "price": 3,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6789645403,
+          "name": "CompassOne",
+          "type": "price",
+          "detail": "¥12.00 → 免费"
+        },
+        {
+          "id": 6762346798,
+          "name": "DualFrame Cam・双格相机、双摄、镜像相机",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1459028801,
+          "name": "爱五笔 - 五笔编码拆字大全",
+          "type": "price",
+          "detail": "¥8.00 → ¥6.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786773162465,
     "cn": {
       "total": 3,
@@ -3345,28 +3373,6 @@
           "name": "上学易-小学信息平台,幼升小升学必备",
           "type": "price",
           "detail": "¥8.00 → ¥1.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785914129636,
-    "cn": {
-      "total": 2,
-      "price": 2,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6757080398,
-          "name": "不正经翻译器",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6473332700,
-          "name": "逐鹿 - 历史沙盘战棋",
-          "type": "price",
-          "detail": "¥45.00 → ¥18.00"
         }
       ]
     }
