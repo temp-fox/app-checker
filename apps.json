@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1501342073,
+      "name": {
+        "cn": "英语自然拼读法第1级 - English Phonics"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786818290390,
+      "_discountType": "app"
+    },
+    {
+      "id": 6754293523,
+      "name": {
+        "cn": "Rower Tracker"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786818280065,
+      "_discountType": "app"
+    },
+    {
       "id": 1118072618,
       "name": {
         "cn": "KORG iWAVESTATION"
