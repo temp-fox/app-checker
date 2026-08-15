@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 381015280,
+      "name": {
+        "cn": "Singing Fingers"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786782289749,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794842042,
+      "name": {
+        "cn": "SoundSpice：音频降噪、音质增强与一键修复"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786782281729,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795327427,
+      "name": {
+        "cn": "AD-202"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786782289749,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792190325,
+      "name": {
+        "cn": "电工题库"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786782294976,
+      "_discountType": "app"
+    },
+    {
       "id": 1612783783,
       "name": {
         "cn": "Learn Rust Programming Offline"
