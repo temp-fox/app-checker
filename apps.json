@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1612783783,
+      "name": {
+        "cn": "Learn Rust Programming Offline"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786768062213,
+      "_discountType": "app"
+    },
+    {
+      "id": 6680190226,
+      "name": {
+        "cn": "CaptainFlow"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786768047861,
+      "_discountType": "app"
+    },
+    {
+      "id": 6754218575,
+      "name": {
+        "cn": "宝宝起名大师-好名字一键生成"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786768047861,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788980289,
+      "name": {
+        "cn": "台球练球本-杆法走位记录2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786768050537,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795595036,
+      "name": {
+        "cn": "爱兵法 - 孙子兵法、三十六计、武经七书"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786768053382,
+      "_discountType": "app"
+    },
+    {
       "id": 406854407,
       "name": {
         "cn": "BallFallDown Deluxe"

@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1786773162465,
+    "cn": {
+      "total": 3,
+      "price": 2,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6769611605,
+          "name": "PDF剪辑大师",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6737126687,
+          "name": "3GS",
+          "type": "price",
+          "detail": "¥22.00 → ¥8.00"
+        },
+        {
+          "id": 6759470615,
+          "name": "Safe-Word: Voice SOS & Safety",
+          "type": "iap",
+          "detail": "Safe-Word: ¥198.00 → ¥38.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786767169397,
     "cn": {
       "total": 8,
