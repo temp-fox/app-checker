@@ -16047,9 +16047,19 @@
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00",
-      "All Packs": "¥1.00"
+      "All Packs": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786762262827,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "All Packs": "¥0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786474731997,
@@ -16102,9 +16112,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/timestamp-camera-gps-date-time/id949277371?uo=4",
-    "description": "Timestamp Camera helps you capture photos and videos with date, time, GPS location, address, and custom text watermarks in real time. It is useful for work records, delivery proof, inspections, field reports, travel memories, and everyday photo notes. Whether you need a quick work record, a delivery photo, an inspection note, a travel memory, or a daily journal, TimeStampCam makes every shot easier to remember and organize. MAIN FEATURES Add date and time watermarks while taking photos or recording videos Show GPS location, address when needed Add your own custom text, notes, project names or job details Choose watermark position: top left, top center, top right, bottom left, bottom center or bottom right Customize font, size, color, text opacity and background opacity Apply photo and video effects when you want a different look Simple camera controls for fast shooting Save watermarked photos and videos to your library USEFUL FOR Work records and field reports Construction and inspection photos Delivery and service proof photos Travel and location memories Fitness, diet and daily progress logs Family, pet and everyday photo records TimeStamp Camera is designed to be simple, practical and easy to use. Open the camera, choose your watermark style, and capture photos or videos with the information you need.",
-    "fullDescription": "Timestamp Camera helps you capture photos and videos with date, time, GPS location, address, and custom text watermarks in real time. It is useful for work records, delivery proof, inspections, field reports, travel memories, and everyday photo notes. Whether you need a quick work record, a delivery photo, an inspection note, a travel memory, or a daily journal, TimeStampCam makes every shot easier to remember and organize. MAIN FEATURES Add date and time watermarks while taking photos or recording videos Show GPS location, address when needed Add your own custom text, notes, project names or job details Choose watermark position: top left, top center, top right, bottom left, bottom center or bottom right Customize font, size, color, text opacity and background opacity Apply photo and video effects when you want a different look Simple camera controls for fast shooting Save watermarked photos and videos to your library USEFUL FOR Work records and field reports Construction and inspection photos Delivery and service proof photos Travel and location memories Fitness, diet and daily progress logs Family, pet and everyday photo records TimeStamp Camera is designed to be simple, practical and easy to use. Open the camera, choose your watermark style, and capture photos or videos with the information you need.",
-    "summaryDescription": "Timestamp Camera helps you capture photos and videos with date, time, GPS location, address, and custom text watermarks in real time. It is useful for work records, delivery proof, inspections, field reports, travel memories, and everyday photo notes. Whether you need a quick work record, a delivery photo, an inspection note, a travel memory, or a daily journal, TimeStampCam makes every shot easier to remember and organize. MAIN FEATURES Add date and time watermarks while taking photos or recording videos Show GPS location, address when needed Add your own custom text, notes, project names or job details Choose watermark position: top left, top center, top right, bottom left, bottom center or bottom right Customize font, size, color, text opacity and background opacity Apply photo and video effects when you want a different look Simple camera controls for fast shooting Save watermarked photos and videos to your library USEFUL FOR Work records and field reports Construction and inspection photos Delivery and service proof photos Travel and location memories Fitness, diet and daily progress logs Family, pet and everyday photo records TimeStamp Camera is designed to be simple, practical and easy to use. Open the camera, choose your watermark style, and capture photos or videos with the information you need.",
+    "description": "时间戳相机可帮助您实时捕捉带有日期、时间、GPS 位置、地址和自定义文本水印的照片和视频。它对于工作记录、交货证明、检查、现场报告、旅行回忆和日常照片笔记非常有用。无论您需要快速工作记录、交货照片、检查记录、旅行记忆还是每日日记，TimeStampCam 都能让您更轻松地记住和整理每一个镜头。主要功能 拍照或录制视频时添加日期和时间水印 需要时显示 GPS 位置、地址 添加您自己的自定义文本、注释、项目名称或",
+    "fullDescription": "时间戳相机可帮助您实时捕捉带有日期、时间、GPS 位置、地址和自定义文本水印的照片和视频。它对于工作记录、交货证明、检查、现场报告、旅行回忆和日常照片笔记非常有用。无论您需要快速工作记录、交货照片、检查记录、旅行记忆还是每日日记，TimeStampCam 都能让您更轻松地记住和整理每一个镜头。主要功能 拍照或录制视频时添加日期和时间水印 需要时显示 GPS 位置、地址 添加您自己的自定义文本、注释、项目名称或",
+    "summaryDescription": "时间戳相机可帮助您实时捕捉带有日期、时间、GPS 位置、地址和自定义文本水印的照片和视频。它对于工作记录、交货证明、检查、现场报告、旅行回忆和日常照片笔记非常有用。无论您需要快速工作记录、交货照片、检查记录、旅行记忆还是每日日记，TimeStampCam 都能让您更轻松地记住和整理每一个镜头。主要功能 拍照或录制视频时添加日期和时间水印 需要时显示 GPS 位置、地址 添加您自己的自定义文本、注释、项目名称或",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/70/d1/6970d15e-1ffd-ab5f-3782-d86222be189f/AppIcon-4-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/70/d1/6970d15e-1ffd-ab5f-3782-d86222be189f/AppIcon-4-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
     "sellerName": "Huafang Zhang",
@@ -143272,6 +143282,25 @@
     "history": [
       [
         {
+          "timestamp": 1786762262827,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "648元礼包四": "¥648.00",
+            "328元礼包四": "¥328.00",
+            "168元礼包四": "¥168.00",
+            "30元礼包四": "¥30.00",
+            "60元礼包四": "¥60.00",
+            "18元礼包四": "¥18.00",
+            "6元礼包四": "¥6.00",
+            "328元礼包三": "¥328.00",
+            "168元礼包三": "¥168.00",
+            "648元礼包三": "¥648.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786680413550,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -158972,9 +159001,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/lettercam/id1302709732?uo=4",
-    "description": "LetterCam 将您看到的所有内容转化为由字母组成的图片 - 实时、实时地显示在取景器中。将你的相机对准任何东西，然后观察它重新绘制成流动的马赛克类型。拼出你自己的单词，选择调色板，捏合字母变大或变小，然后捕捉瞬间。每个效果都在专为流畅实时渲染而构建的 GPU 引擎上运行——所见即所得。让它成为你的 拼写任何内容——你的名字、歌词、消息——然后看着它平铺在图像上 经典 ASCII 模式根据亮度选择字符，就像老式术语一样",
-    "fullDescription": "LetterCam 将您看到的所有内容转化为由字母组成的图片 - 实时、实时地显示在取景器中。将你的相机对准任何东西，然后观察它重新绘制成流动的马赛克类型。拼出你自己的单词，选择调色板，捏合字母变大或变小，然后捕捉瞬间。每个效果都在专为流畅实时渲染而构建的 GPU 引擎上运行——所见即所得。让它成为你的 拼写任何内容——你的名字、歌词、消息——然后看着它平铺在图像上 经典 ASCII 模式根据亮度选择字符，就像老式术语一样",
-    "summaryDescription": "LetterCam 将您看到的所有内容转化为由字母组成的图片 - 实时、实时地显示在取景器中。将你的相机对准任何东西，然后观察它重新绘制成流动的马赛克类型。拼出你自己的单词，选择调色板，捏合字母变大或变小，然后捕捉瞬间。每个效果都在专为流畅实时渲染而构建的 GPU 引擎上运行——所见即所得。让它成为你的 拼写任何内容——你的名字、歌词、消息——然后看着它平铺在图像上 经典 ASCII 模式根据亮度选择字符，就像老式术语一样",
+    "description": "LetterCam 将您看到的所有内容转化为由字母组成的图片 - 实时、实时地显示在取景器中。将你的相机对准任何东西，然后观察它重新绘制成流动的马赛克类型。拼出你自己的单词，选择调色板，捏合字母变大或变小，然后捕捉这一瞬间。每个效果都在专为流畅实时渲染而构建的 GPU 引擎上运行——所见即所得。让它成为你的 拼写任何内容——你的名字、歌词、消息——然后看着它平铺在图像上 经典 ASCII 模式根据亮度选择字符，就像老式术语一样",
+    "fullDescription": "LetterCam 将您看到的所有内容转化为由字母组成的图片 - 实时、实时地显示在取景器中。将你的相机对准任何东西，然后观察它重新绘制成流动的马赛克类型。拼出你自己的单词，选择调色板，捏合字母变大或变小，然后捕捉这一瞬间。每个效果都在专为流畅实时渲染而构建的 GPU 引擎上运行——所见即所得。让它成为你的 拼写任何内容——你的名字、歌词、消息——然后看着它平铺在图像上 经典 ASCII 模式根据亮度选择字符，就像老式术语一样",
+    "summaryDescription": "LetterCam 将您看到的所有内容转化为由字母组成的图片 - 实时、实时地显示在取景器中。将你的相机对准任何东西，然后观察它重新绘制成流动的马赛克类型。拼出你自己的单词，选择调色板，捏合字母变大或变小，然后捕捉这一瞬间。每个效果都在专为流畅实时渲染而构建的 GPU 引擎上运行——所见即所得。让它成为你的 拼写任何内容——你的名字、歌词、消息——然后看着它平铺在图像上 经典 ASCII 模式根据亮度选择字符，就像老式术语一样",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/bb/fc/e9bbfc87-7976-b63e-68d7-37bb03259242/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/bb/fc/e9bbfc87-7976-b63e-68d7-37bb03259242/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Hexperimental Media Inc",
@@ -171944,6 +171973,55 @@
       "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/59/65/c0/5965c0a8-4f02-97f3-0f46-69c5e065ef18/pr_source.png/576x768bb.png"
     ],
     "_externalSourceFirstSeen": 1780344940644
+  },
+  "1324066291": {
+    "name": "Stopwatch 4 TS",
+    "trackName": "Stopwatch 4 TS",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786762262827,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/stopwatch-4-ts/id1324066291?uo=4",
+    "description": "用于记录周期时间或执行简单时间记录的简单秒表。功能： 以 1/100 分钟或分/秒显示时间 删除、停用和添加值 通过加速度计自动记录（检测振动） 使用摄像头自动记录（应该是图像比较） 显示：每小时零件数、考虑 OEE 的每小时零件数（在设置中输入）、平均值、离散度、分钟。和最大。值、epsilon、标准差以及达到 epsilon 所需的测量次数和剩余测量次数（epsilon 可以在首选项中设置",
+    "fullDescription": "用于记录周期时间或执行简单时间记录的简单秒表。功能： 以 1/100 分钟或分/秒显示时间 删除、停用和添加值 通过加速度计自动记录（检测振动） 使用摄像头自动记录（应该是图像比较） 显示：每小时零件数、考虑 OEE 的每小时零件数（在设置中输入）、平均值、离散度、分钟。和最大。值、epsilon、标准差以及达到 epsilon 所需的测量次数和剩余测量次数（epsilon 可以在首选项中设置",
+    "summaryDescription": "用于记录周期时间或执行简单时间记录的简单秒表。功能： 以 1/100 分钟或分/秒显示时间 删除、停用和添加值 通过加速度计自动记录（检测振动） 使用摄像头自动记录（应该是图像比较） 显示：每小时零件数、考虑 OEE 的每小时零件数（在设置中输入）、平均值、离散度、分钟。和最大。值、epsilon、标准差以及达到 epsilon 所需的测量次数和剩余测量次数（epsilon 可以在首选项中设置",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/85/35/a785356f-ef52-319d-6d29-f796ff923e9f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/85/35/a785356f-ef52-319d-6d29-f796ff923e9f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Thomas Herzog",
+    "artistName": "Thomas Herzog",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/10/cb/4210cb08-4bd9-0105-2710-958185f6fb64/62f2ff82-d7d2-4546-9e36-8fcd008c1dc4_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-03-26_at_11.21.58.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/00/75/84007536-980d-63e6-6d65-964571c076ff/242b3ebe-5fb1-408f-a478-b0bbbb00e8e2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-03-26_at_11.21.51.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/7c/62/3a7c62a5-c5fd-4378-1eae-b47e17104f16/6ddbea9a-d4e8-44b7-8942-a1a5c4795e6a_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-12-23_at_15.20.19.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/b8/81/55b88192-7230-907c-5312-3f742f34e392/df2848a6-1155-4287-91c3-259662a2ef5d_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-12-23_at_15.20.34.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/13/39/27/13392714-99f6-ff48-4348-ed4f2f71352f/tns.hfpqftlr.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/86/0f/3d860fb9-39dd-a0ab-e67a-9ede4c6113d6/tns.cvanurqw.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/6a/6b/d56a6b70-5e52-3123-235d-384310b07411/tns.vvfqhlkl.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3e/04/9f/3e049f21-4c17-0383-7e44-c262871c5528/4a2253d9-644c-440a-b391-d7cafe55b074_Simulator_Screen_Shot_-_iPad_Pro_2_Gen_-_2023-03-26_at_11.45.16.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/cc/2e/80cc2e4a-f6d6-de31-2838-af714bd701fa/d89f41c0-875a-4157-bfce-12f2975d7870_Simulator_Screen_Shot_-_iPad_Pro_2_Gen_-_2023-03-26_at_11.44.56.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/dc/58/d4dc586c-e05c-ac8a-7ee8-816a69afac42/84592143-5385-4c58-b10e-fe2fd4fcface_Simulator_Screen_Shot_-_iPad_Pro_2_Gen_-_2023-03-26_at_11.45.09.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/01/fa/e2/01fae28b-6826-ce17-2386-65e657f9d2de/657bc70d-c760-4711-ae02-1fe6d5b1c484_Simulator_Screen_Shot_-_iPad_Pro_2_Gen_-_2023-03-26_at_11.45.00.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3b/c9/fe/3bc9fe5d-346b-bdfb-6a30-85a595867c2b/268a3915-4e16-4cc4-a89a-5256a662f0f2_Simulator_Screen_Shot_-_iPad_Pro_2_Gen_-_2023-03-26_at_11.45.03.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4b/c0/4f/4bc04ffa-c351-59c9-0903-8368b4ff0b8f/3bcb681e-48d3-476d-a3b1-5c6ec20905c3_Simulator_Screen_Shot_-_iPad_Pro_2_Gen_-_2023-03-26_at_11.45.17.png/576x768bb.png"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1786762262754
   },
   "1324203419": {
     "name": "Ground News",
@@ -187913,6 +187991,24 @@
     "history": [
       [
         {
+          "timestamp": 1786762262827,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "舞萌DX限定组曲_Vol.02（30%off）": "¥18.00",
+            "舞萌DX限定组曲_Vol.02": "¥25.00",
+            "决心与力量之歌(20%off)": "¥25.00",
+            "决心与力量之歌": "¥30.00",
+            "东方暮乐团组合包（壹~伍）20%off": "¥98.00",
+            "东方暮乐团组合包（壹~伍）": "¥125.00",
+            "东方暮乐团 -伍-(30%off)": "¥18.00",
+            "东方暮乐团 -伍-": "¥25.00",
+            "DASH AND SHOOT! (30%off)": "¥18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786594206290,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -197262,9 +197358,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/iplant-plant-identifier/id1372113110?uo=4",
-    "description": "iplant可以基于人工智能APP快速准确的识别植物花卉！只需用手机拍摄或选择植物图片，即可快速识别植物并发现未知！ 【功能特点】 照片识别：打开应用程序拍照即可快速识别植物。图库识别：将手机相册中的植物图片导入到本应用中，快速识别植物。识别记录：自动保存识别记录并快速查找历史记录。分享：将植物图片及信息分享至Facebook、W",
-    "fullDescription": "iplant可以基于人工智能APP快速准确的识别植物花卉！只需用手机拍摄或选择植物图片，即可快速识别植物并发现未知！ 【功能特点】 照片识别：打开应用程序拍照即可快速识别植物。图库识别：将手机相册中的植物图片导入到本应用中，快速识别植物。识别记录：自动保存识别记录并快速查找历史记录。分享：将植物图片及信息分享至Facebook、W",
-    "summaryDescription": "iplant可以基于人工智能APP快速准确的识别植物花卉！只需用手机拍摄或选择植物图片，即可快速识别植物并发现未知！ 【功能特点】 照片识别：打开应用程序拍照即可快速识别植物。图库识别：将手机相册中的植物图片导入到本应用中，快速识别植物。识别记录：自动保存识别记录并快速查找历史记录。分享：将植物图片及信息分享至Facebook、W",
+    "description": "iplant基于人工智能APP可以快速准确的识别植物花卉！只需用手机拍摄或选择植物图片，即可快速识别植物并发现未知！ 【功能特点】 照片识别：打开应用程序拍照即可快速识别植物。图库识别：将手机相册中的植物图片导入到本应用中，快速识别植物。识别记录：自动保存识别记录并快速查找历史记录。分享：将植物图片及信息分享至Facebook、W",
+    "fullDescription": "iplant基于人工智能APP可以快速准确的识别植物花卉！只需用手机拍摄或选择植物图片，即可快速识别植物并发现未知！ 【功能特点】 照片识别：打开应用程序拍照即可快速识别植物。图库识别：将手机相册中的植物图片导入到本应用中，快速识别植物。识别记录：自动保存识别记录并快速查找历史记录。分享：将植物图片及信息分享至Facebook、W",
+    "summaryDescription": "iplant基于人工智能APP可以快速准确的识别植物花卉！只需用手机拍摄或选择植物图片，即可快速识别植物并发现未知！ 【功能特点】 照片识别：打开应用程序拍照即可快速识别植物。图库识别：将手机相册中的植物图片导入到本应用中，快速识别植物。识别记录：自动保存识别记录并快速查找历史记录。分享：将植物图片及信息分享至Facebook、W",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9a/a6/86/9aa686be-9c84-78a2-8ddc-1601a84e0e20/AppIcon-1x_U007emarketing-0-9-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9a/a6/86/9aa686be-9c84-78a2-8ddc-1601a84e0e20/AppIcon-1x_U007emarketing-0-9-0-85-220.png/100x100bb.jpg",
     "sellerName": "宗群 杨",
@@ -201794,9 +201890,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/dwg-to-pdf-converter-pro/id1383181685?mt=12&uo=4",
-    "description": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的尺寸。可出口l",
-    "fullDescription": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的尺寸。可出口l",
-    "summaryDescription": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的尺寸。可出口l",
+    "description": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的大小。可出口l",
+    "fullDescription": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的大小。可出口l",
+    "summaryDescription": "DWG To PDF Converter Pro 允许您直接将 DWG 转换为 PDF、DXF 转换为 PDF 和图像以及 DWF 转换为 PDF，无需 AutoCAD，它可以快速轻松地将 DWG、DXF 和 DWF 文件转换为 PDF 和图像文件。 DWG to PDF Converter Pro 功能：批量将 DWG 转换为 PDF、DXF 转换为 PDF 和 DWF 转换为 PDF。支持所有版本的 DWG、DXF 和 DWF、DWFX 格式（支持 R2.5-2024）。您可以直接设置页面大小，也可以选择预定义的页面大小来快速设置页面大小。支持 AutoCAD 笔集文件 (*.ctb)。可以通过其布局设置自动调整输出页面的大小。可出口l",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/70/a8/b770a84e-a75e-6d99-f22f-229d8d4e8cea/AppIcon.png/60x60bb.png",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/70/a8/b770a84e-a75e-6d99-f22f-229d8d4e8cea/AppIcon.png/100x100bb.png",
     "sellerName": "江 李",
@@ -217060,48 +217156,6 @@
       "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/40/8f/bb/408fbb69-351b-b92a-d8d4-e41b5dec56b6/mzl.mzsiesqo.jpg/576x768bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/86/95/53/869553c2-b867-269b-e82a-bb04a5bacbfb/mzl.fnomdjqn.jpg/576x768bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6c/39/44/6c3944b1-d05d-cf5f-c5e1-e37c3da16dcf/mzl.arhieqso.jpg/576x768bb.jpg"
-    ]
-  },
-  "1439533817": {
-    "name": "FM Panel D-15 Test",
-    "trackName": "FM Panel D-15 Test",
-    "maxPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
-    },
-    "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1772375272895,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/fm-panel-d-15-test/id1439533817?uo=4",
-    "description": "This software is the software which carries out the Farnsworth-Munsell Panel D-15 Test. The FM Panel D-15 Test is said to be able to discriminate whether the degree of misunderstanding of color vision is intensity or not. In addition to the tests, this software has following functions. color sliders. matrix tables, circle color charts. LMS Conversion, Cellophane treatment, Degree rotation, Image pixel picker.",
-    "fullDescription": "This software is the software which carries out the Farnsworth-Munsell Panel D-15 Test. The FM Panel D-15 Test is said to be able to discriminate whether the degree of misunderstanding of color vision is intensity or not. In addition to the tests, this software has following functions. color sliders. matrix tables, circle color charts. LMS Conversion, Cellophane treatment, Degree rotation, Image pixel picker.",
-    "summaryDescription": "This software is the software which carries out the Farnsworth-Munsell Panel D-15 Test. The FM Panel D-15 Test is said to be able to discriminate whether the degree of misunderstanding of color vision is intensity or not. In addition to the tests, this software has following functions. color sliders. matrix tables, circle color charts. LMS Conversion, Cellophane treatment, Degree rotation, Image pixel picker.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/5e/c0/1f5ec07b-8f1c-5f10-dfbb-f182ac32ebd2/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/5e/c0/1f5ec07b-8f1c-5f10-dfbb-f182ac32ebd2/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-    "sellerName": "Yasashi Matsuo",
-    "artistName": "Yasashi Matsuo",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/25/2d/6a252d80-c692-6158-f7a0-7fb48d13fbb7/5d6e0edb-aa32-4288-8604-b2fb20eed864_FMD15_E55_ss_1.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8f/43/21/8f43214f-e8b0-4dee-e698-33df4eab82b5/1e4c5647-1ef9-4997-8d1a-e14290b7fc66_FMD15_E55_ss_2.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/13/54/d9/1354d9d2-4cbd-3180-61b0-4f479337581d/9e67a44d-0403-4180-9cc5-bdcd64cc120f_FMD15_E55_ss_3.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fe/3c/c5/fe3cc593-b0bc-0d06-441c-7ec965aeb284/a6f6e61d-6d50-4b42-9047-58cef7cd0f79_FMD15_E55_ss_4.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/b6/09/8c/b6098cfb-b8d2-7e2e-9849-c9932e8a9879/50e8576f-a33d-4975-a2d7-8f44ac65a294_FMD15_E55_ss_5.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/08/50/f9/0850f978-5b04-570a-6fba-b88442188b4f/6bdfe7ad-ae69-4650-b87d-b46b6073abd3_FMD15_E55_ss_6.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c9/87/7a/c9877aff-0d58-937f-916b-8c3fad97687c/d715313d-c1cd-481a-b61e-6eb20da2093c_FMD15_E55_ss_7.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/d9/ff/8cd9ff15-6258-1fac-099e-36ba984e38ae/ac9e7c6a-2ab3-46ed-96af-6a46a823b29d_FMD15_E55_ss_8.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/4c/07/3a/4c073a42-a1be-a4ba-5aae-905f733e4702/9a1bed70-4b81-4a1e-b9cb-499742ac72f3_FMD15_E55_ss_9.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b2/cf/5f/b2cf5f64-0149-6220-e171-e86d6f5e6441/b7cc1f0f-11b5-479d-be63-b499f88df704_FMD15_E55_ss_10.png/392x696bb.png"
     ]
   }
 }

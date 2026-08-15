@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": 1786767169397,
+    "cn": {
+      "total": 8,
+      "price": 6,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6780071655,
+          "name": "Intenty: Intention Journal",
+          "type": "iap",
+          "detail": "Lifetime: ¥398.00 → ¥0.00"
+        },
+        {
+          "id": 949277371,
+          "name": "Timestamp Camera-GPS Date Time",
+          "type": "price",
+          "detail": "¥22.00 → ¥3.00"
+        },
+        {
+          "id": 949277371,
+          "name": "Timestamp Camera-GPS Date Time",
+          "type": "iap",
+          "detail": "All Packs: ¥22.00 → ¥0.00"
+        },
+        {
+          "id": 6761639037,
+          "name": "Voice Notes : Voice to Text",
+          "type": "price",
+          "detail": "¥22.00 → ¥3.00"
+        },
+        {
+          "id": 6742772789,
+          "name": "PasteTiny",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 1324066291,
+          "name": "Stopwatch 4 TS",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6749879318,
+          "name": "MoonDust: Cosmic Journey",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 406854407,
+          "name": "BallFallDown Deluxe",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786760432708,
     "cn": {
       "total": 4,
@@ -3281,34 +3339,6 @@
           "name": "逐鹿 - 历史沙盘战棋",
           "type": "price",
           "detail": "¥45.00 → ¥18.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785901276802,
-    "cn": {
-      "total": 3,
-      "price": 2,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 1624436697,
-          "name": "Blur Photo.",
-          "type": "iap",
-          "detail": "Blur Photo+: ¥148.00 → ¥22.00"
-        },
-        {
-          "id": 6752672698,
-          "name": "SkySafari 8 Plus",
-          "type": "price",
-          "detail": "¥128.00 → ¥98.00"
-        },
-        {
-          "id": 375526217,
-          "name": "Roastmaster",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
         }
       ]
     }

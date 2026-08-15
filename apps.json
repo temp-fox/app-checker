@@ -2,6 +2,98 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 406854407,
+      "name": {
+        "cn": "BallFallDown Deluxe"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786762262754,
+      "_discountType": "app"
+    },
+    {
+      "id": 1324066291,
+      "name": {
+        "cn": "Stopwatch 4 TS"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786762262754,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798775906,
+      "name": {
+        "cn": "黑胶音乐播放器 · Orbit"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786762262754,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6749012209,
+      "name": {
+        "cn": "PantaScan 2: TTS Book Scanner"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786762262754,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6747434405,
+      "name": {
+        "cn": "弱视恢复训练-视力训练"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786762262754,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6762371909,
+      "name": {
+        "cn": "MenoLog: Menopause Journal"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786762262754,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6742772789,
+      "name": {
+        "cn": "PasteTiny"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786762262754,
+      "_discountType": "app"
+    },
+    {
+      "id": 6749879318,
+      "name": {
+        "cn": "MoonDust: Cosmic Journey"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786762262754,
+      "_discountType": "app"
+    },
+    {
       "id": 1179368263,
       "name": {
         "cn": "Sound Maker Synth"
