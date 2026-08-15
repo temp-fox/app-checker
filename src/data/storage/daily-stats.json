@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": 1786760432708,
+    "cn": {
+      "total": 4,
+      "price": 3,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6780931157,
+          "name": "MyyyOdyssey",
+          "type": "iap",
+          "detail": "MyyyOdyssey Pro: ¥28.00 → ¥8.00"
+        },
+        {
+          "id": 6777280757,
+          "name": "觅静：ASMR白噪音与鸟叫声识别",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 461793562,
+          "name": "You Record Pro",
+          "type": "price",
+          "detail": "¥78.00 → 免费"
+        },
+        {
+          "id": 1257281849,
+          "name": "SkySafari",
+          "type": "price",
+          "detail": "¥38.00 → ¥22.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786738903703,
     "cn": {
       "total": 4,
@@ -3275,86 +3309,6 @@
           "name": "Roastmaster",
           "type": "price",
           "detail": "¥68.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785889893818,
-    "cn": {
-      "total": 7,
-      "price": 7,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6782777024,
-          "name": "Blur Background - StudioBlur",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6776469291,
-          "name": "SuperHear - Hear Audio & Heart",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6774525820,
-          "name": "Budget Tracker - VeroSpend",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6789200263,
-          "name": "Boat Buddy - Nautical Guide",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6782638884,
-          "name": "PlateDetect",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6769327657,
-          "name": "Calorie Tracker - Calorya",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6774993071,
-          "name": "SitPose - Posture Monitoring",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785876314947,
-    "cn": {
-      "total": 3,
-      "price": 2,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6785424413,
-          "name": "Authenticator App Vault+",
-          "type": "iap",
-          "detail": "Premium Security: ¥498.00 → ¥198.00"
-        },
-        {
-          "id": 988504062,
-          "name": "Recent Contacts Timeline",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 1453592782,
-          "name": "Color Wheel Pro",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
