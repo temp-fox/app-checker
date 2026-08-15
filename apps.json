@@ -2,6 +2,94 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 496279549,
+      "name": {
+        "cn": "Dive Plan"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786797117655,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795453888,
+      "name": {
+        "cn": "肚肚扫描-肚子有虫娱乐模拟工具"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786797115056,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790803507,
+      "name": {
+        "cn": "匠算 - 建筑下料计算器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786797120369,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770564254,
+      "name": {
+        "cn": "遮一下"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786797120407,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763469616,
+      "name": {
+        "cn": "离线私密相册"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786797120407,
+      "_discountType": "app"
+    },
+    {
+      "id": 6740897928,
+      "name": {
+        "cn": "决定吖-随机小决定，每天大快乐"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786797128216,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797849739,
+      "name": {
+        "cn": "宝宝推箱子"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786797128216,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757705967,
+      "name": {
+        "cn": "Writing Shine"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786797128138,
+      "_discountType": "app"
+    },
+    {
       "id": 381015280,
       "name": {
         "cn": "Singing Fingers"
@@ -21912,8 +22000,8 @@
       "name": {
         "cn": "XYZMoney-玲珑记账"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1782977365113,
