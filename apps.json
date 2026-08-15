@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 414607139,
+      "name": {
+        "cn": "Luminancer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786803584795,
+      "_discountType": "app"
+    },
+    {
+      "id": 903695247,
+      "name": {
+        "cn": "商务日语口语一本通 -业务交流实务"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786803590949,
+      "_discountType": "app"
+    },
+    {
+      "id": 1187155862,
+      "name": {
+        "cn": "大力税手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786803590962,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760036684,
+      "name": {
+        "cn": "Stopwatch Max: Lap Timer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786803582757,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794595621,
+      "name": {
+        "cn": "叉车题库"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786803590949,
+      "_discountType": "app"
+    },
+    {
       "id": 496279549,
       "name": {
         "cn": "Dive Plan"
@@ -67415,8 +67470,8 @@
       "name": {
         "cn": "智能对话 AI Chat"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1776319264539,

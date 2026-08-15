@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": 1786808508824,
+    "cn": {
+      "total": 10,
+      "price": 2,
+      "iap": 8,
+      "apps": [
+        {
+          "id": 6756984732,
+          "name": "起名匠",
+          "type": "iap",
+          "detail": "月度订阅: ¥8.00 → ¥6.00"
+        },
+        {
+          "id": 6756984732,
+          "name": "起名匠",
+          "type": "iap",
+          "detail": "年度订阅: ¥18.00 → ¥12.00"
+        },
+        {
+          "id": 985358162,
+          "name": "Art Master",
+          "type": "price",
+          "detail": "¥68.00 → 免费"
+        },
+        {
+          "id": 6774842090,
+          "name": "AlarmCroc",
+          "type": "iap",
+          "detail": "Alarm Croc Yearly: ¥148.00 → ¥38.00"
+        },
+        {
+          "id": 6774842090,
+          "name": "AlarmCroc",
+          "type": "iap",
+          "detail": "AlarmCroc Monthly: ¥68.00 → ¥28.00"
+        },
+        {
+          "id": 6755654053,
+          "name": "SwipeClean: Storage Cleaner",
+          "type": "iap",
+          "detail": "All Access: ¥28.00 → ¥22.00"
+        },
+        {
+          "id": 6755654053,
+          "name": "SwipeClean: Storage Cleaner",
+          "type": "iap",
+          "detail": "Annual: ¥88.00 → ¥68.00"
+        },
+        {
+          "id": 6468486508,
+          "name": "Stratega!",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1492738910,
+          "name": "IPTV Smarters Player: BigPlay",
+          "type": "iap",
+          "detail": "BigPlay Pro Lifetime: ¥298.00 → ¥198.00"
+        },
+        {
+          "id": 1492738910,
+          "name": "IPTV Smarters Player: BigPlay",
+          "type": "iap",
+          "detail": "BigPlay Pro: ¥22.00 → ¥15.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786803352459,
     "cn": {
       "total": 1,
@@ -3289,40 +3359,6 @@
           "name": "V2er-只为V2EX",
           "type": "price",
           "detail": "¥68.00 → ¥38.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785943163710,
-    "cn": {
-      "total": 4,
-      "price": 3,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 1230497116,
-          "name": "中国色",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6758726503,
-          "name": "五代十国模拟器：愿天下太平",
-          "type": "price",
-          "detail": "¥3.00 → ¥1.00"
-        },
-        {
-          "id": 6636492811,
-          "name": "Gem Genius AI",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 1344655035,
-          "name": "蜡烛人",
-          "type": "iap",
-          "detail": "蜡烛人完整版: ¥30.00 → ¥18.00"
         }
       ]
     }
