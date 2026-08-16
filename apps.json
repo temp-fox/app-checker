@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6798728902,
+      "name": {
+        "cn": "班主任小助手 - 老师辅导员的宝藏工具"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786854821631,
+      "_discountType": "app"
+    },
+    {
       "id": 292809726,
       "name": {
         "cn": "iWoman – 对女性的经期,健康和生育时期追踪"
