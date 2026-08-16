@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6796016006,
+      "name": {
+        "cn": "爱道德经"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786911576368,
+      "_discountType": "app"
+    },
+    {
+      "id": 6791258071,
+      "name": {
+        "cn": "飞手题库"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786911584481,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781517657,
+      "name": {
+        "cn": "拾青·国学诗词字理启蒙"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786911584481,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780928603,
+      "name": {
+        "cn": "英文分级书架-阅读记录2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786911587164,
+      "_discountType": "app"
+    },
+    {
       "id": 6789815841,
       "name": {
         "cn": "计量校准台账与送检提醒2026"
