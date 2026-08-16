@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1786847381103,
+    "cn": {
+      "total": 3,
+      "price": 2,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6736720429,
+          "name": "日月食地图",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 1527566390,
+          "name": "桁架设计",
+          "type": "price",
+          "detail": "¥25.00 → 免费"
+        },
+        {
+          "id": 331529422,
+          "name": "Relax Melodies P: Sleep Sounds",
+          "type": "iap",
+          "detail": "订购: ¥70.00 → ¥35.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786837141814,
     "cn": {
       "total": 1,
@@ -3301,22 +3329,6 @@
           "name": "Frogline",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1785973635178,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6745764555,
-          "name": "Jetz",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
         }
       ]
     }
