@@ -2,6 +2,144 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 292809726,
+      "name": {
+        "cn": "iWoman – 对女性的经期,健康和生育时期追踪"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786849078061,
+      "_discountType": "app"
+    },
+    {
+      "id": 1336210713,
+      "name": {
+        "cn": "iBußgeld"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786849123618,
+      "_discountType": "iap"
+    },
+    {
+      "id": 1447312762,
+      "name": {
+        "cn": "音乐下载器和播放器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786849123618,
+      "_discountType": "iap"
+    },
+    {
+      "id": 1485150403,
+      "name": {
+        "cn": "Track4Facts PRO"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786849123618,
+      "_discountType": "app"
+    },
+    {
+      "id": 1550840173,
+      "name": {
+        "cn": "PSprices"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786849088331,
+      "_discountType": "app"
+    },
+    {
+      "id": 6771049566,
+      "name": {
+        "cn": "DocWeave：PDF图片转文字，离线OCR文档扫描与识别"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786849123618,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6786212021,
+      "name": {
+        "cn": "Rovo Cam"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786849123618,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6796294047,
+      "name": {
+        "cn": "WeaveLife: Habit Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786849123618,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758737789,
+      "name": {
+        "cn": "Phone Faker: Your Simulator"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786849123618,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776941156,
+      "name": {
+        "cn": "i截图 - Annotation&ScreenShot"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786849123618,
+      "_discountType": "app"
+    },
+    {
+      "id": 6476618917,
+      "name": {
+        "cn": "Currency++"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786849123618,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782776811,
+      "name": {
+        "cn": "Lion Dance Beats"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786849123618,
+      "_discountType": "app"
+    },
+    {
       "id": 720810459,
       "name": {
         "cn": "Xynthesizr"
