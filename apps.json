@@ -2,6 +2,72 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 429873747,
+      "name": {
+        "cn": "Photometer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786890050719,
+      "_discountType": "app"
+    },
+    {
+      "id": 1017798340,
+      "name": {
+        "cn": "mAx Speed Calculator"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786890047865,
+      "_discountType": "app"
+    },
+    {
+      "id": 1462588103,
+      "name": {
+        "cn": "E6BX E6B Flight Computer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786890059314,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758904046,
+      "name": {
+        "cn": "Sipflow 喝水助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786890056381,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755876223,
+      "name": {
+        "cn": "Learn SQL - Database Mastery"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786890059314,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787675992,
+      "name": {
+        "cn": "JyutTyper"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786890059314,
+      "_discountType": "app"
+    },
+    {
       "id": 1635287588,
       "name": {
         "cn": "来地图: 世界国家"
