@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6789815841,
+      "name": {
+        "cn": "计量校准台账与送检提醒2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786897303702,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785175261,
+      "name": {
+        "cn": "知识提醒"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786897311318,
+      "_discountType": "app"
+    },
+    {
       "id": 429873747,
       "name": {
         "cn": "Photometer"
