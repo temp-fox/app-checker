@@ -14402,14 +14402,22 @@
     "name": "OpenDocument Reader Pro",
     "trackName": "OpenDocument Reader Pro",
     "maxPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786875686053,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783020051891,
@@ -41963,6 +41971,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786875686053,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785565814800,
@@ -184087,6 +184103,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786875686053,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥8.00",
+            "DLC：怪物联盟": "¥12.00",
+            "DLC：龙之神庙": "¥7.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：异界": "¥8.00",
+            "DLC：邪恶之心": "¥12.00",
+            "DLC：魔法之镜": "¥5.00",
+            "奇境森林": "¥15.00"
+          }
+        },
         {
           "timestamp": 1786849123741,
           "price": 18,

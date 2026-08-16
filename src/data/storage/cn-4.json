@@ -118776,14 +118776,22 @@
     "name": "小位扫描",
     "trackName": "小位扫描",
     "maxPriceInfo": {
-      "price": 12,
-      "formattedPrice": "¥12.00"
+      "price": 228,
+      "formattedPrice": "¥228.00"
     },
     "minPriceInfo": {
       "price": 12,
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786875686053,
+          "price": 228,
+          "formattedPrice": "¥228.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783594367777,
