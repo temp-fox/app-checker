@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1635287588,
+      "name": {
+        "cn": "来地图: 世界国家"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786883655895,
+      "_discountType": "app"
+    },
+    {
       "id": 6759895688,
       "name": {
         "cn": "手机哨兵-高度集成的赛博核心反应堆手机防盗监控控制中心"

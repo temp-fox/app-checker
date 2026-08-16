@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1786889153952,
+    "cn": {
+      "total": 3,
+      "price": 0,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6779956652,
+          "name": "杯酒人生",
+          "type": "iap",
+          "detail": "AI Cocktail Mixer: ¥12.00 → ¥6.00"
+        },
+        {
+          "id": 6760534533,
+          "name": "SleepDiary - 睡眠声音日记",
+          "type": "iap",
+          "detail": "睡眠声音日记 Pro: ¥38.00 → ¥6.00"
+        },
+        {
+          "id": 6755624768,
+          "name": "语音待办AI：智能任务清单",
+          "type": "iap",
+          "detail": "To-Do Speak AI Premium Yearly: ¥148.00 → ¥98.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786879845845,
     "cn": {
       "total": 2,
@@ -3273,52 +3301,6 @@
           "name": "潜水员戴夫",
           "type": "price",
           "detail": "¥30.00 → ¥24.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786016428252,
-    "cn": {
-      "total": 6,
-      "price": 3,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6752317866,
-          "name": "睡觉助手-睡眠记录手账就寝打卡目标统计提醒离线本地",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6779157571,
-          "name": "私密照片保险箱 - Arca",
-          "type": "iap",
-          "detail": "Arca Premium Lifetime: ¥398.00 → ¥38.00"
-        },
-        {
-          "id": 6774956996,
-          "name": "习惯打卡：日常与目标",
-          "type": "iap",
-          "detail": "Habit Tracker Premium: ¥22.00 → ¥0.00"
-        },
-        {
-          "id": 6767256118,
-          "name": "语音转文字离线录音",
-          "type": "iap",
-          "detail": "Voice to Text Premium Lifetime: ¥328.00 → ¥0.00"
-        },
-        {
-          "id": 6448387537,
-          "name": "Dirty Beat - Electro Studio",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6756572896,
-          "name": "成语世界-中小学智慧学习",
-          "type": "price",
-          "detail": "¥5.00 → ¥3.50"
         }
       ]
     }
