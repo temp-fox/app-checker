@@ -2,6 +2,121 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1076661698,
+      "name": {
+        "cn": "Louvre Museum Audio Guide"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786935482988,
+      "_discountType": "app"
+    },
+    {
+      "id": 1489434176,
+      "name": {
+        "cn": "炫酷灯控"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786935480212,
+      "_discountType": "app"
+    },
+    {
+      "id": 1639802818,
+      "name": {
+        "cn": "QRCode++"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786935542908,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797268545,
+      "name": {
+        "cn": "VHS Camera: Retro Camcorder"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786935542908,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6779493280,
+      "name": {
+        "cn": "删图 OnePhoto"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786935542908,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6758571512,
+      "name": {
+        "cn": "Gutio: 肠道追踪 AI 肠道健康"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786935542908,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6793936737,
+      "name": {
+        "cn": "Stampr: Create Photo Stamps"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786935542908,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785947715,
+      "name": {
+        "cn": "AppScreens Go"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786935542908,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790564711,
+      "name": {
+        "cn": "Photos 2 PDF Pro"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786935542908,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756135104,
+      "name": {
+        "cn": "Logic Layers"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1786935542908,
+      "_discountType": "app"
+    },
+    {
       "id": 6796016006,
       "name": {
         "cn": "爱道德经"
