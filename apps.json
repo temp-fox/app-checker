@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1658394747,
+      "name": {
+        "cn": "SMAWL: RAW Photo Converter"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786976745936,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797211431,
+      "name": {
+        "cn": "润舍日历 - 农历节假日与养生"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786976751448,
+      "_discountType": "app"
+    },
+    {
       "id": 979888370,
       "name": {
         "cn": "MusicStreamer"

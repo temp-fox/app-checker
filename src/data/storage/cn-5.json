@@ -1,4 +1,293 @@
 {
+  "6761284559": {
+    "name": "照度计 色温 开尔文EV",
+    "trackName": "照度计 色温 开尔文EV",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785704160788,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E7%85%A7%E5%BA%A6%E8%AE%A1-%E8%89%B2%E6%B8%A9-%E5%BC%80%E5%B0%94%E6%96%87ev/id6761284559?uo=4",
+    "description": "将你的 iPhone 变成一款专业的测光仪。使用相机实时测量照度（勒克斯或英尺烛光）、曝光值（EV）以及色温（CCT，单位为开尔文）。 无论你是正在精确调整曝光的摄影师、想确保家中植物获得充足光照的养植物爱好者，还是检查工作空间照明是否达标的照明专业人士，这款应用都能提供你所需的读数——无需昂贵的硬件设备。 实时测量 勒克斯和英尺烛光读数每一帧都会更新 曝光值（EV）与照度同时显示 以开尔文显示相关色温（CCT） 自动记录最小值、最大值和平均值统计 专业模拟与数字显示 精美的模拟仪表，带有动态指针和渐变弧形刻度 峰值标记会在仪表上突出显示最大读数 大号数字显示，并带有阈值状态指示 可切换模拟、数字或组合视图 保持与阈值提醒 HOLD 按钮可立即冻结当前读数 设置目标勒克斯范围，当读数越过阈值时获得触觉反馈 视觉指示器显示当前读数低于、处于或高于目标范围 实时图表 滚动的实时图表显示光照强度趋势 一眼发现照明条件的变化 记录与分享 一键记录测量会话 会话会保存最小值、最大值、平均勒克斯、持续时间和读数次数 通过文本导出和分享会话报告——非常适合文档记录 相机功能 支持前置和后置相机 内置手电筒开关，可提供额外照明 带叠加控制的实时相机预览 校准与设置 可调节的校准倍数，确保读数更一致 可自定义模拟仪表刻度范围 选择你偏好的单位：勒克斯或英尺烛光 提供“保持屏幕常亮”选项，适合长时间测量 针对暗色环境优化的界面，使用更舒适 工作原理 应用会使用 Core Image 分析实时视频帧，以计算场景平均亮度，然后应用基于 EV 的公式，并结合曝光时长、ISO 和光圈参数进行计算。色温则通过 RGB 色度并使用 McCamy 近似法进行估算。校准倍数可帮助你将读数与参考测光仪对齐，从而提高准确性。 注意：智能手机相机会对光照水平进行近似估算，不能替代经过认证的实验室仪器。结果具有相对性，更适合用于比较、趋势观察和通用测量。 非常适合 调整棚拍或自然光的摄影师 测量植物生长灯强度的植物爱好者 评估室内照明效果的室内设计师 工作场所安全与人体工学照明检查 学习光学和光度学的教师与学生 对周围光线感到好奇的任何人 无广告。无订阅。只是一个强大且设计精美的测光仪，随身装进口袋。",
+    "fullDescription": "将你的 iPhone 变成一款专业的测光仪。使用相机实时测量照度（勒克斯或英尺烛光）、曝光值（EV）以及色温（CCT，单位为开尔文）。 无论你是正在精确调整曝光的摄影师、想确保家中植物获得充足光照的养植物爱好者，还是检查工作空间照明是否达标的照明专业人士，这款应用都能提供你所需的读数——无需昂贵的硬件设备。 实时测量 勒克斯和英尺烛光读数每一帧都会更新 曝光值（EV）与照度同时显示 以开尔文显示相关色温（CCT） 自动记录最小值、最大值和平均值统计 专业模拟与数字显示 精美的模拟仪表，带有动态指针和渐变弧形刻度 峰值标记会在仪表上突出显示最大读数 大号数字显示，并带有阈值状态指示 可切换模拟、数字或组合视图 保持与阈值提醒 HOLD 按钮可立即冻结当前读数 设置目标勒克斯范围，当读数越过阈值时获得触觉反馈 视觉指示器显示当前读数低于、处于或高于目标范围 实时图表 滚动的实时图表显示光照强度趋势 一眼发现照明条件的变化 记录与分享 一键记录测量会话 会话会保存最小值、最大值、平均勒克斯、持续时间和读数次数 通过文本导出和分享会话报告——非常适合文档记录 相机功能 支持前置和后置相机 内置手电筒开关，可提供额外照明 带叠加控制的实时相机预览 校准与设置 可调节的校准倍数，确保读数更一致 可自定义模拟仪表刻度范围 选择你偏好的单位：勒克斯或英尺烛光 提供“保持屏幕常亮”选项，适合长时间测量 针对暗色环境优化的界面，使用更舒适 工作原理 应用会使用 Core Image 分析实时视频帧，以计算场景平均亮度，然后应用基于 EV 的公式，并结合曝光时长、ISO 和光圈参数进行计算。色温则通过 RGB 色度并使用 McCamy 近似法进行估算。校准倍数可帮助你将读数与参考测光仪对齐，从而提高准确性。 注意：智能手机相机会对光照水平进行近似估算，不能替代经过认证的实验室仪器。结果具有相对性，更适合用于比较、趋势观察和通用测量。 非常适合 调整棚拍或自然光的摄影师 测量植物生长灯强度的植物爱好者 评估室内照明效果的室内设计师 工作场所安全与人体工学照明检查 学习光学和光度学的教师与学生 对周围光线感到好奇的任何人 无广告。无订阅。只是一个强大且设计精美的测光仪，随身装进口袋。",
+    "summaryDescription": "将你的 iPhone 变成一款专业的测光仪。使用相机实时测量照度（勒克斯或英尺烛光）、曝光值（EV）以及色温（CCT，单位为开尔文）。 无论你是正在精确调整曝光的摄影师、想确保家中植物获得充足光照的养植物爱好者，还是检查工作空间照明是否达标的照明专业人士，这款应用都能提供你所需的读数——无需昂贵的硬件设备。 实时测量 勒克斯和英尺烛光读数每一帧都会更新 曝光值（EV）与照度同时显示 以开尔文显示相关色温（CCT） 自动记录最小值、最大值和平均值统计 专业模拟与数字显示 精美的模拟仪表，带有动态指针和渐变弧形刻度 峰值标记会在仪表上突出显示最大读数 大号数字显示，并带有阈值状态指示 可切换模拟、数字或组合视图 保持与阈值提醒 HOLD 按钮可立即冻结当前读数 设置目标勒克斯范围，当读数越过阈值时获得触觉反馈 视觉指示器显示当前读数低于、处于或高于目标范围 实时图表 滚动的实时图表显示光照强度趋势 一眼发现照明条件的变化 记录与分享 一键记录测量会话 会话会保存最小值、最大值、平均勒克斯、持续时间和读数次数 通过文本导出和分享会话报告——非常适合文档记录 相机功能 支持前置和后置相机 内置手电筒开关，可提供额外照明 带叠加控制的实时相机预览 校准与设置 可调节的校准倍数，确保读数更一致 可自定义模拟仪表刻度范围 选择你偏好的单位：勒克斯或英尺烛光 提供“保持屏幕常亮”选项，适合长时间测量 针对暗色环境优化的界面，使用更舒适 工作原理 应用会使用 Core Image 分析实时视频帧，以计算场景平均亮度，然后应用基于 EV 的公式，并结合曝光时长、ISO 和光圈参数进行计算。色温则通过 RGB 色度并使用 McCamy 近似法进行估算。校准倍数可帮助你将读数与参考测光仪对齐，从而提高准确性。 注意：智能手机相机会对光照水平进行近似估算，不能替代经过认证的实验室仪器。结果具有相对性，更适合用于比较、趋势观察和通用测量。 非常适合 调整棚拍或自然光的摄影师 测量植物生长灯强度的植物爱好者 评估室内照明效果的室内设计师 工作场所安全与人体工学照明检查 学习光学和光度学的教师与学生 对周围光线感到好奇的任何人 无广告。无订阅。只是一个强大且设计精美的测光仪，随身装进口袋。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/2f/7d/602f7dd8-bd06-99b8-7791-df1ba1addfad/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/2f/7d/602f7dd8-bd06-99b8-7791-df1ba1addfad/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Vladislav Zhirnov",
+    "artistName": "Vladislav Zhirnov",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/6f/39/d16f3980-1e4d-a7c2-3202-d438ec1b1816/Simulator_Screenshot_-_14_plus_-_2026-03-28_at_16.53.32.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/b0/f0/acb0f04e-36fc-4fbf-9cca-62256a32ecee/Simulator_Screenshot_-_14_plus_-_2026-03-28_at_16.53.36.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/fb/44/97fb444d-3c24-26ae-da11-b608e491c825/Simulator_Screenshot_-_14_plus_-_2026-03-28_at_16.53.38.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/d8/18/ecd81824-d75d-d4bb-f7f2-11fa6f155c84/Simulator_Screenshot_-_ipad13_-_2026-03-28_at_16.12.05.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/b1/dd/eab1dd1a-170e-9d76-a4e3-a96a7182ac7f/Simulator_Screenshot_-_ipad13_-_2026-03-28_at_16.12.12.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/b3/41/f8b34189-b3ae-b85b-0cd7-cfe915b8df20/Simulator_Screenshot_-_ipad13_-_2026-03-28_at_16.12.18.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1785704132236
+  },
+  "6754226600": {
+    "name": "Sleep Vibrations",
+    "trackName": "Sleep Vibrations",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785704160788,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/sleep-vibrations/id6754226600?uo=4",
+    "description": "Struggling to quiet your mind at night? Let your wrist lead the way to sleep. Sleep Vibrations is a standalone Apple Watch app designed to help you relax, decompress, and fall asleep faster using the power of haptic feedback. By utilizing the haptics in your Apple Watch, the app generates a soothing, rhythmic vibration that acts as a physical anchor for your attention, pulling you away from racing thoughts and into a state of deep relaxation. Whether you need to focus on your breath, calm anxiety, or simply need a gentle distraction to drift off, Sleep Vibrations provides a silent, non-intrusive solution. Why Use Haptics for Sleep? Unlike white noise apps or guided meditations that require headphones or audio, Sleep Vibrations is completely silent. It allows you to fall asleep without disturbing your partner, and without the need to wear uncomfortable earbuds in bed. It is a purely tactile experience designed to ground you in the present moment. Key Features: Adjustable Timer: Set your vibration session for up to 10 minutes, perfect for a quick wind-down routine. Speed and Style: Set your desired type of vibration and its speed. Pitch Black Design: A minimal, dark interface designed specifically for bedtime usage to reduce eye strain and blue light exposure. Completely Silent: Uses only vibration (haptics), making it perfect for shared beds or quiet environments. Standalone Experience: Runs entirely on your Apple Watch. No need to touch your iPhone and risk getting distracted by notifications. Battery Efficient: The session ends automatically when the timer runs out, ensuring your watch battery is preserved for morning tracking. How to Use: Open Sleep Vibrations on your Apple Watch while in bed. Set vibration type. Set desired speed. Select your desired duration (e.g., 5 or 10 minutes). Close your eyes, rest your hand comfortably, and focus on the rhythmic sensation on your wrist. Drift off to sleep. Download Sleep Vibrations tonight and feel the difference.",
+    "fullDescription": "Struggling to quiet your mind at night? Let your wrist lead the way to sleep. Sleep Vibrations is a standalone Apple Watch app designed to help you relax, decompress, and fall asleep faster using the power of haptic feedback. By utilizing the haptics in your Apple Watch, the app generates a soothing, rhythmic vibration that acts as a physical anchor for your attention, pulling you away from racing thoughts and into a state of deep relaxation. Whether you need to focus on your breath, calm anxiety, or simply need a gentle distraction to drift off, Sleep Vibrations provides a silent, non-intrusive solution. Why Use Haptics for Sleep? Unlike white noise apps or guided meditations that require headphones or audio, Sleep Vibrations is completely silent. It allows you to fall asleep without disturbing your partner, and without the need to wear uncomfortable earbuds in bed. It is a purely tactile experience designed to ground you in the present moment. Key Features: Adjustable Timer: Set your vibration session for up to 10 minutes, perfect for a quick wind-down routine. Speed and Style: Set your desired type of vibration and its speed. Pitch Black Design: A minimal, dark interface designed specifically for bedtime usage to reduce eye strain and blue light exposure. Completely Silent: Uses only vibration (haptics), making it perfect for shared beds or quiet environments. Standalone Experience: Runs entirely on your Apple Watch. No need to touch your iPhone and risk getting distracted by notifications. Battery Efficient: The session ends automatically when the timer runs out, ensuring your watch battery is preserved for morning tracking. How to Use: Open Sleep Vibrations on your Apple Watch while in bed. Set vibration type. Set desired speed. Select your desired duration (e.g., 5 or 10 minutes). Close your eyes, rest your hand comfortably, and focus on the rhythmic sensation on your wrist. Drift off to sleep. Download Sleep Vibrations tonight and feel the difference.",
+    "summaryDescription": "Struggling to quiet your mind at night? Let your wrist lead the way to sleep. Sleep Vibrations is a standalone Apple Watch app designed to help you relax, decompress, and fall asleep faster using the power of haptic feedback. By utilizing the haptics in your Apple Watch, the app generates a soothing, rhythmic vibration that acts as a physical anchor for your attention, pulling you away from racing thoughts and into a state of deep relaxation. Whether you need to focus on your breath, calm anxiety, or simply need a gentle distraction to drift off, Sleep Vibrations provides a silent, non-intrusive solution. Why Use Haptics for Sleep? Unlike white noise apps or guided meditations that require headphones or audio, Sleep Vibrations is completely silent. It allows you to fall asleep without disturbing your partner, and without the need to wear uncomfortable earbuds in bed. It is a purely tactile experience designed to ground you in the present moment. Key Features: Adjustable Timer: Set your vibration session for up to 10 minutes, perfect for a quick wind-down routine. Speed and Style: Set your desired type of vibration and its speed. Pitch Black Design: A minimal, dark interface designed specifically for bedtime usage to reduce eye strain and blue light exposure. Completely Silent: Uses only vibration (haptics), making it perfect for shared beds or quiet environments. Standalone Experience: Runs entirely on your Apple Watch. No need to touch your iPhone and risk getting distracted by notifications. Battery Efficient: The session ends automatically when the timer runs out, ensuring your watch battery is preserved for morning tracking. How to Use: Open Sleep Vibrations on your Apple Watch while in bed. Set vibration type. Set desired speed. Select your desired duration (e.g., 5 or 10 minutes). Close your eyes, rest your hand comfortably, and focus on the rhythmic sensation on your wrist. Drift off to sleep. Download Sleep Vibrations tonight and feel the difference.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c0/5f/1fc05f08-fa24-003c-753a-9684f9e9f0fb/AppIcon-0-0-1x_U007ewatch-0-1-P3-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c0/5f/1fc05f08-fa24-003c-753a-9684f9e9f0fb/AppIcon-0-0-1x_U007ewatch-0-1-P3-85-220.png/100x100bb.jpg",
+    "sellerName": "Ian Akio Melo Shimabukuro",
+    "artistName": "Ian Akio Melo Shimabukuro",
+    "_externalSourceFirstSeen": 1785704137622
+  },
+  "6758605025": {
+    "name": "Cleanup Photos by Fluntro",
+    "trackName": "Cleanup Photos by Fluntro",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786632933031,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1786214246447,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1785839961802,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1785724518939,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/cleanup-photos-by-fluntro/id6758605025?uo=4",
+    "description": "存储空间又满了？填满您 iPhone 的大部分都是您遗忘的杂物——重复的照片、巨大的视频和好几个月的屏幕截图。Cleanup Photos 能找到所有这些，只需轻按一下即可清除。 而且，一次性购买即可永久拥有。无订阅。无套路。 ■ 一次付费。终身拥有。 Cleanup Photos 是一次性买断，涵盖 iPhone 和 iPad——购买一次，永久使用。 ■ 您的照片永远不会离开您的设备 每次扫描 100% 在设备端运行。没有任何内容会上传到云端，也不需要帐户。您的图库保持完全私密。 ■ 一键释放千兆字节 智能建议会准确显示您可以恢复多少空间，然后立即清除重复和模糊的照片。您可以一目了然地查看按照片、视频、屏幕截图、重复项、屏幕录制和慢动作分类的存储空间。 ■ 擦除所有重复项 Cleanup Photos 会检测完全相同和几乎完全相同的副本，自动保留最佳版本，并通过智能合并一键合并其余部分。 ■ 解决大文件 按文件大小对照片和视频进行排序，找出那些悄悄吞噬千兆字节的少数大文件——然后仅删除您选择的文件。 ■ 按月清除屏幕截图 屏幕截图堆积得很快。Cleanup Photos 会按月将它们分组，这样您就可以在几秒钟内清除数百张屏幕截图。 ■ 您始终掌控一切 未经您的确认，绝不会删除任何内容。审查所有内容，保留重要的，放心地删除其余的。 ■ 来自 EXIF VIEWER 的创作者 由苹果推荐的 EXIF Viewer 的创作者 Fluntro 打造。Cleanup Photos 速度快，完全原生，旨在尊重您的存储空间和隐私。 为什么选择 CLEANUP PHOTOS 一次性购买——永远无需订阅 100% 设备端——您的照片永远不会离开您的 iPhone 一次购买涵盖 iPhone 和 iPad 智能合并重复项、按大小排序、按月清除屏幕截图 没有您的允许，不会删除任何内容 有问题、建议或功能请求？请给我们发电子邮件。我们喜欢听取您的反馈，并根据用户的建议不断改进应用程序。 今天就回收您的存储空间。下载 Cleanup Photos，运行一次扫描，看着千兆字节的空间回来。",
+    "fullDescription": "存储空间又满了？填满您 iPhone 的大部分都是您遗忘的杂物——重复的照片、巨大的视频和好几个月的屏幕截图。Cleanup Photos 能找到所有这些，只需轻按一下即可清除。 而且，一次性购买即可永久拥有。无订阅。无套路。 ■ 一次付费。终身拥有。 Cleanup Photos 是一次性买断，涵盖 iPhone 和 iPad——购买一次，永久使用。 ■ 您的照片永远不会离开您的设备 每次扫描 100% 在设备端运行。没有任何内容会上传到云端，也不需要帐户。您的图库保持完全私密。 ■ 一键释放千兆字节 智能建议会准确显示您可以恢复多少空间，然后立即清除重复和模糊的照片。您可以一目了然地查看按照片、视频、屏幕截图、重复项、屏幕录制和慢动作分类的存储空间。 ■ 擦除所有重复项 Cleanup Photos 会检测完全相同和几乎完全相同的副本，自动保留最佳版本，并通过智能合并一键合并其余部分。 ■ 解决大文件 按文件大小对照片和视频进行排序，找出那些悄悄吞噬千兆字节的少数大文件——然后仅删除您选择的文件。 ■ 按月清除屏幕截图 屏幕截图堆积得很快。Cleanup Photos 会按月将它们分组，这样您就可以在几秒钟内清除数百张屏幕截图。 ■ 您始终掌控一切 未经您的确认，绝不会删除任何内容。审查所有内容，保留重要的，放心地删除其余的。 ■ 来自 EXIF VIEWER 的创作者 由苹果推荐的 EXIF Viewer 的创作者 Fluntro 打造。Cleanup Photos 速度快，完全原生，旨在尊重您的存储空间和隐私。 为什么选择 CLEANUP PHOTOS 一次性购买——永远无需订阅 100% 设备端——您的照片永远不会离开您的 iPhone 一次购买涵盖 iPhone 和 iPad 智能合并重复项、按大小排序、按月清除屏幕截图 没有您的允许，不会删除任何内容 有问题、建议或功能请求？请给我们发电子邮件。我们喜欢听取您的反馈，并根据用户的建议不断改进应用程序。 今天就回收您的存储空间。下载 Cleanup Photos，运行一次扫描，看着千兆字节的空间回来。",
+    "summaryDescription": "存储空间又满了？填满您 iPhone 的大部分都是您遗忘的杂物——重复的照片、巨大的视频和好几个月的屏幕截图。Cleanup Photos 能找到所有这些，只需轻按一下即可清除。 而且，一次性购买即可永久拥有。无订阅。无套路。 ■ 一次付费。终身拥有。 Cleanup Photos 是一次性买断，涵盖 iPhone 和 iPad——购买一次，永久使用。 ■ 您的照片永远不会离开您的设备 每次扫描 100% 在设备端运行。没有任何内容会上传到云端，也不需要帐户。您的图库保持完全私密。 ■ 一键释放千兆字节 智能建议会准确显示您可以恢复多少空间，然后立即清除重复和模糊的照片。您可以一目了然地查看按照片、视频、屏幕截图、重复项、屏幕录制和慢动作分类的存储空间。 ■ 擦除所有重复项 Cleanup Photos 会检测完全相同和几乎完全相同的副本，自动保留最佳版本，并通过智能合并一键合并其余部分。 ■ 解决大文件 按文件大小对照片和视频进行排序，找出那些悄悄吞噬千兆字节的少数大文件——然后仅删除您选择的文件。 ■ 按月清除屏幕截图 屏幕截图堆积得很快。Cleanup Photos 会按月将它们分组，这样您就可以在几秒钟内清除数百张屏幕截图。 ■ 您始终掌控一切 未经您的确认，绝不会删除任何内容。审查所有内容，保留重要的，放心地删除其余的。 ■ 来自 EXIF VIEWER 的创作者 由苹果推荐的 EXIF Viewer 的创作者 Fluntro 打造。Cleanup Photos 速度快，完全原生，旨在尊重您的存储空间和隐私。 为什么选择 CLEANUP PHOTOS 一次性购买——永远无需订阅 100% 设备端——您的照片永远不会离开您的 iPhone 一次购买涵盖 iPhone 和 iPad 智能合并重复项、按大小排序、按月清除屏幕截图 没有您的允许，不会删除任何内容 有问题、建议或功能请求？请给我们发电子邮件。我们喜欢听取您的反馈，并根据用户的建议不断改进应用程序。 今天就回收您的存储空间。下载 Cleanup Photos，运行一次扫描，看着千兆字节的空间回来。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/f3/7b/a7f37be0-83db-be2e-1c16-6d8011cd151a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/f3/7b/a7f37be0-83db-be2e-1c16-6d8011cd151a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "sellerName": "Mohith km",
+    "artistName": "Fluntro",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/90/b0/5490b07e-33ff-43a7-c8ae-41cc9cf839ff/iPhone_17_Pro_Max-01_HomeScreen_cleanup_photos_storage_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/61/56/1d6156b2-7d3f-192d-6040-7d15ed82cfd2/iPhone_17_Pro_Max-02_HomeScreen_categories_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/bc/cc/26bccc87-b116-b855-4a61-58f66e2cbdba/iPhone_17_Pro_Max-03_DuplicatesScreen_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/04/7c/08047cd2-2101-3e34-d37b-dd79d76c7833/iPhone_17_Pro_Max-04_ReviewList_Photos_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/50/7d/ef507dda-66b0-7da2-77ee-7324b3e8048f/iPhone_17_Pro_Max-05_ReviewList_Selection_framed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/b2/e4/66b2e47c-1339-233f-241b-aeaecc38676e/iPhone_17_Pro_Max-06_ReviewList_Screenshots_framed.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/0e/ef/a60eef2a-916a-4460-0b86-870c8b4e8e3c/iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029-01_HomeScreen_cleanup_photos_storage_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/45/a6/d245a616-89d3-ab68-c67f-e4ef36f91c80/iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029-02_DuplicatesScreen_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/3d/37/3f3d37b2-bad0-b001-6019-59dd3b1f938f/iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029-03_ReviewList_Photos_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/d7/7e/d1d77ece-0280-4e14-9737-858afc8a5f04/iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029-04_ReviewList_Selection_framed.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/78/89/6e788939-7153-62a3-60b7-71a4df28ffa2/iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029-05_ReviewList_Screenshots_framed.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1785724481032
+  },
+  "6794834057": {
+    "name": "短信记账",
+    "trackName": "短信记账",
+    "maxPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785724518939,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E7%9F%AD%E4%BF%A1%E8%AE%B0%E8%B4%A6/id6794834057?uo=4",
+    "description": "短信记账 —— 收到消费短信，自动帮你记一笔 再也不用手动打开App记账。通过系统\"快捷指令\"，收到银行扣款、支付宝、微信支付的短信时，自动提取金额和商户，安静地记一笔，你只需要偶尔打开App看看统计。 【核心功能】 自动记账 配合系统\"快捷指令\"自动化，收到消费短信自动解析入账 本地正则引擎识别金额、商户，无需联网也能用 只记支出，工资到账、转账收入、退款等短信会自动忽略 AI 智能分类（可选） 接入 DeepSeek，让 AI 从短信原文里补全本地规则没认出来的金额、商户，并给出更准确的消费分类 不开启也完全不影响记账，本地关键词规则免费兜底 费用直接由你自己在 DeepSeek 平台承担，我们不收取任何额外费用 灵活编辑 每一笔都能手动改金额、商户、分类、时间、备注 支持给消费贴一张图片作为凭证，列表直接显示缩略图，点开看大图 大额消费可设置阈值，超过会推送通知提醒你确认 查得到，管得住 主页默认显示最近 7 天，历史记录按月分组随时翻看 独立搜索页，按商户或备注关键词秒找记录 统计页：月度支出、分类占比饼图、支出趋势折线图一目了然 数据完全属于你 不需要注册账号，没有我们自己的服务器 所有记账数据存在设备本地，DeepSeek Key 加密存在系统 Keychain 支持导出 CSV（可在 Excel / Numbers 打开），也支持从 CSV 导入，带唯一 ID 自动去重，不会重复导入 短信内容仅在你主动开启 AI 分类时才会发给 DeepSeek，其余功能全程不联网 隐私优先 本应用没有、也无法读取你设备上的短信收件箱——短信内容完全靠你自己在系统\"快捷指令\"里配置转发。没有广告、没有追踪、没有用户行为分析。 适合谁用 想记账但懒得打开 App 手动输入的人 已经习惯用银行卡/支付宝/微信支付、短信通知比较规律的人 想要数据完全掌握在自己手里、不想把消费记录传到别人服务器上的人 App 内\"设置 → 使用指南\"有完整的快捷指令配置步骤，跟着做几分钟就能用起来。",
+    "fullDescription": "短信记账 —— 收到消费短信，自动帮你记一笔 再也不用手动打开App记账。通过系统\"快捷指令\"，收到银行扣款、支付宝、微信支付的短信时，自动提取金额和商户，安静地记一笔，你只需要偶尔打开App看看统计。 【核心功能】 自动记账 配合系统\"快捷指令\"自动化，收到消费短信自动解析入账 本地正则引擎识别金额、商户，无需联网也能用 只记支出，工资到账、转账收入、退款等短信会自动忽略 AI 智能分类（可选） 接入 DeepSeek，让 AI 从短信原文里补全本地规则没认出来的金额、商户，并给出更准确的消费分类 不开启也完全不影响记账，本地关键词规则免费兜底 费用直接由你自己在 DeepSeek 平台承担，我们不收取任何额外费用 灵活编辑 每一笔都能手动改金额、商户、分类、时间、备注 支持给消费贴一张图片作为凭证，列表直接显示缩略图，点开看大图 大额消费可设置阈值，超过会推送通知提醒你确认 查得到，管得住 主页默认显示最近 7 天，历史记录按月分组随时翻看 独立搜索页，按商户或备注关键词秒找记录 统计页：月度支出、分类占比饼图、支出趋势折线图一目了然 数据完全属于你 不需要注册账号，没有我们自己的服务器 所有记账数据存在设备本地，DeepSeek Key 加密存在系统 Keychain 支持导出 CSV（可在 Excel / Numbers 打开），也支持从 CSV 导入，带唯一 ID 自动去重，不会重复导入 短信内容仅在你主动开启 AI 分类时才会发给 DeepSeek，其余功能全程不联网 隐私优先 本应用没有、也无法读取你设备上的短信收件箱——短信内容完全靠你自己在系统\"快捷指令\"里配置转发。没有广告、没有追踪、没有用户行为分析。 适合谁用 想记账但懒得打开 App 手动输入的人 已经习惯用银行卡/支付宝/微信支付、短信通知比较规律的人 想要数据完全掌握在自己手里、不想把消费记录传到别人服务器上的人 App 内\"设置 → 使用指南\"有完整的快捷指令配置步骤，跟着做几分钟就能用起来。",
+    "summaryDescription": "短信记账 —— 收到消费短信，自动帮你记一笔 再也不用手动打开App记账。通过系统\"快捷指令\"，收到银行扣款、支付宝、微信支付的短信时，自动提取金额和商户，安静地记一笔，你只需要偶尔打开App看看统计。 【核心功能】 自动记账 配合系统\"快捷指令\"自动化，收到消费短信自动解析入账 本地正则引擎识别金额、商户，无需联网也能用 只记支出，工资到账、转账收入、退款等短信会自动忽略 AI 智能分类（可选） 接入 DeepSeek，让 AI 从短信原文里补全本地规则没认出来的金额、商户，并给出更准确的消费分类 不开启也完全不影响记账，本地关键词规则免费兜底 费用直接由你自己在 DeepSeek 平台承担，我们不收取任何额外费用 灵活编辑 每一笔都能手动改金额、商户、分类、时间、备注 支持给消费贴一张图片作为凭证，列表直接显示缩略图，点开看大图 大额消费可设置阈值，超过会推送通知提醒你确认 查得到，管得住 主页默认显示最近 7 天，历史记录按月分组随时翻看 独立搜索页，按商户或备注关键词秒找记录 统计页：月度支出、分类占比饼图、支出趋势折线图一目了然 数据完全属于你 不需要注册账号，没有我们自己的服务器 所有记账数据存在设备本地，DeepSeek Key 加密存在系统 Keychain 支持导出 CSV（可在 Excel / Numbers 打开），也支持从 CSV 导入，带唯一 ID 自动去重，不会重复导入 短信内容仅在你主动开启 AI 分类时才会发给 DeepSeek，其余功能全程不联网 隐私优先 本应用没有、也无法读取你设备上的短信收件箱——短信内容完全靠你自己在系统\"快捷指令\"里配置转发。没有广告、没有追踪、没有用户行为分析。 适合谁用 想记账但懒得打开 App 手动输入的人 已经习惯用银行卡/支付宝/微信支付、短信通知比较规律的人 想要数据完全掌握在自己手里、不想把消费记录传到别人服务器上的人 App 内\"设置 → 使用指南\"有完整的快捷指令配置步骤，跟着做几分钟就能用起来。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/e2/06/a6e20616-6c20-aa42-6041-2cf51081265c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/e2/06/a6e20616-6c20-aa42-6041-2cf51081265c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "浩洋 景",
+    "artistName": "浩洋 景",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/fa/19/bbfa199b-7894-39c9-2a18-32d9dd9e24f6/1_1284x2778_03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/5e/7c/d15e7cee-d5ff-2c4e-aa8b-12781760d2c0/2_1284x2778_02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/3f/71/553f71a9-303f-bd36-0553-8c9c30acb11d/3_1284x2778_01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/ca/71/5eca7175-c65d-0e80-4690-2cbf4c92f6c1/80C3C30F_1284x2778.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/78/03/c7780326-c721-b392-b99e-ef23c7bf14da/16A6FFC6_1284x2778.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/b4/3a/b7b43a58-4d48-fe69-ad7e-74f64fd75ea0/1_2064x2752_03.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/a5/2e/fba52eb9-0946-ebb7-faf1-2b5d59309088/80C3C30F_2048x2732_01.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/7d/18/dc7d1866-fa6d-a181-270b-506d3eff3961/16A6FFC6_2048x2732_02.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1785724495741
+  },
+  "6761194664": {
+    "name": "小野分屏相机",
+    "trackName": "小野分屏相机",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "SplitCam Pro 年度会员": "¥28.00",
+      "SplitCam Pro 月度会员": "¥6.00",
+      "SplitCam Pro 终身版": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "SplitCam Pro 年度会员": "¥28.00",
+      "SplitCam Pro 月度会员": "¥6.00",
+      "SplitCam Pro 终身版": "¥0.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785824893877,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "SplitCam Pro 终身版": "¥68.00",
+            "SplitCam Pro 年度会员": "¥28.00",
+            "SplitCam Pro 月度会员": "¥6.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1785724518939,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "SplitCam Pro 年度会员": "¥28.00",
+            "SplitCam Pro 月度会员": "¥6.00",
+            "SplitCam Pro 终身版": "¥0.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%B0%8F%E9%87%8E%E5%88%86%E5%B1%8F%E7%9B%B8%E6%9C%BA/id6761194664?uo=4",
+    "description": "SplitCam — 前后双摄分屏相机 一部手机，两个视角，同时记录。 SplitCam 让你同时使用前后摄像头拍摄照片和视频，将两个画面实时合成到一个画面中。无论是记录亲子时光、旅行 Vlog、还是创意内容制作，SplitCam 都能帮你捕捉更完整的瞬间。 【核心功能】 前后双摄同时拍摄 — 前置和后置摄像头同时工作，实时预览 多种分屏布局 — 左右分屏、上下分屏、画中画，自由切换 可拖拽分隔条 — 滑动调整两个画面的比例大小 画中画自由拖拽 — 小窗口可拖动位置、点击切换形状 合拍模式 — 导入已有视频，与实时画面同框录制 多种画面比例 — 支持 9:16、3:4、1:1、16:9 高画质输出 — 清晰细腻的照片和视频 变焦控制 — 0.5x 广角、1x 标准、3x 长焦（Pro） 【适用场景】 亲子记录：同时拍下宝宝的表情和你的反应 旅行 Vlog：前方风景和自拍同时入镜 创意拍摄：反应视频、合拍挑战、双视角内容 开箱测评：同时展示产品细节和你的真实反应 【订阅说明】 SplitCam 基础功能免费使用。升级 Pro 解锁画中画模式、合拍模式、长焦变焦等进阶功能。 提供月度订阅、年度订阅和终身买断三种方案 年度订阅提供 3 天免费试用 付款将从您的 Apple ID 账户扣除 订阅到期前 24 小时内自动续费，除非提前取消 您可在\"设置 → Apple ID → 订阅\"中管理或取消订阅 隐私政策：https://splitcam-legal.vercel.app/privacy-policy.html 使用条款：https://splitcam-legal.vercel.app/terms-of-use.html",
+    "fullDescription": "SplitCam — 前后双摄分屏相机 一部手机，两个视角，同时记录。 SplitCam 让你同时使用前后摄像头拍摄照片和视频，将两个画面实时合成到一个画面中。无论是记录亲子时光、旅行 Vlog、还是创意内容制作，SplitCam 都能帮你捕捉更完整的瞬间。 【核心功能】 前后双摄同时拍摄 — 前置和后置摄像头同时工作，实时预览 多种分屏布局 — 左右分屏、上下分屏、画中画，自由切换 可拖拽分隔条 — 滑动调整两个画面的比例大小 画中画自由拖拽 — 小窗口可拖动位置、点击切换形状 合拍模式 — 导入已有视频，与实时画面同框录制 多种画面比例 — 支持 9:16、3:4、1:1、16:9 高画质输出 — 清晰细腻的照片和视频 变焦控制 — 0.5x 广角、1x 标准、3x 长焦（Pro） 【适用场景】 亲子记录：同时拍下宝宝的表情和你的反应 旅行 Vlog：前方风景和自拍同时入镜 创意拍摄：反应视频、合拍挑战、双视角内容 开箱测评：同时展示产品细节和你的真实反应 【订阅说明】 SplitCam 基础功能免费使用。升级 Pro 解锁画中画模式、合拍模式、长焦变焦等进阶功能。 提供月度订阅、年度订阅和终身买断三种方案 年度订阅提供 3 天免费试用 付款将从您的 Apple ID 账户扣除 订阅到期前 24 小时内自动续费，除非提前取消 您可在\"设置 → Apple ID → 订阅\"中管理或取消订阅 隐私政策：https://splitcam-legal.vercel.app/privacy-policy.html 使用条款：https://splitcam-legal.vercel.app/terms-of-use.html",
+    "summaryDescription": "SplitCam — 前后双摄分屏相机 一部手机，两个视角，同时记录。 SplitCam 让你同时使用前后摄像头拍摄照片和视频，将两个画面实时合成到一个画面中。无论是记录亲子时光、旅行 Vlog、还是创意内容制作，SplitCam 都能帮你捕捉更完整的瞬间。 【核心功能】 前后双摄同时拍摄 — 前置和后置摄像头同时工作，实时预览 多种分屏布局 — 左右分屏、上下分屏、画中画，自由切换 可拖拽分隔条 — 滑动调整两个画面的比例大小 画中画自由拖拽 — 小窗口可拖动位置、点击切换形状 合拍模式 — 导入已有视频，与实时画面同框录制 多种画面比例 — 支持 9:16、3:4、1:1、16:9 高画质输出 — 清晰细腻的照片和视频 变焦控制 — 0.5x 广角、1x 标准、3x 长焦（Pro） 【适用场景】 亲子记录：同时拍下宝宝的表情和你的反应 旅行 Vlog：前方风景和自拍同时入镜 创意拍摄：反应视频、合拍挑战、双视角内容 开箱测评：同时展示产品细节和你的真实反应 【订阅说明】 SplitCam 基础功能免费使用。升级 Pro 解锁画中画模式、合拍模式、长焦变焦等进阶功能。 提供月度订阅、年度订阅和终身买断三种方案 年度订阅提供 3 天免费试用 付款将从您的 Apple ID 账户扣除 订阅到期前 24 小时内自动续费，除非提前取消 您可在\"设置 → Apple ID → 订阅\"中管理或取消订阅 隐私政策：https://splitcam-legal.vercel.app/privacy-policy.html 使用条款：https://splitcam-legal.vercel.app/terms-of-use.html",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/bc/db/b2bcdba3-d67b-5a65-c2ba-cd30284d85ad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/bc/db/b2bcdba3-d67b-5a65-c2ba-cd30284d85ad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "慧慧 高",
+    "artistName": "慧慧 高",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/fc/c6/d5fcc6f6-e32c-8c47-e29b-6e8e766e6521/screenshot_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/75/27/c9752720-cc47-afe8-1206-25c5a322b911/screenshot_4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/80/bc/8880bcdf-2a06-153e-7131-3feea8f6365b/screenshot_1.png/320x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1785724518865
+  },
+  "6780959791": {
+    "name": "Ago - 上次是什么时候",
+    "trackName": "Ago - 上次是什么时候",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "Ago Pro": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "Ago Pro": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785724518939,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Ago Pro": "¥38.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/ago-%E4%B8%8A%E6%AC%A1%E6%98%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99/id6780959791?uo=4",
+    "description": "上次换空调滤网是什么时候？给多肉浇过水呢？给妈妈打过电话呢？Ago 只回答一个问题：距离上次，已经过去多久了。做完，轻点一下，就这么简单。 有些事，排不进日程表 它不是习惯打卡，也不是待办清单。Ago 活在两者之间，为那些有个大致周期、你想放在心上、却又不必卡着固定日期的事而生。汽车轮胎、看牙医、那位总想着要联系的老朋友、每隔两三周就该浇一次的植物。 没有连续打卡，没有压力，只有事实 Ago 只告诉你过去了多久，然后安静地退到一旁。不评判，没有要守住的连胜纪录，也不会有消息一遍遍地催你。想知道的时候，打开看一眼就好。「都三个月了？！」那一下，就是它的全部意义。看到数字，接下来怎么做，由你决定。 一眼可见，随时都在 主屏幕与锁屏小组件实时显示已经过去的时间，一秒一秒地往上走 不必打开应用，直接在小组件上就能记录「已完成」 太久没做，卡片会安静地转为超期，一个轻声的提示，绝不是刺耳的闹铃 精确到天，绝不含糊 清楚看到距离上次到底过去了多久，精确到每一天 点开任意一项，查看它的月度日历记录 给每件事配上专属图标和颜色，整张列表一眼就能看清 大家都用 Ago 记录什么 居家维护：空调滤网、暖气、排水沟 植物养护与浇水 汽车保养与换胎 吃药与保健品 亲友联系：上次给家里打电话是多久前了？ 宠物梳毛与看兽医 简单，且私密 无需注册，没有广告。没有账号要登录，也没有什么要打理。你的数据通过 iCloud 在你自己的设备之间私密同步，并且始终属于你。 一次付费，永久使用 一次性购买，解锁全部功能。没有订阅，永远不会有。 选个颜色，挑个图标，设一个宽松的提醒，当某件事隔得太久，Ago 会轻轻告诉你：是时候了。没有闹铃，不催不逼，只是一张卡片，静静地提醒你。",
+    "fullDescription": "上次换空调滤网是什么时候？给多肉浇过水呢？给妈妈打过电话呢？Ago 只回答一个问题：距离上次，已经过去多久了。做完，轻点一下，就这么简单。 有些事，排不进日程表 它不是习惯打卡，也不是待办清单。Ago 活在两者之间，为那些有个大致周期、你想放在心上、却又不必卡着固定日期的事而生。汽车轮胎、看牙医、那位总想着要联系的老朋友、每隔两三周就该浇一次的植物。 没有连续打卡，没有压力，只有事实 Ago 只告诉你过去了多久，然后安静地退到一旁。不评判，没有要守住的连胜纪录，也不会有消息一遍遍地催你。想知道的时候，打开看一眼就好。「都三个月了？！」那一下，就是它的全部意义。看到数字，接下来怎么做，由你决定。 一眼可见，随时都在 主屏幕与锁屏小组件实时显示已经过去的时间，一秒一秒地往上走 不必打开应用，直接在小组件上就能记录「已完成」 太久没做，卡片会安静地转为超期，一个轻声的提示，绝不是刺耳的闹铃 精确到天，绝不含糊 清楚看到距离上次到底过去了多久，精确到每一天 点开任意一项，查看它的月度日历记录 给每件事配上专属图标和颜色，整张列表一眼就能看清 大家都用 Ago 记录什么 居家维护：空调滤网、暖气、排水沟 植物养护与浇水 汽车保养与换胎 吃药与保健品 亲友联系：上次给家里打电话是多久前了？ 宠物梳毛与看兽医 简单，且私密 无需注册，没有广告。没有账号要登录，也没有什么要打理。你的数据通过 iCloud 在你自己的设备之间私密同步，并且始终属于你。 一次付费，永久使用 一次性购买，解锁全部功能。没有订阅，永远不会有。 选个颜色，挑个图标，设一个宽松的提醒，当某件事隔得太久，Ago 会轻轻告诉你：是时候了。没有闹铃，不催不逼，只是一张卡片，静静地提醒你。",
+    "summaryDescription": "上次换空调滤网是什么时候？给多肉浇过水呢？给妈妈打过电话呢？Ago 只回答一个问题：距离上次，已经过去多久了。做完，轻点一下，就这么简单。 有些事，排不进日程表 它不是习惯打卡，也不是待办清单。Ago 活在两者之间，为那些有个大致周期、你想放在心上、却又不必卡着固定日期的事而生。汽车轮胎、看牙医、那位总想着要联系的老朋友、每隔两三周就该浇一次的植物。 没有连续打卡，没有压力，只有事实 Ago 只告诉你过去了多久，然后安静地退到一旁。不评判，没有要守住的连胜纪录，也不会有消息一遍遍地催你。想知道的时候，打开看一眼就好。「都三个月了？！」那一下，就是它的全部意义。看到数字，接下来怎么做，由你决定。 一眼可见，随时都在 主屏幕与锁屏小组件实时显示已经过去的时间，一秒一秒地往上走 不必打开应用，直接在小组件上就能记录「已完成」 太久没做，卡片会安静地转为超期，一个轻声的提示，绝不是刺耳的闹铃 精确到天，绝不含糊 清楚看到距离上次到底过去了多久，精确到每一天 点开任意一项，查看它的月度日历记录 给每件事配上专属图标和颜色，整张列表一眼就能看清 大家都用 Ago 记录什么 居家维护：空调滤网、暖气、排水沟 植物养护与浇水 汽车保养与换胎 吃药与保健品 亲友联系：上次给家里打电话是多久前了？ 宠物梳毛与看兽医 简单，且私密 无需注册，没有广告。没有账号要登录，也没有什么要打理。你的数据通过 iCloud 在你自己的设备之间私密同步，并且始终属于你。 一次付费，永久使用 一次性购买，解锁全部功能。没有订阅，永远不会有。 选个颜色，挑个图标，设一个宽松的提醒，当某件事隔得太久，Ago 会轻轻告诉你：是时候了。没有闹铃，不催不逼，只是一张卡片，静静地提醒你。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/1c/e4/2b1ce449-f18f-433b-65c8-8f33e2c61772/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/1c/e4/2b1ce449-f18f-433b-65c8-8f33e2c61772/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Day Two",
+    "artistName": "Day Two",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/48/a9/5e48a990-d052-0b6f-dcba-8c4562fecc96/1b.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/81/53/9d815332-cfa2-9717-0260-c6846d7a86d5/2b.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/1e/f3/d31ef358-f723-02c2-d693-09ebbe23c943/3b.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/9a/62/889a6266-c9ed-fc82-0580-6cc56bb9610b/4b.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/c4/16/52c4164c-a660-5733-4ee6-d6b1491d3f9e/5b.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/8e/73/248e7393-5dfd-1e14-a17e-116a016cd132/6b.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/d7/a3/45d7a302-e04e-966c-a93c-adb39e8dbeb5/7b.png/320x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1785724518865
+  },
   "6767196211": {
     "name": "DuoSpace: Multiple Accounts",
     "trackName": "DuoSpace: Multiple Accounts",
@@ -13628,6 +13917,10 @@
     "history": [
       [
         {
+          "timestamp": 1786976790670,
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1786970366435,
           "inAppPurchases": {}
         },
@@ -17163,14 +17456,22 @@
     "name": "PasteTiny",
     "trackName": "PasteTiny",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786976790670,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786762262827,
@@ -17312,10 +17613,18 @@
       "formattedPrice": "¥1.00"
     },
     "minPriceInfo": {
-      "price": 1,
-      "formattedPrice": "¥1.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786976790670,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786768084581,
@@ -19435,12 +19744,23 @@
       "price": 0,
       "formattedPrice": "免费",
       "Lifetime": "¥0.00",
-      "Annual": "¥88.00",
-      "Weekly": "¥22.00",
-      "Monthly": "¥38.00"
+      "Annual": "¥25.00",
+      "Weekly": "¥2.00",
+      "Monthly": "¥5.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1786976790670,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Lifetime": "¥0.00",
+            "Annual": "¥25.00",
+            "Weekly": "¥2.00",
+            "Monthly": "¥5.00"
+          }
+        },
         {
           "timestamp": 1786935542979,
           "price": 0,
@@ -20110,5 +20430,44 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d8/bd/1a/d8bd1a95-980d-4b6f-2467-1730c7ffd643/afe36df2-88cc-451a-b805-c863e2ba6c02_iphone5_5_image5__U002812_U0029.png/392x696bb.png"
     ],
     "_externalSourceFirstSeen": 1786962627862
+  },
+  "6797211431": {
+    "name": "润舍日历 - 农历节假日与养生",
+    "trackName": "润舍日历 - 农历节假日与养生",
+    "maxPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "minPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786976790670,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%B6%A6%E8%88%8D%E6%97%A5%E5%8E%86-%E5%86%9C%E5%8E%86%E8%8A%82%E5%81%87%E6%97%A5%E4%B8%8E%E5%85%BB%E7%94%9F/id6797211431?uo=4",
+    "description": "【润舍日历 —— 最懂中国人的时节养生与生活日历】 日历不应只是数字的堆砌，更是中国人顺应天时、调养生命的智慧指南。润舍日历将现代极简设计、精准法定调休系统与《黄帝内经》经典智慧深度融合，为你打造一款极速、无广告、有温度的全能生活日历。 核心功能亮点 --- 【精准法定节假日与调休标示】 告别调休混乱！月视图直观标示“休”（放假）与“班”（周末补班）。 云端实时同步国务院最新放假安排，无需更新 App 即可掌握次年假程。 倒计时卡片，轻松规划假期与出行。 【《黄帝内经》顺时食养与穴位】 深度融合《黄帝内经·四季调神大论》典籍智慧。 根据春生、夏长、秋收、冬藏动态推荐每日“作息指南”、“顺时食养”与“古法按揉穴位”。 每日古文金句与白话翻译，感受传统生命的温润。 【子午流注 24 小时脏腑经络】 实时十二时辰（子/丑/寅/卯...）气血流注提示。 申时饮水、亥时泡脚、子时早睡，顺应人体器官最佳修复排毒时机。 【深度农历、干支与二十四节气】 完整农历大字显示，支持三伏天、三九天、传统节日高亮。 精准计算天干地支与生肖纪年（如丙午马年），传承国粹文化。 【生活日程管理与养生打卡】 无缝读取与同步 iOS 系统原生日历（iCloud/Exchange），一键新增日程与会议。 养生微习惯打卡：饮水、泡脚、早睡，搭配子午流注本地智能定时提醒。 【iOS 17 高颜值桌面小组件 (Widget)】 针对 iOS 17 深度优化，支持小号 (2x2)、中号 (2x4) 桌面卡片。 东方朱砂红与竹青绿配色，将农历、班休、子午流注与黄帝内经金句直接摆上 iPhone 桌面。 若您喜欢润舍日历，欢迎在 App Store 给予好评！",
+    "fullDescription": "【润舍日历 —— 最懂中国人的时节养生与生活日历】 日历不应只是数字的堆砌，更是中国人顺应天时、调养生命的智慧指南。润舍日历将现代极简设计、精准法定调休系统与《黄帝内经》经典智慧深度融合，为你打造一款极速、无广告、有温度的全能生活日历。 核心功能亮点 --- 【精准法定节假日与调休标示】 告别调休混乱！月视图直观标示“休”（放假）与“班”（周末补班）。 云端实时同步国务院最新放假安排，无需更新 App 即可掌握次年假程。 倒计时卡片，轻松规划假期与出行。 【《黄帝内经》顺时食养与穴位】 深度融合《黄帝内经·四季调神大论》典籍智慧。 根据春生、夏长、秋收、冬藏动态推荐每日“作息指南”、“顺时食养”与“古法按揉穴位”。 每日古文金句与白话翻译，感受传统生命的温润。 【子午流注 24 小时脏腑经络】 实时十二时辰（子/丑/寅/卯...）气血流注提示。 申时饮水、亥时泡脚、子时早睡，顺应人体器官最佳修复排毒时机。 【深度农历、干支与二十四节气】 完整农历大字显示，支持三伏天、三九天、传统节日高亮。 精准计算天干地支与生肖纪年（如丙午马年），传承国粹文化。 【生活日程管理与养生打卡】 无缝读取与同步 iOS 系统原生日历（iCloud/Exchange），一键新增日程与会议。 养生微习惯打卡：饮水、泡脚、早睡，搭配子午流注本地智能定时提醒。 【iOS 17 高颜值桌面小组件 (Widget)】 针对 iOS 17 深度优化，支持小号 (2x2)、中号 (2x4) 桌面卡片。 东方朱砂红与竹青绿配色，将农历、班休、子午流注与黄帝内经金句直接摆上 iPhone 桌面。 若您喜欢润舍日历，欢迎在 App Store 给予好评！",
+    "summaryDescription": "【润舍日历 —— 最懂中国人的时节养生与生活日历】 日历不应只是数字的堆砌，更是中国人顺应天时、调养生命的智慧指南。润舍日历将现代极简设计、精准法定调休系统与《黄帝内经》经典智慧深度融合，为你打造一款极速、无广告、有温度的全能生活日历。 核心功能亮点 --- 【精准法定节假日与调休标示】 告别调休混乱！月视图直观标示“休”（放假）与“班”（周末补班）。 云端实时同步国务院最新放假安排，无需更新 App 即可掌握次年假程。 倒计时卡片，轻松规划假期与出行。 【《黄帝内经》顺时食养与穴位】 深度融合《黄帝内经·四季调神大论》典籍智慧。 根据春生、夏长、秋收、冬藏动态推荐每日“作息指南”、“顺时食养”与“古法按揉穴位”。 每日古文金句与白话翻译，感受传统生命的温润。 【子午流注 24 小时脏腑经络】 实时十二时辰（子/丑/寅/卯...）气血流注提示。 申时饮水、亥时泡脚、子时早睡，顺应人体器官最佳修复排毒时机。 【深度农历、干支与二十四节气】 完整农历大字显示，支持三伏天、三九天、传统节日高亮。 精准计算天干地支与生肖纪年（如丙午马年），传承国粹文化。 【生活日程管理与养生打卡】 无缝读取与同步 iOS 系统原生日历（iCloud/Exchange），一键新增日程与会议。 养生微习惯打卡：饮水、泡脚、早睡，搭配子午流注本地智能定时提醒。 【iOS 17 高颜值桌面小组件 (Widget)】 针对 iOS 17 深度优化，支持小号 (2x2)、中号 (2x4) 桌面卡片。 东方朱砂红与竹青绿配色，将农历、班休、子午流注与黄帝内经金句直接摆上 iPhone 桌面。 若您喜欢润舍日历，欢迎在 App Store 给予好评！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/fa/2480fa6e-6566-6ece-9111-4cbdc769bab2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/fa/2480fa6e-6566-6ece-9111-4cbdc769bab2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "瑞华 张",
+    "artistName": "瑞华 张",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/84/3d/20843db4-7e87-865d-667c-22042f9adecb/Apple_iPhone_13_Pro_Max_Screenshot_5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/51/c4/e451c49f-f0e3-023b-bec2-b52f15681dc5/Apple_iPhone_13_Pro_Max_Screenshot_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/da/06/7fda0603-6c36-9d2a-646b-903e28c6568f/Apple_iPhone_13_Pro_Max_Screenshot_6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/ed/32/b2ed3286-e46f-19d2-ff56-64df779b7e91/Apple_iPhone_13_Pro_Max_Screenshot_4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/20/78/5a2078d9-6259-7a16-e53b-01407d4833ba/Apple_iPhone_13_Pro_Max_Screenshot_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/ca/dd/10cadd1e-9d15-39b6-e55b-5882a9025f5c/Apple_iPhone_13_Pro_Max_Screenshot_1.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1786976751448
   }
 }
