@@ -1,5 +1,842 @@
 [
   {
+    "timestamp": 1786998303171,
+    "regionAppInfo": {
+      "cn": [
+        {
+          "trackId": 6502905400,
+          "trackName": "XRateAverage",
+          "inAppPurchasesTimes": 10,
+          "inAppPurchasesFailed": true
+        },
+        {
+          "trackId": 6755909295,
+          "trackName": "WatchDictApp",
+          "inAppPurchasesTimes": 10,
+          "inAppPurchasesFailed": true
+        },
+        {
+          "trackId": 1436855580,
+          "trackName": "FracPad III",
+          "inAppPurchasesTimes": 10,
+          "inAppPurchasesFailed": true
+        },
+        {
+          "trackId": 6752805381,
+          "trackName": "SmartBehavior",
+          "inAppPurchasesTimes": 10,
+          "inAppPurchasesFailed": true
+        },
+        {
+          "trackId": 6787330792,
+          "trackName": "Nestwell: Private & Productive",
+          "inAppPurchasesTimes": 8
+        },
+        {
+          "trackId": 6762013297,
+          "trackName": "HealthPatch",
+          "inAppPurchasesTimes": 7
+        },
+        {
+          "trackId": 633008351,
+          "trackName": "Mortgage Payment Calculator",
+          "inAppPurchasesTimes": 7
+        },
+        {
+          "trackId": 1609823657,
+          "trackName": "见缝插针:眼疾手快",
+          "inAppPurchasesTimes": 7
+        },
+        {
+          "trackId": 6791917990,
+          "trackName": "晚安不急-白噪音助眠·睡眠声音",
+          "inAppPurchasesTimes": 7
+        },
+        {
+          "trackId": 1484426198,
+          "trackName": "TimeMan",
+          "inAppPurchasesTimes": 6
+        },
+        {
+          "trackId": 1493372804,
+          "trackName": "期货考试大全",
+          "inAppPurchasesTimes": 6
+        },
+        {
+          "trackId": 6762283686,
+          "trackName": "WipePad Pro - 电子手写板与草稿纸",
+          "inAppPurchasesTimes": 5
+        },
+        {
+          "trackId": 6793947556,
+          "trackName": "The Odyssey by Homer",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 6794522553,
+          "trackName": "Renewa：订阅与账单管理",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 862473183,
+          "trackName": "PDFMagic：PDF编辑器与扫描仪",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 1028838684,
+          "trackName": "Artpaper：每日新壁纸",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 6747897832,
+          "trackName": "AppMarkers",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 1074311276,
+          "trackName": "Typewise Offline Keyboard",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 6778256831,
+          "trackName": "诗词山河",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 6784938384,
+          "trackName": "全行业特殊字符键盘",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 6504628174,
+          "trackName": "everies",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 6760619904,
+          "trackName": "遗忘曲线提醒器",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 6767151538,
+          "trackName": "NUMEN：重拾数学直觉",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 1343139477,
+          "trackName": "AR Solar System: AR Planets",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 6772014993,
+          "trackName": "单位转换 Go",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 1601845870,
+          "trackName": "Mendeleev.me",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 1271213321,
+          "trackName": "购物清单 - 简约风格的购物清单",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 1271620263,
+          "trackName": "艾希 - ICEY",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 6757996962,
+          "trackName": "平安日报",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6770173206,
+          "trackName": "错题本-分科整理错题复习刷题闯关背诵单机本地助手版",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 376193244,
+          "trackName": "Dub Siren DX",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1588868540,
+          "trackName": "电磁探测器豪华色",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1474616897,
+          "trackName": "FlatMol 2",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6775159112,
+          "trackName": "Koin: AI加密货币投资组合",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6788505099,
+          "trackName": "装柜计算器-外贸CBM装箱2026",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6779987770,
+          "trackName": "证件复印排版助手2026",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 403809653,
+          "trackName": "Pentris",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1384107130,
+          "trackName": "ImageGotcha",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1597580456,
+          "trackName": "Regex for Safari",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6738080498,
+          "trackName": "Multiply Fun: 19x19",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6780235106,
+          "trackName": "化合价速查与化学式练习2026",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6780363296,
+          "trackName": "滴答",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6774464201,
+          "trackName": "Golden Edge: Gold AI",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1449351309,
+          "trackName": "图片取色器",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6778676469,
+          "trackName": "七七音乐-本地音乐播放器",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6748288748,
+          "trackName": "宁静 - 白噪声花园",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6705126865,
+          "trackName": "运动步数计",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6775231667,
+          "trackName": "MoneyWatch",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1256969541,
+          "trackName": "福州网约车考试-网约车考试司机从业资格证新题库",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 584748197,
+          "trackName": "Curved Text",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6771681043,
+          "trackName": "Morse Code Go - Audio Trainer",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6760162343,
+          "trackName": "DeviceAI",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6741022285,
+          "trackName": "OnFilm(@nmnustudio)",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6760971465,
+          "trackName": "贴贴时光 - 把生活贴起来· 贴纸日记",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6760997437,
+          "trackName": "AdPure - 广告拦截与浏览器安全过滤 防跟踪隐私保护",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1062639959,
+          "trackName": "Partometer3D measure on photo",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1548925203,
+          "trackName": "Pass Book - Two Factor",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6762570524,
+          "trackName": "Drafty Story: Habit Writer",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6760628111,
+          "trackName": "ScopeKit",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1093355089,
+          "trackName": "色环电阻",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1131210331,
+          "trackName": "Genius Jamtracks",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6761253224,
+          "trackName": "像素征途 — 以足迹丈量世界",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6737999413,
+          "trackName": "InTrack - Income Tracker",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1584558472,
+          "trackName": "Aerospace Engineering Terms",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6751840643,
+          "trackName": "TrainingTrakr",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6756868955,
+          "trackName": "灵动药盒 - 吃药提醒与药品管理",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1504175957,
+          "trackName": "LUTs-色彩随心,创意由你",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1268701944,
+          "trackName": "CellarView Wine Cellar Tracker",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1271322725,
+          "trackName": "Ukraine Help",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1284571282,
+          "trackName": "Storm Alert for Watch",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6747628668,
+          "trackName": "摘言 - Kindle书摘小组件",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1201765853,
+          "trackName": "小学语文三年级上册北师大版",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1460774889,
+          "trackName": "Stellar Photo Recovery",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6738851170,
+          "trackName": "English Grammar Drills",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1023661063,
+          "trackName": "妖精的漫画日语① 五十音图篇",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6480135731,
+          "trackName": "Groove Rider 2",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 567975693,
+          "trackName": "Great Operas",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1350615957,
+          "trackName": "Retroid 70s - 复古照片编辑器",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1574240220,
+          "trackName": "小学3年级上英语听力大全",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6670373201,
+          "trackName": "FirstChair",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1107308482,
+          "trackName": "Daxiang Business",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1459203087,
+          "trackName": "GameNet for - Human Fall Flat",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 662559044,
+          "trackName": "Context Camera",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 739722048,
+          "trackName": "Полиглот 32 - Английский язык",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6780953942,
+          "trackName": "羲和：时间和流速",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6739440197,
+          "trackName": "小兔计数",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6443542725,
+          "trackName": "R-KONTROL",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6748690011,
+          "trackName": "万能打印机和打印软件 : 支持10000+机型的手机打印机",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6744612926,
+          "trackName": "瑜伽呼吸练习：冥想与减压",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6755359506,
+          "trackName": "流光时钟 - 动态背景待机时钟",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6756562917,
+          "trackName": "弈道传承-下五道",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1370929515,
+          "trackName": "Split Lab",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6764611555,
+          "trackName": "小白学养生",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6764612746,
+          "trackName": "小白学做汤",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1126098076,
+          "trackName": "Silenz",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6760953549,
+          "trackName": "MineralMap",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 446105719,
+          "trackName": "易经算卦",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6742564706,
+          "trackName": "Tinnitus Relief, Aid & Help",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6757118868,
+          "trackName": "鼾声记录 - 睡眠监测，睡觉记录及智能闹钟",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 687421118,
+          "trackName": "Buddhify: Guided Meditation",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1115127276,
+          "trackName": "Cardiovascular Medical Terms",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1532586661,
+          "trackName": "腦珠算全教程(進階)",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 900600984,
+          "trackName": "Compressible Gas Flow Calc",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6768202696,
+          "trackName": "龙虾狗-AI远程移动智能助手",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1358752168,
+          "trackName": "I Say: Learn 500 Sight Words",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1567701359,
+          "trackName": "DoSimple!",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1634206287,
+          "trackName": "乐透引擎单机版",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1475070902,
+          "trackName": "灵棋经",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1143470101,
+          "trackName": "iOptigan",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6764073025,
+          "trackName": "Beat Blocks - Rhythm Practice",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 445062736,
+          "trackName": "The Lost Watch 3D",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 465810912,
+          "trackName": "计算器HD+专业版",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6757943661,
+          "trackName": "阿福出境管家（原签证大师）",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6760943637,
+          "trackName": "swayp - gallery cleaner",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1526026125,
+          "trackName": "Sanskrit Dhatu 360°",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1540275786,
+          "trackName": "SanKosha - Sanskrit Dictionary",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6738101928,
+          "trackName": "Light HDR",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 348597015,
+          "trackName": "九星方位盤",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 379602269,
+          "trackName": "Geo Walk - 世界地图册, 足不出户周游世界",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1547604251,
+          "trackName": "Ellou - 宝宝画画游戏-黑白双模式涂鸦画板",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 335517528,
+          "trackName": "Strike and Dip",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1448338746,
+          "trackName": "Oof Piano for Roblox",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1577781498,
+          "trackName": "军转考试大全",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6444922579,
+          "trackName": "二年级语文上册-小学语文二年级上册同步练习",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1556644370,
+          "trackName": "古镜记",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6762185277,
+          "trackName": "轻忆",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6745162282,
+          "trackName": "1Location Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1100646247,
+          "trackName": "Solar Time",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1122465801,
+          "trackName": "エースクラウン英和辞典 第2版",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1173749340,
+          "trackName": "R Analyst",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1000453276,
+          "trackName": "行书书法字典：上千家书法名家和碑帖",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1348310066,
+          "trackName": "ComicBookRealm",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6758612379,
+          "trackName": "佳佳证件照",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1146328820,
+          "trackName": "Pocket Note Pro - 手写记事本",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 640564761,
+          "trackName": "Stop Motion Studio Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6456522226,
+          "trackName": "Screenshot for Street View",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6746754531,
+          "trackName": "掼蛋记牌助手",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6447821874,
+          "trackName": "冥想答案之书 - ASMR正念睡眠减压助眠神器",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6747112011,
+          "trackName": "TMBmap",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1121659254,
+          "trackName": "江湖风云录-超自由武侠剧情角色扮演手游",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 986260950,
+          "trackName": "修图神器: 去水印,除瑕疵,修复照片",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6479217148,
+          "trackName": "破解数独Pro - 无广告",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6756714604,
+          "trackName": "HSK3.0 Chinese Words",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6447187176,
+          "trackName": "物品整理: 分类管理",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 287193619,
+          "trackName": "G FORCE",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 364859644,
+          "trackName": "Offline Pages",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 364876095,
+          "trackName": "Jump Desktop (RDP, VNC, Fluid)",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 424477181,
+          "trackName": "SMS Smileys",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 438675825,
+          "trackName": "iGuzheng⁺ - 爱古筝专业版",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 545623778,
+          "trackName": "Camera360概念版 - HelloCamera",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 550062698,
+          "trackName": "Inkflow Plus Visual Notebook",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1065623382,
+          "trackName": "MR. POTATO HEAD:  冲向学校",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1067575393,
+          "trackName": "照片橡皮擦 - 去除水印杂物多余人物",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1191690597,
+          "trackName": "宫神星",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1192750649,
+          "trackName": "TI-84 CE Calculator Manual",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1278845235,
+          "trackName": "ezShare Lite",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1284477042,
+          "trackName": "Talking Cam",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1529979936,
+          "trackName": "Romanian Word Origins",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1530464858,
+          "trackName": "Light Pollution Map",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6738575933,
+          "trackName": "纪元1800 - DLC 外挂 建模 游戏 模组 插件 安装",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6736856482,
+          "trackName": "民法典速查宝典",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6758522733,
+          "trackName": "Meditate inspiration",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6450123813,
+          "trackName": "Breathwork Meditation Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6747604851,
+          "trackName": "ReadLater: GoodLinks Pro",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "1h39m11.187s",
+    "regionAppCount": {
+      "cn": 11999
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1786991789565,
     "regionAppInfo": {
       "cn": [
