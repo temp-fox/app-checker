@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 979888370,
+      "name": {
+        "cn": "MusicStreamer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786962622413,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797709112,
+      "name": {
+        "cn": "SmartScrollCapture"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786962614063,
+      "_discountType": "app"
+    },
+    {
+      "id": 6446922094,
+      "name": {
+        "cn": "Hyrule Scripts Premium"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786962627862,
+      "_discountType": "app"
+    },
+    {
       "id": 303058840,
       "name": {
         "cn": "MedAbbreviations"
