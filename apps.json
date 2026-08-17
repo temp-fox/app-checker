@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6779091369,
+      "name": {
+        "cn": "SwimStart 游泳出发反应训练"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786941577120,
+      "_discountType": "app"
+    },
+    {
+      "id": 6667103537,
+      "name": {
+        "cn": "إسلاميات - قرآن واذكار واذان"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786941585123,
+      "_discountType": "app"
+    },
+    {
       "id": 1076661698,
       "name": {
         "cn": "Louvre Museum Audio Guide"

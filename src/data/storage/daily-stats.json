@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": 1786947091252,
+    "cn": {
+      "total": 5,
+      "price": 1,
+      "iap": 4,
+      "apps": [
+        {
+          "id": 6757396957,
+          "name": "Vagaloom: Bedtime Wind Down",
+          "type": "iap",
+          "detail": "Vagaloom Pro Lifetime: ¥98.00 → ¥8.00"
+        },
+        {
+          "id": 6756213159,
+          "name": "SilentProof: Noise Complaint",
+          "type": "iap",
+          "detail": "SilentProof Pro: ¥68.00 → ¥8.00"
+        },
+        {
+          "id": 6757725138,
+          "name": "SleepLedger: Sleep Diary",
+          "type": "iap",
+          "detail": "SleepLedger Pro: ¥98.00 → ¥8.00"
+        },
+        {
+          "id": 6770244846,
+          "name": "FrameTwin: Dual Format Camera",
+          "type": "iap",
+          "detail": "FrameTwin Pro: ¥98.00 → ¥8.00"
+        },
+        {
+          "id": 6742334227,
+          "name": "MarkdownSnap",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786940570574,
     "cn": {
       "total": 7,
