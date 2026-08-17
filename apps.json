@@ -2,6 +2,94 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 303058840,
+      "name": {
+        "cn": "MedAbbreviations"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786956065479,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790233659,
+      "name": {
+        "cn": "PaperCue AI"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786956054314,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760614136,
+      "name": {
+        "cn": "Camera Guide"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786956054512,
+      "_discountType": "app"
+    },
+    {
+      "id": 6753039063,
+      "name": {
+        "cn": "秘密相册-私密照片视频隐藏加密保险箱·本地离线不上云"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786956054512,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763628004,
+      "name": {
+        "cn": "Infrared Camera"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786956054512,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790022313,
+      "name": {
+        "cn": "九宫格快速拨号"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786956059858,
+      "_discountType": "app"
+    },
+    {
+      "id": 6465693027,
+      "name": {
+        "cn": "Word Family Lists"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786956062743,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794669313,
+      "name": {
+        "cn": "词趣 FunWords"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1786956062743,
+      "_discountType": "app"
+    },
+    {
       "id": 6779091369,
       "name": {
         "cn": "SwimStart 游泳出发反应训练"
@@ -487,8 +575,8 @@
       "name": {
         "cn": "i截图 - Annotation&ScreenShot"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1786849123618,
@@ -33871,8 +33959,8 @@
       "name": {
         "cn": "Ad Blocker Pro - Secure & Safe"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1781062093026,
