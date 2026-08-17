@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": 1786954055553,
+    "cn": {
+      "total": 6,
+      "price": 5,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6789408515,
+          "name": "Focus-专注力自控力认知训练",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        },
+        {
+          "id": 6766937146,
+          "name": "VoiceWeaver",
+          "type": "price",
+          "detail": "¥328.00 → ¥68.00"
+        },
+        {
+          "id": 6738698460,
+          "name": "Xproguard Photo Vault",
+          "type": "price",
+          "detail": "¥198.00 → 免费"
+        },
+        {
+          "id": 331529422,
+          "name": "Relax Melodies P: Sleep Sounds",
+          "type": "iap",
+          "detail": "订购: ¥70.00 → ¥35.00"
+        },
+        {
+          "id": 1206313711,
+          "name": "测量工具Pro-专业测量尺子",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 1542317784,
+          "name": "房价-国家统计局房价行情数据统计",
+          "type": "price",
+          "detail": "¥18.00 → ¥1.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1786947091252,
     "cn": {
       "total": 5,
@@ -3337,56 +3383,6 @@
           "name": "听写文本：语音识别",
           "type": "price",
           "detail": "¥8.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786089766118,
-    "cn": {
-      "total": 2,
-      "price": 2,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6797443756,
-          "name": "小K提词器-视频拍摄口播提词助手",
-          "type": "price",
-          "detail": "¥28.00 → ¥8.00"
-        },
-        {
-          "id": 6768162306,
-          "name": "Petkeep-宠物健康档案",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786083948435,
-    "cn": {
-      "total": 3,
-      "price": 2,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6761128182,
-          "name": "Retro Keys: Piano, Wurl, Rhds",
-          "type": "price",
-          "detail": "¥58.00 → ¥38.00"
-        },
-        {
-          "id": 6471663093,
-          "name": "WaveCloud",
-          "type": "price",
-          "detail": "¥98.00 → ¥58.00"
-        },
-        {
-          "id": 364859644,
-          "name": "Offline Pages",
-          "type": "iap",
-          "detail": "Offline Pages Pro: ¥38.00 → ¥0.00"
         }
       ]
     }
