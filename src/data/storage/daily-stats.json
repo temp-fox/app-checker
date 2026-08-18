@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": 1787063290430,
+    "cn": {
+      "total": 5,
+      "price": 4,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6757311508,
+          "name": "Tuner Pro 手表版",
+          "type": "price",
+          "detail": "¥22.00 → ¥15.00"
+        },
+        {
+          "id": 6757157174,
+          "name": "手表音叉",
+          "type": "price",
+          "detail": "¥22.00 → ¥15.00"
+        },
+        {
+          "id": 6751760761,
+          "name": "节拍器 Apple Watch 版",
+          "type": "price",
+          "detail": "¥22.00 → ¥15.00"
+        },
+        {
+          "id": 6502426413,
+          "name": "血压：追踪器",
+          "type": "iap",
+          "detail": "Lifetime: ¥1,998.00 → ¥798.00"
+        },
+        {
+          "id": 6757147784,
+          "name": "手表大钢琴",
+          "type": "price",
+          "detail": "¥22.00 → ¥8.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787054343613,
     "cn": {
       "total": 2,
@@ -3443,28 +3483,6 @@
           "name": "Await - Countdown Timer",
           "type": "price",
           "detail": "¥8.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786195874700,
-    "cn": {
-      "total": 2,
-      "price": 2,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6788605402,
-          "name": "从舍 in³",
-          "type": "price",
-          "detail": "¥12.00 → 免费"
-        },
-        {
-          "id": 6769327657,
-          "name": "Calorie Tracker - Calorya",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
         }
       ]
     }
