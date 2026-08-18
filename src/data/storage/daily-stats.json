@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": 1787033763933,
+    "cn": {
+      "total": 1,
+      "price": 1,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6755040935,
+          "name": "The Croissant Lab",
+          "type": "price",
+          "detail": "¥38.00 → ¥15.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787026393186,
     "cn": {
       "total": 9,
@@ -3489,52 +3505,6 @@
           "name": "Accent AI：英语发音教练",
           "type": "iap",
           "detail": "Accent AI Premium - Yearly: ¥328.00 → ¥198.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786162420245,
-    "cn": {
-      "total": 6,
-      "price": 5,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 1260277664,
-          "name": "Luxroom极影相机 : ccd相机 拍立得 复古 滤镜",
-          "type": "iap",
-          "detail": "Life Time: ¥198.00 → ¥0.00"
-        },
-        {
-          "id": 6759092510,
-          "name": "拼好豆 - 像素拼豆图纸设计",
-          "type": "price",
-          "detail": "¥8.00 → ¥1.00"
-        },
-        {
-          "id": 6787330792,
-          "name": "Nestwell: Private & Productive",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6469903380,
-          "name": "Simple TTS",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6791917990,
-          "name": "晚安不急-白噪音助眠·睡眠声音",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6798573690,
-          "name": "竹知了：哇哇哇",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }

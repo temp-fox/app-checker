@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6758035514,
+      "name": {
+        "cn": "Tempo - 时间节奏调节器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787027626221,
+      "_discountType": "app"
+    },
+    {
       "id": 499931615,
       "name": {
         "cn": "Sign Up Events: Visitor Log"
