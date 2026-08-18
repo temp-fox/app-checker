@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1542825691,
+      "name": {
+        "cn": "VTines Live"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787063604245,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801077436,
+      "name": {
+        "cn": "JazzTree"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787063604245,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759362681,
+      "name": {
+        "cn": "Harmony & Counterpoint"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787063604245,
+      "_discountType": "app"
+    },
+    {
       "id": 571621497,
       "name": {
         "cn": "Unicode Character Viewer"
