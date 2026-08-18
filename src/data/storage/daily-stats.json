@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": 1787020007440,
+    "cn": {
+      "total": 5,
+      "price": 4,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6756681306,
+          "name": "SleepTune: White Noise & Rain",
+          "type": "price",
+          "detail": "¥58.00 → ¥48.00"
+        },
+        {
+          "id": 6761011882,
+          "name": "Device Kit - 硬件性能检测与手机管家",
+          "type": "iap",
+          "detail": "永久会员: ¥48.00 → ¥38.00"
+        },
+        {
+          "id": 6772534107,
+          "name": "爬管家 - 爬宠饲养记录提醒",
+          "type": "price",
+          "detail": "¥6.00 → ¥1.00"
+        },
+        {
+          "id": 989083059,
+          "name": "MP3剪切合并大师: 极速无损剪辑mp3等音频文件",
+          "type": "price",
+          "detail": "¥18.00 → ¥8.00"
+        },
+        {
+          "id": 897745149,
+          "name": "PDF Unlocker Expert",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787009865126,
     "cn": {
       "total": 1,
@@ -3465,34 +3505,6 @@
           "name": "轮胎计算器",
           "type": "price",
           "detail": "¥15.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786146659638,
-    "cn": {
-      "total": 3,
-      "price": 1,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6762630396,
-          "name": "Toolmatic: 语音转文字、转换",
-          "type": "iap",
-          "detail": "Max 终身版 (Pro 升级): ¥498.00 → ¥398.00"
-        },
-        {
-          "id": 6762630396,
-          "name": "Toolmatic: 语音转文字、转换",
-          "type": "iap",
-          "detail": "Toolmatic Max 终身版: ¥698.00 → ¥598.00"
-        },
-        {
-          "id": 1114320457,
-          "name": "Baby Led Weaning Recipes",
-          "type": "price",
-          "detail": "¥38.00 → ¥28.00"
         }
       ]
     }
