@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 350656519,
+      "name": {
+        "cn": "Neuro Toolkit"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787070572976,
+      "_discountType": "app"
+    },
+    {
+      "id": 6783668699,
+      "name": {
+        "cn": "ARN Metro-Tuner"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787070564867,
+      "_discountType": "app"
+    },
+    {
+      "id": 6791032019,
+      "name": {
+        "cn": "牙齿健康"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787070572976,
+      "_discountType": "app"
+    },
+    {
       "id": 1542825691,
       "name": {
         "cn": "VTines Live"
