@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6759662924,
+      "name": {
+        "cn": "PhosphorOrbit"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787091732748,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790208141,
+      "name": {
+        "cn": "SonicSwarm: Sound Connect"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787091735829,
+      "_discountType": "app"
+    },
+    {
       "id": 1499189385,
       "name": {
         "cn": "World自学教程"
