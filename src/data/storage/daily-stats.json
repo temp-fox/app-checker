@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1787090379708,
+    "cn": {
+      "total": 3,
+      "price": 1,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 949277371,
+          "name": "Timestamp Camera-GPS Date Time",
+          "type": "price",
+          "detail": "¥3.00 → ¥1.00"
+        },
+        {
+          "id": 1491473755,
+          "name": "Notehot - Ai笔记 备忘录 语音转文字",
+          "type": "iap",
+          "detail": "VIP Subscription: ¥118.00 → ¥12.00"
+        },
+        {
+          "id": 6739950122,
+          "name": "Birthday Sky - 生日提醒与倒计时",
+          "type": "iap",
+          "detail": "Premium Annual Package: ¥168.00 → ¥88.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787082761163,
     "cn": {
       "total": 6,
@@ -3531,22 +3559,6 @@
           "name": "復得 － 照片扫描仪加强版",
           "type": "iap",
           "detail": "Photomyne membership: ¥398.00 → ¥148.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786226016964,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 944118456,
-          "name": "Exif Viewer by Fluntro",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
         }
       ]
     }

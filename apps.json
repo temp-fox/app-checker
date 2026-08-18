@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1499189385,
+      "name": {
+        "cn": "World自学教程"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787084521842,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755908234,
+      "name": {
+        "cn": "TimePin: Instant Timestamp Log"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787084521916,
+      "_discountType": "app"
+    },
+    {
+      "id": 6450930505,
+      "name": {
+        "cn": "Aperture - Light Meter"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787084522078,
+      "_discountType": "app"
+    },
+    {
+      "id": 6749515480,
+      "name": {
+        "cn": "HomePad - Smart Home Dashboard"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787084527382,
+      "_discountType": "app"
+    },
+    {
       "id": 6768325292,
       "name": {
         "cn": "西班牙语入门"
