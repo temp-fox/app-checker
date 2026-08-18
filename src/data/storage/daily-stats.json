@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": 1787040716993,
+    "cn": {
+      "total": 4,
+      "price": 2,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6797875277,
+          "name": "羽球迹",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6795860079,
+          "name": "台风许愿机",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6445827003,
+          "name": "实时高度表 海拔追踪",
+          "type": "iap",
+          "detail": "海拔无极限: ¥48.00 → ¥38.00"
+        },
+        {
+          "id": 6772534107,
+          "name": "爬管家 - 爬宠饲养记录提醒",
+          "type": "iap",
+          "detail": "爬管家PRO: ¥128.00 → ¥68.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787033763933,
     "cn": {
       "total": 1,
@@ -3455,56 +3489,6 @@
           "name": "图梦 - 去水印&照片杂物去除&智能抠图",
           "type": "iap",
           "detail": "图梦永久会员: ¥88.00 → ¥68.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786174391708,
-    "cn": {
-      "total": 2,
-      "price": 2,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6756868955,
-          "name": "灵动药盒 - 吃药提醒与药品管理",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6746629890,
-          "name": "H2O Reminder Pro",
-          "type": "price",
-          "detail": "¥6.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786170524266,
-    "cn": {
-      "total": 3,
-      "price": 2,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6738080498,
-          "name": "Multiply Fun: 19x19",
-          "type": "price",
-          "detail": "¥38.00 → ¥15.00"
-        },
-        {
-          "id": 6753138898,
-          "name": "SongDetect 音乐识别与播放",
-          "type": "price",
-          "detail": "¥3.00 → ¥1.00"
-        },
-        {
-          "id": 6747029788,
-          "name": "Accent AI：英语发音教练",
-          "type": "iap",
-          "detail": "Accent AI Premium - Yearly: ¥328.00 → ¥198.00"
         }
       ]
     }
