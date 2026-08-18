@@ -2,6 +2,167 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 499931615,
+      "name": {
+        "cn": "Sign Up Events: Visitor Log"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787021718068,
+      "_discountType": "app"
+    },
+    {
+      "id": 644278663,
+      "name": {
+        "cn": "Pic Scanner 照片扫描仪应用"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787021665394,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790597981,
+      "name": {
+        "cn": "Oktopus Synthesizer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787021668074,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795589329,
+      "name": {
+        "cn": "睡觉了"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787021670710,
+      "_discountType": "app"
+    },
+    {
+      "id": 6736433673,
+      "name": {
+        "cn": "Ad Free Poster Maker App"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787021718068,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6785493972,
+      "name": {
+        "cn": "轻决定"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787021718068,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6741854065,
+      "name": {
+        "cn": "多能记-一目了然 记的多"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787021718068,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6757343516,
+      "name": {
+        "cn": "LearnBack: Active Recall"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787021718068,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6798038580,
+      "name": {
+        "cn": "RunTrace 跑步记录与轨迹"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787021718068,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779474668,
+      "name": {
+        "cn": "SpeedZip Pro - 压缩包管理器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787021718068,
+      "_discountType": "app"
+    },
+    {
+      "id": 6737989765,
+      "name": {
+        "cn": "LocalAudioBooksPlayer"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787021718068,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790128061,
+      "name": {
+        "cn": "EyeTally"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787021718068,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761932931,
+      "name": {
+        "cn": "The Strays"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787021718068,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761582217,
+      "name": {
+        "cn": "Dog Wars 1"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787021718068,
+      "_discountType": "app"
+    },
+    {
       "id": 358395564,
       "name": {
         "cn": "学习 林加拉语 - EuroTalk"
