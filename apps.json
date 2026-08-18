@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6768325292,
+      "name": {
+        "cn": "西班牙语入门"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787078097961,
+      "_discountType": "app"
+    },
+    {
       "id": 350656519,
       "name": {
         "cn": "Neuro Toolkit"

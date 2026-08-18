@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": 1787082761163,
+    "cn": {
+      "total": 6,
+      "price": 4,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6761639037,
+          "name": "Voice Notes : Voice to Text",
+          "type": "price",
+          "detail": "¥3.00 → ¥1.00"
+        },
+        {
+          "id": 6786056591,
+          "name": "Tap & Color",
+          "type": "price",
+          "detail": "¥28.00 → ¥8.00"
+        },
+        {
+          "id": 6754695723,
+          "name": "Step Away - 休息提醒与定时器",
+          "type": "price",
+          "detail": "¥38.00 → ¥22.00"
+        },
+        {
+          "id": 6761786787,
+          "name": "CompassPinMax",
+          "type": "price",
+          "detail": "¥68.00 → ¥8.00"
+        },
+        {
+          "id": 1590796628,
+          "name": "Leaf Identification",
+          "type": "iap",
+          "detail": "Leaf ID Pro: ¥198.00 → ¥22.00"
+        },
+        {
+          "id": 6737622922,
+          "name": "Speed Reading & Memory Trainer",
+          "type": "iap",
+          "detail": "Speed Readingo Premium - Yearly: ¥228.00 → ¥68.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787076512495,
     "cn": {
       "total": 2,
@@ -3501,52 +3547,6 @@
           "name": "Exif Viewer by Fluntro",
           "type": "price",
           "detail": "¥22.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786216995061,
-    "cn": {
-      "total": 6,
-      "price": 4,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6758605025,
-          "name": "Cleanup Photos by Fluntro",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6751399000,
-          "name": "Photography Stickers - Fluntro",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6749798622,
-          "name": "Doctors Stickers - DocTalk",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6471649312,
-          "name": "Photos Search by Fluntro",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6757452982,
-          "name": "一饭一会 - 甜品咖啡素食 · 美味回忆相册· 午餐晚餐日记",
-          "type": "iap",
-          "detail": "一饭一会 年度会员: ¥78.00 → ¥58.00"
-        },
-        {
-          "id": 6757452982,
-          "name": "一饭一会 - 甜品咖啡素食 · 美味回忆相册· 午餐晚餐日记",
-          "type": "iap",
-          "detail": "一饭一会 终身会员: ¥148.00 → ¥128.00"
         }
       ]
     }
