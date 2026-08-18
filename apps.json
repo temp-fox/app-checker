@@ -2,6 +2,73 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 765385885,
+      "name": {
+        "cn": "七巧板 Tayasui Tangram"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787042076606,
+      "_discountType": "app"
+    },
+    {
+      "id": 1140305786,
+      "name": {
+        "cn": "BTT 123 SG (Basic Theory)"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787042076606,
+      "_discountType": "app"
+    },
+    {
+      "id": 1456235760,
+      "name": {
+        "cn": "花見动态壁纸：Hanami Live Wallpaper"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1787042120647,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768229388,
+      "name": {
+        "cn": "证件照工坊"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787042068702,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768269214,
+      "name": {
+        "cn": "Chromia - 口红色号宇宙"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787042073840,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790043145,
+      "name": {
+        "cn": "SpeakLoop"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787042076606,
+      "_discountType": "app"
+    },
+    {
       "id": 6758035514,
       "name": {
         "cn": "Tempo - 时间节奏调节器"
