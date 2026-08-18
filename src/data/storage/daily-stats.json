@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": 1787054343613,
+    "cn": {
+      "total": 2,
+      "price": 2,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6747297705,
+          "name": "Para PRO: Paranı Yönet",
+          "type": "price",
+          "detail": "¥3.00 → ¥1.00"
+        },
+        {
+          "id": 842511758,
+          "name": "National Gallery London Audio",
+          "type": "price",
+          "detail": "¥28.00 → ¥22.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787047367163,
     "cn": {
       "total": 2,
@@ -3443,74 +3465,6 @@
           "name": "Calorie Tracker - Calorya",
           "type": "price",
           "detail": "¥18.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786187931816,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 1373544809,
-          "name": "墨典单词-高效学英语锁屏背单词的必备神器",
-          "type": "price",
-          "detail": "¥30.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786183756725,
-    "cn": {
-      "total": 7,
-      "price": 3,
-      "iap": 4,
-      "apps": [
-        {
-          "id": 6769270461,
-          "name": "九型人格测试性格心理深度测评人格分析MBTI同款版",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1573144215,
-          "name": "StarNFC – NFC读写工具",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 1573144215,
-          "name": "StarNFC – NFC读写工具",
-          "type": "iap",
-          "detail": "StarNFC尊享终身会员: ¥128.00 → ¥88.00"
-        },
-        {
-          "id": 6761987453,
-          "name": "明朝“高考”模拟器-俺在大明当首辅",
-          "type": "iap",
-          "detail": "直接通过考试: ¥8.00 → ¥3.00"
-        },
-        {
-          "id": 903006632,
-          "name": "apeFilter",
-          "type": "price",
-          "detail": "¥58.00 → ¥38.00"
-        },
-        {
-          "id": 6762709553,
-          "name": "图梦 - 去水印&照片杂物去除&智能抠图",
-          "type": "iap",
-          "detail": "图梦终身会员: ¥88.00 → ¥68.00"
-        },
-        {
-          "id": 6762709553,
-          "name": "图梦 - 去水印&照片杂物去除&智能抠图",
-          "type": "iap",
-          "detail": "图梦永久会员: ¥88.00 → ¥68.00"
         }
       ]
     }
