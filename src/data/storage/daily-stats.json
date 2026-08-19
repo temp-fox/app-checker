@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": 1787147687993,
+    "cn": {
+      "total": 2,
+      "price": 0,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6758952338,
+          "name": "SUNA - Sauna Tracker",
+          "type": "iap",
+          "detail": "Suna+: ¥328.00 → ¥68.00"
+        },
+        {
+          "id": 1539244235,
+          "name": "化学探索：元素周期表、化学方程式与3D分子模型",
+          "type": "iap",
+          "detail": "Chemistry Pro 终身: ¥48.00 → ¥38.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787138085524,
     "cn": {
       "total": 1,
@@ -3573,46 +3595,6 @@
           "name": "Compress & Upload for Safari",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786274354824,
-    "cn": {
-      "total": 5,
-      "price": 5,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6761430166,
-          "name": "色彩猎人 - 每日颜色挑战",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6789095581,
-          "name": "Document Assistant: PDF Editor",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6761114400,
-          "name": "Collage Buddy : Collage Maker",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6474135199,
-          "name": "Critical Swim Speed",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 6756572896,
-          "name": "成语世界-中小学智慧学习",
-          "type": "price",
-          "detail": "¥3.50 → ¥3.00"
         }
       ]
     }
