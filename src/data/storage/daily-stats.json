@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1787125840277,
+    "cn": {
+      "total": 3,
+      "price": 2,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 455693939,
+          "name": "Ramana Maharshi Quotes",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 491185234,
+          "name": "Nisargadatta Maharaj Quotes",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 1619725004,
+          "name": "Paint.Ms",
+          "type": "iap",
+          "detail": "Vip No Ads and Icon: ¥38.00 → ¥8.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787119123745,
     "cn": {
       "total": 1,

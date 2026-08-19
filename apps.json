@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1582126913,
+      "name": {
+        "cn": "随乐游助手 - 游戏应用伴侣"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787121618807,
+      "_discountType": "app"
+    },
+    {
       "id": 1496909206,
       "name": {
         "cn": "cMate-IMDG Code"
