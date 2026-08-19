@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 933599390,
+      "name": {
+        "cn": "融资易 - 融资从此开始"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787178195674,
+      "_discountType": "app"
+    },
+    {
+      "id": 6670542050,
+      "name": {
+        "cn": "Pharaoh Finder"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787178209537,
+      "_discountType": "app"
+    },
+    {
       "id": 1096938305,
       "name": {
         "cn": "English Prefixes and Suffixes"
