@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6777342711,
+      "name": {
+        "cn": "QR Code Studio"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787149897882,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770479789,
+      "name": {
+        "cn": "我们 - We Connection"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787149903466,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790354436,
+      "name": {
+        "cn": "影匠剪辑 Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787149903500,
+      "_discountType": "app"
+    },
+    {
+      "id": 6742121517,
+      "name": {
+        "cn": "人体反射区 — 反射穴位与中医反射疗法研究"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787149914116,
+      "_discountType": "app"
+    },
+    {
       "id": 1607656777,
       "name": {
         "cn": "大象电耗-电车助手-新能源计算器"

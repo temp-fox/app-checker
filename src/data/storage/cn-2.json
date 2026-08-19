@@ -16837,14 +16837,22 @@
     "name": "QuickFTP Server",
     "trackName": "QuickFTP Server",
     "maxPriceInfo": {
-      "price": 28,
-      "formattedPrice": "¥28.00"
+      "price": 38,
+      "formattedPrice": "¥38.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787149933447,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785756194685,
@@ -41185,6 +41193,14 @@
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787149933447,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785078373297,
@@ -119804,6 +119820,16 @@
     "history": [
       [
         {
+          "timestamp": 1787149933447,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "StarNFC尊享终身会员": "¥68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786178442296,
           "price": 0,
           "formattedPrice": "免费",
@@ -119902,9 +119928,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/starnfc-nfc%E8%AF%BB%E5%86%99%E5%B7%A5%E5%85%B7/id1573144215?uo=4",
-    "description": "StarNFC – NFC 读写工具 StarNFC 是一款简洁、强大、注重隐私的 NFC 工具，帮助你在 iPhone 上读取、写入和管理 NFC 标签。 无论你是想扫描 NFC 标签、创建日常使用的智能标签、管理 NDEF 记录，还是结合 iOS 快捷指令打造自动化场景，StarNFC 都可以让 NFC 操作更简单、更清晰、更高效。 核心功能 NFC 标签读取 快速扫描 NFC 标签，查看详细标签信息，包括芯片类型、NDEF 记录、文本、链接、Wi-Fi 信息、联系人卡片、媒体链接等内容。 NFC 标签写入 创建并写入常用 NFC 内容，例如文本、网址、Wi-Fi 信息、联系人、App 链接、快捷指令和自定义标签内容。 标签管理 保存、编辑、复用和整理你的 NFC 标签记录。常用内容可以快速再次写入，无需重复创建。 iOS 快捷指令自动化 结合 iOS 快捷指令使用 NFC 标签，轻触即可触发操作、打开 App、启动工作流或创建简单的自动化场景。 Wi-Fi 信息标签 创建包含 Wi-Fi 网络信息的 NFC 标签，更方便地分享网络信息，并可结合受支持设备或快捷指令使用。 媒体与智能链接 读取和创建音乐、网站、App 链接、位置链接、备忘信息及其他智能操作相关的 NFC 标签。 本地处理，注重隐私 StarNFC 在你的设备本地运行，无需账号登录，你的 NFC 标签内容不会上传到服务器。 为什么选择 StarNFC？ 界面简洁，容易上手 NFC 扫描快速，标签解析清晰 支持常见 NDEF 记录类型 适合日常用户、开发者、活动、办公和智能家居场景 本地处理，隐私友好 提供灵活的高级功能解锁方式 适合场景 读取和写入 NFC 标签 创建 NFC 快捷操作 分享链接、文本、Wi-Fi 信息和联系人卡片 测试 NFC 与 NDEF 记录 活动签到和信息标签 办公标签、资产标签和自动化流程 个人效率和智能家居操作 重要说明 由于 iOS 系统限制，部分加密门禁卡、银行卡、交通卡、酒店房卡以及特殊 NFC 芯片可能无法读取、写入或复制。StarNFC 主要用于标准 NFC / NDEF 标签的读取、写入和管理。 会员选项 StarNFC 提供可选会员服务，用于解锁高级功能。 当前可用选项可能包括： 周会员 适合短期使用或临时完成 NFC 相关任务。 终身会员 适合希望长期使用高级功能的用户，一次购买，长期使用。 周会员属于订阅服务。确认购买后，费用将通过你的 Apple ID 账户扣除。订阅会自动续期，除非你在当前订阅周期结束前至少 24 小时取消。你可以在 App Store 账户设置中管理或取消订阅。 终身会员属于一次性购买，不会自动续费。 下载 StarNFC，让 NFC 更简单、更智能、更实用。 隐私政策：https://hero2022.yuque.com/docs/share/523405cc-3f9c-4cd2-9ec1-42cd08f9b360 服务条款：https://hero2022.yuque.com/docs/share/e81eb627-6640-4476-8c17-d830a7570bc4 如果你有任何问题、反馈或建议，欢迎联系我们。",
-    "fullDescription": "StarNFC – NFC 读写工具 StarNFC 是一款简洁、强大、注重隐私的 NFC 工具，帮助你在 iPhone 上读取、写入和管理 NFC 标签。 无论你是想扫描 NFC 标签、创建日常使用的智能标签、管理 NDEF 记录，还是结合 iOS 快捷指令打造自动化场景，StarNFC 都可以让 NFC 操作更简单、更清晰、更高效。 核心功能 NFC 标签读取 快速扫描 NFC 标签，查看详细标签信息，包括芯片类型、NDEF 记录、文本、链接、Wi-Fi 信息、联系人卡片、媒体链接等内容。 NFC 标签写入 创建并写入常用 NFC 内容，例如文本、网址、Wi-Fi 信息、联系人、App 链接、快捷指令和自定义标签内容。 标签管理 保存、编辑、复用和整理你的 NFC 标签记录。常用内容可以快速再次写入，无需重复创建。 iOS 快捷指令自动化 结合 iOS 快捷指令使用 NFC 标签，轻触即可触发操作、打开 App、启动工作流或创建简单的自动化场景。 Wi-Fi 信息标签 创建包含 Wi-Fi 网络信息的 NFC 标签，更方便地分享网络信息，并可结合受支持设备或快捷指令使用。 媒体与智能链接 读取和创建音乐、网站、App 链接、位置链接、备忘信息及其他智能操作相关的 NFC 标签。 本地处理，注重隐私 StarNFC 在你的设备本地运行，无需账号登录，你的 NFC 标签内容不会上传到服务器。 为什么选择 StarNFC？ 界面简洁，容易上手 NFC 扫描快速，标签解析清晰 支持常见 NDEF 记录类型 适合日常用户、开发者、活动、办公和智能家居场景 本地处理，隐私友好 提供灵活的高级功能解锁方式 适合场景 读取和写入 NFC 标签 创建 NFC 快捷操作 分享链接、文本、Wi-Fi 信息和联系人卡片 测试 NFC 与 NDEF 记录 活动签到和信息标签 办公标签、资产标签和自动化流程 个人效率和智能家居操作 重要说明 由于 iOS 系统限制，部分加密门禁卡、银行卡、交通卡、酒店房卡以及特殊 NFC 芯片可能无法读取、写入或复制。StarNFC 主要用于标准 NFC / NDEF 标签的读取、写入和管理。 会员选项 StarNFC 提供可选会员服务，用于解锁高级功能。 当前可用选项可能包括： 周会员 适合短期使用或临时完成 NFC 相关任务。 终身会员 适合希望长期使用高级功能的用户，一次购买，长期使用。 周会员属于订阅服务。确认购买后，费用将通过你的 Apple ID 账户扣除。订阅会自动续期，除非你在当前订阅周期结束前至少 24 小时取消。你可以在 App Store 账户设置中管理或取消订阅。 终身会员属于一次性购买，不会自动续费。 下载 StarNFC，让 NFC 更简单、更智能、更实用。 隐私政策：https://hero2022.yuque.com/docs/share/523405cc-3f9c-4cd2-9ec1-42cd08f9b360 服务条款：https://hero2022.yuque.com/docs/share/e81eb627-6640-4476-8c17-d830a7570bc4 如果你有任何问题、反馈或建议，欢迎联系我们。",
-    "summaryDescription": "StarNFC – NFC 读写工具 StarNFC 是一款简洁、强大、注重隐私的 NFC 工具，帮助你在 iPhone 上读取、写入和管理 NFC 标签。 无论你是想扫描 NFC 标签、创建日常使用的智能标签、管理 NDEF 记录，还是结合 iOS 快捷指令打造自动化场景，StarNFC 都可以让 NFC 操作更简单、更清晰、更高效。 核心功能 NFC 标签读取 快速扫描 NFC 标签，查看详细标签信息，包括芯片类型、NDEF 记录、文本、链接、Wi-Fi 信息、联系人卡片、媒体链接等内容。 NFC 标签写入 创建并写入常用 NFC 内容，例如文本、网址、Wi-Fi 信息、联系人、App 链接、快捷指令和自定义标签内容。 标签管理 保存、编辑、复用和整理你的 NFC 标签记录。常用内容可以快速再次写入，无需重复创建。 iOS 快捷指令自动化 结合 iOS 快捷指令使用 NFC 标签，轻触即可触发操作、打开 App、启动工作流或创建简单的自动化场景。 Wi-Fi 信息标签 创建包含 Wi-Fi 网络信息的 NFC 标签，更方便地分享网络信息，并可结合受支持设备或快捷指令使用。 媒体与智能链接 读取和创建音乐、网站、App 链接、位置链接、备忘信息及其他智能操作相关的 NFC 标签。 本地处理，注重隐私 StarNFC 在你的设备本地运行，无需账号登录，你的 NFC 标签内容不会上传到服务器。 为什么选择 StarNFC？ 界面简洁，容易上手 NFC 扫描快速，标签解析清晰 支持常见 NDEF 记录类型 适合日常用户、开发者、活动、办公和智能家居场景 本地处理，隐私友好 提供灵活的高级功能解锁方式 适合场景 读取和写入 NFC 标签 创建 NFC 快捷操作 分享链接、文本、Wi-Fi 信息和联系人卡片 测试 NFC 与 NDEF 记录 活动签到和信息标签 办公标签、资产标签和自动化流程 个人效率和智能家居操作 重要说明 由于 iOS 系统限制，部分加密门禁卡、银行卡、交通卡、酒店房卡以及特殊 NFC 芯片可能无法读取、写入或复制。StarNFC 主要用于标准 NFC / NDEF 标签的读取、写入和管理。 会员选项 StarNFC 提供可选会员服务，用于解锁高级功能。 当前可用选项可能包括： 周会员 适合短期使用或临时完成 NFC 相关任务。 终身会员 适合希望长期使用高级功能的用户，一次购买，长期使用。 周会员属于订阅服务。确认购买后，费用将通过你的 Apple ID 账户扣除。订阅会自动续期，除非你在当前订阅周期结束前至少 24 小时取消。你可以在 App Store 账户设置中管理或取消订阅。 终身会员属于一次性购买，不会自动续费。 下载 StarNFC，让 NFC 更简单、更智能、更实用。 隐私政策：https://hero2022.yuque.com/docs/share/523405cc-3f9c-4cd2-9ec1-42cd08f9b360 服务条款：https://hero2022.yuque.com/docs/share/e81eb627-6640-4476-8c17-d830a7570bc4 如果你有任何问题、反馈或建议，欢迎联系我们。",
+    "description": "StarNFC – NFC 读写工具 StarNFC 是一款简洁、强大、注重隐私的 NFC 工具，帮助你在 iPhone 上读取、写入和管理 NFC 标签。 无论你是想扫描 NFC 标签、创建日常使用的智能标签、管理 NDEF 记录，还是结合 iOS 快捷指令打造自动化场景，StarNFC 都可以让 NFC 操作更简单、更清晰、更高效。 核心功能 NFC 标签读取 快速扫描 NFC 标签，查看详细标签信息，包括芯片类型、NDEF 记录、文本、链接、Wi-Fi 信息、联系人卡片、媒体链接等内容。 NFC 标签写入 创建并写入常用 NFC 内容，例如文本、网址、Wi-Fi 信息、联系人、App 链接、快捷指令和自定义标签内容。 标签管理 保存、编辑、复用和整理你的 NFC 标签记录。常用内容可以快速再次写入，无需重复创建。 iOS 快捷指令自动化 结合 iOS 快捷指令使用 NFC 标签，轻触即可触发操作、打开 App、启动工作流或创建简单的自动化场景。 Wi-Fi 信息标签 创建包含 Wi-Fi 网络信息的 NFC 标签，更方便地分享网络信息，并可结合受支持设备或快捷指令使用。 媒体与智能链接 读取和创建音乐、网站、App 链接、位置链接、备忘信息及其他智能操作相关的 NFC 标签。 本地处理，注重隐私 StarNFC 在你的设备本地运行，无需账号登录，你的 NFC 标签内容不会上传",
+    "fullDescription": "StarNFC – NFC 读写工具 StarNFC 是一款简洁、强大、注重隐私的 NFC 工具，帮助你在 iPhone 上读取、写入和管理 NFC 标签。 无论你是想扫描 NFC 标签、创建日常使用的智能标签、管理 NDEF 记录，还是结合 iOS 快捷指令打造自动化场景，StarNFC 都可以让 NFC 操作更简单、更清晰、更高效。 核心功能 NFC 标签读取 快速扫描 NFC 标签，查看详细标签信息，包括芯片类型、NDEF 记录、文本、链接、Wi-Fi 信息、联系人卡片、媒体链接等内容。 NFC 标签写入 创建并写入常用 NFC 内容，例如文本、网址、Wi-Fi 信息、联系人、App 链接、快捷指令和自定义标签内容。 标签管理 保存、编辑、复用和整理你的 NFC 标签记录。常用内容可以快速再次写入，无需重复创建。 iOS 快捷指令自动化 结合 iOS 快捷指令使用 NFC 标签，轻触即可触发操作、打开 App、启动工作流或创建简单的自动化场景。 Wi-Fi 信息标签 创建包含 Wi-Fi 网络信息的 NFC 标签，更方便地分享网络信息，并可结合受支持设备或快捷指令使用。 媒体与智能链接 读取和创建音乐、网站、App 链接、位置链接、备忘信息及其他智能操作相关的 NFC 标签。 本地处理，注重隐私 StarNFC 在你的设备本地运行，无需账号登录，你的 NFC 标签内容不会上传",
+    "summaryDescription": "StarNFC – NFC 读写工具 StarNFC 是一款简洁、强大、注重隐私的 NFC 工具，帮助你在 iPhone 上读取、写入和管理 NFC 标签。 无论你是想扫描 NFC 标签、创建日常使用的智能标签、管理 NDEF 记录，还是结合 iOS 快捷指令打造自动化场景，StarNFC 都可以让 NFC 操作更简单、更清晰、更高效。 核心功能 NFC 标签读取 快速扫描 NFC 标签，查看详细标签信息，包括芯片类型、NDEF 记录、文本、链接、Wi-Fi 信息、联系人卡片、媒体链接等内容。 NFC 标签写入 创建并写入常用 NFC 内容，例如文本、网址、Wi-Fi 信息、联系人、App 链接、快捷指令和自定义标签内容。 标签管理 保存、编辑、复用和整理你的 NFC 标签记录。常用内容可以快速再次写入，无需重复创建。 iOS 快捷指令自动化 结合 iOS 快捷指令使用 NFC 标签，轻触即可触发操作、打开 App、启动工作流或创建简单的自动化场景。 Wi-Fi 信息标签 创建包含 Wi-Fi 网络信息的 NFC 标签，更方便地分享网络信息，并可结合受支持设备或快捷指令使用。 媒体与智能链接 读取和创建音乐、网站、App 链接、位置链接、备忘信息及其他智能操作相关的 NFC 标签。 本地处理，注重隐私 StarNFC 在你的设备本地运行，无需账号登录，你的 NFC 标签内容不会上传",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/53/d4/2d53d438-9cae-01fe-06f0-80bec3e41812/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/53/d4/2d53d438-9cae-01fe-06f0-80bec3e41812/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "志红 刘",
@@ -145958,6 +145984,14 @@
     "history": [
       [
         {
+          "timestamp": 1787149933447,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786498887471,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -162459,6 +162493,14 @@
     "history": [
       [
         {
+          "timestamp": 1787149933447,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785345392407,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -177929,16 +177971,31 @@
       "formattedPrice": "免费",
       "Lifetime": "¥228.00",
       "Annual Premium": "¥168.00",
-      "Monthly Premium": "¥28.00"
+      "Monthly Premium": "¥28.00",
+      "Weekly": "¥8.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
       "Lifetime": "¥0.00",
       "Annual Premium": "¥168.00",
-      "Monthly Premium": "¥28.00"
+      "Monthly Premium": "¥28.00",
+      "Weekly": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787149933447,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Lifetime": "¥228.00",
+            "Annual Premium": "¥168.00",
+            "Monthly Premium": "¥28.00",
+            "Weekly": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772899792066,
@@ -243232,6 +243289,111 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/d6/b5/0dd6b5d6-a0e1-8cfb-dd3e-2408b87c7d5a/4.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/7c/89/ae7c8981-06cf-7f26-10ca-9002aa113d27/5.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/22/69/cd226985-616f-2774-1112-d46f3cc7d90e/6.png/320x480bb.jpg"
+    ]
+  },
+  "6757734736": {
+    "name": "REPO MOBILE",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00",
+      "500 DIAMONDS": "¥22.00",
+      "VIP": "¥22.00",
+      "UNLOCK MULTIPLAYER Permanently": "¥15.00",
+      "2,500 DIAMONDS": "¥68.00",
+      "1,000 DIAMONDS": "¥38.00",
+      "Better Flashlight": "¥22.00",
+      "Shrinker Cart": "¥38.00",
+      "6,000 DIAMONDS": "¥148.00",
+      "Infinity Energy": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00",
+      "500 DIAMONDS": "¥22.00",
+      "VIP": "¥22.00",
+      "UNLOCK MULTIPLAYER Permanently": "¥15.00",
+      "2,500 DIAMONDS": "¥68.00",
+      "1,000 DIAMONDS": "¥38.00",
+      "Better Flashlight": "¥22.00",
+      "Shrinker Cart": "¥38.00",
+      "6,000 DIAMONDS": "¥148.00",
+      "Infinity Energy": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771232335229,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "500 DIAMONDS": "¥22.00",
+            "VIP": "¥22.00",
+            "UNLOCK MULTIPLAYER Permanently": "¥15.00",
+            "2,500 DIAMONDS": "¥68.00",
+            "1,000 DIAMONDS": "¥38.00",
+            "Better Flashlight": "¥22.00",
+            "Shrinker Cart": "¥38.00",
+            "6,000 DIAMONDS": "¥148.00",
+            "Infinity Energy": "¥38.00"
+          }
+        }
+      ]
+    ],
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/e6/44/92e64424-5c56-8bd3-a434-35ee511c2be1/1.jpg/2688x1242bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/09/6d/c6096d2e-5d4c-426d-7747-5df74b7a9320/3.jpg/2688x1242bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/04/7c/ad047c10-2ac3-978e-b2f8-23f38efa1d53/2.jpg/2688x1242bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/48/63/884863ca-e664-dedd-7d00-e15304af1b7e/4.jpg/2688x1242bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/9f/e7/599fe753-3011-bc23-0fd5-df284be577fe/5.jpg/2688x1242bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/d7/53/52d753a7-6d03-60a2-7a98-e899c6ee563d/2732.1.jpg/2732x2048bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/45/b4/7b45b412-4b97-495f-2ad6-077635732c5b/2732.3.jpg/2732x2048bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/6a/b5/2d6ab50e-b1a4-eb65-329f-268a1651c00e/2732.2.jpg/2732x2048bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/7f/cf/e97fcf9f-61dc-0a77-6232-23ef9c56269e/2732.5.jpg/2732x2048bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/64/e6/8064e6ff-aa4d-c8ed-d982-4737041dbe9c/2732.4.jpg/2732x2048bb.png"
+    ]
+  },
+  "6758402927": {
+    "name": "Ramadan Planner: Track & Pray",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771260935883,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755781701": {
+    "name": "Aurora Tromsø",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771305877461,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ]
     ]
   }
 }
