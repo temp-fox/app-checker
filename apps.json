@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1496909206,
+      "name": {
+        "cn": "cMate-IMDG Code"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787114140696,
+      "_discountType": "app"
+    },
+    {
       "id": 6791598083,
       "name": {
         "cn": "拼好图：把照片变成拼图游戏，分享给亲朋好友"
