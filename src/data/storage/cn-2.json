@@ -4058,14 +4058,22 @@
     "name": "MARPOL Consolidated",
     "trackName": "MARPOL Consolidated",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "¥88.00"
+      "price": 98,
+      "formattedPrice": "¥98.00"
     },
     "minPriceInfo": {
       "price": 88,
       "formattedPrice": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787135227804,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784754413131,

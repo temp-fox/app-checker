@@ -15789,6 +15789,10 @@
     "history": [
       [
         {
+          "timestamp": 1787135227804,
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1787128554834,
           "inAppPurchases": {}
         },
@@ -20467,8 +20471,8 @@
     "description": "AstroShader is an astrophotography app for capturing, stacking and editing. All you need is a stand, tripod, telescope or rock (to lean your phone on). AstroShader lets you align and stack live during the image capture process. You can also align and stack images from you Photos library. No need to transfer images to a computer to align and stack them separately (but there is a built in intervalometer if you do need it). To take an image follow these steps: Use a stand, tripod, telescope mount (or lean your iPhone on a rock). Zoom in on stars and set focus manually. Set the exposure time, ISO and white balance. Set the number of exposures to be automatically aligned and stacked. Calibrate your images from the edit tools. After the capture is complete you can edit and save your image—including as 16bit TIFF. You can open images directly to use the edit tools in AstroShader - rather following a new image capture. Image capture options include: Number of exposures to be aligned and stacked Exposure time ISO White balance Camera type Countdown timer Manual focus Pause the capture to reposition iPhone or telescope Edit options include: Stretch image Background extraction x5 Histogram curves for fine tonal adjustment x3 sharpen layers each with radius and intensity with layer blending rather than chaining Brightness (low light enhancement) Saturation Black point Temperature Tint Save format options; HEIF, PNG, JPEG, TIFF",
     "fullDescription": "AstroShader is an astrophotography app for capturing, stacking and editing. All you need is a stand, tripod, telescope or rock (to lean your phone on). AstroShader lets you align and stack live during the image capture process. You can also align and stack images from you Photos library. No need to transfer images to a computer to align and stack them separately (but there is a built in intervalometer if you do need it). To take an image follow these steps: Use a stand, tripod, telescope mount (or lean your iPhone on a rock). Zoom in on stars and set focus manually. Set the exposure time, ISO and white balance. Set the number of exposures to be automatically aligned and stacked. Calibrate your images from the edit tools. After the capture is complete you can edit and save your image—including as 16bit TIFF. You can open images directly to use the edit tools in AstroShader - rather following a new image capture. Image capture options include: Number of exposures to be aligned and stacked Exposure time ISO White balance Camera type Countdown timer Manual focus Pause the capture to reposition iPhone or telescope Edit options include: Stretch image Background extraction x5 Histogram curves for fine tonal adjustment x3 sharpen layers each with radius and intensity with layer blending rather than chaining Brightness (low light enhancement) Saturation Black point Temperature Tint Save format options; HEIF, PNG, JPEG, TIFF",
     "summaryDescription": "AstroShader is an astrophotography app for capturing, stacking and editing. All you need is a stand, tripod, telescope or rock (to lean your phone on). AstroShader lets you align and stack live during the image capture process. You can also align and stack images from you Photos library. No need to transfer images to a computer to align and stack them separately (but there is a built in intervalometer if you do need it). To take an image follow these steps: Use a stand, tripod, telescope mount (or lean your iPhone on a rock). Zoom in on stars and set focus manually. Set the exposure time, ISO and white balance. Set the number of exposures to be automatically aligned and stacked. Calibrate your images from the edit tools. After the capture is complete you can edit and save your image—including as 16bit TIFF. You can open images directly to use the edit tools in AstroShader - rather following a new image capture. Image capture options include: Number of exposures to be aligned and stacked Exposure time ISO White balance Camera type Countdown timer Manual focus Pause the capture to reposition iPhone or telescope Edit options include: Stretch image Background extraction x5 Histogram curves for fine tonal adjustment x3 sharpen layers each with radius and intensity with layer blending rather than chaining Brightness (low light enhancement) Saturation Black point Temperature Tint Save format options; HEIF, PNG, JPEG, TIFF",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/c8/ca/50c8ca86-58fc-4d9c-267a-88bee1dc5bb3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/c8/ca/50c8ca86-58fc-4d9c-267a-88bee1dc5bb3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/1f/74/311f74a4-767b-8560-659a-37b0688dcde2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/1f/74/311f74a4-767b-8560-659a-37b0688dcde2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "AstroShader Limited",
     "artistName": "AstroShader Limited",
     "screenshotUrls": [
@@ -23388,7 +23392,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "LearnBack Pro": "¥68.00",
+      "LearnBack Pro": "¥148.00",
       "LearnBack Pro – Monthly": "¥8.00"
     },
     "minPriceInfo": {
@@ -23398,6 +23402,17 @@
       "LearnBack Pro – Monthly": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787135227804,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "LearnBack Pro": "¥148.00",
+            "LearnBack Pro – Monthly": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787021718136,
