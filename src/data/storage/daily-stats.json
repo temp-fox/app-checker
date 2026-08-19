@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": 1787107001679,
+    "cn": {
+      "total": 6,
+      "price": 5,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6779474668,
+          "name": "SpeedZip Pro - 压缩包管理器",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6776941156,
+          "name": "i截图 - Annotation&ScreenShot",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6783818766,
+          "name": "公式助手",
+          "type": "price",
+          "detail": "¥2.00 → 免费"
+        },
+        {
+          "id": 1619725004,
+          "name": "Paint.Ms",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 543001890,
+          "name": "Economy Picking Guitar School",
+          "type": "price",
+          "detail": "¥168.00 → ¥88.00"
+        },
+        {
+          "id": 573916046,
+          "name": "Fitness Point Pro: 健身与居家",
+          "type": "iap",
+          "detail": "Expert: ¥38.00 → ¥19.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787090379708,
     "cn": {
       "total": 3,
@@ -3543,22 +3589,6 @@
           "name": "TicketMe",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786232463825,
-    "cn": {
-      "total": 1,
-      "price": 0,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 951627022,
-          "name": "復得 － 照片扫描仪加强版",
-          "type": "iap",
-          "detail": "Photomyne membership: ¥398.00 → ¥148.00"
         }
       ]
     }
