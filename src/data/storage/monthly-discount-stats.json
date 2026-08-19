@@ -135,9 +135,11 @@
       "inAppPurchase": {}
     },
     "549390700": {
-      "all": 1,
+      "all": 2,
       "price": 1,
-      "inAppPurchase": {}
+      "inAppPurchase": {
+        "PerfExpert Pro": 1
+      }
     },
     "572225713": {
       "all": 1,
@@ -3630,6 +3632,18 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6748663168": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6744388025": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Monthly Subscription": 1
+      }
     }
   }
 }

@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 425341262,
+      "name": {
+        "cn": "FTP Client Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787164325697,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793436295,
+      "name": {
+        "cn": "酷车音乐"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787164333783,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786750267,
+      "name": {
+        "cn": "一屿"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787164336606,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799768674,
+      "name": {
+        "cn": "BoringSwitch"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787164339681,
+      "_discountType": "app"
+    },
+    {
       "id": 6777342711,
       "name": {
         "cn": "QR Code Studio"
@@ -65134,8 +65178,8 @@
       "name": {
         "cn": "任意三角形 专业的"
       },
-      "addType": "external",
-      "addSource": "WarmDay",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "WarmDay",
       "_externalSourceFirstSeen": 1776824084585,
