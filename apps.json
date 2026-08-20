@@ -2,6 +2,99 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 511622847,
+      "name": {
+        "cn": "Push The Button - RGBY?"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787194540550,
+      "_discountType": "app"
+    },
+    {
+      "id": 1532775654,
+      "name": {
+        "cn": "Tactical Gps. Offline Map"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787194540550,
+      "_discountType": "app"
+    },
+    {
+      "id": 1579159150,
+      "name": {
+        "cn": "ScoreBoard用于OBS直播"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787194540550,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781000861,
+      "name": {
+        "cn": "Nagram"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787194484647,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790080415,
+      "name": {
+        "cn": "祭扫清单与忌日提醒2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787194493068,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757509105,
+      "name": {
+        "cn": "Cyclic Sighing：缓解焦虑与压力的呼吸"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787194540550,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6738056056,
+      "name": {
+        "cn": "Onliner - Auto Mouse Jiggler"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787194540550,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798755850,
+      "name": {
+        "cn": "Doodle ABC：儿童启蒙"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787194540550,
+      "_discountType": "app"
+    },
+    {
       "id": 933599390,
       "name": {
         "cn": "融资易 - 融资从此开始"
