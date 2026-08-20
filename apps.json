@@ -2,6 +2,94 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1512571419,
+      "name": {
+        "cn": "Scope AUv3 Visualizer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787257494155,
+      "_discountType": "app"
+    },
+    {
+      "id": 1536755427,
+      "name": {
+        "cn": "BLEASS Saturator"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787257494155,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758588404,
+      "name": {
+        "cn": "CoCo计算器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787257491012,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782231375,
+      "name": {
+        "cn": "演唱会歌单记录夹2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787257491012,
+      "_discountType": "app"
+    },
+    {
+      "id": 6753154555,
+      "name": {
+        "cn": "一万小时-专注计时番茄钟习惯打卡技能成长追踪记录助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787257491012,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798767414,
+      "name": {
+        "cn": "岩随相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787257490909,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790940008,
+      "name": {
+        "cn": "HapticBreath"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787257496859,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770541170,
+      "name": {
+        "cn": "柔光妆镜"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787257496859,
+      "_discountType": "app"
+    },
+    {
       "id": 889844051,
       "name": {
         "cn": "Citation Generator"
@@ -62246,11 +62334,11 @@
       "name": {
         "cn": "Co-Camera"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1777170703975,
-      "_discountType": "iap",
+      "_discountType": "app",
       "_shouldBePaid": true
     },
     {
