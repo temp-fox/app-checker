@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1444714994,
+      "name": {
+        "cn": "Moment Stamp for DateTime Pics"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787221602520,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782474218,
+      "name": {
+        "cn": "样品寄送跟踪台2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787221597236,
+      "_discountType": "app"
+    },
+    {
       "id": 6777080682,
       "name": {
         "cn": "ADBox 电视和智能设备可视化调试工具"
@@ -135167,7 +135189,8 @@
         "cn": "出行轨迹"
       },
       "addType": "auto",
-      "addSource": "paid-top"
+      "addSource": "paid-top",
+      "_shouldBePaid": true
     },
     {
       "id": 1634970491,
