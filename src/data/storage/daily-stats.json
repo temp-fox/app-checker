@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": 1787248922721,
+    "cn": {
+      "total": 6,
+      "price": 4,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 380800734,
+          "name": "GPS Locator: The Original",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 680170305,
+          "name": "7 Minute Workout Challenge",
+          "type": "iap",
+          "detail": "Bonus Workout Pack 2: ¥15.00 → ¥0.00"
+        },
+        {
+          "id": 680170305,
+          "name": "7 Minute Workout Challenge",
+          "type": "iap",
+          "detail": "Bonus Workout Pack 1: ¥15.00 → ¥0.00"
+        },
+        {
+          "id": 865942517,
+          "name": "Thermo - 温度",
+          "type": "price",
+          "detail": "¥22.00 → ¥15.00"
+        },
+        {
+          "id": 1224681354,
+          "name": "Lux - 日出和日落",
+          "type": "price",
+          "detail": "¥22.00 → ¥15.00"
+        },
+        {
+          "id": 6741730996,
+          "name": "手机测速:测网速",
+          "type": "price",
+          "detail": "¥9.90 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787241522502,
     "cn": {
       "total": 10,
@@ -3785,334 +3831,6 @@
         {
           "id": 6796669579,
           "name": "Coloring Challenge: Flag Quiz",
-          "type": "price",
-          "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786383256676,
-    "cn": {
-      "total": 53,
-      "price": 33,
-      "iap": 20,
-      "apps": [
-        {
-          "id": 6776381848,
-          "name": "Clink: Custom Keyboards",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6791396893,
-          "name": "投资成长日记",
-          "type": "price",
-          "detail": "¥6.00 → 免费"
-        },
-        {
-          "id": 380800734,
-          "name": "GPS Locator: The Original",
-          "type": "price",
-          "detail": "¥22.00 → ¥15.00"
-        },
-        {
-          "id": 6775258188,
-          "name": "You Will Be Late",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 6775258188,
-          "name": "You Will Be Late",
-          "type": "iap",
-          "detail": "完全解锁: ¥68.00 → ¥38.00"
-        },
-        {
-          "id": 6771666690,
-          "name": "GIF Aura",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6740482526,
-          "name": "谁是卧底助手",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1606315824,
-          "name": "朋友圈集赞截图生成器",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6761613981,
-          "name": "Robota",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6757776981,
-          "name": "钓个鱼 - 钓鱼预录相机",
-          "type": "iap",
-          "detail": "钓个鱼 Pro: ¥28.00 → ¥12.00"
-        },
-        {
-          "id": 6772717443,
-          "name": "Capi：睡眠因素分析",
-          "type": "iap",
-          "detail": "终身无限访问: ¥198.00 → ¥148.00"
-        },
-        {
-          "id": 872966939,
-          "name": "坦克大战 - 迷你战争",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 1022762114,
-          "name": "碰毁彗星",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 1156018315,
-          "name": "JPEG Jackal",
-          "type": "price",
-          "detail": "¥22.00 → ¥15.00"
-        },
-        {
-          "id": 6770486968,
-          "name": "亲密记 - 爱的记录",
-          "type": "price",
-          "detail": "¥3.00 → 免费"
-        },
-        {
-          "id": 6758991291,
-          "name": "Drink Now: Water Reminder App",
-          "type": "price",
-          "detail": "¥22.00 → ¥8.00"
-        },
-        {
-          "id": 6767488033,
-          "name": "SnapID 智能证件照",
-          "type": "iap",
-          "detail": "永久移除广告: ¥3.00 → ¥1.00"
-        },
-        {
-          "id": 1519136126,
-          "name": "Infinity BP card",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 349880412,
-          "name": "Family Tracker",
-          "type": "iap",
-          "detail": "Family Tracker - 1 Month Subscription: ¥15.00 → ¥14.00"
-        },
-        {
-          "id": 1259936593,
-          "name": "Dehkhoda应用程序",
-          "type": "price",
-          "detail": "¥22.00 → ¥8.00"
-        },
-        {
-          "id": 6736720429,
-          "name": "日月食地图",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6757951397,
-          "name": "家底儿",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6761088745,
-          "name": "CoCamera-双摄同框相机·提词器画中画·水印录屏",
-          "type": "iap",
-          "detail": "VIP 终身会员: ¥128.00 → ¥0.00"
-        },
-        {
-          "id": 6756722371,
-          "name": "Easy Contacts: Contact Manager",
-          "type": "iap",
-          "detail": "lifetime: ¥328.00 → ¥0.00"
-        },
-        {
-          "id": 973055710,
-          "name": "DRC - Polyphonic Synthesizer",
-          "type": "iap",
-          "detail": "Unlock Factory Expansion: ¥58.00 → ¥28.00"
-        },
-        {
-          "id": 973055710,
-          "name": "DRC - Polyphonic Synthesizer",
-          "type": "iap",
-          "detail": "Unlock Sounds From Outer Space: ¥58.00 → ¥28.00"
-        },
-        {
-          "id": 973055710,
-          "name": "DRC - Polyphonic Synthesizer",
-          "type": "iap",
-          "detail": "Unlock Iconic Sounds Vol. 1: ¥58.00 → ¥28.00"
-        },
-        {
-          "id": 973055710,
-          "name": "DRC - Polyphonic Synthesizer",
-          "type": "iap",
-          "detail": "Unlock Iconic Sounds Vol. 2: ¥58.00 → ¥28.00"
-        },
-        {
-          "id": 973055710,
-          "name": "DRC - Polyphonic Synthesizer",
-          "type": "iap",
-          "detail": "Unlock Constellations Toolkit: ¥58.00 → ¥28.00"
-        },
-        {
-          "id": 973055710,
-          "name": "DRC - Polyphonic Synthesizer",
-          "type": "iap",
-          "detail": "Unlock Iconic Sounds Vol. 3: ¥58.00 → ¥28.00"
-        },
-        {
-          "id": 973055710,
-          "name": "DRC - Polyphonic Synthesizer",
-          "type": "iap",
-          "detail": "Unlock Iconic Sounds Vol. 4: ¥58.00 → ¥28.00"
-        },
-        {
-          "id": 973055710,
-          "name": "DRC - Polyphonic Synthesizer",
-          "type": "iap",
-          "detail": "Electric Sheep Dreams: ¥58.00 → ¥28.00"
-        },
-        {
-          "id": 973055710,
-          "name": "DRC - Polyphonic Synthesizer",
-          "type": "iap",
-          "detail": "Dynamic Resonant Cycles: ¥58.00 → ¥28.00"
-        },
-        {
-          "id": 6759893388,
-          "name": "Remote Control For Smart TV !",
-          "type": "iap",
-          "detail": "Unimote Pro - Weekly version 2: ¥58.00 → ¥38.00"
-        },
-        {
-          "id": 1533808328,
-          "name": "Journal Mate",
-          "type": "iap",
-          "detail": "Journal Mate Pro Yearly: ¥168.00 → ¥98.00"
-        },
-        {
-          "id": 1533808328,
-          "name": "Journal Mate",
-          "type": "iap",
-          "detail": "Journal Mate Pro Monthly: ¥28.00 → ¥15.00"
-        },
-        {
-          "id": 6494989453,
-          "name": "Image Resizer.",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6746227629,
-          "name": "DBH",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 1567654881,
-          "name": "SkySafari 7 Plus",
-          "type": "price",
-          "detail": "¥148.00 → ¥68.00"
-        },
-        {
-          "id": 1643112964,
-          "name": "填满它吧",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6759351727,
-          "name": "Teddy's Nanny",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 1486490824,
-          "name": "Inflight Map",
-          "type": "price",
-          "detail": "¥38.00 → ¥22.00"
-        },
-        {
-          "id": 1527841661,
-          "name": "沙盒星球",
-          "type": "price",
-          "detail": "¥98.00 → 免费"
-        },
-        {
-          "id": 6753138898,
-          "name": "SongDetect 音乐识别与播放",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6759009234,
-          "name": "Business Speak AI: Job English",
-          "type": "iap",
-          "detail": "Business Speak Premium Lifetime: ¥598.00 → ¥0.00"
-        },
-        {
-          "id": 1117044076,
-          "name": "CDRViewer Pro",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 1567658979,
-          "name": "SkySafari 7 Pro",
-          "type": "price",
-          "detail": "¥198.00 → ¥128.00"
-        },
-        {
-          "id": 6474092236,
-          "name": "The Lettervan",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6769523587,
-          "name": "OpenGraph",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6762195970,
-          "name": "Kinnect",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6789645403,
-          "name": "CompassOne",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 1638900655,
-          "name": "拾色器 · 拾色·配色·标准色·安全色",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6760980619,
-          "name": "Compress & Upload for Safari",
           "type": "price",
           "detail": "付费 → 免费"
         }

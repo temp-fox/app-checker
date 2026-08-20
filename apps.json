@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 889844051,
+      "name": {
+        "cn": "Citation Generator"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787243518018,
+      "_discountType": "app"
+    },
+    {
+      "id": 1237303202,
+      "name": {
+        "cn": "Fortamento"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787243512464,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795507029,
+      "name": {
+        "cn": "VibeSDR Jr"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787243503662,
+      "_discountType": "app"
+    },
+    {
       "id": 1116559697,
       "name": {
         "cn": "北外法语第四册 -专业精读课程"
@@ -11619,7 +11652,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1785033221933,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 1212179275,
