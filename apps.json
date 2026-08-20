@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 295536778,
+      "name": {
+        "cn": "iDoser Premium"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787200477661,
+      "_discountType": "app"
+    },
+    {
       "id": 511622847,
       "name": {
         "cn": "Push The Button - RGBY?"
