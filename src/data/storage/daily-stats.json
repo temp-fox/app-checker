@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": 1787235052572,
+    "cn": {
+      "total": 4,
+      "price": 3,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6779550221,
+          "name": "脑英雄 - 脑力训练游戏",
+          "type": "iap",
+          "detail": "BrainHero Lifetime: ¥28.00 → ¥0.00"
+        },
+        {
+          "id": 6781754238,
+          "name": "MarkView - 轻量 Markdown 阅读器",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6778778091,
+          "name": "ScaleSpin",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1156018315,
+          "name": "JPEG Jackal",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787227072220,
     "cn": {
       "total": 4,
