@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6762225255,
+      "name": {
+        "cn": "元数据擦除 Metastrip - 照片去定位防泄露"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787264645792,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796116804,
+      "name": {
+        "cn": "股票AI分析 - Agent股票策略分析"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787264653953,
+      "_discountType": "app"
+    },
+    {
       "id": 1512571419,
       "name": {
         "cn": "Scope AUv3 Visualizer"

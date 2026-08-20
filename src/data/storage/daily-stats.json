@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": 1787269532145,
+    "cn": {
+      "total": 4,
+      "price": 3,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6768623085,
+          "name": "FrameSmoother",
+          "type": "price",
+          "detail": "¥68.00 → ¥15.00"
+        },
+        {
+          "id": 6742334227,
+          "name": "MarkdownSnap",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        },
+        {
+          "id": 680170305,
+          "name": "7 Minute Workout Challenge",
+          "type": "iap",
+          "detail": "Bonus Workout Pack 4: ¥15.00 → ¥0.00"
+        },
+        {
+          "id": 6759275149,
+          "name": "Spatial Agents",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787264073621,
     "cn": {
       "total": 7,
