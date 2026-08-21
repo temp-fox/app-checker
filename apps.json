@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6801204237,
+      "name": {
+        "cn": "起了吗"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787322757727,
+      "_discountType": "app"
+    },
+    {
+      "id": 6476934150,
+      "name": {
+        "cn": "Saltrick"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787322760525,
+      "_discountType": "app"
+    },
+    {
       "id": 1387738640,
       "name": {
         "cn": "早教启蒙英语 Hats on top 1"

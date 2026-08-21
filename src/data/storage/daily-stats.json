@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": 1787326895698,
+    "cn": {
+      "total": 8,
+      "price": 5,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6793384013,
+          "name": "密码证件夹",
+          "type": "iap",
+          "detail": "Yearly Subscription: ¥38.00 → ¥12.00"
+        },
+        {
+          "id": 6791965992,
+          "name": "Video Maker Pro - Slideshow",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        },
+        {
+          "id": 6776050238,
+          "name": "备问",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6785872506,
+          "name": "中国語単語学習の極み",
+          "type": "iap",
+          "detail": "HSK 2–6 Full Access: ¥22.00 → ¥0.00"
+        },
+        {
+          "id": 6778018148,
+          "name": "健康修仙传-随时随地的赛博“修仙”之旅",
+          "type": "iap",
+          "detail": "年会员: ¥198.00 → ¥1.00"
+        },
+        {
+          "id": 930743975,
+          "name": "LÒMÒGRAPH 复古胶片相机",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 533055404,
+          "name": "夜星 (Night Stars)",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6761088745,
+          "name": "CoCamera-双摄同框相机·提词器画中画·水印录屏",
+          "type": "price",
+          "detail": "¥68.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787312855273,
     "cn": {
       "total": 3,
@@ -3827,158 +3885,6 @@
           "name": "JPEG Jackal Lite",
           "type": "iap",
           "detail": "Upgrade to Full Version: ¥15.00 → ¥0.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786459241882,
-    "cn": {
-      "total": 10,
-      "price": 8,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6747033581,
-          "name": "Meet Me At The Bar",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1006624104,
-          "name": "FieldScaper",
-          "type": "price",
-          "detail": "¥68.00 → ¥38.00"
-        },
-        {
-          "id": 1175892734,
-          "name": "SynthScaper",
-          "type": "price",
-          "detail": "¥98.00 → ¥48.00"
-        },
-        {
-          "id": 1570948841,
-          "name": "SoundSaw",
-          "type": "price",
-          "detail": "¥38.00 → ¥22.00"
-        },
-        {
-          "id": 1596872812,
-          "name": "SpaceFields",
-          "type": "price",
-          "detail": "¥78.00 → ¥38.00"
-        },
-        {
-          "id": 6472060413,
-          "name": "Stellarvox",
-          "type": "price",
-          "detail": "¥88.00 → ¥48.00"
-        },
-        {
-          "id": 6482988825,
-          "name": "LoopMangler",
-          "type": "price",
-          "detail": "¥98.00 → ¥58.00"
-        },
-        {
-          "id": 6748644082,
-          "name": "ExoSphere",
-          "type": "price",
-          "detail": "¥98.00 → ¥68.00"
-        },
-        {
-          "id": 6482291685,
-          "name": "Cuspart: GPS",
-          "type": "iap",
-          "detail": "12个月订阅: ¥228.00 → ¥68.00"
-        },
-        {
-          "id": 6482291685,
-          "name": "Cuspart: GPS",
-          "type": "iap",
-          "detail": "1个月订阅: ¥28.00 → ¥8.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786450678551,
-    "cn": {
-      "total": 12,
-      "price": 6,
-      "iap": 6,
-      "apps": [
-        {
-          "id": 6772506168,
-          "name": "个税计算器-工资薪资月薪年终奖五险一金专项扣除工具",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6794986363,
-          "name": "企鹅训练",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6777402601,
-          "name": "大学学习笔记",
-          "type": "price",
-          "detail": "¥298.00 → 免费"
-        },
-        {
-          "id": 6770481522,
-          "name": "象棋AI版 - 人机对弈·残局破解",
-          "type": "iap",
-          "detail": "悔棋次数x10次: ¥8.00 → ¥6.00"
-        },
-        {
-          "id": 6770481522,
-          "name": "象棋AI版 - 人机对弈·残局破解",
-          "type": "iap",
-          "detail": "至尊金卡: ¥58.00 → ¥38.00"
-        },
-        {
-          "id": 6770481522,
-          "name": "象棋AI版 - 人机对弈·残局破解",
-          "type": "iap",
-          "detail": "提示次数x25: ¥12.00 → ¥8.00"
-        },
-        {
-          "id": 6770481522,
-          "name": "象棋AI版 - 人机对弈·残局破解",
-          "type": "iap",
-          "detail": "提示次数x15: ¥8.00 → ¥6.00"
-        },
-        {
-          "id": 6770481522,
-          "name": "象棋AI版 - 人机对弈·残局破解",
-          "type": "iap",
-          "detail": "永久无限悔棋和残局提示: ¥88.00 → ¥48.00"
-        },
-        {
-          "id": 6770481522,
-          "name": "象棋AI版 - 人机对弈·残局破解",
-          "type": "iap",
-          "detail": "悔棋次数x20次: ¥12.00 → ¥8.00"
-        },
-        {
-          "id": 6760542352,
-          "name": "宝宝睡眠训练：费伯法",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 1185353935,
-          "name": "QR Creator Mini",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 1575364575,
-          "name": "Rassel - Pocket shaker",
-          "type": "price",
-          "detail": "¥8.00 → ¥3.00"
         }
       ]
     }
