@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 303513289,
+      "name": {
+        "cn": "Free WiFi"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787274368695,
+      "_discountType": "app"
+    },
+    {
+      "id": 6752662508,
+      "name": {
+        "cn": "时光轨迹 · 岁月的回廊"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787274371601,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775751406,
+      "name": {
+        "cn": "Epubly - PDF to EPUB Convert"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787274374782,
+      "_discountType": "app"
+    },
+    {
       "id": 6762225255,
       "name": {
         "cn": "元数据擦除 Metastrip - 照片去定位防泄露"

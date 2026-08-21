@@ -1,4 +1,94 @@
 {
+  "6793037146": {
+    "name": "文献学习",
+    "trackName": "文献学习",
+    "maxPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785494391037,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%96%87%E7%8C%AE%E5%AD%A6%E4%B9%A0/id6793037146?uo=4",
+    "description": "文献学习——把「读论文」做成完整学习闭环的随身利器。 ◎ 文献库 从「文件」或其他 App 导入 PDF，自动抽取标题、作者、DOI。所有文献与笔记都只存在你本机，零数据上传。 ◎ PDF 阅读器 基于系统 PDFKit，连续翻页流畅，记忆上次阅读位置。长按选区一键保存为笔记，可加批注。 ◎ AI 深度解读 基于论文全文做苏格拉底式解读：先按论文类型（临床研究 / 基础研究 / 病例报道 / 综述）选不同 prompt： 临床研究：科学问题 → 研究对象 → 干预/对照 → 终点 → 设计 → 统计 → 临床意义 基础研究：科学问题 → 逻辑链 → 关键技术 → 逻辑总结 → 衍生课题 病例报道：病例特点 → 总体情况 → 检测治疗 → 临床意义 综述：架构结论 → 演变过程 → 未解问题 → 重要进展 最后附论文的中文全文翻译（题目 / 摘要 / 前言 / 结果 / 讨论 / 结论 / 材料和方法）。 ◎ 引导式学习 解读完成后，AI 用苏格拉底式提问引导你主动思考：你说一答，AI 评一评，再追问一层。把「读懂」变成「想透」。 ◎ 闪卡复习 概念卡：从深度解读抽取核心结论、关键证据、研究方法、临床意义、衍生课题，每张带「原文引用」可追溯 单词卡：自动提取论文领域的专业英文术语，含 IPA 音标、中文翻译、例句，内置语音朗读 卡片正反面 3D 翻转。左划记住、右划未记住，未记住的下次自动入列重看。 ◎ 自由选择 LLM 来源 内置 DeepSeek 云端接入，也可填自有服务器（自建 ollama / vLLM / LiteLLM 等兼容 OpenAI 的端点）。API Key 走系统 Keychain 加密存储，不写 UserDefaults。 【关于付费】 本 App 为付费下载，下载后即可使用全部功能。LLM 调用费用由用户自付（DeepSeek 或自有服务器）。 【隐私】 App 不联网采集任何个人信息，不接任何统计 SDK 所有 PDF / 笔记 / 闪卡 / 设置仅存本机，不与开发者或第三方共享 API Key 仅存在你的设备 Keychain 中 麦克风、相机、相册、定位权限：一个都不请求",
+    "fullDescription": "文献学习——把「读论文」做成完整学习闭环的随身利器。 ◎ 文献库 从「文件」或其他 App 导入 PDF，自动抽取标题、作者、DOI。所有文献与笔记都只存在你本机，零数据上传。 ◎ PDF 阅读器 基于系统 PDFKit，连续翻页流畅，记忆上次阅读位置。长按选区一键保存为笔记，可加批注。 ◎ AI 深度解读 基于论文全文做苏格拉底式解读：先按论文类型（临床研究 / 基础研究 / 病例报道 / 综述）选不同 prompt： 临床研究：科学问题 → 研究对象 → 干预/对照 → 终点 → 设计 → 统计 → 临床意义 基础研究：科学问题 → 逻辑链 → 关键技术 → 逻辑总结 → 衍生课题 病例报道：病例特点 → 总体情况 → 检测治疗 → 临床意义 综述：架构结论 → 演变过程 → 未解问题 → 重要进展 最后附论文的中文全文翻译（题目 / 摘要 / 前言 / 结果 / 讨论 / 结论 / 材料和方法）。 ◎ 引导式学习 解读完成后，AI 用苏格拉底式提问引导你主动思考：你说一答，AI 评一评，再追问一层。把「读懂」变成「想透」。 ◎ 闪卡复习 概念卡：从深度解读抽取核心结论、关键证据、研究方法、临床意义、衍生课题，每张带「原文引用」可追溯 单词卡：自动提取论文领域的专业英文术语，含 IPA 音标、中文翻译、例句，内置语音朗读 卡片正反面 3D 翻转。左划记住、右划未记住，未记住的下次自动入列重看。 ◎ 自由选择 LLM 来源 内置 DeepSeek 云端接入，也可填自有服务器（自建 ollama / vLLM / LiteLLM 等兼容 OpenAI 的端点）。API Key 走系统 Keychain 加密存储，不写 UserDefaults。 【关于付费】 本 App 为付费下载，下载后即可使用全部功能。LLM 调用费用由用户自付（DeepSeek 或自有服务器）。 【隐私】 App 不联网采集任何个人信息，不接任何统计 SDK 所有 PDF / 笔记 / 闪卡 / 设置仅存本机，不与开发者或第三方共享 API Key 仅存在你的设备 Keychain 中 麦克风、相机、相册、定位权限：一个都不请求",
+    "summaryDescription": "文献学习——把「读论文」做成完整学习闭环的随身利器。 ◎ 文献库 从「文件」或其他 App 导入 PDF，自动抽取标题、作者、DOI。所有文献与笔记都只存在你本机，零数据上传。 ◎ PDF 阅读器 基于系统 PDFKit，连续翻页流畅，记忆上次阅读位置。长按选区一键保存为笔记，可加批注。 ◎ AI 深度解读 基于论文全文做苏格拉底式解读：先按论文类型（临床研究 / 基础研究 / 病例报道 / 综述）选不同 prompt： 临床研究：科学问题 → 研究对象 → 干预/对照 → 终点 → 设计 → 统计 → 临床意义 基础研究：科学问题 → 逻辑链 → 关键技术 → 逻辑总结 → 衍生课题 病例报道：病例特点 → 总体情况 → 检测治疗 → 临床意义 综述：架构结论 → 演变过程 → 未解问题 → 重要进展 最后附论文的中文全文翻译（题目 / 摘要 / 前言 / 结果 / 讨论 / 结论 / 材料和方法）。 ◎ 引导式学习 解读完成后，AI 用苏格拉底式提问引导你主动思考：你说一答，AI 评一评，再追问一层。把「读懂」变成「想透」。 ◎ 闪卡复习 概念卡：从深度解读抽取核心结论、关键证据、研究方法、临床意义、衍生课题，每张带「原文引用」可追溯 单词卡：自动提取论文领域的专业英文术语，含 IPA 音标、中文翻译、例句，内置语音朗读 卡片正反面 3D 翻转。左划记住、右划未记住，未记住的下次自动入列重看。 ◎ 自由选择 LLM 来源 内置 DeepSeek 云端接入，也可填自有服务器（自建 ollama / vLLM / LiteLLM 等兼容 OpenAI 的端点）。API Key 走系统 Keychain 加密存储，不写 UserDefaults。 【关于付费】 本 App 为付费下载，下载后即可使用全部功能。LLM 调用费用由用户自付（DeepSeek 或自有服务器）。 【隐私】 App 不联网采集任何个人信息，不接任何统计 SDK 所有 PDF / 笔记 / 闪卡 / 设置仅存本机，不与开发者或第三方共享 API Key 仅存在你的设备 Keychain 中 麦克风、相机、相册、定位权限：一个都不请求",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/5d/f1/2f5df19c-7dee-9fc6-3cfd-347f6eee853d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/5d/f1/2f5df19c-7dee-9fc6-3cfd-347f6eee853d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "佳成 娄",
+    "artistName": "佳成 娄",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/8e/e9/448ee9b3-4df3-91f4-1a3c-e3ee14947504/tempImagenqkloA.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/9a/c5/e99ac508-b206-eea3-d793-7143cc075b39/tempImagekLLrHu.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/98/0d/92980d77-4431-4895-5ddb-f061ffc1ae3a/tempImageBhyjEh.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/f5/dc/70f5dc92-b75c-cf77-1701-196850631fe4/tempImageLhyfEJ.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/09/d9/a009d9ac-2e94-5ada-a48c-75f2c311adbb/tempImageeFbX8s.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/d7/bc/08d7bce6-6e30-0ff7-1aad-9ee98c9c3300/tempImage1cU68r.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/57/16/f7571639-0790-1966-1ff0-7802fd9e2fcb/tempImage652B1y.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/7c/c2/457cc22c-654c-6660-d314-92bfb8c714a9/tempImagewPmypy.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/12/d7/7112d790-54b3-26d5-da8b-0e45ffe15174/tempImage87QIH3.jpg/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1785494365313
+  },
+  "6761188113": {
+    "name": "EduWorld",
+    "trackName": "EduWorld",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785494391037,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/eduworld/id6761188113?uo=4",
+    "description": "EduWorld — Apprends partout, apprends mieux ! Application éducative adaptée au programme officiel de ton pays. Réponds à des questions de Maths, Français, Sciences, Histoire-Géographie et bien plus encore. Adapté à 10 pays et tous les niveaux scolaires Gamification avancée : XP, streaks, badges Suivi de progression détaillé Mode hors ligne disponible Interface moderne et motivante Pour les élèves du CP à la Terminale.",
+    "fullDescription": "EduWorld — Apprends partout, apprends mieux ! Application éducative adaptée au programme officiel de ton pays. Réponds à des questions de Maths, Français, Sciences, Histoire-Géographie et bien plus encore. Adapté à 10 pays et tous les niveaux scolaires Gamification avancée : XP, streaks, badges Suivi de progression détaillé Mode hors ligne disponible Interface moderne et motivante Pour les élèves du CP à la Terminale.",
+    "summaryDescription": "EduWorld — Apprends partout, apprends mieux ! Application éducative adaptée au programme officiel de ton pays. Réponds à des questions de Maths, Français, Sciences, Histoire-Géographie et bien plus encore. Adapté à 10 pays et tous les niveaux scolaires Gamification avancée : XP, streaks, badges Suivi de progression détaillé Mode hors ligne disponible Interface moderne et motivante Pour les élèves du CP à la Terminale.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/07/3d/f1073d66-55e7-fe3a-e69b-4ba83499e888/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/07/3d/f1073d66-55e7-fe3a-e69b-4ba83499e888/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
+    "sellerName": "Gerson SOLIMON",
+    "artistName": "Gerson SOLIMON",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/19/a2/7619a208-c5c2-4775-d40f-ab8d62c6f461/3_Reponse_Correcte.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/28/c8/fd28c888-12fc-a55b-bfdf-9f7a9da4bbfe/1_Accueil.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/7c/fa/987cfa3f-0241-ce3f-4778-746a96463ea5/2_Question.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/a9/13/8ba91392-c0cd-dc5f-6591-784e6c3d8816/4_Progres.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/fe/74/38fe7496-3da2-9d5e-16eb-3ba56611d97f/5_Badges.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/7a/bf/8e7abff3-616b-cc2f-8a7a-2e91db56b40c/7_Objectif_Atteint.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/94/8c/7c948c74-d8a7-e222-77da-74a1a68f89db/6_Premium.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/53/c6/1153c6f2-0148-97de-d2b2-32370bf3b7fa/iPad_4_Progres.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/18/d0/2e18d052-0749-9192-975e-10382b11aec1/iPad_3_Reponse_Correcte.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/19/d2/4c19d2a1-8f95-63a2-3f0f-b557f1f426e1/iPad_5_Badges.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/be/0f/2abe0f7c-0524-57ff-cf83-6bd06d867139/iPad_2_Question.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/20/2a/b7202aed-512d-8e01-e92f-8f67a0cff6ca/iPad_1_Accueil.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/be/d6/22bed6a5-7d57-a399-e638-0ed55ee994f5/iPad_6_Premium.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1785494365313
+  },
   "6759457502": {
     "name": "Readlog – Book Tracker & Log",
     "trackName": "Readlog – Book Tracker & Log",
@@ -2020,8 +2110,8 @@
     "description": "Border Pro is the photographer’s tool for adding beautiful, precise borders to your photos — whether you shoot on iPhone, mirrorless, or film. Built for people who care about their images, Border Pro preserves your EXIF data on every save. Your camera model, lens, focal length, aperture, shutter speed and date all stay intact. BORDERS THAT MEAN SOMETHING Borders are calculated as a percentage of your image, so they stay perfectly consistent across every aspect ratio and resolution — from a phone snap to a 102MP medium format file. PRINT YOUR SHOOTING DATA Turn on Metadata Print and your camera data is printed directly onto your border — just like a lab print. Choose from 20 fonts including elegant scripts, classic serifs and clean sans-serifs. Set the colour to auto or pick any custom colour. Print on any edge — bottom, top, left or right — with the weighted border following automatically. COLOUR BORDERS Choose from curated classic tones, vibrant presets, or sample any colour directly from your photo using the built-in eyedropper with magnifier loupe. Save up to 6 custom colours for quick access. SHAPE YOUR BORDERS Control each corner independently — from fully rounded to square, mixed, or anything between. Create arches, D-shapes and compositions that are entirely your own. SOCIAL MEDIA READY Export to Instagram square, portrait, landscape or Story/TikTok formats with a single tap. Preview the canvas before you save. EXPORT YOUR WAY Choose JPEG, HEIC or lossless PNG. Set your own quality level. Your images, your format. EVERYTHING ELSE White, black and custom colour borders Double border with custom keyline colour — black, white, or any colour Weighted border on any edge for that classic print look Save up to 10 named profiles, synced to iCloud Batch export up to 100 photos at once Works completely offline Saves to a dedicated Border Pro album in Photos VIDEO SUPPORT Photos and videos, treated the same way. Add gallery-style borders without cropping, compression, or loss of quality. Border Pro is for photographers who want their images to look considered, not filtered.",
     "fullDescription": "Border Pro is the photographer’s tool for adding beautiful, precise borders to your photos — whether you shoot on iPhone, mirrorless, or film. Built for people who care about their images, Border Pro preserves your EXIF data on every save. Your camera model, lens, focal length, aperture, shutter speed and date all stay intact. BORDERS THAT MEAN SOMETHING Borders are calculated as a percentage of your image, so they stay perfectly consistent across every aspect ratio and resolution — from a phone snap to a 102MP medium format file. PRINT YOUR SHOOTING DATA Turn on Metadata Print and your camera data is printed directly onto your border — just like a lab print. Choose from 20 fonts including elegant scripts, classic serifs and clean sans-serifs. Set the colour to auto or pick any custom colour. Print on any edge — bottom, top, left or right — with the weighted border following automatically. COLOUR BORDERS Choose from curated classic tones, vibrant presets, or sample any colour directly from your photo using the built-in eyedropper with magnifier loupe. Save up to 6 custom colours for quick access. SHAPE YOUR BORDERS Control each corner independently — from fully rounded to square, mixed, or anything between. Create arches, D-shapes and compositions that are entirely your own. SOCIAL MEDIA READY Export to Instagram square, portrait, landscape or Story/TikTok formats with a single tap. Preview the canvas before you save. EXPORT YOUR WAY Choose JPEG, HEIC or lossless PNG. Set your own quality level. Your images, your format. EVERYTHING ELSE White, black and custom colour borders Double border with custom keyline colour — black, white, or any colour Weighted border on any edge for that classic print look Save up to 10 named profiles, synced to iCloud Batch export up to 100 photos at once Works completely offline Saves to a dedicated Border Pro album in Photos VIDEO SUPPORT Photos and videos, treated the same way. Add gallery-style borders without cropping, compression, or loss of quality. Border Pro is for photographers who want their images to look considered, not filtered.",
     "summaryDescription": "Border Pro is the photographer’s tool for adding beautiful, precise borders to your photos — whether you shoot on iPhone, mirrorless, or film. Built for people who care about their images, Border Pro preserves your EXIF data on every save. Your camera model, lens, focal length, aperture, shutter speed and date all stay intact. BORDERS THAT MEAN SOMETHING Borders are calculated as a percentage of your image, so they stay perfectly consistent across every aspect ratio and resolution — from a phone snap to a 102MP medium format file. PRINT YOUR SHOOTING DATA Turn on Metadata Print and your camera data is printed directly onto your border — just like a lab print. Choose from 20 fonts including elegant scripts, classic serifs and clean sans-serifs. Set the colour to auto or pick any custom colour. Print on any edge — bottom, top, left or right — with the weighted border following automatically. COLOUR BORDERS Choose from curated classic tones, vibrant presets, or sample any colour directly from your photo using the built-in eyedropper with magnifier loupe. Save up to 6 custom colours for quick access. SHAPE YOUR BORDERS Control each corner independently — from fully rounded to square, mixed, or anything between. Create arches, D-shapes and compositions that are entirely your own. SOCIAL MEDIA READY Export to Instagram square, portrait, landscape or Story/TikTok formats with a single tap. Preview the canvas before you save. EXPORT YOUR WAY Choose JPEG, HEIC or lossless PNG. Set your own quality level. Your images, your format. EVERYTHING ELSE White, black and custom colour borders Double border with custom keyline colour — black, white, or any colour Weighted border on any edge for that classic print look Save up to 10 named profiles, synced to iCloud Batch export up to 100 photos at once Works completely offline Saves to a dedicated Border Pro album in Photos VIDEO SUPPORT Photos and videos, treated the same way. Add gallery-style borders without cropping, compression, or loss of quality. Border Pro is for photographers who want their images to look considered, not filtered.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/f0/f7/94f0f7bc-a8c1-db69-9f62-c97c825657bc/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/f0/f7/94f0f7bc-a8c1-db69-9f62-c97c825657bc/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/68/3d/bd683d0b-0582-b68c-b430-56e050f7e31b/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/68/3d/bd683d0b-0582-b68c-b430-56e050f7e31b/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
     "sellerName": "PAUL JOHN PRIDE",
     "artistName": "PAUL JOHN PRIDE",
     "screenshotUrls": [
@@ -2200,8 +2290,8 @@
     "description": "1. 快速制作闪卡，你可以输入一个单词、一句话、或者一篇文章，应用会根据闪卡类型帮助你自动拆分成闪卡。 2. 长按应用图标，你就可以拍摄照片制作单词类闪卡，当你输入自己的母语时，快速翻译为学习语言进行闪卡制作，对于学习名词的学习效果突出。 3. 在盲听阶段可以让声音、图片进行关联，帮助实现语音与视觉的关联. 4. 当你学习时，是通过盲听来建立声音与语言的联想，同时可以点击掩盖的文字重复听，一个句子可以拆成单词进行盲听，也可以连起来听，帮助你建立语言的整体感知。 5. 同时，你可以在盲听阶段对比自己输入的内容与正确答案的差异，帮助你更好地掌握听力技能。 6. 你还可以调节读音的速度，极慢、慢、正常、快、极快，帮助你更好地适应不同的语速。 7. 你也可以提前在IOS系统中下载好不同的高音质语音包，然后在本应用中切换不同的发音人，帮助你更好地适应不同的口音。 8. 你可以设置每天最多学习的新卡片数量，帮助你合理安排学习计划。 9. 你可以选择什么时候进行复习，譬如1天后，3天后，5天后...，帮助你更好地巩固记忆。 10. 对闪卡进行自动播放音频，可设置速度、重复次数、停顿秒数。 11. 你还可以批量对闪卡进行方便管理。 12. 卡组里的卡片可实现音频流播放，并且通过相关条件进行过滤 13. 保护你的隐私，所有数据都存储在你iCloud的私有空间中，只有你自己可以访问。 14. 从卡组列表进入阅读，可以对卡片进行播放、暂停、上一条、下一条、循环播放等操作。同时，可以进行后台播放。 15. 可以在iCloudDrive中添减音频文件，并绑定到卡片上，方便你在复习时播放你喜欢的音频文件。",
     "fullDescription": "1. 快速制作闪卡，你可以输入一个单词、一句话、或者一篇文章，应用会根据闪卡类型帮助你自动拆分成闪卡。 2. 长按应用图标，你就可以拍摄照片制作单词类闪卡，当你输入自己的母语时，快速翻译为学习语言进行闪卡制作，对于学习名词的学习效果突出。 3. 在盲听阶段可以让声音、图片进行关联，帮助实现语音与视觉的关联. 4. 当你学习时，是通过盲听来建立声音与语言的联想，同时可以点击掩盖的文字重复听，一个句子可以拆成单词进行盲听，也可以连起来听，帮助你建立语言的整体感知。 5. 同时，你可以在盲听阶段对比自己输入的内容与正确答案的差异，帮助你更好地掌握听力技能。 6. 你还可以调节读音的速度，极慢、慢、正常、快、极快，帮助你更好地适应不同的语速。 7. 你也可以提前在IOS系统中下载好不同的高音质语音包，然后在本应用中切换不同的发音人，帮助你更好地适应不同的口音。 8. 你可以设置每天最多学习的新卡片数量，帮助你合理安排学习计划。 9. 你可以选择什么时候进行复习，譬如1天后，3天后，5天后...，帮助你更好地巩固记忆。 10. 对闪卡进行自动播放音频，可设置速度、重复次数、停顿秒数。 11. 你还可以批量对闪卡进行方便管理。 12. 卡组里的卡片可实现音频流播放，并且通过相关条件进行过滤 13. 保护你的隐私，所有数据都存储在你iCloud的私有空间中，只有你自己可以访问。 14. 从卡组列表进入阅读，可以对卡片进行播放、暂停、上一条、下一条、循环播放等操作。同时，可以进行后台播放。 15. 可以在iCloudDrive中添减音频文件，并绑定到卡片上，方便你在复习时播放你喜欢的音频文件。",
     "summaryDescription": "1. 快速制作闪卡，你可以输入一个单词、一句话、或者一篇文章，应用会根据闪卡类型帮助你自动拆分成闪卡。 2. 长按应用图标，你就可以拍摄照片制作单词类闪卡，当你输入自己的母语时，快速翻译为学习语言进行闪卡制作，对于学习名词的学习效果突出。 3. 在盲听阶段可以让声音、图片进行关联，帮助实现语音与视觉的关联. 4. 当你学习时，是通过盲听来建立声音与语言的联想，同时可以点击掩盖的文字重复听，一个句子可以拆成单词进行盲听，也可以连起来听，帮助你建立语言的整体感知。 5. 同时，你可以在盲听阶段对比自己输入的内容与正确答案的差异，帮助你更好地掌握听力技能。 6. 你还可以调节读音的速度，极慢、慢、正常、快、极快，帮助你更好地适应不同的语速。 7. 你也可以提前在IOS系统中下载好不同的高音质语音包，然后在本应用中切换不同的发音人，帮助你更好地适应不同的口音。 8. 你可以设置每天最多学习的新卡片数量，帮助你合理安排学习计划。 9. 你可以选择什么时候进行复习，譬如1天后，3天后，5天后...，帮助你更好地巩固记忆。 10. 对闪卡进行自动播放音频，可设置速度、重复次数、停顿秒数。 11. 你还可以批量对闪卡进行方便管理。 12. 卡组里的卡片可实现音频流播放，并且通过相关条件进行过滤 13. 保护你的隐私，所有数据都存储在你iCloud的私有空间中，只有你自己可以访问。 14. 从卡组列表进入阅读，可以对卡片进行播放、暂停、上一条、下一条、循环播放等操作。同时，可以进行后台播放。 15. 可以在iCloudDrive中添减音频文件，并绑定到卡片上，方便你在复习时播放你喜欢的音频文件。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/a3/6d/18a36d42-b6fc-937e-29d1-7014e511e2c0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/a3/6d/18a36d42-b6fc-937e-29d1-7014e511e2c0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/60/99/b76099f7-9f69-42a4-1407-92d1f833a05f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/60/99/b76099f7-9f69-42a4-1407-92d1f833a05f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "江 彭",
     "artistName": "江 彭",
     "screenshotUrls": [
@@ -17706,6 +17796,10 @@
     "history": [
       [
         {
+          "timestamp": 1787274405434,
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1787264675700,
           "inAppPurchases": {}
         },
@@ -18681,8 +18775,8 @@
     "description": "爬楼助手是一款专为爬楼梯运动爱好者打造的记录与激励工具。无论你是想通过爬楼梯燃脂塑形、增强心肺，还是希望在日常通勤中坚持运动，爬楼助手都能陪你一起完成目标。 核心功能 精准记录，三种方式任你选 支持 Apple Health 自动同步爬楼数据，无需手动操作；也可手动记录每次运动，保留训练细节；还能实时记录，边爬边看进度变化。 可视化统计，看见你的坚持 周、月、年多维度趋势图，总楼层、日均、最高单日、运动天数、达标天数一目了然。升级 Pro 解锁打卡热力图和数据来源分布饼图，深度洞察你的运动规律。 成就勋章，激励持续前行 累计楼层、连续打卡、单日突破三大类勋章体系，青铜、白银、黄金、钻石四个等级。每一次突破都有专属解锁动画与粒子特效，让坚持变得有仪式感。 目标提醒，养成健康习惯 自定义每日、每周爬楼目标，设置运动提醒时间。达成目标时弹出庆祝卡片，支持分享给好友，让进步被更多人看见。 楼层换算，运动效果更直观 输入楼层数，自动换算为距离、步数、消耗热量与预计时长，帮你更好地了解每次运动的实际效果。 Apple Watch 联动，运动更自由 在 Apple Watch 上实时记录爬楼运动，查看今日进度与连续打卡。数据自动同步到 iPhone，告别手机束缚，专注运动本身。 桌面小组件，进度时刻可见 把今日爬楼进度放到主屏幕，目标完成情况一眼可见。中、大尺寸完整数据看板，让你随时掌握运动状态。 Apple Watch：手表独立记录运动与数据同步 高级小组件：主屏/锁屏多样化小组件 适合人群 希望日常爬楼梯健身的上班族 想燃脂塑形、增强心肺的运动爱好者 追求健康习惯养成与自我激励的人群 喜爱数据可视化与成就激励的用户 让每一次爬楼都被记录，让健康成为日常习惯。开始你的爬楼之旅吧！ 会员订阅和说明 提供Pro月度会员、季度、年度会员自动续费订阅，以及终身会员一次性购买。Pro 会员权益开通后可以使用 智能校对：覆盖今日 Health 数据，精准校对 Apple Watch：手表独立记录运动与数据同步 高级Widget小组件：主屏/锁屏多样化小组件 高级图表：解锁打卡热力图、数据来源分布饼图 完整勋章：解锁全部成就勋章与等级体系 主题外观：多种配色主题与自定义主色 数据导出：导出 CSV 备份与深度分析 自动续订说明： 月度、季度和年度会员为自动续订订阅，会在当前周期结束前24小时内自动续订。 账户将在当前周期结束前24小时内收取续订费用。 您可以在购买后前往 App Store 账户设置，随时管理或取消自动续订。 终身会员为一次性购买，无需续订，购买后永久有效。 隐私政策：https://luckyxiangfeng.github.io/ClimbAssistantPrivacy.html 用户协议：https://luckyxiangfeng.github.io/ClimbAssistant_user_agreement.html",
     "fullDescription": "爬楼助手是一款专为爬楼梯运动爱好者打造的记录与激励工具。无论你是想通过爬楼梯燃脂塑形、增强心肺，还是希望在日常通勤中坚持运动，爬楼助手都能陪你一起完成目标。 核心功能 精准记录，三种方式任你选 支持 Apple Health 自动同步爬楼数据，无需手动操作；也可手动记录每次运动，保留训练细节；还能实时记录，边爬边看进度变化。 可视化统计，看见你的坚持 周、月、年多维度趋势图，总楼层、日均、最高单日、运动天数、达标天数一目了然。升级 Pro 解锁打卡热力图和数据来源分布饼图，深度洞察你的运动规律。 成就勋章，激励持续前行 累计楼层、连续打卡、单日突破三大类勋章体系，青铜、白银、黄金、钻石四个等级。每一次突破都有专属解锁动画与粒子特效，让坚持变得有仪式感。 目标提醒，养成健康习惯 自定义每日、每周爬楼目标，设置运动提醒时间。达成目标时弹出庆祝卡片，支持分享给好友，让进步被更多人看见。 楼层换算，运动效果更直观 输入楼层数，自动换算为距离、步数、消耗热量与预计时长，帮你更好地了解每次运动的实际效果。 Apple Watch 联动，运动更自由 在 Apple Watch 上实时记录爬楼运动，查看今日进度与连续打卡。数据自动同步到 iPhone，告别手机束缚，专注运动本身。 桌面小组件，进度时刻可见 把今日爬楼进度放到主屏幕，目标完成情况一眼可见。中、大尺寸完整数据看板，让你随时掌握运动状态。 Apple Watch：手表独立记录运动与数据同步 高级小组件：主屏/锁屏多样化小组件 适合人群 希望日常爬楼梯健身的上班族 想燃脂塑形、增强心肺的运动爱好者 追求健康习惯养成与自我激励的人群 喜爱数据可视化与成就激励的用户 让每一次爬楼都被记录，让健康成为日常习惯。开始你的爬楼之旅吧！ 会员订阅和说明 提供Pro月度会员、季度、年度会员自动续费订阅，以及终身会员一次性购买。Pro 会员权益开通后可以使用 智能校对：覆盖今日 Health 数据，精准校对 Apple Watch：手表独立记录运动与数据同步 高级Widget小组件：主屏/锁屏多样化小组件 高级图表：解锁打卡热力图、数据来源分布饼图 完整勋章：解锁全部成就勋章与等级体系 主题外观：多种配色主题与自定义主色 数据导出：导出 CSV 备份与深度分析 自动续订说明： 月度、季度和年度会员为自动续订订阅，会在当前周期结束前24小时内自动续订。 账户将在当前周期结束前24小时内收取续订费用。 您可以在购买后前往 App Store 账户设置，随时管理或取消自动续订。 终身会员为一次性购买，无需续订，购买后永久有效。 隐私政策：https://luckyxiangfeng.github.io/ClimbAssistantPrivacy.html 用户协议：https://luckyxiangfeng.github.io/ClimbAssistant_user_agreement.html",
     "summaryDescription": "爬楼助手是一款专为爬楼梯运动爱好者打造的记录与激励工具。无论你是想通过爬楼梯燃脂塑形、增强心肺，还是希望在日常通勤中坚持运动，爬楼助手都能陪你一起完成目标。 核心功能 精准记录，三种方式任你选 支持 Apple Health 自动同步爬楼数据，无需手动操作；也可手动记录每次运动，保留训练细节；还能实时记录，边爬边看进度变化。 可视化统计，看见你的坚持 周、月、年多维度趋势图，总楼层、日均、最高单日、运动天数、达标天数一目了然。升级 Pro 解锁打卡热力图和数据来源分布饼图，深度洞察你的运动规律。 成就勋章，激励持续前行 累计楼层、连续打卡、单日突破三大类勋章体系，青铜、白银、黄金、钻石四个等级。每一次突破都有专属解锁动画与粒子特效，让坚持变得有仪式感。 目标提醒，养成健康习惯 自定义每日、每周爬楼目标，设置运动提醒时间。达成目标时弹出庆祝卡片，支持分享给好友，让进步被更多人看见。 楼层换算，运动效果更直观 输入楼层数，自动换算为距离、步数、消耗热量与预计时长，帮你更好地了解每次运动的实际效果。 Apple Watch 联动，运动更自由 在 Apple Watch 上实时记录爬楼运动，查看今日进度与连续打卡。数据自动同步到 iPhone，告别手机束缚，专注运动本身。 桌面小组件，进度时刻可见 把今日爬楼进度放到主屏幕，目标完成情况一眼可见。中、大尺寸完整数据看板，让你随时掌握运动状态。 Apple Watch：手表独立记录运动与数据同步 高级小组件：主屏/锁屏多样化小组件 适合人群 希望日常爬楼梯健身的上班族 想燃脂塑形、增强心肺的运动爱好者 追求健康习惯养成与自我激励的人群 喜爱数据可视化与成就激励的用户 让每一次爬楼都被记录，让健康成为日常习惯。开始你的爬楼之旅吧！ 会员订阅和说明 提供Pro月度会员、季度、年度会员自动续费订阅，以及终身会员一次性购买。Pro 会员权益开通后可以使用 智能校对：覆盖今日 Health 数据，精准校对 Apple Watch：手表独立记录运动与数据同步 高级Widget小组件：主屏/锁屏多样化小组件 高级图表：解锁打卡热力图、数据来源分布饼图 完整勋章：解锁全部成就勋章与等级体系 主题外观：多种配色主题与自定义主色 数据导出：导出 CSV 备份与深度分析 自动续订说明： 月度、季度和年度会员为自动续订订阅，会在当前周期结束前24小时内自动续订。 账户将在当前周期结束前24小时内收取续订费用。 您可以在购买后前往 App Store 账户设置，随时管理或取消自动续订。 终身会员为一次性购买，无需续订，购买后永久有效。 隐私政策：https://luckyxiangfeng.github.io/ClimbAssistantPrivacy.html 用户协议：https://luckyxiangfeng.github.io/ClimbAssistant_user_agreement.html",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/44/43/214443d5-24af-d5c4-bba0-947953fa17e1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/44/43/214443d5-24af-d5c4-bba0-947953fa17e1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/96/37/5c963770-3ce1-750b-e78c-dbe137204494/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/96/37/5c963770-3ce1-750b-e78c-dbe137204494/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "小燕 陈",
     "artistName": "小燕 陈",
     "screenshotUrls": [
@@ -23838,8 +23932,8 @@
     "_externalSourceFirstSeen": 1786935542908
   },
   "6758571512": {
-    "name": "Gutio: 肠道追踪 AI 肠道健康",
-    "trackName": "Gutio: 肠道追踪 AI 肠道健康",
+    "name": "肠道追踪 AI 肠道健康: Gutio",
+    "trackName": "肠道追踪 AI 肠道健康: Gutio",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
@@ -23907,12 +24001,12 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/gutio-%E8%82%A0%E9%81%93%E8%BF%BD%E8%B8%AA-ai-%E8%82%A0%E9%81%93%E5%81%A5%E5%BA%B7/id6758571512?uo=4",
-    "description": "Gutio 通过长期记录饮食、症状和日常习惯，帮助你更好地了解肠道健康。记录你吃了什么以及身体的感受，可以更轻松地发现可能影响消化状况的规律。 借助个性化的 AI 洞察，Gutio 将你的日常记录转化为清晰且有意义的观察结果。无论你是在探索食物敏感性、遵循特定饮食，还是只是更加关注消化状况，所有洞察都基于你自己的数据。 Gutio 以隐私为核心设计，确保你的信息安全且完全由你掌控。没有广告，也不会出售数据——只为你提供一种简单、安心的方式，日复一日地关注肠道健康。 医疗免责声明 本应用提供与营养和肠道健康相关的一般信息。 本应用不是医疗设备，不提供医疗诊断、治疗或专业医疗建议。 在做出任何医疗决定或更改饮食或健康习惯之前，请务必咨询合格的医疗专业人员。 隐私政策: https://originhub.app/privacy-policy 条款与条件: https://originhub.app/terms-and-conditions",
-    "fullDescription": "Gutio 通过长期记录饮食、症状和日常习惯，帮助你更好地了解肠道健康。记录你吃了什么以及身体的感受，可以更轻松地发现可能影响消化状况的规律。 借助个性化的 AI 洞察，Gutio 将你的日常记录转化为清晰且有意义的观察结果。无论你是在探索食物敏感性、遵循特定饮食，还是只是更加关注消化状况，所有洞察都基于你自己的数据。 Gutio 以隐私为核心设计，确保你的信息安全且完全由你掌控。没有广告，也不会出售数据——只为你提供一种简单、安心的方式，日复一日地关注肠道健康。 医疗免责声明 本应用提供与营养和肠道健康相关的一般信息。 本应用不是医疗设备，不提供医疗诊断、治疗或专业医疗建议。 在做出任何医疗决定或更改饮食或健康习惯之前，请务必咨询合格的医疗专业人员。 隐私政策: https://originhub.app/privacy-policy 条款与条件: https://originhub.app/terms-and-conditions",
-    "summaryDescription": "Gutio 通过长期记录饮食、症状和日常习惯，帮助你更好地了解肠道健康。记录你吃了什么以及身体的感受，可以更轻松地发现可能影响消化状况的规律。 借助个性化的 AI 洞察，Gutio 将你的日常记录转化为清晰且有意义的观察结果。无论你是在探索食物敏感性、遵循特定饮食，还是只是更加关注消化状况，所有洞察都基于你自己的数据。 Gutio 以隐私为核心设计，确保你的信息安全且完全由你掌控。没有广告，也不会出售数据——只为你提供一种简单、安心的方式，日复一日地关注肠道健康。 医疗免责声明 本应用提供与营养和肠道健康相关的一般信息。 本应用不是医疗设备，不提供医疗诊断、治疗或专业医疗建议。 在做出任何医疗决定或更改饮食或健康习惯之前，请务必咨询合格的医疗专业人员。 隐私政策: https://originhub.app/privacy-policy 条款与条件: https://originhub.app/terms-and-conditions",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/39/5c/26395c14-a926-b4a8-1fe7-e81630d1ee89/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/39/5c/26395c14-a926-b4a8-1fe7-e81630d1ee89/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%82%A0%E9%81%93%E8%BF%BD%E8%B8%AA-ai-%E8%82%A0%E9%81%93%E5%81%A5%E5%BA%B7-gutio/id6758571512?uo=4",
+    "description": "Gutio 把每天的饮食和症状变成一份清晰的肠道记录。拍下一餐，或者只用文字描述，Gutio 就会告诉你它是否符合你的饮食方式。 用 Gutio 可以做什么： 通过照片或文字描述，用 AI 分析任意一餐 按无麸质、乳糖不耐受、低 FODMAP、组胺不耐受、素食和纯素饮食核对食物 准确看到每种饮食方式下需要避开的食材 记录症状：腹胀、排气、腹痛、痉挛、恶心、腹泻、便秘和反流 逐日记录大便形态与频率 获取由你自己的记录生成的 AI 肠道健康报告 将最近 7 天、30 天或 90 天导出为 PDF 报告，交给医生 保持每日连续记录，看着规律在数周内浮现 Gutio 以隐私优先构建，让你的信息始终在你自己的掌控中。没有广告，不出售数据——只是一种简单的方式，让你和自己的肠道保持联系。 医疗免责声明 本应用提供与营养和肠道健康相关的一般信息。 本应用不是医疗设备，不提供医疗诊断、治疗或专业医疗建议。 在做出任何医疗决定或更改饮食或健康习惯之前，请务必咨询合格的医疗专业人员。 隐私政策: https://originhub.app/privacy-policy 条款与条件: https://originhub.app/terms-and-conditions",
+    "fullDescription": "Gutio 把每天的饮食和症状变成一份清晰的肠道记录。拍下一餐，或者只用文字描述，Gutio 就会告诉你它是否符合你的饮食方式。 用 Gutio 可以做什么： 通过照片或文字描述，用 AI 分析任意一餐 按无麸质、乳糖不耐受、低 FODMAP、组胺不耐受、素食和纯素饮食核对食物 准确看到每种饮食方式下需要避开的食材 记录症状：腹胀、排气、腹痛、痉挛、恶心、腹泻、便秘和反流 逐日记录大便形态与频率 获取由你自己的记录生成的 AI 肠道健康报告 将最近 7 天、30 天或 90 天导出为 PDF 报告，交给医生 保持每日连续记录，看着规律在数周内浮现 Gutio 以隐私优先构建，让你的信息始终在你自己的掌控中。没有广告，不出售数据——只是一种简单的方式，让你和自己的肠道保持联系。 医疗免责声明 本应用提供与营养和肠道健康相关的一般信息。 本应用不是医疗设备，不提供医疗诊断、治疗或专业医疗建议。 在做出任何医疗决定或更改饮食或健康习惯之前，请务必咨询合格的医疗专业人员。 隐私政策: https://originhub.app/privacy-policy 条款与条件: https://originhub.app/terms-and-conditions",
+    "summaryDescription": "Gutio 把每天的饮食和症状变成一份清晰的肠道记录。拍下一餐，或者只用文字描述，Gutio 就会告诉你它是否符合你的饮食方式。 用 Gutio 可以做什么： 通过照片或文字描述，用 AI 分析任意一餐 按无麸质、乳糖不耐受、低 FODMAP、组胺不耐受、素食和纯素饮食核对食物 准确看到每种饮食方式下需要避开的食材 记录症状：腹胀、排气、腹痛、痉挛、恶心、腹泻、便秘和反流 逐日记录大便形态与频率 获取由你自己的记录生成的 AI 肠道健康报告 将最近 7 天、30 天或 90 天导出为 PDF 报告，交给医生 保持每日连续记录，看着规律在数周内浮现 Gutio 以隐私优先构建，让你的信息始终在你自己的掌控中。没有广告，不出售数据——只是一种简单的方式，让你和自己的肠道保持联系。 医疗免责声明 本应用提供与营养和肠道健康相关的一般信息。 本应用不是医疗设备，不提供医疗诊断、治疗或专业医疗建议。 在做出任何医疗决定或更改饮食或健康习惯之前，请务必咨询合格的医疗专业人员。 隐私政策: https://originhub.app/privacy-policy 条款与条件: https://originhub.app/terms-and-conditions",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/15/d0/ec15d0e2-5db0-ee6f-9159-8d1adf465a74/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/15/d0/ec15d0e2-5db0-ee6f-9159-8d1adf465a74/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "Fatih Erdogan",
     "artistName": "Fatih Erdogan",
     "screenshotUrls": [
@@ -24023,14 +24117,22 @@
     "name": "Photos 2 PDF Pro",
     "trackName": "Photos 2 PDF Pro",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 68,
+      "formattedPrice": "¥68.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787274405434,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787194540665,
@@ -24057,9 +24159,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/photos-2-pdf-pro/id6790564711?uo=4",
-    "description": "Photos 2 PDF Pro 可帮助您直接从手机将照片、扫描件和文档转换为干净、锐利、可共享的 PDF 文件。如果您的照片或扫描文档太大而无法通过电子邮件或消息应用程序发送，Photos 2 PDF Pro 可以让您创建精美的 PDF 并在共享之前控制最终文件大小。主要功能： 将照片转换为 PDF 从照片库中选择图像并将它们合并为一个 PDF 文件。裁剪、旋转和锐化演示文稿 在导出前调整每张照片，然后添加干净的框架（例如细边框、圆角框架、阴影或撕边样式）以进行扫描和成像",
-    "fullDescription": "Photos 2 PDF Pro 可帮助您直接从手机将照片、扫描件和文档转换为干净、锐利、可共享的 PDF 文件。如果您的照片或扫描文档太大而无法通过电子邮件或消息应用程序发送，Photos 2 PDF Pro 可以让您创建精美的 PDF 并在共享之前控制最终文件大小。主要功能： 将照片转换为 PDF 从照片库中选择图像并将它们合并为一个 PDF 文件。裁剪、旋转和锐化演示文稿 在导出前调整每张照片，然后添加干净的框架（例如细边框、圆角框架、阴影或撕边样式）以进行扫描和成像",
-    "summaryDescription": "Photos 2 PDF Pro 可帮助您直接从手机将照片、扫描件和文档转换为干净、锐利、可共享的 PDF 文件。如果您的照片或扫描文档太大而无法通过电子邮件或消息应用程序发送，Photos 2 PDF Pro 可以让您创建精美的 PDF 并在共享之前控制最终文件大小。主要功能： 将照片转换为 PDF 从照片库中选择图像并将它们合并为一个 PDF 文件。裁剪、旋转和锐化演示文稿 在导出前调整每张照片，然后添加干净的框架（例如细边框、圆角框架、阴影或撕边样式）以进行扫描和成像",
+    "description": "Photos 2 PDF Pro helps you turn photos, scans, and documents into clean, sharp, shareable PDF files directly from your Phone. If your photos or scanned documents are too large to send by email or messaging apps, Photos 2 PDF Pro lets you create a polished PDF and control the final file size before sharing. Key features: Convert photos to PDF Select images from your photo library and combine them into one PDF file. Crop, rotate, and sharpen presentation Adjust each photo before export, then add a clean frame such as a thin border, rounded frame, shadow, or torn-edge style to make scans and images look more professional. Reorder pages Arrange photos in the right order before creating your document. Convert documents to PDF Import Word, PowerPoint, Pages, text, web, image, and other common files, then convert them to PDF. Choose page layout Select paper size, orientation, and how many photos or document pages appear on each PDF page. Compress PDF size Use quality presets or set a custom target size, such as 19 MB, to help meet email and attachment limits. Preview before sharing Review the generated PDF before sending or saving it. Share or save anywhere Send your PDF by Mail, Messages, or save it to Files. Works from other apps Use the share sheet to send photos or documents into Photos 2 PDF Pro for quick conversion. Photos 2 PDF Pro is available in English (UK), English (US), Chinese, Hindi, Spanish, Arabic, French, Bengali, Portuguese (Brazil), Indonesian, Urdu, German, Japanese, Nigerian Pidgin, Vietnamese, Turkish, Polish, and Russian. Photos 2 PDF Pro is designed for everyday PDF tasks: sending scanned paperwork, school documents, receipts, forms, notes, presentations, and photo collections without dealing with oversized attachments.",
+    "fullDescription": "Photos 2 PDF Pro helps you turn photos, scans, and documents into clean, sharp, shareable PDF files directly from your Phone. If your photos or scanned documents are too large to send by email or messaging apps, Photos 2 PDF Pro lets you create a polished PDF and control the final file size before sharing. Key features: Convert photos to PDF Select images from your photo library and combine them into one PDF file. Crop, rotate, and sharpen presentation Adjust each photo before export, then add a clean frame such as a thin border, rounded frame, shadow, or torn-edge style to make scans and images look more professional. Reorder pages Arrange photos in the right order before creating your document. Convert documents to PDF Import Word, PowerPoint, Pages, text, web, image, and other common files, then convert them to PDF. Choose page layout Select paper size, orientation, and how many photos or document pages appear on each PDF page. Compress PDF size Use quality presets or set a custom target size, such as 19 MB, to help meet email and attachment limits. Preview before sharing Review the generated PDF before sending or saving it. Share or save anywhere Send your PDF by Mail, Messages, or save it to Files. Works from other apps Use the share sheet to send photos or documents into Photos 2 PDF Pro for quick conversion. Photos 2 PDF Pro is available in English (UK), English (US), Chinese, Hindi, Spanish, Arabic, French, Bengali, Portuguese (Brazil), Indonesian, Urdu, German, Japanese, Nigerian Pidgin, Vietnamese, Turkish, Polish, and Russian. Photos 2 PDF Pro is designed for everyday PDF tasks: sending scanned paperwork, school documents, receipts, forms, notes, presentations, and photo collections without dealing with oversized attachments.",
+    "summaryDescription": "Photos 2 PDF Pro helps you turn photos, scans, and documents into clean, sharp, shareable PDF files directly from your Phone. If your photos or scanned documents are too large to send by email or messaging apps, Photos 2 PDF Pro lets you create a polished PDF and control the final file size before sharing. Key features: Convert photos to PDF Select images from your photo library and combine them into one PDF file. Crop, rotate, and sharpen presentation Adjust each photo before export, then add a clean frame such as a thin border, rounded frame, shadow, or torn-edge style to make scans and images look more professional. Reorder pages Arrange photos in the right order before creating your document. Convert documents to PDF Import Word, PowerPoint, Pages, text, web, image, and other common files, then convert them to PDF. Choose page layout Select paper size, orientation, and how many photos or document pages appear on each PDF page. Compress PDF size Use quality presets or set a custom target size, such as 19 MB, to help meet email and attachment limits. Preview before sharing Review the generated PDF before sending or saving it. Share or save anywhere Send your PDF by Mail, Messages, or save it to Files. Works from other apps Use the share sheet to send photos or documents into Photos 2 PDF Pro for quick conversion. Photos 2 PDF Pro is available in English (UK), English (US), Chinese, Hindi, Spanish, Arabic, French, Bengali, Portuguese (Brazil), Indonesian, Urdu, German, Japanese, Nigerian Pidgin, Vietnamese, Turkish, Polish, and Russian. Photos 2 PDF Pro is designed for everyday PDF tasks: sending scanned paperwork, school documents, receipts, forms, notes, presentations, and photo collections without dealing with oversized attachments.",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/37/6a/31376a9b-f867-8082-7e8e-c843939d9d04/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/37/6a/31376a9b-f867-8082-7e8e-c843939d9d04/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Mikolaj Adamowicz",
@@ -25728,9 +25830,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/eyetally/id6790128061?uo=4",
-    "description": "EyeTally 是一个简单的每日滴眼液计数工具。每次服药时点击 +1，应用程序会一直计数，直到您达到每日总量。计数每天早上自动重置。没有警报。没有时间表。没有账户。有些药物只需要每天服用一定次数即可，只要对您有效即可。 EyeTally 跟踪总数，以便您始终知道已完成的内容和剩余的内容。专为低视力而设计 EyeTally 专为低视力父亲而设计，每项设计选择都遵循以下原则： 大而高对比度的文字 易于点击的大按钮 每个媒体的颜色编码",
-    "fullDescription": "EyeTally 是一个简单的每日滴眼液计数工具。每次服药时点击 +1，应用程序会一直计数，直到您达到每日总量。计数每天早上自动重置。没有警报。没有时间表。没有账户。有些药物只需要每天服用一定次数即可，只要对您有效即可。 EyeTally 跟踪总数，以便您始终知道已完成的内容和剩余的内容。专为低视力而设计 EyeTally 专为低视力父亲而设计，每项设计选择都遵循以下原则： 大而高对比度的文字 易于点击的大按钮 每个媒体的颜色编码",
-    "summaryDescription": "EyeTally 是一个简单的每日滴眼液计数工具。每次服药时点击 +1，应用程序会一直计数，直到您达到每日总量。计数每天早上自动重置。没有警报。没有时间表。没有账户。有些药物只需要每天服用一定次数即可，只要对您有效即可。 EyeTally 跟踪总数，以便您始终知道已完成的内容和剩余的内容。专为低视力而设计 EyeTally 专为低视力父亲而设计，每项设计选择都遵循以下原则： 大而高对比度的文字 易于点击的大按钮 每个媒体的颜色编码",
+    "description": "EyeTally 是一个简单的每日滴眼液计数工具。每次服药时点击 +1，应用程序会一直计数，直到您达到每日总量。计数每天早上自动重置。没有警报。没有时间表。没有账户。有些药物只需要每天服用一定次数——只要对您有效即可。 EyeTally 跟踪总数，以便您始终知道已完成的内容和剩余的内容。专为低视力而设计 EyeTally 专为低视力父亲而设计，每项设计选择都遵循以下原则： 大而高对比度的文字 易于点击的大按钮 每个媒体的颜色编码",
+    "fullDescription": "EyeTally 是一个简单的每日滴眼液计数工具。每次服药时点击 +1，应用程序会一直计数，直到您达到每日总量。计数每天早上自动重置。没有警报。没有时间表。没有账户。有些药物只需要每天服用一定次数——只要对您有效即可。 EyeTally 跟踪总数，以便您始终知道已完成的内容和剩余的内容。专为低视力而设计 EyeTally 专为低视力父亲而设计，每项设计选择都遵循以下原则： 大而高对比度的文字 易于点击的大按钮 每个媒体的颜色编码",
+    "summaryDescription": "EyeTally 是一个简单的每日滴眼液计数工具。每次服药时点击 +1，应用程序会一直计数，直到您达到每日总量。计数每天早上自动重置。没有警报。没有时间表。没有账户。有些药物只需要每天服用一定次数——只要对您有效即可。 EyeTally 跟踪总数，以便您始终知道已完成的内容和剩余的内容。专为低视力而设计 EyeTally 专为低视力父亲而设计，每项设计选择都遵循以下原则： 大而高对比度的文字 易于点击的大按钮 每个媒体的颜色编码",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/4e/3c/c44e3c3d-d168-5191-8a4f-536dd621936a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/4e/3c/c44e3c3d-d168-5191-8a4f-536dd621936a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Lisa Mulcahy",
@@ -25766,9 +25868,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/the-strays/id6761932931?uo=4",
-    "description": "这座城市已经被狗占领了。螺旋研究所承诺有治愈方法。他们引发的是一场爆发。现在，街道上爬满了变异的恐怖生物，实验室隐藏着难以言说的秘密，自由流浪者已经联合起来进行反击。控制一支由十二只狗组成的久经沙场的街头幸存者小队，在一座被 Helix 感染吞噬的城市中杀出一条血路。从研究实验室到下水道、废弃矿井，再到疫情爆发的核心，每个关卡都会将你推向阴谋的更深处。选择你的战士 从十二个可玩的流浪者中进行选择，每个都有自己的外观， abi",
-    "fullDescription": "这座城市已经被狗占领了。螺旋研究所承诺有治愈方法。他们引发的是一场爆发。现在，街道上爬满了变异的恐怖生物，实验室隐藏着难以言说的秘密，自由流浪者已经联合起来进行反击。控制一支由十二只狗组成的久经沙场的街头幸存者小队，在一座被 Helix 感染吞噬的城市中杀出一条血路。从研究实验室到下水道、废弃矿井，再到疫情爆发的核心，每个关卡都会将你推向阴谋的更深处。选择你的战士 从十二个可玩的流浪者中进行选择，每个都有自己的外观， abi",
-    "summaryDescription": "这座城市已经被狗占领了。螺旋研究所承诺有治愈方法。他们引发的是一场爆发。现在，街道上爬满了变异的恐怖生物，实验室隐藏着难以言说的秘密，自由流浪者已经联合起来进行反击。控制一支由十二只狗组成的久经沙场的街头幸存者小队，在一座被 Helix 感染吞噬的城市中杀出一条血路。从研究实验室到下水道、废弃矿井，再到疫情爆发的核心，每个关卡都会将你推向阴谋的更深处。选择你的战士 从十二个可玩的流浪者中进行选择，每个都有自己的外观， abi",
+    "description": "这座城市已经被狗占领了。螺旋研究所承诺有治愈方法。他们引发的是一场爆发。现在，街道上爬满了变异的恐怖生物，实验室隐藏着难以言喻的秘密，自由流浪者已经联合起来进行反击。控制一支由 12 只狗组成的久经沙场的街头幸存者小队，在一座被 Helix 感染吞噬的城市中杀出一条血路。从研究实验室到下水道、废弃矿井，再到疫情爆发的核心，每个关卡都会将你推向阴谋的更深处。选择你的战士 从十二个可玩的流浪者中进行选择，每个都有自己的外观，abi",
+    "fullDescription": "这座城市已经被狗占领了。螺旋研究所承诺有治愈方法。他们引发的是一场爆发。现在，街道上爬满了变异的恐怖生物，实验室隐藏着难以言喻的秘密，自由流浪者已经联合起来进行反击。控制一支由 12 只狗组成的久经沙场的街头幸存者小队，在一座被 Helix 感染吞噬的城市中杀出一条血路。从研究实验室到下水道、废弃矿井，再到疫情爆发的核心，每个关卡都会将你推向阴谋的更深处。选择你的战士 从十二个可玩的流浪者中进行选择，每个都有自己的外观，abi",
+    "summaryDescription": "这座城市已经被狗占领了。螺旋研究所承诺有治愈方法。他们引发的是一场爆发。现在，街道上爬满了变异的恐怖生物，实验室隐藏着难以言喻的秘密，自由流浪者已经联合起来进行反击。控制一支由 12 只狗组成的久经沙场的街头幸存者小队，在一座被 Helix 感染吞噬的城市中杀出一条血路。从研究实验室到下水道、废弃矿井，再到疫情爆发的核心，每个关卡都会将你推向阴谋的更深处。选择你的战士 从十二个可玩的流浪者中进行选择，每个都有自己的外观，abi",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/e8/58/47e85833-d8f6-ff28-9e6d-564683b8fc97/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/e8/58/47e85833-d8f6-ff28-9e6d-564683b8fc97/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Do Not Get Abstracted Studios, LLC",
@@ -27146,9 +27248,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/cpman-clipboard-manager/id6769832804?mt=12&uo=4",
-    "description": "你五分钟前复制的那个东西？ cpMan还是有的。文本、图像、屏幕截图 - 它会记住您复制的所有内容，因此您只需按一下键即可将其中的任何内容取回。不顾一切地放弃复制。我们会跟上。它安静地挂在您的菜单栏中，永远不会打扰您。没有帐户，没有网络，没有“创建个人资料以继续”。您的剪贴板保留在 Mac 上。句号。快速查找 按 ⌃⌥V（或您自己的快捷键），选择器就会在您正在工作的位置弹出。开始输入内容进行过滤。返回到粘贴，按空格键查看，按 ⌘1–⌘9 抓取顶部项目。它甚至可以读取图像内的文本（o",
-    "fullDescription": "你五分钟前复制的那个东西？ cpMan还是有的。文本、图像、屏幕截图 - 它会记住您复制的所有内容，因此您只需按一下键即可将其中的任何内容取回。不顾一切地放弃复制。我们会跟上。它安静地挂在您的菜单栏中，永远不会打扰您。没有帐户，没有网络，没有“创建个人资料以继续”。您的剪贴板保留在 Mac 上。句号。快速查找 按 ⌃⌥V（或您自己的快捷键），选择器就会在您正在工作的位置弹出。开始输入内容进行过滤。返回到粘贴，按空格键查看，按 ⌘1–⌘9 抓取顶部项目。它甚至可以读取图像内的文本（o",
-    "summaryDescription": "你五分钟前复制的那个东西？ cpMan还是有的。文本、图像、屏幕截图 - 它会记住您复制的所有内容，因此您只需按一下键即可将其中的任何内容取回。不顾一切地放弃复制。我们会跟上。它安静地挂在您的菜单栏中，永远不会打扰您。没有帐户，没有网络，没有“创建个人资料以继续”。您的剪贴板保留在 Mac 上。句号。快速查找 按 ⌃⌥V（或您自己的快捷键），选择器就会在您正在工作的位置弹出。开始输入内容进行过滤。返回到粘贴，按空格键查看，按 ⌘1–⌘9 抓取顶部项目。它甚至可以读取图像内的文本（o",
+    "description": "你五分钟前复制的那个东西？ cpMan还是有的。文本、图像、屏幕截图 - 它会记住您复制的所有内容，因此您只需按一下键即可将其中的任何内容取回。不顾一切地放弃复制。我们会跟上。它安静地挂在您的菜单栏中，永远不会打扰您。没有帐户，没有网络，没有“创建个人资料以继续”。您的剪贴板保留在 Mac 上。句号。快速查找点击 ⌃⌥V（或您自己的快捷键），选择器就会在您正在工作的位置弹出。开始输入内容进行过滤。返回到粘贴，按空格键查看，按 ⌘1–⌘9 抓取顶部项目。它甚至可以读取图像内的文本（o",
+    "fullDescription": "你五分钟前复制的那个东西？ cpMan还是有的。文本、图像、屏幕截图 - 它会记住您复制的所有内容，因此您只需按一下键即可将其中的任何内容取回。不顾一切地放弃复制。我们会跟上。它安静地挂在您的菜单栏中，永远不会打扰您。没有帐户，没有网络，没有“创建个人资料以继续”。您的剪贴板保留在 Mac 上。句号。快速查找点击 ⌃⌥V（或您自己的快捷键），选择器就会在您正在工作的位置弹出。开始输入内容进行过滤。返回到粘贴，按空格键查看，按 ⌘1–⌘9 抓取顶部项目。它甚至可以读取图像内的文本（o",
+    "summaryDescription": "你五分钟前复制的那个东西？ cpMan还是有的。文本、图像、屏幕截图 - 它会记住您复制的所有内容，因此您只需按一下键即可将其中的任何内容取回。不顾一切地放弃复制。我们会跟上。它安静地挂在您的菜单栏中，永远不会打扰您。没有帐户，没有网络，没有“创建个人资料以继续”。您的剪贴板保留在 Mac 上。句号。快速查找点击 ⌃⌥V（或您自己的快捷键），选择器就会在您正在工作的位置弹出。开始输入内容进行过滤。返回到粘贴，按空格键查看，按 ⌘1–⌘9 抓取顶部项目。它甚至可以读取图像内的文本（o",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/03/63/02036396-b95b-4fed-0601-3e079ac8aac1/AppIcon-0-0-85-220-0-5-0-2x.png/60x60bb.png",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/03/63/02036396-b95b-4fed-0601-3e079ac8aac1/AppIcon-0-0-85-220-0-5-0-2x.png/100x100bb.png",
     "sellerName": "Leon Rubin",
@@ -29232,5 +29334,99 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/dc/ef/44dcef64-86f5-1d56-ca38-ef1751474f68/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-08-02_at_06.53.31.png/320x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1787264653953
+  },
+  "6752662508": {
+    "name": "时光轨迹 · 岁月的回廊",
+    "trackName": "时光轨迹 · 岁月的回廊",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787274405434,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%97%B6%E5%85%89%E8%BD%A8%E8%BF%B9-%E5%B2%81%E6%9C%88%E7%9A%84%E5%9B%9E%E5%BB%8A/id6752662508?uo=4",
+    "description": "时光轨迹 (TimeTrails) 是一款专注于移动轨迹记录与可视化的应用。 无论是通勤、健身，还是旅行探险，它都能精准记录并在地图上生动呈现。 主要特性 智能采集：前后台定位，自动平衡精度与能耗 多种模式：步行、跑步、骑行、驾车、徒步、飞行全覆盖 每日摘要：自动生成里程、时长和活动路线 双坐标系：支持 WGS-84 与 GCJ-02，精准适配中国大陆 本地存储：数据仅保存在设备，保护用户隐私 视觉呈现：点、轨迹线和聚合模式，轻松展示海量数据 温馨提示 长时间后台定位可能增加电量消耗 请在系统设置中授予定位权限，以确保完整记录",
+    "fullDescription": "时光轨迹 (TimeTrails) 是一款专注于移动轨迹记录与可视化的应用。 无论是通勤、健身，还是旅行探险，它都能精准记录并在地图上生动呈现。 主要特性 智能采集：前后台定位，自动平衡精度与能耗 多种模式：步行、跑步、骑行、驾车、徒步、飞行全覆盖 每日摘要：自动生成里程、时长和活动路线 双坐标系：支持 WGS-84 与 GCJ-02，精准适配中国大陆 本地存储：数据仅保存在设备，保护用户隐私 视觉呈现：点、轨迹线和聚合模式，轻松展示海量数据 温馨提示 长时间后台定位可能增加电量消耗 请在系统设置中授予定位权限，以确保完整记录",
+    "summaryDescription": "时光轨迹 (TimeTrails) 是一款专注于移动轨迹记录与可视化的应用。 无论是通勤、健身，还是旅行探险，它都能精准记录并在地图上生动呈现。 主要特性 智能采集：前后台定位，自动平衡精度与能耗 多种模式：步行、跑步、骑行、驾车、徒步、飞行全覆盖 每日摘要：自动生成里程、时长和活动路线 双坐标系：支持 WGS-84 与 GCJ-02，精准适配中国大陆 本地存储：数据仅保存在设备，保护用户隐私 视觉呈现：点、轨迹线和聚合模式，轻松展示海量数据 温馨提示 长时间后台定位可能增加电量消耗 请在系统设置中授予定位权限，以确保完整记录",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/3d/f1/0e3df1a0-03dd-7aba-9c01-2e7d8b9d7e6a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/3d/f1/0e3df1a0-03dd-7aba-9c01-2e7d8b9d7e6a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Shanghai Shuxia Xiaowu Network Technology Co., Ltd.",
+    "artistName": "Shanghai Shuxia Xiaowu Network Technology Co., Ltd.",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/33/c9/2433c9d9-c607-528e-3dc2-4fb8cf97fb66/APP_IPHONE_67__iPhone69__1_ios_home.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/ec/aa/83ecaa3b-1e70-0c96-8718-7e1efbb29e57/APP_IPHONE_67__iPhone69__2_ios_note.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/46/c6/e346c6aa-e645-58db-1f6b-3b90040307b1/APP_IPHONE_67__iPhone69__3_ios_earth.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/96/fb/4896fbeb-6f1e-0aa2-8140-01aa79d53c00/APP_IPHONE_67__iPhone69__4_ios_fogmap.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/13/28/5b1328ef-8855-f3aa-95b1-5d4f68297d55/APP_IPHONE_67__iPhone69__5_ios_mapsettings.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/b0/05/eeb0053b-fd51-310d-e33a-65e924df30d2/APP_IPHONE_67__iPhone69__6_ios_historyrecord.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/9a/86/399a8693-97d3-ed5b-52c7-5bba62862cbb/APP_IPAD_PRO_3GEN_129__iPad129__1_ios_home.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/98/0a/ad980a77-9ce6-6f4a-30ad-59c76d50a586/APP_IPAD_PRO_3GEN_129__iPad129__2_ios_note.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/96/3d/8c963d8d-8256-91c5-59b4-f1c3a2c7e04c/APP_IPAD_PRO_3GEN_129__iPad129__3_ios_earth.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/39/96/453996b8-55b6-6adf-1729-914776543504/APP_IPAD_PRO_3GEN_129__iPad129__4_ios_fogmap.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/ae/5e/4bae5e05-37e8-e713-e15f-a1dcc63aaa9f/APP_IPAD_PRO_3GEN_129__iPad129__5_ios_mapsettings.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/a0/fe/aba0fe9a-0854-0226-f23d-4379191736d8/APP_IPAD_PRO_3GEN_129__iPad129__6_ios_historyrecord.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1787274371601
+  },
+  "6775751406": {
+    "name": "Epubly - PDF to EPUB Convert",
+    "trackName": "Epubly - PDF to EPUB Convert",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787274405434,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/epubly-pdf-to-epub-convert/id6775751406?uo=4",
+    "description": "Epubly turns any PDF into a clean, fixed-layout EPUB — right on your iPhone and iPad. No accounts, no uploads, no subscriptions. Just import a PDF, fine-tune it, and convert to a beautiful EPUB that looks exactly like your original document. Whether you're a student converting study guides, an author preparing a manuscript, or anyone who wants their PDFs as proper e-books, Epubly makes it effortless. WHY EPUBLY Fixed-layout EPUB output — your pages look exactly as designed, page for page. Fully on-device — every conversion runs locally. Your files never leave your device. One-time purchase — pay once, use forever. No subscriptions, no recurring fees. No ads. No tracking. No data collection. Ever. HOW IT WORKS 1. Tap to import a PDF from Files, iCloud Drive, or any document provider. 2. Set a book title and author for your EPUB. 3. Choose image quality — Standard, High, or Maximum — and a resolution scale. 4. Long-press page thumbnails to reorder or delete pages. 5. Tap Convert to EPUB and watch the live progress. 6. Share or save your finished EPUB anywhere — Apple Books, Files, iCloud Drive, or any app. POWERFUL, SIMPLE FEATURES PDF → fixed-layout EPUB conversion Import from Files, iCloud Drive, and any provider Reorder pages with a long-press and drag Delete unwanted pages before converting Custom book title and author metadata Image quality control: Standard / High / Maximum Resolution scale: 1x, 1.5x (balanced), or 2x Page-by-page thumbnail preview Real-time conversion progress Share & Save via the system share sheet Designed for both iPhone and iPad PRIVATE BY DESIGN Epubly was built so your documents stay yours. There are no servers, no cloud processing, no analytics, and no advertising SDKs. Nothing is uploaded, and nothing is tracked. What you convert is your business — and only yours. PERFECT FOR Students & researchers — lecture notes, study guides, and papers Authors & publishers — manuscripts and proofs Professionals — reports, manuals, and documentation Anyone who prefers reading PDFs as proper EPUB books Download Epubly today and turn your PDFs into beautiful EPUBs — fast, private, and entirely on your device.",
+    "fullDescription": "Epubly turns any PDF into a clean, fixed-layout EPUB — right on your iPhone and iPad. No accounts, no uploads, no subscriptions. Just import a PDF, fine-tune it, and convert to a beautiful EPUB that looks exactly like your original document. Whether you're a student converting study guides, an author preparing a manuscript, or anyone who wants their PDFs as proper e-books, Epubly makes it effortless. WHY EPUBLY Fixed-layout EPUB output — your pages look exactly as designed, page for page. Fully on-device — every conversion runs locally. Your files never leave your device. One-time purchase — pay once, use forever. No subscriptions, no recurring fees. No ads. No tracking. No data collection. Ever. HOW IT WORKS 1. Tap to import a PDF from Files, iCloud Drive, or any document provider. 2. Set a book title and author for your EPUB. 3. Choose image quality — Standard, High, or Maximum — and a resolution scale. 4. Long-press page thumbnails to reorder or delete pages. 5. Tap Convert to EPUB and watch the live progress. 6. Share or save your finished EPUB anywhere — Apple Books, Files, iCloud Drive, or any app. POWERFUL, SIMPLE FEATURES PDF → fixed-layout EPUB conversion Import from Files, iCloud Drive, and any provider Reorder pages with a long-press and drag Delete unwanted pages before converting Custom book title and author metadata Image quality control: Standard / High / Maximum Resolution scale: 1x, 1.5x (balanced), or 2x Page-by-page thumbnail preview Real-time conversion progress Share & Save via the system share sheet Designed for both iPhone and iPad PRIVATE BY DESIGN Epubly was built so your documents stay yours. There are no servers, no cloud processing, no analytics, and no advertising SDKs. Nothing is uploaded, and nothing is tracked. What you convert is your business — and only yours. PERFECT FOR Students & researchers — lecture notes, study guides, and papers Authors & publishers — manuscripts and proofs Professionals — reports, manuals, and documentation Anyone who prefers reading PDFs as proper EPUB books Download Epubly today and turn your PDFs into beautiful EPUBs — fast, private, and entirely on your device.",
+    "summaryDescription": "Epubly turns any PDF into a clean, fixed-layout EPUB — right on your iPhone and iPad. No accounts, no uploads, no subscriptions. Just import a PDF, fine-tune it, and convert to a beautiful EPUB that looks exactly like your original document. Whether you're a student converting study guides, an author preparing a manuscript, or anyone who wants their PDFs as proper e-books, Epubly makes it effortless. WHY EPUBLY Fixed-layout EPUB output — your pages look exactly as designed, page for page. Fully on-device — every conversion runs locally. Your files never leave your device. One-time purchase — pay once, use forever. No subscriptions, no recurring fees. No ads. No tracking. No data collection. Ever. HOW IT WORKS 1. Tap to import a PDF from Files, iCloud Drive, or any document provider. 2. Set a book title and author for your EPUB. 3. Choose image quality — Standard, High, or Maximum — and a resolution scale. 4. Long-press page thumbnails to reorder or delete pages. 5. Tap Convert to EPUB and watch the live progress. 6. Share or save your finished EPUB anywhere — Apple Books, Files, iCloud Drive, or any app. POWERFUL, SIMPLE FEATURES PDF → fixed-layout EPUB conversion Import from Files, iCloud Drive, and any provider Reorder pages with a long-press and drag Delete unwanted pages before converting Custom book title and author metadata Image quality control: Standard / High / Maximum Resolution scale: 1x, 1.5x (balanced), or 2x Page-by-page thumbnail preview Real-time conversion progress Share & Save via the system share sheet Designed for both iPhone and iPad PRIVATE BY DESIGN Epubly was built so your documents stay yours. There are no servers, no cloud processing, no analytics, and no advertising SDKs. Nothing is uploaded, and nothing is tracked. What you convert is your business — and only yours. PERFECT FOR Students & researchers — lecture notes, study guides, and papers Authors & publishers — manuscripts and proofs Professionals — reports, manuals, and documentation Anyone who prefers reading PDFs as proper EPUB books Download Epubly today and turn your PDFs into beautiful EPUBs — fast, private, and entirely on your device.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/42/4c/7b424ced-9b4a-cf73-3f15-7d6aa019f23b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/42/4c/7b424ced-9b4a-cf73-3f15-7d6aa019f23b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Chaleepa Mallawa",
+    "artistName": "Chaleepa Mallawa",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/59/60/025960eb-247c-52ef-32c8-60dba90487c6/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-02_at_20.37.00.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/56/73/365673f3-dfdd-5558-05ae-ba0ec0d06d01/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-02_at_20.37.14.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/90/8a/d9908aae-199d-8a51-027a-7807e3157dae/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-02_at_20.37.18.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/02/75/a9027525-34a8-040c-c411-6042ad545abf/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-02_at_20.36.44.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/1f/f6/881ff60b-53ec-9d42-a8af-864f6b2aaee1/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-02_at_20.37.08.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/7b/6a/a97b6ad6-b945-b531-db96-095fbe831c6e/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-02_at_20.37.28.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/1f/6b/311f6b0e-2e7a-8bc4-9589-681cd6d4d3f6/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-02_at_18.26.50.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/4c/65/824c6530-8d01-ae37-d3a9-7e2404170ced/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-02_at_18.27.01.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/02/08/e302088c-6ae4-b918-6910-4987b64d1efe/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-02_at_18.27.10.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/42/bb/8242bb83-f52a-30e2-0ef5-264f73d195aa/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-02_at_18.27.22.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/2b/27/3e2b2782-91f6-778b-2107-1084c6e796a0/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-02_at_18.27.25.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/ef/b7/9defb75d-2469-c99c-28e8-d37c034ee329/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-02_at_18.27.26.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1787274374782
   }
 }
