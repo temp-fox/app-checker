@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": 1787342373876,
+    "cn": {
+      "total": 6,
+      "price": 4,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6758737789,
+          "name": "Phone Faker: Your Simulator",
+          "type": "price",
+          "detail": "¥48.00 → 免费"
+        },
+        {
+          "id": 1630626343,
+          "name": "Goal Streak: Habit Tracker",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6761336662,
+          "name": "Video Transcriber - Captions",
+          "type": "price",
+          "detail": "¥22.00 → ¥8.00"
+        },
+        {
+          "id": 680170305,
+          "name": "7 Minute Workout Challenge",
+          "type": "iap",
+          "detail": "Bonus Workout Pack 2: ¥15.00 → ¥0.00"
+        },
+        {
+          "id": 680170305,
+          "name": "7 Minute Workout Challenge",
+          "type": "iap",
+          "detail": "Bonus Workout Pack 1: ¥15.00 → ¥0.00"
+        },
+        {
+          "id": 6761114400,
+          "name": "Collage Buddy : Collage Maker",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787334933361,
     "cn": {
       "total": 1,
@@ -3755,64 +3801,6 @@
           "name": "Meet Me At The Bar",
           "type": "iap",
           "detail": "Premium: ¥28.00 → ¥15.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786472751164,
-    "cn": {
-      "total": 8,
-      "price": 7,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6758523872,
-          "name": "Guitar Tuner Console",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6757885519,
-          "name": "Fasting Space",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6760660711,
-          "name": "Vintage Rhythm Machine Console",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6758648154,
-          "name": "Rhythm Machine Console",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6758878604,
-          "name": "Urban Chord Studio",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6758276161,
-          "name": "Yoga Yogi",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6757496457,
-          "name": "Postura: 体态教练",
-          "type": "iap",
-          "detail": "Postura Pro - Lifetime: ¥148.00 → ¥68.00"
-        },
-        {
-          "id": 732245213,
-          "name": "Voice Analyst: 音高与音量",
-          "type": "price",
-          "detail": "¥68.00 → ¥48.00"
         }
       ]
     }

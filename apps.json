@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6760122905,
+      "name": {
+        "cn": "江城创业记"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787337184286,
+      "_discountType": "app"
+    },
+    {
       "id": 1290260255,
       "name": {
         "cn": "推理恋爱"
