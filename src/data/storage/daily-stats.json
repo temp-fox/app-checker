@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": 1787349985703,
+    "cn": {
+      "total": 1,
+      "price": 1,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6476618917,
+          "name": "Currency++",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787342373876,
     "cn": {
       "total": 6,
@@ -3769,38 +3785,6 @@
           "name": "DisabilityApp",
           "type": "iap",
           "detail": "Where would you like to go?: ¥98.00 → ¥15.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786485812228,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6780931157,
-          "name": "MyyyOdyssey",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786479932035,
-    "cn": {
-      "total": 1,
-      "price": 0,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6747033581,
-          "name": "Meet Me At The Bar",
-          "type": "iap",
-          "detail": "Premium: ¥28.00 → ¥15.00"
         }
       ]
     }
