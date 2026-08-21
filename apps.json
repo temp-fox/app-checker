@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1290260255,
+      "name": {
+        "cn": "推理恋爱"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787329811911,
+      "_discountType": "app"
+    },
+    {
+      "id": 1638031941,
+      "name": {
+        "cn": "哈雷故障码"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787329798351,
+      "_discountType": "app"
+    },
+    {
+      "id": 6478186205,
+      "name": {
+        "cn": "小学英语六年级上下册 -新标准外研版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787329798172,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788953178,
+      "name": {
+        "cn": "初中化学公式闯关"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787329812153,
+      "_discountType": "app"
+    },
+    {
       "id": 6801204237,
       "name": {
         "cn": "起了吗"
