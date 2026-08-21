@@ -2,6 +2,158 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 573445641,
+      "name": {
+        "cn": "Recorder Pro: Voice Recorder"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787286994364,
+      "_discountType": "app"
+    },
+    {
+      "id": 1481960751,
+      "name": {
+        "cn": "Shapecraft"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787286994364,
+      "_discountType": "app"
+    },
+    {
+      "id": 1602765272,
+      "name": {
+        "cn": "Note - notes & widget"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787286994364,
+      "_discountType": "app"
+    },
+    {
+      "id": 1622262960,
+      "name": {
+        "cn": "Chill：自我关怀庇护所"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787286994364,
+      "_discountType": "iap"
+    },
+    {
+      "id": 1622807732,
+      "name": {
+        "cn": "DCAvg: AI Stock Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787286994364,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779653429,
+      "name": {
+        "cn": "焓湿图"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787286932300,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756460887,
+      "name": {
+        "cn": "科目三灯光模拟考试"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787286946328,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762469956,
+      "name": {
+        "cn": "TenantDesk: Rental Inspection"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787286994364,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6774040750,
+      "name": {
+        "cn": "相册小蜜蜂-高效清理相册"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787286994364,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755182865,
+      "name": {
+        "cn": "自在电视遥控"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787286994364,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756230857,
+      "name": {
+        "cn": "自在相机遥控"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787286994364,
+      "_discountType": "app"
+    },
+    {
+      "id": 6766268733,
+      "name": {
+        "cn": "GridSticker - Sticker Maker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787286994364,
+      "_discountType": "app"
+    },
+    {
+      "id": 6738674586,
+      "name": {
+        "cn": "Meet+Greet Pro: Sign & Receipt"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787286994364,
+      "_discountType": "app"
+    },
+    {
       "id": 303513289,
       "name": {
         "cn": "Free WiFi"
