@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1787299606760,
+    "cn": {
+      "total": 3,
+      "price": 2,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6779102829,
+          "name": "Xtunes - 本地音乐与有声书",
+          "type": "iap",
+          "detail": "无损音乐插件包: ¥3.00 → ¥1.00"
+        },
+        {
+          "id": 6758938642,
+          "name": "PolyPipe",
+          "type": "price",
+          "detail": "¥98.00 → ¥58.00"
+        },
+        {
+          "id": 6759822954,
+          "name": "信号雷达·离线急救官",
+          "type": "price",
+          "detail": "¥68.00 → ¥8.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787292632478,
     "cn": {
       "total": 12,
@@ -3957,100 +3985,6 @@
           "name": "Mockup Screenshot",
           "type": "price",
           "detail": "¥8.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786429899870,
-    "cn": {
-      "total": 14,
-      "price": 13,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 1549683587,
-          "name": "Money Pro",
-          "type": "price",
-          "detail": "¥38.00 → ¥22.00"
-        },
-        {
-          "id": 6751220299,
-          "name": "快牛记账 - 您的智能记账管家",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6770859326,
-          "name": "CurrenX ·",
-          "type": "price",
-          "detail": "¥228.00 → 免费"
-        },
-        {
-          "id": 6773142187,
-          "name": "FileMaster: Offline Scanner",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 6760003317,
-          "name": "Capture It",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 6777819460,
-          "name": "AirPhotos:相册管理,照片整理 - Slidebox",
-          "type": "iap",
-          "detail": "终身: ¥88.00 → ¥58.00"
-        },
-        {
-          "id": 1410507137,
-          "name": "儿童英语单词-基础互动学习游戏",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 919402022,
-          "name": "超级播霸-全功能高清视频播放器",
-          "type": "price",
-          "detail": "¥38.00 → ¥28.00"
-        },
-        {
-          "id": 6752764622,
-          "name": "召唤三国:王者之战",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 1610256963,
-          "name": "围堵小猫",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6780910513,
-          "name": "Sonoqi - Music Connection Tune",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6756681306,
-          "name": "SleepTune: White Noise & Rain",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6759510427,
-          "name": "Taiga: Anime & Manga Tracker",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6796669579,
-          "name": "Coloring Challenge: Flag Quiz",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
