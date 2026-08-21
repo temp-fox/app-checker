@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1387738640,
+      "name": {
+        "cn": "早教启蒙英语 Hats on top 1"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787308030530,
+      "_discountType": "app"
+    },
+    {
+      "id": 1515294794,
+      "name": {
+        "cn": "Bead Master Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787308019269,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775594842,
+      "name": {
+        "cn": "Mirror Pocket Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787308011313,
+      "_discountType": "app"
+    },
+    {
+      "id": 6471507019,
+      "name": {
+        "cn": "Unprocrastinator"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787308013949,
+      "_discountType": "app"
+    },
+    {
+      "id": 6484594401,
+      "name": {
+        "cn": "Polarog — Photo with Video log"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787308014095,
+      "_discountType": "app"
+    },
+    {
       "id": 1143782536,
       "name": {
         "cn": "海报制作和照片文字"
