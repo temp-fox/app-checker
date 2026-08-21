@@ -2,6 +2,29 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1016163162,
+      "name": {
+        "cn": "Exif 查看器 · 发现照片背后的故事"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1787350944298,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801887155,
+      "name": {
+        "cn": "坐禅·冥想计时"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787350898113,
+      "_discountType": "app"
+    },
+    {
       "id": 1542178996,
       "name": {
         "cn": "SensorKit - Smart Home Widgets"
