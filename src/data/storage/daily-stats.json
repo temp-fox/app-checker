@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": 1787392663957,
+    "cn": {
+      "total": 5,
+      "price": 5,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 1485150403,
+          "name": "Track4Facts PRO",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6760898657,
+          "name": "Handwritten Quick Notes",
+          "type": "price",
+          "detail": "¥22.00 → ¥8.00"
+        },
+        {
+          "id": 6772426831,
+          "name": "排班记-员工倒班轮班排班表工时夜班考勤薪资统计助手",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6769176875,
+          "name": "Meshk - 书法练习与练字",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6757379697,
+          "name": "会聊鸭 - AI恋爱聊天助手",
+          "type": "price",
+          "detail": "¥15.00 → ¥9.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787385224433,
     "cn": {
       "total": 3,
@@ -3825,28 +3865,6 @@
           "name": "明朝当官模拟器-俺在大明当首辅",
           "type": "iap",
           "detail": "3次继续游历: ¥6.00 → ¥3.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786523504397,
-    "cn": {
-      "total": 2,
-      "price": 2,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 1383181685,
-          "name": "DWG to PDF Converter Pro",
-          "type": "price",
-          "detail": "¥228.00 → 免费"
-        },
-        {
-          "id": 6581491023,
-          "name": "Easy记账 - 个人家庭记账财务管理工具",
-          "type": "price",
-          "detail": "¥12.00 → ¥6.00"
         }
       ]
     }
