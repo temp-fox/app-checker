@@ -2,6 +2,105 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1226886357,
+      "name": {
+        "cn": "赞美诗-传统版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787429963807,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760981753,
+      "name": {
+        "cn": "存钱小管家-帮助用户养成存钱习惯"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787429955033,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772756279,
+      "name": {
+        "cn": "钓点通"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787429957926,
+      "_discountType": "app"
+    },
+    {
+      "id": 6749233939,
+      "name": {
+        "cn": "雷鬼顿节奏 - BeatLab"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787429963807,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781981334,
+      "name": {
+        "cn": "Clearfolio 债务记录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787429969649,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797169848,
+      "name": {
+        "cn": "21天突破高频词汇"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787429969519,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796662407,
+      "name": {
+        "cn": "FocusKids 专注训练"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787429969519,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760285385,
+      "name": {
+        "cn": "Baby Feed for Watch"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787429972257,
+      "_discountType": "app"
+    },
+    {
+      "id": 6754065741,
+      "name": {
+        "cn": "老乡秘方"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787429974767,
+      "_discountType": "app"
+    },
+    {
       "id": 545172723,
       "name": {
         "cn": "My Body - Anatomy for Kids"
