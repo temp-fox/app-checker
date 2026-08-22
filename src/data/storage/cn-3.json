@@ -92515,6 +92515,14 @@
     "history": [
       [
         {
+          "timestamp": 1787415642117,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787329835033,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -92601,11 +92609,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/8bit%E9%9F%B3%E4%B9%90%E5%A4%A7%E5%B8%88/id6759585707?uo=4",
-    "description": "8bit音乐大师是一款面向芯片音乐与电子音乐创作的步进音序器。你可以快速编排鼓组、旋律1、旋律2，切换八度范围、开启半音显示，并用随机生成快速获得灵感。通过自定义播放流，你还能按页安排鼓组、旋律1、旋律2的播放顺序与重复次数，更轻松做出完整段落与歌曲结构。作品支持保存、音频导出，并内置 AUv3 乐器扩展，可在 GarageBand 等兼容宿主中直接作为 8-bit 音源使用。",
-    "fullDescription": "8bit音乐大师是一款面向芯片音乐与电子音乐创作的步进音序器。你可以快速编排鼓组、旋律1、旋律2，切换八度范围、开启半音显示，并用随机生成快速获得灵感。通过自定义播放流，你还能按页安排鼓组、旋律1、旋律2的播放顺序与重复次数，更轻松做出完整段落与歌曲结构。作品支持保存、音频导出，并内置 AUv3 乐器扩展，可在 GarageBand 等兼容宿主中直接作为 8-bit 音源使用。",
-    "summaryDescription": "8bit音乐大师是一款面向芯片音乐与电子音乐创作的步进音序器。你可以快速编排鼓组、旋律1、旋律2，切换八度范围、开启半音显示，并用随机生成快速获得灵感。通过自定义播放流，你还能按页安排鼓组、旋律1、旋律2的播放顺序与重复次数，更轻松做出完整段落与歌曲结构。作品支持保存、音频导出，并内置 AUv3 乐器扩展，可在 GarageBand 等兼容宿主中直接作为 8-bit 音源使用。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/e8/7f/09e87f71-6719-bcfc-8698-6ca566670506/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/e8/7f/09e87f71-6719-bcfc-8698-6ca566670506/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "description": "论你是第一次尝试芯片音乐，还是想快速记录一段复古电子乐灵感，8bit音乐大师都提供了一套直观、轻量的创作流程。 在独立应用中，你可以逐步编排鼓组、旋律1和旋律2，切换八度范围、显示半音，并用随机生成功能获得一个可以继续修改的起点。每个音符和节奏都能手动调整。自定义播放流允许你分别安排三个声部的页面顺序与重复次数，将短循环组合成更完整的段落。作品可以保存，并导出为音频、MIDI 或独立分轨，方便继续制作与分享。 应用还内置四款 AUv3 插件： 芯片合成器：提供复古波形、预置、琵琶音和步进音序功能 六声部鼓机：包含 Kick、Snare、闭合/开放 Hi-hat、Clap 和 Tom，并支持 Swing、预置与 16 步音序 8-bit 效果器：提供位深与采样率降低、Drive、数字噪声、立体声宽度和节拍同步延迟 MIDI 音序器：生成与宿主同步的 16 步 MIDI 乐句，可控制音高、力度、Gate 和 Swing 四款插件可在 Loopy Pro 等兼容宿主中使用。乐器与音频效果器也可用于 GarageBand；MIDI 音序器需要宿主支持 AUv3 MIDI 路由。应用以快速开始为目标，同时保留足够的手动控制，让你能把随机灵感逐步打磨成自己的作品。",
+    "fullDescription": "论你是第一次尝试芯片音乐，还是想快速记录一段复古电子乐灵感，8bit音乐大师都提供了一套直观、轻量的创作流程。 在独立应用中，你可以逐步编排鼓组、旋律1和旋律2，切换八度范围、显示半音，并用随机生成功能获得一个可以继续修改的起点。每个音符和节奏都能手动调整。自定义播放流允许你分别安排三个声部的页面顺序与重复次数，将短循环组合成更完整的段落。作品可以保存，并导出为音频、MIDI 或独立分轨，方便继续制作与分享。 应用还内置四款 AUv3 插件： 芯片合成器：提供复古波形、预置、琵琶音和步进音序功能 六声部鼓机：包含 Kick、Snare、闭合/开放 Hi-hat、Clap 和 Tom，并支持 Swing、预置与 16 步音序 8-bit 效果器：提供位深与采样率降低、Drive、数字噪声、立体声宽度和节拍同步延迟 MIDI 音序器：生成与宿主同步的 16 步 MIDI 乐句，可控制音高、力度、Gate 和 Swing 四款插件可在 Loopy Pro 等兼容宿主中使用。乐器与音频效果器也可用于 GarageBand；MIDI 音序器需要宿主支持 AUv3 MIDI 路由。应用以快速开始为目标，同时保留足够的手动控制，让你能把随机灵感逐步打磨成自己的作品。",
+    "summaryDescription": "论你是第一次尝试芯片音乐，还是想快速记录一段复古电子乐灵感，8bit音乐大师都提供了一套直观、轻量的创作流程。 在独立应用中，你可以逐步编排鼓组、旋律1和旋律2，切换八度范围、显示半音，并用随机生成功能获得一个可以继续修改的起点。每个音符和节奏都能手动调整。自定义播放流允许你分别安排三个声部的页面顺序与重复次数，将短循环组合成更完整的段落。作品可以保存，并导出为音频、MIDI 或独立分轨，方便继续制作与分享。 应用还内置四款 AUv3 插件： 芯片合成器：提供复古波形、预置、琵琶音和步进音序功能 六声部鼓机：包含 Kick、Snare、闭合/开放 Hi-hat、Clap 和 Tom，并支持 Swing、预置与 16 步音序 8-bit 效果器：提供位深与采样率降低、Drive、数字噪声、立体声宽度和节拍同步延迟 MIDI 音序器：生成与宿主同步的 16 步 MIDI 乐句，可控制音高、力度、Gate 和 Swing 四款插件可在 Loopy Pro 等兼容宿主中使用。乐器与音频效果器也可用于 GarageBand；MIDI 音序器需要宿主支持 AUv3 MIDI 路由。应用以快速开始为目标，同时保留足够的手动控制，让你能把随机灵感逐步打磨成自己的作品。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/cb/42/f4cb42a8-5e16-2484-4aed-2dd9a22117f4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/cb/42/f4cb42a8-5e16-2484-4aed-2dd9a22117f4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "宁 徐",
     "artistName": "宁 徐",
     "screenshotUrls": [
@@ -118776,8 +118784,8 @@
     "description": "不只是播放器，更是你的视频工作站。 「player-x」将专业视频工具融入极致播放体验——AI 字幕生成、超分辨率增强、多片段合并，一个应用全部搞定。 【全格式播放，沉浸体验】 支持 MP4、MOV、MKV 等主流格式 HLS / RTMP / RTSP 流媒体直接播放 画中画（PiP）支持，多任务不中断 变速播放、音量控制、播放列表管理 【AI 智能字幕】 三种引擎任选：内置语音识别 / Whisper API / 本地 Whisper 支持 12+ 种语言的自动检测与转录 设备端 Whisper 模型，完全离线生成 一键导出 SRT，或直接叠加到画面 【视频超分辨率】 2x / 4x 分辨率提升 Bilinear、Bicubic、Lanczos 三种算法可选 GPU 加速处理，保存至相册或直接播放 【多片段合并】 顺序拼接、画中画、左右并排、上下排列 交叉淡化、黑场过渡、溶解等转场效果 自定义过渡时长，精确掌控每一帧 【精致暗色设计】 青蓝-紫罗兰渐变主题色 毛玻璃质感界面元素 深色与浅色模式自适应 流畅动画，细节满分 无论你是视频创作者、字幕组成员，还是追求极致体验的影视爱好者，「player-x」都能成为你的得力助手。",
     "fullDescription": "不只是播放器，更是你的视频工作站。 「player-x」将专业视频工具融入极致播放体验——AI 字幕生成、超分辨率增强、多片段合并，一个应用全部搞定。 【全格式播放，沉浸体验】 支持 MP4、MOV、MKV 等主流格式 HLS / RTMP / RTSP 流媒体直接播放 画中画（PiP）支持，多任务不中断 变速播放、音量控制、播放列表管理 【AI 智能字幕】 三种引擎任选：内置语音识别 / Whisper API / 本地 Whisper 支持 12+ 种语言的自动检测与转录 设备端 Whisper 模型，完全离线生成 一键导出 SRT，或直接叠加到画面 【视频超分辨率】 2x / 4x 分辨率提升 Bilinear、Bicubic、Lanczos 三种算法可选 GPU 加速处理，保存至相册或直接播放 【多片段合并】 顺序拼接、画中画、左右并排、上下排列 交叉淡化、黑场过渡、溶解等转场效果 自定义过渡时长，精确掌控每一帧 【精致暗色设计】 青蓝-紫罗兰渐变主题色 毛玻璃质感界面元素 深色与浅色模式自适应 流畅动画，细节满分 无论你是视频创作者、字幕组成员，还是追求极致体验的影视爱好者，「player-x」都能成为你的得力助手。",
     "summaryDescription": "不只是播放器，更是你的视频工作站。 「player-x」将专业视频工具融入极致播放体验——AI 字幕生成、超分辨率增强、多片段合并，一个应用全部搞定。 【全格式播放，沉浸体验】 支持 MP4、MOV、MKV 等主流格式 HLS / RTMP / RTSP 流媒体直接播放 画中画（PiP）支持，多任务不中断 变速播放、音量控制、播放列表管理 【AI 智能字幕】 三种引擎任选：内置语音识别 / Whisper API / 本地 Whisper 支持 12+ 种语言的自动检测与转录 设备端 Whisper 模型，完全离线生成 一键导出 SRT，或直接叠加到画面 【视频超分辨率】 2x / 4x 分辨率提升 Bilinear、Bicubic、Lanczos 三种算法可选 GPU 加速处理，保存至相册或直接播放 【多片段合并】 顺序拼接、画中画、左右并排、上下排列 交叉淡化、黑场过渡、溶解等转场效果 自定义过渡时长，精确掌控每一帧 【精致暗色设计】 青蓝-紫罗兰渐变主题色 毛玻璃质感界面元素 深色与浅色模式自适应 流畅动画，细节满分 无论你是视频创作者、字幕组成员，还是追求极致体验的影视爱好者，「player-x」都能成为你的得力助手。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/2d/2c/312d2ca8-9570-3c36-175d-73eb4abf9236/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/2d/2c/312d2ca8-9570-3c36-175d-73eb4abf9236/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/49/1b/61491b27-2000-5a86-f701-8520062c50dd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/49/1b/61491b27-2000-5a86-f701-8520062c50dd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Hurip Inc.",
     "artistName": "Hurip Inc.",
     "screenshotUrls": [
@@ -120543,6 +120551,25 @@
     "history": [
       [
         {
+          "timestamp": 1787415642117,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "National Parks Collection - France": "¥4.00",
+            "National Parks Collection - Japan": "¥6.00",
+            "National Parks Collection - Taiwan": "¥1.80",
+            "National Parks Collection - Germany": "¥1.80",
+            "National Parks Collection - U.S.": "¥15.00",
+            "National Parks - China": "¥0.00",
+            "National Parks - Austria": "¥1.80",
+            "National Parks - Great Britain": "¥6.00",
+            "100 Fine Castles of Japan": "¥0.00",
+            "Photo Check-in Unlimited": "¥26.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787229753082,
           "price": 0,
           "formattedPrice": "免费",
@@ -121105,9 +121132,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E6%88%91%E5%8E%BB%E5%93%AA%E4%BA%86/id6758056060?uo=4",
-    "description": "我去哪了 — 你的私人位置记忆 还记得上个月那家超赞的餐厅在哪吗？想知道你在办公室和家里各待了多长时间？我去哪了 自动追踪你的到访记录，为你的生活轨迹编织一条精美的时间线。 自动追踪 无需手动记录。应用会在后台默默记录你的到达和离开时间，轻松建立详细的到访历史。 智能日历视图 按日、周或月查看你的到访记录。直观的日历一目了然地显示访问次数和不同地点数量。点击任意一天，即可查看当天的行踪。 主屏幕与锁定屏幕小组件 中尺寸主屏幕小组件让你一眼看到最近的到访记录。锁定屏幕小组件可显示当前位置、实时停留时长，或当日到访次数 — 点按即可直接跳回应用。 有序的地点管理 地点按地区和城市自动分组。可设置自定义分类，如家、公司、健身房或咖啡厅。创建专属分类，配上个性化图标和颜色，匹配你的生活方式。 强大的数据分析 发现你的生活规律： 各类别的时间分布 最常去的地方 每周作息分析 访问频率趋势 单个地点停留时长图表 — 按日、周、月或年查看你通常停留多久 国家地区收集 把旅行变成一幅拼图！看看你在每个国家到访了多少个州、省或地区。将你的探索进度以精美的拼图图片分享给亲朋好友，激励他们踏上下一段旅程。 国家公园进度 走遍山河大地！自动记录你到访的国家公园，追踪你的探索进度，与日常位置一同保存。 日本100名城 正在游历日本？全新内建收藏，自动追踪你到访过的日本100名城。在\"收藏\"标签页 → 探索 → 日本中即可找到。 自定义收藏 想追踪什么都行 — Apple Store、博物馆、酒馆、书店。创建一个收藏，设置关键词，让它自动累积。也可以随时手动添加或删除地点。每个收藏都会显示数量、完整到访历史和地图。 导入你的位置历史 从其他应用转过来？带上你的完整历史记录 — 格式自动识别，支持大型导出，导入前还能预览： Google Timeline（Google Maps 导出或 Google Takeout） Arc Timeline（你从 Arc 导出的每月 .json 文件） Moves（ProtoGeo／Facebook Moves 备份） 批量管理 在一个界面管理所有地点。搜索、排序、筛选。选择多个地点批量分类或删除，让你的地点库保持整洁有序。 隐私至上 位置数据保存在你的设备上。无需注册账号，不向服务器发送数据。你的行踪只属于你自己。 适用场景： 追踪工作时间和地点 记住去过的餐厅和商店 分析日常作息 记录旅行日记，追踪国家公园到访 费用报销和里程记录 了解时间分配 功能特色： 自动检测到达和离开 日历视图与每日到访时间轴 主屏幕与锁定屏幕小组件，支持深度链接 按地区和城市分组 自定义分类配图标和颜色 来自 Apple 地图的智能分类建议 详细到访历史含停留时长 单个地点停留时长图表（日／周／月／年） 数据分析面板含丰富洞察 搜索和筛选地点 国家地区收集及可分享的拼图图片 国家公园进度追踪 \"日本100名城\"内建收藏 自定义收藏，支持关键词自动匹配、手动编辑和数据统计 批量地点管理 从 Google Timeline、Arc Timeline 和 Moves 导入 数据导出功能 无需注册账号 注重隐私保护 从今天开始构建你的位置记忆。下载我去哪了，再也不会忘记去过哪里。 Privacy Policy: https://masawata.net/privacy-policy.html Terms Of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "fullDescription": "我去哪了 — 你的私人位置记忆 还记得上个月那家超赞的餐厅在哪吗？想知道你在办公室和家里各待了多长时间？我去哪了 自动追踪你的到访记录，为你的生活轨迹编织一条精美的时间线。 自动追踪 无需手动记录。应用会在后台默默记录你的到达和离开时间，轻松建立详细的到访历史。 智能日历视图 按日、周或月查看你的到访记录。直观的日历一目了然地显示访问次数和不同地点数量。点击任意一天，即可查看当天的行踪。 主屏幕与锁定屏幕小组件 中尺寸主屏幕小组件让你一眼看到最近的到访记录。锁定屏幕小组件可显示当前位置、实时停留时长，或当日到访次数 — 点按即可直接跳回应用。 有序的地点管理 地点按地区和城市自动分组。可设置自定义分类，如家、公司、健身房或咖啡厅。创建专属分类，配上个性化图标和颜色，匹配你的生活方式。 强大的数据分析 发现你的生活规律： 各类别的时间分布 最常去的地方 每周作息分析 访问频率趋势 单个地点停留时长图表 — 按日、周、月或年查看你通常停留多久 国家地区收集 把旅行变成一幅拼图！看看你在每个国家到访了多少个州、省或地区。将你的探索进度以精美的拼图图片分享给亲朋好友，激励他们踏上下一段旅程。 国家公园进度 走遍山河大地！自动记录你到访的国家公园，追踪你的探索进度，与日常位置一同保存。 日本100名城 正在游历日本？全新内建收藏，自动追踪你到访过的日本100名城。在\"收藏\"标签页 → 探索 → 日本中即可找到。 自定义收藏 想追踪什么都行 — Apple Store、博物馆、酒馆、书店。创建一个收藏，设置关键词，让它自动累积。也可以随时手动添加或删除地点。每个收藏都会显示数量、完整到访历史和地图。 导入你的位置历史 从其他应用转过来？带上你的完整历史记录 — 格式自动识别，支持大型导出，导入前还能预览： Google Timeline（Google Maps 导出或 Google Takeout） Arc Timeline（你从 Arc 导出的每月 .json 文件） Moves（ProtoGeo／Facebook Moves 备份） 批量管理 在一个界面管理所有地点。搜索、排序、筛选。选择多个地点批量分类或删除，让你的地点库保持整洁有序。 隐私至上 位置数据保存在你的设备上。无需注册账号，不向服务器发送数据。你的行踪只属于你自己。 适用场景： 追踪工作时间和地点 记住去过的餐厅和商店 分析日常作息 记录旅行日记，追踪国家公园到访 费用报销和里程记录 了解时间分配 功能特色： 自动检测到达和离开 日历视图与每日到访时间轴 主屏幕与锁定屏幕小组件，支持深度链接 按地区和城市分组 自定义分类配图标和颜色 来自 Apple 地图的智能分类建议 详细到访历史含停留时长 单个地点停留时长图表（日／周／月／年） 数据分析面板含丰富洞察 搜索和筛选地点 国家地区收集及可分享的拼图图片 国家公园进度追踪 \"日本100名城\"内建收藏 自定义收藏，支持关键词自动匹配、手动编辑和数据统计 批量地点管理 从 Google Timeline、Arc Timeline 和 Moves 导入 数据导出功能 无需注册账号 注重隐私保护 从今天开始构建你的位置记忆。下载我去哪了，再也不会忘记去过哪里。 Privacy Policy: https://masawata.net/privacy-policy.html Terms Of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "summaryDescription": "我去哪了 — 你的私人位置记忆 还记得上个月那家超赞的餐厅在哪吗？想知道你在办公室和家里各待了多长时间？我去哪了 自动追踪你的到访记录，为你的生活轨迹编织一条精美的时间线。 自动追踪 无需手动记录。应用会在后台默默记录你的到达和离开时间，轻松建立详细的到访历史。 智能日历视图 按日、周或月查看你的到访记录。直观的日历一目了然地显示访问次数和不同地点数量。点击任意一天，即可查看当天的行踪。 主屏幕与锁定屏幕小组件 中尺寸主屏幕小组件让你一眼看到最近的到访记录。锁定屏幕小组件可显示当前位置、实时停留时长，或当日到访次数 — 点按即可直接跳回应用。 有序的地点管理 地点按地区和城市自动分组。可设置自定义分类，如家、公司、健身房或咖啡厅。创建专属分类，配上个性化图标和颜色，匹配你的生活方式。 强大的数据分析 发现你的生活规律： 各类别的时间分布 最常去的地方 每周作息分析 访问频率趋势 单个地点停留时长图表 — 按日、周、月或年查看你通常停留多久 国家地区收集 把旅行变成一幅拼图！看看你在每个国家到访了多少个州、省或地区。将你的探索进度以精美的拼图图片分享给亲朋好友，激励他们踏上下一段旅程。 国家公园进度 走遍山河大地！自动记录你到访的国家公园，追踪你的探索进度，与日常位置一同保存。 日本100名城 正在游历日本？全新内建收藏，自动追踪你到访过的日本100名城。在\"收藏\"标签页 → 探索 → 日本中即可找到。 自定义收藏 想追踪什么都行 — Apple Store、博物馆、酒馆、书店。创建一个收藏，设置关键词，让它自动累积。也可以随时手动添加或删除地点。每个收藏都会显示数量、完整到访历史和地图。 导入你的位置历史 从其他应用转过来？带上你的完整历史记录 — 格式自动识别，支持大型导出，导入前还能预览： Google Timeline（Google Maps 导出或 Google Takeout） Arc Timeline（你从 Arc 导出的每月 .json 文件） Moves（ProtoGeo／Facebook Moves 备份） 批量管理 在一个界面管理所有地点。搜索、排序、筛选。选择多个地点批量分类或删除，让你的地点库保持整洁有序。 隐私至上 位置数据保存在你的设备上。无需注册账号，不向服务器发送数据。你的行踪只属于你自己。 适用场景： 追踪工作时间和地点 记住去过的餐厅和商店 分析日常作息 记录旅行日记，追踪国家公园到访 费用报销和里程记录 了解时间分配 功能特色： 自动检测到达和离开 日历视图与每日到访时间轴 主屏幕与锁定屏幕小组件，支持深度链接 按地区和城市分组 自定义分类配图标和颜色 来自 Apple 地图的智能分类建议 详细到访历史含停留时长 单个地点停留时长图表（日／周／月／年） 数据分析面板含丰富洞察 搜索和筛选地点 国家地区收集及可分享的拼图图片 国家公园进度追踪 \"日本100名城\"内建收藏 自定义收藏，支持关键词自动匹配、手动编辑和数据统计 批量地点管理 从 Google Timeline、Arc Timeline 和 Moves 导入 数据导出功能 无需注册账号 注重隐私保护 从今天开始构建你的位置记忆。下载我去哪了，再也不会忘记去过哪里。 Privacy Policy: https://masawata.net/privacy-policy.html Terms Of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "description": "我去哪了 — 你的私人位置记忆 还记得上个月那家超赞的餐厅在哪吗？想知道你在办公室和家里各待了多长时间？我去哪了 自动追踪你的到访记录，为你的生活轨迹编织一条精美的时间线。 自动追踪 无需手动记录。应用会在后台默默记录你的到达和离开时间，轻松建立详细的到访历史。 智能日历视图 按日、周或月查看你的到访记录。直观的日历一目了然地显示访问次数和不同地点数量。点击任意一天，即可查看当天的行踪。 主屏幕与锁定屏幕小组件 中尺寸主屏幕小组件让你一眼看到最近的到访记录。锁定屏幕小组件可显示当前位置、实时停留时长，或当日到访次数 — 点按即可直接跳回应用。 有序的地点管理 地点按地区和城市自动分组。可设置自定义分类，如家、公司、健身房或咖啡厅。创建专属分类，配上个性化图标和颜色，匹配你的生活方式。 强大的数据分析 发现你的生活规律： 各类别的时间分布 最常去的地方 每周作息分析 访问频率趋势 单个地点停留时长图表 — 按日、周、月或年查看你通常停留多久 国家地区收集 把旅行变成一幅拼图！看看你在每个国家到访了多少个州、省或地区。将你的探索进度以精美的拼图图片分享给亲朋好友，激励他们踏上下一段旅程。 国家公园进度 走遍山河大地！自动记录你到访的国家公园，追踪你的探索进度，与日常位置一同保存。 日本100名城 正在游历日本？全新内建收藏，自动追踪你到访过的日本100名城。在\"收藏\"标签页 → 探索",
+    "fullDescription": "我去哪了 — 你的私人位置记忆 还记得上个月那家超赞的餐厅在哪吗？想知道你在办公室和家里各待了多长时间？我去哪了 自动追踪你的到访记录，为你的生活轨迹编织一条精美的时间线。 自动追踪 无需手动记录。应用会在后台默默记录你的到达和离开时间，轻松建立详细的到访历史。 智能日历视图 按日、周或月查看你的到访记录。直观的日历一目了然地显示访问次数和不同地点数量。点击任意一天，即可查看当天的行踪。 主屏幕与锁定屏幕小组件 中尺寸主屏幕小组件让你一眼看到最近的到访记录。锁定屏幕小组件可显示当前位置、实时停留时长，或当日到访次数 — 点按即可直接跳回应用。 有序的地点管理 地点按地区和城市自动分组。可设置自定义分类，如家、公司、健身房或咖啡厅。创建专属分类，配上个性化图标和颜色，匹配你的生活方式。 强大的数据分析 发现你的生活规律： 各类别的时间分布 最常去的地方 每周作息分析 访问频率趋势 单个地点停留时长图表 — 按日、周、月或年查看你通常停留多久 国家地区收集 把旅行变成一幅拼图！看看你在每个国家到访了多少个州、省或地区。将你的探索进度以精美的拼图图片分享给亲朋好友，激励他们踏上下一段旅程。 国家公园进度 走遍山河大地！自动记录你到访的国家公园，追踪你的探索进度，与日常位置一同保存。 日本100名城 正在游历日本？全新内建收藏，自动追踪你到访过的日本100名城。在\"收藏\"标签页 → 探索",
+    "summaryDescription": "我去哪了 — 你的私人位置记忆 还记得上个月那家超赞的餐厅在哪吗？想知道你在办公室和家里各待了多长时间？我去哪了 自动追踪你的到访记录，为你的生活轨迹编织一条精美的时间线。 自动追踪 无需手动记录。应用会在后台默默记录你的到达和离开时间，轻松建立详细的到访历史。 智能日历视图 按日、周或月查看你的到访记录。直观的日历一目了然地显示访问次数和不同地点数量。点击任意一天，即可查看当天的行踪。 主屏幕与锁定屏幕小组件 中尺寸主屏幕小组件让你一眼看到最近的到访记录。锁定屏幕小组件可显示当前位置、实时停留时长，或当日到访次数 — 点按即可直接跳回应用。 有序的地点管理 地点按地区和城市自动分组。可设置自定义分类，如家、公司、健身房或咖啡厅。创建专属分类，配上个性化图标和颜色，匹配你的生活方式。 强大的数据分析 发现你的生活规律： 各类别的时间分布 最常去的地方 每周作息分析 访问频率趋势 单个地点停留时长图表 — 按日、周、月或年查看你通常停留多久 国家地区收集 把旅行变成一幅拼图！看看你在每个国家到访了多少个州、省或地区。将你的探索进度以精美的拼图图片分享给亲朋好友，激励他们踏上下一段旅程。 国家公园进度 走遍山河大地！自动记录你到访的国家公园，追踪你的探索进度，与日常位置一同保存。 日本100名城 正在游历日本？全新内建收藏，自动追踪你到访过的日本100名城。在\"收藏\"标签页 → 探索",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/69/a8/4a69a88d-a4bc-2ea7-11b1-a4459183f8aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/69/a8/4a69a88d-a4bc-2ea7-11b1-a4459183f8aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Weiren Hsiao",
@@ -123615,6 +123642,25 @@
       "128元礼包": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787415642117,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "50元礼包": "¥50.00",
+            "30元礼包": "¥30.00",
+            "6元礼包": "¥6.00",
+            "648元礼包": "¥648.00",
+            "8元礼包": "¥8.00",
+            "1元礼包": "¥1.00",
+            "328元礼包": "¥328.00",
+            "68元礼包": "¥68.00",
+            "12元礼包": "¥12.00",
+            "98元礼包": "¥98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786424748548,
@@ -156237,7 +156283,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "解锁所有功能": "¥6.00"
+      "解锁所有功能": "¥15.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -156245,6 +156291,16 @@
       "解锁所有功能": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787415642117,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "解锁所有功能": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781028072424,
@@ -158753,8 +158809,8 @@
     "description": "With the Birds of Southeast Asia Guide Apps, you can: Identify species by searching their names in different languages (English, Vietnamese, Thai, or the species' scientific name) Learn bird calls by listening to the app's sound files Browse species in gallery view and filter by country, distribution range, shape, size, birding location, colors, etc. Use our bird quiz to test and improve your bird identification skills with multiple-choice quizzes Record your observations with GPS tags and full information as a field notebook. You may also keep lists, post them, and share your sightings with friends or convert to Excel files for report writing. Download images and sounds to use offline",
     "fullDescription": "With the Birds of Southeast Asia Guide Apps, you can: Identify species by searching their names in different languages (English, Vietnamese, Thai, or the species' scientific name) Learn bird calls by listening to the app's sound files Browse species in gallery view and filter by country, distribution range, shape, size, birding location, colors, etc. Use our bird quiz to test and improve your bird identification skills with multiple-choice quizzes Record your observations with GPS tags and full information as a field notebook. You may also keep lists, post them, and share your sightings with friends or convert to Excel files for report writing. Download images and sounds to use offline",
     "summaryDescription": "With the Birds of Southeast Asia Guide Apps, you can: Identify species by searching their names in different languages (English, Vietnamese, Thai, or the species' scientific name) Learn bird calls by listening to the app's sound files Browse species in gallery view and filter by country, distribution range, shape, size, birding location, colors, etc. Use our bird quiz to test and improve your bird identification skills with multiple-choice quizzes Record your observations with GPS tags and full information as a field notebook. You may also keep lists, post them, and share your sightings with friends or convert to Excel files for report writing. Download images and sounds to use offline",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/38/d5/1038d5d0-bce4-dacc-d752-7da41be0a1ce/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/38/d5/1038d5d0-bce4-dacc-d752-7da41be0a1ce/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/a2/71/daa27141-abf7-b93d-e5ab-46ad4ebc6a2e/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/a2/71/daa27141-abf7-b93d-e5ab-46ad4ebc6a2e/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.jpg",
     "sellerName": "Bao Nguyen",
     "artistName": "Bao Nguyen",
     "screenshotUrls": [
@@ -162419,8 +162475,8 @@
     "description": "Designed for cooking, workouts, kids’ play, study sessions, and productivity, UltraTimer’s clean visuals and color-coded progress arcs make it easy to see your timer at a glance, even from across the room. Features Countdown timer + analog clock (iPad) 6 quick custom presets with icons Visual progress with color feedback Last-minute highlight mode Voice commands and voice anouncements Multiple alarm sounds + voice announcements Light, dark, and system themes Real-time remote timers using Apple's iCloud UltraTimer — extreme simplicity, maximum clarity.",
     "fullDescription": "Designed for cooking, workouts, kids’ play, study sessions, and productivity, UltraTimer’s clean visuals and color-coded progress arcs make it easy to see your timer at a glance, even from across the room. Features Countdown timer + analog clock (iPad) 6 quick custom presets with icons Visual progress with color feedback Last-minute highlight mode Voice commands and voice anouncements Multiple alarm sounds + voice announcements Light, dark, and system themes Real-time remote timers using Apple's iCloud UltraTimer — extreme simplicity, maximum clarity.",
     "summaryDescription": "Designed for cooking, workouts, kids’ play, study sessions, and productivity, UltraTimer’s clean visuals and color-coded progress arcs make it easy to see your timer at a glance, even from across the room. Features Countdown timer + analog clock (iPad) 6 quick custom presets with icons Visual progress with color feedback Last-minute highlight mode Voice commands and voice anouncements Multiple alarm sounds + voice announcements Light, dark, and system themes Real-time remote timers using Apple's iCloud UltraTimer — extreme simplicity, maximum clarity.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/67/93/82679316-9db7-988f-3507-070560ef84f8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/67/93/82679316-9db7-988f-3507-070560ef84f8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/e0/3b/a3e03bca-5faa-1ecb-d1d2-e9c659fc2fa0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/e0/3b/a3e03bca-5faa-1ecb-d1d2-e9c659fc2fa0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Josep Vicent Ibanez Piera",
     "artistName": "Josep Vicent Ibanez Piera",
     "screenshotUrls": [
@@ -162837,8 +162893,8 @@
     "description": "ZapTime 是一款轻量级 iOS 实用应用程序，可预测 iPhone 完成充电所需的时间。与默认的 iOS 指示器不同，ZapTime 使用根据观察到的充电行为、设备规格和手机的实时电池数据构建的智能估计模型。结果是清晰、准确且视觉上干净的 ETA（“充满电所需时间”），显示在一个简单、友好的界面中，可用于快速日常检查。",
     "fullDescription": "ZapTime 是一款轻量级 iOS 实用应用程序，可预测 iPhone 完成充电所需的时间。与默认的 iOS 指示器不同，ZapTime 使用根据观察到的充电行为、设备规格和手机的实时电池数据构建的智能估计模型。结果是清晰、准确且视觉上干净的 ETA（“充满电所需时间”），显示在一个简单、友好的界面中，可用于快速日常检查。",
     "summaryDescription": "ZapTime 是一款轻量级 iOS 实用应用程序，可预测 iPhone 完成充电所需的时间。与默认的 iOS 指示器不同，ZapTime 使用根据观察到的充电行为、设备规格和手机的实时电池数据构建的智能估计模型。结果是清晰、准确且视觉上干净的 ETA（“充满电所需时间”），显示在一个简单、友好的界面中，可用于快速日常检查。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/15/55/551555d7-9754-3c00-356f-c4738d7fc5c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/15/55/551555d7-9754-3c00-356f-c4738d7fc5c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/c9/45/11c945af-f040-5534-b1b5-765e40c7dea8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/c9/45/11c945af-f040-5534-b1b5-765e40c7dea8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Josep Vicent Ibanez Piera",
     "artistName": "Josep Vicent Ibanez Piera",
     "screenshotUrls": [
@@ -200539,9 +200595,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/krypta-ecc/id6754332196?uo=4",
-    "description": "Krypta ECC 是一款注重隐私的通信应用程序，其外观和功能类似于普通计算器，但密码背后隐藏着一个安全的端到端加密聊天系统。它专为想要进行私人对话而不引起注意的用户而设计。一个秘密的计算器 乍一看，Krypta ECC 似乎是一个简单、功能齐全的计算器。您可以执行加法、减法、乘法、除法和百分比计算等常规运算。它的工作原理与任何标准计算器完全相同。但是，当您输入您的个人密码并确认时，",
-    "fullDescription": "Krypta ECC 是一款注重隐私的通信应用程序，其外观和功能类似于普通计算器，但密码背后隐藏着一个安全的端到端加密聊天系统。它专为想要进行私人对话而不引起注意的用户而设计。一个秘密的计算器 乍一看，Krypta ECC 似乎是一个简单、功能齐全的计算器。您可以执行加法、减法、乘法、除法和百分比计算等常规运算。它的工作原理与任何标准计算器完全相同。但是，当您输入您的个人密码并确认时，",
-    "summaryDescription": "Krypta ECC 是一款注重隐私的通信应用程序，其外观和功能类似于普通计算器，但密码背后隐藏着一个安全的端到端加密聊天系统。它专为想要进行私人对话而不引起注意的用户而设计。一个秘密的计算器 乍一看，Krypta ECC 似乎是一个简单、功能齐全的计算器。您可以执行加法、减法、乘法、除法和百分比计算等常规运算。它的工作原理与任何标准计算器完全相同。但是，当您输入您的个人密码并确认时，",
+    "description": "Krypta ECC is a privacy-focused communication app that looks and functions like a regular calculator, but behind a secret code lies a secure, end-to-end encrypted chat system. It's designed for users who want private conversations without drawing attention. A Calculator with a Secret At first glance, Krypta ECC appears to be a simple, fully functional calculator. You can perform normal operations like addition, subtraction, multiplication, division, and percentage calculations. It works exactly as any standard calculator would. However, when you enter your personal secret code and confirm it, the app unlocks a hidden chat interface. Only you know how to access it, making your private messages truly discreet. Private and Secure Messaging Behind the calculator is a fully featured chat system, designed for direct and private communication between users. Each user creates a unique username and a personal app code. The code is stored locally and never shared with any server, ensuring that your access to the chat is entirely secure and private. You can start conversations in two ways: By username: search and connect directly with another Krypta ECC user. By invite link: share or open a secure link that instantly starts a chat connection. The messaging interface is simple and familiar, featuring real-time text communication, timestamps, delivery and read indicators, and privacy settings. You can also block unwanted contacts or report misuse directly in the app. End-to-End Encryption Every message you send or receive is protected with end-to-end encryption (RSA-2048 + AES-256-GCM), meaning only you and your chat partner can read the conversation. Even Krypta ECC's servers cannot decrypt or view your messages. All encryption keys are generated and stored locally on your device, never uploaded or shared. Messages are automatically deleted after delivery, ensuring your conversations remain private and temporary. Powered by Firebase Technology Krypta ECC uses Google Firebase to provide reliability, speed, and scalability: Firestore: Real-time chat and message storage Firebase Authentication: Secure and simple user management Cloud Functions: Serverless automation for invites and moderation Discreet and Intuitive Design The app is designed for maximum discretion. No one will ever suspect there's a hidden chat behind your calculator. You can quickly return to the calculator screen at any time with a simple gesture or tap, making it safe to use in public or shared environments. The interface is clean, minimalist, and familiar. Whether you are calculating something or chatting securely, the experience is smooth, fast, and distraction-free. Privacy by Design Krypta ECC is built around privacy principles. Your personal information, conversations, and contacts are not tracked, analyzed, or sold. Only the essential data required for functionality is stored. The app follows GDPR-compliant data handling and allows you to delete your account and all related data at any time. No advertising, no tracking, no profiling — just secure, private communication. Content Moderation Krypta ECC includes comprehensive content moderation: Automatic filtering of objectionable content Report functionality for inappropriate behavior Block functionality to remove unwanted contacts Developer contact information available in Settings All reports reviewed within 24 hours",
+    "fullDescription": "Krypta ECC is a privacy-focused communication app that looks and functions like a regular calculator, but behind a secret code lies a secure, end-to-end encrypted chat system. It's designed for users who want private conversations without drawing attention. A Calculator with a Secret At first glance, Krypta ECC appears to be a simple, fully functional calculator. You can perform normal operations like addition, subtraction, multiplication, division, and percentage calculations. It works exactly as any standard calculator would. However, when you enter your personal secret code and confirm it, the app unlocks a hidden chat interface. Only you know how to access it, making your private messages truly discreet. Private and Secure Messaging Behind the calculator is a fully featured chat system, designed for direct and private communication between users. Each user creates a unique username and a personal app code. The code is stored locally and never shared with any server, ensuring that your access to the chat is entirely secure and private. You can start conversations in two ways: By username: search and connect directly with another Krypta ECC user. By invite link: share or open a secure link that instantly starts a chat connection. The messaging interface is simple and familiar, featuring real-time text communication, timestamps, delivery and read indicators, and privacy settings. You can also block unwanted contacts or report misuse directly in the app. End-to-End Encryption Every message you send or receive is protected with end-to-end encryption (RSA-2048 + AES-256-GCM), meaning only you and your chat partner can read the conversation. Even Krypta ECC's servers cannot decrypt or view your messages. All encryption keys are generated and stored locally on your device, never uploaded or shared. Messages are automatically deleted after delivery, ensuring your conversations remain private and temporary. Powered by Firebase Technology Krypta ECC uses Google Firebase to provide reliability, speed, and scalability: Firestore: Real-time chat and message storage Firebase Authentication: Secure and simple user management Cloud Functions: Serverless automation for invites and moderation Discreet and Intuitive Design The app is designed for maximum discretion. No one will ever suspect there's a hidden chat behind your calculator. You can quickly return to the calculator screen at any time with a simple gesture or tap, making it safe to use in public or shared environments. The interface is clean, minimalist, and familiar. Whether you are calculating something or chatting securely, the experience is smooth, fast, and distraction-free. Privacy by Design Krypta ECC is built around privacy principles. Your personal information, conversations, and contacts are not tracked, analyzed, or sold. Only the essential data required for functionality is stored. The app follows GDPR-compliant data handling and allows you to delete your account and all related data at any time. No advertising, no tracking, no profiling — just secure, private communication. Content Moderation Krypta ECC includes comprehensive content moderation: Automatic filtering of objectionable content Report functionality for inappropriate behavior Block functionality to remove unwanted contacts Developer contact information available in Settings All reports reviewed within 24 hours",
+    "summaryDescription": "Krypta ECC is a privacy-focused communication app that looks and functions like a regular calculator, but behind a secret code lies a secure, end-to-end encrypted chat system. It's designed for users who want private conversations without drawing attention. A Calculator with a Secret At first glance, Krypta ECC appears to be a simple, fully functional calculator. You can perform normal operations like addition, subtraction, multiplication, division, and percentage calculations. It works exactly as any standard calculator would. However, when you enter your personal secret code and confirm it, the app unlocks a hidden chat interface. Only you know how to access it, making your private messages truly discreet. Private and Secure Messaging Behind the calculator is a fully featured chat system, designed for direct and private communication between users. Each user creates a unique username and a personal app code. The code is stored locally and never shared with any server, ensuring that your access to the chat is entirely secure and private. You can start conversations in two ways: By username: search and connect directly with another Krypta ECC user. By invite link: share or open a secure link that instantly starts a chat connection. The messaging interface is simple and familiar, featuring real-time text communication, timestamps, delivery and read indicators, and privacy settings. You can also block unwanted contacts or report misuse directly in the app. End-to-End Encryption Every message you send or receive is protected with end-to-end encryption (RSA-2048 + AES-256-GCM), meaning only you and your chat partner can read the conversation. Even Krypta ECC's servers cannot decrypt or view your messages. All encryption keys are generated and stored locally on your device, never uploaded or shared. Messages are automatically deleted after delivery, ensuring your conversations remain private and temporary. Powered by Firebase Technology Krypta ECC uses Google Firebase to provide reliability, speed, and scalability: Firestore: Real-time chat and message storage Firebase Authentication: Secure and simple user management Cloud Functions: Serverless automation for invites and moderation Discreet and Intuitive Design The app is designed for maximum discretion. No one will ever suspect there's a hidden chat behind your calculator. You can quickly return to the calculator screen at any time with a simple gesture or tap, making it safe to use in public or shared environments. The interface is clean, minimalist, and familiar. Whether you are calculating something or chatting securely, the experience is smooth, fast, and distraction-free. Privacy by Design Krypta ECC is built around privacy principles. Your personal information, conversations, and contacts are not tracked, analyzed, or sold. Only the essential data required for functionality is stored. The app follows GDPR-compliant data handling and allows you to delete your account and all related data at any time. No advertising, no tracking, no profiling — just secure, private communication. Content Moderation Krypta ECC includes comprehensive content moderation: Automatic filtering of objectionable content Report functionality for inappropriate behavior Block functionality to remove unwanted contacts Developer contact information available in Settings All reports reviewed within 24 hours",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/f0/0f/7bf00f27-3b87-cde0-3f63-9702f7e87886/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/f0/0f/7bf00f27-3b87-cde0-3f63-9702f7e87886/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
     "sellerName": "Connexa GmbH (CH)",
@@ -212221,9 +212277,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/cardwall/id6756186677?uo=4",
-    "description": "CardWall 将您的重要卡片整理在一个简单、私密的地方。存储会员卡、会员卡、保险卡、身份证、医疗卡、名片等的照片。添加注释、标记收藏夹、搜索您的收藏并按类别过滤，以便轻松找到您需要的卡片。您的卡片和照片存储在您的设备本地。 CardWall 还包括备份和恢复功能，因此您可以导出卡片库并安全保存副本。 CardWall Pro 解锁额外的工具，以实现更大、更有条理的卡片收藏： 无限卡片 可搜索标签 面部 ID 锁定，可添加更多内容",
-    "fullDescription": "CardWall 将您的重要卡片整理在一个简单、私密的地方。存储会员卡、会员卡、保险卡、身份证、医疗卡、名片等的照片。添加注释、标记收藏夹、搜索您的收藏并按类别过滤，以便轻松找到您需要的卡片。您的卡片和照片存储在您的设备本地。 CardWall 还包括备份和恢复功能，因此您可以导出卡片库并安全保存副本。 CardWall Pro 解锁额外的工具，以实现更大、更有条理的卡片收藏： 无限卡片 可搜索标签 面部 ID 锁定，可添加更多内容",
-    "summaryDescription": "CardWall 将您的重要卡片整理在一个简单、私密的地方。存储会员卡、会员卡、保险卡、身份证、医疗卡、名片等的照片。添加注释、标记收藏夹、搜索您的收藏并按类别过滤，以便轻松找到您需要的卡片。您的卡片和照片存储在您的设备本地。 CardWall 还包括备份和恢复功能，因此您可以导出卡片库并安全保存副本。 CardWall Pro 解锁额外的工具，以实现更大、更有条理的卡片收藏： 无限卡片 可搜索标签 面部 ID 锁定，可添加更多内容",
+    "description": "CardWall 将您的重要卡片整理在一个简单、私密的地方。存储会员卡、积分卡、保险卡、身份证、医疗卡、名片等的照片。添加注释、标记收藏夹、搜索您的收藏并按类别过滤，以便轻松找到您需要的卡片。您的卡片和照片存储在您的设备本地。 CardWall 还包括备份和恢复功能，因此您可以导出卡片库并确保副本安全。 CardWall Pro 解锁额外的工具，以实现更大、更有条理的卡片收藏： 无限卡片 可搜索标签 面部 ID 锁定，可增加更多功能",
+    "fullDescription": "CardWall 将您的重要卡片整理在一个简单、私密的地方。存储会员卡、积分卡、保险卡、身份证、医疗卡、名片等的照片。添加注释、标记收藏夹、搜索您的收藏并按类别过滤，以便轻松找到您需要的卡片。您的卡片和照片存储在您的设备本地。 CardWall 还包括备份和恢复功能，因此您可以导出卡片库并确保副本安全。 CardWall Pro 解锁额外的工具，以实现更大、更有条理的卡片收藏： 无限卡片 可搜索标签 面部 ID 锁定，可增加更多功能",
+    "summaryDescription": "CardWall 将您的重要卡片整理在一个简单、私密的地方。存储会员卡、积分卡、保险卡、身份证、医疗卡、名片等的照片。添加注释、标记收藏夹、搜索您的收藏并按类别过滤，以便轻松找到您需要的卡片。您的卡片和照片存储在您的设备本地。 CardWall 还包括备份和恢复功能，因此您可以导出卡片库并确保副本安全。 CardWall Pro 解锁额外的工具，以实现更大、更有条理的卡片收藏： 无限卡片 可搜索标签 面部 ID 锁定，可增加更多功能",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/b2/be/a3b2bede-89f7-1f99-75c0-d02fe716802a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/b2/be/a3b2bede-89f7-1f99-75c0-d02fe716802a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Wolfram Wacker",
@@ -213975,9 +214031,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/cardstar/id6756068591?uo=4",
-    "description": "CardStar 是一款适用于 iPhone、iPad 和 Apple Silicon Mac 的现代闪存卡应用程序，可帮助您按照自己的方式创建和组织卡片并学习卡片组。创建卡片并将它们组织成针对不同主题、科目或项目的单独卡片组。使用 CardStar 进行学习、复习、语言、事实、参考资料集等等。 CardStar 还包括强大的测验功能以及在启用 Apple Intelligence 的设备上生成设备上 AI 卡片的功能。根据您自己的提示生成完整的学习集，查看结果并将其保存为新的卡集。无论您想建立自己的工作室",
-    "fullDescription": "CardStar 是一款适用于 iPhone、iPad 和 Apple Silicon Mac 的现代闪存卡应用程序，可帮助您按照自己的方式创建和组织卡片并学习卡片组。创建卡片并将它们组织成针对不同主题、科目或项目的单独卡片组。使用 CardStar 进行学习、复习、语言、事实、参考资料集等等。 CardStar 还包括强大的测验功能以及在启用 Apple Intelligence 的设备上生成设备上 AI 卡片的功能。根据您自己的提示生成完整的学习集，查看结果并将其保存为新的卡集。无论您想建立自己的工作室",
-    "summaryDescription": "CardStar 是一款适用于 iPhone、iPad 和 Apple Silicon Mac 的现代闪存卡应用程序，可帮助您按照自己的方式创建和组织卡片并学习卡片组。创建卡片并将它们组织成针对不同主题、科目或项目的单独卡片组。使用 CardStar 进行学习、复习、语言、事实、参考资料集等等。 CardStar 还包括强大的测验功能以及在启用 Apple Intelligence 的设备上生成设备上 AI 卡片的功能。根据您自己的提示生成完整的学习集，查看结果并将其保存为新的卡集。无论您想建立自己的工作室",
+    "description": "CardStar 是一款适用于 iPhone、iPad 和 Apple Silicon Mac 的现代闪存卡应用程序，可帮助您按照自己的方式创建和组织卡片并学习卡片组。创建卡片并将它们组织成针对不同主题、主题或项目的单独卡片组。使用 CardStar 进行学习、复习、语言、事实、参考资料集等等。 CardStar 还包括强大的测验功能以及在启用 Apple Intelligence 的设备上生成设备上 AI 卡片的功能。根据您自己的提示生成完整的学习集，查看结果并将其保存为新的卡集。无论您想建立自己的工作室",
+    "fullDescription": "CardStar 是一款适用于 iPhone、iPad 和 Apple Silicon Mac 的现代闪存卡应用程序，可帮助您按照自己的方式创建和组织卡片并学习卡片组。创建卡片并将它们组织成针对不同主题、主题或项目的单独卡片组。使用 CardStar 进行学习、复习、语言、事实、参考资料集等等。 CardStar 还包括强大的测验功能以及在启用 Apple Intelligence 的设备上生成设备上 AI 卡片的功能。根据您自己的提示生成完整的学习集，查看结果并将其保存为新的卡集。无论您想建立自己的工作室",
+    "summaryDescription": "CardStar 是一款适用于 iPhone、iPad 和 Apple Silicon Mac 的现代闪存卡应用程序，可帮助您按照自己的方式创建和组织卡片并学习卡片组。创建卡片并将它们组织成针对不同主题、主题或项目的单独卡片组。使用 CardStar 进行学习、复习、语言、事实、参考资料集等等。 CardStar 还包括强大的测验功能以及在启用 Apple Intelligence 的设备上生成设备上 AI 卡片的功能。根据您自己的提示生成完整的学习集，查看结果并将其保存为新的卡集。无论您想建立自己的工作室",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/33/55/453355e9-66c5-f218-40ba-7710c56052a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/33/55/453355e9-66c5-f218-40ba-7710c56052a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Wolfram Wacker",
@@ -214502,8 +214558,8 @@
     "description": "eSIM Subscription 是一款专为管理 eSIM 套餐与订阅信息打造的工具。 你可以轻松记录每一张 eSIM 的名称、运营商、国家或地区、套餐费用、到期时间、二维码以及备注信息，将所有数据集中管理，一目了然。通过内置提醒功能，不再错过续费时间，也不会忘记任何一张正在使用的卡。 应用支持多语言与桌面小组件，让你随时快速查看当前 eSIM 状态，信息尽在掌握。 无论是出国旅行、跨境工作，还是长期管理多张 eSIM，eSIM Subscription 都能帮你更高效地整理和追踪每一份套餐，让管理变得简单清晰。",
     "fullDescription": "eSIM Subscription 是一款专为管理 eSIM 套餐与订阅信息打造的工具。 你可以轻松记录每一张 eSIM 的名称、运营商、国家或地区、套餐费用、到期时间、二维码以及备注信息，将所有数据集中管理，一目了然。通过内置提醒功能，不再错过续费时间，也不会忘记任何一张正在使用的卡。 应用支持多语言与桌面小组件，让你随时快速查看当前 eSIM 状态，信息尽在掌握。 无论是出国旅行、跨境工作，还是长期管理多张 eSIM，eSIM Subscription 都能帮你更高效地整理和追踪每一份套餐，让管理变得简单清晰。",
     "summaryDescription": "eSIM Subscription 是一款专为管理 eSIM 套餐与订阅信息打造的工具。 你可以轻松记录每一张 eSIM 的名称、运营商、国家或地区、套餐费用、到期时间、二维码以及备注信息，将所有数据集中管理，一目了然。通过内置提醒功能，不再错过续费时间，也不会忘记任何一张正在使用的卡。 应用支持多语言与桌面小组件，让你随时快速查看当前 eSIM 状态，信息尽在掌握。 无论是出国旅行、跨境工作，还是长期管理多张 eSIM，eSIM Subscription 都能帮你更高效地整理和追踪每一份套餐，让管理变得简单清晰。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/59/32/ea59324b-b662-3743-7a01-a17aa712f092/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/59/32/ea59324b-b662-3743-7a01-a17aa712f092/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/94/ae/5a94ae68-9e2d-0300-9260-6e7f61a85f72/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/94/ae/5a94ae68-9e2d-0300-9260-6e7f61a85f72/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "文杰 茅",
     "artistName": "文杰 茅",
     "screenshotUrls": [
@@ -218694,104 +218750,6 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/ff/1b/1dff1b62-0363-636e-4d9b-a0c5a9154cc9/05_focus_reading.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/23/28/d7232805-cee5-6854-aa6d-b68d8045feb0/06_library_resume_search.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/8d/60/ed8d6089-608b-f6fe-b3d4-45d46733b848/07_local_adfree_trust.png/320x480bb.jpg"
-    ],
-    "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1776924346902
-  },
-  "6761693641": {
-    "name": "温度计：数字室内",
-    "trackName": "温度计：数字室内",
-    "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "Digital Thermometer Lifetime": "¥38.00",
-      "Digital Thermometer Monthly": "¥15.00"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "Digital Thermometer Lifetime": "¥22.00",
-      "Digital Thermometer Monthly": "¥15.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1779105095652,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {
-            "Digital Thermometer Lifetime": "¥38.00",
-            "Digital Thermometer Monthly": "¥15.00"
-          }
-        }
-      ],
-      [
-        {
-          "timestamp": 1778971356868,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {
-            "Digital Thermometer Lifetime": "¥22.00",
-            "Digital Thermometer Monthly": "¥15.00"
-          }
-        }
-      ],
-      [
-        {
-          "timestamp": 1778873239523,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {
-            "Digital Thermometer Lifetime": "¥28.00",
-            "Digital Thermometer Monthly": "¥15.00"
-          }
-        }
-      ],
-      [
-        {
-          "timestamp": 1777443770876,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {
-            "Digital Thermometer Lifetime": "¥38.00",
-            "Digital Thermometer Monthly": "¥15.00"
-          }
-        }
-      ],
-      [
-        {
-          "timestamp": 1776924346942,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%B8%A9%E5%BA%A6%E8%AE%A1-%E6%95%B0%E5%AD%97%E5%AE%A4%E5%86%85/id6761693641?uo=4",
-    "description": "将您的智能手机变成高精度数字温度计。温度计：数字室内温度是测量室温、室外天气和室内湿度的终极日常工具。 通过经典数字7段显示屏实时提供精确的气候数据。 主要功能 实时室内温度：精确测量室内外温度。 详细气候数据：监测湿度、每日最高和最低温度。 复古数字界面：经典LCD数字设计，独特出众。 可定制主题：适合白天和夜晚使用的颜色主题。 横向和竖向模式：作为桌面气候站使用。 摄氏与华氏：一键切换。 实时数字时钟：显示时、分、秒。 立即下载，随时掌握您的室内气候！ Privacy Policy: https://doc-hosting.flycricket.io/thermometer-digital-room-privacy-policy/c719a547-7e09-4fb8-ad5e-f7861af7a9d8/privacy Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "fullDescription": "将您的智能手机变成高精度数字温度计。温度计：数字室内温度是测量室温、室外天气和室内湿度的终极日常工具。 通过经典数字7段显示屏实时提供精确的气候数据。 主要功能 实时室内温度：精确测量室内外温度。 详细气候数据：监测湿度、每日最高和最低温度。 复古数字界面：经典LCD数字设计，独特出众。 可定制主题：适合白天和夜晚使用的颜色主题。 横向和竖向模式：作为桌面气候站使用。 摄氏与华氏：一键切换。 实时数字时钟：显示时、分、秒。 立即下载，随时掌握您的室内气候！ Privacy Policy: https://doc-hosting.flycricket.io/thermometer-digital-room-privacy-policy/c719a547-7e09-4fb8-ad5e-f7861af7a9d8/privacy Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "summaryDescription": "将您的智能手机变成高精度数字温度计。温度计：数字室内温度是测量室温、室外天气和室内湿度的终极日常工具。 通过经典数字7段显示屏实时提供精确的气候数据。 主要功能 实时室内温度：精确测量室内外温度。 详细气候数据：监测湿度、每日最高和最低温度。 复古数字界面：经典LCD数字设计，独特出众。 可定制主题：适合白天和夜晚使用的颜色主题。 横向和竖向模式：作为桌面气候站使用。 摄氏与华氏：一键切换。 实时数字时钟：显示时、分、秒。 立即下载，随时掌握您的室内气候！ Privacy Policy: https://doc-hosting.flycricket.io/thermometer-digital-room-privacy-policy/c719a547-7e09-4fb8-ad5e-f7861af7a9d8/privacy Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ee/e9/9feee9fe-47af-7665-137b-6d0430fad396/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ee/e9/9feee9fe-47af-7665-137b-6d0430fad396/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "sellerName": "tirin bilgi teknolojileri ticaret limited sirketi",
-    "artistName": "Tirin",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/dc/24/fddc241a-409f-f516-ce05-68b6fb592d08/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-06_at_00.15.05.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/31/c2/e131c23a-4604-aca3-0cb8-33a2a0b473d5/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-06_at_00.15.18.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/2b/f5/652bf584-96ff-6771-e5e1-895bef6b5dd3/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-06_at_00.15.24.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/bf/9d/7fbf9d5d-4e94-5d1e-098c-bda41c0890a2/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-06_at_00.18.21.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/75/93/bf759315-0dae-0693-0447-4b01e2a74277/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-06_at_00.15.09.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/5e/47/835e478e-8f8d-adfe-1a66-936a47228cf6/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-06_at_00.15.13.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/77/1e/9f771ee4-e940-3f2d-c06f-9749588e5c1b/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-06_at_00.15.37.png/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/76/4a/fe764a43-21fd-cc70-d849-da5e7a19ad14/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-04-06_at_00.19.54.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/dd/ee/42ddeee8-27e2-af93-cd91-211824be8d66/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-04-06_at_00.20.08.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/ae/a6/f9aea607-1c53-bfae-4a3c-fefc6bb7814f/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-04-06_at_00.20.13.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/07/df/7207df81-a530-da94-03ad-f038996492c3/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-04-06_at_00.20.04.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/83/ce/fc83cef5-dfa9-9aab-ddf5-06ecc6342deb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-04-06_at_00.19.59.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/8d/95/688d95e1-9de5-0e4b-dd0e-fca77ff6f664/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-04-06_at_00.20.01.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/a1/2a/0aa12a25-8848-eb1d-20b6-3f87d6f5f4fa/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-04-06_at_00.19.57.png/360x480bb.jpg"
     ],
     "_externalSource": "OODATA",
     "_externalSourceFirstSeen": 1776924346902
