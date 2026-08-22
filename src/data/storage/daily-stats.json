@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1787442756539,
+    "cn": {
+      "total": 3,
+      "price": 2,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6757269133,
+          "name": "GlobalScan Pro: PDF Scanner",
+          "type": "price",
+          "detail": "¥38.00 → ¥22.00"
+        },
+        {
+          "id": 6740407542,
+          "name": "BarGenius - Mixology App",
+          "type": "iap",
+          "detail": "Lifetime Pro: ¥298.00 → ¥0.00"
+        },
+        {
+          "id": 1661349178,
+          "name": "Vurbit：意大利语动词",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787427589486,
     "cn": {
       "total": 2,
@@ -3847,28 +3875,6 @@
           "name": "房价-国家统计局房价行情数据统计",
           "type": "price",
           "detail": "¥18.00 → ¥1.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786572874285,
-    "cn": {
-      "total": 2,
-      "price": 1,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 1156018315,
-          "name": "JPEG Jackal",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 573916046,
-          "name": "Fitness Point Pro: 健身与居家",
-          "type": "iap",
-          "detail": "Expert: ¥38.00 → ¥19.00"
         }
       ]
     }
