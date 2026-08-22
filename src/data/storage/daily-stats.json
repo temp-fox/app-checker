@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": 1787372693114,
+    "cn": {
+      "total": 8,
+      "price": 6,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6781997361,
+          "name": "LUT工坊：相机风格",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6759631839,
+          "name": "抽签大王",
+          "type": "iap",
+          "detail": "抽签大王专业版: ¥8.00 → ¥0.00"
+        },
+        {
+          "id": 6756459946,
+          "name": "中英输入法",
+          "type": "iap",
+          "detail": "永久会员: ¥258.00 → ¥171.00"
+        },
+        {
+          "id": 6786425249,
+          "name": "Cinder - compress videos",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6787141171,
+          "name": "Velora Player: Video & Audio",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6749509377,
+          "name": "简忆：Anki记忆卡片，AI间隔复习",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6747093581,
+          "name": "GitHubba - Discover Repos",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6774022961,
+          "name": "Findit - Search Your Screen",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787365793551,
     "cn": {
       "total": 7,
@@ -3809,40 +3867,6 @@
           "name": "Wachteroids",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786503840971,
-    "cn": {
-      "total": 4,
-      "price": 3,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6747823925,
-          "name": "族谱制作",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6761967682,
-          "name": "BeautyNote : 美业笔记·客户款式管理、记账",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 284942940,
-          "name": "Morse-It",
-          "type": "iap",
-          "detail": "Morse-it Social Club: ¥298.00 → ¥28.00"
-        },
-        {
-          "id": 1610874968,
-          "name": "Amuse: Music Player",
-          "type": "price",
-          "detail": "¥28.00 → ¥8.00"
         }
       ]
     }

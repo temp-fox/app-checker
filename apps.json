@@ -2,6 +2,110 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6786552995,
+      "name": {
+        "cn": "帛书道德经"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787367126966,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768178621,
+      "name": {
+        "cn": "回忆胶囊：照片盲盒"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787367178013,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6742640564,
+      "name": {
+        "cn": "Digital Detox - NoPhone"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787367178013,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6789642091,
+      "name": {
+        "cn": "AI Calorie Counter - Calery"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787367178013,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6786425249,
+      "name": {
+        "cn": "Cinder - compress videos"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787367178013,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787141171,
+      "name": {
+        "cn": "Velora Player: Video & Audio"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787367178013,
+      "_discountType": "app"
+    },
+    {
+      "id": 6749509377,
+      "name": {
+        "cn": "简忆：Anki记忆卡片，AI间隔复习"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787367178013,
+      "_discountType": "app"
+    },
+    {
+      "id": 6747093581,
+      "name": {
+        "cn": "GitHubba - Discover Repos"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787367178013,
+      "_discountType": "app"
+    },
+    {
+      "id": 6774022961,
+      "name": {
+        "cn": "Findit - Search Your Screen"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787367178014,
+      "_discountType": "app"
+    },
+    {
       "id": 896353586,
       "name": {
         "cn": "围棋照相机"
