@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 545172723,
+      "name": {
+        "cn": "My Body - Anatomy for Kids"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787423126023,
+      "_discountType": "app"
+    },
+    {
+      "id": 589698282,
+      "name": {
+        "cn": "Massage Techniques"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787423123324,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796013615,
+      "name": {
+        "cn": "爱百家姓"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787423117564,
+      "_discountType": "app"
+    },
+    {
+      "id": 6783939131,
+      "name": {
+        "cn": "房东账本"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787423125888,
+      "_discountType": "app"
+    },
+    {
       "id": 390389853,
       "name": {
         "cn": "Deutsche Rechtschreibung PONS"
