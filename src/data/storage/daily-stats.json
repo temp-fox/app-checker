@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": 1787365793551,
+    "cn": {
+      "total": 7,
+      "price": 2,
+      "iap": 5,
+      "apps": [
+        {
+          "id": 6790564711,
+          "name": "Photos 2 PDF Pro",
+          "type": "price",
+          "detail": "¥68.00 → ¥22.00"
+        },
+        {
+          "id": 430798174,
+          "name": "HazeOver • 分心调光器",
+          "type": "price",
+          "detail": "¥68.00 → ¥48.00"
+        },
+        {
+          "id": 629019487,
+          "name": "Remote, Mouse & Keyboard",
+          "type": "iap",
+          "detail": "Remote Mouse Pro - forever: ¥148.00 → ¥68.00"
+        },
+        {
+          "id": 6762709553,
+          "name": "图梦抠图:消除路人图片去水印一键抠图修图大师",
+          "type": "iap",
+          "detail": "图梦终身会员: ¥128.00 → ¥88.00"
+        },
+        {
+          "id": 6762709553,
+          "name": "图梦抠图:消除路人图片去水印一键抠图修图大师",
+          "type": "iap",
+          "detail": "图梦永久会员: ¥128.00 → ¥88.00"
+        },
+        {
+          "id": 680170305,
+          "name": "7 Minute Workout Challenge",
+          "type": "iap",
+          "detail": "Bonus Workout Pack 4: ¥15.00 → ¥0.00"
+        },
+        {
+          "id": 932191687,
+          "name": "KORG Module Pro",
+          "type": "iap",
+          "detail": "Petrichor: ¥68.00 → ¥0.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787355878608,
     "cn": {
       "total": 2,
@@ -3791,22 +3843,6 @@
           "name": "Amuse: Music Player",
           "type": "price",
           "detail": "¥28.00 → ¥8.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786492663716,
-    "cn": {
-      "total": 1,
-      "price": 0,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6739532518,
-          "name": "DisabilityApp",
-          "type": "iap",
-          "detail": "Where would you like to go?: ¥98.00 → ¥15.00"
         }
       ]
     }

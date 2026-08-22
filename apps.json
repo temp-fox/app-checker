@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 896353586,
+      "name": {
+        "cn": "围棋照相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787360563844,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763543856,
+      "name": {
+        "cn": "极简下载器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787360563844,
+      "_discountType": "app"
+    },
+    {
       "id": 1016163162,
       "name": {
         "cn": "Exif 查看器 · 发现照片背后的故事"
@@ -52053,7 +52075,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1778467958379,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "allowNotification": false
     },
     {
       "id": 6743485414,
