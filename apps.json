@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6792506693,
+      "name": {
+        "cn": "小号来电识别"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787372976431,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780608226,
+      "name": {
+        "cn": "止息"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787372976431,
+      "_discountType": "app"
+    },
+    {
       "id": 6786552995,
       "name": {
         "cn": "帛书道德经"

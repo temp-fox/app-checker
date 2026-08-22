@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1787379939968,
+    "cn": {
+      "total": 3,
+      "price": 1,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6801204237,
+          "name": "起了吗",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        },
+        {
+          "id": 6780071655,
+          "name": "Intenty: Intention Journal",
+          "type": "iap",
+          "detail": "Lifetime: ¥398.00 → ¥0.00"
+        },
+        {
+          "id": 6779157571,
+          "name": "私密照片保险箱 - Arca",
+          "type": "iap",
+          "detail": "Arca Premium Lifetime: ¥148.00 → ¥68.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787372693114,
     "cn": {
       "total": 8,
@@ -3791,82 +3819,6 @@
           "name": "Easy记账 - 个人家庭记账财务管理工具",
           "type": "price",
           "detail": "¥12.00 → ¥6.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786512576282,
-    "cn": {
-      "total": 11,
-      "price": 10,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6790679680,
-          "name": "光度计-灯光照度",
-          "type": "iap",
-          "detail": "终身会员: ¥88.00 → ¥0.00"
-        },
-        {
-          "id": 6747053393,
-          "name": "Coinverter+ 加密货币 & 法币",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6763995735,
-          "name": "干瞪眼计分器-豪华版",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6777280757,
-          "name": "觅静：ASMR白噪音与鸟叫声识别",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6746649752,
-          "name": "MagicKit Pro：AI智能工具箱",
-          "type": "price",
-          "detail": "¥28.00 → ¥15.00"
-        },
-        {
-          "id": 6757943661,
-          "name": "阿福出境管家（原签证大师）",
-          "type": "price",
-          "detail": "¥18.00 → ¥8.00"
-        },
-        {
-          "id": 1542317784,
-          "name": "房价-国家统计局房价行情数据统计",
-          "type": "price",
-          "detail": "¥18.00 → ¥6.00"
-        },
-        {
-          "id": 1460774889,
-          "name": "Stellar Photo Recovery",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6794079050,
-          "name": "Watermelon Maestro",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6447579801,
-          "name": "SignCloudNine: Signage",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6449465941,
-          "name": "Wachteroids",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
