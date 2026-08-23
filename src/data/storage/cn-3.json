@@ -34290,12 +34290,23 @@
       "Weekly premium": "¥22.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "Yearly premium": "¥198.00",
       "Weekly premium": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787502146206,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Yearly premium": "¥198.00",
+            "Weekly premium": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787350944369,
@@ -54591,7 +54602,8 @@
       "ROBO FISH 04": "¥15.00",
       "ROBO FISH 05": "¥15.00",
       "ROBO FISH 06": "¥15.00",
-      "WHITE KITTY FISH": "¥15.00"
+      "WHITE KITTY FISH": "¥15.00",
+      "GHOST BRIDE": "¥15.00"
     },
     "minPriceInfo": {
       "price": 12,
@@ -54627,9 +54639,29 @@
       "ROBO FISH 04": "¥15.00",
       "ROBO FISH 05": "¥15.00",
       "ROBO FISH 06": "¥15.00",
-      "WHITE KITTY FISH": "¥15.00"
+      "WHITE KITTY FISH": "¥15.00",
+      "GHOST BRIDE": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787502146206,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "GHOST BRIDE": "¥15.00",
+            "RED-WHITE RYUKIN": "¥15.00",
+            "RED RYUKIN": "¥15.00",
+            "ORANGE & WHITE KITTY FISH": "¥15.00",
+            "CALICO RED/WHITE/BLACK": "¥15.00",
+            "ORANGE/WHITE": "¥15.00",
+            "BLACK KITTY FISH": "¥15.00",
+            "PANDA TELESCOPE": "¥15.00",
+            "ROBO FISH 02": "¥15.00",
+            "CALICO KITTY FISH": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785006390888,
@@ -104807,8 +104839,8 @@
     "name": "A4Pad – Annotate, Merge PDF",
     "trackName": "A4Pad – Annotate, Merge PDF",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00",
+      "price": 28,
+      "formattedPrice": "¥28.00",
       "A4Pad Unlimited": "¥28.00"
     },
     "minPriceInfo": {
@@ -104817,6 +104849,16 @@
       "A4Pad Unlimited": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787502146206,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "A4Pad Unlimited": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784802162696,
@@ -190215,10 +190257,21 @@
       "price": 0,
       "formattedPrice": "免费",
       "Detours - Ad-free": "¥28.00",
-      "Detours Pro": "¥128.00",
+      "Detours Pro": "¥58.00",
       "Detours Pro - Promo": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787502146206,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Detours Pro": "¥58.00",
+            "Detours Pro - Promo": "¥58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776437700880,
