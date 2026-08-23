@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 863725168,
+      "name": {
+        "cn": "资金记录 已付费"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787447256316,
+      "_discountType": "app"
+    },
+    {
+      "id": 885897191,
+      "name": {
+        "cn": "家庭预算管理 已付费"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787447256316,
+      "_discountType": "app"
+    },
+    {
+      "id": 1446201476,
+      "name": {
+        "cn": "BoomBar"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787447264368,
+      "_discountType": "app"
+    },
+    {
+      "id": 1531115545,
+      "name": {
+        "cn": "Moby Thesaurus - extended"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787447248352,
+      "_discountType": "app"
+    },
+    {
+      "id": 6698889140,
+      "name": {
+        "cn": "FishM - Fishing Log"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787447245746,
+      "_discountType": "app"
+    },
+    {
       "id": 1226886357,
       "name": {
         "cn": "赞美诗-传统版"
