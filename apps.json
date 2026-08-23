@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 448287864,
+      "name": {
+        "cn": "手工皂计算 - 配方与皂化助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787523549734,
+      "_discountType": "app"
+    },
+    {
+      "id": 954197452,
+      "name": {
+        "cn": "SoapLab - 手工皂实验室"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787523552892,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760274564,
+      "name": {
+        "cn": "PoseShot - Camera&Composition"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787523544238,
+      "_discountType": "app"
+    },
+    {
       "id": 1591023765,
       "name": {
         "cn": "眼保健操开始"

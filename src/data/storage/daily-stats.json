@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1787528747520,
+    "cn": {
+      "total": 3,
+      "price": 2,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6754876029,
+          "name": "stashy",
+          "type": "price",
+          "detail": "¥58.00 → 免费"
+        },
+        {
+          "id": 1442926006,
+          "name": "MiniTube Player",
+          "type": "price",
+          "detail": "¥15.00 → ¥3.00"
+        },
+        {
+          "id": 6761574508,
+          "name": "Über Umwege - Stadt erkunden",
+          "type": "iap",
+          "detail": "Detours Pro - Promo: ¥58.00 → ¥38.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787514948649,
     "cn": {
       "total": 8,
@@ -3867,34 +3895,6 @@
           "name": "RPGEmu - RPG Maker视觉小说们",
           "type": "price",
           "detail": "¥38.00 → ¥18.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786652376059,
-    "cn": {
-      "total": 3,
-      "price": 3,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6746252163,
-          "name": "Conjugaid - 日语动词助手",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6759285903,
-          "name": "Otoo",
-          "type": "price",
-          "detail": "¥48.00 → ¥28.00"
-        },
-        {
-          "id": 6468171620,
-          "name": "CES Test: Seagull Training",
-          "type": "price",
-          "detail": "¥68.00 → ¥38.00"
         }
       ]
     }
