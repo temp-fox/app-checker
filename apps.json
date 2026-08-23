@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1591023765,
+      "name": {
+        "cn": "眼保健操开始"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787516370094,
+      "_discountType": "app"
+    },
+    {
+      "id": 6749402197,
+      "name": {
+        "cn": "无聊的电话"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787516375389,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797693539,
+      "name": {
+        "cn": "AshPlayer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787516383188,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787886297,
+      "name": {
+        "cn": "疯狂钓鱼-for watch"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787516383188,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797660418,
+      "name": {
+        "cn": "系统宝石学笔记"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787516383511,
+      "_discountType": "app"
+    },
+    {
       "id": 371994255,
       "name": {
         "cn": "学习 意大利语 - EuroTalk"
