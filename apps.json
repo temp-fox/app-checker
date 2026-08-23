@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1045232863,
+      "name": {
+        "cn": "阻止广告 - 专业 - 广告拦截"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787459659612,
+      "_discountType": "app"
+    },
+    {
+      "id": 1457327380,
+      "name": {
+        "cn": "Dark Mode for Safari"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787459659612,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781749180,
+      "name": {
+        "cn": "暗光 - 网页深浅自动切换"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787459659612,
+      "_discountType": "app"
+    },
+    {
       "id": 350913803,
       "name": {
         "cn": "Singing Vocal Warm Ups - Singer's Friend"
