@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1787480106314,
+    "cn": {
+      "total": 3,
+      "price": 1,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6758605905,
+          "name": "RoastCam - Vibe Check",
+          "type": "iap",
+          "detail": "RoastCam Pro: ¥38.00 → ¥0.00"
+        },
+        {
+          "id": 6772648377,
+          "name": "Hydrate or Diedrate Water Log",
+          "type": "iap",
+          "detail": "Hydrate or Diedrate: ¥38.00 → ¥28.00"
+        },
+        {
+          "id": 6781190371,
+          "name": "Private LLM Chat: PocketMind",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787471752582,
     "cn": {
       "total": 2,
@@ -3861,22 +3889,6 @@
           "name": "GitJournal",
           "type": "iap",
           "detail": "Monthly Subscription: ¥83.00 → ¥78.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786610915064,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6743553625,
-          "name": "Pomodrop: Focus & Breathing",
-          "type": "price",
-          "detail": "¥28.00 → ¥15.00"
         }
       ]
     }

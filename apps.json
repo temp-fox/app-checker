@@ -2,6 +2,105 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 498056830,
+      "name": {
+        "cn": "Diagnosekoder ICD-10"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787473547251,
+      "_discountType": "app"
+    },
+    {
+      "id": 1272541874,
+      "name": {
+        "cn": "Label Pics"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787473544552,
+      "_discountType": "app"
+    },
+    {
+      "id": 1534541160,
+      "name": {
+        "cn": "Human Reproductive System"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787473544552,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789764524,
+      "name": {
+        "cn": "螺丝规格助手-螺栓螺纹查询2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787473530631,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786560987,
+      "name": {
+        "cn": "图表大师-数据可视化柱状折线饼图统计制作助手工具专版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787473536301,
+      "_discountType": "app"
+    },
+    {
+      "id": 6784488049,
+      "name": {
+        "cn": "视频日记-每日一秒vlog时光轴回放本地私密手账记录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787473536436,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761677847,
+      "name": {
+        "cn": "Stillwave: 旅途不再摇晃"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787473541850,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763529321,
+      "name": {
+        "cn": "小白学麻将"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787473544354,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782344928,
+      "name": {
+        "cn": "英语词缀记忆卡本地版2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787473544552,
+      "_discountType": "app"
+    },
+    {
       "id": 1045232863,
       "name": {
         "cn": "阻止广告 - 专业 - 广告拦截"
@@ -5858,7 +5957,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1786424748462,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6794994417,
