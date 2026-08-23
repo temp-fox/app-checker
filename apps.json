@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1241569778,
+      "name": {
+        "cn": "文件打印机-无线WiFi打印机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787494874986,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779552510,
+      "name": {
+        "cn": "GT7 调校计算器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787494874986,
+      "_discountType": "app"
+    },
+    {
+      "id": 6777662708,
+      "name": {
+        "cn": "GeoPin：GPS定位与指南针"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787494883350,
+      "_discountType": "app"
+    },
+    {
       "id": 6785550835,
       "name": {
         "cn": "LomoHi"

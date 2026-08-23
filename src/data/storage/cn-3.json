@@ -14389,10 +14389,18 @@
       "formattedPrice": "¥1.00"
     },
     "minPriceInfo": {
-      "price": 1,
-      "formattedPrice": "¥1.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787494913518,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772375272895,
@@ -113538,6 +113546,14 @@
     "history": [
       [
         {
+          "timestamp": 1787494913518,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1782225812921,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -128892,6 +128908,20 @@
       "Lifetime access": "¥328.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787494913518,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Superset Pro Yearly": "¥398.00",
+            "Superset Pro Monthly": "¥58.00",
+            "Lifetime access": "¥998.00",
+            "Buy Me a Shake": "¥38.00",
+            "Spot Me a Plate": "¥98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787360600307,
@@ -170129,6 +170159,14 @@
     "history": [
       [
         {
+          "timestamp": 1787494913518,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785426866636,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -186421,6 +186459,14 @@
       "Piksi pro monthly": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787494913518,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786539744311,
@@ -214790,6 +214836,12 @@
     "history": [
       [
         {
+          "timestamp": 1787494913518,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1787459694467,
           "price": 0,
           "formattedPrice": "免费",
@@ -222646,92 +222698,5 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/1d/06/cf1d06da-08f4-0d19-448e-90077ed4a28d/66.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1776763449634
-  },
-  "6480389336": {
-    "name": "庇护所",
-    "trackName": "庇护所",
-    "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00"
-    },
-    "minPriceInfo": {
-      "price": 6,
-      "formattedPrice": "¥6.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1785683044362,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1782828824099,
-          "price": 6,
-          "formattedPrice": "¥6.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1782741783103,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1780240650768,
-          "price": 6,
-          "formattedPrice": "¥6.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1777996329876,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1776763472704,
-          "price": 6,
-          "formattedPrice": "¥6.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%BA%87%E6%8A%A4%E6%89%80/id6480389336?uo=4",
-    "description": "伴随着震动与恐惧，庇护所的闸门在你身后打开。在这个严酷的后末日时代，你将如何保证家的延续？ 《庇护所》是一款后末日题材的模拟经营游戏，重新定义了什么叫做“核后家庭”。你作为幸存者，必须收集尽可能多的补给品，将它们带到你的地下庇护所，因为在荒芜的未来这里很快就会成为你唯一的家。 当所有希望都破灭，你会如何对待这个荒凉的新世界？当你每天面对无数的道德考验与选择时，你会怎么办？因为这个选择可能直接决定你家庭的生或死。在生命的苦痛中，在这个冰冷可怖的地下庇护所中，与幽闭，辐射，精疲力竭做斗争。你必须离开这个缺乏保障的庇护所，到外面去，到这个荒无人烟的废土中，找寻必要的补给，哪怕是只能让你的家庭再多活一天的补给。 经营你的避难所：保证它的安全与舒适，确保你的家庭有足够的资源生存下去。保护你的免受掠夺与骚扰！ 自定义形象：你的家庭对你来说是独一无二的；你可以自定义他们的性别、名字与外观。 RPG元素：随着你家庭的发展，他们的状态也会随之进化。属性，优势，劣势这些都会因你的选择而变化。 合成系统：创造用于生活的家具，或是用于战斗的武器。 探索：派出你的家庭成员探索并收集资源 雇佣系统：雇佣形形色色的外来者，让他们融入你的家庭，获得他们的忠诚。 动态遭遇系统：你的家庭会遭遇各种各样的威胁，比如不同派系间的争斗，或者是残忍的野兽。 回合制战斗：对那些不可理喻的人，暴力是你最后的手段。 宠物：你的宠物也是家庭的一员。选择狗，猫，鱼，蛇或者马成为你的宠物。 车辆：让探索变得更快更安全。",
-    "fullDescription": "伴随着震动与恐惧，庇护所的闸门在你身后打开。在这个严酷的后末日时代，你将如何保证家的延续？ 《庇护所》是一款后末日题材的模拟经营游戏，重新定义了什么叫做“核后家庭”。你作为幸存者，必须收集尽可能多的补给品，将它们带到你的地下庇护所，因为在荒芜的未来这里很快就会成为你唯一的家。 当所有希望都破灭，你会如何对待这个荒凉的新世界？当你每天面对无数的道德考验与选择时，你会怎么办？因为这个选择可能直接决定你家庭的生或死。在生命的苦痛中，在这个冰冷可怖的地下庇护所中，与幽闭，辐射，精疲力竭做斗争。你必须离开这个缺乏保障的庇护所，到外面去，到这个荒无人烟的废土中，找寻必要的补给，哪怕是只能让你的家庭再多活一天的补给。 经营你的避难所：保证它的安全与舒适，确保你的家庭有足够的资源生存下去。保护你的免受掠夺与骚扰！ 自定义形象：你的家庭对你来说是独一无二的；你可以自定义他们的性别、名字与外观。 RPG元素：随着你家庭的发展，他们的状态也会随之进化。属性，优势，劣势这些都会因你的选择而变化。 合成系统：创造用于生活的家具，或是用于战斗的武器。 探索：派出你的家庭成员探索并收集资源 雇佣系统：雇佣形形色色的外来者，让他们融入你的家庭，获得他们的忠诚。 动态遭遇系统：你的家庭会遭遇各种各样的威胁，比如不同派系间的争斗，或者是残忍的野兽。 回合制战斗：对那些不可理喻的人，暴力是你最后的手段。 宠物：你的宠物也是家庭的一员。选择狗，猫，鱼，蛇或者马成为你的宠物。 车辆：让探索变得更快更安全。",
-    "summaryDescription": "伴随着震动与恐惧，庇护所的闸门在你身后打开。在这个严酷的后末日时代，你将如何保证家的延续？ 《庇护所》是一款后末日题材的模拟经营游戏，重新定义了什么叫做“核后家庭”。你作为幸存者，必须收集尽可能多的补给品，将它们带到你的地下庇护所，因为在荒芜的未来这里很快就会成为你唯一的家。 当所有希望都破灭，你会如何对待这个荒凉的新世界？当你每天面对无数的道德考验与选择时，你会怎么办？因为这个选择可能直接决定你家庭的生或死。在生命的苦痛中，在这个冰冷可怖的地下庇护所中，与幽闭，辐射，精疲力竭做斗争。你必须离开这个缺乏保障的庇护所，到外面去，到这个荒无人烟的废土中，找寻必要的补给，哪怕是只能让你的家庭再多活一天的补给。 经营你的避难所：保证它的安全与舒适，确保你的家庭有足够的资源生存下去。保护你的免受掠夺与骚扰！ 自定义形象：你的家庭对你来说是独一无二的；你可以自定义他们的性别、名字与外观。 RPG元素：随着你家庭的发展，他们的状态也会随之进化。属性，优势，劣势这些都会因你的选择而变化。 合成系统：创造用于生活的家具，或是用于战斗的武器。 探索：派出你的家庭成员探索并收集资源 雇佣系统：雇佣形形色色的外来者，让他们融入你的家庭，获得他们的忠诚。 动态遭遇系统：你的家庭会遭遇各种各样的威胁，比如不同派系间的争斗，或者是残忍的野兽。 回合制战斗：对那些不可理喻的人，暴力是你最后的手段。 宠物：你的宠物也是家庭的一员。选择狗，猫，鱼，蛇或者马成为你的宠物。 车辆：让探索变得更快更安全。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/0d/e9/bd0de9ec-676f-f78b-b6be-2c7d1c7cfcf9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/0d/e9/bd0de9ec-676f-f78b-b6be-2c7d1c7cfcf9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
-    "sellerName": "East2west Network Tech. Co. Ltd.",
-    "artistName": "East2west Network Tech. Co. Ltd.",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/bb/1e/e5bb1edc-ab13-5218-a2a3-2743ddc8f7c4/b371b078-9565-43c1-b491-4773523bd17e_1.png/406x228bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/3c/8a/0c3c8a26-4f6d-ce5d-22a4-8f9f0a235f97/12b097fd-40c4-4a67-98dd-18628ad2eb55_2.png/406x228bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/a8/b0/8ba8b0d4-64db-d872-c8db-7374b8d39b9e/63ca6de3-8cb4-4760-b870-8727e8b591ac_4.png/406x228bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/e3/96/4ae396b7-d36c-854e-5904-7f989b9cad61/ee767ebf-a564-460d-b70a-d4dad6bc3eee_5.png/406x228bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/8f/4d/bc8f4d8e-0677-9d97-8aaa-702ecec1667b/721a4ec4-42a2-4ee0-af28-b0bced1c5c37_3.png/406x228bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/3a/b7/a83ab74b-32f4-1a39-368e-eb4e80bdccac/34e34237-bc33-4f17-a94b-a6b3600f3b35_6.png/406x228bb.png"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/d6/3e/efd63e86-2719-7f25-9a49-201550681244/8d044858-8874-47e2-a717-83ffdbdf7902_1.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/fe/d5/d9fed586-0e73-6337-1dd2-691f72161471/edb162d4-8519-467e-aecd-c1a9f5d14d79_4.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/c3/ba/a4c3ba07-ba93-038d-2f0a-1e9ba26554be/1d984e13-d7b3-4e60-8e9f-62a29e258187_3.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/ce/57/79ce5757-43fb-a53f-999d-d400bf886297/b44877e9-37ee-43da-9cf6-3a08ae3df229_5.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/9b/52/d89b5299-fd31-db33-dfe2-8e2dcc765ccb/c9da8024-1bb0-4326-9aa2-5340bde6661b_2.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/b1/2c/12b12cef-6f4c-223b-52aa-1ea9bfebf010/80fcf581-6411-4022-aba0-dcdb089f3268_6.png/552x414bb.png"
-    ],
-    "_externalSourceFirstSeen": 1776763449554
   }
 }
