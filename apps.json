@@ -2,6 +2,157 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 350913803,
+      "name": {
+        "cn": "Singing Vocal Warm Ups - Singer's Friend"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787454016323,
+      "_discountType": "app"
+    },
+    {
+      "id": 1556021583,
+      "name": {
+        "cn": "Rockabilly Radio"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772361564,
+      "name": {
+        "cn": "Samado：跑步教练与计划"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6801983902,
+      "name": {
+        "cn": "SpinCube 魔方求解与计时"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6759005602,
+      "name": {
+        "cn": "Diary Lock: My Journal"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6797597780,
+      "name": {
+        "cn": "习惯追踪器 - 习惯保持"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6770347853,
+      "name": {
+        "cn": "QuellCut - 视频静音剪切"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760823598,
+      "name": {
+        "cn": "ShopSuggest"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "app"
+    },
+    {
+      "id": 6449939349,
+      "name": {
+        "cn": "Combustor"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775503330,
+      "name": {
+        "cn": "eSign PDF Converter & Editor"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "app"
+    },
+    {
+      "id": 6746726847,
+      "name": {
+        "cn": "eliozz"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "app"
+    },
+    {
+      "id": 6443682366,
+      "name": {
+        "cn": "OutRacer"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799720840,
+      "name": {
+        "cn": "Yoink: Farming Brawler"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787454071200,
+      "_discountType": "app"
+    },
+    {
       "id": 863725168,
       "name": {
         "cn": "资金记录 已付费"
@@ -27086,7 +27237,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1782704228283,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6751825018,
