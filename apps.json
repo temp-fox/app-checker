@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6785550835,
+      "name": {
+        "cn": "LomoHi"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787480445206,
+      "_discountType": "app"
+    },
+    {
+      "id": 6800529419,
+      "name": {
+        "cn": "拾级登月·爬楼梯打卡记楼层小组件"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787480450892,
+      "_discountType": "app"
+    },
+    {
+      "id": 6737841341,
+      "name": {
+        "cn": "指纹测谎仪扫描仪"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787480453474,
+      "_discountType": "app"
+    },
+    {
       "id": 498056830,
       "name": {
         "cn": "Diagnosekoder ICD-10"
