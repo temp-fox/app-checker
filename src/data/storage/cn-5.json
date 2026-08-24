@@ -16479,10 +16479,18 @@
       "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786100057564,
@@ -23168,6 +23176,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786810911582,
@@ -31568,7 +31584,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "轻决定Pro永久会员": "¥0.00",
+      "轻决定Pro永久会员": "¥38.00",
       "轻决定Pro年度订阅": "¥48.00",
       "轻决定Pro月度订阅": "¥8.00"
     },
@@ -31580,6 +31596,18 @@
       "轻决定Pro月度订阅": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "轻决定Pro永久会员": "¥38.00",
+            "轻决定Pro年度订阅": "¥48.00",
+            "轻决定Pro月度订阅": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787021718136,
@@ -35691,7 +35719,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "TenantDesk Pro Lifetime": "¥0.00",
+      "TenantDesk Pro Lifetime": "¥98.00",
       "TenantDesk Pro Annual": "¥68.00"
     },
     "minPriceInfo": {
@@ -35701,6 +35729,17 @@
       "TenantDesk Pro Annual": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "TenantDesk Pro Lifetime": "¥98.00",
+            "TenantDesk Pro Annual": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787286994449,
@@ -35977,8 +36016,8 @@
     "description": "如果你在使用过程中有任何建议或想法，欢迎通过邮件联系我：zykzzzz@hotmail.com AperTrace 是一款为摄影爱好者设计的拍摄信息水印工具。导入照片后，它会自动读取相机、镜头、焦距、光圈、快门和 ISO 等信息，并将这些参数整理成简洁、耐看的照片水印。 你可以从 7 种风格中选择最适合照片的呈现方式：经典、拍立得、极简、编辑部、胶片、侧标与杂志。无论是街头随拍、旅行记录，还是认真完成的一组作品，都能找到合适的版式。 让参数不再只是藏在 EXIF 里的数字，而成为照片的一部分。",
     "fullDescription": "如果你在使用过程中有任何建议或想法，欢迎通过邮件联系我：zykzzzz@hotmail.com AperTrace 是一款为摄影爱好者设计的拍摄信息水印工具。导入照片后，它会自动读取相机、镜头、焦距、光圈、快门和 ISO 等信息，并将这些参数整理成简洁、耐看的照片水印。 你可以从 7 种风格中选择最适合照片的呈现方式：经典、拍立得、极简、编辑部、胶片、侧标与杂志。无论是街头随拍、旅行记录，还是认真完成的一组作品，都能找到合适的版式。 让参数不再只是藏在 EXIF 里的数字，而成为照片的一部分。",
     "summaryDescription": "如果你在使用过程中有任何建议或想法，欢迎通过邮件联系我：zykzzzz@hotmail.com AperTrace 是一款为摄影爱好者设计的拍摄信息水印工具。导入照片后，它会自动读取相机、镜头、焦距、光圈、快门和 ISO 等信息，并将这些参数整理成简洁、耐看的照片水印。 你可以从 7 种风格中选择最适合照片的呈现方式：经典、拍立得、极简、编辑部、胶片、侧标与杂志。无论是街头随拍、旅行记录，还是认真完成的一组作品，都能找到合适的版式。 让参数不再只是藏在 EXIF 里的数字，而成为照片的一部分。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/a3/6f/e6a36f3c-4a17-d3b5-05ce-23b96ab92eee/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/a3/6f/e6a36f3c-4a17-d3b5-05ce-23b96ab92eee/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/c6/78/8fc67870-6f2a-0474-e3c2-60381bc46817/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/c6/78/8fc67870-6f2a-0474-e3c2-60381bc46817/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "业坤 张",
     "artistName": "业坤 张",
     "screenshotUrls": [
@@ -39912,5 +39951,431 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/c6/49/86c649e5-3e3a-5128-3fd3-116ff2444a68/06-private-by-design.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1787533554145
+  },
+  "6798107003": {
+    "name": "视频打码 - 人脸车牌隐私马赛克",
+    "trackName": "视频打码 - 人脸车牌隐私马赛克",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "Permanent": "¥0.00",
+      "Monthly Sub": "¥18.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "Permanent": "¥0.00",
+      "Monthly Sub": "¥18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Permanent": "¥0.00",
+            "Monthly Sub": "¥18.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%A7%86%E9%A2%91%E6%89%93%E7%A0%81-%E4%BA%BA%E8%84%B8%E8%BD%A6%E7%89%8C%E9%9A%90%E7%A7%81%E9%A9%AC%E8%B5%9B%E5%85%8B/id6798107003?uo=4",
+    "description": "VideoBlur 可让你在分享照片、视频前做好隐私保护。只需轻点几下，就能对人脸、车牌、二维码以及敏感文字做模糊处理 ——全部在本机设备上完成运算。 无论你是发布社交动态、发送截图，还是分享家庭照片，VideoBlur 都能轻松隐藏你不想对外公开的内容。 核心功能 ・模糊 & 马赛克 — 对照片、视频任意区域施加柔化模糊或者像素马赛克效果。 ・自动识别 — 自动识别人脸、车牌、二维码以及部分敏感文字。 ・本地设备处理 — 全部编辑操作在手机本地完成，你的媒体文件不会外传。 ・支持照片与视频 — 静态图片、视频片段均可处理。 ・手动涂抹 — 点击或拖拽，精准涂抹你想要模糊的区域。 ・强度可调 — 自由调节模糊、马赛克的效果强度，获得理想效果。 适用场景 ・集体合照、街拍中遮挡人脸 ・卖车或者网上发帖前遮盖车牌 ・对截图里的二维码、地址以及个人信息做模糊处理 ・在社交平台保护孩童面部隐私 ・涂抹单据、凭证里的机密文字信息 为什么选择 VideoBlur 分享照片视频，不该以牺牲隐私为代价。VideoBlur 将控制权交给你，无需复杂工具，即可快速、精准地打码敏感内容。 下载 VideoBlur，安心分享每一份素材。 隐私政策：https://blur.aonovel.com/privacy.html 使用条款：https://blur.aonovel.com/terms.html 技术支持：yomtaaa998@gmail.com",
+    "fullDescription": "VideoBlur 可让你在分享照片、视频前做好隐私保护。只需轻点几下，就能对人脸、车牌、二维码以及敏感文字做模糊处理 ——全部在本机设备上完成运算。 无论你是发布社交动态、发送截图，还是分享家庭照片，VideoBlur 都能轻松隐藏你不想对外公开的内容。 核心功能 ・模糊 & 马赛克 — 对照片、视频任意区域施加柔化模糊或者像素马赛克效果。 ・自动识别 — 自动识别人脸、车牌、二维码以及部分敏感文字。 ・本地设备处理 — 全部编辑操作在手机本地完成，你的媒体文件不会外传。 ・支持照片与视频 — 静态图片、视频片段均可处理。 ・手动涂抹 — 点击或拖拽，精准涂抹你想要模糊的区域。 ・强度可调 — 自由调节模糊、马赛克的效果强度，获得理想效果。 适用场景 ・集体合照、街拍中遮挡人脸 ・卖车或者网上发帖前遮盖车牌 ・对截图里的二维码、地址以及个人信息做模糊处理 ・在社交平台保护孩童面部隐私 ・涂抹单据、凭证里的机密文字信息 为什么选择 VideoBlur 分享照片视频，不该以牺牲隐私为代价。VideoBlur 将控制权交给你，无需复杂工具，即可快速、精准地打码敏感内容。 下载 VideoBlur，安心分享每一份素材。 隐私政策：https://blur.aonovel.com/privacy.html 使用条款：https://blur.aonovel.com/terms.html 技术支持：yomtaaa998@gmail.com",
+    "summaryDescription": "VideoBlur 可让你在分享照片、视频前做好隐私保护。只需轻点几下，就能对人脸、车牌、二维码以及敏感文字做模糊处理 ——全部在本机设备上完成运算。 无论你是发布社交动态、发送截图，还是分享家庭照片，VideoBlur 都能轻松隐藏你不想对外公开的内容。 核心功能 ・模糊 & 马赛克 — 对照片、视频任意区域施加柔化模糊或者像素马赛克效果。 ・自动识别 — 自动识别人脸、车牌、二维码以及部分敏感文字。 ・本地设备处理 — 全部编辑操作在手机本地完成，你的媒体文件不会外传。 ・支持照片与视频 — 静态图片、视频片段均可处理。 ・手动涂抹 — 点击或拖拽，精准涂抹你想要模糊的区域。 ・强度可调 — 自由调节模糊、马赛克的效果强度，获得理想效果。 适用场景 ・集体合照、街拍中遮挡人脸 ・卖车或者网上发帖前遮盖车牌 ・对截图里的二维码、地址以及个人信息做模糊处理 ・在社交平台保护孩童面部隐私 ・涂抹单据、凭证里的机密文字信息 为什么选择 VideoBlur 分享照片视频，不该以牺牲隐私为代价。VideoBlur 将控制权交给你，无需复杂工具，即可快速、精准地打码敏感内容。 下载 VideoBlur，安心分享每一份素材。 隐私政策：https://blur.aonovel.com/privacy.html 使用条款：https://blur.aonovel.com/terms.html 技术支持：yomtaaa998@gmail.com",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/81/f1/c981f1e8-6673-2465-61f6-428fec832ede/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/81/f1/c981f1e8-6673-2465-61f6-428fec832ede/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Shenzhen Mengmi Technology Co., Ltd.",
+    "artistName": "Shenzhen Mengmi Technology Co., Ltd.",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/a3/e6/fea3e6c7-9b9c-6ac5-4f12-5bb615ae36ca/zh1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/23/80/0123806f-4352-95e8-f2f3-baf03cdfe0f4/zh2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/38/17/f2381796-6044-d1c1-b64b-9c2d9ec25128/zh3.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/2d/86/8b2d86b2-0f3c-5e04-c959-26b65e2ad01b/ipad_zh1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/5a/79/a65a7936-6360-9583-649d-5c61b02186b3/ipad_zh2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/6f/68/346f68ed-68ea-3542-ac89-a10b26adc1c5/ipad_zh3.png/360x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1787540512817
+  },
+  "6797868224": {
+    "name": "家长助手-家庭学习任务管理 & 习惯养成工具",
+    "trackName": "家长助手-家庭学习任务管理 & 习惯养成工具",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "永久会员": "¥0.00",
+      "年订阅": "¥58.00",
+      "月订阅": "¥18.00",
+      "周订阅": "¥6.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "永久会员": "¥0.00",
+      "年订阅": "¥58.00",
+      "月订阅": "¥18.00",
+      "周订阅": "¥6.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久会员": "¥0.00",
+            "年订阅": "¥58.00",
+            "月订阅": "¥18.00",
+            "周订阅": "¥6.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%AE%B6%E9%95%BF%E5%8A%A9%E6%89%8B-%E5%AE%B6%E5%BA%AD%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E5%B7%A5%E5%85%B7/id6797868224?uo=4",
+    "description": "家长助手，一款面向家庭使用的学习任务管理工具，帮助家长规划孩子多学科学习任务，通过积分正向激励，培养自主自律的学习习惯，兼顾学习管理、心理关怀与益智练习。 全科任务管理 & 数据看板 支持多学科学习任务录入与打卡，首页直观展示今日任务完成进度、累计积分、连续自律天数。各科完成度可视化看板，学习情况一目了然，家长便捷掌握每日学习状态。 积分激励，自定义奖励兑换 完成任务即可获取积分，完整记录积分明细。家长自由配置奖励库，孩子可使用积分兑换心愿奖励，正向引导，告别催促式管教。 情绪自测 + 每日一言 内置简易情绪自测模块，关注心理状态；搭配每日暖心寄语，陪伴积极面对学习与生活。 益智练习+劳逸结合，碎片时间开展趣味练习： 单词消消乐、单词拼拼乐 数学速算挑战、数字找规律、算式比大小、数独挑战 拼音拼拼乐、成语大挑战、诗词飞花令 家庭闭环工具：任务规划‑打卡‑积分‑奖励‑益智练习，帮助家庭成员养成自律习惯，家长督学更省心。 订阅条款：订阅费用将在购买成功后从iTunes账户中自动扣除。若在当前周期结束前24小时关闭续订服务，则订阅取消；反之将会在周期结束前24小时内自动从iTunes扣除您下一周期续订费用。自动续订能随时取消，可在账户设置页面取消自动续订，但不允许取消使用中的当前周期订阅。 隐私协议：https://www.kdocs.cn/l/cstGmiI6g1DW 技术支持：https://www.kdocs.cn/l/clP4PieYm4b2 会员协议：https://www.kdocs.cn/l/cfxn3cBgkF7u",
+    "fullDescription": "家长助手，一款面向家庭使用的学习任务管理工具，帮助家长规划孩子多学科学习任务，通过积分正向激励，培养自主自律的学习习惯，兼顾学习管理、心理关怀与益智练习。 全科任务管理 & 数据看板 支持多学科学习任务录入与打卡，首页直观展示今日任务完成进度、累计积分、连续自律天数。各科完成度可视化看板，学习情况一目了然，家长便捷掌握每日学习状态。 积分激励，自定义奖励兑换 完成任务即可获取积分，完整记录积分明细。家长自由配置奖励库，孩子可使用积分兑换心愿奖励，正向引导，告别催促式管教。 情绪自测 + 每日一言 内置简易情绪自测模块，关注心理状态；搭配每日暖心寄语，陪伴积极面对学习与生活。 益智练习+劳逸结合，碎片时间开展趣味练习： 单词消消乐、单词拼拼乐 数学速算挑战、数字找规律、算式比大小、数独挑战 拼音拼拼乐、成语大挑战、诗词飞花令 家庭闭环工具：任务规划‑打卡‑积分‑奖励‑益智练习，帮助家庭成员养成自律习惯，家长督学更省心。 订阅条款：订阅费用将在购买成功后从iTunes账户中自动扣除。若在当前周期结束前24小时关闭续订服务，则订阅取消；反之将会在周期结束前24小时内自动从iTunes扣除您下一周期续订费用。自动续订能随时取消，可在账户设置页面取消自动续订，但不允许取消使用中的当前周期订阅。 隐私协议：https://www.kdocs.cn/l/cstGmiI6g1DW 技术支持：https://www.kdocs.cn/l/clP4PieYm4b2 会员协议：https://www.kdocs.cn/l/cfxn3cBgkF7u",
+    "summaryDescription": "家长助手，一款面向家庭使用的学习任务管理工具，帮助家长规划孩子多学科学习任务，通过积分正向激励，培养自主自律的学习习惯，兼顾学习管理、心理关怀与益智练习。 全科任务管理 & 数据看板 支持多学科学习任务录入与打卡，首页直观展示今日任务完成进度、累计积分、连续自律天数。各科完成度可视化看板，学习情况一目了然，家长便捷掌握每日学习状态。 积分激励，自定义奖励兑换 完成任务即可获取积分，完整记录积分明细。家长自由配置奖励库，孩子可使用积分兑换心愿奖励，正向引导，告别催促式管教。 情绪自测 + 每日一言 内置简易情绪自测模块，关注心理状态；搭配每日暖心寄语，陪伴积极面对学习与生活。 益智练习+劳逸结合，碎片时间开展趣味练习： 单词消消乐、单词拼拼乐 数学速算挑战、数字找规律、算式比大小、数独挑战 拼音拼拼乐、成语大挑战、诗词飞花令 家庭闭环工具：任务规划‑打卡‑积分‑奖励‑益智练习，帮助家庭成员养成自律习惯，家长督学更省心。 订阅条款：订阅费用将在购买成功后从iTunes账户中自动扣除。若在当前周期结束前24小时关闭续订服务，则订阅取消；反之将会在周期结束前24小时内自动从iTunes扣除您下一周期续订费用。自动续订能随时取消，可在账户设置页面取消自动续订，但不允许取消使用中的当前周期订阅。 隐私协议：https://www.kdocs.cn/l/cstGmiI6g1DW 技术支持：https://www.kdocs.cn/l/clP4PieYm4b2 会员协议：https://www.kdocs.cn/l/cfxn3cBgkF7u",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/bb/b4/dbbbb486-c141-6c18-5233-63d132338096/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/bb/b4/dbbbb486-c141-6c18-5233-63d132338096/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
+    "sellerName": "娇 李",
+    "artistName": "娇 李",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/8f/20/a88f2059-e636-c7ef-61fe-f1deb4ba8f39/simulator_screenshot_A22A3505-07C0-464D-9CE3-0F42FE6878B5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/93/6c/1d936cfe-cdee-40a4-0deb-537ff43a23f2/simulator_screenshot_E2D3A363-E595-4028-B85B-8F573EC556CB.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/dd/1e/94dd1e8f-bc0c-f773-2ed0-4b5577e4bf02/simulator_screenshot_C1EADB7E-7B9E-4563-A699-5492593BCDD9.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/63/6b/cf636b04-8b5e-9c63-acd9-d2d6de74c539/simulator_screenshot_EF4C6537-FDD1-4C9D-BED7-001D06A1CFF8.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/23/b1/8223b1b3-c915-a5b3-53fd-1a8d96c0778d/simulator_screenshot_004DBEE7-F494-446C-8085-B2B1A1F814BA.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/b3/12/43b3120c-9b54-c889-c1ec-b5e5d34caee4/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-08-06_at_18.06.01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/c3/40/34c340c0-d40a-2e2b-6569-24656a6a50ae/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-08-06_at_18.05.45.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/e4/29/69e42959-adfd-ec6d-599e-96e8be4186e0/simulator_screenshot_9CC561C5-EE0E-4128-A202-B759E2AFDD25.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/c0/f0/50c0f0d8-a688-3e4d-dc42-e54b3dc575da/simulator_screenshot_ADB95587-D860-41AC-B3C1-2FD1D2CA8317.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/18/4c/38184cd2-0cdf-5549-f839-d3e358f96672/simulator_screenshot_719C12F6-52E2-45F0-8BFE-D09DEB4C18D8.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/23/57/cc235759-3e7a-59b8-d2e2-907bf3b9ae31/simulator_screenshot_1230E979-F715-4246-B3FF-90A8D646338E.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/42/af/d842af35-c079-23a0-3837-8eefccb3030d/simulator_screenshot_D908AFD9-67A8-4718-8CE9-B3F0783155C1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/8d/b8/198db8aa-3738-bbd9-827b-10b02514492c/simulator_screenshot_01D9D2C0-1734-4EBB-B5B6-ED878D8836B3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ff/d9/ecffd937-9208-5daa-63c9-22e38a523794/simulator_screenshot_6567DB17-9303-4B88-9A9B-83703C97E52A.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/37/56/a23756a2-8a5f-801e-9fea-cab97f5e5634/simulator_screenshot_2275E2D0-7EBE-483B-9B37-66ABDF0930F4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/19/88/98198847-30a5-01fe-44d7-80b175f5f29a/simulator_screenshot_85A755BD-601C-4B54-ABC9-72D1A2ED5B31.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/c3/78/dac378fd-bafd-c1a6-64e5-fac51fa6be96/simulator_screenshot_A88EE1BE-13C1-4A21-8417-71F08A60FEE3.png/360x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1787540512817
+  },
+  "6744382643": {
+    "name": "三国霸业重置版",
+    "trackName": "三国霸业重置版",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "为爱发电": "¥18.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "为爱发电": "¥18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "为爱发电": "¥18.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%89%E5%9B%BD%E9%9C%B8%E4%B8%9A%E9%87%8D%E7%BD%AE%E7%89%88/id6744382643?uo=4",
+    "description": "步步高三国霸业网页重制版 - 经典复刻 & 多 MOD 离线畅玩 重拾童年回忆！基于步步高学习机经典 IP 打造的网页重制版，收录多款优质魔改 MOD，全离线运行，随时随地畅玩三国风云！ 核心特色 完美移植原版玩法，保留 \"备战 - 作战 - 战后\" 三段式战役体系 完整兵种进阶系统：步兵→枪兵→骑兵→弓兵→玄兵→水兵 全离线支持，无网络环境也能沉浸式体验 超轻量 10MB，低配设备流畅运行，Mac/iPad 均可安装为桌面应用 热门 MOD 推荐 词典原版：99% 还原经典，复刻原汁原味的策略体验 血色华夏：新增神将系统 + 上古神器，开启奇幻三国征程 乱战三国：全势力混战模式，体验群雄逐鹿的刺激 玩家热评 \"在公交车上玩原版，回家打 MOD 版，这才是完全体！\" \"没有最好，只有更好。不求回报，只求快乐\" \"时间带不走我们的热情，时代改变不了我们的执着！\" 支持自由切换 MOD，无需重复安装，立即下载，重燃三国霸业梦！ 若遇到任何问题或有建议，可加入 QQ 群 526266208 并 @Harry 反馈。",
+    "fullDescription": "步步高三国霸业网页重制版 - 经典复刻 & 多 MOD 离线畅玩 重拾童年回忆！基于步步高学习机经典 IP 打造的网页重制版，收录多款优质魔改 MOD，全离线运行，随时随地畅玩三国风云！ 核心特色 完美移植原版玩法，保留 \"备战 - 作战 - 战后\" 三段式战役体系 完整兵种进阶系统：步兵→枪兵→骑兵→弓兵→玄兵→水兵 全离线支持，无网络环境也能沉浸式体验 超轻量 10MB，低配设备流畅运行，Mac/iPad 均可安装为桌面应用 热门 MOD 推荐 词典原版：99% 还原经典，复刻原汁原味的策略体验 血色华夏：新增神将系统 + 上古神器，开启奇幻三国征程 乱战三国：全势力混战模式，体验群雄逐鹿的刺激 玩家热评 \"在公交车上玩原版，回家打 MOD 版，这才是完全体！\" \"没有最好，只有更好。不求回报，只求快乐\" \"时间带不走我们的热情，时代改变不了我们的执着！\" 支持自由切换 MOD，无需重复安装，立即下载，重燃三国霸业梦！ 若遇到任何问题或有建议，可加入 QQ 群 526266208 并 @Harry 反馈。",
+    "summaryDescription": "步步高三国霸业网页重制版 - 经典复刻 & 多 MOD 离线畅玩 重拾童年回忆！基于步步高学习机经典 IP 打造的网页重制版，收录多款优质魔改 MOD，全离线运行，随时随地畅玩三国风云！ 核心特色 完美移植原版玩法，保留 \"备战 - 作战 - 战后\" 三段式战役体系 完整兵种进阶系统：步兵→枪兵→骑兵→弓兵→玄兵→水兵 全离线支持，无网络环境也能沉浸式体验 超轻量 10MB，低配设备流畅运行，Mac/iPad 均可安装为桌面应用 热门 MOD 推荐 词典原版：99% 还原经典，复刻原汁原味的策略体验 血色华夏：新增神将系统 + 上古神器，开启奇幻三国征程 乱战三国：全势力混战模式，体验群雄逐鹿的刺激 玩家热评 \"在公交车上玩原版，回家打 MOD 版，这才是完全体！\" \"没有最好，只有更好。不求回报，只求快乐\" \"时间带不走我们的热情，时代改变不了我们的执着！\" 支持自由切换 MOD，无需重复安装，立即下载，重燃三国霸业梦！ 若遇到任何问题或有建议，可加入 QQ 群 526266208 并 @Harry 反馈。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/fd/49/f8fd4957-da5f-3030-b1a4-0e9008ad289c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/fd/49/f8fd4957-da5f-3030-b1a4-0e9008ad289c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Libing Deng",
+    "artistName": "Libing Deng",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/13/4d/31134df3-8bc4-0129-07dd-e7cca9fa4e1b/3.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/a1/34/a6a134db-1f74-29b5-9eb6-b11e4f94d739/2.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/72/bc/1e72bc1a-7ffa-dba7-841f-78f53c388cf5/4.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/dc/3b/8fdc3b4d-bb39-3d99-49e0-c9107dff1938/7.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/fa/80/cbfa8041-cf10-65ef-0668-f8dc3ea740ac/5.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/2d/ed/832ded43-1609-ad6e-5206-721e87206245/6.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/59/b8/fe59b88b-29eb-26fa-12c0-ac213acb82ae/1.PNG/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/03/8e/8c038e2f-4c31-3c8c-9a41-cb3439fa74e9/1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/01/2d/66012d6b-fe82-9c37-3b36-b599dbbe6f26/2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/c7/6e/4fc76edf-dc20-4204-1f60-a05b096243fd/3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/82/84/d88284e9-4a72-2ba2-fadb-4cd8e7d66c9f/4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/bb/1c/f3bb1c4a-da69-b52d-5191-a1e494253223/5.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/57/f8/ff57f8c8-d8ee-43f2-ae06-dd318276f5df/6.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/19/3d/49193d4f-7c20-d1ce-2d90-ed4315385fa9/7.png/360x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1787540512817
+  },
+  "6785310716": {
+    "name": "SoldWrap",
+    "trackName": "SoldWrap",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "SoldWrap+": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "SoldWrap+": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "SoldWrap+": "¥22.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/soldwrap/id6785310716?uo=4",
+    "description": "Sold a few things this month? Wrap them into a receipt worth posting. SoldWrap turns your reselling sales into a clean \"flip receipt\" card — the kind you'll actually want to post. Drop a screenshot of your sales and SoldWrap reads the items and prices automatically, then wraps them into a shareable card in about 20 seconds. HOW IT WORKS 1. Screenshot your sales (your sold list, or your sale receipts) 2. SoldWrap reads the items + total for you 3. Pick a style, add your @, and share FOUR PREMIUM STYLES — ALL FREE Thermal — the classic paper receipt Y2K — holographic foil energy Noir — neon-on-black Boarding pass — from CLOSET to PROFIT PRIVATE BY DESIGN No login. No account. Your screenshots are read on your device and never leave your phone. We don't collect your data — full stop. Made for resellers who move. Flex your flips.",
+    "fullDescription": "Sold a few things this month? Wrap them into a receipt worth posting. SoldWrap turns your reselling sales into a clean \"flip receipt\" card — the kind you'll actually want to post. Drop a screenshot of your sales and SoldWrap reads the items and prices automatically, then wraps them into a shareable card in about 20 seconds. HOW IT WORKS 1. Screenshot your sales (your sold list, or your sale receipts) 2. SoldWrap reads the items + total for you 3. Pick a style, add your @, and share FOUR PREMIUM STYLES — ALL FREE Thermal — the classic paper receipt Y2K — holographic foil energy Noir — neon-on-black Boarding pass — from CLOSET to PROFIT PRIVATE BY DESIGN No login. No account. Your screenshots are read on your device and never leave your phone. We don't collect your data — full stop. Made for resellers who move. Flex your flips.",
+    "summaryDescription": "Sold a few things this month? Wrap them into a receipt worth posting. SoldWrap turns your reselling sales into a clean \"flip receipt\" card — the kind you'll actually want to post. Drop a screenshot of your sales and SoldWrap reads the items and prices automatically, then wraps them into a shareable card in about 20 seconds. HOW IT WORKS 1. Screenshot your sales (your sold list, or your sale receipts) 2. SoldWrap reads the items + total for you 3. Pick a style, add your @, and share FOUR PREMIUM STYLES — ALL FREE Thermal — the classic paper receipt Y2K — holographic foil energy Noir — neon-on-black Boarding pass — from CLOSET to PROFIT PRIVATE BY DESIGN No login. No account. Your screenshots are read on your device and never leave your phone. We don't collect your data — full stop. Made for resellers who move. Flex your flips.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/c3/21/75c321a7-2b30-4083-7268-4bb7cfb7fd5d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/c3/21/75c321a7-2b30-4083-7268-4bb7cfb7fd5d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "MANO P SARAVANAN",
+    "artistName": "MANO P SARAVANAN",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/02/56/4b02567d-89c0-8904-75a6-1ed1761fd5f5/01-hero.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/92/8f/41928f62-07a0-73d4-5e92-922e0be03bd5/05-private.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/42/b0/eb42b0a8-2970-aa2d-8463-f8e70ac809d1/02-auto.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/32/e1/e232e1ad-bd77-52bb-054b-dfc8d52488d0/03-styles.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/1e/69/571e6920-69cc-b41f-8a95-3accb73f314b/04-boarding.png/320x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1787540512817
+  },
+  "6745030394": {
+    "name": "Chord Whisper Piano",
+    "trackName": "Chord Whisper Piano",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/chord-whisper-piano/id6745030394?mt=12&uo=4",
+    "description": "Chord Whisper Piano is a compact and powerful music tool designed to help musicians of all levels improve their chord recognition and music theory skills. Whether you’re just starting out or refreshing your knowledge, this Mac app provides essential features with a clean, minimal interface that stays out of the way. You can perform live or save your chord setups for later. Play in real time using a MIDI or virtual keyboard, trigger chords instantly with pad presets, or build progressions you can recall whenever inspiration strikes. Whether you’re practicing, composing, or performing, Chord Whisper Piano adapts to your workflow. Record MIDI snippets and drag them directly into your DAW to capture ideas quickly and turn spontaneous playing into finished tracks. Features include: Real-time chord identification — play on a MIDI or virtual keyboard and see chord names instantly Scales and modes explorer Pad presets to sync chords with your MIDI device or keyboard for playing, practicing, and recording MIDI recording — record snippets and drag them directly into any DAW Interactive Circle of Fifths for learning key relationships Visual note highlighting and playback Built-in metronome Perfect for piano learners, songwriters, and producers who want to strengthen their understanding of harmony and composition.",
+    "fullDescription": "Chord Whisper Piano is a compact and powerful music tool designed to help musicians of all levels improve their chord recognition and music theory skills. Whether you’re just starting out or refreshing your knowledge, this Mac app provides essential features with a clean, minimal interface that stays out of the way. You can perform live or save your chord setups for later. Play in real time using a MIDI or virtual keyboard, trigger chords instantly with pad presets, or build progressions you can recall whenever inspiration strikes. Whether you’re practicing, composing, or performing, Chord Whisper Piano adapts to your workflow. Record MIDI snippets and drag them directly into your DAW to capture ideas quickly and turn spontaneous playing into finished tracks. Features include: Real-time chord identification — play on a MIDI or virtual keyboard and see chord names instantly Scales and modes explorer Pad presets to sync chords with your MIDI device or keyboard for playing, practicing, and recording MIDI recording — record snippets and drag them directly into any DAW Interactive Circle of Fifths for learning key relationships Visual note highlighting and playback Built-in metronome Perfect for piano learners, songwriters, and producers who want to strengthen their understanding of harmony and composition.",
+    "summaryDescription": "Chord Whisper Piano is a compact and powerful music tool designed to help musicians of all levels improve their chord recognition and music theory skills. Whether you’re just starting out or refreshing your knowledge, this Mac app provides essential features with a clean, minimal interface that stays out of the way. You can perform live or save your chord setups for later. Play in real time using a MIDI or virtual keyboard, trigger chords instantly with pad presets, or build progressions you can recall whenever inspiration strikes. Whether you’re practicing, composing, or performing, Chord Whisper Piano adapts to your workflow. Record MIDI snippets and drag them directly into your DAW to capture ideas quickly and turn spontaneous playing into finished tracks. Features include: Real-time chord identification — play on a MIDI or virtual keyboard and see chord names instantly Scales and modes explorer Pad presets to sync chords with your MIDI device or keyboard for playing, practicing, and recording MIDI recording — record snippets and drag them directly into any DAW Interactive Circle of Fifths for learning key relationships Visual note highlighting and playback Built-in metronome Perfect for piano learners, songwriters, and producers who want to strengthen their understanding of harmony and composition.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/66/c1/1366c1ee-6630-9833-26c2-157f810334fb/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/66/c1/1366c1ee-6630-9833-26c2-157f810334fb/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",
+    "sellerName": "Alvaro Gil",
+    "artistName": "Alvaro Gil",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/2b/e8/562be841-b768-9953-0caf-34060cc12188/flavor.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/84/95/43849516-4647-90c5-ceed-c0308c1a8327/pads.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/47/a3/ca47a37a-1b7a-515d-1550-25627bbb1d53/modify.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/76/90/c176903a-679b-76aa-c4ed-6971dccf6dec/record.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/7b/ff/cf7bff39-5db2-0b5e-4a6d-ffd6ad2f0056/minimal.png/800x500bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1787540512817
+  },
+  "6451388338": {
+    "name": "Spent Pro：支出追踪",
+    "trackName": "Spent Pro：支出追踪",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/spent-pro-%E6%94%AF%E5%87%BA%E8%BF%BD%E8%B8%AA/id6451388338?uo=4",
+    "description": "Spent是您精简支出追踪的终极解决方案，具有极简设计、无与伦比的实惠以及内置的货币汇率功能，让您轻松检查总净值。 精简支出录入 轻松记录您的支出，仅需几秒钟。没有混乱，没有麻烦 - 只需输入金额，选择交易类型、类别，您就可以出发了！ 简单而直观 我们的极简主义方法意味着没有不必要的繁琐或复杂的菜单。享受一个无杂乱、用户友好的界面，直截了当地达到要点。 无广告和实惠 告别昂贵的订阅费和烦人的广告。Spent可通过一次低成本的付款获得，让您安心并物有所值。 内置货币汇率 通过轻松将支出转换为您首选的货币，随时了解您的财务状况。即使涉及多种货币，也可以轻松监控您的总净值。 预算管理 通过 Spent 的预算功能保持在你的预算范围内。为每个类别设定预算，并实时跟踪你的进度。轻松调整开支以实现你的目标！ 深度报告 通过全面的报告深入了解您的消费习惯。追踪趋势，分析模式，并轻松做出明智的财务决策。您的财务清晰之旅变得更加见识深刻。 主屏幕小组件 通过可自定义的主屏幕小组件，一目了然地掌握你的财务情况。无需打开应用，即可即时查看预算、近期支出或余额。随时掌控，尽在主屏幕。 定期交易 通过Spent轻松管理经常性支出。设置自动交易，让应用程序为您完成工作。永远不要错过付款，轻松掌控您的财务。 隐私至上的金融 Spent 重视您的隐私。请放心，您的财务数据仅存储在您的设备上——永不上传、分享或出售。使用 Spent，享受终极安心体验，您的财务管理私密、安全，完全由您掌控。 深色模式 在深夜追踪支出时保护您的眼睛，使用我们的眼睛友好的深色模式。这只是我们优先考虑用户体验的又一种方式。 持续更新 我们致力于改善您的体验。期望定期更新，带来新功能和增强功能，都旨在使您的支出追踪之旅更加顺畅。 从今天开始，通过Spent迈出通向财务清晰的旅程。体验轻松追踪支出、检查总净值的简便之道，无需烦恼。 无广告，无杂乱，只有价格实惠的轻松支出追踪。立即获取！",
+    "fullDescription": "Spent是您精简支出追踪的终极解决方案，具有极简设计、无与伦比的实惠以及内置的货币汇率功能，让您轻松检查总净值。 精简支出录入 轻松记录您的支出，仅需几秒钟。没有混乱，没有麻烦 - 只需输入金额，选择交易类型、类别，您就可以出发了！ 简单而直观 我们的极简主义方法意味着没有不必要的繁琐或复杂的菜单。享受一个无杂乱、用户友好的界面，直截了当地达到要点。 无广告和实惠 告别昂贵的订阅费和烦人的广告。Spent可通过一次低成本的付款获得，让您安心并物有所值。 内置货币汇率 通过轻松将支出转换为您首选的货币，随时了解您的财务状况。即使涉及多种货币，也可以轻松监控您的总净值。 预算管理 通过 Spent 的预算功能保持在你的预算范围内。为每个类别设定预算，并实时跟踪你的进度。轻松调整开支以实现你的目标！ 深度报告 通过全面的报告深入了解您的消费习惯。追踪趋势，分析模式，并轻松做出明智的财务决策。您的财务清晰之旅变得更加见识深刻。 主屏幕小组件 通过可自定义的主屏幕小组件，一目了然地掌握你的财务情况。无需打开应用，即可即时查看预算、近期支出或余额。随时掌控，尽在主屏幕。 定期交易 通过Spent轻松管理经常性支出。设置自动交易，让应用程序为您完成工作。永远不要错过付款，轻松掌控您的财务。 隐私至上的金融 Spent 重视您的隐私。请放心，您的财务数据仅存储在您的设备上——永不上传、分享或出售。使用 Spent，享受终极安心体验，您的财务管理私密、安全，完全由您掌控。 深色模式 在深夜追踪支出时保护您的眼睛，使用我们的眼睛友好的深色模式。这只是我们优先考虑用户体验的又一种方式。 持续更新 我们致力于改善您的体验。期望定期更新，带来新功能和增强功能，都旨在使您的支出追踪之旅更加顺畅。 从今天开始，通过Spent迈出通向财务清晰的旅程。体验轻松追踪支出、检查总净值的简便之道，无需烦恼。 无广告，无杂乱，只有价格实惠的轻松支出追踪。立即获取！",
+    "summaryDescription": "Spent是您精简支出追踪的终极解决方案，具有极简设计、无与伦比的实惠以及内置的货币汇率功能，让您轻松检查总净值。 精简支出录入 轻松记录您的支出，仅需几秒钟。没有混乱，没有麻烦 - 只需输入金额，选择交易类型、类别，您就可以出发了！ 简单而直观 我们的极简主义方法意味着没有不必要的繁琐或复杂的菜单。享受一个无杂乱、用户友好的界面，直截了当地达到要点。 无广告和实惠 告别昂贵的订阅费和烦人的广告。Spent可通过一次低成本的付款获得，让您安心并物有所值。 内置货币汇率 通过轻松将支出转换为您首选的货币，随时了解您的财务状况。即使涉及多种货币，也可以轻松监控您的总净值。 预算管理 通过 Spent 的预算功能保持在你的预算范围内。为每个类别设定预算，并实时跟踪你的进度。轻松调整开支以实现你的目标！ 深度报告 通过全面的报告深入了解您的消费习惯。追踪趋势，分析模式，并轻松做出明智的财务决策。您的财务清晰之旅变得更加见识深刻。 主屏幕小组件 通过可自定义的主屏幕小组件，一目了然地掌握你的财务情况。无需打开应用，即可即时查看预算、近期支出或余额。随时掌控，尽在主屏幕。 定期交易 通过Spent轻松管理经常性支出。设置自动交易，让应用程序为您完成工作。永远不要错过付款，轻松掌控您的财务。 隐私至上的金融 Spent 重视您的隐私。请放心，您的财务数据仅存储在您的设备上——永不上传、分享或出售。使用 Spent，享受终极安心体验，您的财务管理私密、安全，完全由您掌控。 深色模式 在深夜追踪支出时保护您的眼睛，使用我们的眼睛友好的深色模式。这只是我们优先考虑用户体验的又一种方式。 持续更新 我们致力于改善您的体验。期望定期更新，带来新功能和增强功能，都旨在使您的支出追踪之旅更加顺畅。 从今天开始，通过Spent迈出通向财务清晰的旅程。体验轻松追踪支出、检查总净值的简便之道，无需烦恼。 无广告，无杂乱，只有价格实惠的轻松支出追踪。立即获取！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/7f/de/117fde2f-a485-7ee9-a7b3-7ce31011cc24/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/7f/de/117fde2f-a485-7ee9-a7b3-7ce31011cc24/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.jpg",
+    "sellerName": "Aleksandr Kundelev",
+    "artistName": "Aleksandr Kundelev",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/13/a2/3e13a211-4221-7f55-74c2-0e77a77b242e/0_APP_IPHONE_65_0.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/70/db/8870db2c-8b19-b929-249f-2b3c869123c1/2_APP_IPHONE_65_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/2c/a6/1d2ca68f-3338-19e1-6690-0fe5b3e37f9f/1_APP_IPHONE_65_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/9f/52/dd9f5295-8921-b558-6a66-547e813b0ced/3_APP_IPHONE_65_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/26/d3/3126d385-6db8-3919-f768-50707b0f9605/4_APP_IPHONE_65_4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/6f/76/376f7613-a870-5eab-1675-fcc8af34f897/5_APP_IPHONE_65_5.png/320x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1787540512817
+  },
+  "6755392862": {
+    "name": "Countdown Reminder!",
+    "trackName": "Countdown Reminder!",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/countdown-reminder/id6755392862?uo=4",
+    "description": "Never lose track of what matters. Countdown Reminder helps you count down to birthdays, anniversaries, vacations, deadlines, weddings, graduations — anything worth the wait. BEAUTIFUL COUNTDOWNS Create stunning, color-coded countdowns with custom emojis, photos, and 10 handcrafted themes. Watch animated flip-clock digits tick down in real time. Switch between list and grid views. Your nearest event gets a featured hero card front and center. SMART REMINDERS Set preset reminders (1 week, 1 day, 1 hour) or create custom ones down to the minute. Every countdown automatically notifies you when it reaches zero. Never miss a moment again. ORGANIZE YOUR WAY Group events into categories, search across all your countdowns, or start from templates — Birthday, Trip, Wedding, Deadline, and more — that auto-fill emoji, color, and reminders for you. MILESTONES & NOTES Add a preparation checklist to any countdown. Track sub-tasks like \"Buy gift\", \"Book venue\", or \"Send invitations\" with a progress bar showing how ready you are. CLOUD SYNC Sign in once and your countdowns sync across all your devices. Create an event on your phone, see it on your tablet. Powered by Supabase with end-to-end encryption. SHARE LIVE COUNTDOWNS Generate a share code for any countdown and send it to friends or family. They can watch the same countdown tick down in real time — no account needed. EXPORT & BACKUP Export all your data as JSON. Import it on a new device. You're always in control of your data. PRIVACY FIRST No ads. No tracking. No subscriptions. All data stored locally on your device unless you choose to enable cloud sync. Your countdowns are yours. FEATURES AT A GLANCE Unlimited countdowns with custom colors, emojis, and photos 10 color themes with light and dark mode Animated flip-clock countdown display Smart reminders with custom scheduling Categories for organization Event templates for quick creation Milestone checklists per event Cloud sync across devices Shareable live countdown links Working days calculator Calendar export (Google Calendar) Home screen widget JSON data export and import Contact attachment with call, SMS, and WhatsApp Recurring events (daily, weekly, monthly, yearly) 3-page onboarding for new users Haptic feedback throughout Supports English and Spanish",
+    "fullDescription": "Never lose track of what matters. Countdown Reminder helps you count down to birthdays, anniversaries, vacations, deadlines, weddings, graduations — anything worth the wait. BEAUTIFUL COUNTDOWNS Create stunning, color-coded countdowns with custom emojis, photos, and 10 handcrafted themes. Watch animated flip-clock digits tick down in real time. Switch between list and grid views. Your nearest event gets a featured hero card front and center. SMART REMINDERS Set preset reminders (1 week, 1 day, 1 hour) or create custom ones down to the minute. Every countdown automatically notifies you when it reaches zero. Never miss a moment again. ORGANIZE YOUR WAY Group events into categories, search across all your countdowns, or start from templates — Birthday, Trip, Wedding, Deadline, and more — that auto-fill emoji, color, and reminders for you. MILESTONES & NOTES Add a preparation checklist to any countdown. Track sub-tasks like \"Buy gift\", \"Book venue\", or \"Send invitations\" with a progress bar showing how ready you are. CLOUD SYNC Sign in once and your countdowns sync across all your devices. Create an event on your phone, see it on your tablet. Powered by Supabase with end-to-end encryption. SHARE LIVE COUNTDOWNS Generate a share code for any countdown and send it to friends or family. They can watch the same countdown tick down in real time — no account needed. EXPORT & BACKUP Export all your data as JSON. Import it on a new device. You're always in control of your data. PRIVACY FIRST No ads. No tracking. No subscriptions. All data stored locally on your device unless you choose to enable cloud sync. Your countdowns are yours. FEATURES AT A GLANCE Unlimited countdowns with custom colors, emojis, and photos 10 color themes with light and dark mode Animated flip-clock countdown display Smart reminders with custom scheduling Categories for organization Event templates for quick creation Milestone checklists per event Cloud sync across devices Shareable live countdown links Working days calculator Calendar export (Google Calendar) Home screen widget JSON data export and import Contact attachment with call, SMS, and WhatsApp Recurring events (daily, weekly, monthly, yearly) 3-page onboarding for new users Haptic feedback throughout Supports English and Spanish",
+    "summaryDescription": "Never lose track of what matters. Countdown Reminder helps you count down to birthdays, anniversaries, vacations, deadlines, weddings, graduations — anything worth the wait. BEAUTIFUL COUNTDOWNS Create stunning, color-coded countdowns with custom emojis, photos, and 10 handcrafted themes. Watch animated flip-clock digits tick down in real time. Switch between list and grid views. Your nearest event gets a featured hero card front and center. SMART REMINDERS Set preset reminders (1 week, 1 day, 1 hour) or create custom ones down to the minute. Every countdown automatically notifies you when it reaches zero. Never miss a moment again. ORGANIZE YOUR WAY Group events into categories, search across all your countdowns, or start from templates — Birthday, Trip, Wedding, Deadline, and more — that auto-fill emoji, color, and reminders for you. MILESTONES & NOTES Add a preparation checklist to any countdown. Track sub-tasks like \"Buy gift\", \"Book venue\", or \"Send invitations\" with a progress bar showing how ready you are. CLOUD SYNC Sign in once and your countdowns sync across all your devices. Create an event on your phone, see it on your tablet. Powered by Supabase with end-to-end encryption. SHARE LIVE COUNTDOWNS Generate a share code for any countdown and send it to friends or family. They can watch the same countdown tick down in real time — no account needed. EXPORT & BACKUP Export all your data as JSON. Import it on a new device. You're always in control of your data. PRIVACY FIRST No ads. No tracking. No subscriptions. All data stored locally on your device unless you choose to enable cloud sync. Your countdowns are yours. FEATURES AT A GLANCE Unlimited countdowns with custom colors, emojis, and photos 10 color themes with light and dark mode Animated flip-clock countdown display Smart reminders with custom scheduling Categories for organization Event templates for quick creation Milestone checklists per event Cloud sync across devices Shareable live countdown links Working days calculator Calendar export (Google Calendar) Home screen widget JSON data export and import Contact attachment with call, SMS, and WhatsApp Recurring events (daily, weekly, monthly, yearly) 3-page onboarding for new users Haptic feedback throughout Supports English and Spanish",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/0b/c0/2b0bc0dd-d06e-d9fc-0e8b-2ae21025ba18/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/0b/c0/2b0bc0dd-d06e-d9fc-0e8b-2ae21025ba18/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Haileslassie Lilay Desalegn",
+    "artistName": "Haileslassie Lilay Desalegn",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/d2/92/4ed29273-5b1c-f612-cc9a-4b8b28f88c24/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/5c/3a/0e5c3a04-be38-f78b-0034-e9d4b1acc264/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/d2/f0/8ad2f064-8828-65b9-89d7-37b614b6976b/3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/c6/6b/92c66bb4-135c-8a38-0ed3-1d6747bb4550/4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/50/0a/53500a2c-9e2a-9f45-f1ce-792fb48b1fd4/5.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/8c/8e/658c8e72-31b9-ed47-d34c-9f48ea4d276f/Simulator_Screenshot_-_ipad13_-_2026-03-15_at_16.49.54.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/2e/98/5d2e98ed-35f3-79ec-8bc6-bf56c546d196/Simulator_Screenshot_-_ipad13_-_2026-03-15_at_16.50.13.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/44/a0/b044a0c5-834f-860b-7bfc-1daf2084938f/Simulator_Screenshot_-_ipad13_-_2026-03-15_at_16.49.57.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/5e/ad/835eadad-832b-f65c-49dc-77ce1f4e635f/Simulator_Screenshot_-_ipad13_-_2026-03-15_at_16.50.21.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/a1/48/26a1484b-9a39-1b23-0d78-e4a42e3ed73d/Simulator_Screenshot_-_ipad13_-_2026-03-15_at_16.50.00.png/360x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1787540512817
+  },
+  "6755319220": {
+    "name": "Convert All: Unit Converter",
+    "trackName": "Convert All: Unit Converter",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/convert-all-unit-converter/id6755319220?uo=4",
+    "description": "Convert All - is the only converter app you'll ever need. From everyday unit conversions to live currency rates, crypto markets, and smart calculators — everything is in one clean, fast app. LIVE CURRENCY & CRYPTO: Real-time exchange rates for 150+ currencies with automatic refresh Full crypto market screen powered by CoinGecko — prices, charts, market cap Historical exchange rate charts with trend visualization Works offline using your last cached rates 35+ CONVERSION CATEGORIES: Core: Length, Weight, Volume, Temperature, Area, Time, Speed, Angle Tech: Data & Storage, Digital Media & Imaging, Networking, Internet Speed Test Science: Force, Pressure, Energy, Power, Chemistry, Electrical Kitchen & Home: Cooking, Clothing Sizes, Fuel & Auto Finance: Currency, Percentage, Loan & Interest Calculator Math: Fractions, Number Bases (Binary, Hex, Octal) Health: Body Metrics (BMI, ideal weight), Steps & Activity Travel: Trip Cost Estimator, Time Zone Converter, Date & Age Calculator Practical: Tip & Bill Splitter, Home Helper, Media File Estimator SMART CALCULATORS Tip & Bill Splitter — split any bill, any tip, any number of people Trip Cost Estimator — fuel, tolls, and shared expenses in one screen Home Helper — cleaning products, laundry loads, paint coverage, cooking ratios Loan Calculator — monthly payments, total interest, amortization Body Metrics — BMI, ideal weight ranges, calorie estimates Media Estimator — calculate file sizes for any resolution and duration CLOTHING SIZE FINDER International size tables for Men, Women, Shoes, and Kids — searchable and tap-to-compare across US, UK, EU, and Asian sizing standards. DESIGN & USABILITY Clean Light and Dark mode — full contrast, readable everywhere Search across all 35+ categories instantly Save favorites and review your conversion history Share results as a clean image card No ads. No subscription. No sign-in required. Developed by GeezApps",
+    "fullDescription": "Convert All - is the only converter app you'll ever need. From everyday unit conversions to live currency rates, crypto markets, and smart calculators — everything is in one clean, fast app. LIVE CURRENCY & CRYPTO: Real-time exchange rates for 150+ currencies with automatic refresh Full crypto market screen powered by CoinGecko — prices, charts, market cap Historical exchange rate charts with trend visualization Works offline using your last cached rates 35+ CONVERSION CATEGORIES: Core: Length, Weight, Volume, Temperature, Area, Time, Speed, Angle Tech: Data & Storage, Digital Media & Imaging, Networking, Internet Speed Test Science: Force, Pressure, Energy, Power, Chemistry, Electrical Kitchen & Home: Cooking, Clothing Sizes, Fuel & Auto Finance: Currency, Percentage, Loan & Interest Calculator Math: Fractions, Number Bases (Binary, Hex, Octal) Health: Body Metrics (BMI, ideal weight), Steps & Activity Travel: Trip Cost Estimator, Time Zone Converter, Date & Age Calculator Practical: Tip & Bill Splitter, Home Helper, Media File Estimator SMART CALCULATORS Tip & Bill Splitter — split any bill, any tip, any number of people Trip Cost Estimator — fuel, tolls, and shared expenses in one screen Home Helper — cleaning products, laundry loads, paint coverage, cooking ratios Loan Calculator — monthly payments, total interest, amortization Body Metrics — BMI, ideal weight ranges, calorie estimates Media Estimator — calculate file sizes for any resolution and duration CLOTHING SIZE FINDER International size tables for Men, Women, Shoes, and Kids — searchable and tap-to-compare across US, UK, EU, and Asian sizing standards. DESIGN & USABILITY Clean Light and Dark mode — full contrast, readable everywhere Search across all 35+ categories instantly Save favorites and review your conversion history Share results as a clean image card No ads. No subscription. No sign-in required. Developed by GeezApps",
+    "summaryDescription": "Convert All - is the only converter app you'll ever need. From everyday unit conversions to live currency rates, crypto markets, and smart calculators — everything is in one clean, fast app. LIVE CURRENCY & CRYPTO: Real-time exchange rates for 150+ currencies with automatic refresh Full crypto market screen powered by CoinGecko — prices, charts, market cap Historical exchange rate charts with trend visualization Works offline using your last cached rates 35+ CONVERSION CATEGORIES: Core: Length, Weight, Volume, Temperature, Area, Time, Speed, Angle Tech: Data & Storage, Digital Media & Imaging, Networking, Internet Speed Test Science: Force, Pressure, Energy, Power, Chemistry, Electrical Kitchen & Home: Cooking, Clothing Sizes, Fuel & Auto Finance: Currency, Percentage, Loan & Interest Calculator Math: Fractions, Number Bases (Binary, Hex, Octal) Health: Body Metrics (BMI, ideal weight), Steps & Activity Travel: Trip Cost Estimator, Time Zone Converter, Date & Age Calculator Practical: Tip & Bill Splitter, Home Helper, Media File Estimator SMART CALCULATORS Tip & Bill Splitter — split any bill, any tip, any number of people Trip Cost Estimator — fuel, tolls, and shared expenses in one screen Home Helper — cleaning products, laundry loads, paint coverage, cooking ratios Loan Calculator — monthly payments, total interest, amortization Body Metrics — BMI, ideal weight ranges, calorie estimates Media Estimator — calculate file sizes for any resolution and duration CLOTHING SIZE FINDER International size tables for Men, Women, Shoes, and Kids — searchable and tap-to-compare across US, UK, EU, and Asian sizing standards. DESIGN & USABILITY Clean Light and Dark mode — full contrast, readable everywhere Search across all 35+ categories instantly Save favorites and review your conversion history Share results as a clean image card No ads. No subscription. No sign-in required. Developed by GeezApps",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/b6/60/05b660df-3ce6-25f8-3737-53e117102016/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/b6/60/05b660df-3ce6-25f8-3737-53e117102016/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Haileslassie Lilay Desalegn",
+    "artistName": "Haileslassie Lilay Desalegn",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/68/2b/ef682bf3-d193-b32a-bf7d-f8fa72047687/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/d3/68/3ad36874-d9b0-d174-8b00-09aa41742d64/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/95/f0/9495f024-1df9-5714-56ec-6d134de3e56a/4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/ab/6e/baab6e40-7ef5-ee15-9ce8-704d2d25c58c/3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/bb/29/0ebb2964-3343-a468-abe2-e17c4e29e5e3/5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/3b/d1/6e3bd17e-13b5-d05b-c8b9-c76df0c633f5/Simulator_Screenshot_-_11proMax_-_2025-11-17_at_12.57.52.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/07/bd/7407bdae-39df-bfc1-d72f-55d3a2d219dc/Simulator_Screenshot_-_11proMax_-_2025-11-17_at_12.58.07.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/9f/c6/999fc696-9819-da19-834c-16c605be3eb9/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-02_at_14.41.50.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/83/21/578321d5-e20d-a2ca-da42-83e729c5873f/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-02_at_14.41.39.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/70/aa/9c70aad7-026b-0661-c166-eddb305e5ef3/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-02_at_14.42.19.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/96/bc/0c96bc1f-b3b5-1420-febe-084c840c7bd9/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-02_at_14.42.35.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/24/92/0e24927d-05aa-a032-74db-a74205137789/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-02_at_14.43.34.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/c0/8a/40c08a02-0a2b-2dc3-9734-eb98fcd5bba6/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-02_at_14.42.07.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/23/05/94230520-4b0b-821f-fd0c-aa07a31ae937/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-02_at_14.44.30.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/81/57/2b8157c9-3691-6217-581e-61e36d5b8246/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-02_at_14.43.56.png/360x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1787540512817
+  },
+  "6478513576": {
+    "name": "Simple Tracker App",
+    "trackName": "Simple Tracker App",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787540512912,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/simple-tracker-app/id6478513576?uo=4",
+    "description": "Simple Tracker is designed to be the FASTEST and EASIEST way to track any value. Just tap anywhere on the screen to add. It's really that simple. Calories, goals made, times you did a good habit, allowance money, cups of water, grams of protein, the possibilities are endless! Additional features include: Swipe down to subtract Give each page it's own color and name Change the increment amount and value you are are currently on in settings Option to automatically reset a page's value to 0 daily (for things like calories/protein) With an extreme focus on being intuitive and easy to use, simple tracker is the best app for all your tracking needs. If you have any questions or feedback we would love to hear from you at freestyle.feedback@gmail.com. Thank you for considering Simple Tracker. Have a great day! :)",
+    "fullDescription": "Simple Tracker is designed to be the FASTEST and EASIEST way to track any value. Just tap anywhere on the screen to add. It's really that simple. Calories, goals made, times you did a good habit, allowance money, cups of water, grams of protein, the possibilities are endless! Additional features include: Swipe down to subtract Give each page it's own color and name Change the increment amount and value you are are currently on in settings Option to automatically reset a page's value to 0 daily (for things like calories/protein) With an extreme focus on being intuitive and easy to use, simple tracker is the best app for all your tracking needs. If you have any questions or feedback we would love to hear from you at freestyle.feedback@gmail.com. Thank you for considering Simple Tracker. Have a great day! :)",
+    "summaryDescription": "Simple Tracker is designed to be the FASTEST and EASIEST way to track any value. Just tap anywhere on the screen to add. It's really that simple. Calories, goals made, times you did a good habit, allowance money, cups of water, grams of protein, the possibilities are endless! Additional features include: Swipe down to subtract Give each page it's own color and name Change the increment amount and value you are are currently on in settings Option to automatically reset a page's value to 0 daily (for things like calories/protein) With an extreme focus on being intuitive and easy to use, simple tracker is the best app for all your tracking needs. If you have any questions or feedback we would love to hear from you at freestyle.feedback@gmail.com. Thank you for considering Simple Tracker. Have a great day! :)",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/ee/56/aeee56b7-c63d-014a-ae4d-1e55bea53e0e/AppIcon-1x_U007ephone-0-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/ee/56/aeee56b7-c63d-014a-ae4d-1e55bea53e0e/AppIcon-1x_U007ephone-0-85-220-0.png/100x100bb.jpg",
+    "sellerName": "Rohan Sachdeva",
+    "artistName": "Rohan Sachdeva",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/84/f8/1384f842-558b-e257-c9b6-ea03da57d7b3/5b5fd13a-4d6c-44e6-8946-2f342b2d9764_slice7.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/51/3f/29513fde-2b7e-ab74-4c11-d2c8e31e460a/6c987a88-93d5-416e-87a0-f11c1e07000c_slice8.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/c1/55/cac155ca-eb48-4583-7c52-e0b241a7ab16/4752f064-a1e0-455e-b57f-86d6a5823cd6_slice9.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/9d/cf/379dcf43-fae5-5374-7cc1-7f8333d88e8c/dc8d1b3b-7f92-44a0-9467-e26e6113b179_slice10.png/392x696bb.png"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1787540512817
   }
 }

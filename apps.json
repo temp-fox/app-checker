@@ -2,6 +2,121 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 782873188,
+      "name": {
+        "cn": "Calculator Pro Elite"
+      },
+      "addType": "auto",
+      "addSource": "keyword-search",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787540467886,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798107003,
+      "name": {
+        "cn": "视频打码 - 人脸车牌隐私马赛克"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787540512817,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6797868224,
+      "name": {
+        "cn": "家长助手-家庭学习任务管理 & 习惯养成工具"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787540512817,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6744382643,
+      "name": {
+        "cn": "三国霸业重置版"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787540512817,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6785310716,
+      "name": {
+        "cn": "SoldWrap"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787540512817,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6745030394,
+      "name": {
+        "cn": "Chord Whisper Piano"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787540512817,
+      "_discountType": "app"
+    },
+    {
+      "id": 6451388338,
+      "name": {
+        "cn": "Spent Pro：支出追踪"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787540512817,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755392862,
+      "name": {
+        "cn": "Countdown Reminder!"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787540512817,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755319220,
+      "name": {
+        "cn": "Convert All: Unit Converter"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787540512817,
+      "_discountType": "app"
+    },
+    {
+      "id": 6478513576,
+      "name": {
+        "cn": "Simple Tracker App"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787540512817,
+      "_discountType": "app"
+    },
+    {
       "id": 328157378,
       "name": {
         "cn": "Sanshin"
