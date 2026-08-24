@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6781238625,
+      "name": {
+        "cn": "Tessera : Hi-Res Music Player"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787546511404,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770272132,
+      "name": {
+        "cn": "DK汽车新闻"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787546522686,
+      "_discountType": "app"
+    },
+    {
       "id": 782873188,
       "name": {
         "cn": "Calculator Pro Elite"

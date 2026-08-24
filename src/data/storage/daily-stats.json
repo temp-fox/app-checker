@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": 1787552235170,
+    "cn": {
+      "total": 1,
+      "price": 1,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6477153043,
+          "name": "影控",
+          "type": "price",
+          "detail": "¥58.00 → ¥28.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787546174724,
     "cn": {
       "total": 8,
@@ -3907,64 +3923,6 @@
           "name": "Remove BG・Background Remover",
           "type": "iap",
           "detail": "Lifetime: ¥68.00 → ¥0.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786685573726,
-    "cn": {
-      "total": 8,
-      "price": 8,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 1459029099,
-          "name": "爱唐诗 - 回到唐朝品唐诗三百首",
-          "type": "price",
-          "detail": "¥3.00 → ¥2.00"
-        },
-        {
-          "id": 6789645403,
-          "name": "CompassOne",
-          "type": "price",
-          "detail": "¥12.00 → 免费"
-        },
-        {
-          "id": 1433579710,
-          "name": "轻日记-随记.便签.树洞.待办.日历.备忘",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6792522995,
-          "name": "Shift Plan Reminder",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6796486391,
-          "name": "BreakThree",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 1438199765,
-          "name": "Watchee",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6799132221,
-          "name": "Spider Climb: Web Hero",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6768739415,
-          "name": "SimpleFT8",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
