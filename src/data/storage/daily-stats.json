@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": 1787564570869,
+    "cn": {
+      "total": 4,
+      "price": 4,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6760898657,
+          "name": "Handwritten Quick Notes",
+          "type": "price",
+          "detail": "¥22.00 → ¥8.00"
+        },
+        {
+          "id": 6758276161,
+          "name": "Yoga Yogi",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1120637689,
+          "name": "YeNom",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6742807563,
+          "name": "手工皂计算 - DIY制皂配方与成本计算",
+          "type": "price",
+          "detail": "¥18.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787559644677,
     "cn": {
       "total": 3,
@@ -3935,22 +3969,6 @@
           "name": "Euclidean AUv3 Sequencer",
           "type": "price",
           "detail": "¥58.00 → ¥48.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786697026362,
-    "cn": {
-      "total": 1,
-      "price": 0,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6753894048,
-          "name": "Remove BG・Background Remover",
-          "type": "iap",
-          "detail": "Lifetime: ¥68.00 → ¥0.00"
         }
       ]
     }
