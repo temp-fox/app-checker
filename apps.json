@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 328157378,
+      "name": {
+        "cn": "Sanshin"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787533556982,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792390011,
+      "name": {
+        "cn": "PlainMark Editor"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787533554145,
+      "_discountType": "app"
+    },
+    {
       "id": 448287864,
       "name": {
         "cn": "手工皂计算 - 配方与皂化助手"

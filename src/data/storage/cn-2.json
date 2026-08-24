@@ -176714,11 +176714,23 @@
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00",
-      "The EDC": "¥15.00",
-      "Slow Burn": "¥15.00",
-      "Magnum Load": "¥15.00"
+      "The EDC": "¥8.00",
+      "Slow Burn": "¥8.00",
+      "Magnum Load": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787533584068,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "The EDC": "¥8.00",
+            "Slow Burn": "¥8.00",
+            "Magnum Load": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783264297366,
