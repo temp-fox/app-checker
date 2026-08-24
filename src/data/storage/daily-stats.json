@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1787595338692,
+    "cn": {
+      "total": 3,
+      "price": 2,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6775159112,
+          "name": "Koin: AI加密货币投资组合",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6744242726,
+          "name": "ZAP：AI足球预测",
+          "type": "iap",
+          "detail": "Zap Premium: ¥328.00 → ¥28.00"
+        },
+        {
+          "id": 1483271196,
+          "name": "Meshman 3D Viewer",
+          "type": "price",
+          "detail": "¥58.00 → ¥48.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787587519510,
     "cn": {
       "total": 11,
@@ -3997,82 +4025,6 @@
           "name": "Swypic: 照片清理大师",
           "type": "iap",
           "detail": "Premium Swipe: ¥198.00 → ¥22.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786723597359,
-    "cn": {
-      "total": 11,
-      "price": 9,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6766656777,
-          "name": "ReflectionsCamera",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 1390585987,
-          "name": "蒸汽波 - 80年代超现实艺术风",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 1198962475,
-          "name": "Sun & Moon 3D Planetarium Pro",
-          "type": "price",
-          "detail": "¥22.00 → ¥8.00"
-        },
-        {
-          "id": 380800734,
-          "name": "GPS Locator: The Original",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 1372113110,
-          "name": "iplant - Plant identifier",
-          "type": "iap",
-          "detail": "remove ad: ¥28.00 → ¥0.00"
-        },
-        {
-          "id": 1636164308,
-          "name": "NüFast：168轻断食计时器",
-          "type": "price",
-          "detail": "¥6.00 → ¥1.00"
-        },
-        {
-          "id": 6468902504,
-          "name": "CutEdge - 截图加壳/录屏加壳/图片加壳/视频加壳",
-          "type": "price",
-          "detail": "¥88.00 → 免费"
-        },
-        {
-          "id": 6761681816,
-          "name": "DualCamera Recorder - Dualcam",
-          "type": "iap",
-          "detail": "Pro Lifetime: ¥328.00 → ¥198.00"
-        },
-        {
-          "id": 958918035,
-          "name": "览色 Pro",
-          "type": "price",
-          "detail": "¥38.00 → ¥22.00"
-        },
-        {
-          "id": 6584529375,
-          "name": "小娃识字-小学认字写字必备",
-          "type": "price",
-          "detail": "¥6.00 → 免费"
-        },
-        {
-          "id": 1438820350,
-          "name": "末日方舟(无广告版)",
-          "type": "price",
-          "detail": "¥30.00 → ¥18.00"
         }
       ]
     }

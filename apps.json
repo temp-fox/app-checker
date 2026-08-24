@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 947875208,
+      "name": {
+        "cn": "Artista Impresso"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787589240012,
+      "_discountType": "app"
+    },
+    {
       "id": 6770438197,
       "name": {
         "cn": "实时海拔高度助手 - 无网络实时海拔测量仪指北针与小红书打卡"
