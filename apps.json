@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1622598042,
+      "name": {
+        "cn": "TV Launcher - Live UK Channels"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787596582611,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758963813,
+      "name": {
+        "cn": "GoGIS"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787596568474,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760455511,
+      "name": {
+        "cn": "Holy Bible - Read & Listen"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787596574322,
+      "_discountType": "app"
+    },
+    {
       "id": 947875208,
       "name": {
         "cn": "Artista Impresso"
