@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6770438197,
+      "name": {
+        "cn": "实时海拔高度助手 - 无网络实时海拔测量仪指北针与小红书打卡"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787582333208,
+      "_discountType": "app"
+    },
+    {
       "id": 544828277,
       "name": {
         "cn": "Pop Dot Comics"
@@ -48808,7 +48819,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1779176649284,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 1632856633,
