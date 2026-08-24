@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1787559644677,
+    "cn": {
+      "total": 3,
+      "price": 1,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6797709112,
+          "name": "SmartScrollCapture",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6789836770,
+          "name": "Brainrot Soundboard: Memes Box",
+          "type": "iap",
+          "detail": "Lifetime: ¥148.00 → ¥68.00"
+        },
+        {
+          "id": 6756722371,
+          "name": "Easy Contacts: Contact Manager",
+          "type": "iap",
+          "detail": "weekly: ¥38.00 → ¥22.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787552235170,
     "cn": {
       "total": 1,

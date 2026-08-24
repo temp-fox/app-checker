@@ -2803,10 +2803,11 @@
       }
     },
     "6756722371": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "lifetime": 1
+        "lifetime": 1,
+        "weekly": 1
       }
     },
     "6759893388": {
@@ -3847,8 +3848,8 @@
       "inAppPurchase": {}
     },
     "6797709112": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "6769832804": {
@@ -4470,6 +4471,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6789836770": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime": 1
+      }
     }
   }
 }
