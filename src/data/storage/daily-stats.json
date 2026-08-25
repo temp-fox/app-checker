@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": 1787688368227,
+    "cn": {
+      "total": 5,
+      "price": 3,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6777342711,
+          "name": "QR Code Studio",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 633008351,
+          "name": "Mortgage Payment Calculator",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6777342797,
+          "name": "NFC Studio",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6760972937,
+          "name": "Fragmenta: 每日古代史",
+          "type": "iap",
+          "detail": "Fragmenta 高级版（永久买断）: ¥328.00 → ¥168.00"
+        },
+        {
+          "id": 6760586460,
+          "name": "Widgetik：桌面小组件",
+          "type": "iap",
+          "detail": "Premium version: ¥15.00 → ¥0.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787681740506,
     "cn": {
       "total": 13,
@@ -4039,22 +4079,6 @@
           "name": "PantaScan 2: TTS Book Scanner",
           "type": "iap",
           "detail": "Unlock Premium PDF Export: ¥68.00 → ¥0.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786822725540,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 1257281849,
-          "name": "SkySafari",
-          "type": "price",
-          "detail": "¥22.00 → ¥8.00"
         }
       ]
     }
