@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1643761346,
+      "name": {
+        "cn": "Medley Music Player"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787689541121,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787302652,
+      "name": {
+        "cn": "记工时工资-小时工记加班"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787689537829,
+      "_discountType": "app"
+    },
+    {
+      "id": 6754517355,
+      "name": {
+        "cn": "Daily Quad"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787689543937,
+      "_discountType": "app"
+    },
+    {
       "id": 1388329473,
       "name": {
         "cn": "i临帖-乙瑛碑"
