@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": 1787674017600,
+    "cn": {
+      "total": 8,
+      "price": 5,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6797868224,
+          "name": "家长助手-家庭学习任务管理 & 习惯养成工具",
+          "type": "iap",
+          "detail": "年订阅: ¥58.00 → ¥18.00"
+        },
+        {
+          "id": 6797868224,
+          "name": "家长助手-家庭学习任务管理 & 习惯养成工具",
+          "type": "iap",
+          "detail": "月订阅: ¥18.00 → ¥6.00"
+        },
+        {
+          "id": 6797868224,
+          "name": "家长助手-家庭学习任务管理 & 习惯养成工具",
+          "type": "iap",
+          "detail": "周订阅: ¥6.00 → ¥3.00"
+        },
+        {
+          "id": 6752805381,
+          "name": "SmartBehavior",
+          "type": "price",
+          "detail": "¥38.00 → ¥8.00"
+        },
+        {
+          "id": 1455750065,
+          "name": "Loop Videos - Repeater",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1190312896,
+          "name": "Cut for Stories",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 1278169874,
+          "name": "Merge Videos - Compilation",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6739758615,
+          "name": "票小帮",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787658704032,
     "cn": {
       "total": 2,
@@ -3943,92 +4001,6 @@
           "name": "Pinnable+, Pins & Art Maker",
           "type": "price",
           "detail": "¥38.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786808508824,
-    "cn": {
-      "total": 10,
-      "price": 2,
-      "iap": 8,
-      "apps": [
-        {
-          "id": 6756984732,
-          "name": "起名匠",
-          "type": "iap",
-          "detail": "月度订阅: ¥8.00 → ¥6.00"
-        },
-        {
-          "id": 6756984732,
-          "name": "起名匠",
-          "type": "iap",
-          "detail": "年度订阅: ¥18.00 → ¥12.00"
-        },
-        {
-          "id": 985358162,
-          "name": "Art Master",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 6774842090,
-          "name": "AlarmCroc",
-          "type": "iap",
-          "detail": "Alarm Croc Yearly: ¥148.00 → ¥38.00"
-        },
-        {
-          "id": 6774842090,
-          "name": "AlarmCroc",
-          "type": "iap",
-          "detail": "AlarmCroc Monthly: ¥68.00 → ¥28.00"
-        },
-        {
-          "id": 6755654053,
-          "name": "SwipeClean: Storage Cleaner",
-          "type": "iap",
-          "detail": "All Access: ¥28.00 → ¥22.00"
-        },
-        {
-          "id": 6755654053,
-          "name": "SwipeClean: Storage Cleaner",
-          "type": "iap",
-          "detail": "Annual: ¥88.00 → ¥68.00"
-        },
-        {
-          "id": 6468486508,
-          "name": "Stratega!",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1492738910,
-          "name": "IPTV Smarters Player: BigPlay",
-          "type": "iap",
-          "detail": "BigPlay Pro Lifetime: ¥298.00 → ¥198.00"
-        },
-        {
-          "id": 1492738910,
-          "name": "IPTV Smarters Player: BigPlay",
-          "type": "iap",
-          "detail": "BigPlay Pro: ¥22.00 → ¥15.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786803352459,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 1581668963,
-          "name": "电子工具包: 口袋里的电子实验室",
-          "type": "price",
-          "detail": "¥38.00 → ¥28.00"
         }
       ]
     }

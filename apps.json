@@ -2,6 +2,51 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1111525772,
+      "name": {
+        "cn": "一品诗词"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787668945227,
+      "_discountType": "app"
+    },
+    {
+      "id": 1519213509,
+      "name": {
+        "cn": "iPreview - Quick Look 快速预览扩展"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1787668995797,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789124071,
+      "name": {
+        "cn": "VeloRand: 随机骑行路线生成器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787668942484,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790936102,
+      "name": {
+        "cn": "Benchtrail: Lab Notebook"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787668945169,
+      "_discountType": "app"
+    },
+    {
       "id": 439517294,
       "name": {
         "cn": "eXtra Voice Recorder Pro."
