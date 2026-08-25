@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1459671308,
+      "name": {
+        "cn": "회독HSK"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787647139919,
+      "_discountType": "app"
+    },
+    {
+      "id": 6478898564,
+      "name": {
+        "cn": "NERD Synth A2x + AUv3"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787647134604,
+      "_discountType": "app"
+    },
+    {
       "id": 599225344,
       "name": {
         "cn": "Oxford Thesaurus of English 2"
