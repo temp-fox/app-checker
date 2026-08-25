@@ -2,6 +2,52 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 439517294,
+      "name": {
+        "cn": "eXtra Voice Recorder Pro."
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1787661736993,
+      "_discountType": "app"
+    },
+    {
+      "id": 620332305,
+      "name": {
+        "cn": "Guest List Organizer"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1787661736993,
+      "_discountType": "app"
+    },
+    {
+      "id": 1466236535,
+      "name": {
+        "cn": "画中画相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787661684984,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798554682,
+      "name": {
+        "cn": "PaperZine"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787661684984,
+      "_discountType": "app"
+    },
+    {
       "id": 1572935885,
       "name": {
         "cn": "学思经方"
