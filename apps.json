@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1388329473,
+      "name": {
+        "cn": "i临帖-乙瑛碑"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787675650231,
+      "_discountType": "app"
+    },
+    {
+      "id": 1572386611,
+      "name": {
+        "cn": "TriangleS"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787675641580,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757796318,
+      "name": {
+        "cn": "万年历Lite-简洁轻量的现代化黄历"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787675647233,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767709239,
+      "name": {
+        "cn": "私塾蒙館"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787675650231,
+      "_discountType": "app"
+    },
+    {
       "id": 1111525772,
       "name": {
         "cn": "一品诗词"
@@ -12378,7 +12422,8 @@
       "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSourceFirstSeen": 1785407148786,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 970161373,
@@ -21424,7 +21469,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1783909837889,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6762445242,
