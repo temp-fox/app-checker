@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1572935885,
+      "name": {
+        "cn": "学思经方"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787653737544,
+      "_discountType": "app"
+    },
+    {
+      "id": 6784158541,
+      "name": {
+        "cn": "气味志"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787653748224,
+      "_discountType": "app"
+    },
+    {
       "id": 1459671308,
       "name": {
         "cn": "회독HSK"
