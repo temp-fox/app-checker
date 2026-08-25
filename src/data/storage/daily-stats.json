@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": 1787625291127,
+    "cn": {
+      "total": 4,
+      "price": 3,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6760943637,
+          "name": "swayp - gallery cleaner",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6760608912,
+          "name": "猫欧MO",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6757162931,
+          "name": "Emotica - 情绪追踪与心情日记",
+          "type": "iap",
+          "detail": "Emotica Pro Lifetime: ¥598.00 → ¥168.00"
+        },
+        {
+          "id": 448943039,
+          "name": "BookReader",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787615341258,
     "cn": {
       "total": 4,
@@ -3985,40 +4019,6 @@
           "name": "BallFallDown Deluxe",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786760432708,
-    "cn": {
-      "total": 4,
-      "price": 3,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6780931157,
-          "name": "MyyyOdyssey",
-          "type": "iap",
-          "detail": "MyyyOdyssey Pro: ¥28.00 → ¥8.00"
-        },
-        {
-          "id": 6777280757,
-          "name": "觅静：ASMR白噪音与鸟叫声识别",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 461793562,
-          "name": "You Record Pro",
-          "type": "price",
-          "detail": "¥78.00 → 免费"
-        },
-        {
-          "id": 1257281849,
-          "name": "SkySafari",
-          "type": "price",
-          "detail": "¥38.00 → ¥22.00"
         }
       ]
     }

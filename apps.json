@@ -2,6 +2,18 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 448943039,
+      "name": {
+        "cn": "BookReader"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1787619932441,
+      "_discountType": "app"
+    },
+    {
       "id": 789553991,
       "name": {
         "cn": "MapTool - GPS, Compass, Altitude, Speedometer, UTM, MGRS and Magnetic Declination"
