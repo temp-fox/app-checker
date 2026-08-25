@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1787701361017,
+    "cn": {
+      "total": 3,
+      "price": 3,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6760831361,
+          "name": "Offline Topo Maps & Trails",
+          "type": "price",
+          "detail": "¥38.00 → ¥22.00"
+        },
+        {
+          "id": 6504745518,
+          "name": "Xproguard Password Manager",
+          "type": "price",
+          "detail": "¥148.00 → 免费"
+        },
+        {
+          "id": 1114320457,
+          "name": "Baby Led Weaning Recipes",
+          "type": "price",
+          "detail": "¥38.00 → ¥28.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787694831401,
     "cn": {
       "total": 5,
@@ -4103,22 +4131,6 @@
           "name": "Relax Melodies P: Sleep Sounds",
           "type": "iap",
           "detail": "订购: ¥70.00 → ¥35.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786837141814,
-    "cn": {
-      "total": 1,
-      "price": 0,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6749012209,
-          "name": "PantaScan 2: TTS Book Scanner",
-          "type": "iap",
-          "detail": "Unlock Premium PDF Export: ¥68.00 → ¥0.00"
         }
       ]
     }

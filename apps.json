@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6761263676,
+      "name": {
+        "cn": "IOM Sailboat Tuner"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787696628548,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759815199,
+      "name": {
+        "cn": "DF95 & DF65 Sailboat Tuner"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787696628548,
+      "_discountType": "app"
+    },
+    {
+      "id": 6800251747,
+      "name": {
+        "cn": "52 Shot"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787696631150,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760371384,
+      "name": {
+        "cn": "PhotoTrace: Camera Tracing"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787696631150,
+      "_discountType": "app"
+    },
+    {
       "id": 1643761346,
       "name": {
         "cn": "Medley Music Player"

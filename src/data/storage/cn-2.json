@@ -41367,6 +41367,22 @@
     "history": [
       [
         {
+          "timestamp": 1787696663296,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "每日英语听力VIP订阅": "¥88.00",
+            "《每日外刊》订阅": "¥63.00",
+            "长期VIP权限": "¥398.00",
+            "一年VIP权限": "¥128.00",
+            "《小王子》": "¥40.00",
+            "《了不起的盖茨比》": "¥40.00",
+            "推倒一切，重学英语": "¥98.00",
+            "60天打造流利口语": "¥98.00",
+            "《英语四级真题精品课》": "¥60.00"
+          }
+        },
+        {
           "timestamp": 1787675680296,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -163871,14 +163887,22 @@
     "name": "TV Launcher - Live UK Channels",
     "trackName": "TV Launcher - Live UK Channels",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
+      "price": 48,
+      "formattedPrice": "¥48.00"
     },
     "minPriceInfo": {
       "price": 38,
       "formattedPrice": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787696663296,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787596606895,
@@ -167609,6 +167633,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1787696663296,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Blur Photo+ Lifetime": "¥198.00",
+            "Blur Photo+": "¥148.00"
+          }
+        },
         {
           "timestamp": 1787675680296,
           "price": 0,
