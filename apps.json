@@ -2,6 +2,108 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6504547931,
+      "name": {
+        "cn": "Basic Music Player"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787626583517,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793786056,
+      "name": {
+        "cn": "爱圣经"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787626591183,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762102654,
+      "name": {
+        "cn": "吉日历-老黄历万年历·黄道吉日"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787626631870,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6764725683,
+      "name": {
+        "cn": "SSH Client – Terminal & SFTP"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787626631870,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6770536492,
+      "name": {
+        "cn": "Live Level - Habit Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787626631870,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6785441468,
+      "name": {
+        "cn": "扬声器清灰-手机排水喇叭除尘,听筒清理灰尘"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787626631870,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6762950087,
+      "name": {
+        "cn": "Riffer Madness"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787626631870,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761355656,
+      "name": {
+        "cn": "CardPecker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787626631870,
+      "_discountType": "app"
+    },
+    {
+      "id": 6746750652,
+      "name": {
+        "cn": "OutRaceTV"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787626631870,
+      "_discountType": "app"
+    },
+    {
       "id": 448943039,
       "name": {
         "cn": "BookReader"
