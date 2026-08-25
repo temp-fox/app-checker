@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": 1787638688088,
+    "cn": {
+      "total": 3,
+      "price": 0,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6760577609,
+          "name": "PicPure - 照片清理大师",
+          "type": "iap",
+          "detail": "Lifetime Premium: ¥88.00 → ¥8.00"
+        },
+        {
+          "id": 6756433654,
+          "name": "My Diary - Journal & Notes",
+          "type": "iap",
+          "detail": "Yearly Pro Access: ¥148.00 → ¥68.00"
+        },
+        {
+          "id": 6758548229,
+          "name": "深色模式 | 网页",
+          "type": "iap",
+          "detail": "DarkMode Pro: ¥22.00 → ¥8.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1787632029738,
     "cn": {
       "total": 5,
@@ -3973,34 +4001,6 @@
           "name": "爱五笔 - 五笔编码拆字大全",
           "type": "price",
           "detail": "¥8.00 → ¥6.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1786773162465,
-    "cn": {
-      "total": 3,
-      "price": 2,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6769611605,
-          "name": "PDF剪辑大师",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6737126687,
-          "name": "3GS",
-          "type": "price",
-          "detail": "¥22.00 → ¥8.00"
-        },
-        {
-          "id": 6759470615,
-          "name": "Safe-Word: Voice SOS & Safety",
-          "type": "iap",
-          "detail": "Safe-Word: ¥198.00 → ¥38.00"
         }
       ]
     }
