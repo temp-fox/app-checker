@@ -23121,13 +23121,25 @@
       "网球ACE年度会员": "¥38.00"
     },
     "minPriceInfo": {
-      "price": 58,
-      "formattedPrice": "¥58.00",
-      "网球ACE永久会员": "¥68.00",
+      "price": 0,
+      "formattedPrice": "免费",
+      "网球ACE永久会员": "¥58.00",
       "网球ACE月度会员": "¥18.00",
       "网球ACE年度会员": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787719051569,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "网球ACE永久会员": "¥58.00",
+            "网球ACE月度会员": "¥18.00",
+            "网球ACE年度会员": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786424748548,
@@ -39865,8 +39877,8 @@
     "description": "Numline是一款会算数的记事本。左边用大白话把账记下来，右边答案实时出现。 不用找按键，也没有等号。写一行，就算一行——“120 USD to EUR”“20% of 4800”“房租 = 2400”，边写边出结果。 无需账号，无订阅，无广告。记事本只保存在你自己的设备上。 你可以用它来： 大白话算数——写“95 EUR * 4”，答案就在旁边 汇率换算——“1200 CNY to JPY”，汇率自动更新，离线时用最近一次的汇率计算，结果为近似值 单位换算——长度、重量、温度都行：“120 miles to km”“356 F to C” 百分比——小费、打折、AA制，一句话写完：“89 + 15%”“240 / 4 + 10%” 变量——起个名字，随处引用：“时薪 = 85”“32 * 时薪”，中文名也可以 分组合计——写个total自动求和，空一行就是新的一组 日期计算——“出发 - today”“出发 + 2 weeks”，倒计时一目了然 常用函数——sqrt、round、abs随手可用 简写——“19k + 80k”，k就是一千 配色主题——经典、青柠、紫罗兰、琥珀，换个配色换个心情 多个记事本——旅行、房租、随手一算，各记各的 每一行都是活的：改一个数字，下面的结果全部跟着更新。回头再看，就像自己写的一页笔记，每一步是怎么算的，清清楚楚。 深色编辑器，配色随你挑，安安静静，不打扰。 记下来，自然就算好了。",
     "fullDescription": "Numline是一款会算数的记事本。左边用大白话把账记下来，右边答案实时出现。 不用找按键，也没有等号。写一行，就算一行——“120 USD to EUR”“20% of 4800”“房租 = 2400”，边写边出结果。 无需账号，无订阅，无广告。记事本只保存在你自己的设备上。 你可以用它来： 大白话算数——写“95 EUR * 4”，答案就在旁边 汇率换算——“1200 CNY to JPY”，汇率自动更新，离线时用最近一次的汇率计算，结果为近似值 单位换算——长度、重量、温度都行：“120 miles to km”“356 F to C” 百分比——小费、打折、AA制，一句话写完：“89 + 15%”“240 / 4 + 10%” 变量——起个名字，随处引用：“时薪 = 85”“32 * 时薪”，中文名也可以 分组合计——写个total自动求和，空一行就是新的一组 日期计算——“出发 - today”“出发 + 2 weeks”，倒计时一目了然 常用函数——sqrt、round、abs随手可用 简写——“19k + 80k”，k就是一千 配色主题——经典、青柠、紫罗兰、琥珀，换个配色换个心情 多个记事本——旅行、房租、随手一算，各记各的 每一行都是活的：改一个数字，下面的结果全部跟着更新。回头再看，就像自己写的一页笔记，每一步是怎么算的，清清楚楚。 深色编辑器，配色随你挑，安安静静，不打扰。 记下来，自然就算好了。",
     "summaryDescription": "Numline是一款会算数的记事本。左边用大白话把账记下来，右边答案实时出现。 不用找按键，也没有等号。写一行，就算一行——“120 USD to EUR”“20% of 4800”“房租 = 2400”，边写边出结果。 无需账号，无订阅，无广告。记事本只保存在你自己的设备上。 你可以用它来： 大白话算数——写“95 EUR * 4”，答案就在旁边 汇率换算——“1200 CNY to JPY”，汇率自动更新，离线时用最近一次的汇率计算，结果为近似值 单位换算——长度、重量、温度都行：“120 miles to km”“356 F to C” 百分比——小费、打折、AA制，一句话写完：“89 + 15%”“240 / 4 + 10%” 变量——起个名字，随处引用：“时薪 = 85”“32 * 时薪”，中文名也可以 分组合计——写个total自动求和，空一行就是新的一组 日期计算——“出发 - today”“出发 + 2 weeks”，倒计时一目了然 常用函数——sqrt、round、abs随手可用 简写——“19k + 80k”，k就是一千 配色主题——经典、青柠、紫罗兰、琥珀，换个配色换个心情 多个记事本——旅行、房租、随手一算，各记各的 每一行都是活的：改一个数字，下面的结果全部跟着更新。回头再看，就像自己写的一页笔记，每一步是怎么算的，清清楚楚。 深色编辑器，配色随你挑，安安静静，不打扰。 记下来，自然就算好了。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/33/e8/5933e821-0ab5-48da-bd0a-26e87c202365/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/33/e8/5933e821-0ab5-48da-bd0a-26e87c202365/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/e4/b5/74e4b558-abaf-7247-0eb4-4c30febd0e1b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/e4/b5/74e4b558-abaf-7247-0eb4-4c30febd0e1b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Zhiqi Pan",
     "artistName": "Zhiqi Pan",
     "screenshotUrls": [
@@ -43811,8 +43823,8 @@
     "description": "CardPecker — Use Your Best Card Stop guessing which credit card to use. CardPecker instantly shows which card earns the most for dining, hotels, airlines, groceries, travel, and more — and tells you when an offer or a program change is worth knowing about. CHOOSE THE BEST CARD Add your cards and reward multipliers once. Select a spending category to see your cards ranked by their effective return, including the estimated points and cash value you could earn. TODAY'S CARD NEWS Award chart changes, annual fee moves, new routes and program shake-ups, gathered each morning from the publications that cover them. Every story says where it came from — confirmed by the issuer or airline itself, or reported by a named publication — so you can judge it for yourself. CARD-LINKED DEALS Amex Offers, Chase Offers, Citi Offers and merchant promotions, with the terms up front: spend thresholds, statement credits, points earned, and whether the offer has to be activated first. Filter by issuer, and open the original source whenever you want to check the details. NEVER FORGET A BENEFIT Track travel credits, dining credits, lounge access, free nights, checked-bag benefits, and more. Benefits automatically renew according to the schedule you configure, so you can quickly see what remains available. TRACK PURCHASES AND RECEIPTS Record a purchase directly from a card recommendation. CardPecker calculates the points earned and estimated value using the card's reward multiplier. Review receipt history, filter by card, and monitor monthly totals. SCAN RECEIPTS ON-DEVICE Photograph a paper receipt and let CardPecker read the merchant and total. Receipt recognition happens directly on your iPhone, and saving the receipt image is optional. BUILT FOR MULTI-CARD WALLETS Whether you carry two cards or twelve, CardPecker makes reward categories easier to manage. Use subcategories to distinguish airlines, hotels, and other brands when different cards earn different rates. ALERTS ON YOUR TERMS Choose whether news, deals, or both are worth an alert. Turn either off at any time, and CardPecker stops sending it. OPTIONAL ICLOUD BACKUPS Schedule daily, weekly, or monthly backups to iCloud Drive. Restore your cards, benefits, purchase history, and saved receipt images when moving to another iPhone. PRIVATE BY DESIGN No account is required. Your cards, benefits, and receipt history are stored locally on your device, and receipt scanning uses on-device text recognition. News and deals are fetched from CardPecker's own service, and nothing about your cards or your spending is sent with the request. CardPecker does not ask for your location.",
     "fullDescription": "CardPecker — Use Your Best Card Stop guessing which credit card to use. CardPecker instantly shows which card earns the most for dining, hotels, airlines, groceries, travel, and more — and tells you when an offer or a program change is worth knowing about. CHOOSE THE BEST CARD Add your cards and reward multipliers once. Select a spending category to see your cards ranked by their effective return, including the estimated points and cash value you could earn. TODAY'S CARD NEWS Award chart changes, annual fee moves, new routes and program shake-ups, gathered each morning from the publications that cover them. Every story says where it came from — confirmed by the issuer or airline itself, or reported by a named publication — so you can judge it for yourself. CARD-LINKED DEALS Amex Offers, Chase Offers, Citi Offers and merchant promotions, with the terms up front: spend thresholds, statement credits, points earned, and whether the offer has to be activated first. Filter by issuer, and open the original source whenever you want to check the details. NEVER FORGET A BENEFIT Track travel credits, dining credits, lounge access, free nights, checked-bag benefits, and more. Benefits automatically renew according to the schedule you configure, so you can quickly see what remains available. TRACK PURCHASES AND RECEIPTS Record a purchase directly from a card recommendation. CardPecker calculates the points earned and estimated value using the card's reward multiplier. Review receipt history, filter by card, and monitor monthly totals. SCAN RECEIPTS ON-DEVICE Photograph a paper receipt and let CardPecker read the merchant and total. Receipt recognition happens directly on your iPhone, and saving the receipt image is optional. BUILT FOR MULTI-CARD WALLETS Whether you carry two cards or twelve, CardPecker makes reward categories easier to manage. Use subcategories to distinguish airlines, hotels, and other brands when different cards earn different rates. ALERTS ON YOUR TERMS Choose whether news, deals, or both are worth an alert. Turn either off at any time, and CardPecker stops sending it. OPTIONAL ICLOUD BACKUPS Schedule daily, weekly, or monthly backups to iCloud Drive. Restore your cards, benefits, purchase history, and saved receipt images when moving to another iPhone. PRIVATE BY DESIGN No account is required. Your cards, benefits, and receipt history are stored locally on your device, and receipt scanning uses on-device text recognition. News and deals are fetched from CardPecker's own service, and nothing about your cards or your spending is sent with the request. CardPecker does not ask for your location.",
     "summaryDescription": "CardPecker — Use Your Best Card Stop guessing which credit card to use. CardPecker instantly shows which card earns the most for dining, hotels, airlines, groceries, travel, and more — and tells you when an offer or a program change is worth knowing about. CHOOSE THE BEST CARD Add your cards and reward multipliers once. Select a spending category to see your cards ranked by their effective return, including the estimated points and cash value you could earn. TODAY'S CARD NEWS Award chart changes, annual fee moves, new routes and program shake-ups, gathered each morning from the publications that cover them. Every story says where it came from — confirmed by the issuer or airline itself, or reported by a named publication — so you can judge it for yourself. CARD-LINKED DEALS Amex Offers, Chase Offers, Citi Offers and merchant promotions, with the terms up front: spend thresholds, statement credits, points earned, and whether the offer has to be activated first. Filter by issuer, and open the original source whenever you want to check the details. NEVER FORGET A BENEFIT Track travel credits, dining credits, lounge access, free nights, checked-bag benefits, and more. Benefits automatically renew according to the schedule you configure, so you can quickly see what remains available. TRACK PURCHASES AND RECEIPTS Record a purchase directly from a card recommendation. CardPecker calculates the points earned and estimated value using the card's reward multiplier. Review receipt history, filter by card, and monitor monthly totals. SCAN RECEIPTS ON-DEVICE Photograph a paper receipt and let CardPecker read the merchant and total. Receipt recognition happens directly on your iPhone, and saving the receipt image is optional. BUILT FOR MULTI-CARD WALLETS Whether you carry two cards or twelve, CardPecker makes reward categories easier to manage. Use subcategories to distinguish airlines, hotels, and other brands when different cards earn different rates. ALERTS ON YOUR TERMS Choose whether news, deals, or both are worth an alert. Turn either off at any time, and CardPecker stops sending it. OPTIONAL ICLOUD BACKUPS Schedule daily, weekly, or monthly backups to iCloud Drive. Restore your cards, benefits, purchase history, and saved receipt images when moving to another iPhone. PRIVATE BY DESIGN No account is required. Your cards, benefits, and receipt history are stored locally on your device, and receipt scanning uses on-device text recognition. News and deals are fetched from CardPecker's own service, and nothing about your cards or your spending is sent with the request. CardPecker does not ask for your location.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/42/f2/1442f2a2-54e9-5f95-07fc-501d383de283/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/42/f2/1442f2a2-54e9-5f95-07fc-501d383de283/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/3f/b9/233fb99d-adde-b22a-cf37-cb5717dadbdf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/3f/b9/233fb99d-adde-b22a-cf37-cb5717dadbdf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "TravelPal LLC",
     "artistName": "TravelPal LLC",
     "screenshotUrls": [
@@ -45111,5 +45123,201 @@
     ],
     "_externalSource": "OODATA",
     "_externalSourceFirstSeen": 1787713397703
+  },
+  "6757245069": {
+    "name": "ComicFlow - CBR & CBZ to PDF",
+    "trackName": "ComicFlow - CBR & CBZ to PDF",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00",
+      "ComicFlow Pro": "¥48.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00",
+      "ComicFlow Pro": "¥48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787719051569,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "ComicFlow Pro": "¥48.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/comicflow-cbr-cbz-to-pdf/id6757245069?uo=4",
+    "description": "ComicFlow 可将 CBR 和 CBZ 漫画压缩包转换为 PDF、直接阅读，并帮你整理收藏——100% 离线、注重隐私。无广告、无需账户、无订阅。 将 CBR/CBZ 转换为 PDF 一键将漫画压缩包转换为 PDF。ComicFlow 会从你的 CBR、CBZ、RAR 和 ZIP 文件中提取每一页，并在数秒内生成排序正确、干净整洁的 PDF。 三种质量设置：低画质用于分享，中画质用于日常阅读，高画质供收藏 批量转换：将多个文件加入队列，逐个查看转换进度 CBZ 导出——所有人免费 将任意漫画转换为标准 CBZ，可在 Kobo、Boox、PocketBook、KOReader 以及几乎所有漫画阅读应用中原生打开。不重新编码，不损失画质。基础版即含此功能，无需额外购买。 直接阅读漫画——无需转换 在内置阅读器中即时打开 CBR、CBZ 和 PDF 文件，专为高分辨率漫画页面优化。 双击或捏合放大欣赏画面细节 点按区域，单手即可翻页 自动为每个文件保存阅读位置 收藏页面，随时跳回 整理你的收藏 为系列或题材创建自定义合集 五星评分、个人笔记和标签 阅读状态：未读、在读、已读完 即时搜索；按出版商、年份、题材、评分或状态筛选 自动读取 ComicInfo.xml 元数据 灵活的阅读模式 单页、双页跨页，或适合条漫的竖向滚动 适用于日漫的从右到左翻页顺序 缩略图网格，快速导航 完整的 iPad 键盘操作：方向键、空格键、T 键打开缩略图、B 键收藏等 iCLOUD 同步 阅读进度、书签、评分和笔记可在你的 Apple 设备间同步。可选功能，无需账户——且绝不会上传你的漫画文件。 COMICFLOW PRO——可选的一次性升级 基础版功能完整，并将一直如此。Pro 是单次内购——一次付费，永久拥有，无订阅——新增以下功能： Face ID 加密合集：用 Face ID、Touch ID 或密码保护私密漫画 阅读器预设：保存你的日漫、欧美漫画和条漫设置，一键切换 面向电子阅读器的 EPUB 导出：为 Kobo、Boox、reMarkable 和 PocketBook 调校的固定版式 EPUB3，并为 Kobo 提供 .kepub 选项 电子墨水图像优化：自动裁剪、按设备调校的对比度与锐化、灰度色板、为日漫提供双页拆分、条漫长条拆分 关于 Kindle 的诚实说明：Kindle 设备无法打开旁加载的 EPUB 文件。ComicFlow 的 EPUB 导出需配合免费的 Calibre 桌面应用，才能将漫画传入 Kindle——应用会清晰说明具体步骤，而不会假装这只需一键完成。 100% 离线、注重隐私 无需联网。无需账户。无追踪。无广告。你的漫画留在自己的设备上，你的阅读习惯只属于你自己。 公道定价 应用一次买断，即可获得完整的转换器、阅读器和书库。Pro 为可选功能，同样是一次性购买。不会自动续费、不会到期，也不会反复打扰你。 支持的格式 CBR、CBZ、RAR、ZIP 和 PDF——可从“文件”应用、电子邮件、云存储或任意分享应用中打开。 支持 18 种语言 英语、德语、西班牙语、法语、意大利语、日语、韩语、葡萄牙语（巴西）、简体中文、繁体中文、土耳其语、波兰语、荷兰语、印尼语、泰语、越南语、乌克兰语和瑞典语。",
+    "fullDescription": "ComicFlow 可将 CBR 和 CBZ 漫画压缩包转换为 PDF、直接阅读，并帮你整理收藏——100% 离线、注重隐私。无广告、无需账户、无订阅。 将 CBR/CBZ 转换为 PDF 一键将漫画压缩包转换为 PDF。ComicFlow 会从你的 CBR、CBZ、RAR 和 ZIP 文件中提取每一页，并在数秒内生成排序正确、干净整洁的 PDF。 三种质量设置：低画质用于分享，中画质用于日常阅读，高画质供收藏 批量转换：将多个文件加入队列，逐个查看转换进度 CBZ 导出——所有人免费 将任意漫画转换为标准 CBZ，可在 Kobo、Boox、PocketBook、KOReader 以及几乎所有漫画阅读应用中原生打开。不重新编码，不损失画质。基础版即含此功能，无需额外购买。 直接阅读漫画——无需转换 在内置阅读器中即时打开 CBR、CBZ 和 PDF 文件，专为高分辨率漫画页面优化。 双击或捏合放大欣赏画面细节 点按区域，单手即可翻页 自动为每个文件保存阅读位置 收藏页面，随时跳回 整理你的收藏 为系列或题材创建自定义合集 五星评分、个人笔记和标签 阅读状态：未读、在读、已读完 即时搜索；按出版商、年份、题材、评分或状态筛选 自动读取 ComicInfo.xml 元数据 灵活的阅读模式 单页、双页跨页，或适合条漫的竖向滚动 适用于日漫的从右到左翻页顺序 缩略图网格，快速导航 完整的 iPad 键盘操作：方向键、空格键、T 键打开缩略图、B 键收藏等 iCLOUD 同步 阅读进度、书签、评分和笔记可在你的 Apple 设备间同步。可选功能，无需账户——且绝不会上传你的漫画文件。 COMICFLOW PRO——可选的一次性升级 基础版功能完整，并将一直如此。Pro 是单次内购——一次付费，永久拥有，无订阅——新增以下功能： Face ID 加密合集：用 Face ID、Touch ID 或密码保护私密漫画 阅读器预设：保存你的日漫、欧美漫画和条漫设置，一键切换 面向电子阅读器的 EPUB 导出：为 Kobo、Boox、reMarkable 和 PocketBook 调校的固定版式 EPUB3，并为 Kobo 提供 .kepub 选项 电子墨水图像优化：自动裁剪、按设备调校的对比度与锐化、灰度色板、为日漫提供双页拆分、条漫长条拆分 关于 Kindle 的诚实说明：Kindle 设备无法打开旁加载的 EPUB 文件。ComicFlow 的 EPUB 导出需配合免费的 Calibre 桌面应用，才能将漫画传入 Kindle——应用会清晰说明具体步骤，而不会假装这只需一键完成。 100% 离线、注重隐私 无需联网。无需账户。无追踪。无广告。你的漫画留在自己的设备上，你的阅读习惯只属于你自己。 公道定价 应用一次买断，即可获得完整的转换器、阅读器和书库。Pro 为可选功能，同样是一次性购买。不会自动续费、不会到期，也不会反复打扰你。 支持的格式 CBR、CBZ、RAR、ZIP 和 PDF——可从“文件”应用、电子邮件、云存储或任意分享应用中打开。 支持 18 种语言 英语、德语、西班牙语、法语、意大利语、日语、韩语、葡萄牙语（巴西）、简体中文、繁体中文、土耳其语、波兰语、荷兰语、印尼语、泰语、越南语、乌克兰语和瑞典语。",
+    "summaryDescription": "ComicFlow 可将 CBR 和 CBZ 漫画压缩包转换为 PDF、直接阅读，并帮你整理收藏——100% 离线、注重隐私。无广告、无需账户、无订阅。 将 CBR/CBZ 转换为 PDF 一键将漫画压缩包转换为 PDF。ComicFlow 会从你的 CBR、CBZ、RAR 和 ZIP 文件中提取每一页，并在数秒内生成排序正确、干净整洁的 PDF。 三种质量设置：低画质用于分享，中画质用于日常阅读，高画质供收藏 批量转换：将多个文件加入队列，逐个查看转换进度 CBZ 导出——所有人免费 将任意漫画转换为标准 CBZ，可在 Kobo、Boox、PocketBook、KOReader 以及几乎所有漫画阅读应用中原生打开。不重新编码，不损失画质。基础版即含此功能，无需额外购买。 直接阅读漫画——无需转换 在内置阅读器中即时打开 CBR、CBZ 和 PDF 文件，专为高分辨率漫画页面优化。 双击或捏合放大欣赏画面细节 点按区域，单手即可翻页 自动为每个文件保存阅读位置 收藏页面，随时跳回 整理你的收藏 为系列或题材创建自定义合集 五星评分、个人笔记和标签 阅读状态：未读、在读、已读完 即时搜索；按出版商、年份、题材、评分或状态筛选 自动读取 ComicInfo.xml 元数据 灵活的阅读模式 单页、双页跨页，或适合条漫的竖向滚动 适用于日漫的从右到左翻页顺序 缩略图网格，快速导航 完整的 iPad 键盘操作：方向键、空格键、T 键打开缩略图、B 键收藏等 iCLOUD 同步 阅读进度、书签、评分和笔记可在你的 Apple 设备间同步。可选功能，无需账户——且绝不会上传你的漫画文件。 COMICFLOW PRO——可选的一次性升级 基础版功能完整，并将一直如此。Pro 是单次内购——一次付费，永久拥有，无订阅——新增以下功能： Face ID 加密合集：用 Face ID、Touch ID 或密码保护私密漫画 阅读器预设：保存你的日漫、欧美漫画和条漫设置，一键切换 面向电子阅读器的 EPUB 导出：为 Kobo、Boox、reMarkable 和 PocketBook 调校的固定版式 EPUB3，并为 Kobo 提供 .kepub 选项 电子墨水图像优化：自动裁剪、按设备调校的对比度与锐化、灰度色板、为日漫提供双页拆分、条漫长条拆分 关于 Kindle 的诚实说明：Kindle 设备无法打开旁加载的 EPUB 文件。ComicFlow 的 EPUB 导出需配合免费的 Calibre 桌面应用，才能将漫画传入 Kindle——应用会清晰说明具体步骤，而不会假装这只需一键完成。 100% 离线、注重隐私 无需联网。无需账户。无追踪。无广告。你的漫画留在自己的设备上，你的阅读习惯只属于你自己。 公道定价 应用一次买断，即可获得完整的转换器、阅读器和书库。Pro 为可选功能，同样是一次性购买。不会自动续费、不会到期，也不会反复打扰你。 支持的格式 CBR、CBZ、RAR、ZIP 和 PDF——可从“文件”应用、电子邮件、云存储或任意分享应用中打开。 支持 18 种语言 英语、德语、西班牙语、法语、意大利语、日语、韩语、葡萄牙语（巴西）、简体中文、繁体中文、土耳其语、波兰语、荷兰语、印尼语、泰语、越南语、乌克兰语和瑞典语。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/e9/9b/57e99bdb-1658-f0ad-f687-5ce3151b0f77/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/e9/9b/57e99bdb-1658-f0ad-f687-5ce3151b0f77/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Navid Gooranourimi",
+    "artistName": "Navid Gooranourimi",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/bc/64/28bc646d-ebbd-6aac-3abb-b2af9b4076af/01_APP_IPHONE_67_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/9d/90/ea9d909e-2d9f-fd68-d5fb-1740a546900e/02_APP_IPHONE_67_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/1d/b0/331db0ea-cccf-dde7-b1e9-b1872328d1b9/03_APP_IPHONE_67_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/f1/c1/04f1c191-478d-72b7-0775-abb796256b73/04_APP_IPHONE_67_4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/94/11/a794111e-9730-14d7-1a50-196b490181df/05_APP_IPHONE_67_5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/1c/0b/021c0bed-1975-a0ce-a50d-3a8c823aa899/06_APP_IPHONE_67_6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/7a/08/7e7a0809-b561-f17d-42e4-2d510c6d9859/07_APP_IPHONE_67_7.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/0a/3b/7b0a3bba-3a3b-06d9-97a6-279c739fcb83/08_APP_IPHONE_67_8.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/80/ea/e180ea80-5bb0-4c85-f06f-5dc15c035fda/09_APP_IPHONE_67_9.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/f9/d3/1df9d355-1f84-6dcb-c99c-c2e9c7aa78c5/10_APP_IPHONE_67_10.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/74/99/34749934-0704-4b41-a7c6-abd9c2acf519/01_APP_IPAD_PRO_3GEN_129_1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/92/e2/cd92e2d5-a937-ae92-cca7-4133fa4f8f15/02_APP_IPAD_PRO_3GEN_129_2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/0c/00/9c0c0014-1c54-8f05-eed7-71fd3e55d7d4/03_APP_IPAD_PRO_3GEN_129_3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/88/23/c5882339-2477-9b51-1332-35aa3ad1c8f9/04_APP_IPAD_PRO_3GEN_129_4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/e3/1e/6fe31ede-bafe-aaa0-5511-e96d4f29df74/05_APP_IPAD_PRO_3GEN_129_5.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/19/b9/e519b9b4-b6f5-ff84-3ea8-ffad682d2492/06_APP_IPAD_PRO_3GEN_129_6.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/9a/40/719a40df-ed0a-d596-9285-08e656d4ea6d/07_APP_IPAD_PRO_3GEN_129_7.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/b0/cd/7bb0cdb9-c7cf-f0d4-defe-0fdf28bd627e/08_APP_IPAD_PRO_3GEN_129_8.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/de/42/a7de4275-2f3b-e857-6983-1393375b1667/09_APP_IPAD_PRO_3GEN_129_9.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/19/b7/e219b762-b113-3d46-cd27-c007ddfa6967/10_APP_IPAD_PRO_3GEN_129_10.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1787719015576
+  },
+  "6736371607": {
+    "name": "Bikee",
+    "trackName": "Bikee",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787719051569,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/bikee/id6736371607?uo=4",
+    "description": "Bikee delivers a premium, fully customizable dashboard for your electric bike, providing real-time access to critical data and powerful control features. Connect instantly to your bike via Bluetooth and unlock a world of smart features designed to enhance your riding experience. Key Features: Advanced Dashboard Display Real-time speedometer with sleek digital design Battery level monitoring with voltage information and range estimator Total trip distance tracking in both metric and imperial units Stylish interface that adapts to day/night riding conditions Customizable Power Modes Create and save custom power profiles tailored to your riding preferences Adjust speed limits and throttle settings with precision Easily switch between different regions' riding regulations Specialized modes for various terrains and riding styles Smart Navigation Built-in GPS map with route guidance Address search and destination planning Turn-by-turn directions while riding Option to show/hide map based on your preference Ride Recording & Statistics Track and save all your rides automatically Comprehensive ride history with detailed metrics Achievement system to motivate and track progress Analyze performance data to improve your riding Intuitive Controls Adjust pedal assist levels on-the-fly (5 levels from ECO to BOOST) Toggle headlight with a simple tap Quick access to all bike systems through an elegant menu Landscape and portrait modes optimized for all devices Additional Features Multilingual support with 8+ languages Siri shortcuts for hands-free voice control Metric/Imperial unit switching Special power-saving mode for extended range Support community and easy bug reporting Bikee works seamlessly with modern electric bikes featuring Bluetooth connectivity. Download today and elevate your electric biking experience with the most comprehensive control and navigation app available.",
+    "fullDescription": "Bikee delivers a premium, fully customizable dashboard for your electric bike, providing real-time access to critical data and powerful control features. Connect instantly to your bike via Bluetooth and unlock a world of smart features designed to enhance your riding experience. Key Features: Advanced Dashboard Display Real-time speedometer with sleek digital design Battery level monitoring with voltage information and range estimator Total trip distance tracking in both metric and imperial units Stylish interface that adapts to day/night riding conditions Customizable Power Modes Create and save custom power profiles tailored to your riding preferences Adjust speed limits and throttle settings with precision Easily switch between different regions' riding regulations Specialized modes for various terrains and riding styles Smart Navigation Built-in GPS map with route guidance Address search and destination planning Turn-by-turn directions while riding Option to show/hide map based on your preference Ride Recording & Statistics Track and save all your rides automatically Comprehensive ride history with detailed metrics Achievement system to motivate and track progress Analyze performance data to improve your riding Intuitive Controls Adjust pedal assist levels on-the-fly (5 levels from ECO to BOOST) Toggle headlight with a simple tap Quick access to all bike systems through an elegant menu Landscape and portrait modes optimized for all devices Additional Features Multilingual support with 8+ languages Siri shortcuts for hands-free voice control Metric/Imperial unit switching Special power-saving mode for extended range Support community and easy bug reporting Bikee works seamlessly with modern electric bikes featuring Bluetooth connectivity. Download today and elevate your electric biking experience with the most comprehensive control and navigation app available.",
+    "summaryDescription": "Bikee delivers a premium, fully customizable dashboard for your electric bike, providing real-time access to critical data and powerful control features. Connect instantly to your bike via Bluetooth and unlock a world of smart features designed to enhance your riding experience. Key Features: Advanced Dashboard Display Real-time speedometer with sleek digital design Battery level monitoring with voltage information and range estimator Total trip distance tracking in both metric and imperial units Stylish interface that adapts to day/night riding conditions Customizable Power Modes Create and save custom power profiles tailored to your riding preferences Adjust speed limits and throttle settings with precision Easily switch between different regions' riding regulations Specialized modes for various terrains and riding styles Smart Navigation Built-in GPS map with route guidance Address search and destination planning Turn-by-turn directions while riding Option to show/hide map based on your preference Ride Recording & Statistics Track and save all your rides automatically Comprehensive ride history with detailed metrics Achievement system to motivate and track progress Analyze performance data to improve your riding Intuitive Controls Adjust pedal assist levels on-the-fly (5 levels from ECO to BOOST) Toggle headlight with a simple tap Quick access to all bike systems through an elegant menu Landscape and portrait modes optimized for all devices Additional Features Multilingual support with 8+ languages Siri shortcuts for hands-free voice control Metric/Imperial unit switching Special power-saving mode for extended range Support community and easy bug reporting Bikee works seamlessly with modern electric bikes featuring Bluetooth connectivity. Download today and elevate your electric biking experience with the most comprehensive control and navigation app available.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/20/f4/a120f462-22fd-40a6-2d8c-2b441eeb57dc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/20/f4/a120f462-22fd-40a6-2d8c-2b441eeb57dc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Sammy Azdoufal",
+    "artistName": "Sammy Azdoufal",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/3c/78/223c7802-cccb-55ca-4f6e-f83f922e681c/Capture_d_U2019e_U0301cran_2024-12-01_a_U0300_04.47.04.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/4d/83/1c4d8331-375c-fccc-a064-b29eb5b906b0/Capture_d_U2019e_U0301cran_2024-12-01_a_U0300_04.47.21.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/4f/20/704f2012-d7c8-a659-7db5-54ce49b6ee21/Capture_d_U2019e_U0301cran_2024-12-01_a_U0300_04.47.57.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/50/58/1d5058fd-e13d-b1c9-0514-77d99a4b61f0/Capture_d_U2019e_U0301cran_2024-12-01_a_U0300_04.48.13.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/2a/f9/472af949-5734-66e8-da7b-f6ccf334708a/Capture_d_U2019e_U0301cran_2024-12-01_a_U0300_04.47.40.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/75/82/fd758264-d8ae-30da-3484-99b4d2c00190/Capture_d_U2019e_U0301cran_2024-12-01_a_U0300_04.49.16.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/e4/95/1ae495d8-13bc-c0f8-e28b-f021151c0377/Capture_d_U2019e_U0301cran_2024-12-01_a_U0300_04.48.32.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/aa/a7/53aaa70d-7449-16c2-7927-72dbc1373d1d/Capture_d_U2019e_U0301cran_2024-12-01_a_U0300_04.48.56.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/1e/a0/041ea03b-b5e8-5cb2-c119-812dfd1f3589/Capture_d_U2019e_U0301cran_2024-12-01_a_U0300_04.58.40.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1787719018483
+  },
+  "6802013422": {
+    "name": "牛马城市-这班上的值不值？",
+    "trackName": "牛马城市-这班上的值不值？",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787719051569,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E7%89%9B%E9%A9%AC%E5%9F%8E%E5%B8%82-%E8%BF%99%E7%8F%AD%E4%B8%8A%E7%9A%84%E5%80%BC%E4%B8%8D%E5%80%BC/id6802013422?uo=4",
+    "description": "牛马城市** —— 一款专属于打工人的本地生活小助手。把\"还要熬多久\"\"今天摸什么鱼\"\"该喝口水了\"这些打工日常，变成一眼可见的倒计时与轻松互动，陪你优雅度过每一个工作日。 核心功能 下班倒计时**：首页大玻璃卡片实时倒数，清晰看见今天距离下班还有多久，盼头看得见。 多维度倒计时**：退休、生日、发工资、最近的假期、周五、休息日……所有值得期待的日子，一屏掌握。 摸鱼日历**：每日摸鱼段子、假期倒计时、摸鱼答案之书，打工人的精神补给站。 喝水提醒**：记录每日饮水量与连续打卡天数，一键快捷加水，健康不掉队。 吃什么**：自定义你的菜单，随机帮你决定，告别\"吃什么\"选择困难症。 解压**：点亮夜空等轻互动小工具，随时释放工作压力，短暂抽离也很必要。 任务**：随手记录待办与计划，工作更有条理。 统计**：回顾喝水打卡与日常数据，看见自己的坚持。 桌面小组件**：把倒计时放进 Widget，不打开 App 也能随时看到盼头。 中英双语**：设置内一键切换界面语言，中英文都好用。 产品特色 完全本地**：所有数据只存在你的手机本地，不上传、不收集，隐私由你自己掌握。 沉浸横屏**：iPhone 横屏沉浸体验；iPad 自动适配横竖屏，大屏更好看。 轻量无广告**：专注工具本身，不打扰、不推销。 隐私 我们重视你的隐私。本应用不收集任何个人信息，所有数据仅保存在你的设备本地，详见应用内《隐私政策》与《用户协议》。 结尾 打工已经够累了，让牛马城市帮你把\"熬\"变成\"数\"。现在使用，开启你的摸鱼倒计时之旅。",
+    "fullDescription": "牛马城市** —— 一款专属于打工人的本地生活小助手。把\"还要熬多久\"\"今天摸什么鱼\"\"该喝口水了\"这些打工日常，变成一眼可见的倒计时与轻松互动，陪你优雅度过每一个工作日。 核心功能 下班倒计时**：首页大玻璃卡片实时倒数，清晰看见今天距离下班还有多久，盼头看得见。 多维度倒计时**：退休、生日、发工资、最近的假期、周五、休息日……所有值得期待的日子，一屏掌握。 摸鱼日历**：每日摸鱼段子、假期倒计时、摸鱼答案之书，打工人的精神补给站。 喝水提醒**：记录每日饮水量与连续打卡天数，一键快捷加水，健康不掉队。 吃什么**：自定义你的菜单，随机帮你决定，告别\"吃什么\"选择困难症。 解压**：点亮夜空等轻互动小工具，随时释放工作压力，短暂抽离也很必要。 任务**：随手记录待办与计划，工作更有条理。 统计**：回顾喝水打卡与日常数据，看见自己的坚持。 桌面小组件**：把倒计时放进 Widget，不打开 App 也能随时看到盼头。 中英双语**：设置内一键切换界面语言，中英文都好用。 产品特色 完全本地**：所有数据只存在你的手机本地，不上传、不收集，隐私由你自己掌握。 沉浸横屏**：iPhone 横屏沉浸体验；iPad 自动适配横竖屏，大屏更好看。 轻量无广告**：专注工具本身，不打扰、不推销。 隐私 我们重视你的隐私。本应用不收集任何个人信息，所有数据仅保存在你的设备本地，详见应用内《隐私政策》与《用户协议》。 结尾 打工已经够累了，让牛马城市帮你把\"熬\"变成\"数\"。现在使用，开启你的摸鱼倒计时之旅。",
+    "summaryDescription": "牛马城市** —— 一款专属于打工人的本地生活小助手。把\"还要熬多久\"\"今天摸什么鱼\"\"该喝口水了\"这些打工日常，变成一眼可见的倒计时与轻松互动，陪你优雅度过每一个工作日。 核心功能 下班倒计时**：首页大玻璃卡片实时倒数，清晰看见今天距离下班还有多久，盼头看得见。 多维度倒计时**：退休、生日、发工资、最近的假期、周五、休息日……所有值得期待的日子，一屏掌握。 摸鱼日历**：每日摸鱼段子、假期倒计时、摸鱼答案之书，打工人的精神补给站。 喝水提醒**：记录每日饮水量与连续打卡天数，一键快捷加水，健康不掉队。 吃什么**：自定义你的菜单，随机帮你决定，告别\"吃什么\"选择困难症。 解压**：点亮夜空等轻互动小工具，随时释放工作压力，短暂抽离也很必要。 任务**：随手记录待办与计划，工作更有条理。 统计**：回顾喝水打卡与日常数据，看见自己的坚持。 桌面小组件**：把倒计时放进 Widget，不打开 App 也能随时看到盼头。 中英双语**：设置内一键切换界面语言，中英文都好用。 产品特色 完全本地**：所有数据只存在你的手机本地，不上传、不收集，隐私由你自己掌握。 沉浸横屏**：iPhone 横屏沉浸体验；iPad 自动适配横竖屏，大屏更好看。 轻量无广告**：专注工具本身，不打扰、不推销。 隐私 我们重视你的隐私。本应用不收集任何个人信息，所有数据仅保存在你的设备本地，详见应用内《隐私政策》与《用户协议》。 结尾 打工已经够累了，让牛马城市帮你把\"熬\"变成\"数\"。现在使用，开启你的摸鱼倒计时之旅。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/24/24/6324240c-df39-8e06-5a76-c0c748d7bd66/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/24/24/6324240c-df39-8e06-5a76-c0c748d7bd66/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
+    "sellerName": "娇 李",
+    "artistName": "娇 李",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/c6/a1/64c6a101-a320-1474-a336-a792ab5bce93/simulator_screenshot_924D4E19-CB96-4189-A8A2-5BE32232222D.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/b3/c0/43b3c03d-b4b2-91c8-5956-98fb6509a550/simulator_screenshot_0B3F6606-C58E-4D54-B376-3DDF136B8F12.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/92/ea/b192ea44-c92a-2d99-40ce-b508a15b2fbb/simulator_screenshot_E321EE10-D3CF-444D-B7BA-1198E0C3A491.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/ce/2f/d0ce2f66-24f7-8836-e768-e9af4bcc446a/simulator_screenshot_C6262322-B44B-402D-8F2B-4C199F3B5DA6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/57/51/c75751b9-e07c-775b-c7fb-3616378db7a3/simulator_screenshot_80FC45DF-670A-4395-A7BD-F0671FFB301E.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/98/12/2a9812b4-7394-402d-fc4f-787121d4483d/simulator_screenshot_FA81FD7D-8E9B-4C7D-A70C-A58CAC52E488.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/67/d8/cc67d881-080b-761e-36de-fb53b91aa812/simulator_screenshot_91ADDDDC-568E-4863-BA14-527896A9AACC.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/8d/36/a08d3659-ce44-8cbe-0634-0f6931acbea3/simulator_screenshot_7FFCE1F0-6CC6-47D1-8FAD-7CB5BFA3F2A4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/9d/b4/5c9db466-59a0-3d44-1276-94d3145c55f3/simulator_screenshot_8DC08BE9-820A-4E7D-A714-27F25691AFAA.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/da/da/acdadada-cb0a-83ec-9eec-5153a35fd011/simulator_screenshot_57553E01-B967-4A40-9A33-D464D356D3FA.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/0d/cc/c40dccc5-b4cb-a7e3-fa40-f47b7d7bfc1a/simulator_screenshot_0A77FA34-356B-4DB4-A14A-ADA235F213BF.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/85/85/e28585e2-6bd4-51f5-0c69-c03dbc546134/simulator_screenshot_74B1A8BB-B78B-414D-A735-3B25088C2D51.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/b6/5c/1eb65ced-4563-1062-b310-b90be8019f9d/simulator_screenshot_F4A64FF6-E4F7-435D-8353-7B594C40B396.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/1e/18/311e189b-5b43-4dd5-2cd6-f0c442e993ef/simulator_screenshot_05B6E701-6075-4EC5-850E-40369BBB65F1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/f0/f3/61f0f3ce-e441-5b51-d804-760d1cf9bb77/simulator_screenshot_98B9313C-C81B-4D43-82B8-F899E2909227.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/26/c6/df26c6f1-4477-8199-98a1-c41985d7206c/simulator_screenshot_59920E1B-A8D0-4305-9C75-1DE1A2B2FC96.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/65/d2/7f65d237-9db4-79e7-ab9b-9cf7bb3abe0f/simulator_screenshot_0FF7D284-27AA-4183-B402-155BF5B3E5CD.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/ef/2d/75ef2df8-a2f7-02b4-bf9c-664870660e57/simulator_screenshot_48BAAE12-FCA2-413B-B368-B295D7A99C3F.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/40/1a/c7401a20-1cba-1ba7-aa52-bf56799e12f7/simulator_screenshot_4CE3BF25-2F03-46F1-94B3-784BCB2BBAA9.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1787719021096
+  },
+  "6789569473": {
+    "name": "GPS Speed Go",
+    "trackName": "GPS Speed Go",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00",
+      "高级版": "¥3.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00",
+      "高级版": "¥3.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787719051569,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "高级版": "¥3.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/gps-speed-go/id6789569473?uo=4",
+    "description": "GPS Speed Go 是一款 GPS 速度计，能以醒目清晰的数字显示您当前的实时速度，无论您是驾驶、骑行、跑步、步行、骑摩托车、乘坐火车还是船只。您可以将其作为即时全屏速度计使用，也可以在应用内启动全屏速度显示后，在 iPhone 充电时通过待机显示继续查看速度。它完全离线运行，仅依赖 GPS 信号，无需互联网连接，也无需注册登录。 免费时钟模式 默认开启。速度连续一分钟低于 5 km/h 时，速度界面会自动切换为时钟；达到 5 km/h 或更高时立即恢复速度显示。即时显示和支持待机显示的显示会话均可使用。 两种使用模式 即时显示：打开应用，点击“开始”，即可立即显示全屏 GPS 速度计。 待机显示：在应用内先启动速度显示后，可在充电时通过锁屏实时活动继续查看速度，非常适合搭配车载支架使用。 主要功能 实时显示 GPS 速度，单位可选公里/小时或英里/小时 数字巨大醒目，方便驾驶时快速安全地查看 支持纵向和横向显示，搭配车载支架可流畅旋转 GPS 信号指示：绿色（信号良好）、琥珀色（信号弱）、红色（无信号） 显示速度时保持屏幕常亮 全屏沉浸模式（隐藏状态栏和导航栏） 轻触屏幕即可退出速度显示 速度平滑处理，读数稳定不闪烁 深色背景，减少眩光，夜间更省电 完全离线运行，仅需 GPS，无需互联网 保护隐私：您的位置信息仅保留在您的设备上，绝不上传或发送 支持 11 种语言：英语、韩语、日语、中文、德语、法语、西班牙语、意大利语、葡萄牙语、俄语 非常适合以下人群 觉得汽车仪表盘速度计太小或难以看清的司机 希望获得大尺寸速度显示的骑行者和摩托车手 想要追踪步速的跑步、慢跑和徒步爱好者 任何希望在手机支架上使用简洁 HUD 式数字速度计的人 将旧手机变成专用的数字速度计 高级版（可选） 每月订阅即可解锁更多高级显示风格： OLED 防烧屏保护（显示内容位置自动微移） 数字 7 段字体，还原真实仪表盘风格 点阵 LED 字体 仅显示速度的极简模式 更大的速度数字 粗体字体 价格以您当地货币显示。可在 App Store 订阅设置中随时取消；高级版权益将持续到已付费周期结束。 温馨提示 需要位置权限才能准确测量速度。位置信息仅在您的设备上使用，绝不传输。 在户外且天空视野开阔的环境下，精度最佳。 立即下载 GPS Speed Go，让您的速度显示更大、更清晰、更准确！ 关键词：GPS 速度计，数字速度计，速度追踪器，速度表，速度计应用，汽车速度计，自行车速度计，骑行速度，跑步速度，HUD 速度显示，里程表，速度，公里/小时，英里/小时。 使用须知 精确测速需要位置权限，位置信息只保留在设备上。 在天空开阔的室外环境中精度最佳。 在 iPhone 上，请先在应用内启动速度显示，再连接电源进入待机显示并轻点实时活动。如果希望接通充电器后自动打开，也可以在“快捷指令”中设置一次自动化。 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "fullDescription": "GPS Speed Go 是一款 GPS 速度计，能以醒目清晰的数字显示您当前的实时速度，无论您是驾驶、骑行、跑步、步行、骑摩托车、乘坐火车还是船只。您可以将其作为即时全屏速度计使用，也可以在应用内启动全屏速度显示后，在 iPhone 充电时通过待机显示继续查看速度。它完全离线运行，仅依赖 GPS 信号，无需互联网连接，也无需注册登录。 免费时钟模式 默认开启。速度连续一分钟低于 5 km/h 时，速度界面会自动切换为时钟；达到 5 km/h 或更高时立即恢复速度显示。即时显示和支持待机显示的显示会话均可使用。 两种使用模式 即时显示：打开应用，点击“开始”，即可立即显示全屏 GPS 速度计。 待机显示：在应用内先启动速度显示后，可在充电时通过锁屏实时活动继续查看速度，非常适合搭配车载支架使用。 主要功能 实时显示 GPS 速度，单位可选公里/小时或英里/小时 数字巨大醒目，方便驾驶时快速安全地查看 支持纵向和横向显示，搭配车载支架可流畅旋转 GPS 信号指示：绿色（信号良好）、琥珀色（信号弱）、红色（无信号） 显示速度时保持屏幕常亮 全屏沉浸模式（隐藏状态栏和导航栏） 轻触屏幕即可退出速度显示 速度平滑处理，读数稳定不闪烁 深色背景，减少眩光，夜间更省电 完全离线运行，仅需 GPS，无需互联网 保护隐私：您的位置信息仅保留在您的设备上，绝不上传或发送 支持 11 种语言：英语、韩语、日语、中文、德语、法语、西班牙语、意大利语、葡萄牙语、俄语 非常适合以下人群 觉得汽车仪表盘速度计太小或难以看清的司机 希望获得大尺寸速度显示的骑行者和摩托车手 想要追踪步速的跑步、慢跑和徒步爱好者 任何希望在手机支架上使用简洁 HUD 式数字速度计的人 将旧手机变成专用的数字速度计 高级版（可选） 每月订阅即可解锁更多高级显示风格： OLED 防烧屏保护（显示内容位置自动微移） 数字 7 段字体，还原真实仪表盘风格 点阵 LED 字体 仅显示速度的极简模式 更大的速度数字 粗体字体 价格以您当地货币显示。可在 App Store 订阅设置中随时取消；高级版权益将持续到已付费周期结束。 温馨提示 需要位置权限才能准确测量速度。位置信息仅在您的设备上使用，绝不传输。 在户外且天空视野开阔的环境下，精度最佳。 立即下载 GPS Speed Go，让您的速度显示更大、更清晰、更准确！ 关键词：GPS 速度计，数字速度计，速度追踪器，速度表，速度计应用，汽车速度计，自行车速度计，骑行速度，跑步速度，HUD 速度显示，里程表，速度，公里/小时，英里/小时。 使用须知 精确测速需要位置权限，位置信息只保留在设备上。 在天空开阔的室外环境中精度最佳。 在 iPhone 上，请先在应用内启动速度显示，再连接电源进入待机显示并轻点实时活动。如果希望接通充电器后自动打开，也可以在“快捷指令”中设置一次自动化。 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "summaryDescription": "GPS Speed Go 是一款 GPS 速度计，能以醒目清晰的数字显示您当前的实时速度，无论您是驾驶、骑行、跑步、步行、骑摩托车、乘坐火车还是船只。您可以将其作为即时全屏速度计使用，也可以在应用内启动全屏速度显示后，在 iPhone 充电时通过待机显示继续查看速度。它完全离线运行，仅依赖 GPS 信号，无需互联网连接，也无需注册登录。 免费时钟模式 默认开启。速度连续一分钟低于 5 km/h 时，速度界面会自动切换为时钟；达到 5 km/h 或更高时立即恢复速度显示。即时显示和支持待机显示的显示会话均可使用。 两种使用模式 即时显示：打开应用，点击“开始”，即可立即显示全屏 GPS 速度计。 待机显示：在应用内先启动速度显示后，可在充电时通过锁屏实时活动继续查看速度，非常适合搭配车载支架使用。 主要功能 实时显示 GPS 速度，单位可选公里/小时或英里/小时 数字巨大醒目，方便驾驶时快速安全地查看 支持纵向和横向显示，搭配车载支架可流畅旋转 GPS 信号指示：绿色（信号良好）、琥珀色（信号弱）、红色（无信号） 显示速度时保持屏幕常亮 全屏沉浸模式（隐藏状态栏和导航栏） 轻触屏幕即可退出速度显示 速度平滑处理，读数稳定不闪烁 深色背景，减少眩光，夜间更省电 完全离线运行，仅需 GPS，无需互联网 保护隐私：您的位置信息仅保留在您的设备上，绝不上传或发送 支持 11 种语言：英语、韩语、日语、中文、德语、法语、西班牙语、意大利语、葡萄牙语、俄语 非常适合以下人群 觉得汽车仪表盘速度计太小或难以看清的司机 希望获得大尺寸速度显示的骑行者和摩托车手 想要追踪步速的跑步、慢跑和徒步爱好者 任何希望在手机支架上使用简洁 HUD 式数字速度计的人 将旧手机变成专用的数字速度计 高级版（可选） 每月订阅即可解锁更多高级显示风格： OLED 防烧屏保护（显示内容位置自动微移） 数字 7 段字体，还原真实仪表盘风格 点阵 LED 字体 仅显示速度的极简模式 更大的速度数字 粗体字体 价格以您当地货币显示。可在 App Store 订阅设置中随时取消；高级版权益将持续到已付费周期结束。 温馨提示 需要位置权限才能准确测量速度。位置信息仅在您的设备上使用，绝不传输。 在户外且天空视野开阔的环境下，精度最佳。 立即下载 GPS Speed Go，让您的速度显示更大、更清晰、更准确！ 关键词：GPS 速度计，数字速度计，速度追踪器，速度表，速度计应用，汽车速度计，自行车速度计，骑行速度，跑步速度，HUD 速度显示，里程表，速度，公里/小时，英里/小时。 使用须知 精确测速需要位置权限，位置信息只保留在设备上。 在天空开阔的室外环境中精度最佳。 在 iPhone 上，请先在应用内启动速度显示，再连接电源进入待机显示并轻点实时活动。如果希望接通充电器后自动打开，也可以在“快捷指令”中设置一次自动化。 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/7b/ea/657bea04-c2eb-75f1-e162-f582310cf59c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/7b/ea/657bea04-c2eb-75f1-e162-f582310cf59c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Hoein Song",
+    "artistName": "Hoein Song",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/e0/7a/73e07ae1-64c0-96c8-949e-7fb70ef78393/01_home.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/10/d3/b310d360-81f8-c34c-74ab-645799e95fe2/02_standby.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/bf/4e/21bf4e73-3184-12d9-71e4-27b3ad5f31a2/03_display.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/f9/aa/9af9aa75-f5e6-af95-82a0-8f781318906a/04_clock.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1787719023575
   }
 }
