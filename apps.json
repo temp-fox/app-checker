@@ -2,6 +2,94 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 333183750,
+      "name": {
+        "cn": "iLehra - Lehra Nagma Player"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787762836912,
+      "_discountType": "app"
+    },
+    {
+      "id": 416745344,
+      "name": {
+        "cn": "Mirrored - The Mirror Effects"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787762834205,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797188220,
+      "name": {
+        "cn": "宝宝工作台"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787762839495,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776223280,
+      "name": {
+        "cn": "WuXing Lucky"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787762839495,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776848047,
+      "name": {
+        "cn": "狼人杀法官助手离线版2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787762842160,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797735351,
+      "name": {
+        "cn": "弈棋・象棋"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787762842238,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795468377,
+      "name": {
+        "cn": "分数册"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787762842238,
+      "_discountType": "app"
+    },
+    {
+      "id": 6477376254,
+      "name": {
+        "cn": "NextFlash - Spanish"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787762842238,
+      "_discountType": "app"
+    },
+    {
       "id": 1022833326,
       "name": {
         "cn": "Call Later Pro ( 呼叫调度程序 )"
@@ -3978,7 +4066,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1787021718068,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6737989765,
@@ -15013,7 +15102,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1784960318746,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6758548202,
