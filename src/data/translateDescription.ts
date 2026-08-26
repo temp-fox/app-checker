@@ -41,12 +41,11 @@ class ProxyProvider {
   private cursor = 0
   private usedHosts = new Set<string>()
   private consecutiveFailures = 0
-  private directOnly = false
+  private exhaustedLogged = false
 
   constructor(
     private proxies: ProxyEntry[],
     private allowDirectFallback: boolean,
-    private maxConsecutiveFailures: number,
   ) {}
 
   get total() {
@@ -61,13 +60,7 @@ class ProxyProvider {
     return this.allowDirectFallback
   }
 
-  shouldUseDirectOnly() {
-    return this.directOnly
-  }
-
   next(trackId: number | string): ProxyEntry | null {
-    if (this.directOnly) return null
-
     while (this.cursor < this.proxies.length) {
       const proxy = this.proxies[this.cursor]
       this.cursor++
@@ -78,6 +71,10 @@ class ProxyProvider {
       return proxy
     }
 
+    if (!this.exhaustedLogged) {
+      this.exhaustedLogged = true
+      console.warn('[translate] 代理池已耗尽，后续翻译才允许回退为无代理直连')
+    }
     return null
   }
 
@@ -87,14 +84,11 @@ class ProxyProvider {
 
   markFailure(proxy: ProxyEntry, error: unknown) {
     this.consecutiveFailures++
-    logTranslateError(`proxy ${proxy.host} failed: ${getErrorMessage(error)}`)
-
-    if (this.consecutiveFailures >= this.maxConsecutiveFailures) {
-      this.directOnly = true
-      console.warn(
-        `[translate] 连续代理失败 ${this.consecutiveFailures} 次，后续翻译回退为无代理直连`,
-      )
-    }
+    logTranslateError(
+      `proxy ${proxy.host} failed (${
+        this.consecutiveFailures
+      } consecutive): ${getErrorMessage(error)}`,
+    )
   }
 }
 
@@ -459,7 +453,6 @@ export async function translateDiscountDescriptions(
       proxyProvider = new ProxyProvider(
         proxies,
         getBooleanEnv('TRANSLATE_PROXY_DIRECT_FALLBACK', true),
-        getNumberEnv('TRANSLATE_PROXY_MAX_FAILURES', 5),
       )
       console.log(
         `[translate] 代理策略: 可用唯一 IP ${
