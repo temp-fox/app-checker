@@ -2,6 +2,72 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1022833326,
+      "name": {
+        "cn": "Call Later Pro ( 呼叫调度程序 )"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787740407275,
+      "_discountType": "app"
+    },
+    {
+      "id": 1061949317,
+      "name": {
+        "cn": "Model Risk Management SR 11-7"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787740401910,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761192752,
+      "name": {
+        "cn": "照片搬家"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787740401787,
+      "_discountType": "app"
+    },
+    {
+      "id": 6443751695,
+      "name": {
+        "cn": "TUNIC Guitar Tuner"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787740410055,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792045746,
+      "name": {
+        "cn": "WayPlayer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787740410055,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762511328,
+      "name": {
+        "cn": "Dosia: Water & Medication"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787740412679,
+      "_discountType": "app"
+    },
+    {
       "id": 655753093,
       "name": {
         "cn": "Hash Calculator"
@@ -132691,7 +132757,8 @@
       "addType": "auto",
       "_shouldBePaid": true,
       "_discountType": "app",
-      "addSource": "paid-top"
+      "addSource": "paid-top",
+      "allowNotification": false
     },
     {
       "id": 1161125462,
