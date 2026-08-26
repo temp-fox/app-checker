@@ -1,5 +1,92 @@
-import nodeFetch from 'node-fetch'
 import { buildSummaryDescription, sanitizeDescription } from './calculate'
+
+const TRANSLATE_TIMEOUT_MS = 15_000
+const TRANSLATE_MAX_ATTEMPTS = 3
+const TRANSLATE_RETRY_DELAY_MS = 1_000
+const loggedTranslateErrors = new Set<string>()
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
+
+function getErrorMessage(error: unknown): string {
+  if (!(error instanceof Error)) return String(error)
+
+  const cause = (error as Error & { cause?: { code?: string; message?: string } }).cause
+  if (cause?.code || cause?.message) {
+    return `${error.message}: ${[cause.code, cause.message].filter(Boolean).join(' ')}`
+  }
+
+  return error.message
+}
+
+function summarizeResponse(text: string): string {
+  return text.replace(/\s+/g, ' ').trim().substring(0, 200)
+}
+
+function logTranslateError(message: string) {
+  if (loggedTranslateErrors.has(message)) return
+  loggedTranslateErrors.add(message)
+  console.warn(`[translate] ${message}`)
+}
+
+async function fetchText(url: string): Promise<string> {
+  const controller = new AbortController()
+  const timeoutId = setTimeout(() => controller.abort(), TRANSLATE_TIMEOUT_MS)
+
+  try {
+    const res = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; app-checker/1.0; +https://github.com/temp-fox/app-checker)',
+        Accept: 'application/json,text/plain,*/*',
+      },
+    })
+    const body = await res.text()
+
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status} ${res.statusText}: ${summarizeResponse(body)}`)
+    }
+
+    return body
+  } finally {
+    clearTimeout(timeoutId)
+  }
+}
+
+async function translateByGoogle(text: string): Promise<string> {
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=${encodeURIComponent(text)}`
+  const body = await fetchText(url)
+  const data = JSON.parse(body) as any
+
+  if (!data || !data[0]) {
+    throw new Error(`google unexpected response: ${summarizeResponse(body)}`)
+  }
+
+  const translated = data[0]
+    .filter((i: any) => i && i[0])
+    .map((i: any) => i[0])
+    .join('')
+
+  if (!translated) {
+    throw new Error(`google empty translation: ${summarizeResponse(body)}`)
+  }
+
+  return translated
+}
+
+async function translateByMyMemory(text: string): Promise<string> {
+  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh-CN`
+  const body = await fetchText(url)
+  const data = JSON.parse(body) as any
+  const translated = data?.responseData?.translatedText
+
+  if (data?.responseStatus !== 200 || !translated) {
+    throw new Error(`mymemory unexpected response: ${summarizeResponse(body)}`)
+  }
+
+  return translated
+}
 
 export function hasChinese(text: string): boolean {
   return /[\u4e00-\u9fff]/.test(text)
@@ -19,19 +106,30 @@ export function needsTranslation(text: string): boolean {
 }
 
 export async function translateText(text: string): Promise<string | null> {
-  try {
-    const truncated = text.substring(0, 600)
-    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=${encodeURIComponent(truncated)}`
-    const res = await nodeFetch(url, { timeout: 8000 })
-    const data = (await res.json()) as any
-    if (!data || !data[0]) return null
-    return data[0]
-      .filter((i: any) => i && i[0])
-      .map((i: any) => i[0])
-      .join('')
-  } catch {
-    return null
+  const truncated = text.substring(0, 600)
+  let googleError = ''
+  let myMemoryError = ''
+
+  for (let attempt = 1; attempt <= TRANSLATE_MAX_ATTEMPTS; attempt++) {
+    try {
+      return await translateByGoogle(truncated)
+    } catch (error) {
+      googleError = getErrorMessage(error)
+    }
+
+    try {
+      return await translateByMyMemory(truncated)
+    } catch (error) {
+      myMemoryError = getErrorMessage(error)
+    }
+
+    if (attempt < TRANSLATE_MAX_ATTEMPTS) {
+      await sleep(TRANSLATE_RETRY_DELAY_MS * attempt)
+    }
   }
+
+  logTranslateError(`failed after ${TRANSLATE_MAX_ATTEMPTS} attempts: google=${googleError}; mymemory=${myMemoryError}`)
+  return null
 }
 
 export async function translateDescriptions(
