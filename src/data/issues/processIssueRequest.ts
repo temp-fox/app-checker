@@ -46,6 +46,8 @@ interface AppConfig {
   addType: 'manual' | 'auto' | 'external'
   allowNotification?: boolean
   addSource?: string
+  _shouldBePaid?: boolean
+  _discountType?: 'app' | 'iap' | 'unknown'
 }
 
 interface IssueStorageAppInfoItem {
@@ -70,6 +72,18 @@ interface IssueStorageAppInfoItem {
 }
 
 // ==================== 配置 ====================
+
+const FETCH_TIMEOUT_MS = 15000
+
+function fetchWithTimeout(url: string, init: Parameters<typeof fetch>[1] = {}, timeout = FETCH_TIMEOUT_MS) {
+  const controller = new AbortController()
+  const timeoutId = setTimeout(() => controller.abort(), timeout)
+
+  return fetch(url, {
+    ...init,
+    signal: controller.signal,
+  }).finally(() => clearTimeout(timeoutId))
+}
 
 // 过滤关键词（与 oodata.ts 保持一致）
 const BLOCKED_KEYWORDS = [
@@ -127,8 +141,7 @@ async function validateApp(appId: string, region: string = 'cn'): Promise<Valida
   try {
     // 查询 iTunes API
     const apiUrl = `https://itunes.apple.com/lookup?id=${appId}&country=${region}&entity=software`
-    const response = await fetch(apiUrl, {
-      timeout: 15000,
+    const response = await fetchWithTimeout(apiUrl, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
       }

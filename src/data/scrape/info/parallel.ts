@@ -13,6 +13,8 @@ import {
 } from './getInAppPurchases'
 import { initAmpApiToken, getScreenshotsByAmpApi, getAppMetadataByAmpApi, getScreenshotsByLookup, getScreenshotsByAppStorePage, AppMetadataResult } from './getScreenshots'
 
+type RefreshedAppInfo = RequestAppInfo & Pick<Partial<AppInfo>, 'fullDescription' | 'summaryDescription'>
+
 const scrapeTypeImplMap: Record<
   InAppPurchasesScrapeType,
   (
@@ -171,8 +173,8 @@ export async function refreshRssAppInfos(
     const refreshedAppInfos = await getAppInfo(appIds, region, `${label}getAppInfo`, {
       forceRefresh: true,
     })
-    const refreshedMap = new Map<number, RequestAppInfo>(
-      refreshedAppInfos.map((app) => [app.trackId, app]),
+    const refreshedMap = new Map<number, RefreshedAppInfo>(
+      refreshedAppInfos.map((app) => [app.trackId, app as RefreshedAppInfo]),
     )
     const currentMap = new Map<number, AppInfo>(
       (regionAppInfo?.[region] || []).map((app) => [app.trackId, app]),

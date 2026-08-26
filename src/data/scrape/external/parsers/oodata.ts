@@ -8,6 +8,18 @@ import fetch from 'node-fetch'
 import type { IParser, ParseResult, ExternalAppInfo } from '../types'
 import { extractAppId, isValidAppStoreUrl, normalizeAppStoreUrl } from '../utils'
 
+const FETCH_TIMEOUT_MS = 10000
+
+function fetchWithTimeout(url: string, init: Parameters<typeof fetch>[1] = {}, timeout = FETCH_TIMEOUT_MS) {
+  const controller = new AbortController()
+  const timeoutId = setTimeout(() => controller.abort(), timeout)
+
+  return fetch(url, {
+    ...init,
+    signal: controller.signal,
+  }).finally(() => clearTimeout(timeoutId))
+}
+
 export class OODataParser implements IParser {
   private readonly SOURCE_NAME = 'OODATA'
   
@@ -183,7 +195,7 @@ export class OODataParser implements IParser {
     try {
       // 查询全球 iTunes API（不限制国家）
       const apiUrl = `https://itunes.apple.com/lookup?id=${appId}`
-      const response = await fetch(apiUrl, { timeout: 10000 })
+      const response = await fetchWithTimeout(apiUrl)
       
       if (!response.ok) {
         return null

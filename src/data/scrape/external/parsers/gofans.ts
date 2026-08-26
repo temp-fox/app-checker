@@ -8,6 +8,18 @@ import * as cheerio from 'cheerio'
 import type { IParser, ParseResult, ExternalAppInfo } from '../types'
 import { extractAppId, isValidAppStoreUrl, normalizeAppStoreUrl } from '../utils'
 
+const FETCH_TIMEOUT_MS = 10000
+
+function fetchWithTimeout(url: string, init: Parameters<typeof fetch>[1] = {}, timeout = FETCH_TIMEOUT_MS) {
+  const controller = new AbortController()
+  const timeoutId = setTimeout(() => controller.abort(), timeout)
+
+  return fetch(url, {
+    ...init,
+    signal: controller.signal,
+  }).finally(() => clearTimeout(timeoutId))
+}
+
 export class GoFansParser implements IParser {
   private readonly SOURCE_NAME = 'GoFans'
   
@@ -102,11 +114,10 @@ export class GoFansParser implements IParser {
    */
   private async parseDetailPage(url: string): Promise<ExternalAppInfo | null> {
     try {
-      const response = await fetch(url, {
+      const response = await fetchWithTimeout(url, {
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
         },
-        timeout: 10000
       })
       
       if (!response.ok) {
