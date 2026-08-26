@@ -3,6 +3,8 @@ import { buildSummaryDescription, sanitizeDescription } from './calculate'
 const TRANSLATE_TIMEOUT_MS = 15_000
 const TRANSLATE_MAX_ATTEMPTS = 3
 const TRANSLATE_RETRY_DELAY_MS = 1_000
+const GOOGLE_TRANSLATE_MAX_CHARS = 600
+const MYMEMORY_TRANSLATE_MAX_CHARS = 500
 const loggedTranslateErrors = new Set<string>()
 
 function sleep(ms: number): Promise<void> {
@@ -76,7 +78,8 @@ async function translateByGoogle(text: string): Promise<string> {
 }
 
 async function translateByMyMemory(text: string): Promise<string> {
-  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh-CN`
+  const truncated = text.substring(0, MYMEMORY_TRANSLATE_MAX_CHARS)
+  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(truncated)}&langpair=en|zh-CN`
   const body = await fetchText(url)
   const data = JSON.parse(body) as any
   const translated = data?.responseData?.translatedText
@@ -106,19 +109,19 @@ export function needsTranslation(text: string): boolean {
 }
 
 export async function translateText(text: string): Promise<string | null> {
-  const truncated = text.substring(0, 600)
+  const googleText = text.substring(0, GOOGLE_TRANSLATE_MAX_CHARS)
   let googleError = ''
   let myMemoryError = ''
 
   for (let attempt = 1; attempt <= TRANSLATE_MAX_ATTEMPTS; attempt++) {
     try {
-      return await translateByGoogle(truncated)
+      return await translateByGoogle(googleText)
     } catch (error) {
       googleError = getErrorMessage(error)
     }
 
     try {
-      return await translateByMyMemory(truncated)
+      return await translateByMyMemory(text)
     } catch (error) {
       myMemoryError = getErrorMessage(error)
     }
