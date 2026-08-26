@@ -2,6 +2,111 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1634967005,
+      "name": {
+        "cn": "Time to Paste"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787713397703,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801683607,
+      "name": {
+        "cn": "相册喵选 - 照片整理清理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787713397703,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763749984,
+      "name": {
+        "cn": "HOAGuard: HOA Evidence Log"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787713397703,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6771742569,
+      "name": {
+        "cn": "Mycel 采菇地图与记录"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787713397703,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6773016723,
+      "name": {
+        "cn": "Pinly - Polaroid Sticky Notes"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787713397703,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772349545,
+      "name": {
+        "cn": "LockLines"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787713397703,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760733319,
+      "name": {
+        "cn": "Quite Goofy Explorer"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787713397703,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781131521,
+      "name": {
+        "cn": "Minpick"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787713397703,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790817785,
+      "name": {
+        "cn": "Solitaire After Dark"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787713397703,
+      "_discountType": "app"
+    },
+    {
       "id": 6802565793,
       "name": {
         "cn": "我不想当班主任"
