@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6802565793,
+      "name": {
+        "cn": "我不想当班主任"
+      },
+      "addType": "auto",
+      "addSource": "paid-top-all",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787706411666,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790102725,
+      "name": {
+        "cn": "Identity Compound"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787706425529,
+      "_discountType": "app"
+    },
+    {
       "id": 6761263676,
       "name": {
         "cn": "IOM Sailboat Tuner"
