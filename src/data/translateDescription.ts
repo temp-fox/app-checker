@@ -25,7 +25,6 @@ type FetchTextOptions = {
 
 type TranslateTextOptions = {
   proxyProvider?: ProxyProvider
-  trackId?: number | string
 }
 
 class HttpStatusError extends Error {
@@ -60,14 +59,13 @@ class ProxyProvider {
     return this.allowDirectFallback
   }
 
-  next(trackId: number | string): ProxyEntry | null {
+  next(): ProxyEntry | null {
     while (this.cursor < this.proxies.length) {
       const proxy = this.proxies[this.cursor]
       this.cursor++
       if (this.usedHosts.has(proxy.host)) continue
 
       this.usedHosts.add(proxy.host)
-      console.log(`[translate] app ${trackId} 使用代理 IP ${proxy.host}`)
       return proxy
     }
 
@@ -85,9 +83,7 @@ class ProxyProvider {
   markFailure(proxy: ProxyEntry, error: unknown) {
     this.consecutiveFailures++
     logTranslateError(
-      `proxy ${proxy.host} failed (${
-        this.consecutiveFailures
-      } consecutive): ${getErrorMessage(error)}`,
+      `proxy ${proxy.host} failed: ${summarizeErrorMessage(error)}`,
     )
   }
 }
@@ -113,6 +109,15 @@ function getErrorMessage(error: unknown): string {
 
 function summarizeResponse(text: string): string {
   return text.replace(/\s+/g, ' ').trim().substring(0, 200)
+}
+
+/** 去掉错误信息里的完整请求 URL 和超长正文，只保留可读的失败原因 */
+function summarizeErrorMessage(error: unknown): string {
+  return getErrorMessage(error)
+    .replace(/https?:\/\/\S+/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .substring(0, 120)
 }
 
 function logTranslateError(message: string) {
@@ -302,13 +307,12 @@ export async function translateText(
   options: TranslateTextOptions = {},
 ): Promise<string | null> {
   const googleText = text.substring(0, GOOGLE_TRANSLATE_MAX_CHARS)
-  const trackId = options.trackId || 'unknown'
   let googleError = ''
   let myMemoryError = ''
 
   for (let attempt = 1; attempt <= TRANSLATE_MAX_ATTEMPTS; attempt++) {
     while (true) {
-      const proxy = options.proxyProvider?.next(trackId)
+      const proxy = options.proxyProvider?.next()
       const canUseDirect =
         !options.proxyProvider || options.proxyProvider.directFallbackEnabled
 
@@ -319,7 +323,7 @@ export async function translateText(
         options.proxyProvider?.markSuccess()
         return translated
       } catch (error) {
-        googleError = getErrorMessage(error)
+        googleError = summarizeErrorMessage(error)
 
         if (proxy) {
           options.proxyProvider?.markFailure(proxy, error)
@@ -338,7 +342,7 @@ export async function translateText(
       try {
         return await translateByMyMemory(text)
       } catch (error) {
-        myMemoryError = getErrorMessage(error)
+        myMemoryError = summarizeErrorMessage(error)
       }
     }
 
@@ -472,7 +476,6 @@ export async function translateDiscountDescriptions(
         batch.map(async (target) => {
           const translated = await translateText(target.description, {
             proxyProvider: proxyProvider || undefined,
-            trackId: target.trackId,
           })
           if (!translated) {
             fail++
@@ -504,6 +507,10 @@ export async function translateDiscountDescriptions(
   }
 
   console.log(
-    `RSS 描述翻译统计: 待翻译 ${totalTargets} 个应用 | 成功 ${totalSuccess} | 失败 ${totalFail}`,
+    `RSS 描述翻译统计: 待翻译 ${totalTargets} 个应用 | 成功 ${totalSuccess} | 失败 ${totalFail}${
+      proxyProvider
+        ? ` | 已消耗代理 IP ${proxyProvider.usedCount}/${proxyProvider.total}`
+        : ''
+    }`,
   )
 }

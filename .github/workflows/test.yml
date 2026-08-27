@@ -20,6 +20,7 @@ env:
 jobs:
   test:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     if: github.ref == 'refs/heads/main'
     steps:
       - uses: actions/checkout@v3
@@ -36,6 +37,9 @@ jobs:
         run: npm run rss
         env:
           TEST_APP_LIMIT: '2'
+          # 冒烟测试只验证流程能跑通，不消耗代理池和翻译接口配额
+          TRANSLATE_PROXY_ENABLED: 'false'
+          TRANSLATE_PROXY_DIRECT_FALLBACK: 'false'
 
       - name: show git diff summary
         run: |
