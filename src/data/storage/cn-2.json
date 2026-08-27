@@ -1,240 +1,4 @@
 {
-  "1417937518": {
-    "name": "VentSim",
-    "trackName": "VentSim",
-    "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
-    },
-    "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1780423764717,
-          "price": 8,
-          "formattedPrice": "¥8.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/ventsim/id1417937518?uo=4",
-    "description": "VentSim is a fully functioning, high fidelity, physiologically faithful mechanical ventilator simulator. It was developed by Dr. Roger Stedman for iOS using the Swift programming language. Its purpose is an educational tool for critical care doctors, nurses, therapists, and anaesthetists – essentially anyone that has an interest in the provision of safe, effective care of the mechanically ventilated patient. VentSim uses a mathematical model of the human respiratory system (volumes, resistance and compliance) which are well established models published in the literature [link]. These have been codified with an interface developed which allows you to manipulate parameters to simulate different patient scenarios (everything from a neonate through to an adult with severe COPD and emphysema). VentSim allows you to apply ventilator settings to your respiratory system model and then generates pressure, volume and flow signals that are displayed on your iOS device. Using VentSim On launch VentSim takes you straight into the simulator view – this is your central navigation point for the app. Set up your simulated patient Tap the ‘Patient’ button on the right side of the navigator bar. This brings up the ‘Patient Settings’ view: The controls will slide in from the right, allowing you to still see some of the simulator view as you make adjustments. Select your type of patient - and then adjust weight and relative lung volume size. You will see calculated lung volumes. Select linear or dynamic compliance If linear is selected adjust the ‘Compliance Slider’ (mls/cmH2O). Alternatively - explore the dynamic compliance model and try different compliance models. Adjust the Time constant, this will adjust airway resistance according to the size and compliance of your patient. Return to the simulator view by tapping the right arrow in the navigator bar. Adjust your ventilator settings Select the ‘Ventilator’ button to the left of the navigator bar. This brings up the ‘Ventilator Settings’ view: Select your ventilator rate (bpm) and I:E ratio using the sliders. You have a choice of three ventilator modes; Pressure Control, Volume Control and Flow Control. You are able to adjust appropriate input values for each of these (Inspiratory pressure, tidal volume or inspiratory flow) as well as apply PEEP and in volume control mode add an end inspiratory pause. Return to the simulator view to view the impact your settings have had on your patients respiratory parameters. Optimise the simulator view If you are finding that due to screen size information is hidden (as is the case with the iPhone SE) try turning your device on its side into landscape mode. The simulator view in landscape mode on an iPhone SE Each simulator graph view has a gear icon in the top right hand corner, tap this to bring up the view settings panel. This allows you to change the background color, plot color, speed of animation, animation type (default is the wrap fade mode) and plot style (line or solid). Graph Plot View settings popover You will notice that as you change your settings the graph plots will automatically re-scale to an optimum screen fit. The axis labels will adjust accordingly. The panel data is updated at the end of each respiratory cycle. Other Features The ‘i’ (information) button on the navigator bar opens a mini-browser which navigates automatically to this page. The down pointing chevron button on the navigator opens a menu with which to access other features of the simulator which allows you to switch on and off each individual view and also add in the spirometer loop view and also the compliance view. Have fun! Please feedback to: ventsim@rogerstedman.com ventsim@rogerstedman.com",
-    "fullDescription": "VentSim is a fully functioning, high fidelity, physiologically faithful mechanical ventilator simulator. It was developed by Dr. Roger Stedman for iOS using the Swift programming language. Its purpose is an educational tool for critical care doctors, nurses, therapists, and anaesthetists – essentially anyone that has an interest in the provision of safe, effective care of the mechanically ventilated patient. VentSim uses a mathematical model of the human respiratory system (volumes, resistance and compliance) which are well established models published in the literature [link]. These have been codified with an interface developed which allows you to manipulate parameters to simulate different patient scenarios (everything from a neonate through to an adult with severe COPD and emphysema). VentSim allows you to apply ventilator settings to your respiratory system model and then generates pressure, volume and flow signals that are displayed on your iOS device. Using VentSim On launch VentSim takes you straight into the simulator view – this is your central navigation point for the app. Set up your simulated patient Tap the ‘Patient’ button on the right side of the navigator bar. This brings up the ‘Patient Settings’ view: The controls will slide in from the right, allowing you to still see some of the simulator view as you make adjustments. Select your type of patient - and then adjust weight and relative lung volume size. You will see calculated lung volumes. Select linear or dynamic compliance If linear is selected adjust the ‘Compliance Slider’ (mls/cmH2O). Alternatively - explore the dynamic compliance model and try different compliance models. Adjust the Time constant, this will adjust airway resistance according to the size and compliance of your patient. Return to the simulator view by tapping the right arrow in the navigator bar. Adjust your ventilator settings Select the ‘Ventilator’ button to the left of the navigator bar. This brings up the ‘Ventilator Settings’ view: Select your ventilator rate (bpm) and I:E ratio using the sliders. You have a choice of three ventilator modes; Pressure Control, Volume Control and Flow Control. You are able to adjust appropriate input values for each of these (Inspiratory pressure, tidal volume or inspiratory flow) as well as apply PEEP and in volume control mode add an end inspiratory pause. Return to the simulator view to view the impact your settings have had on your patients respiratory parameters. Optimise the simulator view If you are finding that due to screen size information is hidden (as is the case with the iPhone SE) try turning your device on its side into landscape mode. The simulator view in landscape mode on an iPhone SE Each simulator graph view has a gear icon in the top right hand corner, tap this to bring up the view settings panel. This allows you to change the background color, plot color, speed of animation, animation type (default is the wrap fade mode) and plot style (line or solid). Graph Plot View settings popover You will notice that as you change your settings the graph plots will automatically re-scale to an optimum screen fit. The axis labels will adjust accordingly. The panel data is updated at the end of each respiratory cycle. Other Features The ‘i’ (information) button on the navigator bar opens a mini-browser which navigates automatically to this page. The down pointing chevron button on the navigator opens a menu with which to access other features of the simulator which allows you to switch on and off each individual view and also add in the spirometer loop view and also the compliance view. Have fun! Please feedback to: ventsim@rogerstedman.com ventsim@rogerstedman.com",
-    "summaryDescription": "VentSim is a fully functioning, high fidelity, physiologically faithful mechanical ventilator simulator. It was developed by Dr. Roger Stedman for iOS using the Swift programming language. Its purpose is an educational tool for critical care doctors, nurses, therapists, and anaesthetists – essentially anyone that has an interest in the provision of safe, effective care of the mechanically ventilated patient. VentSim uses a mathematical model of the human respiratory system (volumes, resistance and compliance) which are well established models published in the literature [link]. These have been codified with an interface developed which allows you to manipulate parameters to simulate different patient scenarios (everything from a neonate through to an adult with severe COPD and emphysema). VentSim allows you to apply ventilator settings to your respiratory system model and then generates pressure, volume and flow signals that are displayed on your iOS device. Using VentSim On launch VentSim takes you straight into the simulator view – this is your central navigation point for the app. Set up your simulated patient Tap the ‘Patient’ button on the right side of the navigator bar. This brings up the ‘Patient Settings’ view: The controls will slide in from the right, allowing you to still see some of the simulator view as you make adjustments. Select your type of patient - and then adjust weight and relative lung volume size. You will see calculated lung volumes. Select linear or dynamic compliance If linear is selected adjust the ‘Compliance Slider’ (mls/cmH2O). Alternatively - explore the dynamic compliance model and try different compliance models. Adjust the Time constant, this will adjust airway resistance according to the size and compliance of your patient. Return to the simulator view by tapping the right arrow in the navigator bar. Adjust your ventilator settings Select the ‘Ventilator’ button to the left of the navigator bar. This brings up the ‘Ventilator Settings’ view: Select your ventilator rate (bpm) and I:E ratio using the sliders. You have a choice of three ventilator modes; Pressure Control, Volume Control and Flow Control. You are able to adjust appropriate input values for each of these (Inspiratory pressure, tidal volume or inspiratory flow) as well as apply PEEP and in volume control mode add an end inspiratory pause. Return to the simulator view to view the impact your settings have had on your patients respiratory parameters. Optimise the simulator view If you are finding that due to screen size information is hidden (as is the case with the iPhone SE) try turning your device on its side into landscape mode. The simulator view in landscape mode on an iPhone SE Each simulator graph view has a gear icon in the top right hand corner, tap this to bring up the view settings panel. This allows you to change the background color, plot color, speed of animation, animation type (default is the wrap fade mode) and plot style (line or solid). Graph Plot View settings popover You will notice that as you change your settings the graph plots will automatically re-scale to an optimum screen fit. The axis labels will adjust accordingly. The panel data is updated at the end of each respiratory cycle. Other Features The ‘i’ (information) button on the navigator bar opens a mini-browser which navigates automatically to this page. The down pointing chevron button on the navigator opens a menu with which to access other features of the simulator which allows you to switch on and off each individual view and also add in the spirometer loop view and also the compliance view. Have fun! Please feedback to: ventsim@rogerstedman.com ventsim@rogerstedman.com",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/59/a9/23/59a9232d-6bf3-ac48-64b6-f4f0caae820c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/59/a9/23/59a9232d-6bf3-ac48-64b6-f4f0caae820c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.jpg",
-    "sellerName": "Roger Stedman",
-    "artistName": "Roger Stedman",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/31/e8/6a/31e86a68-c896-ecd4-9d1f-11f91868e8e6/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/6e/b5/26/6eb52607-32b2-3781-01f4-7288034916df/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/28/49/b8/2849b804-8132-8726-51ca-9edefd19af5d/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f1/ca/db/f1cadbd2-bfe1-c3f1-81e2-7ae2f3ae0fea/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/50/b4/af/50b4afe3-e9e9-3161-61d5-f48e6e594b32/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/17/19/10/17191002-0ea6-9897-c3e4-5b4a6efa2e2a/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/68/36/d6/6836d651-fc6e-68f4-c81a-c294116f1c6b/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/de/9b/88/de9b88aa-f659-79e8-cf1a-a17c9a3e7505/pr_source.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/8d/15/f68d1561-f43c-5396-9926-befbac2ece4f/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d0/5c/14/d05c14e0-36ce-5a67-2203-3c7855c26d01/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f2/62/4d/f2624d4f-d09f-2db2-578b-f1e33ecb5d5f/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/34/0f/cf/340fcf4b-e0e5-445a-62a5-bed9d94f3c26/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/a4/fb/d8a4fb9c-6aaa-d77a-51c0-e43010df347f/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e6/6e/72/e66e7225-a187-c52a-0e19-73c331055e93/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/77/44/72/77447262-dd92-c966-535c-e9dea2bdd7aa/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/9a/9b/15/9a9b1579-61e4-30ee-8403-9b9363b26040/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/fe/ae/84/feae84fa-53c0-fa9e-8b63-5d56a0cf54d9/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/19/b4/fc/19b4fc54-c87b-d37c-1d9e-7f38ee57e37f/pr_source.png/552x414bb.png"
-    ],
-    "_externalSourceFirstSeen": 1780423747040
-  },
-  "1418898008": {
-    "name": "CHAPACITY",
-    "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "chapaポイントD": "¥598.00"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "chapaポイントD": "¥598.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1772865008630,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {
-            "chapaポイントD": "¥598.00"
-          }
-        }
-      ]
-    ],
-    "_externalSourceFirstSeen": 1772865005129
-  },
-  "1418996192": {
-    "name": "漫画美式英语",
-    "trackName": "漫画美式英语",
-    "maxPriceInfo": {
-      "price": 28,
-      "formattedPrice": "¥28.00"
-    },
-    "minPriceInfo": {
-      "price": 28,
-      "formattedPrice": "¥28.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1777712666164,
-          "price": 28,
-          "formattedPrice": "¥28.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%BC%AB%E7%94%BB%E7%BE%8E%E5%BC%8F%E8%8B%B1%E8%AF%AD/id1418996192?uo=4",
-    "description": "The panda father suddenly got canned. Frustrated, he decided to start a business with the encouragement of his rabbit wife. The cat son who wants to be a musician and his purple hair girlfriend; naïve and somewhat nerdy sheep daughter; A cunning vendor ... The positive attitude (occasionally negative) , the encouragement to each other (occasionally sarcasm), converge into a funny storyline, whitch consists of standard pronunciations of American English and explanations of key grammatical points. Have fun with them! 主人公熊猫爸爸被突然解雇， 失意的他在兔妻子的鼓励下决定创业。 不爱学习的猫儿子和他的紫头发女朋友， 天真又有些书呆子气的绵羊女儿， 狡猾的商贩…… 一家人面对种种问题采取的积极态度（偶尔也消极）， 互相勉励（偶尔也互相讽刺）， 汇成了丰富的故事情节， 并通过美式英语的标准发音和关键语法点的讲解， 提供给大家一个轻松、愉悦的学习App。",
-    "fullDescription": "The panda father suddenly got canned. Frustrated, he decided to start a business with the encouragement of his rabbit wife. The cat son who wants to be a musician and his purple hair girlfriend; naïve and somewhat nerdy sheep daughter; A cunning vendor ... The positive attitude (occasionally negative) , the encouragement to each other (occasionally sarcasm), converge into a funny storyline, whitch consists of standard pronunciations of American English and explanations of key grammatical points. Have fun with them! 主人公熊猫爸爸被突然解雇， 失意的他在兔妻子的鼓励下决定创业。 不爱学习的猫儿子和他的紫头发女朋友， 天真又有些书呆子气的绵羊女儿， 狡猾的商贩…… 一家人面对种种问题采取的积极态度（偶尔也消极）， 互相勉励（偶尔也互相讽刺）， 汇成了丰富的故事情节， 并通过美式英语的标准发音和关键语法点的讲解， 提供给大家一个轻松、愉悦的学习App。",
-    "summaryDescription": "The panda father suddenly got canned. Frustrated, he decided to start a business with the encouragement of his rabbit wife. The cat son who wants to be a musician and his purple hair girlfriend; naïve and somewhat nerdy sheep daughter; A cunning vendor ... The positive attitude (occasionally negative) , the encouragement to each other (occasionally sarcasm), converge into a funny storyline, whitch consists of standard pronunciations of American English and explanations of key grammatical points. Have fun with them! 主人公熊猫爸爸被突然解雇， 失意的他在兔妻子的鼓励下决定创业。 不爱学习的猫儿子和他的紫头发女朋友， 天真又有些书呆子气的绵羊女儿， 狡猾的商贩…… 一家人面对种种问题采取的积极态度（偶尔也消极）， 互相勉励（偶尔也互相讽刺）， 汇成了丰富的故事情节， 并通过美式英语的标准发音和关键语法点的讲解， 提供给大家一个轻松、愉悦的学习App。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/f7/58/23f75819-c3a1-b82d-b21c-5885e7561820/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/f7/58/23f75819-c3a1-b82d-b21c-5885e7561820/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "sellerName": "由 李",
-    "artistName": "由 李",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6c/a2/b0/6ca2b099-b985-96b5-a97a-118496583aed/pr_source.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/06/a3/7b/06a37bf0-442f-9ffa-d3bf-51d92578edf9/pr_source.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/65/a4/a765a4f4-5e9e-e0dd-c6b0-42509fd25f46/pr_source.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/b9/c7/6fb9c7d2-40ae-26b8-3e36-e8ffe2514d3a/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/21/7e/95217eed-288f-00e1-6f72-0fbdcae39ebc/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/35/30/16/35301602-a998-194e-cfb4-cd8588c7b9a2/pr_source.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/16/78/7c167886-075e-9d4f-1a17-800f72c32478/pr_source.jpg/576x768bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/15/94/a7/1594a7e6-dfd3-91af-5dde-bf4e3642c4e4/pr_source.jpg/576x768bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/59/27/9a/59279a6f-3218-451b-f964-49c323bf51a5/pr_source.jpg/576x768bb.jpg"
-    ],
-    "_externalSourceFirstSeen": 1777712645034
-  },
-  "1419753033": {
-    "name": "乐宝贝-育儿日记",
-    "trackName": "乐宝贝-育儿日记",
-    "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "无限量数据输入": "¥0.00"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "无限量数据输入": "¥0.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1785724518939,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {
-            "无限量数据输入": "¥0.00"
-          }
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B9%90%E5%AE%9D%E8%B4%9D-%E8%82%B2%E5%84%BF%E6%97%A5%E8%AE%B0/id1419753033?uo=4",
-    "description": "“简单便捷！完美的每日总结” Celia “在使用了各种育儿软件后，乐宝贝胜在了它简约便捷的设计” Helen 强力推荐给新生儿父母，乐宝贝胜在每日便捷舒适的使用，为新生儿父母提供育儿小窍门 简单快捷地记录： 母乳喂奶 奶粉喂奶 维他命 尿片更换 睡眠 体重 身高 头围 体温 其他笔记 在小细节中成就更好的使用体验： 单手使用模式 每日总结 记录每次喂乳的时间间隙 下次喂乳乳房提醒 简单明了的图表 快速记录数据 自动调节夜间模式 各种颜色主题 双胞胎，三胞胎也可以使用 可以CSV导出您的数据 我们尊重你的隐私，所以我们不会看到您的数据，所有的数据都只会显示在您的设备上。不需要新账号，也不需要网络，更重要的是，没有广告。 100个免费数据输入给您提供了足够的时间和空间去尝试乐宝贝所有的功能，也给您足够的时间去做决定。当您购买升级版后，您将拥有永久使用无限次输入的功能。 还在犹豫吗？您可以创建一个临时日志来体验一下。 您的反馈是我们向前的动力，如果您有什么想对我们说的，请不要犹豫并发邮件至hello@lebaby.app，或者关注我们的推特、Instagram @lebabyapp，十分感谢您的支持！",
-    "fullDescription": "“简单便捷！完美的每日总结” Celia “在使用了各种育儿软件后，乐宝贝胜在了它简约便捷的设计” Helen 强力推荐给新生儿父母，乐宝贝胜在每日便捷舒适的使用，为新生儿父母提供育儿小窍门 简单快捷地记录： 母乳喂奶 奶粉喂奶 维他命 尿片更换 睡眠 体重 身高 头围 体温 其他笔记 在小细节中成就更好的使用体验： 单手使用模式 每日总结 记录每次喂乳的时间间隙 下次喂乳乳房提醒 简单明了的图表 快速记录数据 自动调节夜间模式 各种颜色主题 双胞胎，三胞胎也可以使用 可以CSV导出您的数据 我们尊重你的隐私，所以我们不会看到您的数据，所有的数据都只会显示在您的设备上。不需要新账号，也不需要网络，更重要的是，没有广告。 100个免费数据输入给您提供了足够的时间和空间去尝试乐宝贝所有的功能，也给您足够的时间去做决定。当您购买升级版后，您将拥有永久使用无限次输入的功能。 还在犹豫吗？您可以创建一个临时日志来体验一下。 您的反馈是我们向前的动力，如果您有什么想对我们说的，请不要犹豫并发邮件至hello@lebaby.app，或者关注我们的推特、Instagram @lebabyapp，十分感谢您的支持！",
-    "summaryDescription": "“简单便捷！完美的每日总结” Celia “在使用了各种育儿软件后，乐宝贝胜在了它简约便捷的设计” Helen 强力推荐给新生儿父母，乐宝贝胜在每日便捷舒适的使用，为新生儿父母提供育儿小窍门 简单快捷地记录： 母乳喂奶 奶粉喂奶 维他命 尿片更换 睡眠 体重 身高 头围 体温 其他笔记 在小细节中成就更好的使用体验： 单手使用模式 每日总结 记录每次喂乳的时间间隙 下次喂乳乳房提醒 简单明了的图表 快速记录数据 自动调节夜间模式 各种颜色主题 双胞胎，三胞胎也可以使用 可以CSV导出您的数据 我们尊重你的隐私，所以我们不会看到您的数据，所有的数据都只会显示在您的设备上。不需要新账号，也不需要网络，更重要的是，没有广告。 100个免费数据输入给您提供了足够的时间和空间去尝试乐宝贝所有的功能，也给您足够的时间去做决定。当您购买升级版后，您将拥有永久使用无限次输入的功能。 还在犹豫吗？您可以创建一个临时日志来体验一下。 您的反馈是我们向前的动力，如果您有什么想对我们说的，请不要犹豫并发邮件至hello@lebaby.app，或者关注我们的推特、Instagram @lebabyapp，十分感谢您的支持！",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/c7/4f/1cc74fcc-c0b3-90fc-3a3e-4f4568594238/Icon-App-0-1x_U007emarketing-0-7-0-85-220.jpeg/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/c7/4f/1cc74fcc-c0b3-90fc-3a3e-4f4568594238/Icon-App-0-1x_U007emarketing-0-7-0-85-220.jpeg/100x100bb.jpg",
-    "sellerName": "Thibaut Sailly",
-    "artistName": "Thibaut Sailly",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a6/23/82/a623824a-69a2-b40d-40e2-de77b36f6eaa/02cf4bf0-f9b0-4d7d-8743-ac5ae4b43448_Screenshot01.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/18/0f/0a180ff9-7ff1-9e30-cda3-d196b407fdc0/6c12b0a2-305a-4dbb-9e87-5fad8c6219d9_Screenshot02.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/39/fc/84/39fc84d0-10c9-fd2f-7ad3-457193e5d45c/4d1074bf-b725-421d-b585-1643de0c48c2_Screenshot03.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/85/fb/92/85fb924f-0dc5-f153-1e9e-c775c19fa941/5a731070-3e6e-42ff-9d67-2b5cc2f6f1da_Screenshot04.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f6/67/02/f66702d3-0033-ac41-3d4a-f9a204355dc3/4d915cf2-675c-4abb-914b-cdc8aeb72fc7_Screenshot05.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/dc/db/d6dcdbad-d103-9cac-40a9-66a0859db88d/57ded3f9-d17e-4219-8bd5-e7fa28f4e025_Screenshot06.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/b2/c8/24b2c8cb-cabd-1fbb-e330-10fb05066c81/ce43cb3c-9817-454b-aa50-adb301aa5c2b_Screenshot07.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/82/d0/9e82d01c-7d96-c364-db0a-19d1cd9d41b4/96b3b44c-202d-487c-92d2-85bbdcf0f94f_Screenshot08.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/d8/c3/08d8c339-8437-9f85-4f6a-eb282845db0c/4b851276-8990-41dc-a253-12990c07f6e6_Screenshot09.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ce/c5/53/cec553f2-fdba-29d1-cb05-a9f6c4ae8571/2f0ab268-a17f-40ab-9d10-116cda0aa88e_Screenshot10.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/8f/e1/8e8fe1e2-f9fc-d9ce-d2d1-082adad4a79f/3318da23-f1e4-4c51-898e-f1e069e59844_1-journal-today_U002bGoupil_Light.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ba/f1/a3/baf1a39e-dfe8-99a5-1653-6c69d32d6c51/ccee0295-6e8b-4438-b799-d9fd22d50896_2-graph_U002bAzur_Light.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/98/77/3c/98773c1b-9d2a-1ba5-0783-705acfae3e61/30648557-6c7e-47ca-842f-36842a4d8ad7_3-bottle_U002bGoupil_Light.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/6a/f2/db6af2ec-2a89-7d60-0007-76d59fec66f5/b717277b-941b-44a6-8e7b-676ff42d5fc3_4-breastfeeding-timer_U002bAzur_Light.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/c8/da/07c8da93-6dd1-3690-8879-3b2f0fc3a710/77ccb603-7e7f-483c-9597-901745e9e76d_5-breastfeeding-time-edit_U002bGoupil_Light.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/16/ee/e616ee41-fc97-812d-451a-16fd1fb6657f/f40a978d-3cf7-4baa-9028-cae64e679b71_6-journal-day-summary_U002bAzur_Light.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/d3/32/ced332d6-933c-29c7-88dd-d1f3550bc83f/2476782d-a32c-40ba-8962-aacc4a9c6bf6_1-journal-today_U002bGoupil_Dark.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/84/6a/b5/846ab53f-90b9-6776-9575-4fb8b04dcf33/6eecdeac-22f6-4b80-a8ff-0b5bf817a2e2_1-journal-today_U002bAzur_Night.png/360x480bb.jpg"
-    ],
-    "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1785724518865
-  },
-  "1419936734": {
-    "name": "腦珠算(加減法) 題目練習",
-    "trackName": "腦珠算(加減法) 題目練習",
-    "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
-    },
-    "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1782566842253,
-          "price": 38,
-          "formattedPrice": "¥38.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%85%A6%E7%8F%A0%E7%AE%97-%E5%8A%A0%E6%B8%9B%E6%B3%95-%E9%A1%8C%E7%9B%AE%E7%B7%B4%E7%BF%92/id1419936734?uo=4",
-    "description": "腦珠算(加減數) 題目練習 終極的珠心算加減數題目編輯器! 提供六款珠心算必備的題目訓練, 包括直式題、橫式題、算數題、珠算題、珠數互譯、記憶題。 用戶可根據每項練習的詳細紀錄及分析自製弱項特訓。自訂隨機的練習題及答案均可輸出作PDF離線練習。 兩種模式切合不同的學習需要： 練習模式 提供源源不絕的隨機題目，旨在題目答案的準確性。 挑戰模式則要求在指定時間內完成最多的題目。 在試卷編緝器中，共有6種題目類型可供選擇。 只要輸入題目選項，就能得出相應的隨機題目，同時也能得到題目的答案頁。 無輪是練習或挑戰模式，完成的每一項成績均會詳細地記錄在系統中，以供隨時查看及檢討。 透過報告分析了解個人學習上的強弱項，從而集中進行更有效的加強訓練，加速掌握相關技巧。 除可透過程式進行題目練習，製成的試卷PDF亦可以供列印或電郵用作離線的訓練用途。 系統會按照選項製作測驗卷，儘管是同樣的選項，系統每次製制的隨機測驗卷也不會相同的。 詳情請到 https://www.hamsterforce.com/AbacusTrainerCN.html",
-    "fullDescription": "腦珠算(加減數) 題目練習 終極的珠心算加減數題目編輯器! 提供六款珠心算必備的題目訓練, 包括直式題、橫式題、算數題、珠算題、珠數互譯、記憶題。 用戶可根據每項練習的詳細紀錄及分析自製弱項特訓。自訂隨機的練習題及答案均可輸出作PDF離線練習。 兩種模式切合不同的學習需要： 練習模式 提供源源不絕的隨機題目，旨在題目答案的準確性。 挑戰模式則要求在指定時間內完成最多的題目。 在試卷編緝器中，共有6種題目類型可供選擇。 只要輸入題目選項，就能得出相應的隨機題目，同時也能得到題目的答案頁。 無輪是練習或挑戰模式，完成的每一項成績均會詳細地記錄在系統中，以供隨時查看及檢討。 透過報告分析了解個人學習上的強弱項，從而集中進行更有效的加強訓練，加速掌握相關技巧。 除可透過程式進行題目練習，製成的試卷PDF亦可以供列印或電郵用作離線的訓練用途。 系統會按照選項製作測驗卷，儘管是同樣的選項，系統每次製制的隨機測驗卷也不會相同的。 詳情請到 https://www.hamsterforce.com/AbacusTrainerCN.html",
-    "summaryDescription": "腦珠算(加減數) 題目練習 終極的珠心算加減數題目編輯器! 提供六款珠心算必備的題目訓練, 包括直式題、橫式題、算數題、珠算題、珠數互譯、記憶題。 用戶可根據每項練習的詳細紀錄及分析自製弱項特訓。自訂隨機的練習題及答案均可輸出作PDF離線練習。 兩種模式切合不同的學習需要： 練習模式 提供源源不絕的隨機題目，旨在題目答案的準確性。 挑戰模式則要求在指定時間內完成最多的題目。 在試卷編緝器中，共有6種題目類型可供選擇。 只要輸入題目選項，就能得出相應的隨機題目，同時也能得到題目的答案頁。 無輪是練習或挑戰模式，完成的每一項成績均會詳細地記錄在系統中，以供隨時查看及檢討。 透過報告分析了解個人學習上的強弱項，從而集中進行更有效的加強訓練，加速掌握相關技巧。 除可透過程式進行題目練習，製成的試卷PDF亦可以供列印或電郵用作離線的訓練用途。 系統會按照選項製作測驗卷，儘管是同樣的選項，系統每次製制的隨機測驗卷也不會相同的。 詳情請到 https://www.hamsterforce.com/AbacusTrainerCN.html",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/e7/da/a5e7da0d-7f74-7ba4-05eb-bc3f233f8c3c/AppIcon-1x_U007emarketing-0-7-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/e7/da/a5e7da0d-7f74-7ba4-05eb-bc3f233f8c3c/AppIcon-1x_U007emarketing-0-7-85-220.png/100x100bb.jpg",
-    "sellerName": "Hamster Force Multimedia Limited",
-    "artistName": "Hamster Force Multimedia Ltd.",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/5e/e3/315ee3ae-d84c-71d6-8e62-b669752b15c9/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/8c/50/d58c506a-e891-53d2-717b-a42747258b38/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0f/50/19/0f5019ba-1ae0-cccd-d6ea-efab29c57b61/afda778f-d8ce-43f1-a8e6-e735a124bb9a_Vert_2208_03.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/95/8f/21/958f21fa-d1c0-65e1-e32b-eeaf9fdbe52e/8e2f366d-2770-49ae-ac78-45f118e3d4cc_Cap_1242_02.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/6a/90/476a90ad-313a-eb08-ee5b-f23499f44190/224f9d5d-3f71-4228-8cbe-bd9723b51b05_Cap_1242_03.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4f/37/89/4f3789a2-3f7f-23b7-b581-b99edc52464a/2d89abdc-41d8-4a16-85af-f52ecd308b90_Cap_1242_04.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/ad/bd/e7adbdcc-317b-eb83-4a42-321a71968e13/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/f4/dd/32f4dde2-b802-be29-19c3-bf6663d19a6f/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/ec/f1/b0ecf19e-8572-1744-3630-d59618d937dc/pr_source.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/32/96/f03296a9-16de-f457-9f02-77a2b4a33e7b/pr_source.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/0f/8e/740f8eb7-1bba-0ad6-fa03-bc0c937e87cd/pr_source.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/35/ee/d2/35eed2bc-7161-52f5-d6a5-d7397db9506d/pr_source.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/2c/27/c42c2778-1a63-6a31-2bea-221fbc766310/pr_source.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2d/cd/72/2dcd7279-8163-bb9b-a21f-91bd09f34568/32166297-13b5-4644-a6d8-162a794f0835_Cap_iPad_02.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/d8/49/6ed849d3-5950-b363-724d-b42a2f37e819/8dd3da6c-c98b-4a10-91fe-e6144c2e2d3b_Cap_iPad_03.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/29/24/ed/2924ed54-c09e-0710-b215-5095d72f0b01/6639aa16-305b-4c84-971d-92a748a3ef24_Cap_iPad_04.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/05/34/740534dc-13b6-d9be-56ec-e1cd6520467d/pr_source.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/73/0f/ba730f87-e1e9-7755-591f-ac16b40ad24b/pr_source.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/a8/15/9da8159c-df34-0d8b-1012-dcad6c7dc713/pr_source.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8a/33/6b/8a336b59-ecdd-cc8a-76e9-8de8a478b23b/pr_source.png/576x768bb.png"
-    ],
-    "_externalSourceFirstSeen": 1782566821735
-  },
   "1419939043": {
     "name": "往后余生",
     "trackName": "往后余生",
@@ -2787,8 +2551,8 @@
     "description": "简约清新如无印良品，一款极简个人日记本/便签本/备忘录/树洞。 它以从前的纸质记事本为灵感,关注个人方便、轻松、私密地记录文字。以日期为时间轴，可以随意写下当天的任何事情或想法，点点滴滴，一切随心所欲。日记内容仅保存在用户手机本地，用户可以自己选择同步至iCloud，此外不会上传至其他服务器，我们也不提供其它网络访问。App内无广告，无内购，不需注册登录，一次安装，永久日记！对于关注极致私密性的用户，可设置指纹识别/面部识别来锁定和解锁日记记录。 隐私政策：https://github.com/inohawk1026-debug/Diary/blob/main/README.md 使用条款 (EULA)：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "简约清新如无印良品，一款极简个人日记本/便签本/备忘录/树洞。 它以从前的纸质记事本为灵感,关注个人方便、轻松、私密地记录文字。以日期为时间轴，可以随意写下当天的任何事情或想法，点点滴滴，一切随心所欲。日记内容仅保存在用户手机本地，用户可以自己选择同步至iCloud，此外不会上传至其他服务器，我们也不提供其它网络访问。App内无广告，无内购，不需注册登录，一次安装，永久日记！对于关注极致私密性的用户，可设置指纹识别/面部识别来锁定和解锁日记记录。 隐私政策：https://github.com/inohawk1026-debug/Diary/blob/main/README.md 使用条款 (EULA)：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "简约清新如无印良品，一款极简个人日记本/便签本/备忘录/树洞。 它以从前的纸质记事本为灵感,关注个人方便、轻松、私密地记录文字。以日期为时间轴，可以随意写下当天的任何事情或想法，点点滴滴，一切随心所欲。日记内容仅保存在用户手机本地，用户可以自己选择同步至iCloud，此外不会上传至其他服务器，我们也不提供其它网络访问。App内无广告，无内购，不需注册登录，一次安装，永久日记！对于关注极致私密性的用户，可设置指纹识别/面部识别来锁定和解锁日记记录。 隐私政策：https://github.com/inohawk1026-debug/Diary/blob/main/README.md 使用条款 (EULA)：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/a8/23/a8a82352-4eab-6d79-07d3-0d3a86ee3152/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/a8/23/a8a82352-4eab-6d79-07d3-0d3a86ee3152/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/02/a9/5e02a912-4622-6d9d-f4ed-a9a802164729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/02/a9/5e02a912-4622-6d9d-f4ed-a9a802164729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "浩 刘",
     "artistName": "浩 刘",
     "screenshotUrls": [
@@ -15166,8 +14930,8 @@
     "_externalSourceFirstSeen": 1779011109852
   },
   "1445813795": {
-    "name": "Eclipse Guide：地图与时间",
-    "trackName": "Eclipse Guide：地图与时间",
+    "name": "Eclipse Guide：8月28日月偏食",
+    "trackName": "Eclipse Guide：8月28日月偏食",
     "maxPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00",
@@ -15190,29 +14954,29 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/eclipse-guide-%E5%9C%B0%E5%9B%BE%E4%B8%8E%E6%97%B6%E9%97%B4/id1445813795?uo=4",
+    "trackViewUrl": "https://apps.apple.com/cn/app/eclipse-guide-8%E6%9C%8828%E6%97%A5%E6%9C%88%E5%81%8F%E9%A3%9F/id1445813795?uo=4",
     "description": "Eclipse Guide是完备易用的日食月食观测指南。本应用提供了体验和理解以往和将来所有日食月食所需的全部信息。 出品方为著名天文应用Star Walk的开发商，该应用获得2010年Apple设计奖，备受全球超过1千万用户青睐*** 主要功能： ● 带有以往及将来日食和月食列表的日历。 ● 从你所在的位置、任何其他地点或最佳观看位置观看日食和月食。 ● 你可以按播放按钮来模拟日食/月食，从头到尾体验这一天体现象。 ● 世界地图会显示日食和月食路径，并伴有各个阶段的时间点。 ● 地图可描绘出日食和月食的可见度级别，并列出可以观看这一天体现象的最佳位置。 ● 日食和月食时间表与其他核心信息。 ● 关于日食和月食的通知。 高级功能： ● 语音助理功能内的语音提示不会让你错过任何日月食。观测过程中本功能将对于每个食相进行评论。 ● 全屏信息地图可以显示任何食带与它的可见性。用户可以使用地图功能选择一个好观测地点。您可以放大和缩小并为任何位置检查日月食的能见范围。 ● “Star spotter”功能在您的观察地点模拟星空。除了天空中的日月食以外，根据您的具体位置您还可以再食中观察到星星、行星等的天体。 此功能（Star Spotter）适用于带数字罗盘的设备。 高级功能需要单独购买（应用内购买） 请注意：直接目视太阳会对眼睛造成永久性损伤或失明。当您观看日食的时候一定要注意好保护眼睛。 更多功能敬请期待。 如有疑问或改进建议请联系：support@vitotechnology.com 我们期待你的反馈。 Eclipse Guide在手，从此不再错过任何日食和月食！",
     "fullDescription": "Eclipse Guide是完备易用的日食月食观测指南。本应用提供了体验和理解以往和将来所有日食月食所需的全部信息。 出品方为著名天文应用Star Walk的开发商，该应用获得2010年Apple设计奖，备受全球超过1千万用户青睐*** 主要功能： ● 带有以往及将来日食和月食列表的日历。 ● 从你所在的位置、任何其他地点或最佳观看位置观看日食和月食。 ● 你可以按播放按钮来模拟日食/月食，从头到尾体验这一天体现象。 ● 世界地图会显示日食和月食路径，并伴有各个阶段的时间点。 ● 地图可描绘出日食和月食的可见度级别，并列出可以观看这一天体现象的最佳位置。 ● 日食和月食时间表与其他核心信息。 ● 关于日食和月食的通知。 高级功能： ● 语音助理功能内的语音提示不会让你错过任何日月食。观测过程中本功能将对于每个食相进行评论。 ● 全屏信息地图可以显示任何食带与它的可见性。用户可以使用地图功能选择一个好观测地点。您可以放大和缩小并为任何位置检查日月食的能见范围。 ● “Star spotter”功能在您的观察地点模拟星空。除了天空中的日月食以外，根据您的具体位置您还可以再食中观察到星星、行星等的天体。 此功能（Star Spotter）适用于带数字罗盘的设备。 高级功能需要单独购买（应用内购买） 请注意：直接目视太阳会对眼睛造成永久性损伤或失明。当您观看日食的时候一定要注意好保护眼睛。 更多功能敬请期待。 如有疑问或改进建议请联系：support@vitotechnology.com 我们期待你的反馈。 Eclipse Guide在手，从此不再错过任何日食和月食！",
     "summaryDescription": "Eclipse Guide是完备易用的日食月食观测指南。本应用提供了体验和理解以往和将来所有日食月食所需的全部信息。 出品方为著名天文应用Star Walk的开发商，该应用获得2010年Apple设计奖，备受全球超过1千万用户青睐*** 主要功能： ● 带有以往及将来日食和月食列表的日历。 ● 从你所在的位置、任何其他地点或最佳观看位置观看日食和月食。 ● 你可以按播放按钮来模拟日食/月食，从头到尾体验这一天体现象。 ● 世界地图会显示日食和月食路径，并伴有各个阶段的时间点。 ● 地图可描绘出日食和月食的可见度级别，并列出可以观看这一天体现象的最佳位置。 ● 日食和月食时间表与其他核心信息。 ● 关于日食和月食的通知。 高级功能： ● 语音助理功能内的语音提示不会让你错过任何日月食。观测过程中本功能将对于每个食相进行评论。 ● 全屏信息地图可以显示任何食带与它的可见性。用户可以使用地图功能选择一个好观测地点。您可以放大和缩小并为任何位置检查日月食的能见范围。 ● “Star spotter”功能在您的观察地点模拟星空。除了天空中的日月食以外，根据您的具体位置您还可以再食中观察到星星、行星等的天体。 此功能（Star Spotter）适用于带数字罗盘的设备。 高级功能需要单独购买（应用内购买） 请注意：直接目视太阳会对眼睛造成永久性损伤或失明。当您观看日食的时候一定要注意好保护眼睛。 更多功能敬请期待。 如有疑问或改进建议请联系：support@vitotechnology.com 我们期待你的反馈。 Eclipse Guide在手，从此不再错过任何日食和月食！",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/3a/38/a73a38de-1856-6ef6-3526-be3940321b99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/3a/38/a73a38de-1856-6ef6-3526-be3940321b99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e3/08/45e30809-cd26-5cad-499d-3889b1e5243c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e3/08/45e30809-cd26-5cad-499d-3889b1e5243c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Vito Technology Inc.",
     "artistName": "Vito Technology Inc.",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/62/bb/2062bb6a-d3ec-e6b4-cabf-62ed1526967c/iPhonePlus_1.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/9b/c1/719bc1d6-6adf-dac3-c1ef-2c1cff5a1d1a/iPhonePlus_2.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/24/ef/3424efb9-d64f-1c7a-0f81-f1cf88588c9d/iPhonePlus_3.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/9f/ca/889fcaf2-61e9-b72d-9f3b-1259c2d93a98/iPhonePlus_4.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/7e/f6/377ef625-4527-8f35-7b62-2b677a4af243/iPhonePlus_6.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/01/29/510129af-124a-efa0-c095-fca787963446/iPhonePlus_5.png/392x696bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/6a/68/736a68d6-4ab5-9f74-858e-43d4c7b4ae18/iPhonePlus_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/b4/c3/82b4c326-3997-3de2-6fc7-6bac9eb69c35/iPhonePlus_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/8b/ce/428bce5f-9ffe-1156-6957-fde4646c3166/iPhonePlus_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/54/ba/3f54bad4-8cdc-c83d-b028-de40b191656e/iPhonePlus_4.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/d9/41/24d9413f-e2be-398e-d253-fed43d8129cb/iPhonePlus_6.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/f8/6c/f9f86c93-ec02-7d83-ab5a-b36a0f4a22c1/iPhonePlus_5.png/392x696bb.png"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/02/e0/a202e087-28f4-f705-2c40-e1f31e324e4a/iPad_1.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/00/8b/f4008b9b-73da-e794-1f05-47ec45373ef3/iPad_2.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/c2/07/d1c2072f-b8ec-c5fa-8423-bf3841c3b215/iPad_3.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/09/0d/d6090d01-a051-616f-dd43-6f0f6946d18e/iPad_4.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/39/2a/e6392adc-5213-31e0-89a1-f6fb49f6721b/iPad_6.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/c8/c1/0ac8c135-bf60-72d8-c60d-9759a9b9c216/iPad_5.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/df/00/05df0041-5b32-0ac4-8d53-ec472e12545e/iPad_1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/82/6c/61826c11-382c-f115-ab00-218e9a6e6628/iPad_2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/4c/82/ac4c8223-bc85-b520-a618-efb3798171d5/iPad_3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/a9/cd/04a9cd3e-10ed-8aaf-4cc6-57c156f22374/iPad_4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/4a/58/dc4a5893-f0d5-c1e9-f675-c3328b398eda/iPad_6.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/74/67/5e74678b-a3d4-5242-0759-ff59670c23fd/iPad_5.png/360x480bb.jpg"
     ]
   },
   "1446143224": {
@@ -24612,9 +24376,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/loop-videos-repeater/id1455750065?uo=4",
-    "description": "Are you looking for a simple app that loops videos? Something that will turn your short clips into a sleek sequence? You need Loop Videos, the simply useful video repeater app which enables you to import any video from your camera roll or iCloud/files and loop it as many times you like. Watch & loop videos in full screen, save and share videos you like with ease. It’s time to supercharge your video editing and boost your social media content with a simple loop app. IMPORT AND REPEAT VIDEOS With this easy to use and lightweight video app, you will be able to import videos of your choice from your iCloud and files as well from your camera roll. With Loop Videos, you are given the ability to determine the times you want a video to repeat itself. Turn a 5-second video to a 10-second video, playing the video twice with just a tap on this app. SAVE AND SHARE VIDEOS Repeat videos and specify the times you want a video to be played. The video you repeated using this effortless app can be saved to your camera roll with just a tap after you are done with it. Easily share videos directly within the app. WATCH VIDEOS IN FULL SCREEN Not only that Loop Videos allows you to import and repeat videos, saving and sharing videos with ease but also the app gives you the ability to watch videos in full screen in-app. Repeat videos and share your favorites with others easily and quickly using this amazing app. LOOP VIDEOS FEATURES Easy to use and lightweight Import videos from your camera roll, files, and iCloud Determine the times the video will repeat itself Save videos with a tap Share videos directly within the app Watch videos in full screen Repeat videos of your choice and share your favorite ones with others. Download the ultimate video repeater!",
-    "fullDescription": "Are you looking for a simple app that loops videos? Something that will turn your short clips into a sleek sequence? You need Loop Videos, the simply useful video repeater app which enables you to import any video from your camera roll or iCloud/files and loop it as many times you like. Watch & loop videos in full screen, save and share videos you like with ease. It’s time to supercharge your video editing and boost your social media content with a simple loop app. IMPORT AND REPEAT VIDEOS With this easy to use and lightweight video app, you will be able to import videos of your choice from your iCloud and files as well from your camera roll. With Loop Videos, you are given the ability to determine the times you want a video to repeat itself. Turn a 5-second video to a 10-second video, playing the video twice with just a tap on this app. SAVE AND SHARE VIDEOS Repeat videos and specify the times you want a video to be played. The video you repeated using this effortless app can be saved to your camera roll with just a tap after you are done with it. Easily share videos directly within the app. WATCH VIDEOS IN FULL SCREEN Not only that Loop Videos allows you to import and repeat videos, saving and sharing videos with ease but also the app gives you the ability to watch videos in full screen in-app. Repeat videos and share your favorites with others easily and quickly using this amazing app. LOOP VIDEOS FEATURES Easy to use and lightweight Import videos from your camera roll, files, and iCloud Determine the times the video will repeat itself Save videos with a tap Share videos directly within the app Watch videos in full screen Repeat videos of your choice and share your favorite ones with others. Download the ultimate video repeater!",
-    "summaryDescription": "Are you looking for a simple app that loops videos? Something that will turn your short clips into a sleek sequence? You need Loop Videos, the simply useful video repeater app which enables you to import any video from your camera roll or iCloud/files and loop it as many times you like. Watch & loop videos in full screen, save and share videos you like with ease. It’s time to supercharge your video editing and boost your social media content with a simple loop app. IMPORT AND REPEAT VIDEOS With this easy to use and lightweight video app, you will be able to import videos of your choice from your iCloud and files as well from your camera roll. With Loop Videos, you are given the ability to determine the times you want a video to repeat itself. Turn a 5-second video to a 10-second video, playing the video twice with just a tap on this app. SAVE AND SHARE VIDEOS Repeat videos and specify the times you want a video to be played. The video you repeated using this effortless app can be saved to your camera roll with just a tap after you are done with it. Easily share videos directly within the app. WATCH VIDEOS IN FULL SCREEN Not only that Loop Videos allows you to import and repeat videos, saving and sharing videos with ease but also the app gives you the ability to watch videos in full screen in-app. Repeat videos and share your favorites with others easily and quickly using this amazing app. LOOP VIDEOS FEATURES Easy to use and lightweight Import videos from your camera roll, files, and iCloud Determine the times the video will repeat itself Save videos with a tap Share videos directly within the app Watch videos in full screen Repeat videos of your choice and share your favorite ones with others. Download the ultimate video repeater!",
+    "description": "您是否正在寻找一个简单的循环视频应用程序？有什么可以将您的短片变成流畅的序列吗？您需要 Loop Videos，这是一款简单实用的视频转发器应用程序，它使您能够从相机胶卷或 iCloud/文件中导入任何视频，并根据需要多次循环播放。全屏观看和循环视频，轻松保存和分享您喜欢的视频。是时候使用简单的循环应用程序来增强您的视频编辑能力并增强您的社交媒体内容了。导入和重复视频通过这个易于使用且轻量级的视频应用程序，您将能够从您的网站导入您选择的视频",
+    "fullDescription": "您是否正在寻找一个简单的循环视频应用程序？有什么可以将您的短片变成流畅的序列吗？您需要 Loop Videos，这是一款简单实用的视频转发器应用程序，它使您能够从相机胶卷或 iCloud/文件中导入任何视频，并根据需要多次循环播放。全屏观看和循环视频，轻松保存和分享您喜欢的视频。是时候使用简单的循环应用程序来增强您的视频编辑能力并增强您的社交媒体内容了。导入和重复视频通过这个易于使用且轻量级的视频应用程序，您将能够从您的网站导入您选择的视频",
+    "summaryDescription": "您是否正在寻找一个简单的循环视频应用程序？有什么可以将您的短片变成流畅的序列吗？您需要 Loop Videos，这是一款简单实用的视频转发器应用程序，它使您能够从相机胶卷或 iCloud/文件中导入任何视频，并根据需要多次循环播放。全屏观看和循环视频，轻松保存和分享您喜欢的视频。是时候使用简单的循环应用程序来增强您的视频编辑能力并增强您的社交媒体内容了。导入和重复视频通过这个易于使用且轻量级的视频应用程序，您将能够从您的网站导入您选择的视频",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/80/af/43/80af43aa-cb29-4d58-5a4b-c360077df4d0/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/80/af/43/80af43aa-cb29-4d58-5a4b-c360077df4d0/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.jpg",
     "sellerName": "Maroun Abi Ramia",
@@ -49416,9 +49180,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/meshman-3d-viewer/id1483271196?uo=4",
-    "description": "Meshman 3D Viewer is a great app to view and convert 3D model files: STL, OBJ, DXF, 3MF, USD, DAE, 3DS, DWG, FBX, PLY, OFF. Features: Open & Export files from formats: STL (Stereolithography, supports ASCII & Binary) OBJ (Wavefront format) DXF (AutoCAD format, supports ASCII & Binary) 3MF (3D Manufacturing format) USD (Universal Scene Description) DAE (COLLADA file format) 3DS (3D Studio format) PLY (Polygon file format, supports ASCII & Binary) OFF (Object file format) Open (only) files from: DWG (AutoCAD format) FBX (Autodesk Filmbox format) Load from a ZIP or RAR file one of the files the app can open. Measure distance between points within your model. Graphic operations for Rotating, panning, zooming. View your model in Orthogonal or Perspective mode. Obtain info on the model: triangle count, bounding box, area, volume. Set up rendering options: faces, edges, points, transparency. Render using a clipping plane (useful for viewing interiors). Please contact us for support, questions, feature request or any other inquiry. support@boviosoft.com",
-    "fullDescription": "Meshman 3D Viewer is a great app to view and convert 3D model files: STL, OBJ, DXF, 3MF, USD, DAE, 3DS, DWG, FBX, PLY, OFF. Features: Open & Export files from formats: STL (Stereolithography, supports ASCII & Binary) OBJ (Wavefront format) DXF (AutoCAD format, supports ASCII & Binary) 3MF (3D Manufacturing format) USD (Universal Scene Description) DAE (COLLADA file format) 3DS (3D Studio format) PLY (Polygon file format, supports ASCII & Binary) OFF (Object file format) Open (only) files from: DWG (AutoCAD format) FBX (Autodesk Filmbox format) Load from a ZIP or RAR file one of the files the app can open. Measure distance between points within your model. Graphic operations for Rotating, panning, zooming. View your model in Orthogonal or Perspective mode. Obtain info on the model: triangle count, bounding box, area, volume. Set up rendering options: faces, edges, points, transparency. Render using a clipping plane (useful for viewing interiors). Please contact us for support, questions, feature request or any other inquiry. support@boviosoft.com",
-    "summaryDescription": "Meshman 3D Viewer is a great app to view and convert 3D model files: STL, OBJ, DXF, 3MF, USD, DAE, 3DS, DWG, FBX, PLY, OFF. Features: Open & Export files from formats: STL (Stereolithography, supports ASCII & Binary) OBJ (Wavefront format) DXF (AutoCAD format, supports ASCII & Binary) 3MF (3D Manufacturing format) USD (Universal Scene Description) DAE (COLLADA file format) 3DS (3D Studio format) PLY (Polygon file format, supports ASCII & Binary) OFF (Object file format) Open (only) files from: DWG (AutoCAD format) FBX (Autodesk Filmbox format) Load from a ZIP or RAR file one of the files the app can open. Measure distance between points within your model. Graphic operations for Rotating, panning, zooming. View your model in Orthogonal or Perspective mode. Obtain info on the model: triangle count, bounding box, area, volume. Set up rendering options: faces, edges, points, transparency. Render using a clipping plane (useful for viewing interiors). Please contact us for support, questions, feature request or any other inquiry. support@boviosoft.com",
+    "description": "Meshman 3D Viewer 是一款出色的应用程序，用于查看和转换 3D 模型文件：STL、OBJ、DXF、3MF、USD、DAE、3DS、DWG、FBX、PLY、OFF。功能： 打开和导出以下格式的文件： STL（立体光刻，支持 ASCII 和二进制） OBJ（波前格式） DXF（AutoCAD 格式，支持 ASCII 和二进制） 3MF（3D 制造格式） USD（通用场景描述） DAE（COLLADA 文件格式） 3DS（3D Studio 格式） PLY（多边形文件格式，支持 ASCII 和二进制） OFF（对象文件格式）（仅）打开以下文件：DWG （AutoCAD 格式）FBX（Autodesk Filmbox 格式）从 ZIP 或 RAR 文件加载以下文件之一",
+    "fullDescription": "Meshman 3D Viewer 是一款出色的应用程序，用于查看和转换 3D 模型文件：STL、OBJ、DXF、3MF、USD、DAE、3DS、DWG、FBX、PLY、OFF。功能： 打开和导出以下格式的文件： STL（立体光刻，支持 ASCII 和二进制） OBJ（波前格式） DXF（AutoCAD 格式，支持 ASCII 和二进制） 3MF（3D 制造格式） USD（通用场景描述） DAE（COLLADA 文件格式） 3DS（3D Studio 格式） PLY（多边形文件格式，支持 ASCII 和二进制） OFF（对象文件格式）（仅）打开以下文件：DWG （AutoCAD 格式）FBX（Autodesk Filmbox 格式）从 ZIP 或 RAR 文件加载以下文件之一",
+    "summaryDescription": "Meshman 3D Viewer 是一款出色的应用程序，用于查看和转换 3D 模型文件：STL、OBJ、DXF、3MF、USD、DAE、3DS、DWG、FBX、PLY、OFF。功能： 打开和导出以下格式的文件： STL（立体光刻，支持 ASCII 和二进制） OBJ（波前格式） DXF（AutoCAD 格式，支持 ASCII 和二进制） 3MF（3D 制造格式） USD（通用场景描述） DAE（COLLADA 文件格式） 3DS（3D Studio 格式） PLY（多边形文件格式，支持 ASCII 和二进制） OFF（对象文件格式）（仅）打开以下文件：DWG （AutoCAD 格式）FBX（Autodesk Filmbox 格式）从 ZIP 或 RAR 文件加载以下文件之一",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/36/26/963626c9-a6c0-018e-2e34-5ab59e153324/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/36/26/963626c9-a6c0-018e-2e34-5ab59e153324/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
     "sellerName": "Victor Bovio",
@@ -51687,16 +51451,16 @@
     "description": "Track4Facts PRO turns your iPhone into a powerful GPS driving recorder with sprint and distance timing. Free to download — sprint timing from 0–60 mph is included at no cost, for good. Everything else unlocks with a single one-time purchase. No subscription, ever. Free GPS speedometer and full trip recording: speed, distance, driving time, average and top speed, elevation, stops and G-forces Sprint timing from 0–60 mph (0–100 km/h in metric units) Keeps recording in the background with the screen locked Live Activity on the Lock Screen and Dynamic Island Map view of every drive Complete drive history with results Restore backups Full version (one-time purchase) Unlimited custom sprint ranges, from a standstill or rolling: 30–60, 50–75, 60–120 mph — whatever you define Distance timing such as 330, 660 or 1,320 feet, plus your own distances, with split times and finish speed — timed from a confirmed standing start Interactive replay with position, speed, elevation and G-forces Speed charts, elevation profiles and acceleration charts GPX and CSV export plus backup creation Dual SkyPro XGPS150 and XGPS160 support Built for results you can trust Track4Facts rates the GPS quality behind every measurement, marks attempts that were not clean instead of quietly showing a number, detects standstill and interpolates thresholds between valid samples. Every drive keeps the measurement configuration it was recorded with, so changing your settings never rewrites past results. The measurement method is documented inside the app. It is not a calibrated measurement instrument. Safety notice: Performance measurements must only be carried out on private, closed or explicitly approved roads or tracks. Secure your phone safely and never operate the app while driving. Use is at your own risk; always comply with applicable laws and safety requirements.",
     "fullDescription": "Track4Facts PRO turns your iPhone into a powerful GPS driving recorder with sprint and distance timing. Free to download — sprint timing from 0–60 mph is included at no cost, for good. Everything else unlocks with a single one-time purchase. No subscription, ever. Free GPS speedometer and full trip recording: speed, distance, driving time, average and top speed, elevation, stops and G-forces Sprint timing from 0–60 mph (0–100 km/h in metric units) Keeps recording in the background with the screen locked Live Activity on the Lock Screen and Dynamic Island Map view of every drive Complete drive history with results Restore backups Full version (one-time purchase) Unlimited custom sprint ranges, from a standstill or rolling: 30–60, 50–75, 60–120 mph — whatever you define Distance timing such as 330, 660 or 1,320 feet, plus your own distances, with split times and finish speed — timed from a confirmed standing start Interactive replay with position, speed, elevation and G-forces Speed charts, elevation profiles and acceleration charts GPX and CSV export plus backup creation Dual SkyPro XGPS150 and XGPS160 support Built for results you can trust Track4Facts rates the GPS quality behind every measurement, marks attempts that were not clean instead of quietly showing a number, detects standstill and interpolates thresholds between valid samples. Every drive keeps the measurement configuration it was recorded with, so changing your settings never rewrites past results. The measurement method is documented inside the app. It is not a calibrated measurement instrument. Safety notice: Performance measurements must only be carried out on private, closed or explicitly approved roads or tracks. Secure your phone safely and never operate the app while driving. Use is at your own risk; always comply with applicable laws and safety requirements.",
     "summaryDescription": "Track4Facts PRO turns your iPhone into a powerful GPS driving recorder with sprint and distance timing. Free to download — sprint timing from 0–60 mph is included at no cost, for good. Everything else unlocks with a single one-time purchase. No subscription, ever. Free GPS speedometer and full trip recording: speed, distance, driving time, average and top speed, elevation, stops and G-forces Sprint timing from 0–60 mph (0–100 km/h in metric units) Keeps recording in the background with the screen locked Live Activity on the Lock Screen and Dynamic Island Map view of every drive Complete drive history with results Restore backups Full version (one-time purchase) Unlimited custom sprint ranges, from a standstill or rolling: 30–60, 50–75, 60–120 mph — whatever you define Distance timing such as 330, 660 or 1,320 feet, plus your own distances, with split times and finish speed — timed from a confirmed standing start Interactive replay with position, speed, elevation and G-forces Speed charts, elevation profiles and acceleration charts GPX and CSV export plus backup creation Dual SkyPro XGPS150 and XGPS160 support Built for results you can trust Track4Facts rates the GPS quality behind every measurement, marks attempts that were not clean instead of quietly showing a number, detects standstill and interpolates thresholds between valid samples. Every drive keeps the measurement configuration it was recorded with, so changing your settings never rewrites past results. The measurement method is documented inside the app. It is not a calibrated measurement instrument. Safety notice: Performance measurements must only be carried out on private, closed or explicitly approved roads or tracks. Secure your phone safely and never operate the app while driving. Use is at your own risk; always comply with applicable laws and safety requirements.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/18/46/f71846e8-9e0a-1de2-8937-05fc776a3042/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/18/46/f71846e8-9e0a-1de2-8937-05fc776a3042/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/1d/e3/c41de358-a73c-b4fe-253b-d78858b255d7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/1d/e3/c41de358-a73c-b4fe-253b-d78858b255d7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
     "sellerName": "Klaus Neuendorf",
     "artistName": "Klaus Neuendorf",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/74/a2/4a74a217-aff0-c428-34a8-bcf340a4c0ef/en.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/f5/3f/4cf53f5b-b02b-d0fd-20b0-52f2f1b1a36f/en-4-replay.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/4d/df/464ddf49-74e9-7cfa-fa0c-3ee53567749e/en-2-distance.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/75/dd/d975dd97-b958-f238-491b-f22830f5c514/en-3-history.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/ef/e2/fcefe257-9e57-8263-0cee-70902be00172/en-5-analysis.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/d9/4a/72d94a46-3353-2a6c-590a-e4ffeb9993e5/01_Sprint_Timing.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/78/5c/34785c14-f696-fa87-ff75-fa97daf76648/05_Replay.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/83/37/988337e2-51a9-ceb3-dca4-4401f552c1a0/02_Distance_Timing.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/99/50/f59950f0-5f5e-686e-0262-dec362ccc2d2/03_History.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/ae/0d/90ae0dc6-3f37-b172-c8ba-f4420c29eccc/04_Ride_Details.png/320x480bb.jpg"
     ],
     "_externalSource": "OODATA",
     "_externalSourceFirstSeen": 1786849123618
@@ -51987,6 +51751,25 @@
       "刷新置顶个人信息1月使用权": "¥108.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787800596330,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "情感陪伴聊天": "¥18.00",
+            "5年VIP": "¥25.00",
+            "3年vip": "¥22.00",
+            "1年VIP": "¥18.00",
+            "颜品会员6个月": "¥40.00",
+            "颜品会员3个月": "¥25.00",
+            "颜品会员12个月": "¥108.00",
+            "颜品会员1个月": "¥12.00",
+            "永久钻石会员": "¥198.00",
+            "咨询师联系方式1年显示权": "¥108.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786114511103,
@@ -53409,6 +53192,43 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/a8/9b/a2a89b06-d66f-e847-e5ce-0f9ffa2aa439/screen-5.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1773578843303
+  },
+  "1487657766": {
+    "name": "DarkPDF",
+    "trackName": "DarkPDF",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787800596330,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/darkpdf/id1487657766?uo=4",
+    "description": "macOS和iOS 13新引入我们期望已久的深色模式。深色模式有许多好处。但在深色模式下阅读PDF有个问题。 大部分PDF文件为白底黑字，与打印出的文稿相似。 对于适应了深色模式的眼睛来说，这些PDF页面造成很大的刺激。 DarkPDF （暗黑PDF）可以解决这个问题。只需要购买一次，就可以在macOS（Catalina）和iOS 13上使用。 通过将背景由白色转换为黑色，文字由黑色转换为白色，用户可以舒服地在深色模式下面阅读PDF文档。 不但如此，DarkPDF还可以自动压缩页面周边的空白，以及页面内的空白区域，这样可以更有效地利用屏幕空间，让字体更大，更利于阅读。",
+    "fullDescription": "macOS和iOS 13新引入我们期望已久的深色模式。深色模式有许多好处。但在深色模式下阅读PDF有个问题。 大部分PDF文件为白底黑字，与打印出的文稿相似。 对于适应了深色模式的眼睛来说，这些PDF页面造成很大的刺激。 DarkPDF （暗黑PDF）可以解决这个问题。只需要购买一次，就可以在macOS（Catalina）和iOS 13上使用。 通过将背景由白色转换为黑色，文字由黑色转换为白色，用户可以舒服地在深色模式下面阅读PDF文档。 不但如此，DarkPDF还可以自动压缩页面周边的空白，以及页面内的空白区域，这样可以更有效地利用屏幕空间，让字体更大，更利于阅读。",
+    "summaryDescription": "macOS和iOS 13新引入我们期望已久的深色模式。深色模式有许多好处。但在深色模式下阅读PDF有个问题。 大部分PDF文件为白底黑字，与打印出的文稿相似。 对于适应了深色模式的眼睛来说，这些PDF页面造成很大的刺激。 DarkPDF （暗黑PDF）可以解决这个问题。只需要购买一次，就可以在macOS（Catalina）和iOS 13上使用。 通过将背景由白色转换为黑色，文字由黑色转换为白色，用户可以舒服地在深色模式下面阅读PDF文档。 不但如此，DarkPDF还可以自动压缩页面周边的空白，以及页面内的空白区域，这样可以更有效地利用屏幕空间，让字体更大，更利于阅读。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/4c/5b/fb4c5b30-021c-23f4-5a17-61387b55a698/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/4c/5b/fb4c5b30-021c-23f4-5a17-61387b55a698/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Numathic Inc.",
+    "artistName": "Numathic",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/89/95/b4/8995b467-9182-1991-08fe-a11e0ffa7283/pr_source.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1a/e4/4b/1ae44b96-7bd6-3150-2dc8-b053aa9f9bb0/pr_source.png/576x768bb.png"
+    ],
+    "_externalSourceFirstSeen": 1787800567544
   },
   "1487748710": {
     "name": "妈妈育儿辅食大全-宝妈孕育食谱",
@@ -68503,6 +68323,64 @@
     ],
     "_externalSourceFirstSeen": 1773995910493
   },
+  "1507540450": {
+    "name": "FAC Phazer",
+    "trackName": "FAC Phazer",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00",
+      "Medium Tip": "¥38.00",
+      "Large Tip": "¥98.00",
+      "Small Tip": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00",
+      "Medium Tip": "¥38.00",
+      "Large Tip": "¥98.00",
+      "Small Tip": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787800596330,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "Medium Tip": "¥38.00",
+            "Large Tip": "¥98.00",
+            "Small Tip": "¥15.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/fac-phazer/id1507540450?uo=4",
+    "description": "Inspired by famous phaser units from guitarist and keyboardist world Unique sonic character combined with a large amount of control Adjustable LFO; diverse waveforms and synchronizable to host tempo Versatile: External modulation (parameters), Step mode, and more Unique Butterfly Meter: Shows LFO modulation and output level Suitable for all musical genres and instruments Stereo, adjustable phase modulation distance between both channels Includes various presets for inspiration Advanced Responsive Design, portrait and landscape views Universal Purchase: AUv3 for iOS (iPad/iPhone), macOS and Vision Pro FAC Phazer will satisfy most fans of phasing effects, seducing them with its rich sonic palette and elegant interface. To achieve the classic phase effect, the original signal is blended with a slightly out-of-phase copy of itself. Altering the timing difference between the two signals produces the swooshing sound characteristic of phasing. Most phaser units available on the market are built around this circuit topology, each with its own specificities and limitations. Guitar pedals provide a great sonic signature out of the box and are a great source of inspiration, but we often overlook the impressive built-in effects sections of some hardware synthesizers. FAC Phazer combines the best of both worlds into a single plugin, offering access to all parameters involved in crafting the phasing effect. The design and development were inspired by both pedals and built-in phaser effects found in hardware synthesizers. This led to the creation of four unique characters: Classic, Midori, Step, and Tirus. All parameters can be applied to each of these characters, allowing you to create new, exciting, and outstanding sounds. The presets Slow, Moderate, and Jumpy Phase Pedal or also Fleur d’Oranger bring the classic pedals sound signature within your reach. If you're seeking more modern characteristics, the Step Sound I preset offers a splendid stepping mode, while the Midori Phase Shift II preset emphasizes the feedback in a unique way. On the other hand, the Tirus Anthem preset is an excellent starting point for exploring phasing effects produced with built-in synthesizer effects. An important aspect that strongly contributes to the variety of the sonic palette provided by the plugin is the modulation options. The LFO can run in free mode, be synchronized to the host tempo, or be defined by external automation parameters. The documentation is available at fredantoncorvest.com/FAC_Phazer.html",
+    "fullDescription": "Inspired by famous phaser units from guitarist and keyboardist world Unique sonic character combined with a large amount of control Adjustable LFO; diverse waveforms and synchronizable to host tempo Versatile: External modulation (parameters), Step mode, and more Unique Butterfly Meter: Shows LFO modulation and output level Suitable for all musical genres and instruments Stereo, adjustable phase modulation distance between both channels Includes various presets for inspiration Advanced Responsive Design, portrait and landscape views Universal Purchase: AUv3 for iOS (iPad/iPhone), macOS and Vision Pro FAC Phazer will satisfy most fans of phasing effects, seducing them with its rich sonic palette and elegant interface. To achieve the classic phase effect, the original signal is blended with a slightly out-of-phase copy of itself. Altering the timing difference between the two signals produces the swooshing sound characteristic of phasing. Most phaser units available on the market are built around this circuit topology, each with its own specificities and limitations. Guitar pedals provide a great sonic signature out of the box and are a great source of inspiration, but we often overlook the impressive built-in effects sections of some hardware synthesizers. FAC Phazer combines the best of both worlds into a single plugin, offering access to all parameters involved in crafting the phasing effect. The design and development were inspired by both pedals and built-in phaser effects found in hardware synthesizers. This led to the creation of four unique characters: Classic, Midori, Step, and Tirus. All parameters can be applied to each of these characters, allowing you to create new, exciting, and outstanding sounds. The presets Slow, Moderate, and Jumpy Phase Pedal or also Fleur d’Oranger bring the classic pedals sound signature within your reach. If you're seeking more modern characteristics, the Step Sound I preset offers a splendid stepping mode, while the Midori Phase Shift II preset emphasizes the feedback in a unique way. On the other hand, the Tirus Anthem preset is an excellent starting point for exploring phasing effects produced with built-in synthesizer effects. An important aspect that strongly contributes to the variety of the sonic palette provided by the plugin is the modulation options. The LFO can run in free mode, be synchronized to the host tempo, or be defined by external automation parameters. The documentation is available at fredantoncorvest.com/FAC_Phazer.html",
+    "summaryDescription": "Inspired by famous phaser units from guitarist and keyboardist world Unique sonic character combined with a large amount of control Adjustable LFO; diverse waveforms and synchronizable to host tempo Versatile: External modulation (parameters), Step mode, and more Unique Butterfly Meter: Shows LFO modulation and output level Suitable for all musical genres and instruments Stereo, adjustable phase modulation distance between both channels Includes various presets for inspiration Advanced Responsive Design, portrait and landscape views Universal Purchase: AUv3 for iOS (iPad/iPhone), macOS and Vision Pro FAC Phazer will satisfy most fans of phasing effects, seducing them with its rich sonic palette and elegant interface. To achieve the classic phase effect, the original signal is blended with a slightly out-of-phase copy of itself. Altering the timing difference between the two signals produces the swooshing sound characteristic of phasing. Most phaser units available on the market are built around this circuit topology, each with its own specificities and limitations. Guitar pedals provide a great sonic signature out of the box and are a great source of inspiration, but we often overlook the impressive built-in effects sections of some hardware synthesizers. FAC Phazer combines the best of both worlds into a single plugin, offering access to all parameters involved in crafting the phasing effect. The design and development were inspired by both pedals and built-in phaser effects found in hardware synthesizers. This led to the creation of four unique characters: Classic, Midori, Step, and Tirus. All parameters can be applied to each of these characters, allowing you to create new, exciting, and outstanding sounds. The presets Slow, Moderate, and Jumpy Phase Pedal or also Fleur d’Oranger bring the classic pedals sound signature within your reach. If you're seeking more modern characteristics, the Step Sound I preset offers a splendid stepping mode, while the Midori Phase Shift II preset emphasizes the feedback in a unique way. On the other hand, the Tirus Anthem preset is an excellent starting point for exploring phasing effects produced with built-in synthesizer effects. An important aspect that strongly contributes to the variety of the sonic palette provided by the plugin is the modulation options. The LFO can run in free mode, be synchronized to the host tempo, or be defined by external automation parameters. The documentation is available at fredantoncorvest.com/FAC_Phazer.html",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/22/94/ac229489-5d6a-6f9e-f2eb-af3afa75b5ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/22/94/ac229489-5d6a-6f9e-f2eb-af3afa75b5ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Frederic Corvest",
+    "artistName": "Frederic Corvest",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/52/92/b152928f-f2b0-12ff-5755-e59515c2b127/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/8f/b1/728fb122-a8ba-a07d-f867-7a8ed6144aeb/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/e7/1b/d5e71b7f-9470-1f44-c048-209c69096e33/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/0d/c0/b10dc04a-e238-df06-630e-7faf152748cb/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/c9/b4/2bc9b463-28a8-3df5-11ac-dd4cb4a931c6/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/10/aa/b310aa52-d5cd-6a4c-e3c2-404b66a85a59/pr_source.png/406x228bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/9b/48/129b4891-43df-8422-e394-5a57ca88451f/pr_source.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/09/1d/20091d72-30d3-efc1-2258-a72b5496f9b7/pr_source.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/0d/36/5a0d3617-a20c-d461-8bea-c02bf785a0fa/pr_source.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/48/a7/fc48a73d-cf51-3365-e59b-c2e3830ddd78/pr_source.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/a1/79/cfa1790c-0176-5eed-1140-8a1c897d7799/pr_source.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/72/98/ac7298ae-c06e-3628-cda4-67ef52476445/pr_source.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/1e/b5/d81eb5e3-f498-51dc-8ea0-2858461978e6/pr_source.png/552x414bb.png"
+    ],
+    "_externalSourceFirstSeen": 1787800570293
+  },
   "1507575984": {
     "name": "Streamlets",
     "trackName": "Streamlets",
@@ -72646,8 +72524,8 @@
     "description": "应用程序提供移动鼠标和键盘。如果您将计算机连接到电视或投影仪，以便从沙发或床上进行控制，那就太好了。无需再寻找电池、尝试平衡膝上的键盘或寻找鼠标。 快速简便的设置 从 https://cherpake.com/get 安装免费的助手应用程序 将两台设备连接到同一个网络 安全 该应用程序使用 HTTPS 等标准安全措施进行通信，并且仅适用于您的本地网络。每当未知设备尝试与您的计算机建立连接时，该应用程序都会显示一个对话框供您选择允许或拒绝它。 要求 装有 macOS 10.10 或更高版本的 Mac 装有 Windows 7 SP1 或更新版本的电脑 最新的助手应用程序（可在 https://cherpake.com/get 获得） 共享网络连接（WiFi 或个人热点）；见 https://cherpake.com/connect",
     "fullDescription": "应用程序提供移动鼠标和键盘。如果您将计算机连接到电视或投影仪，以便从沙发或床上进行控制，那就太好了。无需再寻找电池、尝试平衡膝上的键盘或寻找鼠标。 快速简便的设置 从 https://cherpake.com/get 安装免费的助手应用程序 将两台设备连接到同一个网络 安全 该应用程序使用 HTTPS 等标准安全措施进行通信，并且仅适用于您的本地网络。每当未知设备尝试与您的计算机建立连接时，该应用程序都会显示一个对话框供您选择允许或拒绝它。 要求 装有 macOS 10.10 或更高版本的 Mac 装有 Windows 7 SP1 或更新版本的电脑 最新的助手应用程序（可在 https://cherpake.com/get 获得） 共享网络连接（WiFi 或个人热点）；见 https://cherpake.com/connect",
     "summaryDescription": "应用程序提供移动鼠标和键盘。如果您将计算机连接到电视或投影仪，以便从沙发或床上进行控制，那就太好了。无需再寻找电池、尝试平衡膝上的键盘或寻找鼠标。 快速简便的设置 从 https://cherpake.com/get 安装免费的助手应用程序 将两台设备连接到同一个网络 安全 该应用程序使用 HTTPS 等标准安全措施进行通信，并且仅适用于您的本地网络。每当未知设备尝试与您的计算机建立连接时，该应用程序都会显示一个对话框供您选择允许或拒绝它。 要求 装有 macOS 10.10 或更高版本的 Mac 装有 Windows 7 SP1 或更新版本的电脑 最新的助手应用程序（可在 https://cherpake.com/get 获得） 共享网络连接（WiFi 或个人热点）；见 https://cherpake.com/connect",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/1d/48/a01d4838-48df-b8d0-cbed-c6753561aaab/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/1d/48/a01d4838-48df-b8d0-cbed-c6753561aaab/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/29/da/6629da92-01ba-545b-b003-0db67cb89d68/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/29/da/6629da92-01ba-545b-b003-0db67cb89d68/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Remote Sunrise LTD",
     "artistName": "Remote Sunrise LTD",
     "screenshotUrls": [
@@ -81946,15 +81824,15 @@
     "description": "Track the live gold spot price and the value of your portfolio directly from your iPhone and Apple Watch. GoldBug delivers real-time gold prices powered by SwissQuote, with support for multiple currencies including US Dollar, Euro, British Pound, Australian Dollar and Swiss Franc. Features: Live gold spot price in USD, EUR, GBP, AUD and CHF Gold portfolio tracker — add your holdings by troy oz, gram or kilogram See your total value, cost basis and profit/loss at a glance Lock screen widgets with live price and portfolio value Home Screen widgets in multiple sizes and currencies Apple Watch complications for quick price checks on your wrist Automatic price refresh every 5 minutes Simple, fast and beautiful — always know what your gold is worth.",
     "fullDescription": "Track the live gold spot price and the value of your portfolio directly from your iPhone and Apple Watch. GoldBug delivers real-time gold prices powered by SwissQuote, with support for multiple currencies including US Dollar, Euro, British Pound, Australian Dollar and Swiss Franc. Features: Live gold spot price in USD, EUR, GBP, AUD and CHF Gold portfolio tracker — add your holdings by troy oz, gram or kilogram See your total value, cost basis and profit/loss at a glance Lock screen widgets with live price and portfolio value Home Screen widgets in multiple sizes and currencies Apple Watch complications for quick price checks on your wrist Automatic price refresh every 5 minutes Simple, fast and beautiful — always know what your gold is worth.",
     "summaryDescription": "Track the live gold spot price and the value of your portfolio directly from your iPhone and Apple Watch. GoldBug delivers real-time gold prices powered by SwissQuote, with support for multiple currencies including US Dollar, Euro, British Pound, Australian Dollar and Swiss Franc. Features: Live gold spot price in USD, EUR, GBP, AUD and CHF Gold portfolio tracker — add your holdings by troy oz, gram or kilogram See your total value, cost basis and profit/loss at a glance Lock screen widgets with live price and portfolio value Home Screen widgets in multiple sizes and currencies Apple Watch complications for quick price checks on your wrist Automatic price refresh every 5 minutes Simple, fast and beautiful — always know what your gold is worth.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/94/3c/f0943c4f-8c78-dba4-4283-7828469c11e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/94/3c/f0943c4f-8c78-dba4-4283-7828469c11e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/fc/ee/0efcee66-ed5a-2af2-7d43-2d0410645caa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/fc/ee/0efcee66-ed5a-2af2-7d43-2d0410645caa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Bart Beekwilder",
     "artistName": "Bart Beekwilder",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/0a/ea/ec0aea09-a2ff-4cd1-53d3-f3278b67bb18/5f93555f-bc46-4da1-8ce8-4db4435c6e08_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-07-31_at_17.07.22.png/392x696bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/68/6d/c1686d09-6b51-2669-c6b9-80675fb5af51/5f93555f-bc46-4da1-8ce8-4db4435c6e08_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-07-31_at_17.07.22.png/392x696bb.png"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/29/0b/69290b5b-e8eb-a168-dbb9-a9cf7039c0f3/b797616f-4f42-4524-b309-b829371a6c32_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-07-31_at_17.17.21.png/576x768bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/68/6e/35686ea3-78e7-5728-f402-7c540235b3cd/b797616f-4f42-4524-b309-b829371a6c32_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-07-31_at_17.17.21.png/576x768bb.png"
     ]
   },
   "1522128691": {
@@ -85562,8 +85440,8 @@
     "_externalSourceFirstSeen": 1784480142565
   },
   "1525806753": {
-    "name": "好用记牌器专业版 - 支持斗地主、四人斗地主、跑得快、锄大地",
-    "trackName": "好用记牌器专业版 - 支持斗地主、四人斗地主、跑得快、锄大地",
+    "name": "好用记牌器专业版 - 支持斗地主、掼蛋、跑得快、双扣、够级",
+    "trackName": "好用记牌器专业版 - 支持斗地主、掼蛋、跑得快、双扣、够级",
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
@@ -85582,12 +85460,12 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%A5%BD%E7%94%A8%E8%AE%B0%E7%89%8C%E5%99%A8%E4%B8%93%E4%B8%9A%E7%89%88-%E6%94%AF%E6%8C%81%E6%96%97%E5%9C%B0%E4%B8%BB-%E5%9B%9B%E4%BA%BA%E6%96%97%E5%9C%B0%E4%B8%BB-%E8%B7%91%E5%BE%97%E5%BF%AB-%E9%94%84%E5%A4%A7%E5%9C%B0/id1525806753?uo=4",
-    "description": "好用记牌器专业版是一款「手动」记牌工具，专为线下真人打牌设计：牌桌上有人出牌，你点一下，App 就替你记住这张牌还剩几张。 【它是什么，不是什么】 是：线下打牌时的记牌本，靠你手动点牌来记录，任何牌桌、任何人数都能用。 不是：读取游戏画面的自动记牌工具，也不会连接任何棋牌 App。买之前请确认这一点。 【支持的牌型】 斗地主（一副牌） 四人斗地主（两副牌） 跑得快（一副牌） 跑得快（两副牌） 锄大地 / 大老二 【主要功能】 一眼看剩余：每种点数还剩几张，直接标在牌面上，出完自动变暗。 出牌记录：按轮次回看这局都出过什么牌，不怕中途走神。 标记牌友：可以记录是哪位牌友出的牌，谁手上可能还有大牌，心里有数。 点击发声：出牌时语音播报，不用一直盯着屏幕。 牌面样式可切换，适配 iPhone 与 iPad，横屏也能用。 完全离线：不联网、不收集你的任何数据、没有广告。 【怎么快速记牌】 底部可以切换「单张 / 对子 / 三张 / 炸弹」，选好之后点一次牌就扣掉对应的张数，不用一张一张点。 选「顺子」时，滑过连续的 5 张及以上，一次全部扣除。 点错了用右上角撤销，重新开一局用重置。 这局用不到的牌可以长按隐藏，牌面更清爽。 【关于购买】 专业版为一次性买断：付费下载后全部牌型直接可用，App 内没有任何内购。 换手机用同一 Apple 账号重新下载即可，不需要再付一次。 想先免费试用，请搜索免费版「好用记牌器」。 【想要的牌型没有？】 掼蛋、保皇、四副牌等玩法正在陆续开发中。直接在 App 内「有意见或建议」联系我，或写在评论里，我会一个个加上去。 隐私政策：https://card-counter-for-pok.flycricket.io/privacy.html",
-    "fullDescription": "好用记牌器专业版是一款「手动」记牌工具，专为线下真人打牌设计：牌桌上有人出牌，你点一下，App 就替你记住这张牌还剩几张。 【它是什么，不是什么】 是：线下打牌时的记牌本，靠你手动点牌来记录，任何牌桌、任何人数都能用。 不是：读取游戏画面的自动记牌工具，也不会连接任何棋牌 App。买之前请确认这一点。 【支持的牌型】 斗地主（一副牌） 四人斗地主（两副牌） 跑得快（一副牌） 跑得快（两副牌） 锄大地 / 大老二 【主要功能】 一眼看剩余：每种点数还剩几张，直接标在牌面上，出完自动变暗。 出牌记录：按轮次回看这局都出过什么牌，不怕中途走神。 标记牌友：可以记录是哪位牌友出的牌，谁手上可能还有大牌，心里有数。 点击发声：出牌时语音播报，不用一直盯着屏幕。 牌面样式可切换，适配 iPhone 与 iPad，横屏也能用。 完全离线：不联网、不收集你的任何数据、没有广告。 【怎么快速记牌】 底部可以切换「单张 / 对子 / 三张 / 炸弹」，选好之后点一次牌就扣掉对应的张数，不用一张一张点。 选「顺子」时，滑过连续的 5 张及以上，一次全部扣除。 点错了用右上角撤销，重新开一局用重置。 这局用不到的牌可以长按隐藏，牌面更清爽。 【关于购买】 专业版为一次性买断：付费下载后全部牌型直接可用，App 内没有任何内购。 换手机用同一 Apple 账号重新下载即可，不需要再付一次。 想先免费试用，请搜索免费版「好用记牌器」。 【想要的牌型没有？】 掼蛋、保皇、四副牌等玩法正在陆续开发中。直接在 App 内「有意见或建议」联系我，或写在评论里，我会一个个加上去。 隐私政策：https://card-counter-for-pok.flycricket.io/privacy.html",
-    "summaryDescription": "好用记牌器专业版是一款「手动」记牌工具，专为线下真人打牌设计：牌桌上有人出牌，你点一下，App 就替你记住这张牌还剩几张。 【它是什么，不是什么】 是：线下打牌时的记牌本，靠你手动点牌来记录，任何牌桌、任何人数都能用。 不是：读取游戏画面的自动记牌工具，也不会连接任何棋牌 App。买之前请确认这一点。 【支持的牌型】 斗地主（一副牌） 四人斗地主（两副牌） 跑得快（一副牌） 跑得快（两副牌） 锄大地 / 大老二 【主要功能】 一眼看剩余：每种点数还剩几张，直接标在牌面上，出完自动变暗。 出牌记录：按轮次回看这局都出过什么牌，不怕中途走神。 标记牌友：可以记录是哪位牌友出的牌，谁手上可能还有大牌，心里有数。 点击发声：出牌时语音播报，不用一直盯着屏幕。 牌面样式可切换，适配 iPhone 与 iPad，横屏也能用。 完全离线：不联网、不收集你的任何数据、没有广告。 【怎么快速记牌】 底部可以切换「单张 / 对子 / 三张 / 炸弹」，选好之后点一次牌就扣掉对应的张数，不用一张一张点。 选「顺子」时，滑过连续的 5 张及以上，一次全部扣除。 点错了用右上角撤销，重新开一局用重置。 这局用不到的牌可以长按隐藏，牌面更清爽。 【关于购买】 专业版为一次性买断：付费下载后全部牌型直接可用，App 内没有任何内购。 换手机用同一 Apple 账号重新下载即可，不需要再付一次。 想先免费试用，请搜索免费版「好用记牌器」。 【想要的牌型没有？】 掼蛋、保皇、四副牌等玩法正在陆续开发中。直接在 App 内「有意见或建议」联系我，或写在评论里，我会一个个加上去。 隐私政策：https://card-counter-for-pok.flycricket.io/privacy.html",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/2d/f1/d32df14e-5961-ad80-c016-e93543d520f6/AppIcon-Pro-1x_U007emarketing-0-11-0-0-85-220-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/2d/f1/d32df14e-5961-ad80-c016-e93543d520f6/AppIcon-Pro-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg",
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%A5%BD%E7%94%A8%E8%AE%B0%E7%89%8C%E5%99%A8%E4%B8%93%E4%B8%9A%E7%89%88-%E6%94%AF%E6%8C%81%E6%96%97%E5%9C%B0%E4%B8%BB-%E6%8E%BC%E8%9B%8B-%E8%B7%91%E5%BE%97%E5%BF%AB-%E5%8F%8C%E6%89%A3-%E5%A4%9F%E7%BA%A7/id1525806753?uo=4",
+    "description": "好用记牌器专业版是一款「手动」记牌工具，专为线下真人打牌设计：牌桌上有人出牌，你点一下，App 就替你记住这张牌还剩几张。 【它是什么，不是什么】 是：线下打牌时的记牌本，靠你手动点牌来记录，任何牌桌、任何人数都能用。 不是：读取游戏画面的自动记牌工具，也不会连接任何棋牌 App。买之前请确认这一点。 【支持的牌型】 斗地主（一副牌） 跑得快（一副牌） 锄大地 / 大老二（一副牌） 四人斗地主（两副牌） 跑得快（两副牌） 掼蛋（两副牌） 双扣（两副牌） 够级（四副牌） 【主要功能】 一眼看剩余：每种点数还剩几张，直接标在牌面上，出完自动变暗。 出牌记录：按轮次回看这局都出过什么牌，不怕中途走神。 标记牌友：可以记录是哪位牌友出的牌，谁手上可能还有大牌，心里有数。 点击发声：出牌时语音播报，不用一直盯着屏幕。 牌面样式可切换，适配 iPhone 与 iPad，横屏也能用。 完全离线：不联网、不收集你的任何数据、没有广告。 【怎么快速记牌】 底部可以切换「单张 / 对子 / 三张 / 炸弹」，选好之后点一次牌就扣掉对应的张数，不用一张一张点。 选「顺子」时，滑过连续的 5 张及以上，一次全部扣除。 点错了用右上角撤销，重新开一局用重置。 这局用不到的牌可以长按隐藏，牌面更清爽。 【关于购买】 专业版为一次性买断：付费下载后全部牌型直接可用，App 内没有任何内购。 换手机用同一 Apple 账号重新下载即可，不需要再付一次。 想先免费试用，请搜索免费版「好用记牌器」。 【想要的牌型没有？】 保皇、升级（拖拉机）、三打哈等玩法还在陆续开发中。直接在 App 内「有意见或建议」联系我，或写在评论里，我会一个个加上去。 隐私政策：https://card-counter-for-pok.flycricket.io/privacy.html",
+    "fullDescription": "好用记牌器专业版是一款「手动」记牌工具，专为线下真人打牌设计：牌桌上有人出牌，你点一下，App 就替你记住这张牌还剩几张。 【它是什么，不是什么】 是：线下打牌时的记牌本，靠你手动点牌来记录，任何牌桌、任何人数都能用。 不是：读取游戏画面的自动记牌工具，也不会连接任何棋牌 App。买之前请确认这一点。 【支持的牌型】 斗地主（一副牌） 跑得快（一副牌） 锄大地 / 大老二（一副牌） 四人斗地主（两副牌） 跑得快（两副牌） 掼蛋（两副牌） 双扣（两副牌） 够级（四副牌） 【主要功能】 一眼看剩余：每种点数还剩几张，直接标在牌面上，出完自动变暗。 出牌记录：按轮次回看这局都出过什么牌，不怕中途走神。 标记牌友：可以记录是哪位牌友出的牌，谁手上可能还有大牌，心里有数。 点击发声：出牌时语音播报，不用一直盯着屏幕。 牌面样式可切换，适配 iPhone 与 iPad，横屏也能用。 完全离线：不联网、不收集你的任何数据、没有广告。 【怎么快速记牌】 底部可以切换「单张 / 对子 / 三张 / 炸弹」，选好之后点一次牌就扣掉对应的张数，不用一张一张点。 选「顺子」时，滑过连续的 5 张及以上，一次全部扣除。 点错了用右上角撤销，重新开一局用重置。 这局用不到的牌可以长按隐藏，牌面更清爽。 【关于购买】 专业版为一次性买断：付费下载后全部牌型直接可用，App 内没有任何内购。 换手机用同一 Apple 账号重新下载即可，不需要再付一次。 想先免费试用，请搜索免费版「好用记牌器」。 【想要的牌型没有？】 保皇、升级（拖拉机）、三打哈等玩法还在陆续开发中。直接在 App 内「有意见或建议」联系我，或写在评论里，我会一个个加上去。 隐私政策：https://card-counter-for-pok.flycricket.io/privacy.html",
+    "summaryDescription": "好用记牌器专业版是一款「手动」记牌工具，专为线下真人打牌设计：牌桌上有人出牌，你点一下，App 就替你记住这张牌还剩几张。 【它是什么，不是什么】 是：线下打牌时的记牌本，靠你手动点牌来记录，任何牌桌、任何人数都能用。 不是：读取游戏画面的自动记牌工具，也不会连接任何棋牌 App。买之前请确认这一点。 【支持的牌型】 斗地主（一副牌） 跑得快（一副牌） 锄大地 / 大老二（一副牌） 四人斗地主（两副牌） 跑得快（两副牌） 掼蛋（两副牌） 双扣（两副牌） 够级（四副牌） 【主要功能】 一眼看剩余：每种点数还剩几张，直接标在牌面上，出完自动变暗。 出牌记录：按轮次回看这局都出过什么牌，不怕中途走神。 标记牌友：可以记录是哪位牌友出的牌，谁手上可能还有大牌，心里有数。 点击发声：出牌时语音播报，不用一直盯着屏幕。 牌面样式可切换，适配 iPhone 与 iPad，横屏也能用。 完全离线：不联网、不收集你的任何数据、没有广告。 【怎么快速记牌】 底部可以切换「单张 / 对子 / 三张 / 炸弹」，选好之后点一次牌就扣掉对应的张数，不用一张一张点。 选「顺子」时，滑过连续的 5 张及以上，一次全部扣除。 点错了用右上角撤销，重新开一局用重置。 这局用不到的牌可以长按隐藏，牌面更清爽。 【关于购买】 专业版为一次性买断：付费下载后全部牌型直接可用，App 内没有任何内购。 换手机用同一 Apple 账号重新下载即可，不需要再付一次。 想先免费试用，请搜索免费版「好用记牌器」。 【想要的牌型没有？】 保皇、升级（拖拉机）、三打哈等玩法还在陆续开发中。直接在 App 内「有意见或建议」联系我，或写在评论里，我会一个个加上去。 隐私政策：https://card-counter-for-pok.flycricket.io/privacy.html",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/8f/95/ca8f9559-85a4-bbd1-2822-285994ea0d6d/AppIcon-Pro-1x_U007emarketing-0-11-0-0-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/8f/95/ca8f9559-85a4-bbd1-2822-285994ea0d6d/AppIcon-Pro-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg",
     "sellerName": "培 李",
     "artistName": "培 李",
     "screenshotUrls": [
@@ -95184,8 +95062,8 @@
     "description": "背单词，真正记得住。 Wozi让背单词成为简单的日常习惯。每天几分钟，学习真实用法，科学复习让单词牢牢记住。 为什么选择WOZI ◆ 滑动学习，高效便捷 一划即可标记已掌握或待复习，专注学习，轻松完成每日任务。 ◆ 科学记忆，事半功倍 智能间隔重复算法，在最佳时机复习，让单词深入长期记忆。 ◆ 活学活用，自信表达 清晰释义、同义词、真实例句，帮你在口语和写作中自如运用。 ◆ 纯正发音，提升口语 点击即可听发音，支持美音和英音切换。 ◆ 母语翻译，轻松理解 支持15+语言的母语翻译，学习更顺畅，无压力。 ◆ 见证进步，保持动力 连续打卡和学习统计，每天看到自己的成长。 适合你的学习目标 考试备考：四六级、高考、雅思 商务英语 学术英语 日常会话 今天开始一个小练习，一周后见证你的英语进步！ 立即下载Wozi，开启高效背单词之旅！ 隐私政策: https://wozi.app/privacy 使用条款: https://wozi.app/terms",
     "fullDescription": "背单词，真正记得住。 Wozi让背单词成为简单的日常习惯。每天几分钟，学习真实用法，科学复习让单词牢牢记住。 为什么选择WOZI ◆ 滑动学习，高效便捷 一划即可标记已掌握或待复习，专注学习，轻松完成每日任务。 ◆ 科学记忆，事半功倍 智能间隔重复算法，在最佳时机复习，让单词深入长期记忆。 ◆ 活学活用，自信表达 清晰释义、同义词、真实例句，帮你在口语和写作中自如运用。 ◆ 纯正发音，提升口语 点击即可听发音，支持美音和英音切换。 ◆ 母语翻译，轻松理解 支持15+语言的母语翻译，学习更顺畅，无压力。 ◆ 见证进步，保持动力 连续打卡和学习统计，每天看到自己的成长。 适合你的学习目标 考试备考：四六级、高考、雅思 商务英语 学术英语 日常会话 今天开始一个小练习，一周后见证你的英语进步！ 立即下载Wozi，开启高效背单词之旅！ 隐私政策: https://wozi.app/privacy 使用条款: https://wozi.app/terms",
     "summaryDescription": "背单词，真正记得住。 Wozi让背单词成为简单的日常习惯。每天几分钟，学习真实用法，科学复习让单词牢牢记住。 为什么选择WOZI ◆ 滑动学习，高效便捷 一划即可标记已掌握或待复习，专注学习，轻松完成每日任务。 ◆ 科学记忆，事半功倍 智能间隔重复算法，在最佳时机复习，让单词深入长期记忆。 ◆ 活学活用，自信表达 清晰释义、同义词、真实例句，帮你在口语和写作中自如运用。 ◆ 纯正发音，提升口语 点击即可听发音，支持美音和英音切换。 ◆ 母语翻译，轻松理解 支持15+语言的母语翻译，学习更顺畅，无压力。 ◆ 见证进步，保持动力 连续打卡和学习统计，每天看到自己的成长。 适合你的学习目标 考试备考：四六级、高考、雅思 商务英语 学术英语 日常会话 今天开始一个小练习，一周后见证你的英语进步！ 立即下载Wozi，开启高效背单词之旅！ 隐私政策: https://wozi.app/privacy 使用条款: https://wozi.app/terms",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/ca/d6/30cad60b-1530-0da6-094a-e1486826b41c/WoziAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/ca/d6/30cad60b-1530-0da6-094a-e1486826b41c/WoziAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/81/7d/70817d68-5f6b-21a8-76d5-55d3cc37a934/WoziAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/81/7d/70817d68-5f6b-21a8-76d5-55d3cc37a934/WoziAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/100x100bb.jpg",
     "sellerName": "Wozi Pte. Ltd.",
     "artistName": "Wozi Pte. Ltd.",
     "screenshotUrls": [
@@ -110594,8 +110472,8 @@
     "description": "Improve your daily, weekly, and monthly practice habits by tracking your progress each day. Whether you are a practicing musician, athlete, or are learning a new skill, PracticeMeter can help you in organizing and motivating your personal practice. Available on iPhone and Apple Watch. Start a Session Simply press the ‘Start’ button at the beginning of your practice session. A timer will begin. After your practice session press the stop button. PracticeMeter will ask you what you practiced. In addition to tracking the amount of time, you can organize your practice sessions into Fundamentals and Goals. Fundamentals Fundamentals are skills that you want to develop each day. It may include a specific warmup routine with activities that are repeated each day. For a musician, this may include breathing activities, long tones, scales, etc… For an athlete, it may include stretches, breathing, and specific strength training exercises. If you are using PracticeMeter to improve your mindfulness, your Fundamentals may include specific meditation practice. Fundamentals may be archived for future use so that you are only repeating the items that you are currently focused on. Goals Goals are specific projects that you are currently working on. They include a progress bar so that you can self-assess how close you are to reaching your Goal. You will want to work on your Goals each day, seeing the progress toward completion gradually increase. Once you reach 100%, your Goal is cleared off of your daily routine and logged under Completed Goals. Time The default practice time for each day is 120 minutes, but you can set your own practice time goal in settings. Accomplishments As you practice each day, you’re rewarded with accomplishments. Accomplishments may include having a perfect week of practice, where you met your time goal and practiced all of your Fundamentals, and worked toward your Goals each day of the week. PracticeMeter will track your Streaks as well. Accomplishments are available for multiple perfect weeks of practicing your fundamentals and goals, as well as long-term Accomplishments for total practice time. Reports The Reports view logs your practice sessions, organized by day. You can keep notes about your practice sessions and share your statistics via text or email. Reports also provide a weekly view of your practice time. If you forgot to press ‘Start’ when beginning a practice session, you can add practice time to each day of the week. A single tap will add 15 minutes, while a long press on the day of the week will allow you to enter your total practice time for the day. Tap on the total time to toggle between minutes and hours. Widgets In iOS 14, Apple introduced Home Screen Widgets. PracticeMeter Widgets are available in a variety of formats for seeing your ring progress throughout the day. Apple Watch PracticeMeter will sync with your Apple Watch. Use your watch to start practice sessions add or delete fundamentals and goals, set a new practice time goal, and view your accomplishments. To add new fundamentals and goals, long press on the fundamental or goals header. Watch Complications include a simple circular view for keeping track of your daily practice time, as well as a larger rectangular view to see your daily progress of fundamentals, goals, and practice time. I hope you enjoy using PracticeMeter. Let’s get practicing!",
     "fullDescription": "Improve your daily, weekly, and monthly practice habits by tracking your progress each day. Whether you are a practicing musician, athlete, or are learning a new skill, PracticeMeter can help you in organizing and motivating your personal practice. Available on iPhone and Apple Watch. Start a Session Simply press the ‘Start’ button at the beginning of your practice session. A timer will begin. After your practice session press the stop button. PracticeMeter will ask you what you practiced. In addition to tracking the amount of time, you can organize your practice sessions into Fundamentals and Goals. Fundamentals Fundamentals are skills that you want to develop each day. It may include a specific warmup routine with activities that are repeated each day. For a musician, this may include breathing activities, long tones, scales, etc… For an athlete, it may include stretches, breathing, and specific strength training exercises. If you are using PracticeMeter to improve your mindfulness, your Fundamentals may include specific meditation practice. Fundamentals may be archived for future use so that you are only repeating the items that you are currently focused on. Goals Goals are specific projects that you are currently working on. They include a progress bar so that you can self-assess how close you are to reaching your Goal. You will want to work on your Goals each day, seeing the progress toward completion gradually increase. Once you reach 100%, your Goal is cleared off of your daily routine and logged under Completed Goals. Time The default practice time for each day is 120 minutes, but you can set your own practice time goal in settings. Accomplishments As you practice each day, you’re rewarded with accomplishments. Accomplishments may include having a perfect week of practice, where you met your time goal and practiced all of your Fundamentals, and worked toward your Goals each day of the week. PracticeMeter will track your Streaks as well. Accomplishments are available for multiple perfect weeks of practicing your fundamentals and goals, as well as long-term Accomplishments for total practice time. Reports The Reports view logs your practice sessions, organized by day. You can keep notes about your practice sessions and share your statistics via text or email. Reports also provide a weekly view of your practice time. If you forgot to press ‘Start’ when beginning a practice session, you can add practice time to each day of the week. A single tap will add 15 minutes, while a long press on the day of the week will allow you to enter your total practice time for the day. Tap on the total time to toggle between minutes and hours. Widgets In iOS 14, Apple introduced Home Screen Widgets. PracticeMeter Widgets are available in a variety of formats for seeing your ring progress throughout the day. Apple Watch PracticeMeter will sync with your Apple Watch. Use your watch to start practice sessions add or delete fundamentals and goals, set a new practice time goal, and view your accomplishments. To add new fundamentals and goals, long press on the fundamental or goals header. Watch Complications include a simple circular view for keeping track of your daily practice time, as well as a larger rectangular view to see your daily progress of fundamentals, goals, and practice time. I hope you enjoy using PracticeMeter. Let’s get practicing!",
     "summaryDescription": "Improve your daily, weekly, and monthly practice habits by tracking your progress each day. Whether you are a practicing musician, athlete, or are learning a new skill, PracticeMeter can help you in organizing and motivating your personal practice. Available on iPhone and Apple Watch. Start a Session Simply press the ‘Start’ button at the beginning of your practice session. A timer will begin. After your practice session press the stop button. PracticeMeter will ask you what you practiced. In addition to tracking the amount of time, you can organize your practice sessions into Fundamentals and Goals. Fundamentals Fundamentals are skills that you want to develop each day. It may include a specific warmup routine with activities that are repeated each day. For a musician, this may include breathing activities, long tones, scales, etc… For an athlete, it may include stretches, breathing, and specific strength training exercises. If you are using PracticeMeter to improve your mindfulness, your Fundamentals may include specific meditation practice. Fundamentals may be archived for future use so that you are only repeating the items that you are currently focused on. Goals Goals are specific projects that you are currently working on. They include a progress bar so that you can self-assess how close you are to reaching your Goal. You will want to work on your Goals each day, seeing the progress toward completion gradually increase. Once you reach 100%, your Goal is cleared off of your daily routine and logged under Completed Goals. Time The default practice time for each day is 120 minutes, but you can set your own practice time goal in settings. Accomplishments As you practice each day, you’re rewarded with accomplishments. Accomplishments may include having a perfect week of practice, where you met your time goal and practiced all of your Fundamentals, and worked toward your Goals each day of the week. PracticeMeter will track your Streaks as well. Accomplishments are available for multiple perfect weeks of practicing your fundamentals and goals, as well as long-term Accomplishments for total practice time. Reports The Reports view logs your practice sessions, organized by day. You can keep notes about your practice sessions and share your statistics via text or email. Reports also provide a weekly view of your practice time. If you forgot to press ‘Start’ when beginning a practice session, you can add practice time to each day of the week. A single tap will add 15 minutes, while a long press on the day of the week will allow you to enter your total practice time for the day. Tap on the total time to toggle between minutes and hours. Widgets In iOS 14, Apple introduced Home Screen Widgets. PracticeMeter Widgets are available in a variety of formats for seeing your ring progress throughout the day. Apple Watch PracticeMeter will sync with your Apple Watch. Use your watch to start practice sessions add or delete fundamentals and goals, set a new practice time goal, and view your accomplishments. To add new fundamentals and goals, long press on the fundamental or goals header. Watch Complications include a simple circular view for keeping track of your daily practice time, as well as a larger rectangular view to see your daily progress of fundamentals, goals, and practice time. I hope you enjoy using PracticeMeter. Let’s get practicing!",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/27/00/4027000d-b382-5fe6-dbe1-9674e817e58e/AppIconiPhone-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/27/00/4027000d-b382-5fe6-dbe1-9674e817e58e/AppIconiPhone-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/08/04/b20804d1-4d6f-46c9-b448-9698adb4d30d/AppIconiPhone-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/08/04/b20804d1-4d6f-46c9-b448-9698adb4d30d/AppIconiPhone-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Adam Ballif",
     "artistName": "Adam Ballif",
     "screenshotUrls": [
@@ -129494,8 +129372,8 @@
     "description": "表面上，这是一个你扮演开国女帝想办法平衡朝堂，制约后宫，将自己的皇朝传至万代的养成游戏，实际上，这是一个你就算什么都不做天天只是蹲着看京城人民爱恨情仇豪门恩怨也很难把自己作死的吃瓜模拟器……（当然皇位继承人还是至少要生一个的，不然就没法持续的吃瓜了…… 友情提示：不要对他国皇子，你手握重兵的大都督以及朝中大佬始乱终弃，使劲作还是真的会翻车的…… 排雷：本作世界设定男女具有均等的继承权，工作权和生育子嗣的能力",
     "fullDescription": "表面上，这是一个你扮演开国女帝想办法平衡朝堂，制约后宫，将自己的皇朝传至万代的养成游戏，实际上，这是一个你就算什么都不做天天只是蹲着看京城人民爱恨情仇豪门恩怨也很难把自己作死的吃瓜模拟器……（当然皇位继承人还是至少要生一个的，不然就没法持续的吃瓜了…… 友情提示：不要对他国皇子，你手握重兵的大都督以及朝中大佬始乱终弃，使劲作还是真的会翻车的…… 排雷：本作世界设定男女具有均等的继承权，工作权和生育子嗣的能力",
     "summaryDescription": "表面上，这是一个你扮演开国女帝想办法平衡朝堂，制约后宫，将自己的皇朝传至万代的养成游戏，实际上，这是一个你就算什么都不做天天只是蹲着看京城人民爱恨情仇豪门恩怨也很难把自己作死的吃瓜模拟器……（当然皇位继承人还是至少要生一个的，不然就没法持续的吃瓜了…… 友情提示：不要对他国皇子，你手握重兵的大都督以及朝中大佬始乱终弃，使劲作还是真的会翻车的…… 排雷：本作世界设定男女具有均等的继承权，工作权和生育子嗣的能力",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/96/19/3f9619db-ba07-2878-22d1-0a1c4e1b1ca2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/96/19/3f9619db-ba07-2878-22d1-0a1c4e1b1ca2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/3a/54/b13a54f5-ed68-b587-73b1-9282a7d330ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/3a/54/b13a54f5-ed68-b587-73b1-9282a7d330ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "HydrozoaWorks Tech Ltd.",
     "artistName": "HydrozoaWorks Tech Ltd.",
     "screenshotUrls": [
@@ -131443,8 +131321,8 @@
     "description": "Track PlayStation game prices and get notified when they drop. Game Watchlist helps you keep a simple watchlist of PlayStation games and alerts you when prices change, so you can buy at a better time. Features: Choose your region for local pricing Search and save games to your watchlist Get notified when prices drop Automatic price checks twice a day How you can use it: Avoid paying full price when a sale is close Keep an eye on multiple games in one place Stay updated without checking the store manually",
     "fullDescription": "Track PlayStation game prices and get notified when they drop. Game Watchlist helps you keep a simple watchlist of PlayStation games and alerts you when prices change, so you can buy at a better time. Features: Choose your region for local pricing Search and save games to your watchlist Get notified when prices drop Automatic price checks twice a day How you can use it: Avoid paying full price when a sale is close Keep an eye on multiple games in one place Stay updated without checking the store manually",
     "summaryDescription": "Track PlayStation game prices and get notified when they drop. Game Watchlist helps you keep a simple watchlist of PlayStation games and alerts you when prices change, so you can buy at a better time. Features: Choose your region for local pricing Search and save games to your watchlist Get notified when prices drop Automatic price checks twice a day How you can use it: Avoid paying full price when a sale is close Keep an eye on multiple games in one place Stay updated without checking the store manually",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/e1/38/e1e13848-111b-b682-85cb-69a3078c0d43/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/e1/38/e1e13848-111b-b682-85cb-69a3078c0d43/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/d5/81/a1d58137-e318-2217-fe55-149b27ec8f4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/d5/81/a1d58137-e318-2217-fe55-149b27ec8f4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "Alexander Mamedov",
     "artistName": "Alexander Mamedov",
     "screenshotUrls": [
@@ -133350,8 +133228,8 @@
     "description": "Valens - 全面的健康小组件 通过 Valens，将您的主屏幕和锁定屏幕转变成全面的健康仪表盘。这款终极健康小组件应用程序让您访问广泛的健康类别，赋予您轻松追踪和监测健康各个方面的能力。 ⌗ 保护您的隐私 请放心，所有数据在您的设备上本地处理。没有数据离开您的设备，您的隐私得到保障。 ⌗ 可自定义的健康小组件 根据您的偏好定制健康小组件。从包括体重、心率、睡眠、营养、运动等众多类别中进行选择。 完整类别包括： [身体测量]: 体重、体脂率、身体体重指数、去脂体重、手腕温度、体温、基础体温、身高、皮电活动、腰围 [活动]: 步数、静息能量、活动能量、步行+跑步距离、锻炼分钟数、站立分钟数、站立小时数、跑步速度、游泳距离、划水次数、已爬楼层、骑车距离、轮椅推动次数、轮椅距离、高山雪山运动距离、水下深度 [步态]: 步行速度、步长、步行不对称性、双支撑时间 [心脏]: 心率、心率变异性、步行平均心率、静息心率、有氧适能、末梢灌注指数、血压、血糖 [心理健康]: 睡眠、冥想分钟 [营养]: 水、碳水化合物、咖啡因、钙、膳食糖、膳食能量、总脂肪、生物素、氯、铬、铜、膳食胆固醇、纤维、叶酸、碘、铁、锰、钼、烟酸、泛酸、磷、钾、饱和脂肪、单元不饱和脂肪、多元不饱和脂肪、锌、蛋白质、硒、钠、硫胺素、维生素A、维生素B6、维生素B12、维生素C、维生素D、维生素E、维生素K [其他]: 酒精摄入量、血液酒精浓度、日照下的时间、摔倒次数 ⌗ 多样化的布局风格 探索各种布局风格，从小型到中型小组件，为您的主屏幕和锁定屏幕创建最佳组合，满足您的健康跟踪需求。 ⌗ 支持 iOS 17 待机显示 全面支持 iOS 17 待机功能，为用户提供无缝和增强的体验。在您的 iPhone 充电期间，享受个性化且一目了然的信息展示。 ⌗ 支持锁定屏幕上的小组件 即使设备处于锁定状态，您也可以了解关键的健康数据。在锁定屏幕上查看重要健康数据，随时方便获取。 ⌗ 与 HealthKit 无缝集成 Valens与 HealthKit 无缝集成，让您获取关于活动、体重、睡眠、心率等重要信息。启动应用程序时，请授权访问，启用这个强大的健康数据集成功能。 ⌗ 自定义不同日期范围和颜色 根据您的喜好调整小组件数据。选择不同的日期范围和颜色方案，创造个性化的健康洞察，与您共鸣。所有设置均可轻松完成，无需前往应用程序，您可以直接在小部件设置中完成所有配置。 ⌗ 使用图表和日期范围跟踪趋势 主屏幕小组件提供指定日期范围内的全面趋势，包括每日、每周或每月进展。选择不同图表类型，自定义颜色和显示单位，享受真正个性化的健康监测体验。 千万不要错过这个提升健康跟踪体验的机会。立即下载 Valens，全面掌控您的健康。",
     "fullDescription": "Valens - 全面的健康小组件 通过 Valens，将您的主屏幕和锁定屏幕转变成全面的健康仪表盘。这款终极健康小组件应用程序让您访问广泛的健康类别，赋予您轻松追踪和监测健康各个方面的能力。 ⌗ 保护您的隐私 请放心，所有数据在您的设备上本地处理。没有数据离开您的设备，您的隐私得到保障。 ⌗ 可自定义的健康小组件 根据您的偏好定制健康小组件。从包括体重、心率、睡眠、营养、运动等众多类别中进行选择。 完整类别包括： [身体测量]: 体重、体脂率、身体体重指数、去脂体重、手腕温度、体温、基础体温、身高、皮电活动、腰围 [活动]: 步数、静息能量、活动能量、步行+跑步距离、锻炼分钟数、站立分钟数、站立小时数、跑步速度、游泳距离、划水次数、已爬楼层、骑车距离、轮椅推动次数、轮椅距离、高山雪山运动距离、水下深度 [步态]: 步行速度、步长、步行不对称性、双支撑时间 [心脏]: 心率、心率变异性、步行平均心率、静息心率、有氧适能、末梢灌注指数、血压、血糖 [心理健康]: 睡眠、冥想分钟 [营养]: 水、碳水化合物、咖啡因、钙、膳食糖、膳食能量、总脂肪、生物素、氯、铬、铜、膳食胆固醇、纤维、叶酸、碘、铁、锰、钼、烟酸、泛酸、磷、钾、饱和脂肪、单元不饱和脂肪、多元不饱和脂肪、锌、蛋白质、硒、钠、硫胺素、维生素A、维生素B6、维生素B12、维生素C、维生素D、维生素E、维生素K [其他]: 酒精摄入量、血液酒精浓度、日照下的时间、摔倒次数 ⌗ 多样化的布局风格 探索各种布局风格，从小型到中型小组件，为您的主屏幕和锁定屏幕创建最佳组合，满足您的健康跟踪需求。 ⌗ 支持 iOS 17 待机显示 全面支持 iOS 17 待机功能，为用户提供无缝和增强的体验。在您的 iPhone 充电期间，享受个性化且一目了然的信息展示。 ⌗ 支持锁定屏幕上的小组件 即使设备处于锁定状态，您也可以了解关键的健康数据。在锁定屏幕上查看重要健康数据，随时方便获取。 ⌗ 与 HealthKit 无缝集成 Valens与 HealthKit 无缝集成，让您获取关于活动、体重、睡眠、心率等重要信息。启动应用程序时，请授权访问，启用这个强大的健康数据集成功能。 ⌗ 自定义不同日期范围和颜色 根据您的喜好调整小组件数据。选择不同的日期范围和颜色方案，创造个性化的健康洞察，与您共鸣。所有设置均可轻松完成，无需前往应用程序，您可以直接在小部件设置中完成所有配置。 ⌗ 使用图表和日期范围跟踪趋势 主屏幕小组件提供指定日期范围内的全面趋势，包括每日、每周或每月进展。选择不同图表类型，自定义颜色和显示单位，享受真正个性化的健康监测体验。 千万不要错过这个提升健康跟踪体验的机会。立即下载 Valens，全面掌控您的健康。",
     "summaryDescription": "Valens - 全面的健康小组件 通过 Valens，将您的主屏幕和锁定屏幕转变成全面的健康仪表盘。这款终极健康小组件应用程序让您访问广泛的健康类别，赋予您轻松追踪和监测健康各个方面的能力。 ⌗ 保护您的隐私 请放心，所有数据在您的设备上本地处理。没有数据离开您的设备，您的隐私得到保障。 ⌗ 可自定义的健康小组件 根据您的偏好定制健康小组件。从包括体重、心率、睡眠、营养、运动等众多类别中进行选择。 完整类别包括： [身体测量]: 体重、体脂率、身体体重指数、去脂体重、手腕温度、体温、基础体温、身高、皮电活动、腰围 [活动]: 步数、静息能量、活动能量、步行+跑步距离、锻炼分钟数、站立分钟数、站立小时数、跑步速度、游泳距离、划水次数、已爬楼层、骑车距离、轮椅推动次数、轮椅距离、高山雪山运动距离、水下深度 [步态]: 步行速度、步长、步行不对称性、双支撑时间 [心脏]: 心率、心率变异性、步行平均心率、静息心率、有氧适能、末梢灌注指数、血压、血糖 [心理健康]: 睡眠、冥想分钟 [营养]: 水、碳水化合物、咖啡因、钙、膳食糖、膳食能量、总脂肪、生物素、氯、铬、铜、膳食胆固醇、纤维、叶酸、碘、铁、锰、钼、烟酸、泛酸、磷、钾、饱和脂肪、单元不饱和脂肪、多元不饱和脂肪、锌、蛋白质、硒、钠、硫胺素、维生素A、维生素B6、维生素B12、维生素C、维生素D、维生素E、维生素K [其他]: 酒精摄入量、血液酒精浓度、日照下的时间、摔倒次数 ⌗ 多样化的布局风格 探索各种布局风格，从小型到中型小组件，为您的主屏幕和锁定屏幕创建最佳组合，满足您的健康跟踪需求。 ⌗ 支持 iOS 17 待机显示 全面支持 iOS 17 待机功能，为用户提供无缝和增强的体验。在您的 iPhone 充电期间，享受个性化且一目了然的信息展示。 ⌗ 支持锁定屏幕上的小组件 即使设备处于锁定状态，您也可以了解关键的健康数据。在锁定屏幕上查看重要健康数据，随时方便获取。 ⌗ 与 HealthKit 无缝集成 Valens与 HealthKit 无缝集成，让您获取关于活动、体重、睡眠、心率等重要信息。启动应用程序时，请授权访问，启用这个强大的健康数据集成功能。 ⌗ 自定义不同日期范围和颜色 根据您的喜好调整小组件数据。选择不同的日期范围和颜色方案，创造个性化的健康洞察，与您共鸣。所有设置均可轻松完成，无需前往应用程序，您可以直接在小部件设置中完成所有配置。 ⌗ 使用图表和日期范围跟踪趋势 主屏幕小组件提供指定日期范围内的全面趋势，包括每日、每周或每月进展。选择不同图表类型，自定义颜色和显示单位，享受真正个性化的健康监测体验。 千万不要错过这个提升健康跟踪体验的机会。立即下载 Valens，全面掌控您的健康。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/43/46/8a4346b3-06e9-2e35-819a-29de67ff3cf2/Composer-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/43/46/8a4346b3-06e9-2e35-819a-29de67ff3cf2/Composer-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/ed/a4/97eda4ae-df05-58ae-8a1a-6c7a784b6176/Composer-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/ed/a4/97eda4ae-df05-58ae-8a1a-6c7a784b6176/Composer-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "磊 汪",
     "artistName": "磊 汪",
     "screenshotUrls": [
@@ -147998,8 +147876,8 @@
     "description": "在iPhone手机或者iPad上一键翻译多种语言的字幕。 (用户需要自行申请翻译引擎帐户。目前支持：百度翻译、Google翻译、微软Azuare翻译） 注意： 首次打开时，用户需要自己配置翻译账号才能正常使用。注册位置在：“偏好设置”->“常规”里选择，“去申请百度翻译账户”。如果有不清楚的，可以点设置里的“？”按钮。 主要功能： 导出的格式是SRT字幕，用户可以再配合使用（ZiMu字幕格式转换器）导出更多的格式。 一键翻译字幕。支持多种语言（英语、日语、韩语、繁体中文、泰国语、法语、德语、葡萄牙语、西班牙语、俄语、意大利语、波兰语、希腊语、荷兰语等等） 支持导出双语字幕。（再也不用为制作双语字幕发愁） 支持百度翻译-28种语言。（需要自己申请API） 支持谷歌翻译-109种语言。（需要自己申请API） 支持微软Azure翻译-133种语言。（需要自己申请API） 支持苹果翻译（需 iOS 18+，首次语对可能要下载语言包；无需 API Key） 支持Deepseek翻译。（需要自己申请API） 支持导出TXT。（去除时间线） 支持“向上合并”、“删除当前行”。 支持“智能断句”。 (以英文问号、感叹号等符号分段） 搜索与替换，支持“原文、译文、全部、大小写敏感”等多种方式 支持导入Whisper输出的Txt字幕 支持字幕格式：SRT 如果有疑问点设置->“问题反馈”，或者联系微信公众号：Edge麦客。我们会及时帮助您解决问题。 需要更强大的功能，请使用Mac版本的“SRT翻译君”。",
     "fullDescription": "在iPhone手机或者iPad上一键翻译多种语言的字幕。 (用户需要自行申请翻译引擎帐户。目前支持：百度翻译、Google翻译、微软Azuare翻译） 注意： 首次打开时，用户需要自己配置翻译账号才能正常使用。注册位置在：“偏好设置”->“常规”里选择，“去申请百度翻译账户”。如果有不清楚的，可以点设置里的“？”按钮。 主要功能： 导出的格式是SRT字幕，用户可以再配合使用（ZiMu字幕格式转换器）导出更多的格式。 一键翻译字幕。支持多种语言（英语、日语、韩语、繁体中文、泰国语、法语、德语、葡萄牙语、西班牙语、俄语、意大利语、波兰语、希腊语、荷兰语等等） 支持导出双语字幕。（再也不用为制作双语字幕发愁） 支持百度翻译-28种语言。（需要自己申请API） 支持谷歌翻译-109种语言。（需要自己申请API） 支持微软Azure翻译-133种语言。（需要自己申请API） 支持苹果翻译（需 iOS 18+，首次语对可能要下载语言包；无需 API Key） 支持Deepseek翻译。（需要自己申请API） 支持导出TXT。（去除时间线） 支持“向上合并”、“删除当前行”。 支持“智能断句”。 (以英文问号、感叹号等符号分段） 搜索与替换，支持“原文、译文、全部、大小写敏感”等多种方式 支持导入Whisper输出的Txt字幕 支持字幕格式：SRT 如果有疑问点设置->“问题反馈”，或者联系微信公众号：Edge麦客。我们会及时帮助您解决问题。 需要更强大的功能，请使用Mac版本的“SRT翻译君”。",
     "summaryDescription": "在iPhone手机或者iPad上一键翻译多种语言的字幕。 (用户需要自行申请翻译引擎帐户。目前支持：百度翻译、Google翻译、微软Azuare翻译） 注意： 首次打开时，用户需要自己配置翻译账号才能正常使用。注册位置在：“偏好设置”->“常规”里选择，“去申请百度翻译账户”。如果有不清楚的，可以点设置里的“？”按钮。 主要功能： 导出的格式是SRT字幕，用户可以再配合使用（ZiMu字幕格式转换器）导出更多的格式。 一键翻译字幕。支持多种语言（英语、日语、韩语、繁体中文、泰国语、法语、德语、葡萄牙语、西班牙语、俄语、意大利语、波兰语、希腊语、荷兰语等等） 支持导出双语字幕。（再也不用为制作双语字幕发愁） 支持百度翻译-28种语言。（需要自己申请API） 支持谷歌翻译-109种语言。（需要自己申请API） 支持微软Azure翻译-133种语言。（需要自己申请API） 支持苹果翻译（需 iOS 18+，首次语对可能要下载语言包；无需 API Key） 支持Deepseek翻译。（需要自己申请API） 支持导出TXT。（去除时间线） 支持“向上合并”、“删除当前行”。 支持“智能断句”。 (以英文问号、感叹号等符号分段） 搜索与替换，支持“原文、译文、全部、大小写敏感”等多种方式 支持导入Whisper输出的Txt字幕 支持字幕格式：SRT 如果有疑问点设置->“问题反馈”，或者联系微信公众号：Edge麦客。我们会及时帮助您解决问题。 需要更强大的功能，请使用Mac版本的“SRT翻译君”。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/9e/b3/429eb3f2-148c-d49d-57fa-ced982724ba5/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/9e/b3/429eb3f2-148c-d49d-57fa-ced982724ba5/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/6f/09/816f0991-a089-4a91-4b98-ec96f47aada4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/6f/09/816f0991-a089-4a91-4b98-ec96f47aada4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "鹏 边",
     "artistName": "鹏 边",
     "screenshotUrls": [
@@ -150188,11 +150066,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E5%85%AC%E5%8A%A1%E5%91%98%E9%9D%A2%E8%AF%95%E5%A4%A7%E5%85%A8/id1608747713?uo=4",
-    "description": "公务员面试90分示范答题给力推荐，内容全面涵盖了公务员考试答题示范大全。十分适合相关人士参考学习。",
-    "fullDescription": "公务员面试90分示范答题给力推荐，内容全面涵盖了公务员考试答题示范大全。十分适合相关人士参考学习。",
-    "summaryDescription": "公务员面试90分示范答题给力推荐，内容全面涵盖了公务员考试答题示范大全。十分适合相关人士参考学习。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/35/98/50359895-acce-8034-2b0a-0bc85242766f/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/35/98/50359895-acce-8034-2b0a-0bc85242766f/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.jpg",
+    "description": "公务员面试90分示范答题给力推荐，内容全面涵盖了公务员考试答题示范大全。十分适合相关人士参考学习。 一、App Store 首屏短钩子文案 公考面试备考周期短，综合分析、组织计划、应急应变题型多，答题容易模板化空洞无落地，开口紧张逻辑混乱，缺少高分作答思路。这款公务员面试大全，高频题型答题框架、真题范例、时政素材、考场避坑指南全套汇总，15 元买断无内购，离线随时翻看积累，摆脱生硬套话，面试从容拿高分！ 二、完整商店爆款长简介 国考、省考进面的考生，大多会遭遇面试备考多重难题。笔试分数突围，却卡在面试环节，备考时间短，从出分到考试往往只有短短几周。结构化面试题型繁杂，综合分析、组织计划、应急应变、人际沟通、情景模拟、岗位自我认知轮番考查。很多考生只会背诵万能模板，答题空话套话堆砌，缺少政府思维，对策脱离基层实际，考官反感模板化作答直接压低分数；面对社会热点、政策理解类题目不会多角度拆解，分析浅薄；应急、人际题目抓不住矛盾核心，处理方式不贴合公职实际工作场景；开口练习容易紧张卡顿，逻辑条理混乱，没有答题思路；线下报班成本高昂，纸质面试资料厚重，通勤、居家碎片化时间不方便翻阅；网上素材零散，真题缺少完整高分示范，时政热点、答题金句四处搜集效率低，笔试高分也容易遭遇面试被逆袭。 《公务员面试大全》贴合国考省考结构化面试考情，一套整合**六大题型高分答题框架、历年面试真题与高分示范、时政热点金句素材库、考场实战避坑指南**四大核心板块，适配短期突击备考，适合进面考生自主复习，一站式解决模板化答题、思路匮乏、内容空洞、考场紧张失分四大备考痛点。 四大核心备考板块全覆盖公考面试高频考点 1. 六大面试题型高分答题框架 梳理结构化全部高频题型，拆解综合分析、计划组织、应急应变、人际沟通、情景模拟、自我认知岗位匹配的答题逻辑。摒弃死板万能模板，讲解如何结合题干搭建作答结构，教会考生找准题目核心矛盾，分析问题、提出落地可行对策，建立公职人员思考视角，告别千篇一律套话，形成属于自己的答题思路。 2. 面试历年真题配套高分示范 收纳国考、各省省考高频面试真题，每道题目配套完整高分作答参考。综合分析类拆解现象、政策、哲理题分析角度；组织计划区分调研、宣传、会议、专项活动作答重点；应急应变梳理矛盾处置优先级；人际沟通理清沟通原则与处理步骤；情景模拟还原沟通口吻与表达逻辑。方便考生对照参考，学一道吃透一类题型。 3. 时政热点与面试金句素材库 整理面试高频社会热点、政策解读、青年基层相关金句、人物案例素材。分类适配综合分析、岗位认知等题型，方便碎片化记忆积累，答题可以灵活化用，丰富作答内容，提升答题深度，避免答题内容干瘪空洞。 4. 考场实战避坑指南专区 汇总考场高频扣分点：答题过度模板化、对策脱离现实、逻辑混乱、口头禅过多、超时把控失误、举止表达细节问题。讲解审题技巧、思考时间分配、考场心态调节、外在礼仪注意事项，提前规避各类隐形扣分陷阱，减少临场发挥失误。 APP 专属实用优势 十五元一次性付费解锁全部答题框架、真题范例、素材、避坑资料永久浏览，全程无任何隐藏内购项目；支持全内容离线缓存，通勤、居家、出行没有网络也可以随时翻看背诵积累；界面纯净无广告，不打断备考节奏；持续更新面试热点素材、新真题范例；适配 iPhone、iPad，字体柔和清晰，长时间阅读不伤眼。 适配人群 国考、省考进入面试的考生，事业单位结构化面试备考人群；答题依赖模板、作答空洞缺少实际对策，开口紧张逻辑差，想要自主备考不想高价报线下班；备考周期短，需要手机随身碎片化积累答题思路、热点素材，摆脱模板套路，冲刺面试高分的考生。 不用囤积厚厚的面试纸质讲义，不用全网到处搜集真题、热点金句素材，一款软件收纳公务员面试全套备考资源，碎片时间梳理答题框架，研读真题范例，积累时政素材，跳出模板化答题误区，构建公职答题思维，从容应对考场提问，守住笔试优势，也可实现面试逆风逆袭。 三、短视频信息流短种草文案 标题公考面试提分神器｜答题框架真题素材避坑指南全套汇总 答题模板化空话多，答题没思路考场容易紧张，备考周期短，15 元买断全套面试备考资料无隐形消费，离线随时翻看积累，国考省考通用，跳出套路冲击面试高分 四、ASO 精简短描述 公务员面试大全 公考结构化面试备考工具，收录六大题型答题框架、面试真题高分示范、时政金句素材、考场避坑指南，一次性付费买断无内购离线复习，助力公考考生摆脱模板套路面试拿高分 五、短视频口播痛点爆款文案 笔试好不容易进面，面试却犯难！答题只会背模板，满篇空话没有实际对策，遇到综合分析、应急应变题目脑子空白，开口紧张逻辑混乱，线下培训班价格贵，纸质资料不方便随身携带，网上资料零散不成体系。这款公务员面试大全整合全套答题框架、面试真题示范、热点金句素材、考场避坑要点，15 元买断终身可用，离线通勤随时复习，国考省考面试都适用，跳出固化答题套路，建立公职答题思维，考场从容发挥成功上岸！",
+    "fullDescription": "公务员面试90分示范答题给力推荐，内容全面涵盖了公务员考试答题示范大全。十分适合相关人士参考学习。 一、App Store 首屏短钩子文案 公考面试备考周期短，综合分析、组织计划、应急应变题型多，答题容易模板化空洞无落地，开口紧张逻辑混乱，缺少高分作答思路。这款公务员面试大全，高频题型答题框架、真题范例、时政素材、考场避坑指南全套汇总，15 元买断无内购，离线随时翻看积累，摆脱生硬套话，面试从容拿高分！ 二、完整商店爆款长简介 国考、省考进面的考生，大多会遭遇面试备考多重难题。笔试分数突围，却卡在面试环节，备考时间短，从出分到考试往往只有短短几周。结构化面试题型繁杂，综合分析、组织计划、应急应变、人际沟通、情景模拟、岗位自我认知轮番考查。很多考生只会背诵万能模板，答题空话套话堆砌，缺少政府思维，对策脱离基层实际，考官反感模板化作答直接压低分数；面对社会热点、政策理解类题目不会多角度拆解，分析浅薄；应急、人际题目抓不住矛盾核心，处理方式不贴合公职实际工作场景；开口练习容易紧张卡顿，逻辑条理混乱，没有答题思路；线下报班成本高昂，纸质面试资料厚重，通勤、居家碎片化时间不方便翻阅；网上素材零散，真题缺少完整高分示范，时政热点、答题金句四处搜集效率低，笔试高分也容易遭遇面试被逆袭。 《公务员面试大全》贴合国考省考结构化面试考情，一套整合**六大题型高分答题框架、历年面试真题与高分示范、时政热点金句素材库、考场实战避坑指南**四大核心板块，适配短期突击备考，适合进面考生自主复习，一站式解决模板化答题、思路匮乏、内容空洞、考场紧张失分四大备考痛点。 四大核心备考板块全覆盖公考面试高频考点 1. 六大面试题型高分答题框架 梳理结构化全部高频题型，拆解综合分析、计划组织、应急应变、人际沟通、情景模拟、自我认知岗位匹配的答题逻辑。摒弃死板万能模板，讲解如何结合题干搭建作答结构，教会考生找准题目核心矛盾，分析问题、提出落地可行对策，建立公职人员思考视角，告别千篇一律套话，形成属于自己的答题思路。 2. 面试历年真题配套高分示范 收纳国考、各省省考高频面试真题，每道题目配套完整高分作答参考。综合分析类拆解现象、政策、哲理题分析角度；组织计划区分调研、宣传、会议、专项活动作答重点；应急应变梳理矛盾处置优先级；人际沟通理清沟通原则与处理步骤；情景模拟还原沟通口吻与表达逻辑。方便考生对照参考，学一道吃透一类题型。 3. 时政热点与面试金句素材库 整理面试高频社会热点、政策解读、青年基层相关金句、人物案例素材。分类适配综合分析、岗位认知等题型，方便碎片化记忆积累，答题可以灵活化用，丰富作答内容，提升答题深度，避免答题内容干瘪空洞。 4. 考场实战避坑指南专区 汇总考场高频扣分点：答题过度模板化、对策脱离现实、逻辑混乱、口头禅过多、超时把控失误、举止表达细节问题。讲解审题技巧、思考时间分配、考场心态调节、外在礼仪注意事项，提前规避各类隐形扣分陷阱，减少临场发挥失误。 APP 专属实用优势 十五元一次性付费解锁全部答题框架、真题范例、素材、避坑资料永久浏览，全程无任何隐藏内购项目；支持全内容离线缓存，通勤、居家、出行没有网络也可以随时翻看背诵积累；界面纯净无广告，不打断备考节奏；持续更新面试热点素材、新真题范例；适配 iPhone、iPad，字体柔和清晰，长时间阅读不伤眼。 适配人群 国考、省考进入面试的考生，事业单位结构化面试备考人群；答题依赖模板、作答空洞缺少实际对策，开口紧张逻辑差，想要自主备考不想高价报线下班；备考周期短，需要手机随身碎片化积累答题思路、热点素材，摆脱模板套路，冲刺面试高分的考生。 不用囤积厚厚的面试纸质讲义，不用全网到处搜集真题、热点金句素材，一款软件收纳公务员面试全套备考资源，碎片时间梳理答题框架，研读真题范例，积累时政素材，跳出模板化答题误区，构建公职答题思维，从容应对考场提问，守住笔试优势，也可实现面试逆风逆袭。 三、短视频信息流短种草文案 标题公考面试提分神器｜答题框架真题素材避坑指南全套汇总 答题模板化空话多，答题没思路考场容易紧张，备考周期短，15 元买断全套面试备考资料无隐形消费，离线随时翻看积累，国考省考通用，跳出套路冲击面试高分 四、ASO 精简短描述 公务员面试大全 公考结构化面试备考工具，收录六大题型答题框架、面试真题高分示范、时政金句素材、考场避坑指南，一次性付费买断无内购离线复习，助力公考考生摆脱模板套路面试拿高分 五、短视频口播痛点爆款文案 笔试好不容易进面，面试却犯难！答题只会背模板，满篇空话没有实际对策，遇到综合分析、应急应变题目脑子空白，开口紧张逻辑混乱，线下培训班价格贵，纸质资料不方便随身携带，网上资料零散不成体系。这款公务员面试大全整合全套答题框架、面试真题示范、热点金句素材、考场避坑要点，15 元买断终身可用，离线通勤随时复习，国考省考面试都适用，跳出固化答题套路，建立公职答题思维，考场从容发挥成功上岸！",
+    "summaryDescription": "公务员面试90分示范答题给力推荐，内容全面涵盖了公务员考试答题示范大全。十分适合相关人士参考学习。 一、App Store 首屏短钩子文案 公考面试备考周期短，综合分析、组织计划、应急应变题型多，答题容易模板化空洞无落地，开口紧张逻辑混乱，缺少高分作答思路。这款公务员面试大全，高频题型答题框架、真题范例、时政素材、考场避坑指南全套汇总，15 元买断无内购，离线随时翻看积累，摆脱生硬套话，面试从容拿高分！ 二、完整商店爆款长简介 国考、省考进面的考生，大多会遭遇面试备考多重难题。笔试分数突围，却卡在面试环节，备考时间短，从出分到考试往往只有短短几周。结构化面试题型繁杂，综合分析、组织计划、应急应变、人际沟通、情景模拟、岗位自我认知轮番考查。很多考生只会背诵万能模板，答题空话套话堆砌，缺少政府思维，对策脱离基层实际，考官反感模板化作答直接压低分数；面对社会热点、政策理解类题目不会多角度拆解，分析浅薄；应急、人际题目抓不住矛盾核心，处理方式不贴合公职实际工作场景；开口练习容易紧张卡顿，逻辑条理混乱，没有答题思路；线下报班成本高昂，纸质面试资料厚重，通勤、居家碎片化时间不方便翻阅；网上素材零散，真题缺少完整高分示范，时政热点、答题金句四处搜集效率低，笔试高分也容易遭遇面试被逆袭。 《公务员面试大全》贴合国考省考结构化面试考情，一套整合**六大题型高分答题框架、历年面试真题与高分示范、时政热点金句素材库、考场实战避坑指南**四大核心板块，适配短期突击备考，适合进面考生自主复习，一站式解决模板化答题、思路匮乏、内容空洞、考场紧张失分四大备考痛点。 四大核心备考板块全覆盖公考面试高频考点 1. 六大面试题型高分答题框架 梳理结构化全部高频题型，拆解综合分析、计划组织、应急应变、人际沟通、情景模拟、自我认知岗位匹配的答题逻辑。摒弃死板万能模板，讲解如何结合题干搭建作答结构，教会考生找准题目核心矛盾，分析问题、提出落地可行对策，建立公职人员思考视角，告别千篇一律套话，形成属于自己的答题思路。 2. 面试历年真题配套高分示范 收纳国考、各省省考高频面试真题，每道题目配套完整高分作答参考。综合分析类拆解现象、政策、哲理题分析角度；组织计划区分调研、宣传、会议、专项活动作答重点；应急应变梳理矛盾处置优先级；人际沟通理清沟通原则与处理步骤；情景模拟还原沟通口吻与表达逻辑。方便考生对照参考，学一道吃透一类题型。 3. 时政热点与面试金句素材库 整理面试高频社会热点、政策解读、青年基层相关金句、人物案例素材。分类适配综合分析、岗位认知等题型，方便碎片化记忆积累，答题可以灵活化用，丰富作答内容，提升答题深度，避免答题内容干瘪空洞。 4. 考场实战避坑指南专区 汇总考场高频扣分点：答题过度模板化、对策脱离现实、逻辑混乱、口头禅过多、超时把控失误、举止表达细节问题。讲解审题技巧、思考时间分配、考场心态调节、外在礼仪注意事项，提前规避各类隐形扣分陷阱，减少临场发挥失误。 APP 专属实用优势 十五元一次性付费解锁全部答题框架、真题范例、素材、避坑资料永久浏览，全程无任何隐藏内购项目；支持全内容离线缓存，通勤、居家、出行没有网络也可以随时翻看背诵积累；界面纯净无广告，不打断备考节奏；持续更新面试热点素材、新真题范例；适配 iPhone、iPad，字体柔和清晰，长时间阅读不伤眼。 适配人群 国考、省考进入面试的考生，事业单位结构化面试备考人群；答题依赖模板、作答空洞缺少实际对策，开口紧张逻辑差，想要自主备考不想高价报线下班；备考周期短，需要手机随身碎片化积累答题思路、热点素材，摆脱模板套路，冲刺面试高分的考生。 不用囤积厚厚的面试纸质讲义，不用全网到处搜集真题、热点金句素材，一款软件收纳公务员面试全套备考资源，碎片时间梳理答题框架，研读真题范例，积累时政素材，跳出模板化答题误区，构建公职答题思维，从容应对考场提问，守住笔试优势，也可实现面试逆风逆袭。 三、短视频信息流短种草文案 标题公考面试提分神器｜答题框架真题素材避坑指南全套汇总 答题模板化空话多，答题没思路考场容易紧张，备考周期短，15 元买断全套面试备考资料无隐形消费，离线随时翻看积累，国考省考通用，跳出套路冲击面试高分 四、ASO 精简短描述 公务员面试大全 公考结构化面试备考工具，收录六大题型答题框架、面试真题高分示范、时政金句素材、考场避坑指南，一次性付费买断无内购离线复习，助力公考考生摆脱模板套路面试拿高分 五、短视频口播痛点爆款文案 笔试好不容易进面，面试却犯难！答题只会背模板，满篇空话没有实际对策，遇到综合分析、应急应变题目脑子空白，开口紧张逻辑混乱，线下培训班价格贵，纸质资料不方便随身携带，网上资料零散不成体系。这款公务员面试大全整合全套答题框架、面试真题示范、热点金句素材、考场避坑要点，15 元买断终身可用，离线通勤随时复习，国考省考面试都适用，跳出固化答题套路，建立公职答题思维，考场从容发挥成功上岸！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/f8/10/6ff81072-2a7b-4be2-d9b0-9335e5d9ca14/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/f8/10/6ff81072-2a7b-4be2-d9b0-9335e5d9ca14/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.jpg",
     "sellerName": "强 马",
     "artistName": "强 马",
     "screenshotUrls": [
@@ -153677,8 +153555,8 @@
     "description": "是否正在寻找一种不引起注意的悄悄拍摄照片和视频的方法？SCamera Pro允许您秘密拍摄照片和录制视频。 SCamera Pro提供视频和照片捕捉两种模式。向下滑动以隐藏您的相机；向上滑动以显示它。 使用黑色背景和调暗屏幕来模拟关闭的设备。 点击屏幕以拍摄照片或开始录制。再次点击屏幕停止录制。照片和视频将自动保存到手机的相册中。 添加一个虚假背景：在录制时显示静止图像，以达到完美伪装效果。 通过在浏览网络时拍摄照片来模拟网络浏览。在浏览器中点击隐藏按钮以拍摄照片。 调整相机预览 - 可移动和可调整大小以适应您的喜好。 高清或4K录制；以高质量、高清或4K拍摄照片。 使用增强稳定功能录制24、30或60帧每秒的视频。 使用Face ID或Touch ID解锁屏幕以保护您的隐私。 使用您的 Apple Watch 在手机上拍摄照片或视频。 免责声明 SCamera Pro 是一款用于合法用途的图像和视频捕捉工具，例如记录事件、收集证据或个人存档。您（用户）需自行负责确保您对 SCamera Pro 的使用符合您所在司法管辖区内的所有适用法律和法规。TotalContent 对使用 SCamera Pro 所录制内容不承担任何责任。 您知悉并同意，某些国家或地区对拍摄他人图像、视频或音频有特定规定，包括在必要时要求获得同意。您有责任了解并遵守这些法律。对于因您未遵守当地录制设备相关法律而产生的任何法律后果，TotalContent 概不负责。 使用 SCamera Pro 即表示您承诺不会将该应用用于任何非法或未经授权的用途，包括但不限于在法律要求取得同意的情况下未经同意录制他人，或在他人具有合理隐私期待的场所进行录制。 如果您对在所在地区使用 SCamera Pro 的合法性存在任何疑问，您有责任在使用前寻求法律建议。TotalContent 不提供法律建议，应用或其相关服务中提供的任何信息均不应被视为法律指导。 完整条款请参阅服务条款：https://spycamera.pro/terms-of-service/。",
     "fullDescription": "是否正在寻找一种不引起注意的悄悄拍摄照片和视频的方法？SCamera Pro允许您秘密拍摄照片和录制视频。 SCamera Pro提供视频和照片捕捉两种模式。向下滑动以隐藏您的相机；向上滑动以显示它。 使用黑色背景和调暗屏幕来模拟关闭的设备。 点击屏幕以拍摄照片或开始录制。再次点击屏幕停止录制。照片和视频将自动保存到手机的相册中。 添加一个虚假背景：在录制时显示静止图像，以达到完美伪装效果。 通过在浏览网络时拍摄照片来模拟网络浏览。在浏览器中点击隐藏按钮以拍摄照片。 调整相机预览 - 可移动和可调整大小以适应您的喜好。 高清或4K录制；以高质量、高清或4K拍摄照片。 使用增强稳定功能录制24、30或60帧每秒的视频。 使用Face ID或Touch ID解锁屏幕以保护您的隐私。 使用您的 Apple Watch 在手机上拍摄照片或视频。 免责声明 SCamera Pro 是一款用于合法用途的图像和视频捕捉工具，例如记录事件、收集证据或个人存档。您（用户）需自行负责确保您对 SCamera Pro 的使用符合您所在司法管辖区内的所有适用法律和法规。TotalContent 对使用 SCamera Pro 所录制内容不承担任何责任。 您知悉并同意，某些国家或地区对拍摄他人图像、视频或音频有特定规定，包括在必要时要求获得同意。您有责任了解并遵守这些法律。对于因您未遵守当地录制设备相关法律而产生的任何法律后果，TotalContent 概不负责。 使用 SCamera Pro 即表示您承诺不会将该应用用于任何非法或未经授权的用途，包括但不限于在法律要求取得同意的情况下未经同意录制他人，或在他人具有合理隐私期待的场所进行录制。 如果您对在所在地区使用 SCamera Pro 的合法性存在任何疑问，您有责任在使用前寻求法律建议。TotalContent 不提供法律建议，应用或其相关服务中提供的任何信息均不应被视为法律指导。 完整条款请参阅服务条款：https://spycamera.pro/terms-of-service/。",
     "summaryDescription": "是否正在寻找一种不引起注意的悄悄拍摄照片和视频的方法？SCamera Pro允许您秘密拍摄照片和录制视频。 SCamera Pro提供视频和照片捕捉两种模式。向下滑动以隐藏您的相机；向上滑动以显示它。 使用黑色背景和调暗屏幕来模拟关闭的设备。 点击屏幕以拍摄照片或开始录制。再次点击屏幕停止录制。照片和视频将自动保存到手机的相册中。 添加一个虚假背景：在录制时显示静止图像，以达到完美伪装效果。 通过在浏览网络时拍摄照片来模拟网络浏览。在浏览器中点击隐藏按钮以拍摄照片。 调整相机预览 - 可移动和可调整大小以适应您的喜好。 高清或4K录制；以高质量、高清或4K拍摄照片。 使用增强稳定功能录制24、30或60帧每秒的视频。 使用Face ID或Touch ID解锁屏幕以保护您的隐私。 使用您的 Apple Watch 在手机上拍摄照片或视频。 免责声明 SCamera Pro 是一款用于合法用途的图像和视频捕捉工具，例如记录事件、收集证据或个人存档。您（用户）需自行负责确保您对 SCamera Pro 的使用符合您所在司法管辖区内的所有适用法律和法规。TotalContent 对使用 SCamera Pro 所录制内容不承担任何责任。 您知悉并同意，某些国家或地区对拍摄他人图像、视频或音频有特定规定，包括在必要时要求获得同意。您有责任了解并遵守这些法律。对于因您未遵守当地录制设备相关法律而产生的任何法律后果，TotalContent 概不负责。 使用 SCamera Pro 即表示您承诺不会将该应用用于任何非法或未经授权的用途，包括但不限于在法律要求取得同意的情况下未经同意录制他人，或在他人具有合理隐私期待的场所进行录制。 如果您对在所在地区使用 SCamera Pro 的合法性存在任何疑问，您有责任在使用前寻求法律建议。TotalContent 不提供法律建议，应用或其相关服务中提供的任何信息均不应被视为法律指导。 完整条款请参阅服务条款：https://spycamera.pro/terms-of-service/。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/7c/c2/837cc215-9efb-ba1e-010e-f0437148e9e4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/7c/c2/837cc215-9efb-ba1e-010e-f0437148e9e4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/38/0f/98380f79-2db1-482a-222d-418bd2895250/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/38/0f/98380f79-2db1-482a-222d-418bd2895250/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "TotalContent",
     "artistName": "TotalContent",
     "screenshotUrls": [
@@ -158142,6 +158020,25 @@
       "60元弑君者*墨晶皮肤礼包": "¥60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787800596330,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元满级武器礼包": "¥6.00",
+            "30元月卡": "¥30.00",
+            "18元每日系统经验礼包": "¥18.00",
+            "6元每日电量礼包": "¥6.00",
+            "98元永久通行证": "¥98.00",
+            "12元每日活跃数据礼包": "¥12.00",
+            "6元皮肤礼包1": "¥6.00",
+            "108每月签名皮肤礼包": "¥108.00",
+            "98元每月限时皮肤礼包": "¥98.00",
+            "30元快递券礼包": "¥30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787626631940,
@@ -173053,9 +172950,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/time-to-paste/id1634967005?mt=12&uo=4",
-    "description": "轻松将当前日期和/或时间粘贴到任意位置。•无复制粘贴。只需在任何地方按Cmd + Option + V即可生成时间戳...然后将其粘贴(cmd + v)。或者...只需启动应用程序...然后将日期戳粘贴到其他任何地方。∙无需复制您的邮票，只需粘贴即可。它会自动出现在剪贴板上。观看演示/教程视频。（打开声音播放）。∙ ∙ ∙创建高度定制的时间和日期戳，以满足您的需求。∙请参阅屏幕截图。自定义t的示例",
-    "fullDescription": "轻松将当前日期和/或时间粘贴到任意位置。•无复制粘贴。只需在任何地方按Cmd + Option + V即可生成时间戳...然后将其粘贴(cmd + v)。或者...只需启动应用程序...然后将日期戳粘贴到其他任何地方。∙无需复制您的邮票，只需粘贴即可。它会自动出现在剪贴板上。观看演示/教程视频。（打开声音播放）。∙ ∙ ∙创建高度定制的时间和日期戳，以满足您的需求。∙请参阅屏幕截图。自定义t的示例",
-    "summaryDescription": "轻松将当前日期和/或时间粘贴到任意位置。•无复制粘贴。只需在任何地方按Cmd + Option + V即可生成时间戳...然后将其粘贴(cmd + v)。或者...只需启动应用程序...然后将日期戳粘贴到其他任何地方。∙无需复制您的邮票，只需粘贴即可。它会自动出现在剪贴板上。观看演示/教程视频。（打开声音播放）。∙ ∙ ∙创建高度定制的时间和日期戳，以满足您的需求。∙请参阅屏幕截图。自定义t的示例",
+    "description": "轻松地将当前日期和/或时间粘贴到您喜欢的任何位置。 • 禁止复制粘贴。只需在任意位置按 Cmd+Option+V 即可生成时间戳...然后粘贴它 (cmd+v)。或者...只需启动应用程序...然后将日期戳粘贴到任何地方。 ∙ 无需复制您的图章，只需粘贴即可。它会自动保存在您的剪贴板上。观看演示/教程视频。 （打开声音播放）。 ∙ ∙ ∙ 创建高度定制的时间和日期戳以满足您的需求。 ∙ 请参阅屏幕截图。您可以创建的自定义时间戳的示例： ∙ “中午 12 点过去 14 分 05 秒”您可能可以自定义日期戳",
+    "fullDescription": "轻松地将当前日期和/或时间粘贴到您喜欢的任何位置。 • 禁止复制粘贴。只需在任意位置按 Cmd+Option+V 即可生成时间戳...然后粘贴它 (cmd+v)。或者...只需启动应用程序...然后将日期戳粘贴到任何地方。 ∙ 无需复制您的图章，只需粘贴即可。它会自动保存在您的剪贴板上。观看演示/教程视频。 （打开声音播放）。 ∙ ∙ ∙ 创建高度定制的时间和日期戳以满足您的需求。 ∙ 请参阅屏幕截图。您可以创建的自定义时间戳的示例： ∙ “中午 12 点过去 14 分 05 秒”您可能可以自定义日期戳",
+    "summaryDescription": "轻松地将当前日期和/或时间粘贴到您喜欢的任何位置。 • 禁止复制粘贴。只需在任意位置按 Cmd+Option+V 即可生成时间戳...然后粘贴它 (cmd+v)。或者...只需启动应用程序...然后将日期戳粘贴到任何地方。 ∙ 无需复制您的图章，只需粘贴即可。它会自动保存在您的剪贴板上。观看演示/教程视频。 （打开声音播放）。 ∙ ∙ ∙ 创建高度定制的时间和日期戳以满足您的需求。 ∙ 请参阅屏幕截图。您可以创建的自定义时间戳的示例： ∙ “中午 12 点过去 14 分 05 秒”您可能可以自定义日期戳",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/4e/3a/044e3aa1-d584-d71c-ea8a-6f8264f8f721/AppIcon-85-220-4-2x.png/60x60bb.png",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/4e/3a/044e3aa1-d584-d71c-ea8a-6f8264f8f721/AppIcon-85-220-4-2x.png/100x100bb.png",
     "sellerName": "Filipe Sa",
@@ -173158,8 +173055,8 @@
     "description": "The metronome has been a standard tool in the neuro industry for years. It's been shown to help with attention, brain rehabilitation, stamina, aging, and more. Our goal is to take those tools and improve upon them. Over the last 7 years, we have gathered data on numerous patients that vary widely in age. Our research has inspired us to create this app to rehabilitate and improve brain function. Every brain is different! The brain has twelve cranial nerves, and many variations and pathways can come from them. We can’t assume that everyone, with vastly different brains, are going to process information at the same speed. This is why the TAP app was created. This data is coming firsthand from the Brain Rehab Clinic. We will continue to build upon the evolving information. Our app assesses the speed at which each patient can effectively learn and train. In addition, it continually assesses and records the data needed to customize the patient's treatment plan. Everyone's brain has a specific rate between 30 -100 bpm at which it learns and processes information. As a clinician, Dr. Hatch likes to ensure his patients are doing the correct rehabilitation therapy, and that it is being executed accurately with the metronome beat. This is why a responsive metronome tool is critical and so advantageous. This app begins assessing at 50 bpm on the left and right hands alone, then we increase the speed to 60 bpm while tapping with both hands alternating. This gives us a baseline to work from. If their results are weak, we \"find their speed\" by customizing the metronome speed on the app. Our goal is to find each person’s processing speed that allows their brain to perform at its best. Finding their speed expedites rehabilitation and makes the hard wiring more permanent. On this app, we assess before, throughout, and post treatment. This takes away all guesswork. Also included is a tool for assisting in developing a better memory. The allows you to select from various degrees of word difficulties, number of words and times for memorizing words. It scatters the words can challenges you reproduce certain word orderings from memory.",
     "fullDescription": "The metronome has been a standard tool in the neuro industry for years. It's been shown to help with attention, brain rehabilitation, stamina, aging, and more. Our goal is to take those tools and improve upon them. Over the last 7 years, we have gathered data on numerous patients that vary widely in age. Our research has inspired us to create this app to rehabilitate and improve brain function. Every brain is different! The brain has twelve cranial nerves, and many variations and pathways can come from them. We can’t assume that everyone, with vastly different brains, are going to process information at the same speed. This is why the TAP app was created. This data is coming firsthand from the Brain Rehab Clinic. We will continue to build upon the evolving information. Our app assesses the speed at which each patient can effectively learn and train. In addition, it continually assesses and records the data needed to customize the patient's treatment plan. Everyone's brain has a specific rate between 30 -100 bpm at which it learns and processes information. As a clinician, Dr. Hatch likes to ensure his patients are doing the correct rehabilitation therapy, and that it is being executed accurately with the metronome beat. This is why a responsive metronome tool is critical and so advantageous. This app begins assessing at 50 bpm on the left and right hands alone, then we increase the speed to 60 bpm while tapping with both hands alternating. This gives us a baseline to work from. If their results are weak, we \"find their speed\" by customizing the metronome speed on the app. Our goal is to find each person’s processing speed that allows their brain to perform at its best. Finding their speed expedites rehabilitation and makes the hard wiring more permanent. On this app, we assess before, throughout, and post treatment. This takes away all guesswork. Also included is a tool for assisting in developing a better memory. The allows you to select from various degrees of word difficulties, number of words and times for memorizing words. It scatters the words can challenges you reproduce certain word orderings from memory.",
     "summaryDescription": "The metronome has been a standard tool in the neuro industry for years. It's been shown to help with attention, brain rehabilitation, stamina, aging, and more. Our goal is to take those tools and improve upon them. Over the last 7 years, we have gathered data on numerous patients that vary widely in age. Our research has inspired us to create this app to rehabilitate and improve brain function. Every brain is different! The brain has twelve cranial nerves, and many variations and pathways can come from them. We can’t assume that everyone, with vastly different brains, are going to process information at the same speed. This is why the TAP app was created. This data is coming firsthand from the Brain Rehab Clinic. We will continue to build upon the evolving information. Our app assesses the speed at which each patient can effectively learn and train. In addition, it continually assesses and records the data needed to customize the patient's treatment plan. Everyone's brain has a specific rate between 30 -100 bpm at which it learns and processes information. As a clinician, Dr. Hatch likes to ensure his patients are doing the correct rehabilitation therapy, and that it is being executed accurately with the metronome beat. This is why a responsive metronome tool is critical and so advantageous. This app begins assessing at 50 bpm on the left and right hands alone, then we increase the speed to 60 bpm while tapping with both hands alternating. This gives us a baseline to work from. If their results are weak, we \"find their speed\" by customizing the metronome speed on the app. Our goal is to find each person’s processing speed that allows their brain to perform at its best. Finding their speed expedites rehabilitation and makes the hard wiring more permanent. On this app, we assess before, throughout, and post treatment. This takes away all guesswork. Also included is a tool for assisting in developing a better memory. The allows you to select from various degrees of word difficulties, number of words and times for memorizing words. It scatters the words can challenges you reproduce certain word orderings from memory.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/0c/22/a40c223a-ceca-72a1-6008-e120f79cc8c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/0c/22/a40c223a-ceca-72a1-6008-e120f79cc8c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/9b/f8/3b9bf88e-790b-1c45-2765-40e01945127a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/9b/f8/3b9bf88e-790b-1c45-2765-40e01945127a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "COGNURO, LLC",
     "artistName": "Cognuro, LLC.",
     "screenshotUrls": [
@@ -176264,6 +176161,14 @@
     "history": [
       [
         {
+          "timestamp": 1787800596330,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1777647264972,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -176280,9 +176185,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/fraction-steps-learn-visually/id1639786814?uo=4",
-    "description": "Fraction Steps app is a great way to learn and practice fractions visually and intuitively. Whether you're a student or just looking to brush up on your math skills, our fractions app is the perfect tool for you! It is so much fun and visual. In the app, we cover the following lessons: Introduction Halves and quarters What is a fraction? Fraction on a number line GCD and LCM Greatest common divisor Least common multiple Equivalence Equivalent fractions Equivalent fractions on a number line Simplifying fractions Comparison Comparing like fractions Comparing unlike fractions Addition Adding like fractions Adding unlike fractions Subtraction Subtracting like fractions Subtracting unlike fractions Types Proper and improper fractions Mixed fractions Mixed to improper Improper to mixed Multiplication Multiplying fractions Multiplying fractions intuition Division Dividing fractions",
-    "fullDescription": "Fraction Steps app is a great way to learn and practice fractions visually and intuitively. Whether you're a student or just looking to brush up on your math skills, our fractions app is the perfect tool for you! It is so much fun and visual. In the app, we cover the following lessons: Introduction Halves and quarters What is a fraction? Fraction on a number line GCD and LCM Greatest common divisor Least common multiple Equivalence Equivalent fractions Equivalent fractions on a number line Simplifying fractions Comparison Comparing like fractions Comparing unlike fractions Addition Adding like fractions Adding unlike fractions Subtraction Subtracting like fractions Subtracting unlike fractions Types Proper and improper fractions Mixed fractions Mixed to improper Improper to mixed Multiplication Multiplying fractions Multiplying fractions intuition Division Dividing fractions",
-    "summaryDescription": "Fraction Steps app is a great way to learn and practice fractions visually and intuitively. Whether you're a student or just looking to brush up on your math skills, our fractions app is the perfect tool for you! It is so much fun and visual. In the app, we cover the following lessons: Introduction Halves and quarters What is a fraction? Fraction on a number line GCD and LCM Greatest common divisor Least common multiple Equivalence Equivalent fractions Equivalent fractions on a number line Simplifying fractions Comparison Comparing like fractions Comparing unlike fractions Addition Adding like fractions Adding unlike fractions Subtraction Subtracting like fractions Subtracting unlike fractions Types Proper and improper fractions Mixed fractions Mixed to improper Improper to mixed Multiplication Multiplying fractions Multiplying fractions intuition Division Dividing fractions",
+    "description": "Fraction Steps应用程序是直观直观地学习和练习分数的好方法。无论您是学生还是只是想复习数学技能，我们的分数应用程序都是您的完美工具！它是如此有趣和直观。在应用程序中，我们涵盖了以下课程：简介半数和四分之一什么是分数？数线上的分数GCD和LCM最大公因子最小公倍数等价等价分数数线上的等价分数Simpl",
+    "fullDescription": "Fraction Steps应用程序是直观直观地学习和练习分数的好方法。无论您是学生还是只是想复习数学技能，我们的分数应用程序都是您的完美工具！它是如此有趣和直观。在应用程序中，我们涵盖了以下课程：简介半数和四分之一什么是分数？数线上的分数GCD和LCM最大公因子最小公倍数等价等价分数数线上的等价分数Simpl",
+    "summaryDescription": "Fraction Steps应用程序是直观直观地学习和练习分数的好方法。无论您是学生还是只是想复习数学技能，我们的分数应用程序都是您的完美工具！它是如此有趣和直观。在应用程序中，我们涵盖了以下课程：简介半数和四分之一什么是分数？数线上的分数GCD和LCM最大公因子最小公倍数等价等价分数数线上的等价分数Simpl",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/cd/3d/7fcd3dfb-600a-7add-0616-313cdd5abded/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/cd/3d/7fcd3dfb-600a-7add-0616-313cdd5abded/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Madiyar Aitbayev",
@@ -184483,8 +184388,8 @@
     "description": "Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly. Websites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap. The Filtr add-on extends Wipr’s blocking to all apps on your devices. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS. Wipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese. Wipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported. Because it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”. This app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it. – Kaylee Terms & Conditions: https://kaylees.site/terms-and-conditions.html EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly. Websites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap. The Filtr add-on extends Wipr’s blocking to all apps on your devices. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS. Wipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese. Wipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported. Because it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”. This app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it. – Kaylee Terms & Conditions: https://kaylees.site/terms-and-conditions.html EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly. Websites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap. The Filtr add-on extends Wipr’s blocking to all apps on your devices. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS. Wipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese. Wipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported. Because it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”. This app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it. – Kaylee Terms & Conditions: https://kaylees.site/terms-and-conditions.html EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/89/3d/7d893d25-c952-7993-43e7-6d540b1e2b39/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/89/3d/7d893d25-c952-7993-43e7-6d540b1e2b39/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/39/49/e93949b0-0585-4fbc-b64c-32e0d77aae8c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/39/49/e93949b0-0585-4fbc-b64c-32e0d77aae8c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Kaylee Calderolla",
     "artistName": "Kaylee Calderolla",
     "screenshotUrls": [
@@ -209664,6 +209569,25 @@
     "history": [
       [
         {
+          "timestamp": 1787800596330,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "无双战神": "¥36.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "自创地图": "¥24.00",
+            "冠绝天下": "¥36.00",
+            "终身版": "¥45.00",
+            "斜谷残阳": "¥36.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787668995876,
           "price": 35,
           "formattedPrice": "¥35.00",
@@ -229513,14 +229437,22 @@
     "name": "Easy Text to Speech Reader Pro",
     "trackName": "Easy Text to Speech Reader Pro",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
+      "price": 128,
+      "formattedPrice": "¥128.00"
     },
     "minPriceInfo": {
       "price": 38,
       "formattedPrice": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787800596330,
+          "price": 128,
+          "formattedPrice": "¥128.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755066012809,
