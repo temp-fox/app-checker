@@ -2,7 +2,7 @@ name: auto update
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 env:
@@ -10,7 +10,7 @@ env:
 
 concurrency:
   group: auto-update-main
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   generate:
