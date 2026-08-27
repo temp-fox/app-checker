@@ -2,6 +2,319 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 415811363,
+      "name": {
+        "cn": "iSqlWebProg Sql Server Client"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848600600,
+      "_discountType": "app"
+    },
+    {
+      "id": 593757593,
+      "name": {
+        "cn": "DraftCode for PHP IDE"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787848665106,
+      "_discountType": "app"
+    },
+    {
+      "id": 1116491508,
+      "name": {
+        "cn": "CNAPS速查-中国现代化支付系统编码大全"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848594918,
+      "_discountType": "app"
+    },
+    {
+      "id": 1249720659,
+      "name": {
+        "cn": "汇率转换 ²"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787848665106,
+      "_discountType": "iap"
+    },
+    {
+      "id": 1420695950,
+      "name": {
+        "cn": "香港公務員中文筆試"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848608745,
+      "_discountType": "app"
+    },
+    {
+      "id": 1543660502,
+      "name": {
+        "cn": "Clip Keyboard - Quick Phrases"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787848665106,
+      "_discountType": "iap"
+    },
+    {
+      "id": 1554793401,
+      "name": {
+        "cn": "Proto-Indo-European Dictionary"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848600494,
+      "_discountType": "app"
+    },
+    {
+      "id": 6504826091,
+      "name": {
+        "cn": "DDLTodo：截止时间待办"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848594918,
+      "_discountType": "app"
+    },
+    {
+      "id": 6777782598,
+      "name": {
+        "cn": "Smoke Spot Korea"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848597851,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797394418,
+      "name": {
+        "cn": "SJ-SQUARE - Synthesizer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848603292,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795800357,
+      "name": {
+        "cn": "MD-SQUARE - Pads & Keys. Play"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848603292,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797013343,
+      "name": {
+        "cn": "BingBang: Daily Companion"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848606039,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799489514,
+      "name": {
+        "cn": "生活小卫士 - 培养好习惯"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848606039,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781074011,
+      "name": {
+        "cn": "烘焙换算-模具配方助手2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848606039,
+      "_discountType": "app"
+    },
+    {
+      "id": 6778935950,
+      "name": {
+        "cn": "鱼缸换水记录管家2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848606039,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795977506,
+      "name": {
+        "cn": "截图记账-助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848608675,
+      "_discountType": "app"
+    },
+    {
+      "id": 6800169523,
+      "name": {
+        "cn": "猫师傅"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848608613,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790081414,
+      "name": {
+        "cn": "Watch 三分球"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848608613,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801342847,
+      "name": {
+        "cn": "日语冒险 N1至N5"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848608745,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796192082,
+      "name": {
+        "cn": "元素周期表大闯关"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848608745,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770307658,
+      "name": {
+        "cn": "Readlex: Read & Learn"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1787848611561,
+      "_discountType": "app"
+    },
+    {
+      "id": 6800413702,
+      "name": {
+        "cn": "PDF扫描仪 – 文件文档扫描 & 照片扫描"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787848665106,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763732795,
+      "name": {
+        "cn": "CaseKeep: Legal Case Organizer"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787848665106,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6795232196,
+      "name": {
+        "cn": "SpiritKit"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787848665106,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6741156650,
+      "name": {
+        "cn": "Legacy - Reawakening"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787848665106,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755656935,
+      "name": {
+        "cn": "UV Index Today – UV Forecast"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787848665106,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799470600,
+      "name": {
+        "cn": "X-Over"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787848665106,
+      "_discountType": "app"
+    },
+    {
+      "id": 6738856963,
+      "name": {
+        "cn": "会员卡助手"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1787848665106,
+      "_discountType": "app"
+    },
+    {
       "id": 1487657766,
       "name": {
         "cn": "DarkPDF"
