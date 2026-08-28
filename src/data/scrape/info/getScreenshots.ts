@@ -117,13 +117,35 @@ async function extractTokenFromBrowser(region: Region): Promise<string | null> {
     const winner2 = await Promise.race([race2, sleep(25_000).then(() => null)])
     return winner2 || null
   } finally {
-    try { page?.close() } catch (_) { /* */ }
-    try { context?.close() } catch (_) { /* */ }
+    if (page) {
+      try { await closeWithTimeout(page.close(), 5_000, 'token page') } catch (_) { /* */ }
+    }
+    if (context) {
+      try { await closeWithTimeout(context.close(), 5_000, 'token context') } catch (_) { /* */ }
+    }
   }
 }
 
 function sleep(ms: number) {
   return new Promise<void>((r) => setTimeout(r, ms))
+}
+
+async function closeWithTimeout(closePromise: Promise<unknown>, timeoutMs: number, label: string): Promise<boolean> {
+  let timeoutId: ReturnType<typeof setTimeout> | null = null
+
+  try {
+    return await Promise.race([
+      closePromise.then(() => true),
+      new Promise<boolean>((resolve) => {
+        timeoutId = setTimeout(() => {
+          console.warn(`${label} close 超过 ${timeoutMs / 1000}s，跳过等待`)
+          resolve(false)
+        }, timeoutMs)
+      }),
+    ])
+  } finally {
+    if (timeoutId) clearTimeout(timeoutId)
+  }
 }
 
 // ---- public API ------------------------------------------------------------
@@ -156,12 +178,25 @@ export async function initAmpApiToken(region: Region): Promise<boolean> {
   return false
 }
 
+const TOKEN_BROWSER_CLOSE_TIMEOUT_MS = 10_000
+
 /** Cleanup the shared token browser (call once at process exit). */
 export async function closeTokenBrowser(): Promise<void> {
-  if (tokenBrowser) {
-    await tokenBrowser.close()
-    tokenBrowser = null
+  if (!tokenBrowser) return
+
+  const browser = tokenBrowser
+  const browserProcess = typeof (browser as any).process === 'function'
+    ? (browser as any).process()
+    : null
+  tokenBrowser = null
+
+  console.log('closeTokenBrowser 开始')
+  const closed = await closeWithTimeout(browser.close(), TOKEN_BROWSER_CLOSE_TIMEOUT_MS, 'closeTokenBrowser')
+  if (!closed && browserProcess && !browserProcess.killed) {
+    console.warn('closeTokenBrowser 超时，强制结束浏览器进程')
+    browserProcess.kill()
   }
+  console.log('closeTokenBrowser 结束')
 }
 
 /** Return the token previously cached by initAmpApiToken or null. */
