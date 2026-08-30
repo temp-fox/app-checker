@@ -2,6 +2,560 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 387908906,
+      "name": {
+        "cn": "Dict А-Я"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207382,
+      "_discountType": "app"
+    },
+    {
+      "id": 403504866,
+      "name": {
+        "cn": "PCalc"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1788078261623,
+      "_discountType": "app"
+    },
+    {
+      "id": 537759662,
+      "name": {
+        "cn": "Tennis mit Musik"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078204809,
+      "_discountType": "app"
+    },
+    {
+      "id": 637421912,
+      "name": {
+        "cn": "Pacer 10K: run faster races"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078212987,
+      "_discountType": "app"
+    },
+    {
+      "id": 663353024,
+      "name": {
+        "cn": "Horse Side Vet Guide"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207382,
+      "_discountType": "app"
+    },
+    {
+      "id": 776159929,
+      "name": {
+        "cn": "Smart Recorder 灰色"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078202079,
+      "_discountType": "app"
+    },
+    {
+      "id": 806742262,
+      "name": {
+        "cn": "3pMaster: Tripmaster Roadbook"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078210271,
+      "_discountType": "app"
+    },
+    {
+      "id": 954979887,
+      "name": {
+        "cn": "Glazba – 音乐播放器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078210432,
+      "_discountType": "app"
+    },
+    {
+      "id": 993500630,
+      "name": {
+        "cn": "Raider"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788078261623,
+      "_discountType": "app"
+    },
+    {
+      "id": 1077692566,
+      "name": {
+        "cn": "Этимологический словарь русского языка"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207382,
+      "_discountType": "app"
+    },
+    {
+      "id": 1082803487,
+      "name": {
+        "cn": "All India Radios-AIR Stations"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078210432,
+      "_discountType": "app"
+    },
+    {
+      "id": 1110357799,
+      "name": {
+        "cn": "中考综合复习大全-历史|思品|地理|生物"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207382,
+      "_discountType": "app"
+    },
+    {
+      "id": 1112037883,
+      "name": {
+        "cn": "Academic Collocation List"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207382,
+      "_discountType": "app"
+    },
+    {
+      "id": 1160030374,
+      "name": {
+        "cn": "AAS Objeq"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078210432,
+      "_discountType": "app"
+    },
+    {
+      "id": 1174130735,
+      "name": {
+        "cn": "小学三年级测试题大全"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207382,
+      "_discountType": "app"
+    },
+    {
+      "id": 1195799711,
+      "name": {
+        "cn": "Gaelic etymology dictionary"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207382,
+      "_discountType": "app"
+    },
+    {
+      "id": 1403383820,
+      "name": {
+        "cn": "Motion Camera Pro - 延迟快门相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207450,
+      "_discountType": "app"
+    },
+    {
+      "id": 1433908873,
+      "name": {
+        "cn": "低音调谐器 BT1 专业版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078210432,
+      "_discountType": "app"
+    },
+    {
+      "id": 1458112224,
+      "name": {
+        "cn": "SWAM Baritone Sax"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078210432,
+      "_discountType": "app"
+    },
+    {
+      "id": 1558889177,
+      "name": {
+        "cn": "Friendship bracelet"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078212865,
+      "_discountType": "app"
+    },
+    {
+      "id": 1569372305,
+      "name": {
+        "cn": "Sinograms"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207382,
+      "_discountType": "app"
+    },
+    {
+      "id": 1624422460,
+      "name": {
+        "cn": "Nambu - AUv3 Plug-in Synth"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078210432,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780513700,
+      "name": {
+        "cn": "快递收发登记台账2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078202079,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801454766,
+      "name": {
+        "cn": "白马天气"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078201995,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794184799,
+      "name": {
+        "cn": "程轨-数控车床仿真G代码预览"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078201977,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796014949,
+      "name": {
+        "cn": "爱佛经"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207382,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804198865,
+      "name": {
+        "cn": "查配料-食品添加剂配料表查询"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207382,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804233207,
+      "name": {
+        "cn": "学纪"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207696,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770221363,
+      "name": {
+        "cn": "Simple WebScraper"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078207696,
+      "_discountType": "app"
+    },
+    {
+      "id": 6778012976,
+      "name": {
+        "cn": "NAM Live: Neural Amp Modeler"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078210432,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775461616,
+      "name": {
+        "cn": "NAM Loader Pedal: AUv3 Plugin"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078210432,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799184349,
+      "name": {
+        "cn": "脉搏节拍器：腕间BPM"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078210432,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760357303,
+      "name": {
+        "cn": "wristAmp"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078210432,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804885444,
+      "name": {
+        "cn": "好节奏"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078212865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780751303,
+      "name": {
+        "cn": "每日计划 - DayBlocks"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078212865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6777447199,
+      "name": {
+        "cn": "多久没，上次是什么时候"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078212865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755837942,
+      "name": {
+        "cn": "StrideOS"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078212987,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780600464,
+      "name": {
+        "cn": "KinetSoul"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078212987,
+      "_discountType": "app"
+    },
+    {
+      "id": 6800985700,
+      "name": {
+        "cn": "LidTrack 眼睑变化记录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078212987,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786559660,
+      "name": {
+        "cn": "用药管家吃药提醒服药打卡药品管理处方记录定时闹钟版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078212987,
+      "_discountType": "app"
+    },
+    {
+      "id": 6751114519,
+      "name": {
+        "cn": "BAFinancePrime"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078215789,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780521509,
+      "name": {
+        "cn": "SeeHue | 色觉辅助相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078218468,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799672617,
+      "name": {
+        "cn": "KL烘焙曲线"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788078221239,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768887563,
+      "name": {
+        "cn": "NEN: Focus Timer"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788078261623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6782797615,
+      "name": {
+        "cn": "Sequence:时间块日程计划清单"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788078261623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763451786,
+      "name": {
+        "cn": "ClaimReady - Home Inventory"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788078261623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6760548411,
+      "name": {
+        "cn": "美女相机-秒变焦点-美颜自拍滤镜修图-祛斑,抠图-照片修复"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788078261623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6765773542,
+      "name": {
+        "cn": "Podknow - Podcast & offline KI"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788078261623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6757565995,
+      "name": {
+        "cn": "Fantastic Coffee Guide"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788078261623,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786129971,
+      "name": {
+        "cn": "十二誓言"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788078261623,
+      "_discountType": "app"
+    },
+    {
       "id": 419281314,
       "name": {
         "cn": "ことわざ・辞典"
@@ -48664,7 +49218,8 @@
       "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSourceFirstSeen": 1779463246729,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6759260396,
@@ -55764,7 +56319,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1778380976403,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6758878604,
@@ -55776,7 +56332,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1778380976403,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6760121625,
@@ -58948,7 +59505,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1778034974065,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6745764436,
@@ -78140,8 +78698,8 @@
       "name": {
         "cn": "York U Maps"
       },
-      "addType": "external",
-      "addSource": "WarmDay",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "WarmDay",
       "_externalSourceFirstSeen": 1775787247247,
@@ -120500,7 +121058,8 @@
       },
       "addType": "auto",
       "_shouldBePaid": true,
-      "addSource": "paid-top"
+      "addSource": "paid-top",
+      "allowNotification": false
     },
     {
       "id": 6744344184,
