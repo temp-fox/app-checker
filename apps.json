@@ -2,6 +2,160 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1445780869,
+      "name": {
+        "cn": "GM MIDI Player"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117740985,
+      "_discountType": "app"
+    },
+    {
+      "id": 1501890011,
+      "name": {
+        "cn": "Pickleball Drills & Guide"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117735280,
+      "_discountType": "app"
+    },
+    {
+      "id": 1634378516,
+      "name": {
+        "cn": "Progressions"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117740985,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776548193,
+      "name": {
+        "cn": "拾页 - 书籍拍照OCR识别、笔记与打卡"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117732677,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767905481,
+      "name": {
+        "cn": "AI百宝箱-上千款AI聚合工具，分类、收藏、管理、发现与体验"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117732677,
+      "_discountType": "app"
+    },
+    {
+      "id": 6805396081,
+      "name": {
+        "cn": "班主任-老师工作台"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117738171,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776063985,
+      "name": {
+        "cn": "办公用品领用库存台账2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117738217,
+      "_discountType": "app"
+    },
+    {
+      "id": 6744010131,
+      "name": {
+        "cn": "百斗导航-新版地图导航系统"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117741031,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794137719,
+      "name": {
+        "cn": "Super 606 Drums - Drum Machine"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117740985,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795993372,
+      "name": {
+        "cn": "养花-家庭绿植养护花房排期生长日记提醒助手工具管理"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117743784,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779189046,
+      "name": {
+        "cn": "美缝用量计算器2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117743784,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781150742,
+      "name": {
+        "cn": "텍스트리더 - TTS Book"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117749293,
+      "_discountType": "app"
+    },
+    {
+      "id": 6742108277,
+      "name": {
+        "cn": "医药输入法-药品快速输入法"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117749233,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787823212,
+      "name": {
+        "cn": "PriceScout: Lowest Price"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788117754599,
+      "_discountType": "app"
+    },
+    {
       "id": 323121197,
       "name": {
         "cn": "Italian Dictionary + ©"
@@ -8682,7 +8836,8 @@
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1786424748462,
       "_discountType": "iap",
-      "_shouldBePaid": true
+      "_shouldBePaid": true,
+      "allowNotification": false
     },
     {
       "id": 6794994417,
