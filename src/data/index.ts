@@ -317,8 +317,27 @@ async function controller() {
     scrapeType,
   })
 
-  // 总是释放 token 浏览器，防止孤儿进程阻止 Node 退出
-  await closeTokenBrowser()
 }
 
-controller()
+async function main() {
+  let exitCode = 0
+
+  try {
+    await controller()
+  } catch (error) {
+    exitCode = 1
+    console.error(error)
+  } finally {
+    try {
+      await closeTokenBrowser()
+    } catch (error) {
+      exitCode = 1
+      console.error('closeTokenBrowser failed:', error)
+    }
+  }
+
+  await new Promise<void>((resolve) => setImmediate(resolve))
+  process.exit(exitCode)
+}
+
+main()
