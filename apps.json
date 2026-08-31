@@ -2,6 +2,143 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1038512289,
+      "name": {
+        "cn": "Route 66  Road Trip Guide"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788155022523,
+      "_discountType": "app"
+    },
+    {
+      "id": 1448959807,
+      "name": {
+        "cn": "IP4K: Phone作为IP摄像头"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788155019636,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761034480,
+      "name": {
+        "cn": "深智诊所管理系统"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788155019916,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782367018,
+      "name": {
+        "cn": "镜框 Lens"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788155025251,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762706053,
+      "name": {
+        "cn": "小随便 - 随机转盘"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788155030683,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786382061,
+      "name": {
+        "cn": "نظام الطيبات - دليلك الغذائي"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788155030751,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788680014,
+      "name": {
+        "cn": "专注抓羊 - 番茄钟、学习计时器与白噪音"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788155076456,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6776688349,
+      "name": {
+        "cn": "MiruMado 聚焦浏览器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788155076456,
+      "_discountType": "app"
+    },
+    {
+      "id": 6745620738,
+      "name": {
+        "cn": "页数管理 - 读书打卡与学习备考进度条"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788155076456,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760105465,
+      "name": {
+        "cn": "ZoneClock"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788155076456,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775748860,
+      "name": {
+        "cn": "Lunoris"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788155076456,
+      "_discountType": "app"
+    },
+    {
+      "id": 6764356974,
+      "name": {
+        "cn": "Calcula"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788155076456,
+      "_discountType": "app"
+    },
+    {
       "id": 1490166845,
       "name": {
         "cn": "Enhanced Music Controller"

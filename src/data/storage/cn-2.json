@@ -7492,13 +7492,25 @@
     "trackName": "羽毛笔 - 今日待办",
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "¥8.00"
+      "formattedPrice": "¥8.00",
+      "Pro 永久会员": "¥18.00"
     },
     "minPriceInfo": {
       "price": 8,
-      "formattedPrice": "¥8.00"
+      "formattedPrice": "¥8.00",
+      "Pro 永久会员": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788155076538,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "Pro 永久会员": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772396272587,
@@ -12796,6 +12808,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788155076538,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {
+            "Beyond Skies": "¥0.00",
+            "The Heavens": "¥0.00",
+            "Bokeh Illusions": "¥0.00",
+            "The Lights": "¥0.00",
+            "Obscure Textures": "¥0.00",
+            "Box of colors": "¥0.00",
+            "The Neutrals": "¥0.00",
+            "Painterly Grunge": "¥0.00",
+            "Vintage Collection": "¥0.00",
+            "Atmospheric Light": "¥0.00"
+          }
+        },
         {
           "timestamp": 1788130248495,
           "price": 148,
@@ -21162,6 +21191,43 @@
       "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/db/3e/76db3e3c-80a3-c8da-56bd-d8e9be858579/mzl.ycpywtak.jpg/576x768bb.jpg"
     ],
     "_externalSourceFirstSeen": 1777530372800
+  },
+  "1448959807": {
+    "name": "IP4K: Phone作为IP摄像头",
+    "trackName": "IP4K: Phone作为IP摄像头",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788155076538,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/ip4k-phone%E4%BD%9C%E4%B8%BAip%E6%91%84%E5%83%8F%E5%A4%B4/id1448959807?uo=4",
+    "description": "当您运行它时，您的设备iPhone或iPad将成为RTSP协议的IP Camera。 您可以在任何其他设备上通过Google Chrome在本地WIFI网络中以无线方式观看来自IP4K的视频。只需输入IP4K（左上角）的Chrome浏览器地址，例如rtsp：//192.168.0.101。 或者只是在连接到本地网络的任何计算机或移动设备上下载VLC播放器（我们建议使用VLC播放器，因为低延迟和许多功能）。 然后打开VLC播放器 - >打开网络... - >键入您的iPhone IP，显示在IP4K应用程序（左上角），如rtsp：//192.168.0.101（例如） - >按“打开”并观看。 您还可以使用Apple TV或Chromecast观看IP4K流。 您可以将不必要的旧iPhone用作IP Camera，因为iOS 9.1支持IP4K 警告！这个应用程序可以快速耗尽电池。 使用电源适配器或降低分辨率和FPS（每秒20帧的SD适用于单次充电的长工作时间）。 使用VLC播放器，您还可以同时记录来自许多IP4K的流！",
+    "fullDescription": "当您运行它时，您的设备iPhone或iPad将成为RTSP协议的IP Camera。 您可以在任何其他设备上通过Google Chrome在本地WIFI网络中以无线方式观看来自IP4K的视频。只需输入IP4K（左上角）的Chrome浏览器地址，例如rtsp：//192.168.0.101。 或者只是在连接到本地网络的任何计算机或移动设备上下载VLC播放器（我们建议使用VLC播放器，因为低延迟和许多功能）。 然后打开VLC播放器 - >打开网络... - >键入您的iPhone IP，显示在IP4K应用程序（左上角），如rtsp：//192.168.0.101（例如） - >按“打开”并观看。 您还可以使用Apple TV或Chromecast观看IP4K流。 您可以将不必要的旧iPhone用作IP Camera，因为iOS 9.1支持IP4K 警告！这个应用程序可以快速耗尽电池。 使用电源适配器或降低分辨率和FPS（每秒20帧的SD适用于单次充电的长工作时间）。 使用VLC播放器，您还可以同时记录来自许多IP4K的流！",
+    "summaryDescription": "当您运行它时，您的设备iPhone或iPad将成为RTSP协议的IP Camera。 您可以在任何其他设备上通过Google Chrome在本地WIFI网络中以无线方式观看来自IP4K的视频。只需输入IP4K（左上角）的Chrome浏览器地址，例如rtsp：//192.168.0.101。 或者只是在连接到本地网络的任何计算机或移动设备上下载VLC播放器（我们建议使用VLC播放器，因为低延迟和许多功能）。 然后打开VLC播放器 - >打开网络... - >键入您的iPhone IP，显示在IP4K应用程序（左上角），如rtsp：//192.168.0.101（例如） - >按“打开”并观看。 您还可以使用Apple TV或Chromecast观看IP4K流。 您可以将不必要的旧iPhone用作IP Camera，因为iOS 9.1支持IP4K 警告！这个应用程序可以快速耗尽电池。 使用电源适配器或降低分辨率和FPS（每秒20帧的SD适用于单次充电的长工作时间）。 使用VLC播放器，您还可以同时记录来自许多IP4K的流！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7e/46/12/7e4612db-a77c-5735-9292-d2f4a312e2e9/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7e/46/12/7e4612db-a77c-5735-9292-d2f4a312e2e9/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Anna Koynova",
+    "artistName": "Anna Koynova",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/6c/ed/7c6ced31-c881-5ebf-cb44-967e5be80c24/pr_source.png/406x228bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/26/cc/cf/26cccf62-722c-a25e-d7ac-97cd0b805751/pr_source.png/552x414bb.png"
+    ],
+    "_externalSourceFirstSeen": 1788155019636
   },
   "1448966121": {
     "name": "Pediatric Blood Pressure",
@@ -67946,9 +68012,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/subscriptions-manager/id1502159977?uo=4",
-    "description": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一处跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
-    "fullDescription": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一处跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
-    "summaryDescription": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一处跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
+    "description": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一个地方跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
+    "fullDescription": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一个地方跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
+    "summaryDescription": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一个地方跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/8a/ac/558aacfc-1be9-61c5-125d-4dfe9fc80b2e/MainLogo-0-0-1x_U007epad-0-10-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/8a/ac/558aacfc-1be9-61c5-125d-4dfe9fc80b2e/MainLogo-0-0-1x_U007epad-0-10-0-85-220.png/100x100bb.jpg",
     "sellerName": "Darius Buhai",
@@ -89634,6 +89700,21 @@
     "history": [
       [
         {
+          "timestamp": 1788155076538,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "200000 GP": "¥198.00",
+            "5000 GP": "¥15.00",
+            "Remove Ad": "¥22.00",
+            "25000 GP": "¥38.00",
+            "50000 GP": "¥68.00",
+            "120000 GP": "¥148.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787668995876,
           "price": 98,
           "formattedPrice": "¥98.00",
@@ -99888,8 +99969,8 @@
     "description": "化学探索将交互式元素周期表、2D/3D 分子、反应方程式配平和 27 项化学工具汇集在一款专注的应用中，适合学生、教师与每一位好奇的探索者。 精致的元素周期表 全部 118 种元素，配色清晰、布局简洁 轻点任意元素，查看性质、同位素、光谱与实际应用 按名称、符号或原子序数即时搜索 2D 与 3D 分子 输入任意有效 SMILES，由 RDKit 动态生成分子结构 按分子名称或化学式搜索精选目录 在设备本地计算分子量、logP、TPSA 等数据 在交互式 3D 中旋转并探索分子结构 离线分子数据库 免费搜索按来源活跃度排序的 500 种化合物 Chemistry Pro 解锁内置的全部 8,000 种化合物 在 iOS 26.4 或更高版本中，Pro 可通过 Apple 下载包含 467,735 种化合物的完整数据库 27 项化学工具 覆盖反应配平、摩尔质量、化学计量、pH/pOH、缓冲液、气体定律、动力学、平衡、溶液等任务 为专注而设计 化学计算与分子处理均在设备本地完成，无需账号 支持英语、法语、简体中文、日语、西班牙语、德语与葡萄牙语 针对 iPhone 与 iPad 优化 核心化学功能与参考表均可使用。Chemistry Pro 提供月付、年付或永久访问，解锁高级计算工具与实时 SMILES 生成。原付费版用户将继续保留 Legacy Pro 权益。 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "化学探索将交互式元素周期表、2D/3D 分子、反应方程式配平和 27 项化学工具汇集在一款专注的应用中，适合学生、教师与每一位好奇的探索者。 精致的元素周期表 全部 118 种元素，配色清晰、布局简洁 轻点任意元素，查看性质、同位素、光谱与实际应用 按名称、符号或原子序数即时搜索 2D 与 3D 分子 输入任意有效 SMILES，由 RDKit 动态生成分子结构 按分子名称或化学式搜索精选目录 在设备本地计算分子量、logP、TPSA 等数据 在交互式 3D 中旋转并探索分子结构 离线分子数据库 免费搜索按来源活跃度排序的 500 种化合物 Chemistry Pro 解锁内置的全部 8,000 种化合物 在 iOS 26.4 或更高版本中，Pro 可通过 Apple 下载包含 467,735 种化合物的完整数据库 27 项化学工具 覆盖反应配平、摩尔质量、化学计量、pH/pOH、缓冲液、气体定律、动力学、平衡、溶液等任务 为专注而设计 化学计算与分子处理均在设备本地完成，无需账号 支持英语、法语、简体中文、日语、西班牙语、德语与葡萄牙语 针对 iPhone 与 iPad 优化 核心化学功能与参考表均可使用。Chemistry Pro 提供月付、年付或永久访问，解锁高级计算工具与实时 SMILES 生成。原付费版用户将继续保留 Legacy Pro 权益。 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "化学探索将交互式元素周期表、2D/3D 分子、反应方程式配平和 27 项化学工具汇集在一款专注的应用中，适合学生、教师与每一位好奇的探索者。 精致的元素周期表 全部 118 种元素，配色清晰、布局简洁 轻点任意元素，查看性质、同位素、光谱与实际应用 按名称、符号或原子序数即时搜索 2D 与 3D 分子 输入任意有效 SMILES，由 RDKit 动态生成分子结构 按分子名称或化学式搜索精选目录 在设备本地计算分子量、logP、TPSA 等数据 在交互式 3D 中旋转并探索分子结构 离线分子数据库 免费搜索按来源活跃度排序的 500 种化合物 Chemistry Pro 解锁内置的全部 8,000 种化合物 在 iOS 26.4 或更高版本中，Pro 可通过 Apple 下载包含 467,735 种化合物的完整数据库 27 项化学工具 覆盖反应配平、摩尔质量、化学计量、pH/pOH、缓冲液、气体定律、动力学、平衡、溶液等任务 为专注而设计 化学计算与分子处理均在设备本地完成，无需账号 支持英语、法语、简体中文、日语、西班牙语、德语与葡萄牙语 针对 iPhone 与 iPad 优化 核心化学功能与参考表均可使用。Chemistry Pro 提供月付、年付或永久访问，解锁高级计算工具与实时 SMILES 生成。原付费版用户将继续保留 Legacy Pro 权益。 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/b2/79/c2b27948-1689-1303-7bdd-6de40790eacf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/b2/79/c2b27948-1689-1303-7bdd-6de40790eacf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/88/d1/9488d120-dedd-eb63-e6ee-7e15316ac639/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/88/d1/9488d120-dedd-eb63-e6ee-7e15316ac639/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "吉帅 仇",
     "artistName": "吉帅 仇",
     "screenshotUrls": [
@@ -144112,8 +144193,8 @@
     "description": "航母对决：苦尽甘来（Carrier Battles for Guadalcanal) 这是一款海军兵棋策略游戏，涵盖42至43年间中、南太平洋上一系列航母对决。 重现太平洋海战中美日双方舰队战略，侦察并打击敌方目标，保护己方战略要地并支援己方两栖攻势。 了解更多： 强大的AI保证单人战役也能让您感到酣畅淋漓 通过邮件实现多人对战 11个历史战役：41年12月威克岛保卫战、42年初美军的初次反击、42年3月珊瑚海海战、42年6月中途岛海战、42年8月瞭望塔行动和东所罗门海战、42年10月圣克鲁斯海战、42年12月瓜达尔卡纳尔海战，43年2月瓜达卡纳尔海战、43年3月俾斯麦海海战及43年攻击拉包尔。 巨大的南太平洋地图（每个网格代表30英里） 超过80种各型战机和舰船 颇为真实的情报获取机制，航空侦察、雷达等应有尽有 对敌方目标发动空袭，或让舰炮发出钢铁的制裁 颇为真实的损伤判定 炮击岸上目标以及派遣部队登陆 回合制 附带循序渐进的规则指导帮助玩家上手 目前有英语、法语、中文、西班牙语和日语版本 单人战役时无需连接网络 单次战役耗时约1至3小时 Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy policy: http://cbfg.xooit.org/t536-Data-Privacy.htm#p3416",
     "fullDescription": "航母对决：苦尽甘来（Carrier Battles for Guadalcanal) 这是一款海军兵棋策略游戏，涵盖42至43年间中、南太平洋上一系列航母对决。 重现太平洋海战中美日双方舰队战略，侦察并打击敌方目标，保护己方战略要地并支援己方两栖攻势。 了解更多： 强大的AI保证单人战役也能让您感到酣畅淋漓 通过邮件实现多人对战 11个历史战役：41年12月威克岛保卫战、42年初美军的初次反击、42年3月珊瑚海海战、42年6月中途岛海战、42年8月瞭望塔行动和东所罗门海战、42年10月圣克鲁斯海战、42年12月瓜达尔卡纳尔海战，43年2月瓜达卡纳尔海战、43年3月俾斯麦海海战及43年攻击拉包尔。 巨大的南太平洋地图（每个网格代表30英里） 超过80种各型战机和舰船 颇为真实的情报获取机制，航空侦察、雷达等应有尽有 对敌方目标发动空袭，或让舰炮发出钢铁的制裁 颇为真实的损伤判定 炮击岸上目标以及派遣部队登陆 回合制 附带循序渐进的规则指导帮助玩家上手 目前有英语、法语、中文、西班牙语和日语版本 单人战役时无需连接网络 单次战役耗时约1至3小时 Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy policy: http://cbfg.xooit.org/t536-Data-Privacy.htm#p3416",
     "summaryDescription": "航母对决：苦尽甘来（Carrier Battles for Guadalcanal) 这是一款海军兵棋策略游戏，涵盖42至43年间中、南太平洋上一系列航母对决。 重现太平洋海战中美日双方舰队战略，侦察并打击敌方目标，保护己方战略要地并支援己方两栖攻势。 了解更多： 强大的AI保证单人战役也能让您感到酣畅淋漓 通过邮件实现多人对战 11个历史战役：41年12月威克岛保卫战、42年初美军的初次反击、42年3月珊瑚海海战、42年6月中途岛海战、42年8月瞭望塔行动和东所罗门海战、42年10月圣克鲁斯海战、42年12月瓜达尔卡纳尔海战，43年2月瓜达卡纳尔海战、43年3月俾斯麦海海战及43年攻击拉包尔。 巨大的南太平洋地图（每个网格代表30英里） 超过80种各型战机和舰船 颇为真实的情报获取机制，航空侦察、雷达等应有尽有 对敌方目标发动空袭，或让舰炮发出钢铁的制裁 颇为真实的损伤判定 炮击岸上目标以及派遣部队登陆 回合制 附带循序渐进的规则指导帮助玩家上手 目前有英语、法语、中文、西班牙语和日语版本 单人战役时无需连接网络 单次战役耗时约1至3小时 Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy policy: http://cbfg.xooit.org/t536-Data-Privacy.htm#p3416",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/54/ca/d554ca7f-6f4d-7fb7-e6b2-7bb34d056768/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/54/ca/d554ca7f-6f4d-7fb7-e6b2-7bb34d056768/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/49/c6/af49c6d5-104b-858e-6adb-d821dea86bf3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/49/c6/af49c6d5-104b-858e-6adb-d821dea86bf3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "cyril jarnot",
     "artistName": "Cyril Jarnot",
     "screenshotUrls": [
@@ -198071,6 +198152,25 @@
       "DLC：魔法之镜": "¥2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788155076538,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥8.00",
+            "DLC：怪物联盟": "¥12.00",
+            "DLC：龙之神庙": "¥7.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：异界": "¥8.00",
+            "DLC：邪恶之心": "¥12.00",
+            "奇境森林": "¥15.00",
+            "DLC：孤山世界": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787848665178,

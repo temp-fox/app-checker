@@ -18193,13 +18193,28 @@
     "trackName": "Tour Tempo",
     "maxPriceInfo": {
       "price": 168,
-      "formattedPrice": "¥168.00"
+      "formattedPrice": "¥168.00",
+      "Yearly Subscription": "¥168.00",
+      "Lifetime Subscription": "¥328.00"
     },
     "minPriceInfo": {
       "price": 168,
-      "formattedPrice": "¥168.00"
+      "formattedPrice": "¥168.00",
+      "Yearly Subscription": "¥168.00",
+      "Lifetime Subscription": "¥328.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788155076538,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "Yearly Subscription": "¥168.00",
+            "Lifetime Subscription": "¥328.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768688804391,
@@ -25922,6 +25937,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788155076538,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "卫星的三维模型": "¥0.00",
+            "比较行星的大小": "¥0.00",
+            "地球周期": "¥0.00",
+            "电影关于日食": "¥0.00",
+            "All Additional Content - Sale": "¥22.00",
+            "电影关于月相": "¥0.00",
+            "卡西尼－惠更斯號 (Cassini–Huygens)": "¥0.00",
+            "电影关于纬线": "¥0.00",
+            "电影关于 黄道星座": "¥0.00",
+            "Movies Bundle": "¥0.00"
+          }
+        },
         {
           "timestamp": 1788130248495,
           "price": 38,
@@ -91821,6 +91853,25 @@
     "history": [
       [
         {
+          "timestamp": 1788155076538,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "8-Bit Sound Pack": "¥15.00",
+            "Bonus Sound Pack": "¥0.00",
+            "Sci-Fi Sound Pack": "¥22.00",
+            "Gulkave": "¥0.00",
+            "Night Owl Classic": "¥0.00",
+            "Pocket Monk": "¥0.00",
+            "The Heist Classic": "¥0.00",
+            "Cormorant Garamond": "¥0.00",
+            "Ultraviolet Classic": "¥0.00",
+            "Pretty Princess Classic": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788078261721,
           "price": 0,
           "formattedPrice": "免费",
@@ -126526,9 +126577,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/draftcode-for-php-ide/id593757593?uo=4",
-    "description": "在您的 iPad 或 iPhone（或 Apple Silicon Mac）上本地开发和运行 PHP、JavaScript、HTML、CSS，无需互联网连接。直接在您的设备上运行像 WordPress 或 phpMyAdmin 这样复杂的应用程序。在设备上自由选择工作区位置，可以在 DraftCode 内，也可以在 Git 客户端（例如 WorkCopy）的文件夹中、iCloud 或提供可选文件夹位置的其他服务中。在分屏模式下，从 iPad 上的其他应用程序访问您的 PHP Web 应用程序，例如 Mobile Safari 或 Brave。 DraftCode 包含标准 PHP 堆栈，其中包括典型的 PHP 扩展",
-    "fullDescription": "在您的 iPad 或 iPhone（或 Apple Silicon Mac）上本地开发和运行 PHP、JavaScript、HTML、CSS，无需互联网连接。直接在您的设备上运行像 WordPress 或 phpMyAdmin 这样复杂的应用程序。在设备上自由选择工作区位置，可以在 DraftCode 内，也可以在 Git 客户端（例如 WorkCopy）的文件夹中、iCloud 或提供可选文件夹位置的其他服务中。在分屏模式下，从 iPad 上的其他应用程序访问您的 PHP Web 应用程序，例如 Mobile Safari 或 Brave。 DraftCode 包含标准 PHP 堆栈，其中包括典型的 PHP 扩展",
-    "summaryDescription": "在您的 iPad 或 iPhone（或 Apple Silicon Mac）上本地开发和运行 PHP、JavaScript、HTML、CSS，无需互联网连接。直接在您的设备上运行像 WordPress 或 phpMyAdmin 这样复杂的应用程序。在设备上自由选择工作区位置，可以在 DraftCode 内，也可以在 Git 客户端（例如 WorkCopy）的文件夹中、iCloud 或提供可选文件夹位置的其他服务中。在分屏模式下，从 iPad 上的其他应用程序访问您的 PHP Web 应用程序，例如 Mobile Safari 或 Brave。 DraftCode 包含标准 PHP 堆栈，其中包括典型的 PHP 扩展",
+    "description": "在您的 iPad 或 iPhone（或 Apple Silicon Mac）上本地开发和运行 PHP、JavaScript、HTML、CSS，无需互联网连接。直接在您的设备上运行像 WordPress 或 phpMyAdmin 这样复杂的应用程序。在设备上自由选择工作区位置，可以在 DraftCode 内，也可以在 Git 客户端（如workingCopy）的文件夹中、iCloud 或提供可选文件夹位置的其他服务中。在分屏模式下，从 iPad 上的其他应用程序访问您的 PHP Web 应用程序，例如 Mobile Safari 或 Brave。 DraftCode 包含标准 PHP 堆栈，其中包括典型的 PHP 扩展",
+    "fullDescription": "在您的 iPad 或 iPhone（或 Apple Silicon Mac）上本地开发和运行 PHP、JavaScript、HTML、CSS，无需互联网连接。直接在您的设备上运行像 WordPress 或 phpMyAdmin 这样复杂的应用程序。在设备上自由选择工作区位置，可以在 DraftCode 内，也可以在 Git 客户端（如workingCopy）的文件夹中、iCloud 或提供可选文件夹位置的其他服务中。在分屏模式下，从 iPad 上的其他应用程序访问您的 PHP Web 应用程序，例如 Mobile Safari 或 Brave。 DraftCode 包含标准 PHP 堆栈，其中包括典型的 PHP 扩展",
+    "summaryDescription": "在您的 iPad 或 iPhone（或 Apple Silicon Mac）上本地开发和运行 PHP、JavaScript、HTML、CSS，无需互联网连接。直接在您的设备上运行像 WordPress 或 phpMyAdmin 这样复杂的应用程序。在设备上自由选择工作区位置，可以在 DraftCode 内，也可以在 Git 客户端（如workingCopy）的文件夹中、iCloud 或提供可选文件夹位置的其他服务中。在分屏模式下，从 iPad 上的其他应用程序访问您的 PHP Web 应用程序，例如 Mobile Safari 或 Brave。 DraftCode 包含标准 PHP 堆栈，其中包括典型的 PHP 扩展",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/64/89/46648990-0679-8af9-f367-9cec314d213c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/64/89/46648990-0679-8af9-f367-9cec314d213c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Solesignal Limited",
@@ -146946,8 +146997,8 @@
     "description": "SmallFish is a project based on the Stockfish chess engine. It uses the latest Stockfish chess engine (Stockfish 18.0), rated about Elo 3600+ and is the strongest chess app on the App Store. SmallFish offers you three distinct ways to improve your game. You can review your game with comments, or study how Stockfish thinks, or track your progress. No in-app purchase, no ads, no data tracking. SmallFish is simply amazing. It's small but powerful, you'll be surprised. Features Blunder checking Multiple line analysis Graphical evaluation of your game Game previews Dark mode support Endgame tablebase Opening books Why not just download and try it yourself?",
     "fullDescription": "SmallFish is a project based on the Stockfish chess engine. It uses the latest Stockfish chess engine (Stockfish 18.0), rated about Elo 3600+ and is the strongest chess app on the App Store. SmallFish offers you three distinct ways to improve your game. You can review your game with comments, or study how Stockfish thinks, or track your progress. No in-app purchase, no ads, no data tracking. SmallFish is simply amazing. It's small but powerful, you'll be surprised. Features Blunder checking Multiple line analysis Graphical evaluation of your game Game previews Dark mode support Endgame tablebase Opening books Why not just download and try it yourself?",
     "summaryDescription": "SmallFish is a project based on the Stockfish chess engine. It uses the latest Stockfish chess engine (Stockfish 18.0), rated about Elo 3600+ and is the strongest chess app on the App Store. SmallFish offers you three distinct ways to improve your game. You can review your game with comments, or study how Stockfish thinks, or track your progress. No in-app purchase, no ads, no data tracking. SmallFish is simply amazing. It's small but powerful, you'll be surprised. Features Blunder checking Multiple line analysis Graphical evaluation of your game Game previews Dark mode support Endgame tablebase Opening books Why not just download and try it yourself?",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/33/37/90333711-8f9a-ac68-2327-64d0f42f9add/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/33/37/90333711-8f9a-ac68-2327-64d0f42f9add/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/26/69/0a2669c1-4805-39f8-e57f-78a934bdb045/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/26/69/0a2669c1-4805-39f8-e57f-78a934bdb045/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
     "sellerName": "Ted Wong",
     "artistName": "Ted Wong",
     "screenshotUrls": [
@@ -154091,11 +154142,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/light-meter-wheel/id720707253?uo=4",
-    "description": "Light Meter Wheel brings a unique way to measure light — fast, visual and precise. Instead of switching modes, everything is visible at once. Aperture, shutter speed and ISO are seamlessly connected through a real exposure wheel, giving you full control in at a glance. Designed for photographers who value clarity, speed and accuracy. Features Real exposure wheel with all values in one view Real-time metering with instant EV readings Wide ISO range: 0.8 – 6400 Shutter speeds from 1/8000s to 4 hours Apertures from f/0.7 to f/1024 Exposure timer (perfect for long exposures & pinhole) HOLD function to lock readings Incident metering using the front camera Custom backgrounds and light/dark modes Calibration for maximum accuracy Built by a photographer, for photographers.",
-    "fullDescription": "Light Meter Wheel brings a unique way to measure light — fast, visual and precise. Instead of switching modes, everything is visible at once. Aperture, shutter speed and ISO are seamlessly connected through a real exposure wheel, giving you full control in at a glance. Designed for photographers who value clarity, speed and accuracy. Features Real exposure wheel with all values in one view Real-time metering with instant EV readings Wide ISO range: 0.8 – 6400 Shutter speeds from 1/8000s to 4 hours Apertures from f/0.7 to f/1024 Exposure timer (perfect for long exposures & pinhole) HOLD function to lock readings Incident metering using the front camera Custom backgrounds and light/dark modes Calibration for maximum accuracy Built by a photographer, for photographers.",
-    "summaryDescription": "Light Meter Wheel brings a unique way to measure light — fast, visual and precise. Instead of switching modes, everything is visible at once. Aperture, shutter speed and ISO are seamlessly connected through a real exposure wheel, giving you full control in at a glance. Designed for photographers who value clarity, speed and accuracy. Features Real exposure wheel with all values in one view Real-time metering with instant EV readings Wide ISO range: 0.8 – 6400 Shutter speeds from 1/8000s to 4 hours Apertures from f/0.7 to f/1024 Exposure timer (perfect for long exposures & pinhole) HOLD function to lock readings Incident metering using the front camera Custom backgrounds and light/dark modes Calibration for maximum accuracy Built by a photographer, for photographers.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/30/26/2e3026f2-c64a-98b3-6f85-e95180ccf126/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/30/26/2e3026f2-c64a-98b3-6f85-e95180ccf126/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "description": "Light Meter Wheel brings a unique way to measure light — fast, visual and precise. Instead of switching modes, everything is visible at once. Aperture, shutter speed and ISO are seamlessly connected through a real exposure wheel, giving you full control at a glance. Designed for photographers who value clarity, speed and accuracy. Also especially useful for pinhole photography, where its wide aperture range and long exposure timer make setting exposures straightforward. Features Real exposure wheel with all values in one view Real-time metering with instant EV readings Wide ISO range: 0.8 – 6400 Shutter speeds from 1/8000s to 4 hours Apertures from f/0.7 to f/1024 Exposure timer (perfect for long exposures & pinhole) HOLD function to lock readings Incident metering using the front camera Custom backgrounds and light/dark modes Calibration for maximum accuracy Built by a photographer, for photographers.",
+    "fullDescription": "Light Meter Wheel brings a unique way to measure light — fast, visual and precise. Instead of switching modes, everything is visible at once. Aperture, shutter speed and ISO are seamlessly connected through a real exposure wheel, giving you full control at a glance. Designed for photographers who value clarity, speed and accuracy. Also especially useful for pinhole photography, where its wide aperture range and long exposure timer make setting exposures straightforward. Features Real exposure wheel with all values in one view Real-time metering with instant EV readings Wide ISO range: 0.8 – 6400 Shutter speeds from 1/8000s to 4 hours Apertures from f/0.7 to f/1024 Exposure timer (perfect for long exposures & pinhole) HOLD function to lock readings Incident metering using the front camera Custom backgrounds and light/dark modes Calibration for maximum accuracy Built by a photographer, for photographers.",
+    "summaryDescription": "Light Meter Wheel brings a unique way to measure light — fast, visual and precise. Instead of switching modes, everything is visible at once. Aperture, shutter speed and ISO are seamlessly connected through a real exposure wheel, giving you full control at a glance. Designed for photographers who value clarity, speed and accuracy. Also especially useful for pinhole photography, where its wide aperture range and long exposure timer make setting exposures straightforward. Features Real exposure wheel with all values in one view Real-time metering with instant EV readings Wide ISO range: 0.8 – 6400 Shutter speeds from 1/8000s to 4 hours Apertures from f/0.7 to f/1024 Exposure timer (perfect for long exposures & pinhole) HOLD function to lock readings Incident metering using the front camera Custom backgrounds and light/dark modes Calibration for maximum accuracy Built by a photographer, for photographers.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/bc/54/7abc5445-25c2-d082-981d-f5073fb257a3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/bc/54/7abc5445-25c2-d082-981d-f5073fb257a3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "David Quiles",
     "artistName": "David Quiles",
     "screenshotUrls": [
@@ -172532,18 +172583,18 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/visual-vertical-lite/id842449570?uo=4",
-    "description": "The Easy, Accurate and Low-Cost way to measure subjective visual vertical in your patients If you are practising neurology or vestibular rehabilitation you should be testing subjective visual vertical in your patients. It has been shown to be a sensitive and reliable test for brainstem lesions and is one of the few tests available for otolithic function. However, up until now testing subjective visual vertical required costly and bulky equipment and totally dark rooms. The Visual Vertical application for iphone and ipad changes all that. With just your iphone, some bluetack and a bucket (yes really, a bucket!) you can take accurate readings in just a few minutes, for a tiny fraction of the normal cost. The Lite version of the app includes the ability to do single, one off readings of each eye. For the ability to do sequenced averaged testing of the eyes choose the full version.",
-    "fullDescription": "The Easy, Accurate and Low-Cost way to measure subjective visual vertical in your patients If you are practising neurology or vestibular rehabilitation you should be testing subjective visual vertical in your patients. It has been shown to be a sensitive and reliable test for brainstem lesions and is one of the few tests available for otolithic function. However, up until now testing subjective visual vertical required costly and bulky equipment and totally dark rooms. The Visual Vertical application for iphone and ipad changes all that. With just your iphone, some bluetack and a bucket (yes really, a bucket!) you can take accurate readings in just a few minutes, for a tiny fraction of the normal cost. The Lite version of the app includes the ability to do single, one off readings of each eye. For the ability to do sequenced averaged testing of the eyes choose the full version.",
-    "summaryDescription": "The Easy, Accurate and Low-Cost way to measure subjective visual vertical in your patients If you are practising neurology or vestibular rehabilitation you should be testing subjective visual vertical in your patients. It has been shown to be a sensitive and reliable test for brainstem lesions and is one of the few tests available for otolithic function. However, up until now testing subjective visual vertical required costly and bulky equipment and totally dark rooms. The Visual Vertical application for iphone and ipad changes all that. With just your iphone, some bluetack and a bucket (yes really, a bucket!) you can take accurate readings in just a few minutes, for a tiny fraction of the normal cost. The Lite version of the app includes the ability to do single, one off readings of each eye. For the ability to do sequenced averaged testing of the eyes choose the full version.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e3/5a/c2/e35ac251-e03a-9288-ed50-c55b14c5df07/AppIcon-0-1x_U007emarketing-0-85-220-5.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e3/5a/c2/e35ac251-e03a-9288-ed50-c55b14c5df07/AppIcon-0-1x_U007emarketing-0-85-220-5.png/100x100bb.jpg",
+    "description": "Visual Vertical Lite makes subjective visual vertical (SVV) testing simple and accessible using equipment you already have. Traditional SVV testing can require specialised equipment and a controlled visual environment. Visual Vertical Lite provides a practical alternative using your iPhone, a bucket and a small piece of Blu Tack. HOW IT WORKS Mount your iPhone inside the bottom of a bucket using Blu Tack. The person being tested holds the bucket to their face and adjusts the line on screen until it appears vertical. Visual Vertical Lite measures the resulting deviation from true vertical and displays the result in degrees. TEST THE WAY YOU NEED Choose from: Left eye Right eye Both eyes open Visual Vertical Lite is designed for quick, individual measurements, making it ideal when you simply need to perform a one-off SVV test. SIMPLE RESULTS Results are presented immediately in a clean, easy-to-read format, including the measured deviation and direction. BUILT-IN GUIDANCE Not familiar with the bucket method? The included guide walks you through equipment setup, positioning, testing and interpretation of the results. LITE OR FULL? Visual Vertical Lite includes the core functionality required to perform individual SVV tests. For sequential testing, multiple readings and automatic averaging across test conditions, choose the full Visual Vertical app. UPDATED FOR MODERN iOS Visual Vertical Lite has been comprehensively updated with a redesigned interface, clearer navigation and support for current versions of iOS.",
+    "fullDescription": "Visual Vertical Lite makes subjective visual vertical (SVV) testing simple and accessible using equipment you already have. Traditional SVV testing can require specialised equipment and a controlled visual environment. Visual Vertical Lite provides a practical alternative using your iPhone, a bucket and a small piece of Blu Tack. HOW IT WORKS Mount your iPhone inside the bottom of a bucket using Blu Tack. The person being tested holds the bucket to their face and adjusts the line on screen until it appears vertical. Visual Vertical Lite measures the resulting deviation from true vertical and displays the result in degrees. TEST THE WAY YOU NEED Choose from: Left eye Right eye Both eyes open Visual Vertical Lite is designed for quick, individual measurements, making it ideal when you simply need to perform a one-off SVV test. SIMPLE RESULTS Results are presented immediately in a clean, easy-to-read format, including the measured deviation and direction. BUILT-IN GUIDANCE Not familiar with the bucket method? The included guide walks you through equipment setup, positioning, testing and interpretation of the results. LITE OR FULL? Visual Vertical Lite includes the core functionality required to perform individual SVV tests. For sequential testing, multiple readings and automatic averaging across test conditions, choose the full Visual Vertical app. UPDATED FOR MODERN iOS Visual Vertical Lite has been comprehensively updated with a redesigned interface, clearer navigation and support for current versions of iOS.",
+    "summaryDescription": "Visual Vertical Lite makes subjective visual vertical (SVV) testing simple and accessible using equipment you already have. Traditional SVV testing can require specialised equipment and a controlled visual environment. Visual Vertical Lite provides a practical alternative using your iPhone, a bucket and a small piece of Blu Tack. HOW IT WORKS Mount your iPhone inside the bottom of a bucket using Blu Tack. The person being tested holds the bucket to their face and adjusts the line on screen until it appears vertical. Visual Vertical Lite measures the resulting deviation from true vertical and displays the result in degrees. TEST THE WAY YOU NEED Choose from: Left eye Right eye Both eyes open Visual Vertical Lite is designed for quick, individual measurements, making it ideal when you simply need to perform a one-off SVV test. SIMPLE RESULTS Results are presented immediately in a clean, easy-to-read format, including the measured deviation and direction. BUILT-IN GUIDANCE Not familiar with the bucket method? The included guide walks you through equipment setup, positioning, testing and interpretation of the results. LITE OR FULL? Visual Vertical Lite includes the core functionality required to perform individual SVV tests. For sequential testing, multiple readings and automatic averaging across test conditions, choose the full Visual Vertical app. UPDATED FOR MODERN iOS Visual Vertical Lite has been comprehensively updated with a redesigned interface, clearer navigation and support for current versions of iOS.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/82/97/e48297ec-d41b-8d17-e127-d06943512cd6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/82/97/e48297ec-d41b-8d17-e127-d06943512cd6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "CHM Solutions Pty Ltd",
     "artistName": "Clear Health Media",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/01/d1/2e/01d12e4c-2480-16d9-9a1c-bbe0d2c6aeb4/mzl.hvumnwnw.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/be/ce/07/bece072b-cb02-2c80-0c42-1f39bc351187/mzl.gnwwnzaf.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/16/4e/2f164e8c-16b8-8331-5071-c773eb3a1453/mzl.goeffwyl.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ac/ac/f7/acacf74d-18f3-1ab9-fc8f-4c7b460b31d5/mzl.ddvimmhh.png/392x696bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/77/8a/7c778a1b-d93f-8da1-816c-56e9633bced9/mzl.hvumnwnw.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/8d/92/188d928e-3d4d-1904-2f79-aa572e350d6e/mzl.gnwwnzaf.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/71/26/0a71262b-00ff-6334-d95a-2d10384256aa/mzl.goeffwyl.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/d0/79/4cd07989-18a6-5f4e-b87a-d62de9a2ae01/mzl.ddvimmhh.png/392x696bb.png"
     ],
     "_externalSourceFirstSeen": 1784754394925
   },
@@ -179482,9 +179533,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/copy-em-ultimate-clipboard/id876540291?mt=12&uo=4",
-    "description": "使用 Copy 'Em 增强您的复制和粘贴功能！自动捕获您复制的所有内容（文本、图像、链接、文件）并立即访问、组织和粘贴。随处捕捉 自动保存您复制的所有内容并轻松排除不需要的内容。一步将研究笔记、网络链接和其他内容直接剪辑到您的列表中。任何规模都极快即使有 100,000 多个剪辑，也能实现闪电般的快速性能。用于处理大量历史记录和无限列表的值得信赖的解决方案。即时粘贴和检索 热键粘贴您最近或选定的剪辑——无需窗口。跳进去",
-    "fullDescription": "使用 Copy 'Em 增强您的复制和粘贴功能！自动捕获您复制的所有内容（文本、图像、链接、文件）并立即访问、组织和粘贴。随处捕捉 自动保存您复制的所有内容并轻松排除不需要的内容。一步将研究笔记、网络链接和其他内容直接剪辑到您的列表中。任何规模都极快即使有 100,000 多个剪辑，也能实现闪电般的快速性能。用于处理大量历史记录和无限列表的值得信赖的解决方案。即时粘贴和检索 热键粘贴您最近或选定的剪辑——无需窗口。跳进去",
-    "summaryDescription": "使用 Copy 'Em 增强您的复制和粘贴功能！自动捕获您复制的所有内容（文本、图像、链接、文件）并立即访问、组织和粘贴。随处捕捉 自动保存您复制的所有内容并轻松排除不需要的内容。一步将研究笔记、网络链接和其他内容直接剪辑到您的列表中。任何规模都极快即使有 100,000 多个剪辑，也能实现闪电般的快速性能。用于处理大量历史记录和无限列表的值得信赖的解决方案。即时粘贴和检索 热键粘贴您最近或选定的剪辑——无需窗口。跳进去",
+    "description": "使用Copy 'Em加速您的复制并粘贴！自动捕获您复制的所有内容（文本、图像、链接、文件） ，并即时访问、整理和粘贴这些内容。随时随地捕获自动保存您复制的所有内容，并轻松排除您不需要的内容。只需一步即可将研究笔记、网页链接和其他内容直接剪辑到您的列表中。任何规模的闪电般快速闪电般快速的性能，即使有超过100,000个剪辑。一个值得信赖的解决方案，用于处理海量历史记录和无限列表。",
+    "fullDescription": "使用Copy 'Em加速您的复制并粘贴！自动捕获您复制的所有内容（文本、图像、链接、文件） ，并即时访问、整理和粘贴这些内容。随时随地捕获自动保存您复制的所有内容，并轻松排除您不需要的内容。只需一步即可将研究笔记、网页链接和其他内容直接剪辑到您的列表中。任何规模的闪电般快速闪电般快速的性能，即使有超过100,000个剪辑。一个值得信赖的解决方案，用于处理海量历史记录和无限列表。",
+    "summaryDescription": "使用Copy 'Em加速您的复制并粘贴！自动捕获您复制的所有内容（文本、图像、链接、文件） ，并即时访问、整理和粘贴这些内容。随时随地捕获自动保存您复制的所有内容，并轻松排除您不需要的内容。只需一步即可将研究笔记、网页链接和其他内容直接剪辑到您的列表中。任何规模的闪电般快速闪电般快速的性能，即使有超过100,000个剪辑。一个值得信赖的解决方案，用于处理海量历史记录和无限列表。",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/31/08/303108aa-14b2-2953-8f50-70ce0932f1e1/AppIcon-0-0-85-220-0-0-6-0-2x.png/60x60bb.png",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/31/08/303108aa-14b2-2953-8f50-70ce0932f1e1/AppIcon-0-0-85-220-0-0-6-0-2x.png/100x100bb.png",
     "sellerName": "Hoi Chang",
@@ -180668,8 +180719,8 @@
     "summaryDescription": "The Jacobson Flare Version 2.0 Since 1987, the unique application of The Jacobson Flare has eliminated the imprecise aspects of landing an airplane, otherwise unchanged since the end of World War 1 in 1918. Everything else in aviation has advanced, but NOT landing training. Historically, the manual landing manoeuvre has remained indeterminate. Conventional flare techniques have involved an inconsistent, critical estimation of height above the landing surface and are subject to a number of variable factors, summarised as aircraft, pilot and environmental. The Jacobson Flare is the first and only quantifiable, universal and consistent landing technique in the history of aviation. To land an airplane consistently well, a pilot should be able to explain the following five questions: 1. Where to aim? 2. How to aim? 3. When to flare? 4. How much to flare? 5. How fast to flare (flare rate)? The Jacobson Flare App for the iPad, originally featured in June 2014 on the Australian App Store in ‘Best New Apps’, answers all five applying, clearly and simply, known principles and facts that enable a pilot at any level of competence and experience to finally and fully understand HOW to make safer and more consistent landings, in any airplane type. The noted increase in pilot competence and confidence is breathtaking. The Jacobson Flare App for iPad V2.0 Professionally designed, the Jacobson Flare app for iPad is so much more than the simple equivalent of a 330-page book; interactive and inclusive, it totally replaces and greatly enhances successive and widely acclaimed presentations of the original 1987 Jacobson Flare paper, “Where to Flare” and other associated files. This updated Version 2.0 of the Jacobson Flare app explores the where, when & how involved in landing an airplane in TWO DISTINCT PRESENTATIONS: Designed in LANDSCAPE as an extensively illustrated comprehensive presentation, with accompanying text; and The Jacobson Flare TREATISE, now re-worked in Landscape and partly illustrated, designed as an e-book, for uninterrupted reading and comprehension of the complete text. These are best viewed in landscape on at least the screen size of an iPad Mini OR larger iPhone. Graphically enhanced HD videos of various airplane types using the same consistent and quantified technique, at a diverse range of locations, highlight the Jacobson Flare app for iPad as a perfect solution to a serious long-term problem for world aviation. Thirty-five years of research and development are reflected in the intuitive design, fine production and attention to detail - just some of the hallmarks of this stylish presentation. Summary The Jacobson Flare has been adopted enthusiastically by thousands of pilots in 65 countries. The convenient digital format on iPad has accelerated industry awareness and acceptance and offers predictable and consistently better landings for those individual pilots, at ANY level of experience, who are always seeking to improve their skill set. Perhaps the three best descriptions come from highly experienced professional pilots: “the greatest single advance in flying training in many, many years and represents simple unassailable aerodynamic logic”; “this is probably what we have all been trying to do all these years”; and “this has the elegant simplicity of the safety pin”. Website: www.jacobsonflare.com Email: info@jacobsonflare.com Captain David M Jacobson MAP FRAeS: +61 419 346 336 The Jacobson Flare",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/6e/5e/d56e5eb4-68c5-6dc9-8540-5bdb5742b9e0/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/6e/5e/d56e5eb4-68c5-6dc9-8540-5bdb5742b9e0/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
-    "sellerName": "The Jacobson Flare Pty Ltd",
-    "artistName": "Jacobson Flare Pty Ltd",
+    "sellerName": "BJA Consulting Pty Ltd",
+    "artistName": "BJA Consulting Pty Ltd",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/d8/4c/bad84c7f-3188-185d-7410-dafeecb63403/pr_source.jpg/406x228bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d1/52/00/d1520084-e759-5bd3-9a81-e849b5eacdb2/pr_source.jpg/406x228bb.jpg",
@@ -182798,119 +182849,5 @@
       "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/d2/e3/92d2e3bb-cfc0-d830-87ec-c14daa9efa45/pr_source.png/552x414bb.png"
     ],
     "_externalSourceFirstSeen": 1773823498274
-  },
-  "892374380": {
-    "name": "iWriter Pro",
-    "trackName": "iWriter Pro",
-    "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
-    },
-    "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1784802162696,
-          "price": 38,
-          "formattedPrice": "¥38.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1784615472877,
-          "price": 22,
-          "formattedPrice": "¥22.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1779362471724,
-          "price": 38,
-          "formattedPrice": "¥38.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1779091228678,
-          "price": 22,
-          "formattedPrice": "¥22.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1776763472704,
-          "price": 38,
-          "formattedPrice": "¥38.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1776146418333,
-          "price": 22,
-          "formattedPrice": "¥22.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1773498454133,
-          "price": 38,
-          "formattedPrice": "¥38.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1773211318937,
-          "price": 22,
-          "formattedPrice": "¥22.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1772526810745,
-          "price": 38,
-          "formattedPrice": "¥38.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/iwriter-pro/id892374380?uo=4",
-    "description": "iWriter Pro is elegant and minimalist text editor with built-in Markdown support. Distraction-free and subscription-free. Features: Clean and minimal interface. iCloud sync across iPad, iPhone, and Mac¹ devices. Text editing with live Markdown syntax highlighting. HTML Preview for Markdown and MultiMarkdown documents. Typewriter mode² with focusing on line, sentence, or paragraph. Powerful Document Browser³ with tags support. Integrated counters for words, symbols, sentences, and paragraphs. Fast and responsive editing even for large files. iWriter Pro supports: Highlighting and rendering of LaTeX equations. Flowchart and Mermaid diagrams. Source code highlight in HTML preview. Exporting documents as HTML, PDF, RTF, EPUB, LaTeX, and DOCX. Keyboard shortcuts⁴ for text formatting and quick navigation. Search and Replace in your documents. Light and dark layouts (auto-switching included). Automatic number/bullet/task list formatting. ¹ - iWriter Pro for Mac is available as a separate purchase on the Mac App Store. ² - Typewriter and Focus modes are available only on iPad. ³ - Editing files in Dropbox, Google Drive, and other 3d-party storage providers is not guaranteed. ⁴ - External keyboard is required.",
-    "fullDescription": "iWriter Pro is elegant and minimalist text editor with built-in Markdown support. Distraction-free and subscription-free. Features: Clean and minimal interface. iCloud sync across iPad, iPhone, and Mac¹ devices. Text editing with live Markdown syntax highlighting. HTML Preview for Markdown and MultiMarkdown documents. Typewriter mode² with focusing on line, sentence, or paragraph. Powerful Document Browser³ with tags support. Integrated counters for words, symbols, sentences, and paragraphs. Fast and responsive editing even for large files. iWriter Pro supports: Highlighting and rendering of LaTeX equations. Flowchart and Mermaid diagrams. Source code highlight in HTML preview. Exporting documents as HTML, PDF, RTF, EPUB, LaTeX, and DOCX. Keyboard shortcuts⁴ for text formatting and quick navigation. Search and Replace in your documents. Light and dark layouts (auto-switching included). Automatic number/bullet/task list formatting. ¹ - iWriter Pro for Mac is available as a separate purchase on the Mac App Store. ² - Typewriter and Focus modes are available only on iPad. ³ - Editing files in Dropbox, Google Drive, and other 3d-party storage providers is not guaranteed. ⁴ - External keyboard is required.",
-    "summaryDescription": "iWriter Pro is elegant and minimalist text editor with built-in Markdown support. Distraction-free and subscription-free. Features: Clean and minimal interface. iCloud sync across iPad, iPhone, and Mac¹ devices. Text editing with live Markdown syntax highlighting. HTML Preview for Markdown and MultiMarkdown documents. Typewriter mode² with focusing on line, sentence, or paragraph. Powerful Document Browser³ with tags support. Integrated counters for words, symbols, sentences, and paragraphs. Fast and responsive editing even for large files. iWriter Pro supports: Highlighting and rendering of LaTeX equations. Flowchart and Mermaid diagrams. Source code highlight in HTML preview. Exporting documents as HTML, PDF, RTF, EPUB, LaTeX, and DOCX. Keyboard shortcuts⁴ for text formatting and quick navigation. Search and Replace in your documents. Light and dark layouts (auto-switching included). Automatic number/bullet/task list formatting. ¹ - iWriter Pro for Mac is available as a separate purchase on the Mac App Store. ² - Typewriter and Focus modes are available only on iPad. ³ - Editing files in Dropbox, Google Drive, and other 3d-party storage providers is not guaranteed. ⁴ - External keyboard is required.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/b0/2a/3eb02a32-1bd3-f710-23a5-646699eb14f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/b0/2a/3eb02a32-1bd3-f710-23a5-646699eb14f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
-    "sellerName": "Sergey Zorin",
-    "artistName": "Serpensoft Group",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b4/fe/22/b4fe221d-fc2d-6b2b-6332-6cd844b5d0b4/9e2e2f7d-5a22-4141-8b52-fc0c494aae62_1.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/34/a5/4334a523-837d-0f2a-7f9b-bff2e14c04cd/f0b55052-a553-45d3-a1e2-edf368f95d90_2.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c5/ee/70/c5ee7060-03be-df2e-bdc4-2167bcbfacb6/318411b9-272d-4a40-866e-fca3acdf0d08_3.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ff/dd/35/ffdd35f9-97ad-920d-6c54-6b1eaaf8e50b/a8c873c7-01f5-483d-a5e3-b7d82eca267b_4.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fb/b9/d2/fbb9d207-15eb-0dd1-e0e7-1c61479cdfb7/69e84320-c184-42b5-aba5-2449df74f438_5.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/0e/b0/310eb093-21f1-9834-ea86-7d79e9b53fcb/677ebc62-a382-4c25-b7c5-cbb14cfcae79_6.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/83/4f/67834fac-5b4e-a784-b448-010db66cafea/d5293ec0-db9a-4101-8f95-099e54476108_7.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/86/ba/bd86bad4-f482-81d8-b463-f262a44c445b/90b83709-ff57-4aa8-92be-09c399b5e161_1a.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/81/50/31815075-a226-c2a6-46cd-c6a66a53e3be/2efbe600-7a7c-4059-bf0e-124007aa0b93_2.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/e8/f4/cbe8f4d4-25a4-a488-1e03-8f1bad2ab199/ab9a6f71-dc6d-46ed-a986-c5c1a0d26c14_3.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/5a/34/c55a3497-c3b4-2cd5-2f9a-ac87681db27a/f71cb8c1-bf4b-45cb-a1f6-b37feeacd700_4.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/72/9f/09729f5d-347b-c7a0-a6b2-fd47a80540e4/0003c588-1e36-4d63-b5ea-e27fea7ad788_5.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/5c/12/3e5c1242-f8f4-b6e6-d053-2d076b05cc2d/c317e1be-019e-49e7-a109-10a580026edb_6.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/82/d0/a8/82d0a8fa-438b-f2c9-e856-c4df0937e128/610644b1-7925-490c-85ce-e68c38119144_7.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/92/1b/47921b55-259c-24e5-9ab3-a404a53475d9/74b0cf83-7d17-43e6-b498-ca9dc532fda7_8.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/23/22/d5/2322d512-dd24-b8b1-3eec-99473bb24f51/a492d796-752b-4d7a-b026-bd6416419b51_9.png/552x414bb.png"
-    ]
   }
 }
