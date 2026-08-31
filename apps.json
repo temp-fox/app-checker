@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1490166845,
+      "name": {
+        "cn": "Enhanced Music Controller"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788130222466,
+      "_discountType": "app"
+    },
+    {
+      "id": 6747626711,
+      "name": {
+        "cn": "AnchorPoint Health Journal"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788130225143,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793817044,
+      "name": {
+        "cn": "Return Deadline 退货期限"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788130235966,
+      "_discountType": "app"
+    },
+    {
       "id": 1445780869,
       "name": {
         "cn": "GM MIDI Player"
