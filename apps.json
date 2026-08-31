@@ -2,6 +2,116 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 464228677,
+      "name": {
+        "cn": "Ryotei - GPS轨迹记录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788184830120,
+      "_discountType": "app"
+    },
+    {
+      "id": 1415550737,
+      "name": {
+        "cn": "Leap Card"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788184824514,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781931222,
+      "name": {
+        "cn": "现金交接2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788184821725,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760123745,
+      "name": {
+        "cn": "BossMate"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788184821725,
+      "_discountType": "app"
+    },
+    {
+      "id": 6753887533,
+      "name": {
+        "cn": "Crossgrader for PTCG (PSA,BGS)"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788184827321,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760901710,
+      "name": {
+        "cn": "4ToDo"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788184827557,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789496773,
+      "name": {
+        "cn": "Sequence：照片杂志与相册"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788184827229,
+      "_discountType": "app"
+    },
+    {
+      "id": 6746670384,
+      "name": {
+        "cn": "SkyPlanner"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788184827229,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761611565,
+      "name": {
+        "cn": "KidoQuiz：神话与传说（完整版）"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788184835866,
+      "_discountType": "app"
+    },
+    {
+      "id": 6744238494,
+      "name": {
+        "cn": "动物混合: 不可思议视频（完整版）"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788184835866,
+      "_discountType": "app"
+    },
+    {
       "id": 1038512289,
       "name": {
         "cn": "Route 66  Road Trip Guide"
@@ -62424,7 +62534,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1777701977004,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 1304075165,

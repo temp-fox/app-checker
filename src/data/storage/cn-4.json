@@ -15523,6 +15523,18 @@
     "history": [
       [
         {
+          "timestamp": 1788184869523,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "weekly": "¥38.00",
+            "lifetime": "¥328.00",
+            "yearly": "¥198.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787554365761,
           "price": 0,
           "formattedPrice": "免费",
@@ -16731,14 +16743,22 @@
     "name": "Learn Svelte JS with AI",
     "trackName": "Learn Svelte JS with AI",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788184869523,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777221629722,
@@ -16781,14 +16801,22 @@
     "name": "Learn Tailwind CSS: Web Design",
     "trackName": "Learn Tailwind CSS: Web Design",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 38,
+      "formattedPrice": "¥38.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788184869523,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777221629722,
@@ -20710,14 +20738,22 @@
     "name": "CroReader",
     "trackName": "CroReader",
     "maxPriceInfo": {
-      "price": 6,
-      "formattedPrice": "¥6.00"
+      "price": 12,
+      "formattedPrice": "¥12.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788184869523,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782741783103,
@@ -23540,6 +23576,14 @@
     "history": [
       [
         {
+          "timestamp": 1788184869523,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780845818406,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -23564,9 +23608,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/relic-flow/id6499490810?uo=4",
-    "description": "Relic Flow is a generator of Lo-Fi rhythms, noise patterns and drum loops based on unique synthesis algorithms from NightRadio. More than 4 billion samples from the depths of the Mathematical Universe! Features: search for new sounds with three buttons: next random set, edit code, previous set; each set of 12 sounds corresponds to a code of 8 characters; three types of keyboards for live performing: on-screen buttons, PC keyboard, MIDI input; several processing parameters + control via MIDI; real-time audio recording to WAV (32-bit); export to: WAV (one file or a set), SunVox (samples + effects in one file), text clipboard; the LCK button freezes individual samples - they will not change during the search for new sets; iOS Audio Unit Extension (AUv3). Double clicking on a parameter opens a window for setting the exact value. If you enable the Hold option, the notes will play endlessly, without reacting to key release (noteOff) events; turning the note on again works like turning it off; there are two ways to enable this option: 1) using the Hold parameter in the \"MIDI Mapping\" window; 2) by pressing the HOLD button, which appears in place of LCK while playing the musical keyboard: press HOLD, release the desired notes - then the released notes will continue to play.",
-    "fullDescription": "Relic Flow is a generator of Lo-Fi rhythms, noise patterns and drum loops based on unique synthesis algorithms from NightRadio. More than 4 billion samples from the depths of the Mathematical Universe! Features: search for new sounds with three buttons: next random set, edit code, previous set; each set of 12 sounds corresponds to a code of 8 characters; three types of keyboards for live performing: on-screen buttons, PC keyboard, MIDI input; several processing parameters + control via MIDI; real-time audio recording to WAV (32-bit); export to: WAV (one file or a set), SunVox (samples + effects in one file), text clipboard; the LCK button freezes individual samples - they will not change during the search for new sets; iOS Audio Unit Extension (AUv3). Double clicking on a parameter opens a window for setting the exact value. If you enable the Hold option, the notes will play endlessly, without reacting to key release (noteOff) events; turning the note on again works like turning it off; there are two ways to enable this option: 1) using the Hold parameter in the \"MIDI Mapping\" window; 2) by pressing the HOLD button, which appears in place of LCK while playing the musical keyboard: press HOLD, release the desired notes - then the released notes will continue to play.",
-    "summaryDescription": "Relic Flow is a generator of Lo-Fi rhythms, noise patterns and drum loops based on unique synthesis algorithms from NightRadio. More than 4 billion samples from the depths of the Mathematical Universe! Features: search for new sounds with three buttons: next random set, edit code, previous set; each set of 12 sounds corresponds to a code of 8 characters; three types of keyboards for live performing: on-screen buttons, PC keyboard, MIDI input; several processing parameters + control via MIDI; real-time audio recording to WAV (32-bit); export to: WAV (one file or a set), SunVox (samples + effects in one file), text clipboard; the LCK button freezes individual samples - they will not change during the search for new sets; iOS Audio Unit Extension (AUv3). Double clicking on a parameter opens a window for setting the exact value. If you enable the Hold option, the notes will play endlessly, without reacting to key release (noteOff) events; turning the note on again works like turning it off; there are two ways to enable this option: 1) using the Hold parameter in the \"MIDI Mapping\" window; 2) by pressing the HOLD button, which appears in place of LCK while playing the musical keyboard: press HOLD, release the desired notes - then the released notes will continue to play.",
+    "description": "Relic Flow 是一个基于 NightRadio 独特合成算法的 Lo-Fi 节奏、噪音模式和鼓循环生成器。来自数学宇宙深处的超过 40 亿个样本！特点：通过三个按钮搜索新声音：下一个随机设置、编辑代码、上一个设置；每组12个声音对应8个字符的代码；三种现场表演键盘：屏幕按钮、PC键盘、MIDI输入；多个处理参数+通过MIDI控制；实时音频录制为 WAV（32 位）；导出到：WAV（一个文件或一组）、SunVox（样本+效果",
+    "fullDescription": "Relic Flow 是一个基于 NightRadio 独特合成算法的 Lo-Fi 节奏、噪音模式和鼓循环生成器。来自数学宇宙深处的超过 40 亿个样本！特点：通过三个按钮搜索新声音：下一个随机设置、编辑代码、上一个设置；每组12个声音对应8个字符的代码；三种现场表演键盘：屏幕按钮、PC键盘、MIDI输入；多个处理参数+通过MIDI控制；实时音频录制为 WAV（32 位）；导出到：WAV（一个文件或一组）、SunVox（样本+效果",
+    "summaryDescription": "Relic Flow 是一个基于 NightRadio 独特合成算法的 Lo-Fi 节奏、噪音模式和鼓循环生成器。来自数学宇宙深处的超过 40 亿个样本！特点：通过三个按钮搜索新声音：下一个随机设置、编辑代码、上一个设置；每组12个声音对应8个字符的代码；三种现场表演键盘：屏幕按钮、PC键盘、MIDI输入；多个处理参数+通过MIDI控制；实时音频录制为 WAV（32 位）；导出到：WAV（一个文件或一组）、SunVox（样本+效果",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/56/f2/4056f2cf-eb20-8d7d-eb66-a6d1d04309bf/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/56/f2/4056f2cf-eb20-8d7d-eb66-a6d1d04309bf/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
     "sellerName": "Alexander Zolotov",
@@ -23594,6 +23638,14 @@
     "history": [
       [
         {
+          "timestamp": 1788184869523,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780845818406,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -23618,9 +23670,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/low-poly-synth/id6756301040?uo=4",
-    "description": "Low Poly Synth is a generator of melodic atmospheric sounds with billions of unique timbres. The app is built on modified synthesis algorithms from Fractal Bits, Relic Waves, and Relic Flow, with the addition of pure tone generation code. The sound space is divided into 4294967296 presets, each corresponding to a set of 8 sample textures. The volume of an individual sample can be adjusted in the top panel or via MIDI (Settings -> MIDI Mapping). The bottom panel is a classic musical keyboard that sets the note for the sounds in the set. Each note triggers all 8 samples at once - together they form a complex harmonic pattern that almost never repeats over time due to the different lengths of the looped fragments. Features: search for new sounds with three buttons: next random set, edit code, previous set; each set of 8 sounds corresponds to a code of 8 characters (you can save/copy/paste it as plain text); three types of keyboards for live performing: on-screen, PC keyboard, MIDI input; for the on-screen keyboard, you can set the number of displayed octaves and scale; 20+ parameters can be controlled via MIDI or directly through the app interface: Settings -> MIDI Mapping; real-time audio recording to WAV (32-bit); export to: WAV (one file or a set), SunVox (samples + effects in one file), text clipboard; the LCK button freezes individual samples - they will not change during the search for new sets; Audio Unit Extension (AUv3), Wi-Fi export/import. Double clicking on a parameter opens a window for setting the exact value. If you enable the Hold option, the notes will play endlessly, without reacting to key release (noteOff) events; turning the note on again works like turning it off; there are two ways to enable this option: 1) using the Hold parameter in the \"MIDI Mapping\" window; 2) by pressing the HOLD button, which appears in place of LCK while playing the musical keyboard: press HOLD, release the desired notes - then the released notes will continue to play.",
-    "fullDescription": "Low Poly Synth is a generator of melodic atmospheric sounds with billions of unique timbres. The app is built on modified synthesis algorithms from Fractal Bits, Relic Waves, and Relic Flow, with the addition of pure tone generation code. The sound space is divided into 4294967296 presets, each corresponding to a set of 8 sample textures. The volume of an individual sample can be adjusted in the top panel or via MIDI (Settings -> MIDI Mapping). The bottom panel is a classic musical keyboard that sets the note for the sounds in the set. Each note triggers all 8 samples at once - together they form a complex harmonic pattern that almost never repeats over time due to the different lengths of the looped fragments. Features: search for new sounds with three buttons: next random set, edit code, previous set; each set of 8 sounds corresponds to a code of 8 characters (you can save/copy/paste it as plain text); three types of keyboards for live performing: on-screen, PC keyboard, MIDI input; for the on-screen keyboard, you can set the number of displayed octaves and scale; 20+ parameters can be controlled via MIDI or directly through the app interface: Settings -> MIDI Mapping; real-time audio recording to WAV (32-bit); export to: WAV (one file or a set), SunVox (samples + effects in one file), text clipboard; the LCK button freezes individual samples - they will not change during the search for new sets; Audio Unit Extension (AUv3), Wi-Fi export/import. Double clicking on a parameter opens a window for setting the exact value. If you enable the Hold option, the notes will play endlessly, without reacting to key release (noteOff) events; turning the note on again works like turning it off; there are two ways to enable this option: 1) using the Hold parameter in the \"MIDI Mapping\" window; 2) by pressing the HOLD button, which appears in place of LCK while playing the musical keyboard: press HOLD, release the desired notes - then the released notes will continue to play.",
-    "summaryDescription": "Low Poly Synth is a generator of melodic atmospheric sounds with billions of unique timbres. The app is built on modified synthesis algorithms from Fractal Bits, Relic Waves, and Relic Flow, with the addition of pure tone generation code. The sound space is divided into 4294967296 presets, each corresponding to a set of 8 sample textures. The volume of an individual sample can be adjusted in the top panel or via MIDI (Settings -> MIDI Mapping). The bottom panel is a classic musical keyboard that sets the note for the sounds in the set. Each note triggers all 8 samples at once - together they form a complex harmonic pattern that almost never repeats over time due to the different lengths of the looped fragments. Features: search for new sounds with three buttons: next random set, edit code, previous set; each set of 8 sounds corresponds to a code of 8 characters (you can save/copy/paste it as plain text); three types of keyboards for live performing: on-screen, PC keyboard, MIDI input; for the on-screen keyboard, you can set the number of displayed octaves and scale; 20+ parameters can be controlled via MIDI or directly through the app interface: Settings -> MIDI Mapping; real-time audio recording to WAV (32-bit); export to: WAV (one file or a set), SunVox (samples + effects in one file), text clipboard; the LCK button freezes individual samples - they will not change during the search for new sets; Audio Unit Extension (AUv3), Wi-Fi export/import. Double clicking on a parameter opens a window for setting the exact value. If you enable the Hold option, the notes will play endlessly, without reacting to key release (noteOff) events; turning the note on again works like turning it off; there are two ways to enable this option: 1) using the Hold parameter in the \"MIDI Mapping\" window; 2) by pressing the HOLD button, which appears in place of LCK while playing the musical keyboard: press HOLD, release the desired notes - then the released notes will continue to play.",
+    "description": "Low Poly Synth 是一个具有数十亿种独特音色的旋律氛围声音生成器。该应用程序基于 Fractal Bits、Relic Waves 和 Relic Flow 的修改合成算法构建，并添加了纯音生成代码。声音空间分为 4294967296 个预设，每个预设对应一组 8 个样本纹理。单个样本的音量可以在顶部面板中或通过 MIDI（设置 -> MIDI 映射）进行调整。底部面板是一个经典的音乐键盘，用于为组中的声音设置音符。每个音符同时触发所有 8 个样本 - 它们一起触发",
+    "fullDescription": "Low Poly Synth 是一个具有数十亿种独特音色的旋律氛围声音生成器。该应用程序基于 Fractal Bits、Relic Waves 和 Relic Flow 的修改合成算法构建，并添加了纯音生成代码。声音空间分为 4294967296 个预设，每个预设对应一组 8 个样本纹理。单个样本的音量可以在顶部面板中或通过 MIDI（设置 -> MIDI 映射）进行调整。底部面板是一个经典的音乐键盘，用于为组中的声音设置音符。每个音符同时触发所有 8 个样本 - 它们一起触发",
+    "summaryDescription": "Low Poly Synth 是一个具有数十亿种独特音色的旋律氛围声音生成器。该应用程序基于 Fractal Bits、Relic Waves 和 Relic Flow 的修改合成算法构建，并添加了纯音生成代码。声音空间分为 4294967296 个预设，每个预设对应一组 8 个样本纹理。单个样本的音量可以在顶部面板中或通过 MIDI（设置 -> MIDI 映射）进行调整。底部面板是一个经典的音乐键盘，用于为组中的声音设置音符。每个音符同时触发所有 8 个样本 - 它们一起触发",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/d6/de/d5d6de98-87ca-f641-c6ab-98f0796c2f1a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/d6/de/d5d6de98-87ca-f641-c6ab-98f0796c2f1a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
     "sellerName": "Alexander Zolotov",
@@ -24861,8 +24913,8 @@
     "_externalSourceFirstSeen": 1777543500298
   },
   "6763717059": {
-    "name": "AI病历管家：拍照识别&指标趋势&个人家庭健康档案慢性病管理",
-    "trackName": "AI病历管家：拍照识别&指标趋势&个人家庭健康档案慢性病管理",
+    "name": "病历管家：AI拍照识别&指标趋势&个人家庭健康档案&电子病历",
+    "trackName": "病历管家：AI拍照识别&指标趋势&个人家庭健康档案&电子病历",
     "maxPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00",
@@ -24965,12 +25017,12 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/ai%E7%97%85%E5%8E%86%E7%AE%A1%E5%AE%B6-%E6%8B%8D%E7%85%A7%E8%AF%86%E5%88%AB-%E6%8C%87%E6%A0%87%E8%B6%8B%E5%8A%BF-%E4%B8%AA%E4%BA%BA%E5%AE%B6%E5%BA%AD%E5%81%A5%E5%BA%B7%E6%A1%A3%E6%A1%88%E6%85%A2%E6%80%A7%E7%97%85%E7%AE%A1%E7%90%86/id6763717059?uo=4",
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E7%97%85%E5%8E%86%E7%AE%A1%E5%AE%B6-ai%E6%8B%8D%E7%85%A7%E8%AF%86%E5%88%AB-%E6%8C%87%E6%A0%87%E8%B6%8B%E5%8A%BF-%E4%B8%AA%E4%BA%BA%E5%AE%B6%E5%BA%AD%E5%81%A5%E5%BA%B7%E6%A1%A3%E6%A1%88-%E7%94%B5%E5%AD%90%E7%97%85%E5%8E%86/id6763717059?uo=4",
     "description": "一款专业的，智能的病历管理，用药提醒，身体指标记录管理工具。 为了个人隐私考虑，病历和用药数据只存在本地设备，我们不会上传用户的数据，你可以把数据同步到苹果的iCloud，更换手机也不用担心数据丢失。 app核心功能大致如下： 1.支持绝大多数国家医院和体检机构所有不同类型医疗图片和体检报告（PDF）识别。 2.智能用药吃药提醒管理（支持处方单和药盒识别并自动加入药品管理）及闹钟闹铃通知多重提醒。 3.支持药品库存管理，库存不足，即将过期，已过期，一目了然，及时提醒。 4.吃药和待办支持桌面小组件，更方便吃药用药和待办提醒及打卡管理。 5.支持iCloud同步，数据永久存储，永不丢失，更换手机也不用担心。 6.支持批量上传识别图片，AI识别准确率高达99.9%，特殊医学符号如↑↓Δ都能精准解读，印章、折痕、手写备注也不再是障碍。 7.信息一目了然，关键信息，精准补抓识别，异常指标一键收藏，指标数据图表趋势一目了然。 8.报告永久保存，原图高清留档。 9.所有报告自动按时间线，按病人名称归档排列，波动曲线直观显示指标变化。 10.支持报告内容全文搜索，查找比纸质快10倍。 11.重要信息随时记录，一键导出整理治疗过程。 12.自动归类整理，省时又省心。 13.同一指标多次检查自动聚合对比（如血常规、肝功能等）。 14.根据疾病类型智能归纳用药记录、检查报告、治疗节点。 15.历史趋势查看每年看医生次数，按年份月份，按用户查询。 16.血压，血糖，血脂，心率，尿酸，血氧饱和度，体温，体重，身体不适，喂药，饮食，大小便，喂奶，备忘录等各种记录&图表趋势可视化。 17.自定义记录各种你想记录的任何指标&图表趋势可视化。 18.批量上传数量无限制，分析时间更快。 19.支持报告的排序和报告的合并。 20.支持相同指标不同名称的合并。 21.支持自定义健康指标数据的记录，你想要记录的都可以记录&趋势图表查看。 22.支持闹钟提醒吃药和待办。 更多贴心的功能等你来体验。 非常重要：本应用不提供任何医疗建议。所有内容仅供参考，不应被视为专业医疗意见。如有健康问题，请咨询专业医生或医疗机构。 订阅服务 部分功能可能需要订阅后使用。 付款将在确认购买时从您的 Apple ID 账户中扣除； 订阅将自动续费，除非您在当前订阅周期结束前至少 24 小时关闭自动续费； 系统将在当前订阅周期结束前 24 小时内从您的账户收取续费费用； 用户可以在购买后前往 Apple ID 账户设置中管理或关闭订阅； 如提供免费试用，用户在试用期内购买订阅后，未使用的试用时间将自动失效。 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "一款专业的，智能的病历管理，用药提醒，身体指标记录管理工具。 为了个人隐私考虑，病历和用药数据只存在本地设备，我们不会上传用户的数据，你可以把数据同步到苹果的iCloud，更换手机也不用担心数据丢失。 app核心功能大致如下： 1.支持绝大多数国家医院和体检机构所有不同类型医疗图片和体检报告（PDF）识别。 2.智能用药吃药提醒管理（支持处方单和药盒识别并自动加入药品管理）及闹钟闹铃通知多重提醒。 3.支持药品库存管理，库存不足，即将过期，已过期，一目了然，及时提醒。 4.吃药和待办支持桌面小组件，更方便吃药用药和待办提醒及打卡管理。 5.支持iCloud同步，数据永久存储，永不丢失，更换手机也不用担心。 6.支持批量上传识别图片，AI识别准确率高达99.9%，特殊医学符号如↑↓Δ都能精准解读，印章、折痕、手写备注也不再是障碍。 7.信息一目了然，关键信息，精准补抓识别，异常指标一键收藏，指标数据图表趋势一目了然。 8.报告永久保存，原图高清留档。 9.所有报告自动按时间线，按病人名称归档排列，波动曲线直观显示指标变化。 10.支持报告内容全文搜索，查找比纸质快10倍。 11.重要信息随时记录，一键导出整理治疗过程。 12.自动归类整理，省时又省心。 13.同一指标多次检查自动聚合对比（如血常规、肝功能等）。 14.根据疾病类型智能归纳用药记录、检查报告、治疗节点。 15.历史趋势查看每年看医生次数，按年份月份，按用户查询。 16.血压，血糖，血脂，心率，尿酸，血氧饱和度，体温，体重，身体不适，喂药，饮食，大小便，喂奶，备忘录等各种记录&图表趋势可视化。 17.自定义记录各种你想记录的任何指标&图表趋势可视化。 18.批量上传数量无限制，分析时间更快。 19.支持报告的排序和报告的合并。 20.支持相同指标不同名称的合并。 21.支持自定义健康指标数据的记录，你想要记录的都可以记录&趋势图表查看。 22.支持闹钟提醒吃药和待办。 更多贴心的功能等你来体验。 非常重要：本应用不提供任何医疗建议。所有内容仅供参考，不应被视为专业医疗意见。如有健康问题，请咨询专业医生或医疗机构。 订阅服务 部分功能可能需要订阅后使用。 付款将在确认购买时从您的 Apple ID 账户中扣除； 订阅将自动续费，除非您在当前订阅周期结束前至少 24 小时关闭自动续费； 系统将在当前订阅周期结束前 24 小时内从您的账户收取续费费用； 用户可以在购买后前往 Apple ID 账户设置中管理或关闭订阅； 如提供免费试用，用户在试用期内购买订阅后，未使用的试用时间将自动失效。 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "一款专业的，智能的病历管理，用药提醒，身体指标记录管理工具。 为了个人隐私考虑，病历和用药数据只存在本地设备，我们不会上传用户的数据，你可以把数据同步到苹果的iCloud，更换手机也不用担心数据丢失。 app核心功能大致如下： 1.支持绝大多数国家医院和体检机构所有不同类型医疗图片和体检报告（PDF）识别。 2.智能用药吃药提醒管理（支持处方单和药盒识别并自动加入药品管理）及闹钟闹铃通知多重提醒。 3.支持药品库存管理，库存不足，即将过期，已过期，一目了然，及时提醒。 4.吃药和待办支持桌面小组件，更方便吃药用药和待办提醒及打卡管理。 5.支持iCloud同步，数据永久存储，永不丢失，更换手机也不用担心。 6.支持批量上传识别图片，AI识别准确率高达99.9%，特殊医学符号如↑↓Δ都能精准解读，印章、折痕、手写备注也不再是障碍。 7.信息一目了然，关键信息，精准补抓识别，异常指标一键收藏，指标数据图表趋势一目了然。 8.报告永久保存，原图高清留档。 9.所有报告自动按时间线，按病人名称归档排列，波动曲线直观显示指标变化。 10.支持报告内容全文搜索，查找比纸质快10倍。 11.重要信息随时记录，一键导出整理治疗过程。 12.自动归类整理，省时又省心。 13.同一指标多次检查自动聚合对比（如血常规、肝功能等）。 14.根据疾病类型智能归纳用药记录、检查报告、治疗节点。 15.历史趋势查看每年看医生次数，按年份月份，按用户查询。 16.血压，血糖，血脂，心率，尿酸，血氧饱和度，体温，体重，身体不适，喂药，饮食，大小便，喂奶，备忘录等各种记录&图表趋势可视化。 17.自定义记录各种你想记录的任何指标&图表趋势可视化。 18.批量上传数量无限制，分析时间更快。 19.支持报告的排序和报告的合并。 20.支持相同指标不同名称的合并。 21.支持自定义健康指标数据的记录，你想要记录的都可以记录&趋势图表查看。 22.支持闹钟提醒吃药和待办。 更多贴心的功能等你来体验。 非常重要：本应用不提供任何医疗建议。所有内容仅供参考，不应被视为专业医疗意见。如有健康问题，请咨询专业医生或医疗机构。 订阅服务 部分功能可能需要订阅后使用。 付款将在确认购买时从您的 Apple ID 账户中扣除； 订阅将自动续费，除非您在当前订阅周期结束前至少 24 小时关闭自动续费； 系统将在当前订阅周期结束前 24 小时内从您的账户收取续费费用； 用户可以在购买后前往 Apple ID 账户设置中管理或关闭订阅； 如提供免费试用，用户在试用期内购买订阅后，未使用的试用时间将自动失效。 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/e3/32/e8e33287-b95c-998b-7dab-29842cefdb4d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/e3/32/e8e33287-b95c-998b-7dab-29842cefdb4d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/43/04/78430402-46b9-6bfc-8c04-c4e4e271a1d9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/43/04/78430402-46b9-6bfc-8c04-c4e4e271a1d9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "Shenzhen Anyukang Technology Co., Ltd.",
     "artistName": "Shenzhen Anyukang Technology Co., Ltd.",
     "screenshotUrls": [
@@ -26762,36 +26814,36 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E8%8B%B1%E8%AF%AD%E6%8E%A2%E5%AE%9D-english-quest/id6737737470?uo=4",
-    "description": "通过有趣的游戏提升孩子的英语技能！ English Quest (英语探宝) 2.0 全新上线！ 我们以一种激动人心的方式，通过沉浸式游戏提升孩子们的口语、英语词汇量和理解能力。这款创新的应用程序由专业教育工作者精心设计，并以研究支持的多媒体学习原则为基础，确保学习过程既有趣又高效。 孩子们将踏上一场充满情境化视觉效果和“选择你自己的冒险”旅程，他们将探索数百条路径，发现隐藏的宝藏和特殊地点，同时避开巧妙的陷阱。通过互动游戏，孩子们在提高英语听力理解和词汇量的同时，自然地发展语言技能。 这款应用专为学前班到小学的孩子设计，经过真实课堂环境中的广泛测试。无论是个人学习还是在父母或老师的支持下进行小组学习，这款应用都非常适合，用于在家中或教育环境中提升英语水平。 现在开启您孩子的英语学习之旅吧！这只是开始，未来还将有更多功能和内容更新。 English Quest 2.0 is here! English Quest is a fun, choose-your-own-adventure game that helps children naturally acquire vocabulary and grammar through meaningful contexts. The game combines high-quality visuals with engaging audio to create an immersive and playful language-learning experience. Rooted in Multimedia Learning Theory, English Quest ensures that children make strong connections between words and images, fostering deeper understanding and retention—all while sparking creativity and exploration. New in Version 2.0: Progress Tracking: Children can now see how much of the story branches they’ve explored, with red dots indicating unexplored paths. Treasure Collection: Special treasures, items, and locations are now visible on the main screen once discovered, allowing for easy revisits. Listening Comprehension Minigame: A new minigame has been added to further practice listening comprehension skills. Key Features: Interactive Gameplay: Explore fantastical locations, make branching decisions, and uncover magical treasures with hundreds of story paths and multiple possible endings. Pedagogically Sound Design: Built using Multimedia Learning Theory principles, the game is designed with an understanding of how the brain processes visual and auditory information. By carefully aligning visuals and language, it optimizes germane load—focusing mental effort on meaningful learning—while minimizing extraneous processing by reducing distractions. This ensures children can engage deeply with the content and retain new language effectively. Tailored for All Levels: This game is thoughtfully designed to be accessible and enriching for children at all levels of English proficiency. Beginners, including those with little to no prior English knowledge, benefit from meaningful and structured language input. When supported by an adult who prompts them to speak their choices aloud before making selections, the experience becomes even more engaging and impactful. The game’s intentional repetition and structured design provide repeated exposure to vocabulary and syntax, fostering natural language acquisition. Intermediate learners can practice forming complete sentences, while higher-level and even native-speaking children enjoy the creative and imaginative elements. When adults engage these learners with higher-order tasks such as making predictions or explaining choices, it offers opportunities to expand vocabulary and deepen critical thinking. Even on its own, the game remains a fun and creative experience for all players. Why It Works: Designed with research-backed strategies, English Quest combines language, visuals, and gameplay to create a seamless and engaging learning experience. The game has been extensively playtested with entire kindergarten, first-grade, and third-grade classes, where children take turns and enthusiastically participate. It has also been a hit in small group settings and as an individual learning activity, making it versatile and highly effective for different learning environments. Embark on your child’s English learning adventure today. This is just the beginning, with more features and content updates to come!",
-    "fullDescription": "通过有趣的游戏提升孩子的英语技能！ English Quest (英语探宝) 2.0 全新上线！ 我们以一种激动人心的方式，通过沉浸式游戏提升孩子们的口语、英语词汇量和理解能力。这款创新的应用程序由专业教育工作者精心设计，并以研究支持的多媒体学习原则为基础，确保学习过程既有趣又高效。 孩子们将踏上一场充满情境化视觉效果和“选择你自己的冒险”旅程，他们将探索数百条路径，发现隐藏的宝藏和特殊地点，同时避开巧妙的陷阱。通过互动游戏，孩子们在提高英语听力理解和词汇量的同时，自然地发展语言技能。 这款应用专为学前班到小学的孩子设计，经过真实课堂环境中的广泛测试。无论是个人学习还是在父母或老师的支持下进行小组学习，这款应用都非常适合，用于在家中或教育环境中提升英语水平。 现在开启您孩子的英语学习之旅吧！这只是开始，未来还将有更多功能和内容更新。 English Quest 2.0 is here! English Quest is a fun, choose-your-own-adventure game that helps children naturally acquire vocabulary and grammar through meaningful contexts. The game combines high-quality visuals with engaging audio to create an immersive and playful language-learning experience. Rooted in Multimedia Learning Theory, English Quest ensures that children make strong connections between words and images, fostering deeper understanding and retention—all while sparking creativity and exploration. New in Version 2.0: Progress Tracking: Children can now see how much of the story branches they’ve explored, with red dots indicating unexplored paths. Treasure Collection: Special treasures, items, and locations are now visible on the main screen once discovered, allowing for easy revisits. Listening Comprehension Minigame: A new minigame has been added to further practice listening comprehension skills. Key Features: Interactive Gameplay: Explore fantastical locations, make branching decisions, and uncover magical treasures with hundreds of story paths and multiple possible endings. Pedagogically Sound Design: Built using Multimedia Learning Theory principles, the game is designed with an understanding of how the brain processes visual and auditory information. By carefully aligning visuals and language, it optimizes germane load—focusing mental effort on meaningful learning—while minimizing extraneous processing by reducing distractions. This ensures children can engage deeply with the content and retain new language effectively. Tailored for All Levels: This game is thoughtfully designed to be accessible and enriching for children at all levels of English proficiency. Beginners, including those with little to no prior English knowledge, benefit from meaningful and structured language input. When supported by an adult who prompts them to speak their choices aloud before making selections, the experience becomes even more engaging and impactful. The game’s intentional repetition and structured design provide repeated exposure to vocabulary and syntax, fostering natural language acquisition. Intermediate learners can practice forming complete sentences, while higher-level and even native-speaking children enjoy the creative and imaginative elements. When adults engage these learners with higher-order tasks such as making predictions or explaining choices, it offers opportunities to expand vocabulary and deepen critical thinking. Even on its own, the game remains a fun and creative experience for all players. Why It Works: Designed with research-backed strategies, English Quest combines language, visuals, and gameplay to create a seamless and engaging learning experience. The game has been extensively playtested with entire kindergarten, first-grade, and third-grade classes, where children take turns and enthusiastically participate. It has also been a hit in small group settings and as an individual learning activity, making it versatile and highly effective for different learning environments. Embark on your child’s English learning adventure today. This is just the beginning, with more features and content updates to come!",
-    "summaryDescription": "通过有趣的游戏提升孩子的英语技能！ English Quest (英语探宝) 2.0 全新上线！ 我们以一种激动人心的方式，通过沉浸式游戏提升孩子们的口语、英语词汇量和理解能力。这款创新的应用程序由专业教育工作者精心设计，并以研究支持的多媒体学习原则为基础，确保学习过程既有趣又高效。 孩子们将踏上一场充满情境化视觉效果和“选择你自己的冒险”旅程，他们将探索数百条路径，发现隐藏的宝藏和特殊地点，同时避开巧妙的陷阱。通过互动游戏，孩子们在提高英语听力理解和词汇量的同时，自然地发展语言技能。 这款应用专为学前班到小学的孩子设计，经过真实课堂环境中的广泛测试。无论是个人学习还是在父母或老师的支持下进行小组学习，这款应用都非常适合，用于在家中或教育环境中提升英语水平。 现在开启您孩子的英语学习之旅吧！这只是开始，未来还将有更多功能和内容更新。 English Quest 2.0 is here! English Quest is a fun, choose-your-own-adventure game that helps children naturally acquire vocabulary and grammar through meaningful contexts. The game combines high-quality visuals with engaging audio to create an immersive and playful language-learning experience. Rooted in Multimedia Learning Theory, English Quest ensures that children make strong connections between words and images, fostering deeper understanding and retention—all while sparking creativity and exploration. New in Version 2.0: Progress Tracking: Children can now see how much of the story branches they’ve explored, with red dots indicating unexplored paths. Treasure Collection: Special treasures, items, and locations are now visible on the main screen once discovered, allowing for easy revisits. Listening Comprehension Minigame: A new minigame has been added to further practice listening comprehension skills. Key Features: Interactive Gameplay: Explore fantastical locations, make branching decisions, and uncover magical treasures with hundreds of story paths and multiple possible endings. Pedagogically Sound Design: Built using Multimedia Learning Theory principles, the game is designed with an understanding of how the brain processes visual and auditory information. By carefully aligning visuals and language, it optimizes germane load—focusing mental effort on meaningful learning—while minimizing extraneous processing by reducing distractions. This ensures children can engage deeply with the content and retain new language effectively. Tailored for All Levels: This game is thoughtfully designed to be accessible and enriching for children at all levels of English proficiency. Beginners, including those with little to no prior English knowledge, benefit from meaningful and structured language input. When supported by an adult who prompts them to speak their choices aloud before making selections, the experience becomes even more engaging and impactful. The game’s intentional repetition and structured design provide repeated exposure to vocabulary and syntax, fostering natural language acquisition. Intermediate learners can practice forming complete sentences, while higher-level and even native-speaking children enjoy the creative and imaginative elements. When adults engage these learners with higher-order tasks such as making predictions or explaining choices, it offers opportunities to expand vocabulary and deepen critical thinking. Even on its own, the game remains a fun and creative experience for all players. Why It Works: Designed with research-backed strategies, English Quest combines language, visuals, and gameplay to create a seamless and engaging learning experience. The game has been extensively playtested with entire kindergarten, first-grade, and third-grade classes, where children take turns and enthusiastically participate. It has also been a hit in small group settings and as an individual learning activity, making it versatile and highly effective for different learning environments. Embark on your child’s English learning adventure today. This is just the beginning, with more features and content updates to come!",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/d4/6c/4bd46c14-3ccb-6798-412c-95e84edf860f/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/d4/6c/4bd46c14-3ccb-6798-412c-95e84edf860f/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "description": "English Quest 不是一个单纯让孩子点一点击屏幕的英语游戏。它的核心目标，是帮助孩子从“不愿开口”走向“愿意参与说英语”。 很多孩子不是完全听不懂英语，而是不愿说、不敢说、容易卡住，或者一有压力就回避。English Quest 的设计重点，是降低这种阻力，让孩子更愿意参与。 孩子会在图片、选择和分支路径组成的冒险中前进。每一次选择，都可以成为一次开口表达的机会。 3.0 核心更新： 语音模式：孩子可以通过说出选择来推动主要冒险流程，让“开口说”和“继续前进”直接连接。 触控模式：当孩子暂时不想说、年龄较小、环境不方便，或需要降低挫败感时，仍然可以顺畅使用。 Creator Mode：老师和家长可以快速创建自己的分支故事，用于家庭练习、课堂活动、一对一引导或小组口语任务。 自定义图片：可以直接拍照、从相册导入，或在图片编辑器中制作自己的选择图片。 图片编辑工具：支持图层、背景图片、叠加图片、智能去背景、绘画、形状、emoji 和文字。 自定义旁白：老师或家长可以为页面录制 narration，让孩子在熟悉的声音和个性化提示中练习。 English Quest 适合： 希望提升孩子英语口语参与度的家庭 想让课堂有更多开口机会的老师 需要一个可引导、可定制、低压力口语活动工具的成人 希望把教材主题、节日、动物、地点、人物或孩子兴趣变成英语表达任务的人 English Quest 的价值，不只是内容本身，而是把“图片 + 选择 + 声音 + 分支 + 成人引导 + 个性化内容”组合成一个更容易发生真实参与的系统。 如果你要找的不是一个只让孩子看一看、点一点的应用，而是一个帮助孩子愿意开口、参与表达、建立信心的工具，English Quest 3.0 就是为这个目标而设计的。",
+    "fullDescription": "English Quest 不是一个单纯让孩子点一点击屏幕的英语游戏。它的核心目标，是帮助孩子从“不愿开口”走向“愿意参与说英语”。 很多孩子不是完全听不懂英语，而是不愿说、不敢说、容易卡住，或者一有压力就回避。English Quest 的设计重点，是降低这种阻力，让孩子更愿意参与。 孩子会在图片、选择和分支路径组成的冒险中前进。每一次选择，都可以成为一次开口表达的机会。 3.0 核心更新： 语音模式：孩子可以通过说出选择来推动主要冒险流程，让“开口说”和“继续前进”直接连接。 触控模式：当孩子暂时不想说、年龄较小、环境不方便，或需要降低挫败感时，仍然可以顺畅使用。 Creator Mode：老师和家长可以快速创建自己的分支故事，用于家庭练习、课堂活动、一对一引导或小组口语任务。 自定义图片：可以直接拍照、从相册导入，或在图片编辑器中制作自己的选择图片。 图片编辑工具：支持图层、背景图片、叠加图片、智能去背景、绘画、形状、emoji 和文字。 自定义旁白：老师或家长可以为页面录制 narration，让孩子在熟悉的声音和个性化提示中练习。 English Quest 适合： 希望提升孩子英语口语参与度的家庭 想让课堂有更多开口机会的老师 需要一个可引导、可定制、低压力口语活动工具的成人 希望把教材主题、节日、动物、地点、人物或孩子兴趣变成英语表达任务的人 English Quest 的价值，不只是内容本身，而是把“图片 + 选择 + 声音 + 分支 + 成人引导 + 个性化内容”组合成一个更容易发生真实参与的系统。 如果你要找的不是一个只让孩子看一看、点一点的应用，而是一个帮助孩子愿意开口、参与表达、建立信心的工具，English Quest 3.0 就是为这个目标而设计的。",
+    "summaryDescription": "English Quest 不是一个单纯让孩子点一点击屏幕的英语游戏。它的核心目标，是帮助孩子从“不愿开口”走向“愿意参与说英语”。 很多孩子不是完全听不懂英语，而是不愿说、不敢说、容易卡住，或者一有压力就回避。English Quest 的设计重点，是降低这种阻力，让孩子更愿意参与。 孩子会在图片、选择和分支路径组成的冒险中前进。每一次选择，都可以成为一次开口表达的机会。 3.0 核心更新： 语音模式：孩子可以通过说出选择来推动主要冒险流程，让“开口说”和“继续前进”直接连接。 触控模式：当孩子暂时不想说、年龄较小、环境不方便，或需要降低挫败感时，仍然可以顺畅使用。 Creator Mode：老师和家长可以快速创建自己的分支故事，用于家庭练习、课堂活动、一对一引导或小组口语任务。 自定义图片：可以直接拍照、从相册导入，或在图片编辑器中制作自己的选择图片。 图片编辑工具：支持图层、背景图片、叠加图片、智能去背景、绘画、形状、emoji 和文字。 自定义旁白：老师或家长可以为页面录制 narration，让孩子在熟悉的声音和个性化提示中练习。 English Quest 适合： 希望提升孩子英语口语参与度的家庭 想让课堂有更多开口机会的老师 需要一个可引导、可定制、低压力口语活动工具的成人 希望把教材主题、节日、动物、地点、人物或孩子兴趣变成英语表达任务的人 English Quest 的价值，不只是内容本身，而是把“图片 + 选择 + 声音 + 分支 + 成人引导 + 个性化内容”组合成一个更容易发生真实参与的系统。 如果你要找的不是一个只让孩子看一看、点一点的应用，而是一个帮助孩子愿意开口、参与表达、建立信心的工具，English Quest 3.0 就是为这个目标而设计的。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/70/39/e97039ce-4b97-d7fc-374b-ff5c087458cb/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/70/39/e97039ce-4b97-d7fc-374b-ff5c087458cb/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Shanghai Litaen Education Science&Technology Co. Ltd",
     "artistName": "Shanghai Litaen Education Science&Technology Co. Ltd",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/fa/3d/85fa3d7b-ad97-a6f8-a711-67f0a6c22986/Untitled_design.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/07/cc/3507cc27-f2fd-d16d-b9a2-2c1861002a55/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-11_at_16.46.47.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/16/2d/03162ddf-5ac9-2ac4-83b1-c3e00c250b42/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-11_at_16.56.49.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/a5/1b/7ba51b50-3726-63e3-f893-a88807f774a5/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-11_at_17.00.50.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/33/f3/2033f379-ade7-b5e7-c08e-67eddafe3043/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-11_at_16.47.45.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/9d/92/c99d92be-d49f-d52f-c26f-fa38d9bba1a5/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-11_at_16.51.11.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/50/a7/d350a716-6cb4-cc28-e943-169d5e7e3d51/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-11_at_16.49.56.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/90/cf/a590cfd6-d7b0-92db-7366-9c835fbae129/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-11_at_16.52.53.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/23/3f/76233f86-5a74-4b55-96be-2fc55512ad47/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-11_at_17.22.38.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/41/24/bb4124cd-48f2-c595-db8f-293b5fc4bd17/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-11_at_16.59.57.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/af/fa/7faffae7-6b31-e300-06fd-d0d18602abaf/Screenshot01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/7e/7b/e97e7b89-58fd-2c05-304a-fe1c7e11ce0c/Screenshot02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/9a/b1/4e9ab1a6-ee65-d8da-f32c-42763f8ab53e/Screenshot03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/ac/58/2aac58f3-708c-f60d-979b-ab378bd95de8/Screenshot04.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/fe/d9/7ffed995-70d7-ed0d-2563-d27724d82556/Screenshot05.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/00/43/0a0043f0-0af1-e12d-39ea-42ed7cc386cb/Screenshot06.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/ce/7a/a9ce7a4c-6e70-192f-18ce-039e149d4c3f/Screenshot07.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/cc/86/83cc86e8-e3c3-aa07-e929-bbaf67ba41e9/Screenshot08.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/72/64/217264b5-306d-4e57-732b-ad71b2022bb3/Screenshot09.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/1a/c7/4c1ac70a-3d34-b48f-a386-7109060af167/Screenshot10.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/40/31/f14031e1-a470-40eb-8e4d-06e1d33c4df1/_U82f1_U8bed_U63a2_U5b9d.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/7a/25/b17a253d-21db-e80b-e5f5-0c43a772158e/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-05-11_at_17.23.12.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/34/c4/8c34c4d8-babe-940d-552f-c39a7640fa7a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-05-11_at_17.09.05.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/89/bd/d389bd94-8256-eb2e-dc25-cddf7fdc108c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-05-11_at_17.05.39.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/7c/96/177c968a-8e15-f21d-d9be-daafd3183b53/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-05-11_at_17.20.03.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/ac/41/58ac4174-b612-dd1d-c0cb-c644a266ff24/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-05-11_at_17.12.42.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/8d/b8/b58db8f7-314d-bac1-01aa-14117312be19/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-05-11_at_17.23.17.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/ee/5d/34ee5d83-402f-e919-76df-dbd4cee7fba7/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-05-11_at_17.17.23.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/22/d4/9022d48d-2f55-7dca-ba4e-057278f9779e/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-05-11_at_17.02.44.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/da/b3/d4dab3bf-dc08-893d-881f-09cd54619fe0/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-05-11_at_17.04.22.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/50/27/e1502734-5bf7-0796-9182-4913cc60dc1e/Screenshot01.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/73/d3/4b73d333-c3af-3de6-eae4-ca3ea1299167/Screenshot02.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/7f/7b/e27f7b0f-f517-854e-5790-4fbc0ce2ad3d/Screenshot03.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/91/d4/ff91d44a-682f-1c03-c837-72983e20135b/Screenshot04.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/e9/0b/b3e90baa-2302-2437-ec45-f69d97913a9f/Screenshot05.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/91/00/43910066-e52e-928e-2f1a-7d234ffa2399/Screenshot06.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/71/17/0471174a-68ea-5434-1466-c8c4f3f2afa9/Screenshot07.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/d5/b9/abd5b9e4-4f64-e29f-2d52-04ac375240aa/Screenshot08.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/36/78/9536781c-a509-b8c5-57f5-0f0729be215a/Screenshot09.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/8f/fc/2f8ffcd0-6329-15d2-c159-3f039ece5b30/Screenshot10.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1777617332805
   },
@@ -32624,6 +32676,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788184869523,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1779393077308,
@@ -39344,6 +39404,14 @@
     "history": [
       [
         {
+          "timestamp": 1788184869523,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787610223837,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -39416,9 +39484,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E7%BF%BB%E9%A1%B5%E6%97%B6%E9%92%9F%E5%A4%A9%E6%B0%94-aeroflap-ai/id6759275171?uo=4",
-    "description": "AeroFlap 将您的 iPhone 或 iPad 变成精美的翻牌显示板，灵感源自经典机场和火车站的航班信息牌。每个字符都以逼真的动画翻转到位，伴随悦耳的机械声。 无广告。无跟踪。您的数据仅保存在设备上 - 我们尊重隐私，专注品质。 您会喜欢的理由 逼真的翻牌动画，配以真实翻页音效和触感反馈 翻页时钟支持标准、复古、数字三种样式，12 或 24 小时制 实时本地天气：温度、风速、湿度、体感温度 创建专属留言，支持定时显示和强调色 倒计时器直接显示在翻牌板上并有提醒 AI 问候语和每日消息，可加入您的名字 Color Show 模式：动态图案、渐变与波浪 8 款面板皮肤：经典、午夜、琥珀、OLED 纯黑等 常亮显示的理想之选 夜间模式在天黑后自动调暗屏幕 完美的桌面时钟、床头显示或置物架伴侣 横屏设计，适配支架和底座 iPad 版面铺满整个屏幕 一切皆可个性化 单面板、双面板或三面板布局 三种音效风格外加静音模式 可调节动画速度 摄氏或华氏，mph、kph 或米每秒 支持英语、西班牙语、日语和俄语界面 隐私优先设计 无广告、无第三方分析、无跟踪 留言、计时器和设置仅存储在您的设备上 位置信息仅用于获取本地天气 立即下载 AeroFlap，为您的桌面带来值得拥有的显示板。 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "fullDescription": "AeroFlap 将您的 iPhone 或 iPad 变成精美的翻牌显示板，灵感源自经典机场和火车站的航班信息牌。每个字符都以逼真的动画翻转到位，伴随悦耳的机械声。 无广告。无跟踪。您的数据仅保存在设备上 - 我们尊重隐私，专注品质。 您会喜欢的理由 逼真的翻牌动画，配以真实翻页音效和触感反馈 翻页时钟支持标准、复古、数字三种样式，12 或 24 小时制 实时本地天气：温度、风速、湿度、体感温度 创建专属留言，支持定时显示和强调色 倒计时器直接显示在翻牌板上并有提醒 AI 问候语和每日消息，可加入您的名字 Color Show 模式：动态图案、渐变与波浪 8 款面板皮肤：经典、午夜、琥珀、OLED 纯黑等 常亮显示的理想之选 夜间模式在天黑后自动调暗屏幕 完美的桌面时钟、床头显示或置物架伴侣 横屏设计，适配支架和底座 iPad 版面铺满整个屏幕 一切皆可个性化 单面板、双面板或三面板布局 三种音效风格外加静音模式 可调节动画速度 摄氏或华氏，mph、kph 或米每秒 支持英语、西班牙语、日语和俄语界面 隐私优先设计 无广告、无第三方分析、无跟踪 留言、计时器和设置仅存储在您的设备上 位置信息仅用于获取本地天气 立即下载 AeroFlap，为您的桌面带来值得拥有的显示板。 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "summaryDescription": "AeroFlap 将您的 iPhone 或 iPad 变成精美的翻牌显示板，灵感源自经典机场和火车站的航班信息牌。每个字符都以逼真的动画翻转到位，伴随悦耳的机械声。 无广告。无跟踪。您的数据仅保存在设备上 - 我们尊重隐私，专注品质。 您会喜欢的理由 逼真的翻牌动画，配以真实翻页音效和触感反馈 翻页时钟支持标准、复古、数字三种样式，12 或 24 小时制 实时本地天气：温度、风速、湿度、体感温度 创建专属留言，支持定时显示和强调色 倒计时器直接显示在翻牌板上并有提醒 AI 问候语和每日消息，可加入您的名字 Color Show 模式：动态图案、渐变与波浪 8 款面板皮肤：经典、午夜、琥珀、OLED 纯黑等 常亮显示的理想之选 夜间模式在天黑后自动调暗屏幕 完美的桌面时钟、床头显示或置物架伴侣 横屏设计，适配支架和底座 iPad 版面铺满整个屏幕 一切皆可个性化 单面板、双面板或三面板布局 三种音效风格外加静音模式 可调节动画速度 摄氏或华氏，mph、kph 或米每秒 支持英语、西班牙语、日语和俄语界面 隐私优先设计 无广告、无第三方分析、无跟踪 留言、计时器和设置仅存储在您的设备上 位置信息仅用于获取本地天气 立即下载 AeroFlap，为您的桌面带来值得拥有的显示板。 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "description": "AeroFlap 将您的 iPhone 或 iPad 变成精美的翻牌显示板，灵感源自经典机场和火车站的航班信息牌。每个字符都以逼真的动画翻转到位，伴随悦耳的机械声。 无广告。无跟踪。您的数据仅保存在设备上 - 我们尊重隐私，专注品质。 您会喜欢的理由 逼真的翻牌动画，配以真实翻页音效和触感反馈 翻页时钟支持标准、复古、数字三种样式，12 或 24 小时制 实时本地天气：温度、风速、湿度、体感温度 创建专属留言，支持定时显示和强调色 倒计时器直接显示在翻牌板上并有提醒 AI 问候语和每日消息，可加入您的名字 Color Show 模式：动态图案、渐变与波浪 8 款面板皮肤：经典、午夜、琥珀、OLED 纯黑等 常亮显示的理想之选 夜间模式在天黑后自动调暗屏幕 完美的桌面时钟、床头显示或置物架伴侣 横屏设计，适配支架和底座 iPad 版面铺满整个屏幕 一切皆可个性化 单面板、双面板或三面板布局 三种音效风格外加静音模式 可调节动画速度 摄氏或华氏，mph、kph 或米每秒 支持英语、西班牙语、日语和俄语界面 隐私优先设计 无广告、无第三方分析、无跟踪 留言、计时器和设置仅存储在您的设备上 位置信息仅用于获取本地天气 立即下载 AeroFlap，为您的桌面带来值得拥有的显示板。 Terms of Use: https://www.apple.com/legal/internet-servi",
+    "fullDescription": "AeroFlap 将您的 iPhone 或 iPad 变成精美的翻牌显示板，灵感源自经典机场和火车站的航班信息牌。每个字符都以逼真的动画翻转到位，伴随悦耳的机械声。 无广告。无跟踪。您的数据仅保存在设备上 - 我们尊重隐私，专注品质。 您会喜欢的理由 逼真的翻牌动画，配以真实翻页音效和触感反馈 翻页时钟支持标准、复古、数字三种样式，12 或 24 小时制 实时本地天气：温度、风速、湿度、体感温度 创建专属留言，支持定时显示和强调色 倒计时器直接显示在翻牌板上并有提醒 AI 问候语和每日消息，可加入您的名字 Color Show 模式：动态图案、渐变与波浪 8 款面板皮肤：经典、午夜、琥珀、OLED 纯黑等 常亮显示的理想之选 夜间模式在天黑后自动调暗屏幕 完美的桌面时钟、床头显示或置物架伴侣 横屏设计，适配支架和底座 iPad 版面铺满整个屏幕 一切皆可个性化 单面板、双面板或三面板布局 三种音效风格外加静音模式 可调节动画速度 摄氏或华氏，mph、kph 或米每秒 支持英语、西班牙语、日语和俄语界面 隐私优先设计 无广告、无第三方分析、无跟踪 留言、计时器和设置仅存储在您的设备上 位置信息仅用于获取本地天气 立即下载 AeroFlap，为您的桌面带来值得拥有的显示板。 Terms of Use: https://www.apple.com/legal/internet-servi",
+    "summaryDescription": "AeroFlap 将您的 iPhone 或 iPad 变成精美的翻牌显示板，灵感源自经典机场和火车站的航班信息牌。每个字符都以逼真的动画翻转到位，伴随悦耳的机械声。 无广告。无跟踪。您的数据仅保存在设备上 - 我们尊重隐私，专注品质。 您会喜欢的理由 逼真的翻牌动画，配以真实翻页音效和触感反馈 翻页时钟支持标准、复古、数字三种样式，12 或 24 小时制 实时本地天气：温度、风速、湿度、体感温度 创建专属留言，支持定时显示和强调色 倒计时器直接显示在翻牌板上并有提醒 AI 问候语和每日消息，可加入您的名字 Color Show 模式：动态图案、渐变与波浪 8 款面板皮肤：经典、午夜、琥珀、OLED 纯黑等 常亮显示的理想之选 夜间模式在天黑后自动调暗屏幕 完美的桌面时钟、床头显示或置物架伴侣 横屏设计，适配支架和底座 iPad 版面铺满整个屏幕 一切皆可个性化 单面板、双面板或三面板布局 三种音效风格外加静音模式 可调节动画速度 摄氏或华氏，mph、kph 或米每秒 支持英语、西班牙语、日语和俄语界面 隐私优先设计 无广告、无第三方分析、无跟踪 留言、计时器和设置仅存储在您的设备上 位置信息仅用于获取本地天气 立即下载 AeroFlap，为您的桌面带来值得拥有的显示板。 Terms of Use: https://www.apple.com/legal/internet-servi",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/ce/52/d7ce525a-a44b-14ca-2c26-d8c826d4e862/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/ce/52/d7ce525a-a44b-14ca-2c26-d8c826d4e862/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Aneesh Pradeep",
@@ -44254,9 +44322,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/urban-chord-studio/id6758878604?uo=4",
-    "description": "使用Urban Chord Studio即时打破作家的障碍。Urban Chord Studio是制作人、音乐家和节奏制作人的终极歌曲创作伴侣。无论您是在寻找深情的R&B氛围、黑暗的陷阱情绪还是复杂的爵士乐演奏， Urban Chord Studio都能在几秒钟内产生专业的和声，无需任何音乐理论。为什么选择Urban Chord Studio ？别再盯着空白的项目看了。选择一个流派，探索变化，并为您的下一首歌曲找到完美的情感景观。Focu",
-    "fullDescription": "使用Urban Chord Studio即时打破作家的障碍。Urban Chord Studio是制作人、音乐家和节奏制作人的终极歌曲创作伴侣。无论您是在寻找深情的R&B氛围、黑暗的陷阱情绪还是复杂的爵士乐演奏， Urban Chord Studio都能在几秒钟内产生专业的和声，无需任何音乐理论。为什么选择Urban Chord Studio ？别再盯着空白的项目看了。选择一个流派，探索变化，并为您的下一首歌曲找到完美的情感景观。Focu",
-    "summaryDescription": "使用Urban Chord Studio即时打破作家的障碍。Urban Chord Studio是制作人、音乐家和节奏制作人的终极歌曲创作伴侣。无论您是在寻找深情的R&B氛围、黑暗的陷阱情绪还是复杂的爵士乐演奏， Urban Chord Studio都能在几秒钟内产生专业的和声，无需任何音乐理论。为什么选择Urban Chord Studio ？别再盯着空白的项目看了。选择一个流派，探索变化，并为您的下一首歌曲找到完美的情感景观。Focu",
+    "description": "使用 Urban Chord Studio 立即打破作家的障碍。 Urban Chord Studio 是制作人、音乐家和节拍制作人的终极歌曲创作伴侣。无论您是在寻找深情的 R&B 氛围、黑暗的 Trap 情绪还是复杂的爵士进行曲，Urban Chord Studio 都可以在几秒钟内生成专业的和声，无需任何音乐理论。为什么选择城市和弦工作室？不要再盯着一个空白的项目了。选择流派，探索变体，并为您的下一首歌曲找到完美的情感景观。纯粹专注于和谐和情绪，而不会因复杂的鼓模式而分心。主要特点：20+ Mus",
+    "fullDescription": "使用 Urban Chord Studio 立即打破作家的障碍。 Urban Chord Studio 是制作人、音乐家和节拍制作人的终极歌曲创作伴侣。无论您是在寻找深情的 R&B 氛围、黑暗的 Trap 情绪还是复杂的爵士进行曲，Urban Chord Studio 都可以在几秒钟内生成专业的和声，无需任何音乐理论。为什么选择城市和弦工作室？不要再盯着一个空白的项目了。选择流派，探索变体，并为您的下一首歌曲找到完美的情感景观。纯粹专注于和谐和情绪，而不会因复杂的鼓模式而分心。主要特点：20+ Mus",
+    "summaryDescription": "使用 Urban Chord Studio 立即打破作家的障碍。 Urban Chord Studio 是制作人、音乐家和节拍制作人的终极歌曲创作伴侣。无论您是在寻找深情的 R&B 氛围、黑暗的 Trap 情绪还是复杂的爵士进行曲，Urban Chord Studio 都可以在几秒钟内生成专业的和声，无需任何音乐理论。为什么选择城市和弦工作室？不要再盯着一个空白的项目了。选择流派，探索变体，并为您的下一首歌曲找到完美的情感景观。纯粹专注于和谐和情绪，而不会因复杂的鼓模式而分心。主要特点：20+ Mus",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/69/2c/23692ca2-0143-9de8-f4e0-ead14e0b97b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/69/2c/23692ca2-0143-9de8-f4e0-ead14e0b97b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Batikan Bozkurt Kursat",
@@ -47067,9 +47135,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E9%AC%BC%E9%AD%82%E6%8E%A2%E6%B5%8B%E5%99%A8-%E7%9B%B8%E6%9C%BA/id6755587034?uo=4",
-    "description": "揭开神秘的超自然隐形世界：以尖端 AI与 AR技术呈现。 Ghost Detector Pro 融合先进视觉框架与多传感器融合技术，实时识别并可视化超自然实体。 本应用可能让你感到害怕 高级侦测功能 实时幽灵可视化* * AI驱动人体姿态识别系统生成侦测到实体的骨架叠加效果 ，并带有逼真悬浮、呼吸与动态移动动画。 多传感器分析* * 磁场监测：追踪电磁异常 （ X、 Y、 Z轴 +总强度 ）。 音频可视化 支持：对超自然声音进行动态波形分析。 LiDAR ：在兼容设备上增强景深感知。 可调侦测强度* *选择 低中/高 敏感度模式，自定义你的捉鬼体验。 拍摄与录制 照片与视频录制* * 用实时AR叠加捕捉证据 ，显示侦测到的实体。 专业水印* * 带时间戳的捕捉内容，确保记录真实可靠。 防护功能 神秘法术系统* *完整版 激活防护符文与咒语（ Full Version ）。 侦测模式控制* * 针对不同超自然环境精细调节敏感度。 Pro 功能 升级解锁： * * 无限视频录制与照片捕捉 可调侦测强度控制 防护法术与符文激活 无广告体验 技术规格： * * 实时骨架动画系统 支持 40 + 语言 适配 iOS 设备 TrueDep",
-    "fullDescription": "揭开神秘的超自然隐形世界：以尖端 AI与 AR技术呈现。 Ghost Detector Pro 融合先进视觉框架与多传感器融合技术，实时识别并可视化超自然实体。 本应用可能让你感到害怕 高级侦测功能 实时幽灵可视化* * AI驱动人体姿态识别系统生成侦测到实体的骨架叠加效果 ，并带有逼真悬浮、呼吸与动态移动动画。 多传感器分析* * 磁场监测：追踪电磁异常 （ X、 Y、 Z轴 +总强度 ）。 音频可视化 支持：对超自然声音进行动态波形分析。 LiDAR ：在兼容设备上增强景深感知。 可调侦测强度* *选择 低中/高 敏感度模式，自定义你的捉鬼体验。 拍摄与录制 照片与视频录制* * 用实时AR叠加捕捉证据 ，显示侦测到的实体。 专业水印* * 带时间戳的捕捉内容，确保记录真实可靠。 防护功能 神秘法术系统* *完整版 激活防护符文与咒语（ Full Version ）。 侦测模式控制* * 针对不同超自然环境精细调节敏感度。 Pro 功能 升级解锁： * * 无限视频录制与照片捕捉 可调侦测强度控制 防护法术与符文激活 无广告体验 技术规格： * * 实时骨架动画系统 支持 40 + 语言 适配 iOS 设备 TrueDep",
-    "summaryDescription": "揭开神秘的超自然隐形世界：以尖端 AI与 AR技术呈现。 Ghost Detector Pro 融合先进视觉框架与多传感器融合技术，实时识别并可视化超自然实体。 本应用可能让你感到害怕 高级侦测功能 实时幽灵可视化* * AI驱动人体姿态识别系统生成侦测到实体的骨架叠加效果 ，并带有逼真悬浮、呼吸与动态移动动画。 多传感器分析* * 磁场监测：追踪电磁异常 （ X、 Y、 Z轴 +总强度 ）。 音频可视化 支持：对超自然声音进行动态波形分析。 LiDAR ：在兼容设备上增强景深感知。 可调侦测强度* *选择 低中/高 敏感度模式，自定义你的捉鬼体验。 拍摄与录制 照片与视频录制* * 用实时AR叠加捕捉证据 ，显示侦测到的实体。 专业水印* * 带时间戳的捕捉内容，确保记录真实可靠。 防护功能 神秘法术系统* *完整版 激活防护符文与咒语（ Full Version ）。 侦测模式控制* * 针对不同超自然环境精细调节敏感度。 Pro 功能 升级解锁： * * 无限视频录制与照片捕捉 可调侦测强度控制 防护法术与符文激活 无广告体验 技术规格： * * 实时骨架动画系统 支持 40 + 语言 适配 iOS 设备 TrueDep",
+    "description": "揭开神秘的超自然隐形世界：以尖端AI与AR技术呈现。 Ghost Detector Pro 融合先进视觉框架与多传感器融合技术，实时识别并可视化超自然实体。 本应用可能让你感到害怕 高级侦测功能 实时幽灵可视化** AI驱动人体姿态识别系统生成侦测到实体的骨架叠加效果，并带有逼真悬浮、呼吸与动态移动动画。 多传感器分析** 磁场监测：追踪电磁异常（X、Y、Z轴+总强度）。 音频可视化：对超自然声音进行动态波形分析。 LiDAR 支持：在兼容设备上增强景深感知。 可调侦测强度** 选择 低/中/高 敏感度模式，自定义你的捉鬼体验。 拍摄与录制 照片与视频录制** 用实时AR叠加捕捉证据，显示侦测到的实体。 专业水印** 带时间戳的捕捉内容，确保记录真实可靠。 防护功能 神秘法术系统**（完整版） 激活防护符文与咒语（Full Version）。 侦测模式控制** 针对不同超自然环境精细调节敏感度。 Pro 功能 升级解锁：** 无限视频录制与照片捕捉 可调侦测强度控制 防护法术与符文激活 无广告体验 技术规格：** 实时骨架动画系统 支持 40+ 语言 适配 iOS 设备 TrueDepth 摄像头 适合超自然调查员、捉鬼者，或任何对神秘现象感到好奇的人。立即下载，开启你的捉鬼之旅！** 警告 如果你非常敏感或容易受惊，请考虑不要使用本应用并将其关闭。使用本应用时请勿让自己处于危险之",
+    "fullDescription": "揭开神秘的超自然隐形世界：以尖端AI与AR技术呈现。 Ghost Detector Pro 融合先进视觉框架与多传感器融合技术，实时识别并可视化超自然实体。 本应用可能让你感到害怕 高级侦测功能 实时幽灵可视化** AI驱动人体姿态识别系统生成侦测到实体的骨架叠加效果，并带有逼真悬浮、呼吸与动态移动动画。 多传感器分析** 磁场监测：追踪电磁异常（X、Y、Z轴+总强度）。 音频可视化：对超自然声音进行动态波形分析。 LiDAR 支持：在兼容设备上增强景深感知。 可调侦测强度** 选择 低/中/高 敏感度模式，自定义你的捉鬼体验。 拍摄与录制 照片与视频录制** 用实时AR叠加捕捉证据，显示侦测到的实体。 专业水印** 带时间戳的捕捉内容，确保记录真实可靠。 防护功能 神秘法术系统**（完整版） 激活防护符文与咒语（Full Version）。 侦测模式控制** 针对不同超自然环境精细调节敏感度。 Pro 功能 升级解锁：** 无限视频录制与照片捕捉 可调侦测强度控制 防护法术与符文激活 无广告体验 技术规格：** 实时骨架动画系统 支持 40+ 语言 适配 iOS 设备 TrueDepth 摄像头 适合超自然调查员、捉鬼者，或任何对神秘现象感到好奇的人。立即下载，开启你的捉鬼之旅！** 警告 如果你非常敏感或容易受惊，请考虑不要使用本应用并将其关闭。使用本应用时请勿让自己处于危险之",
+    "summaryDescription": "揭开神秘的超自然隐形世界：以尖端AI与AR技术呈现。 Ghost Detector Pro 融合先进视觉框架与多传感器融合技术，实时识别并可视化超自然实体。 本应用可能让你感到害怕 高级侦测功能 实时幽灵可视化** AI驱动人体姿态识别系统生成侦测到实体的骨架叠加效果，并带有逼真悬浮、呼吸与动态移动动画。 多传感器分析** 磁场监测：追踪电磁异常（X、Y、Z轴+总强度）。 音频可视化：对超自然声音进行动态波形分析。 LiDAR 支持：在兼容设备上增强景深感知。 可调侦测强度** 选择 低/中/高 敏感度模式，自定义你的捉鬼体验。 拍摄与录制 照片与视频录制** 用实时AR叠加捕捉证据，显示侦测到的实体。 专业水印** 带时间戳的捕捉内容，确保记录真实可靠。 防护功能 神秘法术系统**（完整版） 激活防护符文与咒语（Full Version）。 侦测模式控制** 针对不同超自然环境精细调节敏感度。 Pro 功能 升级解锁：** 无限视频录制与照片捕捉 可调侦测强度控制 防护法术与符文激活 无广告体验 技术规格：** 实时骨架动画系统 支持 40+ 语言 适配 iOS 设备 TrueDepth 摄像头 适合超自然调查员、捉鬼者，或任何对神秘现象感到好奇的人。立即下载，开启你的捉鬼之旅！** 警告 如果你非常敏感或容易受惊，请考虑不要使用本应用并将其关闭。使用本应用时请勿让自己处于危险之",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/92/92/dc929276-c2b3-0062-8fe1-c784371143e7/GhostLogo-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/92/92/dc929276-c2b3-0062-8fe1-c784371143e7/GhostLogo-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Kai Chi Tsao",
@@ -57247,14 +57315,22 @@
     "name": "You Got This! Workout Tracker",
     "trackName": "You Got This! Workout Tracker",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 38,
+      "formattedPrice": "¥38.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788184869523,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1780153506218,
@@ -59067,6 +59143,18 @@
     "history": [
       [
         {
+          "timestamp": 1788184869523,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "CalendarSpeak Premium Lifetime": "¥8.00",
+            "CalendarSpeak Premium Yearly": "¥198.00",
+            "CalendarSpeak Premium Monthly": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788101754035,
           "price": 0,
           "formattedPrice": "免费",
@@ -59211,9 +59299,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/calendarspeak-voice-planner/id6768933110?uo=4",
-    "description": "CalendarSpeak 将你的语音转化为井井有条的日程、任务和提醒。无需打字，也不用在日期选择器里反复点击。说出你需要安排的内容 ，它就会在几秒钟内出现在你的日历中。 使用方式 点击麦克风自然说话，完成。 AI 助手能够理解上下文、日期、时间和重复规则——即使你说得不够简洁也没关系。你可以这样说 ： “团队站会每个工作日早上9点” “把明天的牙医预约改到周五下午3点” “取消下周一的健身课程” “添加周六晚上 点的生日晚餐7高优先级” CalendarSpeak 会提出修改建议，你只需轻点确认 ——也可以开启自动接受 ，让一切免手动完成。 功能 ◆ 语音优先的日程安排 最多录制 60 秒自然语音。AI 会自动解析日期、时长、地点、重复规则和优先级。 ◆ 智能日历视图 在日、周、月、年和议程视图之间切换。快速查看时间线或放大查看某一个小时。 ◆ 轻松创建重复事件 每天、工作日、周末、每周、每两周、每月，只需用语音设置一次。你可以跳过单次重复 ，或随时结束整个系列。 ◆ 基于优先级的提醒 四个级别：低、中、高、紧急。每个级别都有独立的通知时间 ，让重要事件及时提醒 ，不重要的事项保持",
-    "fullDescription": "CalendarSpeak 将你的语音转化为井井有条的日程、任务和提醒。无需打字，也不用在日期选择器里反复点击。说出你需要安排的内容 ，它就会在几秒钟内出现在你的日历中。 使用方式 点击麦克风自然说话，完成。 AI 助手能够理解上下文、日期、时间和重复规则——即使你说得不够简洁也没关系。你可以这样说 ： “团队站会每个工作日早上9点” “把明天的牙医预约改到周五下午3点” “取消下周一的健身课程” “添加周六晚上 点的生日晚餐7高优先级” CalendarSpeak 会提出修改建议，你只需轻点确认 ——也可以开启自动接受 ，让一切免手动完成。 功能 ◆ 语音优先的日程安排 最多录制 60 秒自然语音。AI 会自动解析日期、时长、地点、重复规则和优先级。 ◆ 智能日历视图 在日、周、月、年和议程视图之间切换。快速查看时间线或放大查看某一个小时。 ◆ 轻松创建重复事件 每天、工作日、周末、每周、每两周、每月，只需用语音设置一次。你可以跳过单次重复 ，或随时结束整个系列。 ◆ 基于优先级的提醒 四个级别：低、中、高、紧急。每个级别都有独立的通知时间 ，让重要事件及时提醒 ，不重要的事项保持",
-    "summaryDescription": "CalendarSpeak 将你的语音转化为井井有条的日程、任务和提醒。无需打字，也不用在日期选择器里反复点击。说出你需要安排的内容 ，它就会在几秒钟内出现在你的日历中。 使用方式 点击麦克风自然说话，完成。 AI 助手能够理解上下文、日期、时间和重复规则——即使你说得不够简洁也没关系。你可以这样说 ： “团队站会每个工作日早上9点” “把明天的牙医预约改到周五下午3点” “取消下周一的健身课程” “添加周六晚上 点的生日晚餐7高优先级” CalendarSpeak 会提出修改建议，你只需轻点确认 ——也可以开启自动接受 ，让一切免手动完成。 功能 ◆ 语音优先的日程安排 最多录制 60 秒自然语音。AI 会自动解析日期、时长、地点、重复规则和优先级。 ◆ 智能日历视图 在日、周、月、年和议程视图之间切换。快速查看时间线或放大查看某一个小时。 ◆ 轻松创建重复事件 每天、工作日、周末、每周、每两周、每月，只需用语音设置一次。你可以跳过单次重复 ，或随时结束整个系列。 ◆ 基于优先级的提醒 四个级别：低、中、高、紧急。每个级别都有独立的通知时间 ，让重要事件及时提醒 ，不重要的事项保持",
+    "description": "CalendarSpeak 将你的语音转化为井井有条的日程、任务和提醒。无需打字，也不用在日期选择器里反复点击。说出你需要安排的内容，它就会在几秒钟内出现在你的日历中。 使用方式 点击麦克风，自然说话，完成。AI 助手能够理解上下文、日期、时间和重复规则——即使你说得不够简洁也没关系。你可以这样说： “团队站会每个工作日早上 9 点” “把明天的牙医预约改到周五下午 3 点” “取消下周一的健身课程” “添加周六晚上 7 点的生日晚餐，高优先级” CalendarSpeak 会提出修改建议，你只需轻点确认——也可以开启自动接受，让一切免手动完成。 功能 ◆ 语音优先的日程安排 最多录制 60 秒自然语音。AI 会自动解析日期、时长、地点、重复规则和优先级。 ◆ 智能日历视图 在日、周、月、年和议程视图之间切换。快速查看时间线，或放大查看某一个小时。 ◆ 轻松创建重复事件 每天、工作日、周末、每周、每两周、每月——只需用语音设置一次。你可以跳过单次重复，或随时结束整个系列。 ◆ 基于优先级的提醒 四个级别：低、中、高、紧急。每个级别都有独立的通知时间，让重要事件及时提醒，不重要的事项保持安静。 ◆ 与 Apple Calendar 双向同步 事件双向流动。你在这里创建的任何内容都会显示在 Apple Calendar 中，而来自 iCloud、Google、Exchange 或已添加到 iPhone 的任何账户的事件也会自动同步回来。（Pro） ◆ 颜色标签与整理 提供八种颜色选项，可一眼区分工作、个人、健康和社交事件。 ◆ 支持 Siri 与快捷指令 无需打开应用，即可通过 Siri、快捷指令 App 或主屏幕小组件启动录音或发送文字命令。 ◆ 小组件 直接在主屏幕查看即将到来的事件。轻点即可直接进入 CalendarSpeak。 ◆ 多语言 用你的语言说话——助手会自动检测语言并相应回应。界面支持多种语言。 CALENDARSPEAK PREMIUM CalendarSpeak 可免费使用，包含每日语音输入额度，并可完整访问日历视图、提醒事项、小组件和 Siri 快捷指令。Premium 可解锁无限每日语音输入，以及与 Apple Calendar 的双向同步。 订阅会自动续订，除非在当前周期结束前至少 24 小时关闭自动续订。确认后，费用将从你的 Apple ID 中扣除。你可以随时在 App Store 账户设置中管理或取消订阅。 由 Fastemy - Fast and Fun Education 开发 使用条款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "fullDescription": "CalendarSpeak 将你的语音转化为井井有条的日程、任务和提醒。无需打字，也不用在日期选择器里反复点击。说出你需要安排的内容，它就会在几秒钟内出现在你的日历中。 使用方式 点击麦克风，自然说话，完成。AI 助手能够理解上下文、日期、时间和重复规则——即使你说得不够简洁也没关系。你可以这样说： “团队站会每个工作日早上 9 点” “把明天的牙医预约改到周五下午 3 点” “取消下周一的健身课程” “添加周六晚上 7 点的生日晚餐，高优先级” CalendarSpeak 会提出修改建议，你只需轻点确认——也可以开启自动接受，让一切免手动完成。 功能 ◆ 语音优先的日程安排 最多录制 60 秒自然语音。AI 会自动解析日期、时长、地点、重复规则和优先级。 ◆ 智能日历视图 在日、周、月、年和议程视图之间切换。快速查看时间线，或放大查看某一个小时。 ◆ 轻松创建重复事件 每天、工作日、周末、每周、每两周、每月——只需用语音设置一次。你可以跳过单次重复，或随时结束整个系列。 ◆ 基于优先级的提醒 四个级别：低、中、高、紧急。每个级别都有独立的通知时间，让重要事件及时提醒，不重要的事项保持安静。 ◆ 与 Apple Calendar 双向同步 事件双向流动。你在这里创建的任何内容都会显示在 Apple Calendar 中，而来自 iCloud、Google、Exchange 或已添加到 iPhone 的任何账户的事件也会自动同步回来。（Pro） ◆ 颜色标签与整理 提供八种颜色选项，可一眼区分工作、个人、健康和社交事件。 ◆ 支持 Siri 与快捷指令 无需打开应用，即可通过 Siri、快捷指令 App 或主屏幕小组件启动录音或发送文字命令。 ◆ 小组件 直接在主屏幕查看即将到来的事件。轻点即可直接进入 CalendarSpeak。 ◆ 多语言 用你的语言说话——助手会自动检测语言并相应回应。界面支持多种语言。 CALENDARSPEAK PREMIUM CalendarSpeak 可免费使用，包含每日语音输入额度，并可完整访问日历视图、提醒事项、小组件和 Siri 快捷指令。Premium 可解锁无限每日语音输入，以及与 Apple Calendar 的双向同步。 订阅会自动续订，除非在当前周期结束前至少 24 小时关闭自动续订。确认后，费用将从你的 Apple ID 中扣除。你可以随时在 App Store 账户设置中管理或取消订阅。 由 Fastemy - Fast and Fun Education 开发 使用条款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "summaryDescription": "CalendarSpeak 将你的语音转化为井井有条的日程、任务和提醒。无需打字，也不用在日期选择器里反复点击。说出你需要安排的内容，它就会在几秒钟内出现在你的日历中。 使用方式 点击麦克风，自然说话，完成。AI 助手能够理解上下文、日期、时间和重复规则——即使你说得不够简洁也没关系。你可以这样说： “团队站会每个工作日早上 9 点” “把明天的牙医预约改到周五下午 3 点” “取消下周一的健身课程” “添加周六晚上 7 点的生日晚餐，高优先级” CalendarSpeak 会提出修改建议，你只需轻点确认——也可以开启自动接受，让一切免手动完成。 功能 ◆ 语音优先的日程安排 最多录制 60 秒自然语音。AI 会自动解析日期、时长、地点、重复规则和优先级。 ◆ 智能日历视图 在日、周、月、年和议程视图之间切换。快速查看时间线，或放大查看某一个小时。 ◆ 轻松创建重复事件 每天、工作日、周末、每周、每两周、每月——只需用语音设置一次。你可以跳过单次重复，或随时结束整个系列。 ◆ 基于优先级的提醒 四个级别：低、中、高、紧急。每个级别都有独立的通知时间，让重要事件及时提醒，不重要的事项保持安静。 ◆ 与 Apple Calendar 双向同步 事件双向流动。你在这里创建的任何内容都会显示在 Apple Calendar 中，而来自 iCloud、Google、Exchange 或已添加到 iPhone 的任何账户的事件也会自动同步回来。（Pro） ◆ 颜色标签与整理 提供八种颜色选项，可一眼区分工作、个人、健康和社交事件。 ◆ 支持 Siri 与快捷指令 无需打开应用，即可通过 Siri、快捷指令 App 或主屏幕小组件启动录音或发送文字命令。 ◆ 小组件 直接在主屏幕查看即将到来的事件。轻点即可直接进入 CalendarSpeak。 ◆ 多语言 用你的语言说话——助手会自动检测语言并相应回应。界面支持多种语言。 CALENDARSPEAK PREMIUM CalendarSpeak 可免费使用，包含每日语音输入额度，并可完整访问日历视图、提醒事项、小组件和 Siri 快捷指令。Premium 可解锁无限每日语音输入，以及与 Apple Calendar 的双向同步。 订阅会自动续订，除非在当前周期结束前至少 24 小时关闭自动续订。确认后，费用将从你的 Apple ID 中扣除。你可以随时在 App Store 账户设置中管理或取消订阅。 由 Fastemy - Fast and Fun Education 开发 使用条款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/95/d0/0995d0bc-5ee9-5821-7eae-fd4d8e882faa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/95/d0/0995d0bc-5ee9-5821-7eae-fd4d8e882faa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Abdullah YILMAZ",
@@ -59963,8 +60051,8 @@
     "description": "「App Store 编辑推荐」 「98% 五星好评」 「支持 iPhone/iPad/MacOS 跨平台」 重新定义你的创作流程 - 一款集情绪板、参考图、智能素材管理、精准取色和自由拼贴于一体的全能工具，打破设备边界。 面向 UI/品牌/插画/摄影/建筑/视频分镜等创作场景，打造你在 iPhone / iPad / macOS 上的专业参考图与灵感板工具。 核心功能： 1. 无限画布：智能缓存与图片管理，支持海量图片/素材长期存储与流畅浏览。 2. 多选批量处理：多图选择后一键自适应缩放、智能布局、统一尺寸、复制、对齐。 3. 专业工作流：完整快捷键映射（Mac / iPad 键盘），高频操作更顺手。 4. 图片编辑：旋转、裁剪、去色、垂直/水平翻转、透明度、层级、缩放等全套调整。 5. 动态取色器：实时吸取画布任意颜色，输出常用颜色码。 6. 视频处理：MP4 播放与 4K 静帧提取，做分镜、封面与视频参考更高效。 7. 风格化文本：内置多样字体与样式，用于注释、标题、标注更清晰。 8. 磁性辅助线：对齐提示与智能吸附，排版更精准。 9. GIF 分解：一键逐帧分解动画，细节参考更直观。 10. 导入方式：剪贴板、相册、文件夹、拍照、拖拽（iPad / Mac）。 11. 导出方式：场景导出、图片组导出，便于分享与交付。 12. 网页拖拽：支持 Pinterest / ArtStation / Midjourney / Pixiv / Instagram 等常用图片网站拖拽导入。 13. 多模式：查看模式、锁定模式、操作模式，浏览与编辑互不打扰。 14. 画笔：满足标注与重点圈画需求，沟通更直观。 15. 文件管理：网格/列表视图，多种排序方式调节。 16. 画布缩放：流畅缩放与平移，细节查看更舒服。 17. 多选快速对齐：多选后右上角快捷对齐/分布等调整。 18. 备份与导入：支持全量备份与整包导入，数据可完整迁移与恢复。 19. 文件搜索：支持按关键词快速检索文件，查找与整理更高效。 Pro增强： 1. 图片/GIF/视频备注：支持为图片、GIF 与视频添加备注信息，便于记录灵感、整理要点与回溯创作思路。 2. 预览模式：支持纯净预览一键切换，查看内容更专注、演示展示更清爽。 3. 高级裁剪：提供多种高级裁剪方式，快速适配不同比例与构图需求，出图更高效。 4. 图片模糊：支持图片模糊处理，兼顾隐私保护与视觉层次表达。 5. 场景高清导出（PNG）：支持场景级高清 PNG 导出，细节保真，满足分享、汇报与交付需求。 6. 文件收藏：支持收藏常用文件，快速回到高频参考内容，让灵感检索与整理更高效。 7. 分类标签：支持为文件添加多个分类标签，按用途、项目或状态灵活归档，筛选与定位更高效。 8. 点状背景：支持点状背景切换，帮助提升元素边界对比。 9. 画布灰度：支持一键切换画布灰度显示，专注明暗关系与构图层次，观察更聚焦。 10. 图片色彩分析：智能提取主要颜色，快速洞察画面配色关系。 11. 图层面板：支持名称预览、顺序调整与图层菜单，图层管理更高效。 12. 定时播放：支持定时切换、播放控制与倒计时显示，参考浏览更高效。 13. 图层搜索：支持类型筛选和关键词匹配，帮助你在海量图层中迅速定位目标内容. 14. 画笔多预设：支持多组画笔预设，快速切换不同粗细、颜色与透明度，标注、圈画和创意草绘更顺手。 15. 画布RGB单通道预览：支持画布 R/G/B 单通道预览，帮助观察色彩分布、明暗层次与细节差异，配色分析与视觉校对更专业。 您可以选择订阅寻画参考Pro会员，一旦您确认订阅Pro会员，您的 iTunes 账户将被收取相应的费用。订阅将自动续费，除非您在当前订阅结束前24小时以上取消自动续订。订阅成功后，您可在 iTunes Store 中管理订阅。 隐私声明：https://xunhuaref.cn/index.php/privacypolicy/ 使用条款：https://xunhuaref.cn/index.php/privacypolicy/eula-en/ 立即下载，体验 Apple 生态中最流畅的创作工具！ 感谢阅读。联系我们： 邮箱：xunhuaref@163.com",
     "fullDescription": "「App Store 编辑推荐」 「98% 五星好评」 「支持 iPhone/iPad/MacOS 跨平台」 重新定义你的创作流程 - 一款集情绪板、参考图、智能素材管理、精准取色和自由拼贴于一体的全能工具，打破设备边界。 面向 UI/品牌/插画/摄影/建筑/视频分镜等创作场景，打造你在 iPhone / iPad / macOS 上的专业参考图与灵感板工具。 核心功能： 1. 无限画布：智能缓存与图片管理，支持海量图片/素材长期存储与流畅浏览。 2. 多选批量处理：多图选择后一键自适应缩放、智能布局、统一尺寸、复制、对齐。 3. 专业工作流：完整快捷键映射（Mac / iPad 键盘），高频操作更顺手。 4. 图片编辑：旋转、裁剪、去色、垂直/水平翻转、透明度、层级、缩放等全套调整。 5. 动态取色器：实时吸取画布任意颜色，输出常用颜色码。 6. 视频处理：MP4 播放与 4K 静帧提取，做分镜、封面与视频参考更高效。 7. 风格化文本：内置多样字体与样式，用于注释、标题、标注更清晰。 8. 磁性辅助线：对齐提示与智能吸附，排版更精准。 9. GIF 分解：一键逐帧分解动画，细节参考更直观。 10. 导入方式：剪贴板、相册、文件夹、拍照、拖拽（iPad / Mac）。 11. 导出方式：场景导出、图片组导出，便于分享与交付。 12. 网页拖拽：支持 Pinterest / ArtStation / Midjourney / Pixiv / Instagram 等常用图片网站拖拽导入。 13. 多模式：查看模式、锁定模式、操作模式，浏览与编辑互不打扰。 14. 画笔：满足标注与重点圈画需求，沟通更直观。 15. 文件管理：网格/列表视图，多种排序方式调节。 16. 画布缩放：流畅缩放与平移，细节查看更舒服。 17. 多选快速对齐：多选后右上角快捷对齐/分布等调整。 18. 备份与导入：支持全量备份与整包导入，数据可完整迁移与恢复。 19. 文件搜索：支持按关键词快速检索文件，查找与整理更高效。 Pro增强： 1. 图片/GIF/视频备注：支持为图片、GIF 与视频添加备注信息，便于记录灵感、整理要点与回溯创作思路。 2. 预览模式：支持纯净预览一键切换，查看内容更专注、演示展示更清爽。 3. 高级裁剪：提供多种高级裁剪方式，快速适配不同比例与构图需求，出图更高效。 4. 图片模糊：支持图片模糊处理，兼顾隐私保护与视觉层次表达。 5. 场景高清导出（PNG）：支持场景级高清 PNG 导出，细节保真，满足分享、汇报与交付需求。 6. 文件收藏：支持收藏常用文件，快速回到高频参考内容，让灵感检索与整理更高效。 7. 分类标签：支持为文件添加多个分类标签，按用途、项目或状态灵活归档，筛选与定位更高效。 8. 点状背景：支持点状背景切换，帮助提升元素边界对比。 9. 画布灰度：支持一键切换画布灰度显示，专注明暗关系与构图层次，观察更聚焦。 10. 图片色彩分析：智能提取主要颜色，快速洞察画面配色关系。 11. 图层面板：支持名称预览、顺序调整与图层菜单，图层管理更高效。 12. 定时播放：支持定时切换、播放控制与倒计时显示，参考浏览更高效。 13. 图层搜索：支持类型筛选和关键词匹配，帮助你在海量图层中迅速定位目标内容. 14. 画笔多预设：支持多组画笔预设，快速切换不同粗细、颜色与透明度，标注、圈画和创意草绘更顺手。 15. 画布RGB单通道预览：支持画布 R/G/B 单通道预览，帮助观察色彩分布、明暗层次与细节差异，配色分析与视觉校对更专业。 您可以选择订阅寻画参考Pro会员，一旦您确认订阅Pro会员，您的 iTunes 账户将被收取相应的费用。订阅将自动续费，除非您在当前订阅结束前24小时以上取消自动续订。订阅成功后，您可在 iTunes Store 中管理订阅。 隐私声明：https://xunhuaref.cn/index.php/privacypolicy/ 使用条款：https://xunhuaref.cn/index.php/privacypolicy/eula-en/ 立即下载，体验 Apple 生态中最流畅的创作工具！ 感谢阅读。联系我们： 邮箱：xunhuaref@163.com",
     "summaryDescription": "「App Store 编辑推荐」 「98% 五星好评」 「支持 iPhone/iPad/MacOS 跨平台」 重新定义你的创作流程 - 一款集情绪板、参考图、智能素材管理、精准取色和自由拼贴于一体的全能工具，打破设备边界。 面向 UI/品牌/插画/摄影/建筑/视频分镜等创作场景，打造你在 iPhone / iPad / macOS 上的专业参考图与灵感板工具。 核心功能： 1. 无限画布：智能缓存与图片管理，支持海量图片/素材长期存储与流畅浏览。 2. 多选批量处理：多图选择后一键自适应缩放、智能布局、统一尺寸、复制、对齐。 3. 专业工作流：完整快捷键映射（Mac / iPad 键盘），高频操作更顺手。 4. 图片编辑：旋转、裁剪、去色、垂直/水平翻转、透明度、层级、缩放等全套调整。 5. 动态取色器：实时吸取画布任意颜色，输出常用颜色码。 6. 视频处理：MP4 播放与 4K 静帧提取，做分镜、封面与视频参考更高效。 7. 风格化文本：内置多样字体与样式，用于注释、标题、标注更清晰。 8. 磁性辅助线：对齐提示与智能吸附，排版更精准。 9. GIF 分解：一键逐帧分解动画，细节参考更直观。 10. 导入方式：剪贴板、相册、文件夹、拍照、拖拽（iPad / Mac）。 11. 导出方式：场景导出、图片组导出，便于分享与交付。 12. 网页拖拽：支持 Pinterest / ArtStation / Midjourney / Pixiv / Instagram 等常用图片网站拖拽导入。 13. 多模式：查看模式、锁定模式、操作模式，浏览与编辑互不打扰。 14. 画笔：满足标注与重点圈画需求，沟通更直观。 15. 文件管理：网格/列表视图，多种排序方式调节。 16. 画布缩放：流畅缩放与平移，细节查看更舒服。 17. 多选快速对齐：多选后右上角快捷对齐/分布等调整。 18. 备份与导入：支持全量备份与整包导入，数据可完整迁移与恢复。 19. 文件搜索：支持按关键词快速检索文件，查找与整理更高效。 Pro增强： 1. 图片/GIF/视频备注：支持为图片、GIF 与视频添加备注信息，便于记录灵感、整理要点与回溯创作思路。 2. 预览模式：支持纯净预览一键切换，查看内容更专注、演示展示更清爽。 3. 高级裁剪：提供多种高级裁剪方式，快速适配不同比例与构图需求，出图更高效。 4. 图片模糊：支持图片模糊处理，兼顾隐私保护与视觉层次表达。 5. 场景高清导出（PNG）：支持场景级高清 PNG 导出，细节保真，满足分享、汇报与交付需求。 6. 文件收藏：支持收藏常用文件，快速回到高频参考内容，让灵感检索与整理更高效。 7. 分类标签：支持为文件添加多个分类标签，按用途、项目或状态灵活归档，筛选与定位更高效。 8. 点状背景：支持点状背景切换，帮助提升元素边界对比。 9. 画布灰度：支持一键切换画布灰度显示，专注明暗关系与构图层次，观察更聚焦。 10. 图片色彩分析：智能提取主要颜色，快速洞察画面配色关系。 11. 图层面板：支持名称预览、顺序调整与图层菜单，图层管理更高效。 12. 定时播放：支持定时切换、播放控制与倒计时显示，参考浏览更高效。 13. 图层搜索：支持类型筛选和关键词匹配，帮助你在海量图层中迅速定位目标内容. 14. 画笔多预设：支持多组画笔预设，快速切换不同粗细、颜色与透明度，标注、圈画和创意草绘更顺手。 15. 画布RGB单通道预览：支持画布 R/G/B 单通道预览，帮助观察色彩分布、明暗层次与细节差异，配色分析与视觉校对更专业。 您可以选择订阅寻画参考Pro会员，一旦您确认订阅Pro会员，您的 iTunes 账户将被收取相应的费用。订阅将自动续费，除非您在当前订阅结束前24小时以上取消自动续订。订阅成功后，您可在 iTunes Store 中管理订阅。 隐私声明：https://xunhuaref.cn/index.php/privacypolicy/ 使用条款：https://xunhuaref.cn/index.php/privacypolicy/eula-en/ 立即下载，体验 Apple 生态中最流畅的创作工具！ 感谢阅读。联系我们： 邮箱：xunhuaref@163.com",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/99/e1/fd99e1b6-1675-fb59-ddf3-74d443ee8217/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/99/e1/fd99e1b6-1675-fb59-ddf3-74d443ee8217/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/d5/2c/18d52c98-bdd8-5dd1-568f-29bbacc0b5be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/d5/2c/18d52c98-bdd8-5dd1-568f-29bbacc0b5be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "文荣 李",
     "artistName": "文荣 李",
     "screenshotUrls": [
@@ -62213,8 +62301,8 @@
     "_externalSourceFirstSeen": 1779362471655
   },
   "6764547266": {
-    "name": "AirCull：翻看照片整理相册",
-    "trackName": "AirCull：翻看照片整理相册",
+    "name": "AirCull：照片整理与相册清理",
+    "trackName": "AirCull：照片整理与相册清理",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
@@ -62279,12 +62367,12 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/aircull-%E7%BF%BB%E7%9C%8B%E7%85%A7%E7%89%87%E6%95%B4%E7%90%86%E7%9B%B8%E5%86%8C/id6764547266?uo=4",
+    "trackViewUrl": "https://apps.apple.com/cn/app/aircull-%E7%85%A7%E7%89%87%E6%95%B4%E7%90%86%E4%B8%8E%E7%9B%B8%E5%86%8C%E6%B8%85%E7%90%86/id6764547266?uo=4",
     "description": "整理相册，不必一次做完。 AirCull 是一款更克制的相册整理工具。它会把照片整理成一组组更容易处理的小任务，让你像翻卡片一样查看、保留或移除照片。 你可以从每天一组回忆开始，也可以集中处理截图与重复、相似照片和待确认照片。AirCull 会给出照片质量、美学评分和内容类型等参考信息，但不会替你自动删除。每一次移除，都由你确认。 主要功能 每天一组回看 从一小组照片开始整理，不需要一次面对整个相册。 卡片式整理 左右滑动查看照片，上滑加入待移除，也可以进入详情页确认。 分类检查 分别处理截图与重复、相似照片和待确认照片，减少来回翻找。 本机分析 照片检查在设备本地完成。AirCull 不会上传你的照片。 删除前确认 AirCull 只给出整理建议。你可以查看原图和判断依据，再决定保留或移除。 可恢复内容 已移除照片会先进入可恢复内容，方便你回看、恢复或彻底删除。 适合这些场景 相册里有很多连拍和相似照片。 截图越存越多，想集中处理。 想清理空间，但不想一次性批量删除。 希望每天花几分钟维护相册。 AirCull 不是一键清空相册的工具。它更适合慢慢整理，少一点误删压力，多一点掌控感。 隐私政策： https://www.notion.so/Notion_AirCull_Privacy_Support_CN-35d031af046380b899a4c90dbac080bf 使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "整理相册，不必一次做完。 AirCull 是一款更克制的相册整理工具。它会把照片整理成一组组更容易处理的小任务，让你像翻卡片一样查看、保留或移除照片。 你可以从每天一组回忆开始，也可以集中处理截图与重复、相似照片和待确认照片。AirCull 会给出照片质量、美学评分和内容类型等参考信息，但不会替你自动删除。每一次移除，都由你确认。 主要功能 每天一组回看 从一小组照片开始整理，不需要一次面对整个相册。 卡片式整理 左右滑动查看照片，上滑加入待移除，也可以进入详情页确认。 分类检查 分别处理截图与重复、相似照片和待确认照片，减少来回翻找。 本机分析 照片检查在设备本地完成。AirCull 不会上传你的照片。 删除前确认 AirCull 只给出整理建议。你可以查看原图和判断依据，再决定保留或移除。 可恢复内容 已移除照片会先进入可恢复内容，方便你回看、恢复或彻底删除。 适合这些场景 相册里有很多连拍和相似照片。 截图越存越多，想集中处理。 想清理空间，但不想一次性批量删除。 希望每天花几分钟维护相册。 AirCull 不是一键清空相册的工具。它更适合慢慢整理，少一点误删压力，多一点掌控感。 隐私政策： https://www.notion.so/Notion_AirCull_Privacy_Support_CN-35d031af046380b899a4c90dbac080bf 使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "整理相册，不必一次做完。 AirCull 是一款更克制的相册整理工具。它会把照片整理成一组组更容易处理的小任务，让你像翻卡片一样查看、保留或移除照片。 你可以从每天一组回忆开始，也可以集中处理截图与重复、相似照片和待确认照片。AirCull 会给出照片质量、美学评分和内容类型等参考信息，但不会替你自动删除。每一次移除，都由你确认。 主要功能 每天一组回看 从一小组照片开始整理，不需要一次面对整个相册。 卡片式整理 左右滑动查看照片，上滑加入待移除，也可以进入详情页确认。 分类检查 分别处理截图与重复、相似照片和待确认照片，减少来回翻找。 本机分析 照片检查在设备本地完成。AirCull 不会上传你的照片。 删除前确认 AirCull 只给出整理建议。你可以查看原图和判断依据，再决定保留或移除。 可恢复内容 已移除照片会先进入可恢复内容，方便你回看、恢复或彻底删除。 适合这些场景 相册里有很多连拍和相似照片。 截图越存越多，想集中处理。 想清理空间，但不想一次性批量删除。 希望每天花几分钟维护相册。 AirCull 不是一键清空相册的工具。它更适合慢慢整理，少一点误删压力，多一点掌控感。 隐私政策： https://www.notion.so/Notion_AirCull_Privacy_Support_CN-35d031af046380b899a4c90dbac080bf 使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/74/39/527439c4-0c7d-2803-fb0f-1ee61fc80666/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/74/39/527439c4-0c7d-2803-fb0f-1ee61fc80666/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/1d/55/cb1d55d4-766b-0d30-6dc2-41613e7079d8/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/1d/55/cb1d55d4-766b-0d30-6dc2-41613e7079d8/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "靖文 陈",
     "artistName": "靖文 陈",
     "screenshotUrls": [
@@ -63544,6 +63632,18 @@
     "history": [
       [
         {
+          "timestamp": 1788184869523,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Lifetime": "¥0.00",
+            "Premium Annual": "¥198.00",
+            "Premium Monthly": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788101754035,
           "price": 0,
           "formattedPrice": "免费",
@@ -63684,9 +63784,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/glpzy-glp-1%E8%AE%B0%E5%BD%95/id6761775005?uo=4",
-    "description": "GLPzy 是一款私密的 GLP-1 记录工具，适合记录司美格鲁肽、替尔泊肽、玛仕度肽，以及诺和盈、诺和泰、穆峰达、信尔美等本地常见名称相关的日常记录。 在一个清晰的位置记录剂量、体重、症状、食欲、营养、进度照片和 Apple 健康背景信息。无需在 App 内创建账户。除非你选择导出或分享，记录会保留在你的设备上。 记录你的日常 记录剂量、日期、规格、备注和注射部位 为每周、每日、自定义或遵医嘱的日程设置提醒 记录体重、身体围度、症状、食欲和营养 根据需要记录蛋白质、水、热量、血糖背景和经期背景 通过手动输入、CSV、JSON 或 Apple 健康补充历史数据 查看进展 查看体重、BMI、规律性和趋势图 随时间比较进度照片 浏览日历历史和每日记录 查看仅供个人记录使用的估算水平背景 在可用时以只读方式添加 Apple 健康背景信息 更清晰地回顾 生成用于预约前准备或个人回顾的摘要 PDF 将记录导出为 CSV、JSON 或 PDF 使用小组件和 Apple Watch 快速查看日常记录 使用 Premium 管理库存、提醒和长期回顾工具 默认注重隐私 无需 App 内账户 除非导出或分享，数据会保留在你的设备上 Apple 健康访问是可选且只读的 PREMIUM 高级版 GLPzy Premium 解锁估算水平预测回顾、摘要 PDF、完整历史导出、小组件、Apple Watch、库存追踪、维持期记录、长期回顾工具、高级用药设置和无限照片上传。 重要说明 GLPzy 仅用于个人记录。它不提供医疗建议、剂量建议、治疗建议或诊断。 估算水平背景不是实际测量的血药浓度，不得用于剂量决策。在做出任何治疗决定前，请务必咨询医生或医疗专业人士。 药品名称、可用性、剂型和适应症因国家或地区而异。GLPzy 是独立应用，与药品制造商没有关联，也未获得其背书。 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策: https://www.glpzy.app/zh-Hans/privacy.html",
-    "fullDescription": "GLPzy 是一款私密的 GLP-1 记录工具，适合记录司美格鲁肽、替尔泊肽、玛仕度肽，以及诺和盈、诺和泰、穆峰达、信尔美等本地常见名称相关的日常记录。 在一个清晰的位置记录剂量、体重、症状、食欲、营养、进度照片和 Apple 健康背景信息。无需在 App 内创建账户。除非你选择导出或分享，记录会保留在你的设备上。 记录你的日常 记录剂量、日期、规格、备注和注射部位 为每周、每日、自定义或遵医嘱的日程设置提醒 记录体重、身体围度、症状、食欲和营养 根据需要记录蛋白质、水、热量、血糖背景和经期背景 通过手动输入、CSV、JSON 或 Apple 健康补充历史数据 查看进展 查看体重、BMI、规律性和趋势图 随时间比较进度照片 浏览日历历史和每日记录 查看仅供个人记录使用的估算水平背景 在可用时以只读方式添加 Apple 健康背景信息 更清晰地回顾 生成用于预约前准备或个人回顾的摘要 PDF 将记录导出为 CSV、JSON 或 PDF 使用小组件和 Apple Watch 快速查看日常记录 使用 Premium 管理库存、提醒和长期回顾工具 默认注重隐私 无需 App 内账户 除非导出或分享，数据会保留在你的设备上 Apple 健康访问是可选且只读的 PREMIUM 高级版 GLPzy Premium 解锁估算水平预测回顾、摘要 PDF、完整历史导出、小组件、Apple Watch、库存追踪、维持期记录、长期回顾工具、高级用药设置和无限照片上传。 重要说明 GLPzy 仅用于个人记录。它不提供医疗建议、剂量建议、治疗建议或诊断。 估算水平背景不是实际测量的血药浓度，不得用于剂量决策。在做出任何治疗决定前，请务必咨询医生或医疗专业人士。 药品名称、可用性、剂型和适应症因国家或地区而异。GLPzy 是独立应用，与药品制造商没有关联，也未获得其背书。 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策: https://www.glpzy.app/zh-Hans/privacy.html",
-    "summaryDescription": "GLPzy 是一款私密的 GLP-1 记录工具，适合记录司美格鲁肽、替尔泊肽、玛仕度肽，以及诺和盈、诺和泰、穆峰达、信尔美等本地常见名称相关的日常记录。 在一个清晰的位置记录剂量、体重、症状、食欲、营养、进度照片和 Apple 健康背景信息。无需在 App 内创建账户。除非你选择导出或分享，记录会保留在你的设备上。 记录你的日常 记录剂量、日期、规格、备注和注射部位 为每周、每日、自定义或遵医嘱的日程设置提醒 记录体重、身体围度、症状、食欲和营养 根据需要记录蛋白质、水、热量、血糖背景和经期背景 通过手动输入、CSV、JSON 或 Apple 健康补充历史数据 查看进展 查看体重、BMI、规律性和趋势图 随时间比较进度照片 浏览日历历史和每日记录 查看仅供个人记录使用的估算水平背景 在可用时以只读方式添加 Apple 健康背景信息 更清晰地回顾 生成用于预约前准备或个人回顾的摘要 PDF 将记录导出为 CSV、JSON 或 PDF 使用小组件和 Apple Watch 快速查看日常记录 使用 Premium 管理库存、提醒和长期回顾工具 默认注重隐私 无需 App 内账户 除非导出或分享，数据会保留在你的设备上 Apple 健康访问是可选且只读的 PREMIUM 高级版 GLPzy Premium 解锁估算水平预测回顾、摘要 PDF、完整历史导出、小组件、Apple Watch、库存追踪、维持期记录、长期回顾工具、高级用药设置和无限照片上传。 重要说明 GLPzy 仅用于个人记录。它不提供医疗建议、剂量建议、治疗建议或诊断。 估算水平背景不是实际测量的血药浓度，不得用于剂量决策。在做出任何治疗决定前，请务必咨询医生或医疗专业人士。 药品名称、可用性、剂型和适应症因国家或地区而异。GLPzy 是独立应用，与药品制造商没有关联，也未获得其背书。 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策: https://www.glpzy.app/zh-Hans/privacy.html",
+    "description": "GLPzy 是一款私密的 GLP-1 记录工具，适合记录司美格鲁肽、替尔泊肽、玛仕度肽，以及诺和盈、诺和泰、穆峰达、信尔美等本地常见名称相关的日常记录。 在一个清晰的位置记录剂量、体重、症状、食欲、营养、进度照片和 Apple 健康背景信息。无需在 App 内创建账户。除非你选择导出或分享，记录会保留在你的设备上。 记录你的日常 记录剂量、日期、规格、备注和注射部位 为每周、每日、自定义或遵医嘱的日程设置提醒 记录体重、身体围度、症状、食欲和营养 根据需要记录蛋白质、水、热量、血糖背景和经期背景 通过手动输入、CSV、JSON 或 Apple 健康补充历史数据 查看进展 查看体重、BMI、规律性和趋势图 随时间比较进度照片 浏览日历历史和每日记录 查看仅供个人记录使用的估算水平背景 在可用时以只读方式添加 Apple 健康背景信息 更清晰地回顾 生成用于预约前准备或个人回顾的摘要 PDF 将记录导出为 CSV、JSON 或 PDF 使用小组件和 Apple Watch 快速查看日常记录 使用 Premium 管理库存、提醒和长期回顾工具 默认注重隐私 无需 App 内账户 除非导出或分享，数据会保留在你的设备上 Apple 健康访问是可选且只读的 PREMIUM 高级版 GLPzy Premium 解锁估算水平预测回顾、摘要 PDF、完整历史导出、小组件、Apple Watch、库",
+    "fullDescription": "GLPzy 是一款私密的 GLP-1 记录工具，适合记录司美格鲁肽、替尔泊肽、玛仕度肽，以及诺和盈、诺和泰、穆峰达、信尔美等本地常见名称相关的日常记录。 在一个清晰的位置记录剂量、体重、症状、食欲、营养、进度照片和 Apple 健康背景信息。无需在 App 内创建账户。除非你选择导出或分享，记录会保留在你的设备上。 记录你的日常 记录剂量、日期、规格、备注和注射部位 为每周、每日、自定义或遵医嘱的日程设置提醒 记录体重、身体围度、症状、食欲和营养 根据需要记录蛋白质、水、热量、血糖背景和经期背景 通过手动输入、CSV、JSON 或 Apple 健康补充历史数据 查看进展 查看体重、BMI、规律性和趋势图 随时间比较进度照片 浏览日历历史和每日记录 查看仅供个人记录使用的估算水平背景 在可用时以只读方式添加 Apple 健康背景信息 更清晰地回顾 生成用于预约前准备或个人回顾的摘要 PDF 将记录导出为 CSV、JSON 或 PDF 使用小组件和 Apple Watch 快速查看日常记录 使用 Premium 管理库存、提醒和长期回顾工具 默认注重隐私 无需 App 内账户 除非导出或分享，数据会保留在你的设备上 Apple 健康访问是可选且只读的 PREMIUM 高级版 GLPzy Premium 解锁估算水平预测回顾、摘要 PDF、完整历史导出、小组件、Apple Watch、库",
+    "summaryDescription": "GLPzy 是一款私密的 GLP-1 记录工具，适合记录司美格鲁肽、替尔泊肽、玛仕度肽，以及诺和盈、诺和泰、穆峰达、信尔美等本地常见名称相关的日常记录。 在一个清晰的位置记录剂量、体重、症状、食欲、营养、进度照片和 Apple 健康背景信息。无需在 App 内创建账户。除非你选择导出或分享，记录会保留在你的设备上。 记录你的日常 记录剂量、日期、规格、备注和注射部位 为每周、每日、自定义或遵医嘱的日程设置提醒 记录体重、身体围度、症状、食欲和营养 根据需要记录蛋白质、水、热量、血糖背景和经期背景 通过手动输入、CSV、JSON 或 Apple 健康补充历史数据 查看进展 查看体重、BMI、规律性和趋势图 随时间比较进度照片 浏览日历历史和每日记录 查看仅供个人记录使用的估算水平背景 在可用时以只读方式添加 Apple 健康背景信息 更清晰地回顾 生成用于预约前准备或个人回顾的摘要 PDF 将记录导出为 CSV、JSON 或 PDF 使用小组件和 Apple Watch 快速查看日常记录 使用 Premium 管理库存、提醒和长期回顾工具 默认注重隐私 无需 App 内账户 除非导出或分享，数据会保留在你的设备上 Apple 健康访问是可选且只读的 PREMIUM 高级版 GLPzy Premium 解锁估算水平预测回顾、摘要 PDF、完整历史导出、小组件、Apple Watch、库",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/13/d6/2e13d6d2-83ae-f9de-d534-50f1de68bf05/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/13/d6/2e13d6d2-83ae-f9de-d534-50f1de68bf05/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "STEVEN JAMES GOOD",
@@ -70327,6 +70427,14 @@
     "history": [
       [
         {
+          "timestamp": 1788184869523,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788101754035,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -70351,9 +70459,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E8%AF%8D%E6%BA%90%E8%AF%8D%E5%85%B8-%E6%8E%A2%E7%B4%A2%E5%8D%95%E8%AF%8D%E8%B5%B7%E6%BA%90/id6761450030?uo=4",
-    "description": "借助 AI 词源分析，探索词语从何而来。搜索单词、词根或短语，查看起源、语言路径、词义变化、同源词和相关词汇。 Etymology 是一款清爽快速的词源应用，帮助你探索单词起源、词根、语言路径、词语构成、相关词和历史背景。输入任意单词，即可获得 AI 辅助生成的说明，用更易懂、更有趣的方式了解语言历史。 你可以查询熟悉的单词、书中看到的术语、拉丁语或希腊语词根，也可以搜索课堂上听到的词。了解词语如何在不同语言之间流动，含义如何在几个世纪中变化，以及一个词如何与许多其他词产生联系。 功能亮点： AI 辅助词源查询，涵盖词根、语言路径和含义变化 设备提供匹配的语音时，可调节速度聆听发音 仅在有支持证据时查看单词传说备注 词语构成与相关词，帮助理解更深层的词汇联系 根据你的语言和地区提供个性化发现 轻点或滑动浏览“概览”“历程”和“联系” 可选的每日或每周单词提醒 收藏夹与搜索历史，建立自己的词语库 无需重新搜索即可阅读之前缓存的结果 简洁阅读体验，支持深色模式和动态字体 无需登录 适合写作者、学生、读者、语言学习者、语言学爱好者、词汇提升者，以及所有好奇一个词为什么会有这种含义的人。 Etymology 让每个词都成为通往语言历史的一扇小窗。 搜索单词，了解其起源、词根和语言联系。免费使用，无需账户或订阅。 本应用免费并包含广告。你可以在设置中管理广告隐私控制。 生成的解释可能不完整或不准确，也不是经过验证的学术研究。 新查询会通过 Moruk 网关发送搜索词、可选语言提示、输出语言和提示词上下文。 隐私政策: https://etymology.moruk.app/privacy-policy 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "fullDescription": "借助 AI 词源分析，探索词语从何而来。搜索单词、词根或短语，查看起源、语言路径、词义变化、同源词和相关词汇。 Etymology 是一款清爽快速的词源应用，帮助你探索单词起源、词根、语言路径、词语构成、相关词和历史背景。输入任意单词，即可获得 AI 辅助生成的说明，用更易懂、更有趣的方式了解语言历史。 你可以查询熟悉的单词、书中看到的术语、拉丁语或希腊语词根，也可以搜索课堂上听到的词。了解词语如何在不同语言之间流动，含义如何在几个世纪中变化，以及一个词如何与许多其他词产生联系。 功能亮点： AI 辅助词源查询，涵盖词根、语言路径和含义变化 设备提供匹配的语音时，可调节速度聆听发音 仅在有支持证据时查看单词传说备注 词语构成与相关词，帮助理解更深层的词汇联系 根据你的语言和地区提供个性化发现 轻点或滑动浏览“概览”“历程”和“联系” 可选的每日或每周单词提醒 收藏夹与搜索历史，建立自己的词语库 无需重新搜索即可阅读之前缓存的结果 简洁阅读体验，支持深色模式和动态字体 无需登录 适合写作者、学生、读者、语言学习者、语言学爱好者、词汇提升者，以及所有好奇一个词为什么会有这种含义的人。 Etymology 让每个词都成为通往语言历史的一扇小窗。 搜索单词，了解其起源、词根和语言联系。免费使用，无需账户或订阅。 本应用免费并包含广告。你可以在设置中管理广告隐私控制。 生成的解释可能不完整或不准确，也不是经过验证的学术研究。 新查询会通过 Moruk 网关发送搜索词、可选语言提示、输出语言和提示词上下文。 隐私政策: https://etymology.moruk.app/privacy-policy 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "summaryDescription": "借助 AI 词源分析，探索词语从何而来。搜索单词、词根或短语，查看起源、语言路径、词义变化、同源词和相关词汇。 Etymology 是一款清爽快速的词源应用，帮助你探索单词起源、词根、语言路径、词语构成、相关词和历史背景。输入任意单词，即可获得 AI 辅助生成的说明，用更易懂、更有趣的方式了解语言历史。 你可以查询熟悉的单词、书中看到的术语、拉丁语或希腊语词根，也可以搜索课堂上听到的词。了解词语如何在不同语言之间流动，含义如何在几个世纪中变化，以及一个词如何与许多其他词产生联系。 功能亮点： AI 辅助词源查询，涵盖词根、语言路径和含义变化 设备提供匹配的语音时，可调节速度聆听发音 仅在有支持证据时查看单词传说备注 词语构成与相关词，帮助理解更深层的词汇联系 根据你的语言和地区提供个性化发现 轻点或滑动浏览“概览”“历程”和“联系” 可选的每日或每周单词提醒 收藏夹与搜索历史，建立自己的词语库 无需重新搜索即可阅读之前缓存的结果 简洁阅读体验，支持深色模式和动态字体 无需登录 适合写作者、学生、读者、语言学习者、语言学爱好者、词汇提升者，以及所有好奇一个词为什么会有这种含义的人。 Etymology 让每个词都成为通往语言历史的一扇小窗。 搜索单词，了解其起源、词根和语言联系。免费使用，无需账户或订阅。 本应用免费并包含广告。你可以在设置中管理广告隐私控制。 生成的解释可能不完整或不准确，也不是经过验证的学术研究。 新查询会通过 Moruk 网关发送搜索词、可选语言提示、输出语言和提示词上下文。 隐私政策: https://etymology.moruk.app/privacy-policy 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "description": "借助 AI 词源分析，探索词语从何而来。搜索单词、词根或短语，查看起源、语言路径、词义变化、同源词和相关词汇。 Etymology 是一款清爽快速的词源应用，帮助你探索单词起源、词根、语言路径、词语构成、相关词和历史背景。输入任意单词，即可获得 AI 辅助生成的说明，用更易懂、更有趣的方式了解语言历史。 你可以查询熟悉的单词、书中看到的术语、拉丁语或希腊语词根，也可以搜索课堂上听到的词。了解词语如何在不同语言之间流动，含义如何在几个世纪中变化，以及一个词如何与许多其他词产生联系。 功能亮点： AI 辅助词源查询，涵盖词根、语言路径和含义变化 设备提供匹配的语音时，可调节速度聆听发音 仅在有支持证据时查看单词传说备注 词语构成与相关词，帮助理解更深层的词汇联系 根据你的语言和地区提供个性化发现 轻点或滑动浏览“概览”“历程”和“联系” 可选的每日或每周单词提醒 收藏夹与搜索历史，建立自己的词语库 无需重新搜索即可阅读之前缓存的结果 简洁阅读体验，支持深色模式和动态字体 无需登录 适合写作者、学生、读者、语言学习者、语言学爱好者、词汇提升者，以及所有好奇一个词为什么会有这种含义的人。 Etymology 让每个词都成为通往语言历史的一扇小窗。 搜索单词，了解其起源、词根和语言联系。免费使用，无需账户或订阅。 本应用免费并包含广告。你可以在设置中管理广告隐私控制。 生成的解释可能不完整或",
+    "fullDescription": "借助 AI 词源分析，探索词语从何而来。搜索单词、词根或短语，查看起源、语言路径、词义变化、同源词和相关词汇。 Etymology 是一款清爽快速的词源应用，帮助你探索单词起源、词根、语言路径、词语构成、相关词和历史背景。输入任意单词，即可获得 AI 辅助生成的说明，用更易懂、更有趣的方式了解语言历史。 你可以查询熟悉的单词、书中看到的术语、拉丁语或希腊语词根，也可以搜索课堂上听到的词。了解词语如何在不同语言之间流动，含义如何在几个世纪中变化，以及一个词如何与许多其他词产生联系。 功能亮点： AI 辅助词源查询，涵盖词根、语言路径和含义变化 设备提供匹配的语音时，可调节速度聆听发音 仅在有支持证据时查看单词传说备注 词语构成与相关词，帮助理解更深层的词汇联系 根据你的语言和地区提供个性化发现 轻点或滑动浏览“概览”“历程”和“联系” 可选的每日或每周单词提醒 收藏夹与搜索历史，建立自己的词语库 无需重新搜索即可阅读之前缓存的结果 简洁阅读体验，支持深色模式和动态字体 无需登录 适合写作者、学生、读者、语言学习者、语言学爱好者、词汇提升者，以及所有好奇一个词为什么会有这种含义的人。 Etymology 让每个词都成为通往语言历史的一扇小窗。 搜索单词，了解其起源、词根和语言联系。免费使用，无需账户或订阅。 本应用免费并包含广告。你可以在设置中管理广告隐私控制。 生成的解释可能不完整或",
+    "summaryDescription": "借助 AI 词源分析，探索词语从何而来。搜索单词、词根或短语，查看起源、语言路径、词义变化、同源词和相关词汇。 Etymology 是一款清爽快速的词源应用，帮助你探索单词起源、词根、语言路径、词语构成、相关词和历史背景。输入任意单词，即可获得 AI 辅助生成的说明，用更易懂、更有趣的方式了解语言历史。 你可以查询熟悉的单词、书中看到的术语、拉丁语或希腊语词根，也可以搜索课堂上听到的词。了解词语如何在不同语言之间流动，含义如何在几个世纪中变化，以及一个词如何与许多其他词产生联系。 功能亮点： AI 辅助词源查询，涵盖词根、语言路径和含义变化 设备提供匹配的语音时，可调节速度聆听发音 仅在有支持证据时查看单词传说备注 词语构成与相关词，帮助理解更深层的词汇联系 根据你的语言和地区提供个性化发现 轻点或滑动浏览“概览”“历程”和“联系” 可选的每日或每周单词提醒 收藏夹与搜索历史，建立自己的词语库 无需重新搜索即可阅读之前缓存的结果 简洁阅读体验，支持深色模式和动态字体 无需登录 适合写作者、学生、读者、语言学习者、语言学爱好者、词汇提升者，以及所有好奇一个词为什么会有这种含义的人。 Etymology 让每个词都成为通往语言历史的一扇小窗。 搜索单词，了解其起源、词根和语言联系。免费使用，无需账户或订阅。 本应用免费并包含广告。你可以在设置中管理广告隐私控制。 生成的解释可能不完整或",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/f4/a3/fef4a39d-9436-ed61-6ebd-1c4d02d29cbd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/f4/a3/fef4a39d-9436-ed61-6ebd-1c4d02d29cbd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Moruk LLC",
@@ -79324,14 +79432,22 @@
     "name": "微醺志",
     "trackName": "微醺志",
     "maxPriceInfo": {
-      "price": 12,
-      "formattedPrice": "¥12.00"
+      "price": 15,
+      "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788184869523,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783246210590,
@@ -82575,14 +82691,22 @@
     "name": "Learn FastAPI - Python API",
     "trackName": "Learn FastAPI - Python API",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788184869523,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1780561188523,
@@ -85014,9 +85138,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E7%94%B5%E6%B1%A0%E5%81%A5%E5%BA%B7%E6%A3%80%E6%B5%8B-%E6%80%A7%E8%83%BD%E8%B7%91%E5%88%86%E4%B8%8E%E7%94%B5%E9%87%8F%E7%AE%A1%E5%AE%B6/id6757500486?uo=4",
-    "description": "使用最先进的电池诊断与基准测试套件,全面掌控设备性能。专为 iOS 18 及更高版本优化。 你的 iPhone是否发烫?电量是否比预期消耗得更快? “电池寿命测试”是一款专业级诊断工具专为高级用户和科技爱好者打造,,用于分析最新 Apple 硬件的真实性能、热稳定性和耗电模式。 专业遥测 借助高保真遥测引擎实时监测你的设备。通过采用最新 SwiftUI标准打造的精致玻璃拟态仪表盘,精准追踪电量水平、充电状态和原生温度状态。 高级用户基准测试(从正常到严重压力测试) () 将你的 CPU 和 GPU推向极限。我们的压力测试引擎模拟高负载真实场景,测量性能稳定性和放电速率。在 “热降频”影响你的游戏或工作之前及时发现它。 快速检测(2分钟):即时诊断快照。 标准压测(8分钟):可靠的性能基准。 极限耐力(20分钟):专业的散热与耗电分析。 全球性能排行榜 你的设备表现如何?在我们的全球记录榜上比较你的跑分成绩。查看你的 iPhone在全球数千名用户中的排名,可按机型、芯片和系统版本筛选。 系统参数目录 访问以离线优先的 Apple 硬件综合数据库。将你当前设备",
-    "fullDescription": "使用最先进的电池诊断与基准测试套件,全面掌控设备性能。专为 iOS 18 及更高版本优化。 你的 iPhone是否发烫?电量是否比预期消耗得更快? “电池寿命测试”是一款专业级诊断工具专为高级用户和科技爱好者打造,,用于分析最新 Apple 硬件的真实性能、热稳定性和耗电模式。 专业遥测 借助高保真遥测引擎实时监测你的设备。通过采用最新 SwiftUI标准打造的精致玻璃拟态仪表盘,精准追踪电量水平、充电状态和原生温度状态。 高级用户基准测试(从正常到严重压力测试) () 将你的 CPU 和 GPU推向极限。我们的压力测试引擎模拟高负载真实场景,测量性能稳定性和放电速率。在 “热降频”影响你的游戏或工作之前及时发现它。 快速检测(2分钟):即时诊断快照。 标准压测(8分钟):可靠的性能基准。 极限耐力(20分钟):专业的散热与耗电分析。 全球性能排行榜 你的设备表现如何?在我们的全球记录榜上比较你的跑分成绩。查看你的 iPhone在全球数千名用户中的排名,可按机型、芯片和系统版本筛选。 系统参数目录 访问以离线优先的 Apple 硬件综合数据库。将你当前设备",
-    "summaryDescription": "使用最先进的电池诊断与基准测试套件,全面掌控设备性能。专为 iOS 18 及更高版本优化。 你的 iPhone是否发烫?电量是否比预期消耗得更快? “电池寿命测试”是一款专业级诊断工具专为高级用户和科技爱好者打造,,用于分析最新 Apple 硬件的真实性能、热稳定性和耗电模式。 专业遥测 借助高保真遥测引擎实时监测你的设备。通过采用最新 SwiftUI标准打造的精致玻璃拟态仪表盘,精准追踪电量水平、充电状态和原生温度状态。 高级用户基准测试(从正常到严重压力测试) () 将你的 CPU 和 GPU推向极限。我们的压力测试引擎模拟高负载真实场景,测量性能稳定性和放电速率。在 “热降频”影响你的游戏或工作之前及时发现它。 快速检测(2分钟):即时诊断快照。 标准压测(8分钟):可靠的性能基准。 极限耐力(20分钟):专业的散热与耗电分析。 全球性能排行榜 你的设备表现如何?在我们的全球记录榜上比较你的跑分成绩。查看你的 iPhone在全球数千名用户中的排名,可按机型、芯片和系统版本筛选。 系统参数目录 访问以离线优先的 Apple 硬件综合数据库。将你当前设备",
+    "description": "使用最先进的电池诊断与基准测试套件,全面掌控设备性能。专为 iOS 18 及更高版本优化。 你的 iPhone 是否发烫?电量是否比预期消耗得更快?“Battery Life Test”是一款专业级诊断工具,专为高级用户和科技爱好者打造,用于分析最新 Apple 硬件的真实性能、热稳定性和耗电模式。 专业遥测 借助高保真遥测引擎实时监测你的设备。通过采用最新 SwiftUI 标准打造的精致玻璃拟态仪表盘,精准追踪电量水平、充电状态和原生温度状态(从正常到严重)。 高级用户基准测试(压力测试) 将你的 CPU 和 GPU 推向极限。我们的压力测试引擎模拟高负载真实场景,测量性能稳定性和放电速率。在“热降频”影响你的游戏或工作之前及时发现它。 快速检测(2 分钟):即时诊断快照。 标准压测(8 分钟):可靠的性能基准。 极限耐力(20 分钟):专业的散热与耗电分析。 全球性能排行榜 你的设备表现如何?在我们的全球记录榜上比较你的跑分成绩。查看你的 iPhone 在全球数千名用户中的排名,可按机型、芯片和系统版本筛选。 系统参数目录 访问以离线优先的 Apple 硬件综合数据库。将你当前设备的规格——包括 mAh 电池容量、芯片和显示技术——与任意其他 iPhone 或 iPad 机型进行对比。 数据导出与趋势(Pro) 了解设备的性能历史。可视化耗电趋势,并将测试结果导出为专业的 CS",
+    "fullDescription": "使用最先进的电池诊断与基准测试套件,全面掌控设备性能。专为 iOS 18 及更高版本优化。 你的 iPhone 是否发烫?电量是否比预期消耗得更快?“Battery Life Test”是一款专业级诊断工具,专为高级用户和科技爱好者打造,用于分析最新 Apple 硬件的真实性能、热稳定性和耗电模式。 专业遥测 借助高保真遥测引擎实时监测你的设备。通过采用最新 SwiftUI 标准打造的精致玻璃拟态仪表盘,精准追踪电量水平、充电状态和原生温度状态(从正常到严重)。 高级用户基准测试(压力测试) 将你的 CPU 和 GPU 推向极限。我们的压力测试引擎模拟高负载真实场景,测量性能稳定性和放电速率。在“热降频”影响你的游戏或工作之前及时发现它。 快速检测(2 分钟):即时诊断快照。 标准压测(8 分钟):可靠的性能基准。 极限耐力(20 分钟):专业的散热与耗电分析。 全球性能排行榜 你的设备表现如何?在我们的全球记录榜上比较你的跑分成绩。查看你的 iPhone 在全球数千名用户中的排名,可按机型、芯片和系统版本筛选。 系统参数目录 访问以离线优先的 Apple 硬件综合数据库。将你当前设备的规格——包括 mAh 电池容量、芯片和显示技术——与任意其他 iPhone 或 iPad 机型进行对比。 数据导出与趋势(Pro) 了解设备的性能历史。可视化耗电趋势,并将测试结果导出为专业的 CS",
+    "summaryDescription": "使用最先进的电池诊断与基准测试套件,全面掌控设备性能。专为 iOS 18 及更高版本优化。 你的 iPhone 是否发烫?电量是否比预期消耗得更快?“Battery Life Test”是一款专业级诊断工具,专为高级用户和科技爱好者打造,用于分析最新 Apple 硬件的真实性能、热稳定性和耗电模式。 专业遥测 借助高保真遥测引擎实时监测你的设备。通过采用最新 SwiftUI 标准打造的精致玻璃拟态仪表盘,精准追踪电量水平、充电状态和原生温度状态(从正常到严重)。 高级用户基准测试(压力测试) 将你的 CPU 和 GPU 推向极限。我们的压力测试引擎模拟高负载真实场景,测量性能稳定性和放电速率。在“热降频”影响你的游戏或工作之前及时发现它。 快速检测(2 分钟):即时诊断快照。 标准压测(8 分钟):可靠的性能基准。 极限耐力(20 分钟):专业的散热与耗电分析。 全球性能排行榜 你的设备表现如何?在我们的全球记录榜上比较你的跑分成绩。查看你的 iPhone 在全球数千名用户中的排名,可按机型、芯片和系统版本筛选。 系统参数目录 访问以离线优先的 Apple 硬件综合数据库。将你当前设备的规格——包括 mAh 电池容量、芯片和显示技术——与任意其他 iPhone 或 iPad 机型进行对比。 数据导出与趋势(Pro) 了解设备的性能历史。可视化耗电趋势,并将测试结果导出为专业的 CS",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/60/de/6660de1e-4b4f-fad3-ddf1-c36007ed0034/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/60/de/6660de1e-4b4f-fad3-ddf1-c36007ed0034/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Leopoldo Perez Ortiz",
@@ -89291,8 +89415,8 @@
     "_externalSourceFirstSeen": 1780927506253
   },
   "6761891597": {
-    "name": "LuxTest 学习照度测量工具",
-    "trackName": "LuxTest 学习照度测量工具",
+    "name": "LuxTest 学习照度计",
+    "trackName": "LuxTest 学习照度计",
     "maxPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00"
@@ -89311,19 +89435,19 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/luxtest-%E5%AD%A6%E4%B9%A0%E7%85%A7%E5%BA%A6%E6%B5%8B%E9%87%8F%E5%B7%A5%E5%85%B7/id6761891597?uo=4",
+    "trackViewUrl": "https://apps.apple.com/cn/app/luxtest-%E5%AD%A6%E4%B9%A0%E7%85%A7%E5%BA%A6%E8%AE%A1/id6761891597?uo=4",
     "description": "LuxTest 是一款面向 iPhone 的学习环境照度测量工具，适合用于日常场景中的快速判断与趋势观察。 你可以使用它完成以下操作： 快速查看当前环境的 lux 数值 根据测量结果判断亮度等级 记录单次会话的最小值、最大值和平均值 在本地保存历史记录和校准参数 通过三点桌面检测，对比书桌左侧、中央、右侧的照度差异 主动导出测量数据，便于后续整理 在 iPhone 上，LuxTest 会结合相机曝光参数估算当前环境亮度。相机权限仅用于读取曝光参数，不拍摄照片，也不会上传图像内容。 LuxTest 以本地处理为主，不要求注册账号，适合需要随手判断环境光强弱的用户使用。 免责声明： LuxTest 提供的是基于 iPhone 曝光参数的环境光估算结果，适合日常参考，不应替代专业级照度仪或专业检测结论。",
     "fullDescription": "LuxTest 是一款面向 iPhone 的学习环境照度测量工具，适合用于日常场景中的快速判断与趋势观察。 你可以使用它完成以下操作： 快速查看当前环境的 lux 数值 根据测量结果判断亮度等级 记录单次会话的最小值、最大值和平均值 在本地保存历史记录和校准参数 通过三点桌面检测，对比书桌左侧、中央、右侧的照度差异 主动导出测量数据，便于后续整理 在 iPhone 上，LuxTest 会结合相机曝光参数估算当前环境亮度。相机权限仅用于读取曝光参数，不拍摄照片，也不会上传图像内容。 LuxTest 以本地处理为主，不要求注册账号，适合需要随手判断环境光强弱的用户使用。 免责声明： LuxTest 提供的是基于 iPhone 曝光参数的环境光估算结果，适合日常参考，不应替代专业级照度仪或专业检测结论。",
     "summaryDescription": "LuxTest 是一款面向 iPhone 的学习环境照度测量工具，适合用于日常场景中的快速判断与趋势观察。 你可以使用它完成以下操作： 快速查看当前环境的 lux 数值 根据测量结果判断亮度等级 记录单次会话的最小值、最大值和平均值 在本地保存历史记录和校准参数 通过三点桌面检测，对比书桌左侧、中央、右侧的照度差异 主动导出测量数据，便于后续整理 在 iPhone 上，LuxTest 会结合相机曝光参数估算当前环境亮度。相机权限仅用于读取曝光参数，不拍摄照片，也不会上传图像内容。 LuxTest 以本地处理为主，不要求注册账号，适合需要随手判断环境光强弱的用户使用。 免责声明： LuxTest 提供的是基于 iPhone 曝光参数的环境光估算结果，适合日常参考，不应替代专业级照度仪或专业检测结论。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/af/71/6eaf71e8-7d8e-a91d-382c-1934f94c71b0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/af/71/6eaf71e8-7d8e-a91d-382c-1934f94c71b0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/9f/cd/5b9fcda9-5093-7887-74f2-babfacd3b82e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/9f/cd/5b9fcda9-5093-7887-74f2-babfacd3b82e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "晓燕 王",
     "artistName": "晓燕 王",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/1d/00/6d1d0067-07b7-cf40-385b-565e7c4325ff/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2026-05-17_at_10.06.22.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e8/1b/9ae81bc1-9be1-113c-0465-a465bf6db9d8/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2026-05-17_at_10.07.26.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/da/f3/0fdaf39c-f5cd-f946-37b8-5b472b4a0f71/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2026-05-17_at_10.07.31.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/cc/3d/03cc3d4c-09df-183b-06c7-27039874281a/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2026-05-17_at_10.07.46.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/c6/dd/97c6ddfe-4636-ec88-0816-adb92a7b24c5/01-desk-light.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/b3/0a/2bb30a03-a685-e0db-f839-7218a927d785/02-three-point-scan.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/a3/3b/28a33b54-10b2-1eab-26ab-50d69acf74cd/03-local-history.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/27/b4/0427b467-2d85-c416-1ab2-22826a017fd5/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2026-05-17_at_10.07.46.png/320x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1780927506130
   },
@@ -97342,9 +97466,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/claudio-voice-audio-recorder/id6777854951?uo=4",
-    "description": "Claudio是一款干净、专注的录音机，用于捕捉语音笔记、想法、对话和日常音频时刻。只需轻触一下即可开始录制，在需要时暂停，继续现有录制，修剪音频，重命名文件，并在简单的工作流程中导出录制。Claudio可让您的录制库轻松浏览、搜索、播放和管理。无论您是保存快速创意、录制会议、练习音乐、采访还是保留个人语音笔记， Claudio gi",
-    "fullDescription": "Claudio是一款干净、专注的录音机，用于捕捉语音笔记、想法、对话和日常音频时刻。只需轻触一下即可开始录制，在需要时暂停，继续现有录制，修剪音频，重命名文件，并在简单的工作流程中导出录制。Claudio可让您的录制库轻松浏览、搜索、播放和管理。无论您是保存快速创意、录制会议、练习音乐、采访还是保留个人语音笔记， Claudio gi",
-    "summaryDescription": "Claudio是一款干净、专注的录音机，用于捕捉语音笔记、想法、对话和日常音频时刻。只需轻触一下即可开始录制，在需要时暂停，继续现有录制，修剪音频，重命名文件，并在简单的工作流程中导出录制。Claudio可让您的录制库轻松浏览、搜索、播放和管理。无论您是保存快速创意、录制会议、练习音乐、采访还是保留个人语音笔记， Claudio gi",
+    "description": "Claudio 是一款简洁、专注的录音机，用于捕捉语音笔记、想法、对话和日常音频时刻。一键开始录音，需要时暂停，继续现有录音，修剪音频，重命名文件，并通过简单的工作流程导出录音。 Claudio 让您的录音库易于浏览、搜索、播放和管理。无论您是要保存快速想法、录制会议、练习音乐、捕捉采访还是保留个人语音笔记，Claudio 都能为您提供必需品，而不会妨碍您。功能 一键录音 暂停和恢复",
+    "fullDescription": "Claudio 是一款简洁、专注的录音机，用于捕捉语音笔记、想法、对话和日常音频时刻。一键开始录音，需要时暂停，继续现有录音，修剪音频，重命名文件，并通过简单的工作流程导出录音。 Claudio 让您的录音库易于浏览、搜索、播放和管理。无论您是要保存快速想法、录制会议、练习音乐、捕捉采访还是保留个人语音笔记，Claudio 都能为您提供必需品，而不会妨碍您。功能 一键录音 暂停和恢复",
+    "summaryDescription": "Claudio 是一款简洁、专注的录音机，用于捕捉语音笔记、想法、对话和日常音频时刻。一键开始录音，需要时暂停，继续现有录音，修剪音频，重命名文件，并通过简单的工作流程导出录音。 Claudio 让您的录音库易于浏览、搜索、播放和管理。无论您是要保存快速想法、录制会议、练习音乐、捕捉采访还是保留个人语音笔记，Claudio 都能为您提供必需品，而不会妨碍您。功能 一键录音 暂停和恢复",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/be/88/4bbe8873-9017-5328-83cf-9e4510a648a3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/be/88/4bbe8873-9017-5328-83cf-9e4510a648a3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "PT. PEMROGRAM KODE INDONESIA",
@@ -101601,8 +101725,8 @@
     "_externalSourceFirstSeen": 1781638333196
   },
   "6778315973": {
-    "name": "TextEditor AI: Photo Text Swap",
-    "trackName": "TextEditor AI: Photo Text Swap",
+    "name": "Edit Text In Photo - Forgeit",
+    "trackName": "Edit Text In Photo - Forgeit",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
@@ -101625,12 +101749,12 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/texteditor-ai-photo-text-swap/id6778315973?uo=4",
-    "description": "Forge-IT – Screenshot Text Editor Edit text in screenshots quickly and easily. Forge-IT lets you modify text inside screenshots without complicated editing software. Simply import a screenshot, tap the text you want to change, and replace it in seconds. Whether it's a chat message, social media post, receipt, note, or any image containing text, Forge-IT makes editing simple. FEATURES Import screenshots directly from your gallery Smart OCR text detection Tap any detected text to edit Replace text instantly Change fonts, colors, and text size Bold, italic, and underline support Works with chats, receipts, posts, and more High-quality exports Fast and beginner-friendly interface No complicated editing tools HOW IT WORKS 1. Import a screenshot 2. Tap the text you want to edit 3. Replace or customize the text 4. Save and share your edited screenshot PREMIUM Unlock the full Forge-IT experience: Unlimited text editing Advanced customization tools Premium fonts and styles Faster workflow Future premium features Lifetime Access: $9.99 IMPORTANT DISCLAIMER Forge-IT is designed for creative, educational, entertainment, mockup, design, and personal productivity purposes. Users are solely responsible for how edited images are used. Forge-IT does not encourage, support, or endorse fraud, impersonation, misinformation, forgery, deceptive practices, document falsification, or any unlawful activity. Users must comply with all applicable laws and platform policies when creating, sharing, or using edited content. SUPPORT We're constantly improving Forge-IT with new features and enhancements to make screenshot editing faster and easier. Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://redizeuz.com/privacy",
-    "fullDescription": "Forge-IT – Screenshot Text Editor Edit text in screenshots quickly and easily. Forge-IT lets you modify text inside screenshots without complicated editing software. Simply import a screenshot, tap the text you want to change, and replace it in seconds. Whether it's a chat message, social media post, receipt, note, or any image containing text, Forge-IT makes editing simple. FEATURES Import screenshots directly from your gallery Smart OCR text detection Tap any detected text to edit Replace text instantly Change fonts, colors, and text size Bold, italic, and underline support Works with chats, receipts, posts, and more High-quality exports Fast and beginner-friendly interface No complicated editing tools HOW IT WORKS 1. Import a screenshot 2. Tap the text you want to edit 3. Replace or customize the text 4. Save and share your edited screenshot PREMIUM Unlock the full Forge-IT experience: Unlimited text editing Advanced customization tools Premium fonts and styles Faster workflow Future premium features Lifetime Access: $9.99 IMPORTANT DISCLAIMER Forge-IT is designed for creative, educational, entertainment, mockup, design, and personal productivity purposes. Users are solely responsible for how edited images are used. Forge-IT does not encourage, support, or endorse fraud, impersonation, misinformation, forgery, deceptive practices, document falsification, or any unlawful activity. Users must comply with all applicable laws and platform policies when creating, sharing, or using edited content. SUPPORT We're constantly improving Forge-IT with new features and enhancements to make screenshot editing faster and easier. Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://redizeuz.com/privacy",
-    "summaryDescription": "Forge-IT – Screenshot Text Editor Edit text in screenshots quickly and easily. Forge-IT lets you modify text inside screenshots without complicated editing software. Simply import a screenshot, tap the text you want to change, and replace it in seconds. Whether it's a chat message, social media post, receipt, note, or any image containing text, Forge-IT makes editing simple. FEATURES Import screenshots directly from your gallery Smart OCR text detection Tap any detected text to edit Replace text instantly Change fonts, colors, and text size Bold, italic, and underline support Works with chats, receipts, posts, and more High-quality exports Fast and beginner-friendly interface No complicated editing tools HOW IT WORKS 1. Import a screenshot 2. Tap the text you want to edit 3. Replace or customize the text 4. Save and share your edited screenshot PREMIUM Unlock the full Forge-IT experience: Unlimited text editing Advanced customization tools Premium fonts and styles Faster workflow Future premium features Lifetime Access: $9.99 IMPORTANT DISCLAIMER Forge-IT is designed for creative, educational, entertainment, mockup, design, and personal productivity purposes. Users are solely responsible for how edited images are used. Forge-IT does not encourage, support, or endorse fraud, impersonation, misinformation, forgery, deceptive practices, document falsification, or any unlawful activity. Users must comply with all applicable laws and platform policies when creating, sharing, or using edited content. SUPPORT We're constantly improving Forge-IT with new features and enhancements to make screenshot editing faster and easier. Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://redizeuz.com/privacy",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/50/fd/6450fdd0-1f3d-f2c7-d4c8-2857407c51b6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/50/fd/6450fdd0-1f3d-f2c7-d4c8-2857407c51b6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "trackViewUrl": "https://apps.apple.com/cn/app/edit-text-in-photo-forgeit/id6778315973?uo=4",
+    "description": "Forge-IT – Screenshot Text Editor Edit, erase, and replace text in photos and screenshots with Forge-IT. Forge-IT is a fast and simple photo text editor designed to help you edit text directly inside screenshots and images. Import a photo, let smart OCR detect the text, tap the text you want to change, and replace it in seconds. Whether you're editing a chat screenshot, receipt, social media post, note, mockup, poster, or another image containing text, Forge-IT makes text editing quick and accessible without complicated editing software. EDIT TEXT IN PHOTOS Edit text directly inside your images with an easy-to-use workflow. Detect text automatically with smart OCR Tap detected text to edit it Edit, erase, and replace text Add new text to your photos Change fonts, colors, and text size Apply bold, italic, and underline formatting Customize text placement and appearance Create captions, designs, posters, and more Export your edited images in high quality SMART OCR TEXT DETECTION Forge-IT uses OCR to recognize text inside your photos and screenshots, making it easier to select and edit specific words or sections without manually recreating the entire image. DESIGNED FOR EVERYDAY EDITING Use Forge-IT for: Screenshot text editing Chat and social media mockups Receipt and note editing for legitimate personal use Photo captions Typography and lettering designs Posters and creative designs Image mockups Collage projects Educational and entertainment content HOW IT WORKS Import a screenshot or photo Let Forge-IT detect the text Tap the text you want to edit Replace, erase, or customize the text Save and share your finished image No complicated editing tools. Just import, tap, edit, and export. PREMIUM Unlock the full Forge-IT experience: Unlimited text editing Advanced text customization Premium fonts and styles Faster editing workflow Future premium features Lifetime Access: $9.99 IMPORTANT DISCLAIMER Forge-IT is designed for creative, educational, entertainment, mockup, design, and personal productivity purposes. Users are solely responsible for how edited images are created, shared, and used. Forge-IT does not encourage, support, or endorse fraud, impersonation, misinformation, forgery, deceptive practices, document falsification, or any unlawful activity. Users must comply with all applicable laws and platform policies when creating, sharing, or using edited content. SUPPORT We're continuously improving Forge-IT with new features and enhancements to make editing text in photos and screenshots faster, easier, and more intuitive. Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://redizeuz.com/privacy",
+    "fullDescription": "Forge-IT – Screenshot Text Editor Edit, erase, and replace text in photos and screenshots with Forge-IT. Forge-IT is a fast and simple photo text editor designed to help you edit text directly inside screenshots and images. Import a photo, let smart OCR detect the text, tap the text you want to change, and replace it in seconds. Whether you're editing a chat screenshot, receipt, social media post, note, mockup, poster, or another image containing text, Forge-IT makes text editing quick and accessible without complicated editing software. EDIT TEXT IN PHOTOS Edit text directly inside your images with an easy-to-use workflow. Detect text automatically with smart OCR Tap detected text to edit it Edit, erase, and replace text Add new text to your photos Change fonts, colors, and text size Apply bold, italic, and underline formatting Customize text placement and appearance Create captions, designs, posters, and more Export your edited images in high quality SMART OCR TEXT DETECTION Forge-IT uses OCR to recognize text inside your photos and screenshots, making it easier to select and edit specific words or sections without manually recreating the entire image. DESIGNED FOR EVERYDAY EDITING Use Forge-IT for: Screenshot text editing Chat and social media mockups Receipt and note editing for legitimate personal use Photo captions Typography and lettering designs Posters and creative designs Image mockups Collage projects Educational and entertainment content HOW IT WORKS Import a screenshot or photo Let Forge-IT detect the text Tap the text you want to edit Replace, erase, or customize the text Save and share your finished image No complicated editing tools. Just import, tap, edit, and export. PREMIUM Unlock the full Forge-IT experience: Unlimited text editing Advanced text customization Premium fonts and styles Faster editing workflow Future premium features Lifetime Access: $9.99 IMPORTANT DISCLAIMER Forge-IT is designed for creative, educational, entertainment, mockup, design, and personal productivity purposes. Users are solely responsible for how edited images are created, shared, and used. Forge-IT does not encourage, support, or endorse fraud, impersonation, misinformation, forgery, deceptive practices, document falsification, or any unlawful activity. Users must comply with all applicable laws and platform policies when creating, sharing, or using edited content. SUPPORT We're continuously improving Forge-IT with new features and enhancements to make editing text in photos and screenshots faster, easier, and more intuitive. Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://redizeuz.com/privacy",
+    "summaryDescription": "Forge-IT – Screenshot Text Editor Edit, erase, and replace text in photos and screenshots with Forge-IT. Forge-IT is a fast and simple photo text editor designed to help you edit text directly inside screenshots and images. Import a photo, let smart OCR detect the text, tap the text you want to change, and replace it in seconds. Whether you're editing a chat screenshot, receipt, social media post, note, mockup, poster, or another image containing text, Forge-IT makes text editing quick and accessible without complicated editing software. EDIT TEXT IN PHOTOS Edit text directly inside your images with an easy-to-use workflow. Detect text automatically with smart OCR Tap detected text to edit it Edit, erase, and replace text Add new text to your photos Change fonts, colors, and text size Apply bold, italic, and underline formatting Customize text placement and appearance Create captions, designs, posters, and more Export your edited images in high quality SMART OCR TEXT DETECTION Forge-IT uses OCR to recognize text inside your photos and screenshots, making it easier to select and edit specific words or sections without manually recreating the entire image. DESIGNED FOR EVERYDAY EDITING Use Forge-IT for: Screenshot text editing Chat and social media mockups Receipt and note editing for legitimate personal use Photo captions Typography and lettering designs Posters and creative designs Image mockups Collage projects Educational and entertainment content HOW IT WORKS Import a screenshot or photo Let Forge-IT detect the text Tap the text you want to edit Replace, erase, or customize the text Save and share your finished image No complicated editing tools. Just import, tap, edit, and export. PREMIUM Unlock the full Forge-IT experience: Unlimited text editing Advanced text customization Premium fonts and styles Faster editing workflow Future premium features Lifetime Access: $9.99 IMPORTANT DISCLAIMER Forge-IT is designed for creative, educational, entertainment, mockup, design, and personal productivity purposes. Users are solely responsible for how edited images are created, shared, and used. Forge-IT does not encourage, support, or endorse fraud, impersonation, misinformation, forgery, deceptive practices, document falsification, or any unlawful activity. Users must comply with all applicable laws and platform policies when creating, sharing, or using edited content. SUPPORT We're continuously improving Forge-IT with new features and enhancements to make editing text in photos and screenshots faster, easier, and more intuitive. Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://redizeuz.com/privacy",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/c1/47/74c147f6-3ad4-c30b-18a5-d8fb8c511f7c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/c1/47/74c147f6-3ad4-c30b-18a5-d8fb8c511f7c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Ebenezer Oteng",
     "artistName": "Ebenezer Oteng",
     "screenshotUrls": [
@@ -115080,7 +115204,7 @@
       "DropK Lifetime Purchase": "¥88.00",
       "Yearly Subscription": "¥58.00",
       "DropK Monthly": "¥8.00",
-      "终身购买": "¥38.00"
+      "终身购买": "¥88.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -115091,6 +115215,18 @@
       "终身购买": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788184869523,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身购买": "¥88.00",
+            "Yearly Subscription": "¥58.00",
+            "DropK Monthly": "¥3.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786199635619,
@@ -116597,13 +116733,25 @@
     "trackName": "MacPad",
     "maxPriceInfo": {
       "price": 28,
-      "formattedPrice": "¥28.00"
+      "formattedPrice": "¥28.00",
+      "公网访问权益": "¥6.00"
     },
     "minPriceInfo": {
       "price": 12,
-      "formattedPrice": "¥12.00"
+      "formattedPrice": "¥12.00",
+      "公网访问权益": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788184869523,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "公网访问权益": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782632985277,
@@ -116630,11 +116778,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/macpad/id6782304065?uo=4",
-    "description": "电脑不必在手边，控制权可以。 MacPad 让 iPad 或 iPhone 成为 Mac 与 Windows 的第二控制台。电脑接着显示器、电视或投影，或者放在不方便直接操作的位置时，你仍然可以在手边看清屏幕、快速输入、移动光标、切换 App、管理窗口和显示器。 为触控重新设计，而不是简单缩小电脑画面 透明键盘：输入时仍能看到电脑画面、文档和当前窗口 桌面级键盘：方向键、功能键和 Command、Option、Control、Shift 组合按键随手可用 触控板与直接触摸：移动、点击、右键、拖动、滚动和缩放自由切换 Focus 聚焦：放大当前工作区域，可搭配键盘或触控板使用 屏幕显示模式：普通显示、隐藏画面、透明呈现和纯屏幕布局按任务切换 App Dock 与窗口控制：快速切换运行中的 App，控制窗口和虚拟桌面 多电脑与多显示器：连接已配对的 Mac 或 Windows，并选择当前显示器 横竖屏专属布局：iPad 展开完整工作台，iPhone 单手可控、横屏可展开 语音输入：把长段口述直接发送到电脑当前光标位置 连接简单，也更安心 同一局域网内自动发现电脑，首次使用六位 PIN 完成可信配对。MacPad 优先使用局域网低延迟直连；开通可选的远程访问后，离开同一 Wi-Fi 也能连接已经配对的电脑。远程会话内容端到端加密。 使用 MacPad 需要在电脑安装免费的 MacPad Host： Mac：https://macpad.fenghailing.com/download/MacPadHost.dmg Windows：https://macpad.fenghailing.com/download/MacPadHost-win-x64.zip 系统要求： iOS 或 iPadOS 17 及以上版本 macOS 14 及以上版本，或 Windows 10/11 x64 Mac 端需要开启辅助功能与屏幕录制权限 Windows 完整包已包含 FFmpeg 与 .NET 运行时",
-    "fullDescription": "电脑不必在手边，控制权可以。 MacPad 让 iPad 或 iPhone 成为 Mac 与 Windows 的第二控制台。电脑接着显示器、电视或投影，或者放在不方便直接操作的位置时，你仍然可以在手边看清屏幕、快速输入、移动光标、切换 App、管理窗口和显示器。 为触控重新设计，而不是简单缩小电脑画面 透明键盘：输入时仍能看到电脑画面、文档和当前窗口 桌面级键盘：方向键、功能键和 Command、Option、Control、Shift 组合按键随手可用 触控板与直接触摸：移动、点击、右键、拖动、滚动和缩放自由切换 Focus 聚焦：放大当前工作区域，可搭配键盘或触控板使用 屏幕显示模式：普通显示、隐藏画面、透明呈现和纯屏幕布局按任务切换 App Dock 与窗口控制：快速切换运行中的 App，控制窗口和虚拟桌面 多电脑与多显示器：连接已配对的 Mac 或 Windows，并选择当前显示器 横竖屏专属布局：iPad 展开完整工作台，iPhone 单手可控、横屏可展开 语音输入：把长段口述直接发送到电脑当前光标位置 连接简单，也更安心 同一局域网内自动发现电脑，首次使用六位 PIN 完成可信配对。MacPad 优先使用局域网低延迟直连；开通可选的远程访问后，离开同一 Wi-Fi 也能连接已经配对的电脑。远程会话内容端到端加密。 使用 MacPad 需要在电脑安装免费的 MacPad Host： Mac：https://macpad.fenghailing.com/download/MacPadHost.dmg Windows：https://macpad.fenghailing.com/download/MacPadHost-win-x64.zip 系统要求： iOS 或 iPadOS 17 及以上版本 macOS 14 及以上版本，或 Windows 10/11 x64 Mac 端需要开启辅助功能与屏幕录制权限 Windows 完整包已包含 FFmpeg 与 .NET 运行时",
-    "summaryDescription": "电脑不必在手边，控制权可以。 MacPad 让 iPad 或 iPhone 成为 Mac 与 Windows 的第二控制台。电脑接着显示器、电视或投影，或者放在不方便直接操作的位置时，你仍然可以在手边看清屏幕、快速输入、移动光标、切换 App、管理窗口和显示器。 为触控重新设计，而不是简单缩小电脑画面 透明键盘：输入时仍能看到电脑画面、文档和当前窗口 桌面级键盘：方向键、功能键和 Command、Option、Control、Shift 组合按键随手可用 触控板与直接触摸：移动、点击、右键、拖动、滚动和缩放自由切换 Focus 聚焦：放大当前工作区域，可搭配键盘或触控板使用 屏幕显示模式：普通显示、隐藏画面、透明呈现和纯屏幕布局按任务切换 App Dock 与窗口控制：快速切换运行中的 App，控制窗口和虚拟桌面 多电脑与多显示器：连接已配对的 Mac 或 Windows，并选择当前显示器 横竖屏专属布局：iPad 展开完整工作台，iPhone 单手可控、横屏可展开 语音输入：把长段口述直接发送到电脑当前光标位置 连接简单，也更安心 同一局域网内自动发现电脑，首次使用六位 PIN 完成可信配对。MacPad 优先使用局域网低延迟直连；开通可选的远程访问后，离开同一 Wi-Fi 也能连接已经配对的电脑。远程会话内容端到端加密。 使用 MacPad 需要在电脑安装免费的 MacPad Host： Mac：https://macpad.fenghailing.com/download/MacPadHost.dmg Windows：https://macpad.fenghailing.com/download/MacPadHost-win-x64.zip 系统要求： iOS 或 iPadOS 17 及以上版本 macOS 14 及以上版本，或 Windows 10/11 x64 Mac 端需要开启辅助功能与屏幕录制权限 Windows 完整包已包含 FFmpeg 与 .NET 运行时",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/53/05/d7530583-54db-18b6-ec42-41b2834d14fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/53/05/d7530583-54db-18b6-ec42-41b2834d14fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "description": "电脑不必在手边，控制权可以。 MacPad 让 iPad 或 iPhone 成为 Mac 与 Windows 的第二控制台。电脑接着显示器、电视或投影，或者放在不方便直接操作的位置时，你仍然可以在手边看清屏幕、快速输入、移动光标、切换 App、管理窗口和显示器。 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 为触控重新设计，而不是简单缩小电脑画面 透明键盘：输入时仍能看到电脑画面、文档和当前窗口 桌面级键盘：方向键、功能键和 Command、Option、Control、Shift 组合按键随手可用 触控板与直接触摸：移动、点击、右键、拖动、滚动和缩放自由切换 Focus 聚焦：放大当前工作区域，可搭配键盘或触控板使用 屏幕显示模式：普通显示、隐藏画面、透明呈现和纯屏幕布局按任务切换 App Dock 与窗口控制：快速切换运行中的 App，控制窗口和虚拟桌面 多电脑与多显示器：连接已配对的 Mac 或 Windows，并选择当前显示器 横竖屏专属布局：iPad 展开完整工作台，iPhone 单手可控、横屏可展开 语音输入：把长段口述直接发送到电脑当前光标位置 连接简单，也更安心 同一局域网内自动发现电脑，首次使用六位 PIN 完成可信配对。MacPad 优先使用局域网低延迟直连；开通可选的远程访问后，离开同一 Wi-Fi 也能连接已经配对的电脑。远程会话内容端到端加密。 使用 MacPad 需要在电脑安装免费的 MacPad Host： Mac：https://macpad.fenghailing.com/download/MacPadHost.dmg Windows：https://macpad.fenghailing.com/download/MacPadHost-win-x64.zip 系统要求： iOS 或 iPadOS 17 及以上版本 macOS 14 及以上版本，或 Windows 10/11 x64 Mac 端需要开启辅助功能与屏幕录制权限 Windows 完整包已包含 FFmpeg 与 .NET 运行时",
+    "fullDescription": "电脑不必在手边，控制权可以。 MacPad 让 iPad 或 iPhone 成为 Mac 与 Windows 的第二控制台。电脑接着显示器、电视或投影，或者放在不方便直接操作的位置时，你仍然可以在手边看清屏幕、快速输入、移动光标、切换 App、管理窗口和显示器。 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 为触控重新设计，而不是简单缩小电脑画面 透明键盘：输入时仍能看到电脑画面、文档和当前窗口 桌面级键盘：方向键、功能键和 Command、Option、Control、Shift 组合按键随手可用 触控板与直接触摸：移动、点击、右键、拖动、滚动和缩放自由切换 Focus 聚焦：放大当前工作区域，可搭配键盘或触控板使用 屏幕显示模式：普通显示、隐藏画面、透明呈现和纯屏幕布局按任务切换 App Dock 与窗口控制：快速切换运行中的 App，控制窗口和虚拟桌面 多电脑与多显示器：连接已配对的 Mac 或 Windows，并选择当前显示器 横竖屏专属布局：iPad 展开完整工作台，iPhone 单手可控、横屏可展开 语音输入：把长段口述直接发送到电脑当前光标位置 连接简单，也更安心 同一局域网内自动发现电脑，首次使用六位 PIN 完成可信配对。MacPad 优先使用局域网低延迟直连；开通可选的远程访问后，离开同一 Wi-Fi 也能连接已经配对的电脑。远程会话内容端到端加密。 使用 MacPad 需要在电脑安装免费的 MacPad Host： Mac：https://macpad.fenghailing.com/download/MacPadHost.dmg Windows：https://macpad.fenghailing.com/download/MacPadHost-win-x64.zip 系统要求： iOS 或 iPadOS 17 及以上版本 macOS 14 及以上版本，或 Windows 10/11 x64 Mac 端需要开启辅助功能与屏幕录制权限 Windows 完整包已包含 FFmpeg 与 .NET 运行时",
+    "summaryDescription": "电脑不必在手边，控制权可以。 MacPad 让 iPad 或 iPhone 成为 Mac 与 Windows 的第二控制台。电脑接着显示器、电视或投影，或者放在不方便直接操作的位置时，你仍然可以在手边看清屏幕、快速输入、移动光标、切换 App、管理窗口和显示器。 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 为触控重新设计，而不是简单缩小电脑画面 透明键盘：输入时仍能看到电脑画面、文档和当前窗口 桌面级键盘：方向键、功能键和 Command、Option、Control、Shift 组合按键随手可用 触控板与直接触摸：移动、点击、右键、拖动、滚动和缩放自由切换 Focus 聚焦：放大当前工作区域，可搭配键盘或触控板使用 屏幕显示模式：普通显示、隐藏画面、透明呈现和纯屏幕布局按任务切换 App Dock 与窗口控制：快速切换运行中的 App，控制窗口和虚拟桌面 多电脑与多显示器：连接已配对的 Mac 或 Windows，并选择当前显示器 横竖屏专属布局：iPad 展开完整工作台，iPhone 单手可控、横屏可展开 语音输入：把长段口述直接发送到电脑当前光标位置 连接简单，也更安心 同一局域网内自动发现电脑，首次使用六位 PIN 完成可信配对。MacPad 优先使用局域网低延迟直连；开通可选的远程访问后，离开同一 Wi-Fi 也能连接已经配对的电脑。远程会话内容端到端加密。 使用 MacPad 需要在电脑安装免费的 MacPad Host： Mac：https://macpad.fenghailing.com/download/MacPadHost.dmg Windows：https://macpad.fenghailing.com/download/MacPadHost-win-x64.zip 系统要求： iOS 或 iPadOS 17 及以上版本 macOS 14 及以上版本，或 Windows 10/11 x64 Mac 端需要开启辅助功能与屏幕录制权限 Windows 完整包已包含 FFmpeg 与 .NET 运行时",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/98/11/c6981109-3866-4dd1-422c-8d3c44f65049/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/98/11/c6981109-3866-4dd1-422c-8d3c44f65049/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "海领 冯",
     "artistName": "海领 冯",
     "screenshotUrls": [
@@ -134860,14 +135008,22 @@
     "name": "Learn Data Science - Python",
     "trackName": "Learn Data Science - Python",
     "maxPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788184869523,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783356695631,
@@ -145312,9 +145468,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E9%80%80%E4%BC%91%E8%AE%A1%E5%88%92/id6761031181?uo=4",
-    "description": "`退休计划`是一款为普通人设计的退休规划应用程序。 它不是又一个强调交易、收益或复杂理财模型的工具，而是帮助你把模糊的退休想法 ，变成可以长期跟踪和持续推进的准备路径。 你可以先输入年龄、目标退休年龄、预期寿命、退休后月生活费、当前资产，以及每月收入和支出。应用程序会据此估算： 退休所需目标资产 当前还存在多少资金缺口 距离目标退休时间还有多久 需要以怎样的月度储蓄节奏推进准备 退休准备不该只停留在第一次测算。 退休计划`` 更关注的是之后的长期过程。随着资产、收入、支出和储蓄变化你可以持续更新记录，让结果随现实变化而刷新。这样看到的不只是一个静态数字 ， ，而是自己是否仍在按节奏靠近退休目标。 核心功能包括， 退休目标测算持续记录资产变化，快速估算退休所需资金、当前缺口和退休倒计时 资产进度跟踪， ，查看距离目标还有多远 月度节奏复查，对照当前储蓄与目标储蓄 ，判断准备节奏是否偏离 年度复盘总结，回看一年中的变化 ，帮助你理解长期趋势 图表与历史记录， ，更清晰地看到进度如何随时间推进 本地优先存储财务数据默认保存在本机， ，不要求在线账号 本地 JSON 备份：便于自行保存、迁移和恢复数据 为什么",
-    "fullDescription": "`退休计划`是一款为普通人设计的退休规划应用程序。 它不是又一个强调交易、收益或复杂理财模型的工具，而是帮助你把模糊的退休想法 ，变成可以长期跟踪和持续推进的准备路径。 你可以先输入年龄、目标退休年龄、预期寿命、退休后月生活费、当前资产，以及每月收入和支出。应用程序会据此估算： 退休所需目标资产 当前还存在多少资金缺口 距离目标退休时间还有多久 需要以怎样的月度储蓄节奏推进准备 退休准备不该只停留在第一次测算。 退休计划`` 更关注的是之后的长期过程。随着资产、收入、支出和储蓄变化你可以持续更新记录，让结果随现实变化而刷新。这样看到的不只是一个静态数字 ， ，而是自己是否仍在按节奏靠近退休目标。 核心功能包括， 退休目标测算持续记录资产变化，快速估算退休所需资金、当前缺口和退休倒计时 资产进度跟踪， ，查看距离目标还有多远 月度节奏复查，对照当前储蓄与目标储蓄 ，判断准备节奏是否偏离 年度复盘总结，回看一年中的变化 ，帮助你理解长期趋势 图表与历史记录， ，更清晰地看到进度如何随时间推进 本地优先存储财务数据默认保存在本机， ，不要求在线账号 本地 JSON 备份：便于自行保存、迁移和恢复数据 为什么",
-    "summaryDescription": "`退休计划`是一款为普通人设计的退休规划应用程序。 它不是又一个强调交易、收益或复杂理财模型的工具，而是帮助你把模糊的退休想法 ，变成可以长期跟踪和持续推进的准备路径。 你可以先输入年龄、目标退休年龄、预期寿命、退休后月生活费、当前资产，以及每月收入和支出。应用程序会据此估算： 退休所需目标资产 当前还存在多少资金缺口 距离目标退休时间还有多久 需要以怎样的月度储蓄节奏推进准备 退休准备不该只停留在第一次测算。 退休计划`` 更关注的是之后的长期过程。随着资产、收入、支出和储蓄变化你可以持续更新记录，让结果随现实变化而刷新。这样看到的不只是一个静态数字 ， ，而是自己是否仍在按节奏靠近退休目标。 核心功能包括， 退休目标测算持续记录资产变化，快速估算退休所需资金、当前缺口和退休倒计时 资产进度跟踪， ，查看距离目标还有多远 月度节奏复查，对照当前储蓄与目标储蓄 ，判断准备节奏是否偏离 年度复盘总结，回看一年中的变化 ，帮助你理解长期趋势 图表与历史记录， ，更清晰地看到进度如何随时间推进 本地优先存储财务数据默认保存在本机， ，不要求在线账号 本地 JSON 备份：便于自行保存、迁移和恢复数据 为什么",
+    "description": "`退休计划` 是一款为普通人设计的退休规划 App。 它不是又一个强调交易、收益或复杂理财模型的工具，而是帮助你把模糊的退休想法，变成可以长期跟踪和持续推进的准备路径。 你可以先输入年龄、目标退休年龄、预期寿命、退休后月生活费、当前资产，以及每月收入和支出。App 会据此估算： 退休所需目标资产 当前还存在多少资金缺口 距离目标退休时间还有多久 需要以怎样的月度储蓄节奏推进准备 退休准备不该只停留在第一次测算。 `退休计划` 更关注的是之后的长期过程。随着资产、收入、支出和储蓄变化，你可以持续更新记录，让结果随现实变化而刷新。这样看到的不只是一个静态数字，而是自己是否仍在按节奏靠近退休目标。 核心功能包括： 退休目标测算：快速估算退休所需资金、当前缺口和退休倒计时 资产进度跟踪：持续记录资产变化，查看距离目标还有多远 月度节奏复查：对照当前储蓄与目标储蓄，判断准备节奏是否偏离 年度复盘总结：回看一年中的变化，帮助你理解长期趋势 图表与历史记录：更清晰地看到进度如何随时间推进 本地优先存储：财务数据默认保存在本机，不要求在线账号 本地 JSON 备份：便于自行保存、迁移和恢复数据 为什么这款 App 不一样： 面向普通用户，而不是专业投资人 不承诺收益，也不提供投资建议 不要求注册在线账号 强调长期规划、持续记录和复盘，而不是一次算完就结束 尽量让敏感财务数据留在用户自己手里 高级版",
+    "fullDescription": "`退休计划` 是一款为普通人设计的退休规划 App。 它不是又一个强调交易、收益或复杂理财模型的工具，而是帮助你把模糊的退休想法，变成可以长期跟踪和持续推进的准备路径。 你可以先输入年龄、目标退休年龄、预期寿命、退休后月生活费、当前资产，以及每月收入和支出。App 会据此估算： 退休所需目标资产 当前还存在多少资金缺口 距离目标退休时间还有多久 需要以怎样的月度储蓄节奏推进准备 退休准备不该只停留在第一次测算。 `退休计划` 更关注的是之后的长期过程。随着资产、收入、支出和储蓄变化，你可以持续更新记录，让结果随现实变化而刷新。这样看到的不只是一个静态数字，而是自己是否仍在按节奏靠近退休目标。 核心功能包括： 退休目标测算：快速估算退休所需资金、当前缺口和退休倒计时 资产进度跟踪：持续记录资产变化，查看距离目标还有多远 月度节奏复查：对照当前储蓄与目标储蓄，判断准备节奏是否偏离 年度复盘总结：回看一年中的变化，帮助你理解长期趋势 图表与历史记录：更清晰地看到进度如何随时间推进 本地优先存储：财务数据默认保存在本机，不要求在线账号 本地 JSON 备份：便于自行保存、迁移和恢复数据 为什么这款 App 不一样： 面向普通用户，而不是专业投资人 不承诺收益，也不提供投资建议 不要求注册在线账号 强调长期规划、持续记录和复盘，而不是一次算完就结束 尽量让敏感财务数据留在用户自己手里 高级版",
+    "summaryDescription": "`退休计划` 是一款为普通人设计的退休规划 App。 它不是又一个强调交易、收益或复杂理财模型的工具，而是帮助你把模糊的退休想法，变成可以长期跟踪和持续推进的准备路径。 你可以先输入年龄、目标退休年龄、预期寿命、退休后月生活费、当前资产，以及每月收入和支出。App 会据此估算： 退休所需目标资产 当前还存在多少资金缺口 距离目标退休时间还有多久 需要以怎样的月度储蓄节奏推进准备 退休准备不该只停留在第一次测算。 `退休计划` 更关注的是之后的长期过程。随着资产、收入、支出和储蓄变化，你可以持续更新记录，让结果随现实变化而刷新。这样看到的不只是一个静态数字，而是自己是否仍在按节奏靠近退休目标。 核心功能包括： 退休目标测算：快速估算退休所需资金、当前缺口和退休倒计时 资产进度跟踪：持续记录资产变化，查看距离目标还有多远 月度节奏复查：对照当前储蓄与目标储蓄，判断准备节奏是否偏离 年度复盘总结：回看一年中的变化，帮助你理解长期趋势 图表与历史记录：更清晰地看到进度如何随时间推进 本地优先存储：财务数据默认保存在本机，不要求在线账号 本地 JSON 备份：便于自行保存、迁移和恢复数据 为什么这款 App 不一样： 面向普通用户，而不是专业投资人 不承诺收益，也不提供投资建议 不要求注册在线账号 强调长期规划、持续记录和复盘，而不是一次算完就结束 尽量让敏感财务数据留在用户自己手里 高级版",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/c6/c4/05c6c40f-d21d-a038-c069-83b145d24738/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/c6/c4/05c6c40f-d21d-a038-c069-83b145d24738/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Libing Deng",
@@ -146004,9 +146160,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/tap-color/id6786056591?uo=4",
-    "description": "轻敲。颜色。放松。只需轻轻一按，即可将精美的插图变为现实。 Tap & Color 是一本专为 iPhone 和 iPad 设计的轻松填色书。只需选择一种颜色并点击任何封闭区域即可立即填充它 - 无需绘画经验。功能简单的点击填充着色只需点击一下即可为任何插图着色，使用流畅直观的体验。数百个精美页面探索不断增加的收藏：动物、自然、花卉、曼陀罗、车辆、建筑、奇幻空间、装饰图案、著名艺术灵感页面、可爱人物、季节性系列、美丽的调色板 Cho",
-    "fullDescription": "轻敲。颜色。放松。只需轻轻一按，即可将精美的插图变为现实。 Tap & Color 是一本专为 iPhone 和 iPad 设计的轻松填色书。只需选择一种颜色并点击任何封闭区域即可立即填充它 - 无需绘画经验。功能简单的点击填充着色只需点击一下即可为任何插图着色，使用流畅直观的体验。数百个精美页面探索不断增加的收藏：动物、自然、花卉、曼陀罗、车辆、建筑、奇幻空间、装饰图案、著名艺术灵感页面、可爱人物、季节性系列、美丽的调色板 Cho",
-    "summaryDescription": "轻敲。颜色。放松。只需轻轻一按，即可将精美的插图变为现实。 Tap & Color 是一本专为 iPhone 和 iPad 设计的轻松填色书。只需选择一种颜色并点击任何封闭区域即可立即填充它 - 无需绘画经验。功能简单的点击填充着色只需点击一下即可为任何插图着色，使用流畅直观的体验。数百个精美页面探索不断增加的收藏：动物、自然、花卉、曼陀罗、车辆、建筑、奇幻空间、装饰图案、著名艺术灵感页面、可爱人物、季节性系列、美丽的调色板 Cho",
+    "description": "轻敲。颜色。放松。只需轻轻一按，即可将精美的插图变为现实。 Tap & Color 是一本专为 iPhone 和 iPad 设计的轻松填色书。只需选择一种颜色并点击任何封闭区域即可立即填充它 - 无需绘画经验。特点 简单的点击填充着色 只需点击一下即可为任何插图着色，使用流畅直观的体验。数百个精美页面探索不断增加的收藏：动物、自然、花卉、曼陀罗、车辆、建筑、奇幻空间、装饰图案、著名艺术灵感页面、可爱人物、季节性系列、美丽的调色板 Cho",
+    "fullDescription": "轻敲。颜色。放松。只需轻轻一按，即可将精美的插图变为现实。 Tap & Color 是一本专为 iPhone 和 iPad 设计的轻松填色书。只需选择一种颜色并点击任何封闭区域即可立即填充它 - 无需绘画经验。特点 简单的点击填充着色 只需点击一下即可为任何插图着色，使用流畅直观的体验。数百个精美页面探索不断增加的收藏：动物、自然、花卉、曼陀罗、车辆、建筑、奇幻空间、装饰图案、著名艺术灵感页面、可爱人物、季节性系列、美丽的调色板 Cho",
+    "summaryDescription": "轻敲。颜色。放松。只需轻轻一按，即可将精美的插图变为现实。 Tap & Color 是一本专为 iPhone 和 iPad 设计的轻松填色书。只需选择一种颜色并点击任何封闭区域即可立即填充它 - 无需绘画经验。特点 简单的点击填充着色 只需点击一下即可为任何插图着色，使用流畅直观的体验。数百个精美页面探索不断增加的收藏：动物、自然、花卉、曼陀罗、车辆、建筑、奇幻空间、装饰图案、著名艺术灵感页面、可爱人物、季节性系列、美丽的调色板 Cho",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/9c/9c/a89c9c97-a853-9dc9-dd95-954d4b63d115/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/9c/9c/a89c9c97-a853-9dc9-dd95-954d4b63d115/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Kliv Spahiu",
@@ -147629,9 +147785,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/weekpad-weekly-planner-diary/id6758624892?uo=4",
-    "description": "与iPhone上的纸张规划器最接近的东西。WeekPad是iPhone和iPad的每周规划器，旨在让您感觉像纸一样：一周查看，您滑动以翻页，并且它根本不会发送任何通知。不少不少。你已经有了笔记--在手机上，在便签簿上，在去年日记的边缘。WeekPad把他们聚集在平静的地方：你的一年，一次一个干净的星期。写下你的日子，放下照片，勾选你的清单，然后翻页。没有饲料。没有压力。一周",
-    "fullDescription": "与iPhone上的纸张规划器最接近的东西。WeekPad是iPhone和iPad的每周规划器，旨在让您感觉像纸一样：一周查看，您滑动以翻页，并且它根本不会发送任何通知。不少不少。你已经有了笔记--在手机上，在便签簿上，在去年日记的边缘。WeekPad把他们聚集在平静的地方：你的一年，一次一个干净的星期。写下你的日子，放下照片，勾选你的清单，然后翻页。没有饲料。没有压力。一周",
-    "summaryDescription": "与iPhone上的纸张规划器最接近的东西。WeekPad是iPhone和iPad的每周规划器，旨在让您感觉像纸一样：一周查看，您滑动以翻页，并且它根本不会发送任何通知。不少不少。你已经有了笔记--在手机上，在便签簿上，在去年日记的边缘。WeekPad把他们聚集在平静的地方：你的一年，一次一个干净的星期。写下你的日子，放下照片，勾选你的清单，然后翻页。没有饲料。没有压力。一周",
+    "description": "iPhone 上最接近纸质记事本的东西。 WeekPad 是一款适用于 iPhone 和 iPad 的每周计划表，其设计感觉就像纸一样：查看一周，滑动翻页，并且根本不发送任何通知。不少——没有。你已经有了笔记——在你的手机上、在便利贴上、在去年日记的页边空白处。 WeekPad 将它们聚集在一个平静的地方：你的一年，一次干净的一周。写下你的日子，放入照片，勾选你的清单，然后翻页。没有供稿。没有压力。为那些在几周内思考的人提供的每周计划和议程。为什么它感觉像纸一样 每页一周 —",
+    "fullDescription": "iPhone 上最接近纸质记事本的东西。 WeekPad 是一款适用于 iPhone 和 iPad 的每周计划表，其设计感觉就像纸一样：查看一周，滑动翻页，并且根本不发送任何通知。不少——没有。你已经有了笔记——在你的手机上、在便利贴上、在去年日记的页边空白处。 WeekPad 将它们聚集在一个平静的地方：你的一年，一次干净的一周。写下你的日子，放入照片，勾选你的清单，然后翻页。没有供稿。没有压力。为那些在几周内思考的人提供的每周计划和议程。为什么它感觉像纸一样 每页一周 —",
+    "summaryDescription": "iPhone 上最接近纸质记事本的东西。 WeekPad 是一款适用于 iPhone 和 iPad 的每周计划表，其设计感觉就像纸一样：查看一周，滑动翻页，并且根本不发送任何通知。不少——没有。你已经有了笔记——在你的手机上、在便利贴上、在去年日记的页边空白处。 WeekPad 将它们聚集在一个平静的地方：你的一年，一次干净的一周。写下你的日子，放入照片，勾选你的清单，然后翻页。没有供稿。没有压力。为那些在几周内思考的人提供的每周计划和议程。为什么它感觉像纸一样 每页一周 —",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/3a/a0/8d3aa090-7008-7e09-b989-9d74e6da5d50/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/3a/a0/8d3aa090-7008-7e09-b989-9d74e6da5d50/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Giuseppe Lucariello",
@@ -152712,6 +152868,14 @@
     "history": [
       [
         {
+          "timestamp": 1788184869523,
+          "price": 4.8,
+          "formattedPrice": "¥4.80",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787101508936,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -155456,6 +155620,14 @@
     "history": [
       [
         {
+          "timestamp": 1788184869523,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788078261721,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -156970,23 +157142,29 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/lsc-studio/id6775602955?uo=4",
-    "description": "LSC Studio transforms existing videos into long-exposure style photographs directly on your device. Instead of requiring a dedicated camera setup or complicated editing software, LSC Studio analyzes video frames and combines them into a single high-quality image using advanced image accumulation techniques. Choose between two creative processing modes: Motion Clean – Creates smooth and clean motion blending while reducing visual clutter. Light Trails – Preserves bright moving elements to generate striking light trail effects. Features: Create long-exposure images from existing videos Motion Clean and Light Trails processing modes Adjustable processing durations Fast on-device processing Simple and intuitive workflow Save results directly to your Photo Library No subscriptions No cloud processing required LSC Studio is ideal for: Light trail photography Traffic and city scenes Night photography Creative motion effects Experimental photography Long-exposure image creation from mobile videos Simply select a video, choose a processing mode and duration, and generate a unique long-exposure image in seconds.",
-    "fullDescription": "LSC Studio transforms existing videos into long-exposure style photographs directly on your device. Instead of requiring a dedicated camera setup or complicated editing software, LSC Studio analyzes video frames and combines them into a single high-quality image using advanced image accumulation techniques. Choose between two creative processing modes: Motion Clean – Creates smooth and clean motion blending while reducing visual clutter. Light Trails – Preserves bright moving elements to generate striking light trail effects. Features: Create long-exposure images from existing videos Motion Clean and Light Trails processing modes Adjustable processing durations Fast on-device processing Simple and intuitive workflow Save results directly to your Photo Library No subscriptions No cloud processing required LSC Studio is ideal for: Light trail photography Traffic and city scenes Night photography Creative motion effects Experimental photography Long-exposure image creation from mobile videos Simply select a video, choose a processing mode and duration, and generate a unique long-exposure image in seconds.",
-    "summaryDescription": "LSC Studio transforms existing videos into long-exposure style photographs directly on your device. Instead of requiring a dedicated camera setup or complicated editing software, LSC Studio analyzes video frames and combines them into a single high-quality image using advanced image accumulation techniques. Choose between two creative processing modes: Motion Clean – Creates smooth and clean motion blending while reducing visual clutter. Light Trails – Preserves bright moving elements to generate striking light trail effects. Features: Create long-exposure images from existing videos Motion Clean and Light Trails processing modes Adjustable processing durations Fast on-device processing Simple and intuitive workflow Save results directly to your Photo Library No subscriptions No cloud processing required LSC Studio is ideal for: Light trail photography Traffic and city scenes Night photography Creative motion effects Experimental photography Long-exposure image creation from mobile videos Simply select a video, choose a processing mode and duration, and generate a unique long-exposure image in seconds.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/e3/2d/bfe32da0-d4c4-1463-beed-f3b80f87b0c4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/e3/2d/bfe32da0-d4c4-1463-beed-f3b80f87b0c4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "description": "LSC Studio transforms existing videos into stunning long-exposure style photographs directly on your device. Instead of requiring a dedicated camera setup or complicated editing software, LSC Studio analyzes video frames and combines them into a single high-quality image using advanced image accumulation techniques. Choose between three creative processing modes: Motion Clean – blends motion smoothly while reducing visual clutter Light Trails – preserves bright moving elements to create striking trail effects Action Shot – combines multiple positions of a moving subject into one image Features: Create long-exposure images from existing videos Motion Clean, Light Trails, and Action Shot modes Adjustable processing duration Optional stabilization for cleaner results Fast on-device processing Simple and intuitive workflow Save results directly to your Photo Library No subscriptions No cloud processing required LSC Studio is ideal for: Light trail photography Traffic and city scenes Night photography Sports and movement Creative motion effects Experimental mobile photography Simply select a video, choose a processing mode and duration, and generate a unique long-exposure image in seconds.",
+    "fullDescription": "LSC Studio transforms existing videos into stunning long-exposure style photographs directly on your device. Instead of requiring a dedicated camera setup or complicated editing software, LSC Studio analyzes video frames and combines them into a single high-quality image using advanced image accumulation techniques. Choose between three creative processing modes: Motion Clean – blends motion smoothly while reducing visual clutter Light Trails – preserves bright moving elements to create striking trail effects Action Shot – combines multiple positions of a moving subject into one image Features: Create long-exposure images from existing videos Motion Clean, Light Trails, and Action Shot modes Adjustable processing duration Optional stabilization for cleaner results Fast on-device processing Simple and intuitive workflow Save results directly to your Photo Library No subscriptions No cloud processing required LSC Studio is ideal for: Light trail photography Traffic and city scenes Night photography Sports and movement Creative motion effects Experimental mobile photography Simply select a video, choose a processing mode and duration, and generate a unique long-exposure image in seconds.",
+    "summaryDescription": "LSC Studio transforms existing videos into stunning long-exposure style photographs directly on your device. Instead of requiring a dedicated camera setup or complicated editing software, LSC Studio analyzes video frames and combines them into a single high-quality image using advanced image accumulation techniques. Choose between three creative processing modes: Motion Clean – blends motion smoothly while reducing visual clutter Light Trails – preserves bright moving elements to create striking trail effects Action Shot – combines multiple positions of a moving subject into one image Features: Create long-exposure images from existing videos Motion Clean, Light Trails, and Action Shot modes Adjustable processing duration Optional stabilization for cleaner results Fast on-device processing Simple and intuitive workflow Save results directly to your Photo Library No subscriptions No cloud processing required LSC Studio is ideal for: Light trail photography Traffic and city scenes Night photography Sports and movement Creative motion effects Experimental mobile photography Simply select a video, choose a processing mode and duration, and generate a unique long-exposure image in seconds.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/a2/17/19a21724-edca-b86f-2fa3-4bbcf09e077d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/a2/17/19a21724-edca-b86f-2fa3-4bbcf09e077d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Photurion, Inc.",
     "artistName": "Photurion, Inc.",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/87/fe/1987fedc-0fb2-013c-2e8f-b99fc0a0a3c0/1.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/6a/c2/306ac2f2-8aa1-6116-144a-54caa768c1e2/2.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/e2/0b/7be20bbe-16a6-8d1c-c33d-fc91d853542f/3.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/d3/e9/b1d3e98d-896f-078f-c45b-c0dd9768b9c1/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/18/3c/59183c33-2db9-4e45-f1ef-208797b4d885/4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/0b/17/210b176b-6cbe-ebd7-8105-802799ceed1d/5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/89/2d/3c892d9f-cdfc-8ce2-3c76-7655ad72a7b5/6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/7d/ee/667deef0-1ee6-ad96-2a88-846de0718eaf/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/2d/ad/b42dad37-918e-ea72-2717-f39d6442a1d1/3.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/b8/c2/4ab8c2b7-ca41-f533-cb89-3cc5bf80b12a/1.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/71/e6/bd71e68f-fbc1-75af-35f2-519789a6f6ab/2.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/08/7f/5f087f9f-9925-4155-95a6-76138812147b/4.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/85/03/e2850348-c028-86e7-bb62-37a32ccb09a9/3.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/c6/89/f3c68964-36b7-1eab-2a56-343da8e87f9f/7.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/51/d4/5751d440-b018-be0a-1aab-8e7a8a68111a/2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/a3/f6/5ca3f6d3-0d2a-fd8a-5ad0-f7a8d47ba827/1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/42/cc/f842ccc4-b489-2f0b-c52b-fe6cd85c75c0/3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/66/6d/1f666d32-c040-91b1-c851-90476ada6f96/4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/7a/e4/5b7ae49b-ea8b-f6eb-cc76-946ebe2efd3c/6.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/c6/45/61c6459b-63b7-3b0a-4971-187307739c75/5.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1784393682619
   },
@@ -163359,9 +163537,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/zap-ai%E8%B6%B3%E7%90%83%E9%A2%84%E6%B5%8B/id6744242726?uo=4",
-    "description": "准备好借助人工智能的力量统治足球世界了吗？ ZAP不仅仅是一款比分应用 ；它是您的终极智能体育助手 ，能在几秒钟内处理成千上万的数据。 有了ZAP ，拒绝任何冷门 ！我们先进的算法结合了球队状态、过往交锋和深度统计数据 ，为您呈现最有可能的比赛走向。 为什么您会爱上ZAP ： AI驱动分析 ：智能洞察 ，读懂比赛 ，而不仅仅是比分。 深度统计：谁占优势 ？获取基于智能数据计算的胜率。 全球赛事：从欧洲豪门到本土联赛 ，世界尽在掌握。 实时比分：进球、红黄牌和赛事动态瞬间推送到您的手机。 桌面小组件：无需打开应用即可关注您最爱联赛的积分榜 ！ 相信科技的力量。立即下载ZAP ，使用开启您的连胜之旅。条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "fullDescription": "准备好借助人工智能的力量统治足球世界了吗？ ZAP不仅仅是一款比分应用 ；它是您的终极智能体育助手 ，能在几秒钟内处理成千上万的数据。 有了ZAP ，拒绝任何冷门 ！我们先进的算法结合了球队状态、过往交锋和深度统计数据 ，为您呈现最有可能的比赛走向。 为什么您会爱上ZAP ： AI驱动分析 ：智能洞察 ，读懂比赛 ，而不仅仅是比分。 深度统计：谁占优势 ？获取基于智能数据计算的胜率。 全球赛事：从欧洲豪门到本土联赛 ，世界尽在掌握。 实时比分：进球、红黄牌和赛事动态瞬间推送到您的手机。 桌面小组件：无需打开应用即可关注您最爱联赛的积分榜 ！ 相信科技的力量。立即下载ZAP ，使用开启您的连胜之旅。条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "summaryDescription": "准备好借助人工智能的力量统治足球世界了吗？ ZAP不仅仅是一款比分应用 ；它是您的终极智能体育助手 ，能在几秒钟内处理成千上万的数据。 有了ZAP ，拒绝任何冷门 ！我们先进的算法结合了球队状态、过往交锋和深度统计数据 ，为您呈现最有可能的比赛走向。 为什么您会爱上ZAP ： AI驱动分析 ：智能洞察 ，读懂比赛 ，而不仅仅是比分。 深度统计：谁占优势 ？获取基于智能数据计算的胜率。 全球赛事：从欧洲豪门到本土联赛 ，世界尽在掌握。 实时比分：进球、红黄牌和赛事动态瞬间推送到您的手机。 桌面小组件：无需打开应用即可关注您最爱联赛的积分榜 ！ 相信科技的力量。立即下载ZAP ，使用开启您的连胜之旅。条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "description": "准备好借助人工智能的力量统治足球世界了吗？ZAP不仅仅是一款比分应用；它是您的终极智能体育助手，能在几秒钟内处理成千上万的数据。 有了ZAP，拒绝任何冷门！我们先进的算法结合了球队状态、过往交锋和深度统计数据，为您呈现最有可能的比赛走向。 为什么您会爱上ZAP： AI驱动分析：智能洞察，读懂比赛，而不仅仅是比分。 深度统计：谁占优势？获取基于智能数据计算的胜率。 全球赛事：从欧洲豪门到本土联赛，世界尽在掌握。 实时比分：进球、红黄牌和赛事动态瞬间推送到您的手机。 桌面小组件：无需打开应用即可关注您最爱联赛的积分榜！ 相信科技的力量。立即下载ZAP，开启您的连胜之旅。 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "fullDescription": "准备好借助人工智能的力量统治足球世界了吗？ZAP不仅仅是一款比分应用；它是您的终极智能体育助手，能在几秒钟内处理成千上万的数据。 有了ZAP，拒绝任何冷门！我们先进的算法结合了球队状态、过往交锋和深度统计数据，为您呈现最有可能的比赛走向。 为什么您会爱上ZAP： AI驱动分析：智能洞察，读懂比赛，而不仅仅是比分。 深度统计：谁占优势？获取基于智能数据计算的胜率。 全球赛事：从欧洲豪门到本土联赛，世界尽在掌握。 实时比分：进球、红黄牌和赛事动态瞬间推送到您的手机。 桌面小组件：无需打开应用即可关注您最爱联赛的积分榜！ 相信科技的力量。立即下载ZAP，开启您的连胜之旅。 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "summaryDescription": "准备好借助人工智能的力量统治足球世界了吗？ZAP不仅仅是一款比分应用；它是您的终极智能体育助手，能在几秒钟内处理成千上万的数据。 有了ZAP，拒绝任何冷门！我们先进的算法结合了球队状态、过往交锋和深度统计数据，为您呈现最有可能的比赛走向。 为什么您会爱上ZAP： AI驱动分析：智能洞察，读懂比赛，而不仅仅是比分。 深度统计：谁占优势？获取基于智能数据计算的胜率。 全球赛事：从欧洲豪门到本土联赛，世界尽在掌握。 实时比分：进球、红黄牌和赛事动态瞬间推送到您的手机。 桌面小组件：无需打开应用即可关注您最爱联赛的积分榜！ 相信科技的力量。立即下载ZAP，开启您的连胜之旅。 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/1d/4d/6d1d4d13-7892-400b-8853-71b5975be92c/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/1d/4d/6d1d4d13-7892-400b-8853-71b5975be92c/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Deniz Otlu",
