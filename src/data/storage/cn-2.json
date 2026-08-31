@@ -68198,9 +68198,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/subscriptions-manager/id1502159977?uo=4",
-    "description": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一处跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
-    "fullDescription": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一处跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
-    "summaryDescription": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一处跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
+    "description": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一个地方跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
+    "fullDescription": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一个地方跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
+    "summaryDescription": "控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一个地方跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/8a/ac/558aacfc-1be9-61c5-125d-4dfe9fc80b2e/MainLogo-0-0-1x_U007epad-0-10-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/8a/ac/558aacfc-1be9-61c5-125d-4dfe9fc80b2e/MainLogo-0-0-1x_U007epad-0-10-0-85-220.png/100x100bb.jpg",
     "sellerName": "Darius Buhai",
@@ -86266,6 +86266,21 @@
     "history": [
       [
         {
+          "timestamp": 1788207064451,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "解锁《坏种》DLC": "¥8.00",
+            "解锁《致命坠落》DLC": "¥6.00",
+            "解锁《王后与海》DLC": "¥8.00",
+            "解锁《重返恶魔城》DLC": "¥16.00",
+            "解锁《一路向海》DLC捆绑包": "¥18.00",
+            "解锁《新一路向海》DLC捆绑包": "¥34.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785513893983,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -100858,10 +100873,18 @@
       "formattedPrice": "¥88.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "¥88.00"
+      "price": 58,
+      "formattedPrice": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788207064451,
+          "price": 58,
+          "formattedPrice": "¥58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781703671179,
@@ -100872,9 +100895,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/neutron-audio-recorder/id1540358780?uo=4",
-    "description": "Neutron录音机 - 强大实用的手机和电脑录音应用 Neutron 录音机是一款适用于移动设备和 PC 的强大录音应用，可满足专业人士对高保真音频和录音高级控制的需求。 录音功能： 高品质音频： 采用发烧友级 32/64 位引擎，打造专业录音效果，深受 Neutron 音乐播放器用户喜爱。 静音检测： 跳过录音中的静音片段，节省存储空间。 高级音频控制： 参数均衡器（最多 60 段）： 微调音频平衡。 可定制滤器： 纠正声音。 自动增益控制 (AGC)： 放大微弱或遥远的声音。 可选重采样： 减小文件大小，同时保持音质（适用于语音录制）。 多种录音模式： 选择无损高清格式 (WAV、FLAC) 录制未压缩音频，或选择压缩格式 (OGG/Vorbis、MP3、SPEEX、WAV-ADPCM) 节省空间。 整理和播放： 媒体库： 整理录音以便轻松访问，并创建播放列表。 可视化反馈： 实时查看频谱、均方根和波形分析器中的音频电平。 存储和备份： 灵活的存储选项： 将录音保存到设备本地存储、外部 SD 卡，或直接流式传输到网络存储 (SMB 或 SFTP) 以进行实时备份。 标签编辑： 添加标签以更好地整理录音。 规格： 32/64 位高清音频引擎 Neutron HiFi™ (HD audio) 操作系统和平台无关的编码和音频处理 位完美录音 信号监测模式 音频格式： WAV (PCM, ADPCM, A-Law, U-Law)、FLAC、OGG/Vorbis、Speex、MP3 播放列表： M3U 元数据/标签编辑 与其他已安装的应用共享录制文件 录制到内部存储 录制到网络存储： SMB/CIFS 网络设备 (NAS 或 PC、Samba 共享) SFTP (over SSH) 服务器 将录制输出到 Chromecast 或 UPnP/DLNA 音频/扬声器设备 通过内部 FTP 服务器管理设备本地音乐库 DSP 效果： 静音检测（录音或播放时跳过静音） 自动增益控制（识别远处的微弱声音） 可配置数字滤器 参数均衡器（4-60 段，完全可配置：类型、频率、Q 值、增益） 压缩器/限制器（压缩动态范围） 抖动 (最小化量化误差) 设置管理配置文件 高品质实时可选重采样（质量和发烧友模式） 实时频谱、均方根和波形分析器 播放模式： 随机播放、循环播放、单曲播放、顺序播放、队列播放 播放列表管理 媒体库分组方式：专辑、艺术家、流派、年份、文件夹 书签 文件夹模式 计时器： 停止、启动 注意： 购买前可以免费试用 5 天的试用版！ 支持： 请通过电子邮件或论坛直接报告错误。 论坛： https://forum.neutroncode.com 关于 Neutron HiFi™： https://neutronhifi.com 关注我们： https://x.com/neutroncode https://facebook.com/neutroncode",
-    "fullDescription": "Neutron录音机 - 强大实用的手机和电脑录音应用 Neutron 录音机是一款适用于移动设备和 PC 的强大录音应用，可满足专业人士对高保真音频和录音高级控制的需求。 录音功能： 高品质音频： 采用发烧友级 32/64 位引擎，打造专业录音效果，深受 Neutron 音乐播放器用户喜爱。 静音检测： 跳过录音中的静音片段，节省存储空间。 高级音频控制： 参数均衡器（最多 60 段）： 微调音频平衡。 可定制滤器： 纠正声音。 自动增益控制 (AGC)： 放大微弱或遥远的声音。 可选重采样： 减小文件大小，同时保持音质（适用于语音录制）。 多种录音模式： 选择无损高清格式 (WAV、FLAC) 录制未压缩音频，或选择压缩格式 (OGG/Vorbis、MP3、SPEEX、WAV-ADPCM) 节省空间。 整理和播放： 媒体库： 整理录音以便轻松访问，并创建播放列表。 可视化反馈： 实时查看频谱、均方根和波形分析器中的音频电平。 存储和备份： 灵活的存储选项： 将录音保存到设备本地存储、外部 SD 卡，或直接流式传输到网络存储 (SMB 或 SFTP) 以进行实时备份。 标签编辑： 添加标签以更好地整理录音。 规格： 32/64 位高清音频引擎 Neutron HiFi™ (HD audio) 操作系统和平台无关的编码和音频处理 位完美录音 信号监测模式 音频格式： WAV (PCM, ADPCM, A-Law, U-Law)、FLAC、OGG/Vorbis、Speex、MP3 播放列表： M3U 元数据/标签编辑 与其他已安装的应用共享录制文件 录制到内部存储 录制到网络存储： SMB/CIFS 网络设备 (NAS 或 PC、Samba 共享) SFTP (over SSH) 服务器 将录制输出到 Chromecast 或 UPnP/DLNA 音频/扬声器设备 通过内部 FTP 服务器管理设备本地音乐库 DSP 效果： 静音检测（录音或播放时跳过静音） 自动增益控制（识别远处的微弱声音） 可配置数字滤器 参数均衡器（4-60 段，完全可配置：类型、频率、Q 值、增益） 压缩器/限制器（压缩动态范围） 抖动 (最小化量化误差) 设置管理配置文件 高品质实时可选重采样（质量和发烧友模式） 实时频谱、均方根和波形分析器 播放模式： 随机播放、循环播放、单曲播放、顺序播放、队列播放 播放列表管理 媒体库分组方式：专辑、艺术家、流派、年份、文件夹 书签 文件夹模式 计时器： 停止、启动 注意： 购买前可以免费试用 5 天的试用版！ 支持： 请通过电子邮件或论坛直接报告错误。 论坛： https://forum.neutroncode.com 关于 Neutron HiFi™： https://neutronhifi.com 关注我们： https://x.com/neutroncode https://facebook.com/neutroncode",
-    "summaryDescription": "Neutron录音机 - 强大实用的手机和电脑录音应用 Neutron 录音机是一款适用于移动设备和 PC 的强大录音应用，可满足专业人士对高保真音频和录音高级控制的需求。 录音功能： 高品质音频： 采用发烧友级 32/64 位引擎，打造专业录音效果，深受 Neutron 音乐播放器用户喜爱。 静音检测： 跳过录音中的静音片段，节省存储空间。 高级音频控制： 参数均衡器（最多 60 段）： 微调音频平衡。 可定制滤器： 纠正声音。 自动增益控制 (AGC)： 放大微弱或遥远的声音。 可选重采样： 减小文件大小，同时保持音质（适用于语音录制）。 多种录音模式： 选择无损高清格式 (WAV、FLAC) 录制未压缩音频，或选择压缩格式 (OGG/Vorbis、MP3、SPEEX、WAV-ADPCM) 节省空间。 整理和播放： 媒体库： 整理录音以便轻松访问，并创建播放列表。 可视化反馈： 实时查看频谱、均方根和波形分析器中的音频电平。 存储和备份： 灵活的存储选项： 将录音保存到设备本地存储、外部 SD 卡，或直接流式传输到网络存储 (SMB 或 SFTP) 以进行实时备份。 标签编辑： 添加标签以更好地整理录音。 规格： 32/64 位高清音频引擎 Neutron HiFi™ (HD audio) 操作系统和平台无关的编码和音频处理 位完美录音 信号监测模式 音频格式： WAV (PCM, ADPCM, A-Law, U-Law)、FLAC、OGG/Vorbis、Speex、MP3 播放列表： M3U 元数据/标签编辑 与其他已安装的应用共享录制文件 录制到内部存储 录制到网络存储： SMB/CIFS 网络设备 (NAS 或 PC、Samba 共享) SFTP (over SSH) 服务器 将录制输出到 Chromecast 或 UPnP/DLNA 音频/扬声器设备 通过内部 FTP 服务器管理设备本地音乐库 DSP 效果： 静音检测（录音或播放时跳过静音） 自动增益控制（识别远处的微弱声音） 可配置数字滤器 参数均衡器（4-60 段，完全可配置：类型、频率、Q 值、增益） 压缩器/限制器（压缩动态范围） 抖动 (最小化量化误差) 设置管理配置文件 高品质实时可选重采样（质量和发烧友模式） 实时频谱、均方根和波形分析器 播放模式： 随机播放、循环播放、单曲播放、顺序播放、队列播放 播放列表管理 媒体库分组方式：专辑、艺术家、流派、年份、文件夹 书签 文件夹模式 计时器： 停止、启动 注意： 购买前可以免费试用 5 天的试用版！ 支持： 请通过电子邮件或论坛直接报告错误。 论坛： https://forum.neutroncode.com 关于 Neutron HiFi™： https://neutronhifi.com 关注我们： https://x.com/neutroncode https://facebook.com/neutroncode",
+    "description": "Neutron录音机 - 强大实用的手机和电脑录音应用 Neutron 录音机是一款适用于移动设备和 PC 的强大录音应用，可满足专业人士对高保真音频和录音高级控制的需求。 录音功能： 高品质音频： 采用发烧友级 32/64 位引擎，打造专业录音效果，深受 Neutron 音乐播放器用户喜爱。 静音检测： 跳过录音中的静音片段，节省存储空间。 高级音频控制： 参数均衡器（最多 60 段）： 微调音频平衡。 可定制滤器： 纠正声音。 自动增益控制 (AGC)： 放大微弱或遥远的声音。 可选重采样： 减小文件大小，同时保持音质（适用于语音录制）。 多种录音模式： 选择无损高清格式 (WAV、FLAC) 录制未压缩音频，或选择压缩格式 (OGG/Vorbis、MP3、SPEEX、WAV-ADPCM) 节省空间。 整理和播放： 媒体库： 整理录音以便轻松访问，并创建播放列表。 可视化反馈： 实时查看频谱、均方根和波形分析器中的音频电平。 存储和备份： 灵活的存储选项： 将录音保存到设备本地存储、外部 SD 卡，或直接流式传输到网络存储 (SMB 或 SFTP) 以进行实时备份。 标签编辑： 添加标签以更好地整理录音。 规格： 32/64 位高清音频引擎 Neutron HiFi™ (HD audio) 操作系统和平台无关的编码和音频处理 位完美录音 信号监测模式 音频格式： WAV (PC",
+    "fullDescription": "Neutron录音机 - 强大实用的手机和电脑录音应用 Neutron 录音机是一款适用于移动设备和 PC 的强大录音应用，可满足专业人士对高保真音频和录音高级控制的需求。 录音功能： 高品质音频： 采用发烧友级 32/64 位引擎，打造专业录音效果，深受 Neutron 音乐播放器用户喜爱。 静音检测： 跳过录音中的静音片段，节省存储空间。 高级音频控制： 参数均衡器（最多 60 段）： 微调音频平衡。 可定制滤器： 纠正声音。 自动增益控制 (AGC)： 放大微弱或遥远的声音。 可选重采样： 减小文件大小，同时保持音质（适用于语音录制）。 多种录音模式： 选择无损高清格式 (WAV、FLAC) 录制未压缩音频，或选择压缩格式 (OGG/Vorbis、MP3、SPEEX、WAV-ADPCM) 节省空间。 整理和播放： 媒体库： 整理录音以便轻松访问，并创建播放列表。 可视化反馈： 实时查看频谱、均方根和波形分析器中的音频电平。 存储和备份： 灵活的存储选项： 将录音保存到设备本地存储、外部 SD 卡，或直接流式传输到网络存储 (SMB 或 SFTP) 以进行实时备份。 标签编辑： 添加标签以更好地整理录音。 规格： 32/64 位高清音频引擎 Neutron HiFi™ (HD audio) 操作系统和平台无关的编码和音频处理 位完美录音 信号监测模式 音频格式： WAV (PC",
+    "summaryDescription": "Neutron录音机 - 强大实用的手机和电脑录音应用 Neutron 录音机是一款适用于移动设备和 PC 的强大录音应用，可满足专业人士对高保真音频和录音高级控制的需求。 录音功能： 高品质音频： 采用发烧友级 32/64 位引擎，打造专业录音效果，深受 Neutron 音乐播放器用户喜爱。 静音检测： 跳过录音中的静音片段，节省存储空间。 高级音频控制： 参数均衡器（最多 60 段）： 微调音频平衡。 可定制滤器： 纠正声音。 自动增益控制 (AGC)： 放大微弱或遥远的声音。 可选重采样： 减小文件大小，同时保持音质（适用于语音录制）。 多种录音模式： 选择无损高清格式 (WAV、FLAC) 录制未压缩音频，或选择压缩格式 (OGG/Vorbis、MP3、SPEEX、WAV-ADPCM) 节省空间。 整理和播放： 媒体库： 整理录音以便轻松访问，并创建播放列表。 可视化反馈： 实时查看频谱、均方根和波形分析器中的音频电平。 存储和备份： 灵活的存储选项： 将录音保存到设备本地存储、外部 SD 卡，或直接流式传输到网络存储 (SMB 或 SFTP) 以进行实时备份。 标签编辑： 添加标签以更好地整理录音。 规格： 32/64 位高清音频引擎 Neutron HiFi™ (HD audio) 操作系统和平台无关的编码和音频处理 位完美录音 信号监测模式 音频格式： WAV (PC",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/de/4b/cbde4b6b-b6a2-8661-9ec6-fbd206f4f0e5/AppIconRC-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/de/4b/cbde4b6b-b6a2-8661-9ec6-fbd206f4f0e5/AppIconRC-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
     "sellerName": "Neutron Code Limited",
@@ -103393,8 +103416,8 @@
     "description": "别再一遍遍打同样的话。存一次，之后点一下就输入。 把常用的账号、地址、自我介绍、邮件模板存成短语。在微信、邮件、Safari，任何能打字的地方切到剪贴键盘，点一下，内容就填进输入框。 能做什么 短语：存好的内容原样输入，一点就好。 模板：每次会变的地方留成空位，用的时候从存过的值里挑一个填上。 组合：几个值放在同一个键上，按顺序依次输入，或者用箭头轮换着用。 加密短语：护照号、卡号用 Face ID 锁起来，需要的时候才打开。 智能剪贴板：复制过的内容自动归类，邮箱、电话、地址、卡号、IBAN 都认得出来，之后一秒就能找到。 iCloud 备份：换手机也不会丢，图片短语也一起带走。 关于隐私 你写的内容只保存在你自己的设备上。开启 iCloud 备份时，会以加密状态存进你自己的 iCloud。我们不收集短语的内容，也不使用任何第三方分析工具。 请先知道这一点 这是一个用来取用存好短语的键盘，不是拼音输入法。它不替代你平时打字的键盘。需要填入常用内容时切过来点一下，填完再切回去。 免费与 Pro 免费版可以存 10 个短语、3 个模板、3 个组合、50 条剪贴板记录和 5 个图片短语。Pro 是一次性买断，不是订阅：解除所有上限，另外提供 iCloud 备份和生物识别锁，还有 7 天免费试用。 支持 iPhone、iPad、Mac 和 Vision Pro。界面提供简体中文、繁体中文、韩语和英语。",
     "fullDescription": "别再一遍遍打同样的话。存一次，之后点一下就输入。 把常用的账号、地址、自我介绍、邮件模板存成短语。在微信、邮件、Safari，任何能打字的地方切到剪贴键盘，点一下，内容就填进输入框。 能做什么 短语：存好的内容原样输入，一点就好。 模板：每次会变的地方留成空位，用的时候从存过的值里挑一个填上。 组合：几个值放在同一个键上，按顺序依次输入，或者用箭头轮换着用。 加密短语：护照号、卡号用 Face ID 锁起来，需要的时候才打开。 智能剪贴板：复制过的内容自动归类，邮箱、电话、地址、卡号、IBAN 都认得出来，之后一秒就能找到。 iCloud 备份：换手机也不会丢，图片短语也一起带走。 关于隐私 你写的内容只保存在你自己的设备上。开启 iCloud 备份时，会以加密状态存进你自己的 iCloud。我们不收集短语的内容，也不使用任何第三方分析工具。 请先知道这一点 这是一个用来取用存好短语的键盘，不是拼音输入法。它不替代你平时打字的键盘。需要填入常用内容时切过来点一下，填完再切回去。 免费与 Pro 免费版可以存 10 个短语、3 个模板、3 个组合、50 条剪贴板记录和 5 个图片短语。Pro 是一次性买断，不是订阅：解除所有上限，另外提供 iCloud 备份和生物识别锁，还有 7 天免费试用。 支持 iPhone、iPad、Mac 和 Vision Pro。界面提供简体中文、繁体中文、韩语和英语。",
     "summaryDescription": "别再一遍遍打同样的话。存一次，之后点一下就输入。 把常用的账号、地址、自我介绍、邮件模板存成短语。在微信、邮件、Safari，任何能打字的地方切到剪贴键盘，点一下，内容就填进输入框。 能做什么 短语：存好的内容原样输入，一点就好。 模板：每次会变的地方留成空位，用的时候从存过的值里挑一个填上。 组合：几个值放在同一个键上，按顺序依次输入，或者用箭头轮换着用。 加密短语：护照号、卡号用 Face ID 锁起来，需要的时候才打开。 智能剪贴板：复制过的内容自动归类，邮箱、电话、地址、卡号、IBAN 都认得出来，之后一秒就能找到。 iCloud 备份：换手机也不会丢，图片短语也一起带走。 关于隐私 你写的内容只保存在你自己的设备上。开启 iCloud 备份时，会以加密状态存进你自己的 iCloud。我们不收集短语的内容，也不使用任何第三方分析工具。 请先知道这一点 这是一个用来取用存好短语的键盘，不是拼音输入法。它不替代你平时打字的键盘。需要填入常用内容时切过来点一下，填完再切回去。 免费与 Pro 免费版可以存 10 个短语、3 个模板、3 个组合、50 条剪贴板记录和 5 个图片短语。Pro 是一次性买断，不是订阅：解除所有上限，另外提供 iCloud 备份和生物识别锁，还有 7 天免费试用。 支持 iPhone、iPad、Mac 和 Vision Pro。界面提供简体中文、繁体中文、韩语和英语。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/40/96/7d40969e-b11d-a3a0-ba47-ce140a13f4b5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/40/96/7d40969e-b11d-a3a0-ba47-ce140a13f4b5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/2a/1f/612a1f03-3732-5b58-e1fd-198ecaf5431d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/2a/1f/612a1f03-3732-5b58-e1fd-198ecaf5431d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "hyunho lee",
     "artistName": "hyunho lee",
     "screenshotUrls": [
@@ -128884,6 +128907,16 @@
     "history": [
       [
         {
+          "timestamp": 1788207064451,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "StarNFC尊享终身会员": "¥68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787208061709,
           "price": 0,
           "formattedPrice": "免费",
@@ -130688,8 +130721,8 @@
     ]
   },
   "1575379367": {
-    "name": "小渐变 - 制作自己的渐变壁纸",
-    "trackName": "小渐变 - 制作自己的渐变壁纸",
+    "name": "小渐变 - 提取图片色彩与壁纸制作",
+    "trackName": "小渐变 - 提取图片色彩与壁纸制作",
     "maxPriceInfo": {
       "price": 6,
       "formattedPrice": "¥6.00"
@@ -130708,25 +130741,27 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%B0%8F%E6%B8%90%E5%8F%98-%E5%88%B6%E4%BD%9C%E8%87%AA%E5%B7%B1%E7%9A%84%E6%B8%90%E5%8F%98%E5%A3%81%E7%BA%B8/id1575379367?uo=4",
-    "description": "小渐变是一款超级好用的壁纸应用工具！您只需选择自己喜欢的图片，小渐变就会自动提取出其中的颜色并生成美丽的渐变背景。 无需纠结选择颜色** 对于那些颜色选择犹豫不决的用户，小渐变提供了一种非常有趣的解决方案：只需上传图片，它会为您提取出最适合的颜色，再选择其中两个就可以得到完美的渐变色啦！ 享受色彩创意之旅** 小渐变不仅提供自动提取颜色的功能，还可以帮助您探索各种色彩搭配灵感。使用它，您可以将自己的作品升级到另一个层次！ 更多用途等待您发掘** 小渐变生成的渐变背景不仅可以应用于手机和电脑壁纸，还可以用作PPT背景、设计底图等，让您的作品更加精彩！ \"小渐变\" is a fantastic wallpaper application that allows you to effortlessly create gradient backgrounds. It analyzes the colors of your selected image and generates a beautiful gradient background by combining the main colors. Automatic Color Selection Simply upload a photo from your album, and \"小渐变\" will automatically capture the five primary colors. You can then select any two colors to generate a stunning gradient background. Let the colors in your life inspire you with surprising creativity. Explore Color Coordination If you're interested in color coordination, you can use \"小渐变\" to explore the colors of classic paintings, movies, and directors' scenes. Experience the artistry of the masters in just a second. Versatile Tool The gradient backgrounds created by \"小渐变\" are versatile and can be used as wallpapers for your phone and computer, as well as for PPT backgrounds and design templates, making your works even more impressive!",
-    "fullDescription": "小渐变是一款超级好用的壁纸应用工具！您只需选择自己喜欢的图片，小渐变就会自动提取出其中的颜色并生成美丽的渐变背景。 无需纠结选择颜色** 对于那些颜色选择犹豫不决的用户，小渐变提供了一种非常有趣的解决方案：只需上传图片，它会为您提取出最适合的颜色，再选择其中两个就可以得到完美的渐变色啦！ 享受色彩创意之旅** 小渐变不仅提供自动提取颜色的功能，还可以帮助您探索各种色彩搭配灵感。使用它，您可以将自己的作品升级到另一个层次！ 更多用途等待您发掘** 小渐变生成的渐变背景不仅可以应用于手机和电脑壁纸，还可以用作PPT背景、设计底图等，让您的作品更加精彩！ \"小渐变\" is a fantastic wallpaper application that allows you to effortlessly create gradient backgrounds. It analyzes the colors of your selected image and generates a beautiful gradient background by combining the main colors. Automatic Color Selection Simply upload a photo from your album, and \"小渐变\" will automatically capture the five primary colors. You can then select any two colors to generate a stunning gradient background. Let the colors in your life inspire you with surprising creativity. Explore Color Coordination If you're interested in color coordination, you can use \"小渐变\" to explore the colors of classic paintings, movies, and directors' scenes. Experience the artistry of the masters in just a second. Versatile Tool The gradient backgrounds created by \"小渐变\" are versatile and can be used as wallpapers for your phone and computer, as well as for PPT backgrounds and design templates, making your works even more impressive!",
-    "summaryDescription": "小渐变是一款超级好用的壁纸应用工具！您只需选择自己喜欢的图片，小渐变就会自动提取出其中的颜色并生成美丽的渐变背景。 无需纠结选择颜色** 对于那些颜色选择犹豫不决的用户，小渐变提供了一种非常有趣的解决方案：只需上传图片，它会为您提取出最适合的颜色，再选择其中两个就可以得到完美的渐变色啦！ 享受色彩创意之旅** 小渐变不仅提供自动提取颜色的功能，还可以帮助您探索各种色彩搭配灵感。使用它，您可以将自己的作品升级到另一个层次！ 更多用途等待您发掘** 小渐变生成的渐变背景不仅可以应用于手机和电脑壁纸，还可以用作PPT背景、设计底图等，让您的作品更加精彩！ \"小渐变\" is a fantastic wallpaper application that allows you to effortlessly create gradient backgrounds. It analyzes the colors of your selected image and generates a beautiful gradient background by combining the main colors. Automatic Color Selection Simply upload a photo from your album, and \"小渐变\" will automatically capture the five primary colors. You can then select any two colors to generate a stunning gradient background. Let the colors in your life inspire you with surprising creativity. Explore Color Coordination If you're interested in color coordination, you can use \"小渐变\" to explore the colors of classic paintings, movies, and directors' scenes. Experience the artistry of the masters in just a second. Versatile Tool The gradient backgrounds created by \"小渐变\" are versatile and can be used as wallpapers for your phone and computer, as well as for PPT backgrounds and design templates, making your works even more impressive!",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/e0/c2/9fe0c213-2d60-3722-0ccd-1e66640ad83f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/e0/c2/9fe0c213-2d60-3722-0ccd-1e66640ad83f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%B0%8F%E6%B8%90%E5%8F%98-%E6%8F%90%E5%8F%96%E5%9B%BE%E7%89%87%E8%89%B2%E5%BD%A9%E4%B8%8E%E5%A3%81%E7%BA%B8%E5%88%B6%E4%BD%9C/id1575379367?uo=4",
+    "description": "小渐变是一款优雅、轻巧的壁纸创作工具。上传你喜欢的照片或摄影作品，小渐变会自动提取画面中的核心色彩调色盘，组合成纯净、宁静的渐变壁纸。 自动提取灵感色彩** 生活中的色彩灵感往往充满惊喜。只需挑选相册中的一张照片，小渐变会瞬间提炼出主色调。任意挑选两款颜色，即可生成专属的渐变色背景。 四种精选视觉样式** 纯净（Pure）：极致简约的双色渐变，纯粹耐看 中图（Middle）：渐变打底，经典画作/摄影作品方正居中呈现 小半（Half）：照片满屏横向舒展，左侧半屏渐变交融 深陷（Drop）：主色打底叠加有机半透明纹理，极具艺术氛围感 妙用场景** 不仅是手机与平板的锁屏/桌面壁纸，还能作为设计底图、幻灯片（PPT）背景或灵感色卡使用。 纯净隐私** 100% 本地离线处理，照片不离开设备，无广告、无第三方追踪。",
+    "fullDescription": "小渐变是一款优雅、轻巧的壁纸创作工具。上传你喜欢的照片或摄影作品，小渐变会自动提取画面中的核心色彩调色盘，组合成纯净、宁静的渐变壁纸。 自动提取灵感色彩** 生活中的色彩灵感往往充满惊喜。只需挑选相册中的一张照片，小渐变会瞬间提炼出主色调。任意挑选两款颜色，即可生成专属的渐变色背景。 四种精选视觉样式** 纯净（Pure）：极致简约的双色渐变，纯粹耐看 中图（Middle）：渐变打底，经典画作/摄影作品方正居中呈现 小半（Half）：照片满屏横向舒展，左侧半屏渐变交融 深陷（Drop）：主色打底叠加有机半透明纹理，极具艺术氛围感 妙用场景** 不仅是手机与平板的锁屏/桌面壁纸，还能作为设计底图、幻灯片（PPT）背景或灵感色卡使用。 纯净隐私** 100% 本地离线处理，照片不离开设备，无广告、无第三方追踪。",
+    "summaryDescription": "小渐变是一款优雅、轻巧的壁纸创作工具。上传你喜欢的照片或摄影作品，小渐变会自动提取画面中的核心色彩调色盘，组合成纯净、宁静的渐变壁纸。 自动提取灵感色彩** 生活中的色彩灵感往往充满惊喜。只需挑选相册中的一张照片，小渐变会瞬间提炼出主色调。任意挑选两款颜色，即可生成专属的渐变色背景。 四种精选视觉样式** 纯净（Pure）：极致简约的双色渐变，纯粹耐看 中图（Middle）：渐变打底，经典画作/摄影作品方正居中呈现 小半（Half）：照片满屏横向舒展，左侧半屏渐变交融 深陷（Drop）：主色打底叠加有机半透明纹理，极具艺术氛围感 妙用场景** 不仅是手机与平板的锁屏/桌面壁纸，还能作为设计底图、幻灯片（PPT）背景或灵感色卡使用。 纯净隐私** 100% 本地离线处理，照片不离开设备，无广告、无第三方追踪。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/95/de/0695de79-c633-560c-d048-fe8dc7f87b76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/95/de/0695de79-c633-560c-d048-fe8dc7f87b76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Chengdu Yichen Technology Co., Ltd",
     "artistName": "Chengdu Yichen Technology Co., Ltd",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/b7/f5/15/b7f51542-6e6f-7c7d-e7ec-85063ba6ea0b/e7fa8988-3e29-4c09-998b-3ba1d373fbfa_Apple_iPhone_8_Plus_Screenshot_0.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/83/28/4d/83284d12-4d0f-7d6b-7702-7361c84a9a31/363d7f96-ab64-489d-a2f2-201067f22df5_Apple_iPhone_8_Plus_Screenshot_1.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/9e/93/c4/9e93c486-292f-9109-4cd3-ce0bebcf1853/b3a73feb-70b1-4a8a-b6e9-a6d5faa00800_Apple_iPhone_8_Plus_Screenshot_2.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/be/a9/43/bea94316-c7c2-a962-4d79-bcc6b987171f/d3c4c607-5bd1-45bc-a3fe-7e5be6758ef7_Apple_iPhone_8_Plus_Screenshot_3.png/392x696bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/ed/dd/84eddda8-8776-8aa5-f563-27cbdfb9e75d/01-make.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/0d/83/6c0d837e-efe1-8aba-702d-9ffd36f578b0/02-pure.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/ad/fa/d5adfa07-719e-3905-f5cd-20ca9d3f42f0/03-drop.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/aa/23/fdaa237c-1cf1-fbe8-5ea8-8c1d6425daea/04-explore.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/38/58/ca3858b1-ab5b-8a8a-6696-d48b726d04c8/05-about.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/78/08/6e/78086ec5-0493-7f42-7efd-57fe73c2c904/39bdf92e-cd84-4523-b3b8-057f56f1d3db_Apple_iPad_Pro_13_Inch_Screenshot_0.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/1d/c7/cd/1dc7cd0a-75b9-56ef-39af-5c26a6c5c393/bb3d87c6-617c-4cf9-8a5e-009e5d10b6a2_Apple_iPad_Pro_13_Inch_Screenshot_1.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/93/de/2f/93de2f56-4d0a-92ad-7eef-93b3b7de8d4a/631a1e41-4a5e-4e59-80b6-2548fa115a6e_Apple_iPad_Pro_13_Inch_Screenshot_2.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d9/30/9f/d9309f15-7486-2abd-ef78-0b983cdceb75/c17fe1b3-04c7-4a49-8100-50ebf65d5514_Apple_iPad_Pro_13_Inch_Screenshot_3.png/576x768bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/20/aa/7c20aa54-c0e3-feab-2aa3-17628a54233e/01-ipad.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/60/af/9660af30-73ee-ab67-5352-a5a766b97363/02-ipad.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/6a/99/c06a99c1-6939-3341-77f7-64bfb149b85e/03-ipad.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/46/0c/b2460c1c-a5c8-dbf6-acf0-b9e2a0ff17fe/04-ipad.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/bc/16/0fbc166f-b0b2-4fc6-3b99-9f2dd8cf1b47/05-ipad.png/576x768bb.png"
     ],
     "_externalSourceFirstSeen": 1772807533675
   },
@@ -135971,6 +136006,14 @@
     "history": [
       [
         {
+          "timestamp": 1788207064451,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786797150326,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -136011,9 +136054,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E7%94%B5%E5%AD%90%E5%B7%A5%E5%85%B7%E5%8C%85-%E5%8F%A3%E8%A2%8B%E9%87%8C%E7%9A%84%E7%94%B5%E5%AD%90%E5%AE%9E%E9%AA%8C%E5%AE%A4/id1581668963?uo=4",
-    "description": "Electrohelper 经过精心设计，以满足电子工程师和电子爱好者在设计电子电路时的需求。 该应用程序包含电子元件参考部分、电子电路参考部分和电子电路计算部分。 使用该应用程序可以更轻松地进行繁琐的电子电路计算，例如 Butterworth、Sallen-Key、Chebychev 和 Bessel 滤波器。 电子元件部分：- 电阻器 电容器 电感器 瞬态电压抑制器(TVS) 整流二极管 信号二极管 齐纳二极管 双极结型晶体管(BJT) 金属氧化物场效应晶体管(MOSFET) 555定时器 运算放大器（Op-amp） Arduino 开发板（arduino uno 和 arduino nano） 亚特米加 328 稳压集成电路(IC) 多路复用器 解复用器 编码器 解码器 人字拖 柜台 移位寄存器 电子计算器部分：- NE555定时器非稳态多谐振荡器 NE555定时器单稳态多谐振荡器 双极结型晶体管 (BJT) 分析 电感绕组 环形电感绕组 变压器绕组 Butterworth、Bessel、Chebychev 无源滤波器计算器 Sallen - 关键有源滤波器计算器 反相、同相和差分运算放大器计算器 电阻串联计算器 并行计算器中的电阻器 电容器串联计算器 并联计算器中的电容器 电容计算器的电容 阻力计算器 串联 LRC 电路阻抗和电抗计算器 并联 LRC 电路阻抗和电抗 给电容器充电和放电 给电感充电和放电 聚酯薄膜电容器代号 陶瓷电容代码 电阻颜色代码 空心电感 分压器 分流器 欧姆定律（电路中的电流、电压和电阻关系） 三角洲到星形电阻器网络转换 星型到三角型电阻器网络转换 发光二极管 (LED) 电阻计算器 双极 Sallen - 钥匙 巴特沃斯滤波器组件值计算器 表面贴装（SMD）电阻代码计算器 Pi, Tee 和 Bridge 衰减器 射频 (RF) 计算器 交流 (AC) 电源 直流（DC）电源",
-    "fullDescription": "Electrohelper 经过精心设计，以满足电子工程师和电子爱好者在设计电子电路时的需求。 该应用程序包含电子元件参考部分、电子电路参考部分和电子电路计算部分。 使用该应用程序可以更轻松地进行繁琐的电子电路计算，例如 Butterworth、Sallen-Key、Chebychev 和 Bessel 滤波器。 电子元件部分：- 电阻器 电容器 电感器 瞬态电压抑制器(TVS) 整流二极管 信号二极管 齐纳二极管 双极结型晶体管(BJT) 金属氧化物场效应晶体管(MOSFET) 555定时器 运算放大器（Op-amp） Arduino 开发板（arduino uno 和 arduino nano） 亚特米加 328 稳压集成电路(IC) 多路复用器 解复用器 编码器 解码器 人字拖 柜台 移位寄存器 电子计算器部分：- NE555定时器非稳态多谐振荡器 NE555定时器单稳态多谐振荡器 双极结型晶体管 (BJT) 分析 电感绕组 环形电感绕组 变压器绕组 Butterworth、Bessel、Chebychev 无源滤波器计算器 Sallen - 关键有源滤波器计算器 反相、同相和差分运算放大器计算器 电阻串联计算器 并行计算器中的电阻器 电容器串联计算器 并联计算器中的电容器 电容计算器的电容 阻力计算器 串联 LRC 电路阻抗和电抗计算器 并联 LRC 电路阻抗和电抗 给电容器充电和放电 给电感充电和放电 聚酯薄膜电容器代号 陶瓷电容代码 电阻颜色代码 空心电感 分压器 分流器 欧姆定律（电路中的电流、电压和电阻关系） 三角洲到星形电阻器网络转换 星型到三角型电阻器网络转换 发光二极管 (LED) 电阻计算器 双极 Sallen - 钥匙 巴特沃斯滤波器组件值计算器 表面贴装（SMD）电阻代码计算器 Pi, Tee 和 Bridge 衰减器 射频 (RF) 计算器 交流 (AC) 电源 直流（DC）电源",
-    "summaryDescription": "Electrohelper 经过精心设计，以满足电子工程师和电子爱好者在设计电子电路时的需求。 该应用程序包含电子元件参考部分、电子电路参考部分和电子电路计算部分。 使用该应用程序可以更轻松地进行繁琐的电子电路计算，例如 Butterworth、Sallen-Key、Chebychev 和 Bessel 滤波器。 电子元件部分：- 电阻器 电容器 电感器 瞬态电压抑制器(TVS) 整流二极管 信号二极管 齐纳二极管 双极结型晶体管(BJT) 金属氧化物场效应晶体管(MOSFET) 555定时器 运算放大器（Op-amp） Arduino 开发板（arduino uno 和 arduino nano） 亚特米加 328 稳压集成电路(IC) 多路复用器 解复用器 编码器 解码器 人字拖 柜台 移位寄存器 电子计算器部分：- NE555定时器非稳态多谐振荡器 NE555定时器单稳态多谐振荡器 双极结型晶体管 (BJT) 分析 电感绕组 环形电感绕组 变压器绕组 Butterworth、Bessel、Chebychev 无源滤波器计算器 Sallen - 关键有源滤波器计算器 反相、同相和差分运算放大器计算器 电阻串联计算器 并行计算器中的电阻器 电容器串联计算器 并联计算器中的电容器 电容计算器的电容 阻力计算器 串联 LRC 电路阻抗和电抗计算器 并联 LRC 电路阻抗和电抗 给电容器充电和放电 给电感充电和放电 聚酯薄膜电容器代号 陶瓷电容代码 电阻颜色代码 空心电感 分压器 分流器 欧姆定律（电路中的电流、电压和电阻关系） 三角洲到星形电阻器网络转换 星型到三角型电阻器网络转换 发光二极管 (LED) 电阻计算器 双极 Sallen - 钥匙 巴特沃斯滤波器组件值计算器 表面贴装（SMD）电阻代码计算器 Pi, Tee 和 Bridge 衰减器 射频 (RF) 计算器 交流 (AC) 电源 直流（DC）电源",
+    "description": "Electrohelper 经过精心设计，以满足电子工程师和电子爱好者在设计电子电路时的需求。 该应用程序包含电子元件参考部分、电子电路参考部分和电子电路计算部分。 使用该应用程序可以更轻松地进行繁琐的电子电路计算，例如 Butterworth、Sallen-Key、Chebychev 和 Bessel 滤波器。 电子元件部分：- 电阻器 电容器 电感器 瞬态电压抑制器(TVS) 整流二极管 信号二极管 齐纳二极管 双极结型晶体管(BJT) 金属氧化物场效应晶体管(MOSFET) 555定时器 运算放大器（Op-amp） Arduino 开发板（arduino uno 和 arduino nano） 亚特米加 328 稳压集成电路(IC) 多路复用器 解复用器 编码器 解码器 人字拖 柜台 移位寄存器 电子计算器部分：- NE555定时器非稳态多谐振荡器 NE555定时器单稳态多谐振荡器 双极结型晶体管 (BJT) 分析 电感绕组 环形电感绕组 变压器绕组 Butterworth、Bessel、Chebychev 无源滤波器计算器 Sallen - 关键有源滤波器计算器 反相、同相和差分运算放大器计算器 电阻串联计算器 并行计算器中的电阻器 电容器串联计算器 并联计算器中的电容器 电容计算器的电容 阻力计算器 串联 LRC 电路阻抗和电抗计算器 并联 LRC 电路阻抗和电抗 给电容",
+    "fullDescription": "Electrohelper 经过精心设计，以满足电子工程师和电子爱好者在设计电子电路时的需求。 该应用程序包含电子元件参考部分、电子电路参考部分和电子电路计算部分。 使用该应用程序可以更轻松地进行繁琐的电子电路计算，例如 Butterworth、Sallen-Key、Chebychev 和 Bessel 滤波器。 电子元件部分：- 电阻器 电容器 电感器 瞬态电压抑制器(TVS) 整流二极管 信号二极管 齐纳二极管 双极结型晶体管(BJT) 金属氧化物场效应晶体管(MOSFET) 555定时器 运算放大器（Op-amp） Arduino 开发板（arduino uno 和 arduino nano） 亚特米加 328 稳压集成电路(IC) 多路复用器 解复用器 编码器 解码器 人字拖 柜台 移位寄存器 电子计算器部分：- NE555定时器非稳态多谐振荡器 NE555定时器单稳态多谐振荡器 双极结型晶体管 (BJT) 分析 电感绕组 环形电感绕组 变压器绕组 Butterworth、Bessel、Chebychev 无源滤波器计算器 Sallen - 关键有源滤波器计算器 反相、同相和差分运算放大器计算器 电阻串联计算器 并行计算器中的电阻器 电容器串联计算器 并联计算器中的电容器 电容计算器的电容 阻力计算器 串联 LRC 电路阻抗和电抗计算器 并联 LRC 电路阻抗和电抗 给电容",
+    "summaryDescription": "Electrohelper 经过精心设计，以满足电子工程师和电子爱好者在设计电子电路时的需求。 该应用程序包含电子元件参考部分、电子电路参考部分和电子电路计算部分。 使用该应用程序可以更轻松地进行繁琐的电子电路计算，例如 Butterworth、Sallen-Key、Chebychev 和 Bessel 滤波器。 电子元件部分：- 电阻器 电容器 电感器 瞬态电压抑制器(TVS) 整流二极管 信号二极管 齐纳二极管 双极结型晶体管(BJT) 金属氧化物场效应晶体管(MOSFET) 555定时器 运算放大器（Op-amp） Arduino 开发板（arduino uno 和 arduino nano） 亚特米加 328 稳压集成电路(IC) 多路复用器 解复用器 编码器 解码器 人字拖 柜台 移位寄存器 电子计算器部分：- NE555定时器非稳态多谐振荡器 NE555定时器单稳态多谐振荡器 双极结型晶体管 (BJT) 分析 电感绕组 环形电感绕组 变压器绕组 Butterworth、Bessel、Chebychev 无源滤波器计算器 Sallen - 关键有源滤波器计算器 反相、同相和差分运算放大器计算器 电阻串联计算器 并行计算器中的电阻器 电容器串联计算器 并联计算器中的电容器 电容计算器的电容 阻力计算器 串联 LRC 电路阻抗和电抗计算器 并联 LRC 电路阻抗和电抗 给电容",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/97/e5/cd97e541-f8e4-e143-5223-80d027cfac77/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/97/e5/cd97e541-f8e4-e143-5223-80d027cfac77/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
     "sellerName": "Anas Abubakar",
@@ -136068,8 +136111,8 @@
     "description": "This iOS app integrates natively with the InvenTree open source inventory management and stock control database. With tightly integrated barcode scanning functionality, the app provides powerful, lightning fast inventory knowledge in your pocket.",
     "fullDescription": "This iOS app integrates natively with the InvenTree open source inventory management and stock control database. With tightly integrated barcode scanning functionality, the app provides powerful, lightning fast inventory knowledge in your pocket.",
     "summaryDescription": "This iOS app integrates natively with the InvenTree open source inventory management and stock control database. With tightly integrated barcode scanning functionality, the app provides powerful, lightning fast inventory knowledge in your pocket.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/76/5b/b9765b3f-bcbc-35d9-303a-f2c8b132c510/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/76/5b/b9765b3f-bcbc-35d9-303a-f2c8b132c510/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/5f/26/f55f26dc-7b2e-bb3a-5903-4907fe3ee36b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/5f/26/f55f26dc-7b2e-bb3a-5903-4907fe3ee36b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Oliver Walters",
     "artistName": "Oliver Walters",
     "screenshotUrls": [
@@ -143581,8 +143624,8 @@
     "description": "Connect to your VESC based esk8 skateboard builds via Bluetooth to monitor statistics such as voltage, amps, speed and many more. Specifically targeting balance vehicles. You can also use your watch to view all the important stats or trigger a voice summary. This is not a replacement for the VESC App for initial setup and configuration. Use this app once your board is well configured and running smoothly. For terms and conditions see https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "Connect to your VESC based esk8 skateboard builds via Bluetooth to monitor statistics such as voltage, amps, speed and many more. Specifically targeting balance vehicles. You can also use your watch to view all the important stats or trigger a voice summary. This is not a replacement for the VESC App for initial setup and configuration. Use this app once your board is well configured and running smoothly. For terms and conditions see https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "Connect to your VESC based esk8 skateboard builds via Bluetooth to monitor statistics such as voltage, amps, speed and many more. Specifically targeting balance vehicles. You can also use your watch to view all the important stats or trigger a voice summary. This is not a replacement for the VESC App for initial setup and configuration. Use this app once your board is well configured and running smoothly. For terms and conditions see https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/34/ae/0f34ae20-0e18-b813-369e-18b9cf4a4c06/FC-Glass-Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/34/ae/0f34ae20-0e18-b813-369e-18b9cf4a4c06/FC-Glass-Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/69/b3/1069b316-5971-117f-3812-6175e3db4b34/FC-Glass-Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/69/b3/1069b316-5971-117f-3812-6175e3db4b34/FC-Glass-Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Davorin Mista",
     "artistName": "Davorin Mista",
     "screenshotUrls": [
@@ -147450,8 +147493,8 @@
     "description": "您的神韻，來自哪一類表情？ 人類的表情至少超過10,000種，可以歸納成6大類：快樂、驚訝、生氣、恐懼、悲傷、鄙視。在無意識下臉部肌肉作動所產生的表情訊號，可能造就了個人獨特的神韻，或者不經意地帶來負面的第一印象。 每個人的臉上有可能因為老化而傳遞出負面情緒的觀感，實際上內心並無此情緒，AI微表情辨識技術能快速精確解讀臉部細微表情。 利用AI智能檢測來建立你的「肌膚旅歷」吧！",
     "fullDescription": "您的神韻，來自哪一類表情？ 人類的表情至少超過10,000種，可以歸納成6大類：快樂、驚訝、生氣、恐懼、悲傷、鄙視。在無意識下臉部肌肉作動所產生的表情訊號，可能造就了個人獨特的神韻，或者不經意地帶來負面的第一印象。 每個人的臉上有可能因為老化而傳遞出負面情緒的觀感，實際上內心並無此情緒，AI微表情辨識技術能快速精確解讀臉部細微表情。 利用AI智能檢測來建立你的「肌膚旅歷」吧！",
     "summaryDescription": "您的神韻，來自哪一類表情？ 人類的表情至少超過10,000種，可以歸納成6大類：快樂、驚訝、生氣、恐懼、悲傷、鄙視。在無意識下臉部肌肉作動所產生的表情訊號，可能造就了個人獨特的神韻，或者不經意地帶來負面的第一印象。 每個人的臉上有可能因為老化而傳遞出負面情緒的觀感，實際上內心並無此情緒，AI微表情辨識技術能快速精確解讀臉部細微表情。 利用AI智能檢測來建立你的「肌膚旅歷」吧！",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/a7/5a/f8a75a22-223e-2309-64c8-10308df2e1b1/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/a7/5a/f8a75a22-223e-2309-64c8-10308df2e1b1/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/ee/a9/48eea9db-9f16-6a9a-b4b8-81a5c518e871/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/ee/a9/48eea9db-9f16-6a9a-b4b8-81a5c518e871/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
     "sellerName": "MYGUARD CO., LTD.",
     "artistName": "MYGUARD CO., LTD.",
     "screenshotUrls": [
@@ -150418,10 +150461,18 @@
       "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
-      "price": 28,
-      "formattedPrice": "¥28.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788207064451,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787286994449,
@@ -150432,9 +150483,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/note/id1602765272?uo=4",
-    "description": "Keep notes you really care about in focus with this mini note app & widget. It’s like a pinned note in its own app. The app feels like just 1 note, but you can create up to 8 infinite pages. It features beautiful typefaces. There is extra spacing between lines. You can mark lines with color, italics, or both. Pages can also be given custom names. Each page is saved as a plain text file, either in iCloud Drive or only on your iPhone or iPad. Text and links can be added to a page in the app from within other apps using the Share button. You can add a sticky note widget to your Home Screen and Lock Screen that shows the last line you selected in the app or the line you pinned in the Home Screen widget. A control lets you open the app directly from Control Center or your Lock Screen. You can also assign this control to your iPhone’s Action button. An Apple Watch app and widget show the last line you selected in the app on your paired iPhone or the line you pinned in the app on your watch. App Privacy: There is no sign-in and no data is collected. Your files are encrypted on your device using your passcode when it’s locked or turned off. If iCloud Backup is turned on for the app in the Settings app > [Your Name] > iCloud > Storage > Backups > [Your Device], your app data is uploaded to iCloud. If you want your files in iCloud Drive to be end-to-end encrypted, please turn on Advanced Data Protection in Settings > [Your Name] > iCloud > Advanced Data Protection. If you have Share Analytics turned on in Settings > Privacy & Security > Analytics & Improvements, we receive app analytics from Apple. This does not contain your app data or personally identify you. Other Features: To add a new line, pull down when you are at the top of a page. Easily move lines up ↑ or down ↓. Quickly undo or redo changes above the keyboard. Tap the ⋯ button above the keyboard for more actions, such as adding the date or inserting a line break. Link or move lines to another page using the Quick Actions menu. List markers (like ‘•’) and spaces you type at the start of a line automatically get added to a new line below it. A URL scheme allows you to go directly to a page or to a specific line on a page. Support for Apple’s Writing Tools on compatible devices. Supports multiple windows on iPad. Fully accessible with VoiceOver. Gestures: Swipe left or right on a page while editing to move the insertion point from word to word. To move the insertion point, touch and hold the Space bar on the onscreen keyboard with one finger, then slide your finger around the keyboard. Swipe left with three fingers to undo or right to redo. Tap on a page with three fingers to show a menu with undo, cut, copy, paste, and redo. The use of this app is subject to your agreement to: Apple’s Standard End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Apple’s Privacy Policy: https://www.apple.com/legal/privacy/ If you use iCloud with the app, iCloud’s Terms of Service: https://www.apple.com/legal/internet-services/icloud/",
-    "fullDescription": "Keep notes you really care about in focus with this mini note app & widget. It’s like a pinned note in its own app. The app feels like just 1 note, but you can create up to 8 infinite pages. It features beautiful typefaces. There is extra spacing between lines. You can mark lines with color, italics, or both. Pages can also be given custom names. Each page is saved as a plain text file, either in iCloud Drive or only on your iPhone or iPad. Text and links can be added to a page in the app from within other apps using the Share button. You can add a sticky note widget to your Home Screen and Lock Screen that shows the last line you selected in the app or the line you pinned in the Home Screen widget. A control lets you open the app directly from Control Center or your Lock Screen. You can also assign this control to your iPhone’s Action button. An Apple Watch app and widget show the last line you selected in the app on your paired iPhone or the line you pinned in the app on your watch. App Privacy: There is no sign-in and no data is collected. Your files are encrypted on your device using your passcode when it’s locked or turned off. If iCloud Backup is turned on for the app in the Settings app > [Your Name] > iCloud > Storage > Backups > [Your Device], your app data is uploaded to iCloud. If you want your files in iCloud Drive to be end-to-end encrypted, please turn on Advanced Data Protection in Settings > [Your Name] > iCloud > Advanced Data Protection. If you have Share Analytics turned on in Settings > Privacy & Security > Analytics & Improvements, we receive app analytics from Apple. This does not contain your app data or personally identify you. Other Features: To add a new line, pull down when you are at the top of a page. Easily move lines up ↑ or down ↓. Quickly undo or redo changes above the keyboard. Tap the ⋯ button above the keyboard for more actions, such as adding the date or inserting a line break. Link or move lines to another page using the Quick Actions menu. List markers (like ‘•’) and spaces you type at the start of a line automatically get added to a new line below it. A URL scheme allows you to go directly to a page or to a specific line on a page. Support for Apple’s Writing Tools on compatible devices. Supports multiple windows on iPad. Fully accessible with VoiceOver. Gestures: Swipe left or right on a page while editing to move the insertion point from word to word. To move the insertion point, touch and hold the Space bar on the onscreen keyboard with one finger, then slide your finger around the keyboard. Swipe left with three fingers to undo or right to redo. Tap on a page with three fingers to show a menu with undo, cut, copy, paste, and redo. The use of this app is subject to your agreement to: Apple’s Standard End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Apple’s Privacy Policy: https://www.apple.com/legal/privacy/ If you use iCloud with the app, iCloud’s Terms of Service: https://www.apple.com/legal/internet-services/icloud/",
-    "summaryDescription": "Keep notes you really care about in focus with this mini note app & widget. It’s like a pinned note in its own app. The app feels like just 1 note, but you can create up to 8 infinite pages. It features beautiful typefaces. There is extra spacing between lines. You can mark lines with color, italics, or both. Pages can also be given custom names. Each page is saved as a plain text file, either in iCloud Drive or only on your iPhone or iPad. Text and links can be added to a page in the app from within other apps using the Share button. You can add a sticky note widget to your Home Screen and Lock Screen that shows the last line you selected in the app or the line you pinned in the Home Screen widget. A control lets you open the app directly from Control Center or your Lock Screen. You can also assign this control to your iPhone’s Action button. An Apple Watch app and widget show the last line you selected in the app on your paired iPhone or the line you pinned in the app on your watch. App Privacy: There is no sign-in and no data is collected. Your files are encrypted on your device using your passcode when it’s locked or turned off. If iCloud Backup is turned on for the app in the Settings app > [Your Name] > iCloud > Storage > Backups > [Your Device], your app data is uploaded to iCloud. If you want your files in iCloud Drive to be end-to-end encrypted, please turn on Advanced Data Protection in Settings > [Your Name] > iCloud > Advanced Data Protection. If you have Share Analytics turned on in Settings > Privacy & Security > Analytics & Improvements, we receive app analytics from Apple. This does not contain your app data or personally identify you. Other Features: To add a new line, pull down when you are at the top of a page. Easily move lines up ↑ or down ↓. Quickly undo or redo changes above the keyboard. Tap the ⋯ button above the keyboard for more actions, such as adding the date or inserting a line break. Link or move lines to another page using the Quick Actions menu. List markers (like ‘•’) and spaces you type at the start of a line automatically get added to a new line below it. A URL scheme allows you to go directly to a page or to a specific line on a page. Support for Apple’s Writing Tools on compatible devices. Supports multiple windows on iPad. Fully accessible with VoiceOver. Gestures: Swipe left or right on a page while editing to move the insertion point from word to word. To move the insertion point, touch and hold the Space bar on the onscreen keyboard with one finger, then slide your finger around the keyboard. Swipe left with three fingers to undo or right to redo. Tap on a page with three fingers to show a menu with undo, cut, copy, paste, and redo. The use of this app is subject to your agreement to: Apple’s Standard End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Apple’s Privacy Policy: https://www.apple.com/legal/privacy/ If you use iCloud with the app, iCloud’s Terms of Service: https://www.apple.com/legal/internet-services/icloud/",
+    "description": "使用这个迷你笔记应用程序和小部件，让您真正关心的笔记成为焦点。它就像在自己的应用程序中固定的注释。该应用程序感觉只有 1 个笔记，但您最多可以创建 8 个无限页面。它具有漂亮的字体。行与行之间有额外的间距。您可以使用颜色、斜体或两者来标记线条。还可以为页面指定自定义名称。每个页面都保存为纯文本文件，可以保存在 iCloud Drive 中，也可以仅保存在 iPhone 或 iPad 上。可以使用“共享”按钮从其他应用程序内将文本和链接添加到应用程序的页面。您可以将便签小部件添加到主屏幕并查看",
+    "fullDescription": "使用这个迷你笔记应用程序和小部件，让您真正关心的笔记成为焦点。它就像在自己的应用程序中固定的注释。该应用程序感觉只有 1 个笔记，但您最多可以创建 8 个无限页面。它具有漂亮的字体。行与行之间有额外的间距。您可以使用颜色、斜体或两者来标记线条。还可以为页面指定自定义名称。每个页面都保存为纯文本文件，可以保存在 iCloud Drive 中，也可以仅保存在 iPhone 或 iPad 上。可以使用“共享”按钮从其他应用程序内将文本和链接添加到应用程序的页面。您可以将便签小部件添加到主屏幕并查看",
+    "summaryDescription": "使用这个迷你笔记应用程序和小部件，让您真正关心的笔记成为焦点。它就像在自己的应用程序中固定的注释。该应用程序感觉只有 1 个笔记，但您最多可以创建 8 个无限页面。它具有漂亮的字体。行与行之间有额外的间距。您可以使用颜色、斜体或两者来标记线条。还可以为页面指定自定义名称。每个页面都保存为纯文本文件，可以保存在 iCloud Drive 中，也可以仅保存在 iPhone 或 iPad 上。可以使用“共享”按钮从其他应用程序内将文本和链接添加到应用程序的页面。您可以将便签小部件添加到主屏幕并查看",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/14/86/ca148698-4857-97cc-fd13-c6fc38ce96cd/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/14/86/ca148698-4857-97cc-fd13-c6fc38ce96cd/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/100x100bb.jpg",
     "sellerName": "nonzerosumness",
@@ -152138,9 +152189,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/euclidean-auv3-sequencer/id1605757270?uo=4",
-    "description": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏源于希腊数学家欧几里得的算法，该算法涉及使用两个数字的最大公约数将匹配项尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里得音序器是自动生成复杂音乐序列的好方法，无需先验",
-    "fullDescription": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏源于希腊数学家欧几里得的算法，该算法涉及使用两个数字的最大公约数将匹配项尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里得音序器是自动生成复杂音乐序列的好方法，无需先验",
-    "summaryDescription": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏源于希腊数学家欧几里得的算法，该算法涉及使用两个数字的最大公约数将匹配项尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里得音序器是自动生成复杂音乐序列的好方法，无需先验",
+    "description": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏起源于希腊数学家欧几里得算法，该算法涉及使用两个数字的最大公约数将命中数尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里德音序器是自动生成复杂音乐序列的好方法，无需先验",
+    "fullDescription": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏起源于希腊数学家欧几里得算法，该算法涉及使用两个数字的最大公约数将命中数尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里德音序器是自动生成复杂音乐序列的好方法，无需先验",
+    "summaryDescription": "欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏起源于希腊数学家欧几里得算法，该算法涉及使用两个数字的最大公约数将命中数尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里德音序器是自动生成复杂音乐序列的好方法，无需先验",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/51/28/525128f0-a207-6c45-d72c-743f8b2a1ece/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/51/28/525128f0-a207-6c45-d72c-743f8b2a1ece/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Limelight Software",
@@ -167634,23 +167685,23 @@
     "description": "DCAvg isn't another boring tracker — it's your trading edge. Live AI insights, pro-grade signals, and visuals that actually make trading fun. Try Premium free for 30 days, then just $9.99/year. AI Insight Engine Live AI-powered analysis for every symbol on your watchlist AI Risk/Reward gauge with color-coded indicators AI-generated daily market advice, delivered straight to your device Auto-translate company profiles into your language Powered by Google Firebase AI, with on-device Apple voice fallback Signals That Actually Hit RSI, ATR, K/D Stochastic, PSAR, ADX — the same tools the pros use Golden Cross & Death Cross detection with on-screen arrows Momentum arrows and day-strength dots \"Beyond ATR\" alerts when a move breaks the daily range FMP analyst ratings (A–F) with bold, color-coded badges See Your Portfolio Like Never Before Bubble Charts — Spot your biggest winners and losers at a glance. Bigger bubble = bigger impact. Red and green tell the story instantly 52-Week Range Bar — Know exactly where a stock sits, with new-high and new-low highlighting Pre & Post Market Data — See price action before the crowd arrives Index Futures Snapshot — DOW, NASDAQ, S&P 500 futures at a glance Stay Ahead of the Move Earnings Calendar & History — Upcoming dates plus the last two reports with before/after price action NYSE Holiday Calendar — Never get caught off guard by an early close Dividend Overview — Track payouts across your whole portfolio Fear & Greed Index — Time your moves with market sentiment Safe Haven (10-Year Treasury) & Prime Rate — Macro signals at a glance Search That Gets You Search by symbol, name, notes, or natural terms like \"rising,\" \"cheap,\" \"overbought,\" \"dividend\" On-device semantic matching powered by Apple's NLEmbedding Smart suggestions based on your live portfolio Recent search history for one-tap reuse A Little Extra Market Karma — Daily trading alignment based on your Chinese zodiac and the lunar calendar Daily Motivation Quotes — Hand-curated to keep you sharp Holiday Banners — Animated alerts so you never miss an early close No Ads. No Upsells. Just Insights. Seamless updates, a clean experience, and tools that keep evolving. No hidden costs, no interruptions, no nonsense. Trade smart. Stay sharp. Have fun. DCAvg is for informational purposes only and is not financial or investment advice. All investing involves risk. Past performance does not guarantee future results. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "DCAvg isn't another boring tracker — it's your trading edge. Live AI insights, pro-grade signals, and visuals that actually make trading fun. Try Premium free for 30 days, then just $9.99/year. AI Insight Engine Live AI-powered analysis for every symbol on your watchlist AI Risk/Reward gauge with color-coded indicators AI-generated daily market advice, delivered straight to your device Auto-translate company profiles into your language Powered by Google Firebase AI, with on-device Apple voice fallback Signals That Actually Hit RSI, ATR, K/D Stochastic, PSAR, ADX — the same tools the pros use Golden Cross & Death Cross detection with on-screen arrows Momentum arrows and day-strength dots \"Beyond ATR\" alerts when a move breaks the daily range FMP analyst ratings (A–F) with bold, color-coded badges See Your Portfolio Like Never Before Bubble Charts — Spot your biggest winners and losers at a glance. Bigger bubble = bigger impact. Red and green tell the story instantly 52-Week Range Bar — Know exactly where a stock sits, with new-high and new-low highlighting Pre & Post Market Data — See price action before the crowd arrives Index Futures Snapshot — DOW, NASDAQ, S&P 500 futures at a glance Stay Ahead of the Move Earnings Calendar & History — Upcoming dates plus the last two reports with before/after price action NYSE Holiday Calendar — Never get caught off guard by an early close Dividend Overview — Track payouts across your whole portfolio Fear & Greed Index — Time your moves with market sentiment Safe Haven (10-Year Treasury) & Prime Rate — Macro signals at a glance Search That Gets You Search by symbol, name, notes, or natural terms like \"rising,\" \"cheap,\" \"overbought,\" \"dividend\" On-device semantic matching powered by Apple's NLEmbedding Smart suggestions based on your live portfolio Recent search history for one-tap reuse A Little Extra Market Karma — Daily trading alignment based on your Chinese zodiac and the lunar calendar Daily Motivation Quotes — Hand-curated to keep you sharp Holiday Banners — Animated alerts so you never miss an early close No Ads. No Upsells. Just Insights. Seamless updates, a clean experience, and tools that keep evolving. No hidden costs, no interruptions, no nonsense. Trade smart. Stay sharp. Have fun. DCAvg is for informational purposes only and is not financial or investment advice. All investing involves risk. Past performance does not guarantee future results. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "DCAvg isn't another boring tracker — it's your trading edge. Live AI insights, pro-grade signals, and visuals that actually make trading fun. Try Premium free for 30 days, then just $9.99/year. AI Insight Engine Live AI-powered analysis for every symbol on your watchlist AI Risk/Reward gauge with color-coded indicators AI-generated daily market advice, delivered straight to your device Auto-translate company profiles into your language Powered by Google Firebase AI, with on-device Apple voice fallback Signals That Actually Hit RSI, ATR, K/D Stochastic, PSAR, ADX — the same tools the pros use Golden Cross & Death Cross detection with on-screen arrows Momentum arrows and day-strength dots \"Beyond ATR\" alerts when a move breaks the daily range FMP analyst ratings (A–F) with bold, color-coded badges See Your Portfolio Like Never Before Bubble Charts — Spot your biggest winners and losers at a glance. Bigger bubble = bigger impact. Red and green tell the story instantly 52-Week Range Bar — Know exactly where a stock sits, with new-high and new-low highlighting Pre & Post Market Data — See price action before the crowd arrives Index Futures Snapshot — DOW, NASDAQ, S&P 500 futures at a glance Stay Ahead of the Move Earnings Calendar & History — Upcoming dates plus the last two reports with before/after price action NYSE Holiday Calendar — Never get caught off guard by an early close Dividend Overview — Track payouts across your whole portfolio Fear & Greed Index — Time your moves with market sentiment Safe Haven (10-Year Treasury) & Prime Rate — Macro signals at a glance Search That Gets You Search by symbol, name, notes, or natural terms like \"rising,\" \"cheap,\" \"overbought,\" \"dividend\" On-device semantic matching powered by Apple's NLEmbedding Smart suggestions based on your live portfolio Recent search history for one-tap reuse A Little Extra Market Karma — Daily trading alignment based on your Chinese zodiac and the lunar calendar Daily Motivation Quotes — Hand-curated to keep you sharp Holiday Banners — Animated alerts so you never miss an early close No Ads. No Upsells. Just Insights. Seamless updates, a clean experience, and tools that keep evolving. No hidden costs, no interruptions, no nonsense. Trade smart. Stay sharp. Have fun. DCAvg is for informational purposes only and is not financial or investment advice. All investing involves risk. Past performance does not guarantee future results. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/51/52/6f5152b7-1620-3cc1-2c3b-9b599cf338a0/AppIcon-0-0-1x_U007epad-0-7-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/51/52/6f5152b7-1620-3cc1-2c3b-9b599cf338a0/AppIcon-0-0-1x_U007epad-0-7-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/7e/a6/907ea6b4-54ed-0d59-1c47-f3fa90218db1/AppIcon-0-0-1x_U007epad-0-7-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/7e/a6/907ea6b4-54ed-0d59-1c47-f3fa90218db1/AppIcon-0-0-1x_U007epad-0-7-0-85-220.png/100x100bb.jpg",
     "sellerName": "James Chang",
     "artistName": "James Chang",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/97/8e/2f978e4a-f17b-5ce7-d4a0-349fcd7148b6/98acc6d9-77bd-40ba-aa0f-09c593f8b50e_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-11-23_at_19.26.37.png/392x696bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/f4/4a/48f44a26-55ca-5bcf-c503-2c20110d681c/98acc6d9-77bd-40ba-aa0f-09c593f8b50e_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-11-23_at_19.26.37.png/392x696bb.png"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/7e/50/3e7e503d-2d62-ff3c-299f-3b785fb28dbd/a5e97a82-26c2-437c-a8c8-a939eed4369c_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.09.54.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/ea/2a/efea2ad1-3e20-f6d6-2513-a6ab37645989/5b91d00e-840f-47ed-a412-7bb76fdec7f6_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.02.47.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/8c/0c/de8c0c3f-1d22-2123-1d06-279f0cf60768/fafea3af-bd30-4296-8948-2b9eec580bc1_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.04.38.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/0d/b7/280db7d8-2c3b-95a5-259f-55aedefffda1/88b21843-a939-4991-8e1f-666e57384e37_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.02.32.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/e0/9d/f6e09d96-60bb-7197-93f7-edfce97c17a2/0b7260d4-58fe-4950-b133-ae8e53ae957d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.04.58.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/06/a5/f906a58f-d606-aff9-d68a-0b8c544898e1/2cfd5368-29cf-4ff6-bc6b-113314f612eb_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-11-28_at_21.38.40.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/34/00/1f3400e4-8e6f-9707-862b-93e416f7982c/3ab14179-6e94-4fd5-b8c7-5ef7cf51e785_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.05.19.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/58/65/765865f3-6f1c-f4e4-ee31-31300c9aeea2/9a0cd0cb-ab61-4346-9d8f-98dd4d266220_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.05.36.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/22/07/b02207b4-6d7e-1daa-37ff-d9393b380ae3/09fc1f12-4c08-4b05-b06a-7164b0627b7d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.06.05.png/576x768bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/b9/bf/99b9bff2-0ff6-7137-b4ff-579512639fa3/a5e97a82-26c2-437c-a8c8-a939eed4369c_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.09.54.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/47/f8/3e47f809-2d54-7fc0-f5cd-1548f974ce18/5b91d00e-840f-47ed-a412-7bb76fdec7f6_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.02.47.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/1e/b9/361eb9c8-2c34-4ef4-2653-6ca41e06d9fe/fafea3af-bd30-4296-8948-2b9eec580bc1_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.04.38.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/72/a0/e772a0a4-0887-d882-49c1-e3a4a07a1cee/88b21843-a939-4991-8e1f-666e57384e37_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.02.32.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/bf/6f/afbf6ffc-6969-8589-ef99-207a5adc960f/0b7260d4-58fe-4950-b133-ae8e53ae957d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.04.58.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/bd/34/0abd347c-a227-1216-117f-c92211e7c2fd/2cfd5368-29cf-4ff6-bc6b-113314f612eb_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-11-28_at_21.38.40.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/e7/1c/24e71cd7-a6dc-8c4b-00a3-6c64bdddaa6b/3ab14179-6e94-4fd5-b8c7-5ef7cf51e785_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.05.19.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/00/cc/2900cca6-c10e-c160-0c77-9e927dec5f1a/9a0cd0cb-ab61-4346-9d8f-98dd4d266220_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.05.36.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/2b/b6/1a2bb688-f759-f07c-61d9-ef72eff06a84/09fc1f12-4c08-4b05-b06a-7164b0627b7d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-11-25_at_07.06.05.png/576x768bb.png"
     ],
     "_externalSource": "OODATA",
     "_externalSourceFirstSeen": 1787286994364
@@ -179850,9 +179901,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/qrcode/id1639802818?uo=4",
-    "description": "告别枯燥、复杂的 QR 码应用程序 — QRCode Simplified 让信息共享变得快速、有趣且轻松。无论您是像专业人士一样联网，还是只是想让您的朋友使用 WiFi，而无需在房间里大喊密码，我们都能满足您的需求。使用 QRCode Simplified（您唯一需要的 QR 码生成器）将您的业务和个人互动提升到一个新的水平。 QRCode Simplified 具有先进的功能并为方便而设计，这就是 QRCode Simplified 脱颖而出的原因： ・立即创建数字名片 – 使用 QR 码和",
-    "fullDescription": "告别枯燥、复杂的 QR 码应用程序 — QRCode Simplified 让信息共享变得快速、有趣且轻松。无论您是像专业人士一样联网，还是只是想让您的朋友使用 WiFi，而无需在房间里大喊密码，我们都能满足您的需求。使用 QRCode Simplified（您唯一需要的 QR 码生成器）将您的业务和个人互动提升到一个新的水平。 QRCode Simplified 具有先进的功能并为方便而设计，这就是 QRCode Simplified 脱颖而出的原因： ・立即创建数字名片 – 使用 QR 码和",
-    "summaryDescription": "告别枯燥、复杂的 QR 码应用程序 — QRCode Simplified 让信息共享变得快速、有趣且轻松。无论您是像专业人士一样联网，还是只是想让您的朋友使用 WiFi，而无需在房间里大喊密码，我们都能满足您的需求。使用 QRCode Simplified（您唯一需要的 QR 码生成器）将您的业务和个人互动提升到一个新的水平。 QRCode Simplified 具有先进的功能并为方便而设计，这就是 QRCode Simplified 脱颖而出的原因： ・立即创建数字名片 – 使用 QR 码和",
+    "description": "告别无聊、复杂的 QR 码应用程序 — QRCode Simplified 让信息共享变得快速、有趣且轻松。无论您是像专业人士一样联网，还是只是想让您的朋友使用 WiFi，而无需在房间里大喊密码，我们都能满足您的需求。使用 QRCode Simplified（您唯一需要的 QR 码生成器）将您的业务和个人互动提升到一个新的水平。 QRCode Simplified 具有先进的功能并为方便而设计，这就是 QRCode Simplified 脱颖而出的原因： ・立即创建数字名片 – 使用 QR 码和",
+    "fullDescription": "告别无聊、复杂的 QR 码应用程序 — QRCode Simplified 让信息共享变得快速、有趣且轻松。无论您是像专业人士一样联网，还是只是想让您的朋友使用 WiFi，而无需在房间里大喊密码，我们都能满足您的需求。使用 QRCode Simplified（您唯一需要的 QR 码生成器）将您的业务和个人互动提升到一个新的水平。 QRCode Simplified 具有先进的功能并为方便而设计，这就是 QRCode Simplified 脱颖而出的原因： ・立即创建数字名片 – 使用 QR 码和",
+    "summaryDescription": "告别无聊、复杂的 QR 码应用程序 — QRCode Simplified 让信息共享变得快速、有趣且轻松。无论您是像专业人士一样联网，还是只是想让您的朋友使用 WiFi，而无需在房间里大喊密码，我们都能满足您的需求。使用 QRCode Simplified（您唯一需要的 QR 码生成器）将您的业务和个人互动提升到一个新的水平。 QRCode Simplified 具有先进的功能并为方便而设计，这就是 QRCode Simplified 脱颖而出的原因： ・立即创建数字名片 – 使用 QR 码和",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/55/91/68559134-fed3-2950-7072-c34e489d3ddf/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/55/91/68559134-fed3-2950-7072-c34e489d3ddf/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "James Chang",
@@ -190437,8 +190488,8 @@
     "description": "把照片和 PDF 变成清晰、专业的尺寸记录。 尺寸快记 SizeSnap 适合室内设计师、施工与装修人员、全屋定制从业者、验房人员、物业团队和电商卖家。导入图片或 PDF，录入你已经测得的尺寸，添加清晰的视觉标注，然后快速分享成果。 清晰标注 添加尺寸、直线、箭头、文字、尾注、矩形、圆形和涂鸦 自定义颜色、线宽、字体、标签和标注样式 使用放大镜、水平/垂直吸附、端点吸附、辅助线、网格和图层，更准确地放置标注 当图片不足以说明细节时，可添加短音频或视频标注 有序管理 使用文件夹、文档和页面整理项目 从相机、相册、文件、PDF 和 SizeSnap 项目文件导入 从最近删除/回收站恢复误删内容 根据工作流程调整图片质量和编辑偏好 灵活分享 导出 JPG 或 PDF 批量导入和导出多个文件 保留项目结构并生成 ZIP 压缩包 分享可继续编辑的 SizeSnap 文件，用于备份或兼容工作流程 SIZESNAP PRO SizeSnap 提供免费功能，也提供可选的自动续订订阅来解锁更多功能。根据 App 内显示的套餐，Pro 可能包括 iCloud 同步、无限批量导出、编辑历史、无水印保存以及音视频标注。可用套餐、试用资格、订阅周期和本地化价格均会在购买前显示。 SizeSnap 用于记录和展示你输入的尺寸，不会自动测量真实物体。 使用条款 (EULA)： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策： https://zzsoftservice.github.io/sizesnap/static/privacy_policy.html 订阅条款： https://zzsoftservice.github.io/sizesnap/static/SubscriptionTerms_AppStore.html",
     "fullDescription": "把照片和 PDF 变成清晰、专业的尺寸记录。 尺寸快记 SizeSnap 适合室内设计师、施工与装修人员、全屋定制从业者、验房人员、物业团队和电商卖家。导入图片或 PDF，录入你已经测得的尺寸，添加清晰的视觉标注，然后快速分享成果。 清晰标注 添加尺寸、直线、箭头、文字、尾注、矩形、圆形和涂鸦 自定义颜色、线宽、字体、标签和标注样式 使用放大镜、水平/垂直吸附、端点吸附、辅助线、网格和图层，更准确地放置标注 当图片不足以说明细节时，可添加短音频或视频标注 有序管理 使用文件夹、文档和页面整理项目 从相机、相册、文件、PDF 和 SizeSnap 项目文件导入 从最近删除/回收站恢复误删内容 根据工作流程调整图片质量和编辑偏好 灵活分享 导出 JPG 或 PDF 批量导入和导出多个文件 保留项目结构并生成 ZIP 压缩包 分享可继续编辑的 SizeSnap 文件，用于备份或兼容工作流程 SIZESNAP PRO SizeSnap 提供免费功能，也提供可选的自动续订订阅来解锁更多功能。根据 App 内显示的套餐，Pro 可能包括 iCloud 同步、无限批量导出、编辑历史、无水印保存以及音视频标注。可用套餐、试用资格、订阅周期和本地化价格均会在购买前显示。 SizeSnap 用于记录和展示你输入的尺寸，不会自动测量真实物体。 使用条款 (EULA)： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策： https://zzsoftservice.github.io/sizesnap/static/privacy_policy.html 订阅条款： https://zzsoftservice.github.io/sizesnap/static/SubscriptionTerms_AppStore.html",
     "summaryDescription": "把照片和 PDF 变成清晰、专业的尺寸记录。 尺寸快记 SizeSnap 适合室内设计师、施工与装修人员、全屋定制从业者、验房人员、物业团队和电商卖家。导入图片或 PDF，录入你已经测得的尺寸，添加清晰的视觉标注，然后快速分享成果。 清晰标注 添加尺寸、直线、箭头、文字、尾注、矩形、圆形和涂鸦 自定义颜色、线宽、字体、标签和标注样式 使用放大镜、水平/垂直吸附、端点吸附、辅助线、网格和图层，更准确地放置标注 当图片不足以说明细节时，可添加短音频或视频标注 有序管理 使用文件夹、文档和页面整理项目 从相机、相册、文件、PDF 和 SizeSnap 项目文件导入 从最近删除/回收站恢复误删内容 根据工作流程调整图片质量和编辑偏好 灵活分享 导出 JPG 或 PDF 批量导入和导出多个文件 保留项目结构并生成 ZIP 压缩包 分享可继续编辑的 SizeSnap 文件，用于备份或兼容工作流程 SIZESNAP PRO SizeSnap 提供免费功能，也提供可选的自动续订订阅来解锁更多功能。根据 App 内显示的套餐，Pro 可能包括 iCloud 同步、无限批量导出、编辑历史、无水印保存以及音视频标注。可用套餐、试用资格、订阅周期和本地化价格均会在购买前显示。 SizeSnap 用于记录和展示你输入的尺寸，不会自动测量真实物体。 使用条款 (EULA)： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策： https://zzsoftservice.github.io/sizesnap/static/privacy_policy.html 订阅条款： https://zzsoftservice.github.io/sizesnap/static/SubscriptionTerms_AppStore.html",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/e8/a0/dae8a006-0167-6e65-986b-7edcbc95ac62/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/e8/a0/dae8a006-0167-6e65-986b-7edcbc95ac62/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/94/f5/4194f536-2578-6a40-3f3c-2e3d6c18a660/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/94/f5/4194f536-2578-6a40-3f3c-2e3d6c18a660/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "丽佩 章",
     "artistName": "丽佩 章",
     "screenshotUrls": [
@@ -229519,6 +229570,143 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/70/97/72709778-534d-fd9a-1ddc-813ade482459/5.jpg/2048x2732bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/34/10/4b341064-87e8-f5a7-6567-7fb503266861/4.jpg/2048x2732bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/08/6d/a4086df6-82f7-0d75-2315-2ac332a4fcbc/3.jpg/2048x2732bb.png"
+    ]
+  },
+  "6503932402": {
+    "name": "超声智学",
+    "maxPriceInfo": {
+      "price": 78,
+      "formattedPrice": "¥78.00",
+      "连续包年会员": "¥98.00",
+      "连续包季会员": "¥48.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "连续包年会员": "¥98.00",
+      "连续包季会员": "¥48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763750043902,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "连续包年会员": "¥98.00",
+            "连续包季会员": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1746799336853,
+          "price": 78,
+          "formattedPrice": "¥78.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "_externalSourceFirstSeen": 1772864999979
+  },
+  "6745711999": {
+    "name": "青签助手",
+    "trackName": "青签助手",
+    "maxPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747062149443,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E9%9D%92%E7%AD%BE%E5%8A%A9%E6%89%8B/id6745711999?uo=4",
+    "description": "【青签助手】是一款有趣的娱乐应用，基于青秀区的网络梗制作。通过回答一系列有关青秀区文化与生活的问题，测试您是否符合青秀区\"精致生活\"的标准。 主要功能： 趣味测试：回答关于青秀区的各类问题，测试您的\"精致度\" 电子签证：答题正确率90%以上即可获得专属电子签证 个性化设计：签证上显示您的名字和专属编号 有效期管理：签证有效期为7天，到期后需重新申请 权益展示：查看成为\"青秀区居民\"能享受的各种虚拟权益 这款应用纯属娱乐，让您和朋友们一起体验成为\"精致青秀区人\"的乐趣，是朋友聚会、社交分享的有趣话题。 无论您是南宁本地人，还是对网络文化感兴趣的用户，都能在这款轻松幽默的应用中找到乐趣。获得您的专属\"青秀区签证\"，向朋友们展示您的\"精致生活资格\"吧！",
+    "fullDescription": "【青签助手】是一款有趣的娱乐应用，基于青秀区的网络梗制作。通过回答一系列有关青秀区文化与生活的问题，测试您是否符合青秀区\"精致生活\"的标准。 主要功能： 趣味测试：回答关于青秀区的各类问题，测试您的\"精致度\" 电子签证：答题正确率90%以上即可获得专属电子签证 个性化设计：签证上显示您的名字和专属编号 有效期管理：签证有效期为7天，到期后需重新申请 权益展示：查看成为\"青秀区居民\"能享受的各种虚拟权益 这款应用纯属娱乐，让您和朋友们一起体验成为\"精致青秀区人\"的乐趣，是朋友聚会、社交分享的有趣话题。 无论您是南宁本地人，还是对网络文化感兴趣的用户，都能在这款轻松幽默的应用中找到乐趣。获得您的专属\"青秀区签证\"，向朋友们展示您的\"精致生活资格\"吧！",
+    "summaryDescription": "【青签助手】是一款有趣的娱乐应用，基于青秀区的网络梗制作。通过回答一系列有关青秀区文化与生活的问题，测试您是否符合青秀区\"精致生活\"的标准。 主要功能： 趣味测试：回答关于青秀区的各类问题，测试您的\"精致度\" 电子签证：答题正确率90%以上即可获得专属电子签证 个性化设计：签证上显示您的名字和专属编号 有效期管理：签证有效期为7天，到期后需重新申请 权益展示：查看成为\"青秀区居民\"能享受的各种虚拟权益 这款应用纯属娱乐，让您和朋友们一起体验成为\"精致青秀区人\"的乐趣，是朋友聚会、社交分享的有趣话题。 无论您是南宁本地人，还是对网络文化感兴趣的用户，都能在这款轻松幽默的应用中找到乐趣。获得您的专属\"青秀区签证\"，向朋友们展示您的\"精致生活资格\"吧！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/d8/88/bdd8886b-23bf-4171-57ac-06b5644d50f9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/d8/88/bdd8886b-23bf-4171-57ac-06b5644d50f9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "东平 刘",
+    "artistName": "东平 刘",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/14/54/d9145489-7bc4-df84-9059-52c8c753c812/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-10_at_00.38.06.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/65/f2/cf65f29f-35be-088f-5138-46f9f57b39aa/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-06-08_at_19.14.17.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/45/f5/fa45f5e6-6feb-d8a1-03a6-0896867b3669/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-10_at_00.38.56.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/4b/03/754b03d4-cd76-cc0b-7022-90f5ca3dc99a/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-06-08_at_19.12.32.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/e2/af/19e2af21-48f2-6ab9-d555-3a65b2412068/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-06-08_at_19.12.49.png/320x480bb.jpg"
+    ]
+  },
+  "6458733069": {
+    "name": "养生钟 - 中医时辰手表软件",
+    "trackName": "养生钟 - 中医时辰手表软件",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00",
+      "月度会员": "¥3.00",
+      "年度会员": "¥36.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00",
+      "月度会员": "¥3.00",
+      "年度会员": "¥36.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760941181671,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "月度会员": "¥3.00",
+            "年度会员": "¥36.00"
+          }
+        },
+        {
+          "timestamp": 1760933914616,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1747112545061,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "月度会员": "¥3.00",
+            "年度会员": "¥36.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%85%BB%E7%94%9F%E9%92%9F-%E4%B8%AD%E5%8C%BB%E6%97%B6%E8%BE%B0%E6%89%8B%E8%A1%A8%E8%BD%AF%E4%BB%B6/id6458733069?uo=4",
+    "description": "掌握黄帝内经，享受健康生活！基于古老智慧与现代科技结合的全新健康生活助手。 我们的养生钟将为您提供了全方位的指导和建议。根据每个时辰的能量流动和器官活动规律，我们准确划分一天的时间，并向您发送及时提醒，让您轻松掌握合适的行动。无论您是早晨的清醒还是夜晚的休息，我们都会为您定制个性化的生活和饮食安排，助力您养成健康的生活方式。 下载养生钟，开启与黄帝内经共舞的健康之旅！让古老的智慧与现代科技相结合，带您走向全新的健康生活！ 安装注意事项： 由于苹果设备系统不同，如果购买后手表没有同步安装，您可以尝试： 1、请确保您的App Store ID在手机和手表端同时登陆并保持一致。 2、请查看您手机上的Watch-应用栏，是否需要手动安装。 3、偶尔会有同步不及时的问题，安装后可以耐心等待一段时间看是否自动同步。 4、最后，您可以直接通过官网联系官方技术支持团队询问设备设置相关疑问。 我们非常感激您对我们的支持，如果您有任何修改意见或建议，请随时联系我们，我们将继续优化改进。 您的试用订阅将自动续订为付费订阅，确认购买后，费用将从iTunes账户扣除。订阅会以原套餐一样的价格和时长自动续期，除非在当前订阅期结束前至少提前24小时关闭自动续期。 在当前订阅期结束前的24小时内，账户会被自动扣除所选订阅的续期费用。 购买后，用户可管理订阅，或者前往用户的iTunes账户设置关闭自动续期。当用户购买了订阅时，免费试用期的任何未试用部分将作废。 隐私政策：https://docs.qq.com/doc/DYWFNY2dDWWpxTmJH 使用条款：https://docs.qq.com/doc/DYWVNcmNrTGdUQlVJ",
+    "fullDescription": "掌握黄帝内经，享受健康生活！基于古老智慧与现代科技结合的全新健康生活助手。 我们的养生钟将为您提供了全方位的指导和建议。根据每个时辰的能量流动和器官活动规律，我们准确划分一天的时间，并向您发送及时提醒，让您轻松掌握合适的行动。无论您是早晨的清醒还是夜晚的休息，我们都会为您定制个性化的生活和饮食安排，助力您养成健康的生活方式。 下载养生钟，开启与黄帝内经共舞的健康之旅！让古老的智慧与现代科技相结合，带您走向全新的健康生活！ 安装注意事项： 由于苹果设备系统不同，如果购买后手表没有同步安装，您可以尝试： 1、请确保您的App Store ID在手机和手表端同时登陆并保持一致。 2、请查看您手机上的Watch-应用栏，是否需要手动安装。 3、偶尔会有同步不及时的问题，安装后可以耐心等待一段时间看是否自动同步。 4、最后，您可以直接通过官网联系官方技术支持团队询问设备设置相关疑问。 我们非常感激您对我们的支持，如果您有任何修改意见或建议，请随时联系我们，我们将继续优化改进。 您的试用订阅将自动续订为付费订阅，确认购买后，费用将从iTunes账户扣除。订阅会以原套餐一样的价格和时长自动续期，除非在当前订阅期结束前至少提前24小时关闭自动续期。 在当前订阅期结束前的24小时内，账户会被自动扣除所选订阅的续期费用。 购买后，用户可管理订阅，或者前往用户的iTunes账户设置关闭自动续期。当用户购买了订阅时，免费试用期的任何未试用部分将作废。 隐私政策：https://docs.qq.com/doc/DYWFNY2dDWWpxTmJH 使用条款：https://docs.qq.com/doc/DYWVNcmNrTGdUQlVJ",
+    "summaryDescription": "掌握黄帝内经，享受健康生活！基于古老智慧与现代科技结合的全新健康生活助手。 我们的养生钟将为您提供了全方位的指导和建议。根据每个时辰的能量流动和器官活动规律，我们准确划分一天的时间，并向您发送及时提醒，让您轻松掌握合适的行动。无论您是早晨的清醒还是夜晚的休息，我们都会为您定制个性化的生活和饮食安排，助力您养成健康的生活方式。 下载养生钟，开启与黄帝内经共舞的健康之旅！让古老的智慧与现代科技相结合，带您走向全新的健康生活！ 安装注意事项： 由于苹果设备系统不同，如果购买后手表没有同步安装，您可以尝试： 1、请确保您的App Store ID在手机和手表端同时登陆并保持一致。 2、请查看您手机上的Watch-应用栏，是否需要手动安装。 3、偶尔会有同步不及时的问题，安装后可以耐心等待一段时间看是否自动同步。 4、最后，您可以直接通过官网联系官方技术支持团队询问设备设置相关疑问。 我们非常感激您对我们的支持，如果您有任何修改意见或建议，请随时联系我们，我们将继续优化改进。 您的试用订阅将自动续订为付费订阅，确认购买后，费用将从iTunes账户扣除。订阅会以原套餐一样的价格和时长自动续期，除非在当前订阅期结束前至少提前24小时关闭自动续期。 在当前订阅期结束前的24小时内，账户会被自动扣除所选订阅的续期费用。 购买后，用户可管理订阅，或者前往用户的iTunes账户设置关闭自动续期。当用户购买了订阅时，免费试用期的任何未试用部分将作废。 隐私政策：https://docs.qq.com/doc/DYWFNY2dDWWpxTmJH 使用条款：https://docs.qq.com/doc/DYWVNcmNrTGdUQlVJ",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/79/9d/81799d91-96b6-511f-4006-727f673651c3/AppIcon-0-0-1x_U007ephone-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/79/9d/81799d91-96b6-511f-4006-727f673651c3/AppIcon-0-0-1x_U007ephone-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Flying Fish Mart Technology Co.,Ltd.",
+    "artistName": "FishFun",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/cd/89/0acd891b-7623-8d31-1fda-bfc011d672af/dc9dcd85-b7b8-4e07-ad58-b08539e7f83f_5.5_2.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/33/06/1033063e-7a48-eea6-bb20-c51372519ca9/3dcd3246-4b7b-4c41-88dc-e74f235241c8_5.5_1.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/73/55/ad73556e-42ba-cdd2-a951-30b5f592484e/fe1b261b-1559-4c8c-85e7-676dc96a87ca_5.5.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/d0/fe/2cd0fe94-7533-09a2-271c-abce74a6a9b5/e7616213-d565-42df-af7a-97c0020683f3_5.5_3.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/76/bd/f876bdf5-8edf-4f52-3849-8f28c48102f9/91dff3a7-2b76-4021-9135-fdecd611ede9_5.5_4.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/f9/7a/c3f97a79-4701-9b77-b2ef-1fa67be0acb1/f81972ce-c098-4c5b-b276-c48d2b849e06_5.5_4.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/aa/03/8eaa0388-3d17-32a4-18e1-4d1632fa1d39/643ed591-fbe0-45c8-9787-e1427766a9b6_5.5_5.jpg/392x696bb.jpg"
     ]
   }
 }
