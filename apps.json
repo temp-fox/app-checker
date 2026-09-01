@@ -2,6 +2,165 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 618657110,
+      "name": {
+        "cn": "VideoRecord: Pause & Resume"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788239889230,
+      "_discountType": "app"
+    },
+    {
+      "id": 773532397,
+      "name": {
+        "cn": "乘法表 12x12"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788239889230,
+      "_discountType": "app"
+    },
+    {
+      "id": 1102190226,
+      "name": {
+        "cn": "Lumariver Depth of Field"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788239832606,
+      "_discountType": "app"
+    },
+    {
+      "id": 1193013588,
+      "name": {
+        "cn": "Math Shot Division"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788239889230,
+      "_discountType": "app"
+    },
+    {
+      "id": 6774977717,
+      "name": {
+        "cn": "松果集"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788239826877,
+      "_discountType": "app"
+    },
+    {
+      "id": 6741049434,
+      "name": {
+        "cn": "DeepThink"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788239826877,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792619486,
+      "name": {
+        "cn": "DIY 四轮定位"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788239826877,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761399901,
+      "name": {
+        "cn": "Noti-Loco"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788239832578,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781270286,
+      "name": {
+        "cn": "孕周-预期大事记-时间线-胎儿发育路线图"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788239837911,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786993095,
+      "name": {
+        "cn": "ChillClean - 相册清理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788239889230,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6478388488,
+      "name": {
+        "cn": "习惯清单 - 习惯打卡与目标"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788239889230,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6794255438,
+      "name": {
+        "cn": "FormReel: Before & After Body"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788239889230,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6759317655,
+      "name": {
+        "cn": "Teleprompter - CamScript"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788239889230,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803090506,
+      "name": {
+        "cn": "Tiny Arcade : Fun Games"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788239889230,
+      "_discountType": "app"
+    },
+    {
       "id": 6797380171,
       "name": {
         "cn": "族谱家谱制作 - 家族族谱记录传承工具"

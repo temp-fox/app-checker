@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-09-01T09:42:43.076+08:00</updated>
+    <updated>2026-09-01T15:01:00.431+08:00</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-01T09:42:43.078+08:00</updated>
+        <updated>2026-09-01T15:01:00.432+08:00</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnTue, 01 Sep 2026 01:42:43 GMT</id>
+        <id>rankingcnTue, 01 Sep 2026 07:01:00 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-01T09:42:43.078+08:00</updated>
+        <updated>2026-09-01T15:01:00.433+08:00</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -52,16 +52,16 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>13505</b>
+        <b>13519</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>11334</b>
+        <b>11340</b>
       </td>
       <td>
-        <b>2171</b>
+        <b>2179</b>
       </td>
       <td>
         <b>201</b>
@@ -72,16 +72,16 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>13464</b>
+        <b>13478</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>11293</b>
+        <b>11299</b>
       </td>
       <td>
-        <b>2171</b>
+        <b>2179</b>
       </td>
       <td>
         <b>201</b>
@@ -102,7 +102,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id766858884">Neutron Music Player</a>
+        <a href="https://apps.apple.com/cn/app/id618657110">VideoRecord: Pause & Resume</a>
       </td>
       <td>
         <ul>
@@ -117,6 +117,40 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>2</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id766858884">Neutron Music Player</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id773532397">乘法表 12x12</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1164523253">Artemis Director's Viewfinder</a>
@@ -139,7 +173,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1192750649">TI-84 CE Calculator Manual</a>
@@ -156,7 +190,41 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>6</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1193013588">Math Shot Division</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1296076444">央数-央行数据</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1312646149">First Grade Math Trainer</a>
@@ -173,7 +241,24 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>9</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1436832183">羽毛笔 - 今日待办</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1510811475">Trick Shot Math</a>
@@ -190,7 +275,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1523446532">重生细胞</a>
@@ -213,7 +298,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1540358780">Neutron Audio Recorder</a>
@@ -230,7 +315,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1581668963">电子工具包: 口袋里的电子实验室</a>
@@ -247,7 +332,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1602765272">Note</a>
@@ -264,7 +349,24 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>15</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1609414621">typotypo 照片加文字</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6759709829">iMoney - 记账&资产管理</a>
@@ -281,7 +383,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6779493280">删图 OnePhoto</a>
@@ -304,7 +406,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6751366964">Gift Text - Create your own</a>
@@ -321,7 +423,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6757250780">Clean Gallery: 智能清理</a>
@@ -338,7 +440,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6758991291">Drink Now: Water Reminder App</a>
@@ -355,7 +457,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6756722371">Easy Contacts: Contact Manager</a>
@@ -378,7 +480,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6743779432">有类相机-会分类的相机</a>
@@ -401,7 +503,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6759214053">轻课表-极简Watch课程表</a>
@@ -418,7 +520,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6759224538">ScreenDoctor PRO</a>
@@ -435,10 +537,67 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6747307749">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>26</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6758899879">Bill Splitter - 账单分摊</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>Eternal Boss (Lifetime)</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>27</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6759317655">Teleprompter - CamScript</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>28</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6803090506">Tiny Arcade : Fun Games</a>
       </td>
       <td>
         <ul>
@@ -2273,6 +2432,188 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[typotypo 照片加文字]]></title>
+        <id>typotypo 照片加文字-cn-1788239889302</id>
+        <link href="https://apps.apple.com/cn/app/typotypo-%E7%85%A7%E7%89%87%E5%8A%A0%E6%96%87%E5%AD%97/id1609414621?uo=4"/>
+        <updated>2026-09-01T13:18:09.302+08:00</updated>
+        <summary type="html"><![CDATA[价格: ¥8.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/typotypo-%E7%85%A7%E7%89%87%E5%8A%A0%E6%96%87%E5%AD%97/id1609414621?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/fa/38/d1fa3807-3752-bc54-b54b-c96177a7c3ff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><p>
+  <small>来源：OODATA</small>
+</p><h2>
+  优惠信息（价格：<span>¥8.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥8.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Weekly Premium：<b>¥22.00</b>
+  </li><li>
+    typotypo 高级版 年度：<b>¥168.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>Typotypo 是一款专业的文字艺术设计工具，让创意触手可及。 主要功能： 50 + 高级字体 — 含韩文、衬线、手写字体包 丰富的特效 — 马赛克、发光、弯曲、阴影 4K 高清导出 — JPEG/PDF/GIF 多格式支持 无限项目 — 不限保存数，随心创作 多图层设计 — 复杂构图轻松搞定 模板与图库 — 海量素材一键应用 适合海报设计、社交媒体内容、个性化创作的全能文字艺术工具。 订阅信息 — Premium (高级版年度自动续订订阅)时长: 1年 ，每年自动续订 价格: 以应用内显示价格为准 (购买确认时通过Apple ID因地区而异)扣款 在当前订阅期结束前24小时未关闭自动续订 ，将自动续订 可在App Store账户设置中管理订阅及关闭自动续订 使用条款(EULA): https://www.pentarab.com/typotypo/terms隐私政策: https://www.pentarab.com/typotypo/privacy</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/79/02/2e790241-b614-daed-77b1-96993011d365/screenshot-1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/97/15/4a971523-db13-4142-6dbb-874449a95176/screenshot-3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/aa/a2/88aaa245-5ecb-da09-c3a1-9fc32b6a42ff/screenshot-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/ae/4d/caae4dc9-8e02-df96-0bc4-72caee1c458b/screenshot-2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/78/1a/60781a34-209f-75ce-10f6-07b9d91d5dd5/screenshot-5.png/320x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bill Splitter - 账单分摊]]></title>
+        <id>Bill Splitter - 账单分摊-cn-1788239889302</id>
+        <link href="https://apps.apple.com/cn/app/bill-splitter-%E8%B4%A6%E5%8D%95%E5%88%86%E6%91%8A/id6758899879?uo=4"/>
+        <updated>2026-09-01T13:18:09.302+08:00</updated>
+        <summary type="html"><![CDATA[Eternal Boss (Lifetime): ¥58.00 → ¥0.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/bill-splitter-%E8%B4%A6%E5%8D%95%E5%88%86%E6%91%8A/id6758899879?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/a9/c2/b9a9c248-11c3-af02-599d-4dc29c455e26/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg" />
+</a><p>
+  <small>来源：OODATA</small>
+</p><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>Eternal Boss (Lifetime)：</strong><span>¥58.00</span> → <b>
+  <strong>¥0.00</strong>
+</b><span>[¥0.00 ~ ¥58.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Eternal Boss (Lifetime)：<b>¥0.00</b>
+  </li><li>
+    Snack Pack (Weekly)：<b>¥8.00</b>
+  </li><li>
+    Heist Pass (Yearly)：<b>¥38.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>受够了每次都替全员买单？有人偷吃了你的麦乐鸡块？是时候收取你的“Fanum Tax（兄弟税）”了！ Fanum Tax 是完美融合了“正经AA分账工具”、“迷因假小票生成器”以及“Aura（气场值）追踪器”的终极神器。无论你是想认认真真算清饭钱，还是想用各种离谱的“奇葩附加费”来恶搞你的朋友，这款 App 都能满足你！ 核心功能 (KEY FEATURES)： 【金库与小票生成器 THE VAULT & RECEIPT MAKER】 生成逼真度拉满（却又大有问题）的小票来分摊账单。随手添加诸如纯正的“Fanum Tax（兄弟一口税）”、“呼吸空气费”或“走路太慢罚款”等搞笑收费项目，并一键通过短信或社交媒体发给朋友。 【队伍管理 /“受害者”名单 SQUAD MANAGER】 把你那群白嫖朋友（又名“受害者”）加到你的专属队伍里。给他们分配合适的 Emoji 表情，并在结账前精准追踪究竟是哪些人该乖乖付钱。 【天降账单大转盘 SPIN THE BLOCK (ROULETTE)】 不想平摊付钱？非常懂你。把你的损友们加到我们内置物理引擎的轮盘中，让纯粹的命运来决定今晚谁请全客。100% 的刺激，0% 的同情心！ 【气场值追踪 AURA TRACKER】 每次成功收税或收齐饭钱，你的“Aura（气场/逼格）”积分就会呈指数级暴涨。一路狂飙升级，从丢人的“负级气场 (Negative A</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/8e/5e/ea8e5e7e-160e-3327-4637-a058127f3bfd/1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/06/b0/ca06b0d7-b3ba-9b4c-98f3-9e8b2f3c20b2/2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/ab/b9/b8abb935-eb0e-154f-c3e5-9ec1d5a0e3bf/3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/e2/3a/5ae23af2-d703-7abd-8bca-801cfdced37c/4.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/3f/65/0b3f6555-fed6-5eae-a0aa-5cc61565269d/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-02-20_at_02.42.38.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/ca/54/36ca542d-997b-081d-14e9-e3e8ccfd3b0a/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-02-20_at_02.42.24.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/40/1f/c0401f48-4d9a-7c0e-7960-c537f32c3764/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-02-20_at_02.43.39.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/61/c3/9961c344-8c9b-9f2d-92d3-8c7f2ee9a078/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-02-20_at_02.43.47.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羽毛笔 - 今日待办]]></title>
+        <id>羽毛笔 - 今日待办-cn-1788239889302</id>
+        <link href="https://apps.apple.com/cn/app/%E7%BE%BD%E6%AF%9B%E7%AC%94-%E4%BB%8A%E6%97%A5%E5%BE%85%E5%8A%9E/id1436832183?uo=4"/>
+        <updated>2026-09-01T13:18:09.302+08:00</updated>
+        <summary type="html"><![CDATA[价格: ¥8.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%BE%BD%E6%AF%9B%E7%AC%94-%E4%BB%8A%E6%97%A5%E5%BE%85%E5%8A%9E/id1436832183?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/c1/43/39c143b8-abb4-3dff-d6be-58fa8dff3040/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><p>
+  <small>来源：付费排行榜</small>
+</p><h2>
+  优惠信息（价格：<span>¥8.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥8.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Pro 永久会员：<b>¥18.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>羽毛笔，便捷 TODO 小组件 【特点】 可直接在负一屏直接查看、勾选、编辑你的每一个小确幸 路上、课间、工作、刚起床，记录每一个一闪而逝的小灵感 轻量、高效、便捷，没有冗余功能只为提高你的生活效率 支持深色模式，夜间也能舒心使用 支持云云同步， ，多设备轻松同步 支持定时提醒，重要事情不忘记 【添加】 如何添加可在锁屏下编辑的组件 负一屏小工具栏 — 下滑底部“编辑” —下滑底部 “自定” —羽毛笔 【使用】 添加负一屏小组件后在锁屏情况下编辑待办事项 在通知中心单击+新建 ，单击任务编辑 ，长按可预览全文勾选完成任务 更多使用说明见 app 默认初始任务以及设置中小视频介绍 联系邮箱： developer.feedbacks@gmail.com 如功能性建议以及使用疑问， ，请五星好评留言谢谢 n (* ≧▽ ≦ *) n。 感谢来自希腊雅典的 Alex Chrisakis 提供的希腊语翻译。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f3/27/63f3272e-5bc1-3a4e-4e18-4c20325baca4/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/dd/63/d4dd63d8-08c7-d2c2-0802-3771e269e76f/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/f6/10/74f61071-0ba6-c3ca-97f4-aa89738dad04/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/4f/3f/184f3fc0-c6a5-92ab-ae6f-711a5da6b177/pr_source.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/78/94/8e78946c-7bfc-48c4-ecfa-ebdec8db95ec/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/f9/89/b3f9896e-b8b0-59af-6ad8-0287dc19e259/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/3f/41/193f4139-79d5-e377-8230-5cac1973389a/pr_source.jpg/576x768bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央数-央行数据]]></title>
+        <id>央数-央行数据-cn-1788239889302</id>
+        <link href="https://apps.apple.com/cn/app/%E5%A4%AE%E6%95%B0-%E5%A4%AE%E8%A1%8C%E6%95%B0%E6%8D%AE/id1296076444?uo=4"/>
+        <updated>2026-09-01T13:18:09.302+08:00</updated>
+        <summary type="html"><![CDATA[价格: ¥18.00 → ¥1.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%A4%AE%E6%95%B0-%E5%A4%AE%E8%A1%8C%E6%95%B0%E6%8D%AE/id1296076444?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/5b/2d/595b2d75-48c0-994e-6199-8fac901f714d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><p>
+  <small>来源：付费排行榜</small>
+</p><h2>
+  优惠信息（价格：<span>¥18.00</span> → <b>
+  <strong>¥1.00</strong>
+</b><span>[¥1.00 ~ ¥58.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥1.00</b>
+</p><h2>应用描述</h2><p>逆回购、正回购、MLF、票据 ，俗称央行发钱 房贷基准利率多少? M2/M1/M0,资产负债表, Shibor 了解下 这款APP是经济,投资理财,股市,房价分析参考利器 适用于关注经济、货币政策的用户 央行数据Pro主要功能: 1. 实时的央行及Shibor数据通知 2. 历年央行数据分析 3. 可编辑的图表视图 4. 可排序筛选、可分享导出的数据列表 5. LPR (贷款基准利率/房贷基准利率) 数据图表 6. Shibor (上海银行间同业拆放利率)最新及历史数据图表 7. 货币供应量(M2/M1/M0)数据图表 8. 央行资产负债表(货币当局资产负债表) 数据图表</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/27/0d/55/270d5504-f3a0-5ff4-ba5f-5cea2eba1912/1484c9ad-cd51-4de6-adea-52e314b75d1f_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5b/d2/f3/5bd2f35c-543d-791e-b788-33ba482f1fd9/9917eb19-9d16-4460-aede-da6a9a7648e5_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0f/c3/41/0fc341a3-fc50-06c7-a469-65106223049c/72322cf6-6ca5-407d-9023-d5f0ca76bb48_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/78/c6/36/78c636f8-af5e-971f-1f92-fcfde53508a0/63139b7d-be62-45e3-a129-6e982d8d0a62_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/7f/4f/5d/7f4f5d9d-a92e-c421-1812-c690f13e18ff/9619bb23-8298-4923-bbda-5929de36b87b_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/23/34/d2/2334d214-3c99-259c-21fa-89d345e50c21/90a3bc6f-a880-4ad8-8996-f9cc0d2c46bc_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/dd/e4/dd/dde4dda1-5fa6-8739-e5a7-b7645b62e550/2f162c88-cead-4fbe-ac56-f7c9cbcd384a_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/c1/35/4ec135da-986a-bf3c-8470-b357038d9491/31e81a1e-455a-478b-b6d0-a92d83a271b6_5.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VideoRecord: Pause & Resume]]></title>
+        <id>VideoRecord: Pause &amp; Resume-cn-1788239889302</id>
+        <link href="https://apps.apple.com/cn/app/videorecord-pause-resume/id618657110?uo=4"/>
+        <updated>2026-09-01T13:18:09.302+08:00</updated>
+        <summary type="html"><![CDATA[价格: 付费 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/videorecord-pause-resume/id618657110?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/99/ca/8699ca77-b53e-c12b-a7a9-c28cbd2e3a32/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><p>
+  <small>来源：OODATA</small>
+</p><h2>
+  优惠信息（价格：<span>付费</span> → <b>
+  <strong>免费</strong>
+</b><span></span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h2>应用描述</h2><p>每次需要休息时，停止重新启动视频。 VideoRecord 是一款简单的暂停和恢复视频录像机，专为分段录制而设计。录制剪辑、暂停、根据需要切换摄像机，然后继续。完成后，将各个片段合并成一个完整的视频。非常适合教程、演示、日常视频、产品视频、家庭时刻、旅行剪辑、演示以及任何更容易一次录制一个部分的内容。 ◉ 暂停和恢复录制自然录制，无需尝试一次性将所有内容都做好。随时暂停录音 准备好后恢复 Ke</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/32/4f/51324f48-7441-6dc3-e515-d2e14aa6f183/1_VideoRecord_AppStore_04_1242x2688.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/75/b2/0875b254-2262-2a38-e60d-d9952dafe686/2_VideoRecord_AppStore_03_1242x2688.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/8b/d6/a68bd608-6c6a-045d-28be-1273e6900d52/3_VideoRecord_AppStore_01_1242x2688.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/92/a3/7192a3dc-c513-fd0a-9ae4-573ec7581e24/4_VideoRecord_AppStore_05_1242x2688.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/7c/6b/c57c6b9e-7d78-04e7-13ce-d59aa03fed5e/5_VideoRecord_AppStore_02_1242x2688.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/75/80/007580d1-46ac-f7b3-5df4-760ade0bfd4e/1_a7479e9e-7ba3-4958-a139-10164a9ae71c.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/dc/19/90dc1964-c96b-72c0-dbe8-477338d6daf0/2_c30d4412-b954-46a1-b2fb-c3795436d85d.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/03/76/0a0376f7-ecac-7015-bf10-57d3b12f2cb9/3_60fd9d7e-ffd8-44fa-85d1-23a9e700c837.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/fb/56/1bfb5685-19d5-03db-6270-5a5d6027f03f/4_88f47eb1-c963-41b1-8e35-c5e84481367d.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/41/88/81418815-af3d-8777-ac5b-7cd83b25075f/5_bdfc98fe-e008-48c2-a8d5-81830dd11773.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teleprompter - CamScript]]></title>
+        <id>Teleprompter - CamScript-cn-1788239889302</id>
+        <link href="https://apps.apple.com/cn/app/teleprompter-camscript/id6759317655?mt=12&amp;uo=4"/>
+        <updated>2026-09-01T13:18:09.302+08:00</updated>
+        <summary type="html"><![CDATA[价格: 付费 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/teleprompter-camscript/id6759317655?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/8c/51/528c5101-29b8-8ba7-c7cd-3fcd2020f22c/AppIcon-85-220-5-0-0-2x-P3-0-0.png/60x60bb.png" />
+</a><p>
+  <small>来源：OODATA</small>
+</p><h2>
+  优惠信息（价格：<span>付费</span> → <b>
+  <strong>免费</strong>
+</b><span></span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h2>应用描述</h2><p>CamScript 是适用于 Mac 的隐形提词器 - 非常适合视频录制、直播和演示。对屏幕共享不可见 CamScript 的覆盖窗口对 Zoom、Teams 或 OBS 等屏幕共享工具完全不可见。您的观众看到的是您的演示文稿，而不是您的剧本。内置网络浏览器直接在覆盖层中浏览网络 - 无需离开工作流程即可访问 AI 助手、研究或笔记。立即在提词器和浏览器模式之间切换。智能滚动 使用可自定义键盘快捷键手动滚动 以可调速度自动滚动 语音交流</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/ab/64/89ab6480-9e1f-3aca-9733-2fe29f27d548/macbbok_template.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/8a/12/878a126c-5102-13b7-082d-29e2bde643fc/Document.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/c1/95/cfc1957a-8d36-7108-66fd-be25eca4ba4c/macbbok_template1.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math Shot Division]]></title>
+        <id>Math Shot Division-cn-1788239889302</id>
+        <link href="https://apps.apple.com/cn/app/math-shot-division/id1193013588?uo=4"/>
+        <updated>2026-09-01T13:18:09.302+08:00</updated>
+        <summary type="html"><![CDATA[价格: 付费 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/math-shot-division/id1193013588?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/15/f9/dc15f9ad-bda6-cb61-1f9c-181081f218f4/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/60x60bb.jpg" />
+</a><p>
+  <small>来源：OODATA</small>
+</p><h2>
+  优惠信息（价格：<span>付费</span> → <b>
+  <strong>免费</strong>
+</b><span></span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h2>应用描述</h2><p>Math Shot Division 是一款有趣且引人入胜的数学学习游戏，众所周知，通过游戏和乐趣来学习更加有效。以一种新的、有趣的方式练习除法。内置手写识别功能使您可以直接在屏幕上绘制答案。游戏难度会根据玩家的技能动态调整，使游戏适合所有年龄段。您可以练习以下数学技能： 2、3、4、5、10 的除法事实 6、7、8、9 的除法事实 10 以内的除法事实 除以 2 除以 3 除以 4 除以 5 除以 6 除以 7 除以 8 除以 9 D</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d7/c7/cc/d7c7ccf4-5f5c-10be-10a5-632b75b347a8/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2d/93/53/2d9353b6-de63-d69d-a9f9-8edb434c2422/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/a9/2e/4e/a92e4e60-e326-8a2a-ee04-b49d41e8128e/de51d603-1a91-4589-bdc8-89f597f0fa9b_screen1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/57/c0/1a/57c01a27-c3da-1e67-8cb2-a7b76fcf55b4/4982693e-5043-458f-8e08-e9330f2528f4_screen2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/b1/e1/2e/b1e12ec1-fc16-5e71-7b16-9de93e768342/1b5a1b91-2439-4e35-ad2d-ca29b3e6a163_screen3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/93/b9/42/93b94249-27f9-fe1b-d7bd-591771ace061/5a657c63-9e5a-4424-8f3a-58f06560cf64_screen4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ad/65/10/ad651045-d10f-033d-04e6-e2e994cadf64/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/b9/66/f2/b966f26a-50e4-193c-20e3-2fb7a2f8ed22/2fd4dfa7-d5f1-4577-8881-17b7ad2c7aef_screen5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/66/83/40/66834019-cb9c-c112-f211-197570af1cf4/35dc47c2-e0e5-4827-9044-2ae76d61806b_screen6.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/47/1b/48/471b48bb-9b58-b52d-3414-5d756a906165/1eaa28c4-ebc1-4be4-8ec7-33727161d960_screen7.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/6d/a4/136da4b8-3038-ab1b-0d48-761620de52cf/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/60/81/33/6081334d-e4ce-6b8a-f46c-192a0dbef6f6/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/90/35/91/90359126-83ea-1dd2-cc1f-05f79e8eb814/0b03481a-39b6-4bf1-b6bc-76824c469e62_screen1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/60/33/a1/6033a138-1da5-e1d0-0e70-e9a419ba9d1f/90d53d2a-127d-4bd2-b15d-0c5b90433d98_screen2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/12/9b/03/129b03e2-9ae2-5fe9-796f-5d664da217a9/c962185a-5db1-4bef-9a2e-4436b06a955f_screen3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/dc/c6/0b/dcc60bc2-abac-acd1-d10d-d86b876564b4/3ce0a517-a4e5-40c4-8b1f-62b4e191a4f8_screen4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/73/cd/1d/73cd1d30-a0d7-ced6-47c0-ebcb90eef49e/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/73/6c/c0/736cc062-31d2-073d-386f-2a7d9ee41fb2/0c17ccb7-2391-4018-ad6e-3ab4b7b08f7b_screen5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/80/ae/98/80ae988b-a51c-2a2e-34a6-04335fdddae6/a7497b56-17cf-4036-b1a1-91bf07236ca7_screen6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/09/2f/ef/092fef5c-4110-c438-aaed-a7e0265c1100/467ac496-f73c-4ce8-a3ec-b55fb0d40ddd_screen7.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乘法表 12x12]]></title>
+        <id>乘法表 12x12-cn-1788239889302</id>
+        <link href="https://apps.apple.com/cn/app/%E4%B9%98%E6%B3%95%E8%A1%A8-12x12/id773532397?uo=4"/>
+        <updated>2026-09-01T13:18:09.302+08:00</updated>
+        <summary type="html"><![CDATA[价格: 付费 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%B9%98%E6%B3%95%E8%A1%A8-12x12/id773532397?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/82/bc/2582bcfe-e2ef-4e1b-af0e-a68a956b4d00/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/60x60bb.jpg" />
+</a><p>
+  <small>来源：OODATA</small>
+</p><h2>
+  优惠信息（价格：<span>付费</span> → <b>
+  <strong>免费</strong>
+</b><span></span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h2>应用描述</h2><p>轻松有趣地掌握乘法！ 解锁孩子乘法世界的创新应用，旨在让学习既高效又有趣。借助先进的手写数字识别技术，该应用提供自然、直观的学习体验，突破传统的多项选择模式。 主要特色 手写输入：孩子可以直接在屏幕上写下答案，提高专注度并强化书写技巧。 全面覆盖：涵盖从 1 到 12 的乘法表，奠定扎实的数学基础。 自适应难度：根据孩子的进度智能调整难度，提供个性化的学习之旅。 有趣小游戏：内置五个引人入胜的小游戏，巩固知识的同时，让练习过程充满乐趣。 进度跟踪：通过详细的表现数据，随时了解孩子的学习进步。 为什么选择我们的应用？ 此应用专为儿童设计，使用手写输入能够让孩子们从传统的纸笔学习平滑过渡到数字化教育。自适应难度确保他们在恰当的挑战中不断提升而不至于受挫。小游戏的加入打破枯燥的重复练习，将学习变成一次充满冒险的旅程。 用户评价： “我给儿子看了之后，他立刻就想玩！效果非常好！复习游戏很有吸引力，他在玩乐中不断练习乘法！总算找到了一款不是只做选择题的应用！太感谢了！！” 现在就为孩子的数学学习投资吧。有了这款应用，掌握乘法表将变得有趣又富有成就感。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/27/51/52275122-8929-afc7-3458-16949a65a061/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c0/0d/47/c00d47ce-1004-5a91-5819-ccc6bcfee0c3/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/f5/e3/a8f5e316-0854-b3b1-549c-3cb9dc01e523/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/05/b5/67/05b56711-b590-c024-8d30-0c6f4d32581d/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c6/a6/09/c6a609d8-2a3f-eb30-3d2c-de1fb300c1ea/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c2/d1/0c/c2d10c5e-7447-85d3-9c74-6cfc13bf3071/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1b/55/3b/1b553bb8-ed47-7655-92b9-c2a329bf8515/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/34/8f/f0/348ff07f-b9ad-3505-a17d-b3d5e8ecddc8/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/b2/2f/a8b22ffd-c998-e8b1-9ea0-c62c59ad30a9/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/17/01/96/17019664-4b16-84ba-a993-05b4fbee14cd/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/96/a1/0d96a152-f31b-cff3-8a78-25e14518910a/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e8/65/61/e8656152-53d8-c016-6b03-ecb60aa81de4/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1a/00/01/1a000122-f252-464f-0798-47337b2379d5/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f8/cc/ef/f8ccefeb-258e-c170-5fae-2caa53188e0b/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/25/10/31/251031cd-c76c-491b-c3a9-5e55b1aef2b0/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/30/a8/ad/30a8ad3d-b68f-9799-d6a8-ce4c93334c62/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/83/ad/9983ad8b-86eb-8225-eb54-b582a4b93d45/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/99/93/f0/9993f0b7-5259-d2a8-ba26-1669e9d49e10/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a5/ab/af/a5abaf47-90be-cf1e-875f-87e9736db663/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/5e/35/ac5e3528-e779-71a1-f0dd-2555edf237d3/pr_source.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny Arcade : Fun Games]]></title>
+        <id>Tiny Arcade : Fun Games-cn-1788239889302</id>
+        <link href="https://apps.apple.com/cn/app/tiny-arcade-fun-games/id6803090506?uo=4"/>
+        <updated>2026-09-01T13:18:09.302+08:00</updated>
+        <summary type="html"><![CDATA[价格: 付费 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/tiny-arcade-fun-games/id6803090506?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/2b/86/372b8636-a667-094c-d7a7-c3976bb66187/tinyarcadeicn-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
+</a><p>
+  <small>来源：OODATA</small>
+</p><h2>
+  优惠信息（价格：<span>付费</span> → <b>
+  <strong>免费</strong>
+</b><span></span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h2>应用描述</h2><p>微型街机：有趣的游戏 跳入一系列快速、丰富多彩且令人上瘾的街机挑战，这些挑战专为短时间游戏和无尽的重玩而设计！ Tiny Arcade：Fun Games 将多个迷你游戏融合在一起，形成一种有趣的街机体验。切换轨道、躲避障碍、匹配颜色、收集物品，并在不同的挑战中测试你的时机。多个小游戏来掌握圆形轨道 在完美的时刻切换你的轨道，避免尖峰，并留在路径上。方形躲避 驾驶穿过竞技场，躲避移动的障碍物，并逃离棘手的巡逻队。颜色旋转器 匹配颜色并做出反应</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/bf/f9/41bff909-0a9f-0252-a608-7a591ed3ab83/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-20_at_15.57.38_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/ac/26/3dac2688-1ffd-8538-09be-6e6b44c1a02c/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-20_at_15.56.29_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/8b/36/108b36df-6bef-2e33-0de0-09383b788f48/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-20_at_15.57.33_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/24/e7/d424e795-cd49-26af-a145-53f8c73b4fd7/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-20_at_15.57.24_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/89/71/c2897182-1d40-51b9-9e3a-36e8ca79ab95/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-20_at_15.56.38_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/f1/00/60f10046-131f-b516-e1b6-959aa30fe962/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-20_at_15.57.08_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/51/75/2a517548-7b2f-02a2-8fd5-ad7fcd7b306c/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-20_at_15.56.13_1.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/62/ec/b562ecec-fcfd-c639-efaf-ef946c28d821/Simulator_Screenshot_-_yoipaf_-_2026-08-20_at_16.47.07.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/db/26/79db2697-6152-4e7c-9cf6-9d65fefae27c/Simulator_Screenshot_-_yoipaf_-_2026-08-20_at_16.48.30.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/1c/dc/851cdc92-6846-ca2c-7532-cc5a8956d858/Simulator_Screenshot_-_yoipaf_-_2026-08-20_at_16.47.42.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/20/d2/e220d23b-e3e0-c3d6-fad5-1e18cdc5e845/Simulator_Screenshot_-_yoipaf_-_2026-08-20_at_16.47.10.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/a1/4b/73a14ba3-14d1-3b3e-a385-472aab895fe0/Simulator_Screenshot_-_yoipaf_-_2026-08-20_at_16.47.33.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/60/07/646007fa-a558-10b2-eeb5-d960250259ac/Simulator_Screenshot_-_yoipaf_-_2026-08-20_at_16.47.49.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/f0/9c/d8f09c45-7396-1e48-00c9-624bcb80ecba/Simulator_Screenshot_-_yoipaf_-_2026-08-20_at_16.47.24.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ScreenDoctor PRO]]></title>
         <id>ScreenDoctor PRO-cn-1788220555218</id>
         <link href="https://apps.apple.com/cn/app/screendoctor-pro/id6759224538?uo=4"/>
@@ -2324,7 +2665,7 @@ feedId:157007849019630592+userId:73658201673997312
 </b><span>[免费 ~ ¥22.00]</span>）
 </h2><h2>全部价格信息</h2><p>
   价格：<b>免费</b>
-</p><h2>应用描述</h2><p>一年级数学教练将早期数学学习转化为有趣的互动体验。通过直观的手写输入，孩子们可以通过在屏幕上实际书写数字来练习加法和减法。该应用程序具有两种模式：一种是自定进度的数学训练器，可以在没有压力的情况下掌握事实；另一种是引人入胜的Math Shot迷你游戏，可适应每个孩子的技能水平。无论是解决最多10个简单加法问题还是更复杂的减法问题，年轻学员都喜欢动手练习</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/3a/42/b93a423e-7ce5-4ec5-fb24-bb59e804dfbf/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/79/dd/a679dda6-d87f-02da-ff76-f3ba8ec11bbd/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9a/76/9f/9a769f03-0b6e-68a4-9b08-1488c25a53f5/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/94/d6/e1/94d6e1d3-e022-cd7f-3da2-639108da1d39/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/9d/73/af9d73a4-4b8e-fec0-c785-f7a0927e6388/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/41/c3/f2/41c3f246-4d01-1e7f-73ec-b4300a7b8de1/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/be/33/d6/be33d634-6336-5ce8-4ae2-d38345759522/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/16/22/9f16220f-17d4-fc3c-8624-4a4cd8fc295b/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/35/ac/6d35ac95-a438-dacb-6782-84533cb93ae5/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f2/d3/c6/f2d3c692-3d18-ec7f-2d86-6df65132a8fe/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ab/9e/ca/ab9eca5b-1a53-ab92-0f87-865326b3f955/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3d/ca/f7/3dcaf70c-3481-606c-acad-4015e635a48f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/32/ba/94/32ba94c4-35c0-fc42-4ab6-950a9420bbbe/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/1c/16/991c169d-4be3-e12c-db8a-a2fb992bace8/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7c/42/e9/7c42e938-e908-7c57-5827-058a731ab585/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/42/f4/d7/42f4d7f5-26ac-88a7-27f3-4466eaeabf7d/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/f8/95/ddf89564-30ba-7dae-fab9-4cbd00731c60/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/88/b9/fc/88b9fc55-444c-b9cd-d958-7fd3367b211b/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/5e/8d/825e8d24-bf9b-b62b-04bd-a9d68d8cfe56/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/02/55/c3/0255c3ba-4062-6544-3fd3-bd9c032a9d62/pr_source.png/552x414bb.png" />]]></content>
+</p><h2>应用描述</h2><p>一年级数学培训师将早期数学学习转变为有趣的互动体验。通过直观的手写输入，孩子们可以通过在屏幕上书写数字来练习加法和减法。该应用程序具有两种模式：一种是自定进度的数学训练器，用于毫无压力地掌握事实；另一种是引人入胜的数学射击迷你游戏，适合每个孩子的技能水平。无论是解决 10 以内的简单加法还是更复杂的减法问题，年轻的学习者都喜欢动手练习，以建立信心和流利地掌握基本数学技能。通过一年级数学加法，您可以</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/3a/42/b93a423e-7ce5-4ec5-fb24-bb59e804dfbf/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/79/dd/a679dda6-d87f-02da-ff76-f3ba8ec11bbd/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9a/76/9f/9a769f03-0b6e-68a4-9b08-1488c25a53f5/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/94/d6/e1/94d6e1d3-e022-cd7f-3da2-639108da1d39/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/9d/73/af9d73a4-4b8e-fec0-c785-f7a0927e6388/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/41/c3/f2/41c3f246-4d01-1e7f-73ec-b4300a7b8de1/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/be/33/d6/be33d634-6336-5ce8-4ae2-d38345759522/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/16/22/9f16220f-17d4-fc3c-8624-4a4cd8fc295b/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/35/ac/6d35ac95-a438-dacb-6782-84533cb93ae5/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f2/d3/c6/f2d3c692-3d18-ec7f-2d86-6df65132a8fe/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ab/9e/ca/ab9eca5b-1a53-ab92-0f87-865326b3f955/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3d/ca/f7/3dcaf70c-3481-606c-acad-4015e635a48f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/32/ba/94/32ba94c4-35c0-fc42-4ab6-950a9420bbbe/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/1c/16/991c169d-4be3-e12c-db8a-a2fb992bace8/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7c/42/e9/7c42e938-e908-7c57-5827-058a731ab585/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/42/f4/d7/42f4d7f5-26ac-88a7-27f3-4466eaeabf7d/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/f8/95/ddf89564-30ba-7dae-fab9-4cbd00731c60/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/88/b9/fc/88b9fc55-444c-b9cd-d958-7fd3367b211b/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/5e/8d/825e8d24-bf9b-b62b-04bd-a9d68d8cfe56/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/02/55/c3/0255c3ba-4062-6544-3fd3-bd9c032a9d62/pr_source.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CHAKK - 인스타 스토리 꾸미는 재미, 챡!]]></title>
@@ -2441,28 +2782,6 @@ feedId:157007849019630592+userId:73658201673997312
     OnePhoto Annual Pro：<b>¥9.90</b>
   </li>
 </ul><h2>应用描述</h2><p>OnePhoto 是一款 iPhone 相册整理工具，以滑动复查为核心。左右滑动浏览，上滑加入待删除。照片不会立即删除：先统一检查候选，确认后才向系统照片库提交更改。 相册整理 从全部照片、视频、截图、收藏、相册或时间线开始 使用网格浏览照片，并批量选择 批量收藏、加入相册、分享或加入待删除 可按最新或最早的照片开始整理 进阶清理 查看相似照片候选、大文件、截图和视频 在设备本机压缩图片和视频，可选择画质与尺寸 查看整理记录、节省空间和进度 隐私与确认 无需账号 不向我们的服务器上传照片或视频 整理决策保存在本机 所有删除都需要你在提交给系统照片库前确认 核心滑动整理和相册归类可免费使用。进阶队列、本机压缩、主题和长期统计需开通 Pro。App 内提供年度 Pro 和永久 Pro。 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/05/e7/e005e722-5c67-e3f7-4d9c-149a54ad7106/01-01-home.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/26/f1/4826f11c-4b24-055b-75a2-a6e089a57d80/02-02-review-card.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/2c/73/172c738e-52a6-908d-1b76-bfb768057f5c/03-03-two-row-browser.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/f4/90/8df49001-53ac-a51d-c368-bdcca267cd75/04-04-finish-or-confirm.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/0e/bb/a60ebb05-8d4a-9645-b5ba-f50b47a23153/05-05-albums-real.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/66/ee/5866ee89-be41-550e-e642-5331c16cb7fd/06-06-advanced-dashboard.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/a4/9e/3aa49ecf-7e04-b760-2636-c9045f3f6122/07-07-similar-photos.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/62/99/0a6299ba-6832-9749-7594-a74b88d73b56/08-08-large-files.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/15/82/61158248-6e0a-43f3-d455-8b494ac5b91a/09-09-achievements.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/8e/3c/ae8e3c30-6bae-ff30-6359-6f2659538a25/10-10-privacy.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/2d/ef/e12def98-6462-cf2f-9a67-01fc5900fca6/05-on-device-privacy.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/66/01/9766019d-05d5-ca69-5757-7e296c1366fd/03-review-before-delete.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/aa/2a/d9aa2a34-cb8b-c95a-9399-88a3f15ead91/04-clean-by-type.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/b2/aa/e9b2aa4e-4c89-c3ed-58af-c6ac7f89666a/01-left-swipe-delete.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/64/88/2164880f-97aa-199e-8958-87e5365de458/09-batch-candidates.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/42/35/bd42359e-87bf-d18c-7883-9b14e8e4a52f/02-swipe-to-sort.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/f3/b8/8bf3b886-6671-241d-3f99-c60c145979db/08-screenshot-cleanup.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/eb/eb/9debeb62-f5ce-f422-b0e9-0166390eefd8/06-keep-favorites.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/73/60/bb7360e4-d551-274f-fc92-cf012d23e28e/07-safe-undo-toolbar.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/06/79/e5067991-d1d5-255e-f770-718f651bc70a/10-free-lightweight.jpeg/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gift Text - Create your own]]></title>
-        <id>Gift Text - Create your own-cn-1788207064451</id>
-        <link href="https://apps.apple.com/cn/app/gift-text-create-your-own/id6751366964?uo=4"/>
-        <updated>2026-09-01T04:11:04.451+08:00</updated>
-        <summary type="html"><![CDATA[价格: ¥198.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/gift-text-create-your-own/id6751366964?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/96/71/bc9671fc-24a0-5633-aa89-ba046078abe8/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg" />
-</a><p>
-  <small>来源：付费排行榜</small>
-</p><h2>
-  优惠信息（价格：<span>¥198.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥298.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    GiftText Pro：<b>¥38.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>GiftText 是一款由人工智能驱动的祝福语生成器，适合那些你清楚自己的感受，却不知道该如何准确表达的时刻。 你可以轻松创作精美的婚礼祝福、贺卡寄语、简短祝酒词、周年纪念寄语、生日祝福、节日问候等内容。只需添加姓名、选择场合和语气，GiftText 就会为你生成一段精心润色的文字，方便复制、分享、保存或导出。 适用于： – 婚礼祝福和贺卡寄语 – 简短的婚礼祝酒词 – 周年纪念寄语 – 生日祝福 – 节日问候 – 祝贺与个性化祝福 GiftText 还会保存你的历史记录，让你可以随时查看为不同的人和场合创作的祝福语。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/64/08/97640823-7c45-c114-31be-b6cb6b1c87a5/Frame_156.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/af/1f/e3af1f54-82bd-9f36-cf9e-cb0a94bd35f6/Frame_157.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/45/fc/9945fc38-fef8-f2e7-f1ed-257d428bfd03/Frame_158.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/c2/bb/29c2bbf3-f2bf-71ea-f875-7b089dae5603/Frame_159.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/57/6e/c5576e31-149d-501e-ef4e-7c7aa5ac76a7/Frame_160.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/30/e0/eb30e0fa-85f2-8248-8fb9-132435d705cd/Frame_166.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/a5/7e/9ba57e52-a4a0-885f-5a39-0b99d07d6062/Frame_168.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/a0/40/68a04080-3fc0-5253-c4d2-2fe448a954e7/Frame_167.jpg/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Neutron Audio Recorder]]></title>
@@ -2616,7 +2935,7 @@ feedId:157007849019630592+userId:73658201673997312
   </li><li>
     External Camera Mode：<b>¥68.00</b>
   </li>
-</ul><h2>应用描述</h2><p>Artemis 提供专业电影摄影机和镜头的综合数据库，并且能够添加任何自定义摄影机格式。听取我们用户的意见：罗杰·迪金斯 (Roger Deakins) ASC、BSC：电影摄影师（荣获两项奥斯卡金像奖，16 项提名）《银翼杀手 2049》、《边境杀手》、《詹姆斯·邦德：大破天幕杀机》、《肖申克的救赎》 Claudio Miranda ASC：电影摄影师《壮志凌云》：Maverick、F1、Life of Pi、Benjamin Button、Oblivion “我一直在使用 Artemi</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/fc/63/cefc632a-3dd8-e261-2a70-491e10a7ecc9/screenshot-1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/a0/9e/7aa09e69-8880-e93c-becf-08a40ae79aa0/screenshot-2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/97/76/369776f0-00bd-af15-1010-85ad9a59ec49/screenshot-3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/d8/0f/cfd80f26-9827-a5ce-05d3-4c01444beb91/3D118D7D-E306-462B-8046-EE3656F7D357-screenshot-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/0a/5e/ff0a5e39-8063-4b8d-6153-b9bcaa6eb527/6A0AB6CF-2DD9-4EC1-A417-C5B35379C77A-screenshot-5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/8b/27/528b27ed-92d8-3efe-d3e7-23c55c5f559e/ECC79B45-F553-4636-868B-F813ED52A614-screenshot-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/cc/72/41cc7240-2252-a407-5be9-fbf254456094/835BA861-ACEE-4290-91E1-215479DCA6C6-screenshot-5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/15/96/c0159682-67a7-ee2e-f1d9-da3aed4b24a4/9A743C7A-9CA6-4016-BC49-FAF6684AA633-screenshot-6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/a1/bb/a4a1bb89-8285-4ce8-d5c2-1d5b30ada094/376105F7-3819-4B34-B81C-2A1455BFBF7A-screenshot-7.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ea/3d/ebea3dad-5bed-34bf-7e45-8c3788577ae4/465412D4-D488-4FCF-9872-D271679CE99E-ipad-screenshot-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/db/30/70db303d-6fd1-2fe9-fd3a-61b12e9fb14a/02CE93AF-73EA-40F5-91D2-2854D593DC54-ipad-screenshot-3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/d5/4f/3ad54fe6-a2ce-2912-d6e3-5707bf2ebb1c/BCC11318-A8D1-4FCF-B9E8-7B2486ABFA3A-ipad-screenshot-8.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/8e/19/578e19d4-a59c-4075-8f91-3e23434e0226/06761ED4-199D-47D2-A7DD-421014279961-ipad-screenshot-9.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/d1/d3/01d1d3ea-514e-6570-e951-6f3af4b35f06/87AB19AD-5072-47C7-8770-1614CB96E77E-ipad-screenshot-6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/9b/4f/009b4fe7-9f83-88e3-a49e-c92baa9f67ad/F920ADC8-A0B3-46AB-B21A-82BAEC41A9B2-ipad-screenshot-7.png/360x480bb.jpg" />]]></content>
+</ul><h2>应用描述</h2><p>Artemis 提供专业电影摄影机和镜头的综合数据库，并且能够添加任何自定义摄影机格式。聆听我们用户的评价：罗杰·迪金斯 (Roger Deakins) ASC、BSC：电影摄影师（荣获两项奥斯卡金像奖，16 项提名）《银翼杀手 2049》、《边境杀手》、《詹姆斯·邦德：007：大破天幕杀机》、《肖申克的救赎》 Claudio Miranda ASC：电影摄影师《壮志凌云》：Maverick、F1、Life of Pi、Benjamin Button、Oblivion “我一直在使用 Artemi</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/fc/63/cefc632a-3dd8-e261-2a70-491e10a7ecc9/screenshot-1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/a0/9e/7aa09e69-8880-e93c-becf-08a40ae79aa0/screenshot-2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/97/76/369776f0-00bd-af15-1010-85ad9a59ec49/screenshot-3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/d8/0f/cfd80f26-9827-a5ce-05d3-4c01444beb91/3D118D7D-E306-462B-8046-EE3656F7D357-screenshot-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/0a/5e/ff0a5e39-8063-4b8d-6153-b9bcaa6eb527/6A0AB6CF-2DD9-4EC1-A417-C5B35379C77A-screenshot-5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/8b/27/528b27ed-92d8-3efe-d3e7-23c55c5f559e/ECC79B45-F553-4636-868B-F813ED52A614-screenshot-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/cc/72/41cc7240-2252-a407-5be9-fbf254456094/835BA861-ACEE-4290-91E1-215479DCA6C6-screenshot-5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/15/96/c0159682-67a7-ee2e-f1d9-da3aed4b24a4/9A743C7A-9CA6-4016-BC49-FAF6684AA633-screenshot-6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/a1/bb/a4a1bb89-8285-4ce8-d5c2-1d5b30ada094/376105F7-3819-4B34-B81C-2A1455BFBF7A-screenshot-7.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ea/3d/ebea3dad-5bed-34bf-7e45-8c3788577ae4/465412D4-D488-4FCF-9872-D271679CE99E-ipad-screenshot-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/db/30/70db303d-6fd1-2fe9-fd3a-61b12e9fb14a/02CE93AF-73EA-40F5-91D2-2854D593DC54-ipad-screenshot-3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/d5/4f/3ad54fe6-a2ce-2912-d6e3-5707bf2ebb1c/BCC11318-A8D1-4FCF-B9E8-7B2486ABFA3A-ipad-screenshot-8.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/8e/19/578e19d4-a59c-4075-8f91-3e23434e0226/06761ED4-199D-47D2-A7DD-421014279961-ipad-screenshot-9.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/d1/d3/01d1d3ea-514e-6570-e951-6f3af4b35f06/87AB19AD-5072-47C7-8770-1614CB96E77E-ipad-screenshot-6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/9b/4f/009b4fe7-9f83-88e3-a49e-c92baa9f67ad/F920ADC8-A0B3-46AB-B21A-82BAEC41A9B2-ipad-screenshot-7.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TI-84 CE Calculator Manual]]></title>
@@ -2793,7 +3112,7 @@ feedId:157007849019630592+userId:73658201673997312
         <updated>2026-08-31T22:01:09.523+08:00</updated>
         <summary type="html"><![CDATA[价格: ¥2.00 → ¥1.00]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%9D%A1%E8%A7%89%E4%BA%86/id6795589329?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/ca/88/e3ca88c0-b49c-1e2e-4f69-7e5ff79e8398/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/e5/cc/64e5ccf4-d5fc-36e5-c4e4-434da8619e5c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
 </a><p>
   <small>来源：付费排行榜</small>
 </p><h2>
@@ -2802,7 +3121,7 @@ feedId:157007849019630592+userId:73658201673997312
 </b><span>[¥1.00 ~ ¥2.00]</span>）
 </h2><h2>全部价格信息</h2><p>
   价格：<b>¥1.00</b>
-</p><h2>应用描述</h2><p>总说再刷五分钟，却又不知不觉熬到深夜？ 该睡了不是又一个提醒你早点睡的闹钟。它会在你设定的睡觉时间到来后，暂停容易让你停不下来的 App，让“放下手机”真正发生。 【到点自动暂停】 选择需要控制的 App，设置睡觉和恢复时间。到点后自动暂停，早晨自动恢复。 【两次机会】 临时想继续使用，需要完成一次凭感觉计时的挑战。第一把钥匙可解锁 10 分钟，第二把只有 5 分钟。机会越来越少，可用时间也越来越短。 【今晚不再解锁】 如果你已经决定按时睡觉，可以选择强制锁定模式。睡觉时间到来后，不再提供 App 内解锁入口，直到早晨恢复。 【碰一碰，交出钥匙】 把主钥匙交给信任的人保管。需要继续使用时，由你发起取回，对方决定归还主钥匙，或发放 10 分钟、5 分钟临时钥匙。两台 iPhone 轻轻碰一下，钥匙就会自动过去，无需蓝牙配对。 【每天自动执行】 睡眠计划会按设定的星期重复执行，主钥匙托管关系也会持续保留，不需要每天重新设置或重新交接。 【只在设备上】 睡眠计划、App 选择、解锁记录和钥匙状态保存在设备上。该睡了不提供账号系统，不包含广告，也不使用追踪或第三方分析 SDK。 使用控制功能需要允许“屏幕使用时间”访问。附近传递钥匙需要两台支持“附近交互”的 iPhone，并允许本地网络和附近交互权限。用户仍可通过 iOS 系统设置撤销相关授权，或卸载 App。 该睡了不是医疗产品，不用于</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/7d/e0/377de0d6-ebf0-7c95-1520-f7a0c62af8a9/1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/c4/ea/28c4ea57-c853-2e1b-c30e-025c324483fc/4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/de/dd/ebdeddaf-2de3-8b3d-30ff-b2ecf998e899/6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/cc/0a/a8cc0a0e-2a26-e528-e5b3-fd8dd355132d/3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/e4/3c/b4e43c32-5ec8-8a32-9b7c-58a1792d0f04/5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/05/a7/9b05a75a-f8d1-5053-6c6b-4f8c0f71d17b/2.png/320x480bb.jpg" />]]></content>
+</p><h2>应用描述</h2><p>总说再刷五分钟，却又不知不觉熬到深夜？ 睡觉了不是又一个提醒你早点睡的闹钟。它会在你设定的睡觉时间到来后，暂停容易让你停不下来的 App，让“放下手机”真正发生。 【到点自动暂停】 选择需要控制的 App，设置睡觉和恢复时间。到点后自动暂停，早晨自动恢复。 【两次机会】 临时想继续使用，需要完成一次凭感觉计时的挑战。第一把钥匙可解锁 10 分钟，第二把只有 5 分钟。机会越来越少，可用时间也越来越短。 【今晚不再解锁】 如果你已经决定按时睡觉，可以选择强制锁定模式。睡觉时间到来后，不再提供 App 内解锁入口，直到早晨恢复。 【碰一碰，交出钥匙】 把主钥匙交给信任的人保管。需要继续使用时，由你发起取回，对方决定归还主钥匙，或发放 10 分钟、5 分钟临时钥匙。两台 iPhone 轻轻碰一下，钥匙就会自动过去，无需蓝牙配对。 【每天自动执行】 睡眠计划会按设定的星期重复执行，主钥匙托管关系也会持续保留，不需要每天重新设置或重新交接。 【只在设备上】 睡眠计划、App 选择、解锁记录和钥匙状态保存在设备上。该睡了不提供账号系统，不包含广告，也不使用追踪或第三方分析 SDK。 使用控制功能需要允许“屏幕使用时间”访问。附近传递钥匙需要两台支持“附近交互”的 iPhone，并允许本地网络和附近交互权限。用户仍可通过 iOS 系统设置撤销相关授权，或卸载 App。 睡觉了不是医疗产品，不用于</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/7d/e0/377de0d6-ebf0-7c95-1520-f7a0c62af8a9/1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/c4/ea/28c4ea57-c853-2e1b-c30e-025c324483fc/4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/de/dd/ebdeddaf-2de3-8b3d-30ff-b2ecf998e899/6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/cc/0a/a8cc0a0e-2a26-e528-e5b3-fd8dd355132d/3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/e4/3c/b4e43c32-5ec8-8a32-9b7c-58a1792d0f04/5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/05/a7/9b05a75a-f8d1-5053-6c6b-4f8c0f71d17b/2.png/320x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Appvantage Sales Analytics PRO]]></title>
@@ -2874,7 +3193,7 @@ feedId:157007849019630592+userId:73658201673997312
 </b><span>[¥8.00 ~ ¥15.00]</span>）
 </h2><h2>全部价格信息</h2><p>
   价格：<b>¥8.00</b>
-</p><h2>应用描述</h2><p>Fractal Bits是一种鼓合成器，由分形算法创建了超过40亿个独特的声音。每组12个鼓对应8个字符的代码（您可以将其保存/复制/粘贴为纯文本）。功能：音频单元扩展（ AUv3 ） ，音频总线；使用三个按钮搜索新声音：下一个随机设置、编辑代码、上一个设置；用于现场鼓击的三种类型的键盘：屏幕按钮、PC键盘、MIDI输入；几个处理参数+通过MIDI控制；实时音频录制</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/77/26/68/77266832-796c-60ec-aeb7-a1f0b5c47b33/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a0/07/a8/a007a815-4dd2-3251-b419-615dc481655d/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b1/46/f1/b146f119-64fe-5352-dfa8-99fd10af183b/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f4/d1/f5/f4d1f545-be9f-526a-cfe8-51a3037124a6/pr_source.png/552x414bb.png" />]]></content>
+</p><h2>应用描述</h2><p>Fractal Bits 是一款鼓合成器，具有由分形算法创建的超过 40 亿种独特声音。每组 12 个鼓对应一个 8 个字符的代码（您可以将其保存/复制/粘贴为纯文本）。特点：音频单元扩展（AUv3）、Audiobus；使用三个按钮搜索新声音：下一个随机集、编辑代码、上一个集；三种现场击鼓键盘：屏幕按钮、PC 键盘、MIDI 输入；多个处理参数+通过MIDI控制；实时音频录制为 WAV（32 位）；导出到：WAV（一个文件或一组）、SunVox（一个文件中的样本 + 效果）、文本剪辑</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/77/26/68/77266832-796c-60ec-aeb7-a1f0b5c47b33/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a0/07/a8/a007a815-4dd2-3251-b419-615dc481655d/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b1/46/f1/b146f119-64fe-5352-dfa8-99fd10af183b/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f4/d1/f5/f4d1f545-be9f-526a-cfe8-51a3037124a6/pr_source.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mocol长截图 - 聊天记录长截屏拼接工具]]></title>
@@ -2952,7 +3271,7 @@ feedId:157007849019630592+userId:73658201673997312
 </b><span>[¥8.00 ~ ¥15.00]</span>）
 </h2><h2>全部价格信息</h2><p>
   价格：<b>¥8.00</b>
-</p><h2>应用描述</h2><p>屡获殊荣的儿童互动童话故事！体验世界著名的童话故事“三只小猪”，这是一个精心设计的互动故事。您的孩子以全新的方式阅读、聆听、玩耍和发现故事。无广告 无应用内购买 完全离线工作 - 无需 Wi-Fi 或互联网 屡获殊荣的儿童应用程序 在 App Store 中下载超过 50,000 次 在 n-tv、WDR、COMPUTER BILD 和 Viel Spaß 上精选 2017 年全球电子书奖金奖得主 两届 2017 年 Show Your App Awards 获奖者 获得 GIGA-Maus 奖提名2017 年独立人士提名</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/fa/00/7bfa00d6-2ea1-2a26-6bce-e02dc84ddae9/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/f7/bb/f0f7bb6e-0cc5-aad1-a6b8-78f164262dcf/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/74/0a/c8740a81-a8c0-c2bf-a77e-275646fc4afd/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/3f/bd/3c3fbdf7-da45-4731-a8f3-090258a21bcc/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/2f/13/e02f1300-df27-6496-4755-82790c6243de/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/e0/78/dee078a9-4c1d-7957-2f4e-04de2f20c3ce/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/4e/1a/8f4e1af8-0cfd-7360-6769-e1b2e9747e6a/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/aa/76/2aaa76f4-0262-a2c7-3ffb-cd44fdf289f3/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/42/41/244241d3-4f28-271f-60ad-17261c28d5b5/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/97/c8/3c97c8bd-9b05-0169-e40b-a8cd1a0a0eb4/pr_source.jpg/552x414bb.jpg" />]]></content>
+</p><h2>应用描述</h2><p>屡获殊荣的儿童互动童话故事！体验世界著名的童话故事“三只小猪”，这是一个精心设计的互动故事。您的孩子以全新的方式阅读、聆听、玩耍和发现故事。无广告 无应用内购买 完全离线工作 - 无需 Wi-Fi 或互联网 屡获殊荣的儿童应用程序在 App Store 中的下载次数超过 50,000 次在 n-tv、WDR、COMPUTER BILD 和 Viel Spaß 上精选 2017 年全球电子书奖金奖得主 两次荣获 2017 年 Show Your App Awards 奖 提名 GIGA-Maus 奖2017 年独立人士提名</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/fa/00/7bfa00d6-2ea1-2a26-6bce-e02dc84ddae9/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/f7/bb/f0f7bb6e-0cc5-aad1-a6b8-78f164262dcf/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/74/0a/c8740a81-a8c0-c2bf-a77e-275646fc4afd/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/3f/bd/3c3fbdf7-da45-4731-a8f3-090258a21bcc/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/2f/13/e02f1300-df27-6496-4755-82790c6243de/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/e0/78/dee078a9-4c1d-7957-2f4e-04de2f20c3ce/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/4e/1a/8f4e1af8-0cfd-7360-6769-e1b2e9747e6a/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/aa/76/2aaa76f4-0262-a2c7-3ffb-cd44fdf289f3/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/42/41/244241d3-4f28-271f-60ad-17261c28d5b5/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/97/c8/3c97c8bd-9b05-0169-e40b-a8cd1a0a0eb4/pr_source.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[快捷方式管理Pro - 应用盒子]]></title>
@@ -3088,7 +3407,7 @@ feedId:157007849019630592+userId:73658201673997312
 </b><span>[¥8.00 ~ ¥15.00]</span>）
 </h2><h2>全部价格信息</h2><p>
   价格：<b>¥8.00</b>
-</p><h2>应用描述</h2><p>Low Poly Synth 是一个具有数十亿种独特音色的旋律氛围声音生成器。该应用程序基于 Fractal Bits、Relic Waves 和 Relic Flow 的修改合成算法构建，并添加了纯音生成代码。声音空间分为 4294967296 个预设，每个预设对应一组 8 个样本纹理。单个样本的音量可以在顶部面板中或通过 MIDI（设置 -> MIDI 映射）进行调整。底部面板是一个经典的音乐键盘，用于为组中的声音设置音符。每个音符同时触发所有 8 个样本 - 它们一起触发</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/aa/66/75aa6664-b5bb-c69e-be4b-1c700120425f/2208x1242_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/cc/19/3dcc195e-733b-4ff6-1a38-4533eda4fe79/2208x1242_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/bd/3e/5ebd3e5e-6cb9-8f84-7edd-ebc1b3eb1250/2208x1242_03.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/87/ef/b287efdd-b939-764c-4126-f39dc0d31a52/2732x2048_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/d6/57/f1d65734-4391-4c60-e083-bc68b31f1ef0/2732x2048_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/d2/1e/7cd21e05-c2eb-89f5-b97c-855daf3abdc2/2732x2048_03.png/360x480bb.jpg" />]]></content>
+</p><h2>应用描述</h2><p>Low Poly Synth 是一款具有数十亿种独特音色的旋律氛围声音生成器。该应用程序基于 Fractal Bits、Relic Waves 和 Relic Flow 的改进合成算法构建，并添加了纯音生成代码。声音空间分为 4294967296 个预设，每个预设对应一组 8 个样本纹理。单个样本的音量可以在顶部面板中或通过 MIDI（设置 -> MIDI 映射）进行调整。底部面板是一个经典的音乐键盘，用于为组中的声音设置音符。每个音符同时触发所有 8 个样本 - 它们一起触发</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/aa/66/75aa6664-b5bb-c69e-be4b-1c700120425f/2208x1242_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/cc/19/3dcc195e-733b-4ff6-1a38-4533eda4fe79/2208x1242_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/bd/3e/5ebd3e5e-6cb9-8f84-7edd-ebc1b3eb1250/2208x1242_03.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/87/ef/b287efdd-b939-764c-4126-f39dc0d31a52/2732x2048_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/d6/57/f1d65734-4391-4c60-e083-bc68b31f1ef0/2732x2048_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/d2/1e/7cd21e05-c2eb-89f5-b97c-855daf3abdc2/2732x2048_03.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[时钟历书]]></title>
@@ -3330,7 +3649,7 @@ feedId:157007849019630592+userId:73658201673997312
 </b><span>[¥8.00 ~ ¥68.00]</span>）
 </h2><h2>全部价格信息</h2><p>
   价格：<b>¥22.00</b>
-</p><h2>应用描述</h2><p>MotifPilot 通过清晰的音乐控件构建的可编辑 MIDI 启动器帮助制作人克服空白的 DAW 会话。选择风格预设、调性、音阶、速度、小节数、密度、和声细节、人性化和摇摆。 MotifPilot 的本地规则驱动引擎构建了一个包含和弦、贝斯、琶音和旋律的四部分 MIDI 草图。预览想法、塑造零件、尝试另一种变化，然后导出标准 MIDI 文件以共享或导入到兼容的 DAW。专为电子音乐制作人、词曲作者制作人和移动制作人而设计：从清晰的 mu 中生成 4、8 或 16 小节 MIDI 草图启动器</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/fa/4f/04fa4f81-9f0d-47f1-4004-2094a0cf48ac/motifpilot-1.0.6-01-four-track-midi.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/97/5e/d0975ec4-a7e1-b63d-03b8-26c6ac9b16dc/motifpilot-1.0.6-02-library.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/c8/41/15c841ea-5bff-1c36-663a-9430c158e5b4/motifpilot-1.0.6-03-midi-export.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/0d/8e/d10d8ec1-712d-45ff-1098-b3b1f9b80e2d/motifpilot-1.0.6-01-four-track-midi.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/dd/ca/6eddca00-d698-7c85-48bc-a25ac851e80a/motifpilot-1.0.6-02-library.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/a8/ce/30a8ce1a-d94a-c2f8-e51f-33bedb7f8eb0/motifpilot-1.0.6-03-midi-export.png/360x480bb.jpg" />]]></content>
+</p><h2>应用描述</h2><p>MotifPilot 通过清晰的音乐控件构建的可编辑 MIDI 启动器帮助制作人克服空白的 DAW 会话。选择风格预设、调、音阶、速度、小节数、密度、和声细节、人性化和摇摆。 MotifPilot 的本地规则驱动引擎构建了一个由和弦、贝司、琶音和旋律组成的四部分 MIDI 草图。预览想法、塑造零件、尝试另一种变化，然后导出标准 MIDI 文件以共享或导入到兼容的 DAW。专为电子音乐制作人、词曲作者制作人和移动制作人而设计：从清晰的 mu 中生成 4、8 或 16 小节 MIDI 草图起始曲</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/fa/4f/04fa4f81-9f0d-47f1-4004-2094a0cf48ac/motifpilot-1.0.6-01-four-track-midi.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/97/5e/d0975ec4-a7e1-b63d-03b8-26c6ac9b16dc/motifpilot-1.0.6-02-library.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/c8/41/15c841ea-5bff-1c36-663a-9430c158e5b4/motifpilot-1.0.6-03-midi-export.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/0d/8e/d10d8ec1-712d-45ff-1098-b3b1f9b80e2d/motifpilot-1.0.6-01-four-track-midi.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/dd/ca/6eddca00-d698-7c85-48bc-a25ac851e80a/motifpilot-1.0.6-02-library.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/a8/ce/30a8ce1a-d94a-c2f8-e51f-33bedb7f8eb0/motifpilot-1.0.6-03-midi-export.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZAP：AI足球预测]]></title>
@@ -3586,7 +3905,7 @@ feedId:157007849019630592+userId:73658201673997312
 </b><span>[免费 ~ ¥38.00]</span>）
 </h2><h2>全部价格信息</h2><p>
   价格：<b>免费</b>
-</p><h2>应用描述</h2><p>Claudio 是一款简洁、专注的录音机，用于捕捉语音笔记、想法、对话和日常音频时刻。一键开始录音，需要时暂停，继续现有录音，修剪音频，重命名文件，并通过简单的工作流程导出录音。 Claudio 让您的录音库易于浏览、搜索、播放和管理。无论您是保存快速想法、录制会议、练习音乐、捕捉采访还是保存个人语音笔记，Claudio 都能为您提供必需品，而不会妨碍您。功能 一键录音 暂停和恢复</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/9a/52/3c9a5274-afb6-52f8-d16b-3f9f63cb4c7c/1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/c2/cc/05c2cc24-d23b-924b-c6c1-02bb3e108166/2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/d8/9d/4fd89dad-27be-2be7-d4bd-09b3680fc3f3/3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/02/41/0b0241ed-8bc4-e549-e8b0-a44bc2bbdae6/5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/d5/da/1bd5da9f-9fdd-caf4-410c-51469a9a7edc/4.png/320x480bb.jpg" />]]></content>
+</p><h2>应用描述</h2><p>Claudio 是一款简洁、专注的录音机，用于捕捉语音笔记、想法、对话和日常音频时刻。一键开始录音，需要时暂停，继续现有录音，修剪音频，重命名文件，并通过简单的工作流程导出录音。 Claudio 让您的录音库易于浏览、搜索、播放和管理。无论您是要保存快速想法、录制会议、练习音乐、捕捉采访还是保留个人语音笔记，Claudio 都能为您提供必需品，而不会妨碍您。功能 一键录音 暂停和恢复</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/9a/52/3c9a5274-afb6-52f8-d16b-3f9f63cb4c7c/1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/c2/cc/05c2cc24-d23b-924b-c6c1-02bb3e108166/2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/d8/9d/4fd89dad-27be-2be7-d4bd-09b3680fc3f3/3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/02/41/0b0241ed-8bc4-e549-e8b0-a44bc2bbdae6/5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/d5/da/1bd5da9f-9fdd-caf4-410c-51469a9a7edc/4.png/320x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Clean Gallery: 智能清理]]></title>
@@ -3772,7 +4091,7 @@ feedId:157007849019630592+userId:73658201673997312
   </li><li>
     Full Access：<b>¥38.00</b>
   </li>
-</ul><h2>应用描述</h2><p>控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一处跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/79/a6/a479a6ba-5d7c-85b4-39df-e531525a46ff/1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/fd/92/92fd920a-a727-7e69-6bd3-c57445871a1e/5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/8c/7c/be8c7c69-78f3-ad40-d464-5d66c95515de/2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/df/8a/95df8ab1-d285-8c13-0e83-f6ea187ec3d1/4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/85/ec/6485ec72-a193-a390-b675-3f31a8eb5477/3.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/28/38/2b2838e1-9f9a-4ca9-0b67-223f562c8993/1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/de/4b/dede4b7c-1e5e-03ff-5701-7a9890fbd358/2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/c5/34/68c534b1-e203-877c-70c7-659d3fb81a84/3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/b5/f6/c8b5f6c1-e4b3-4bbe-51ed-27f9128864ed/4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/75/f0/d975f0c2-80a7-b6c3-580a-f5d57474a2a9/5.jpg/576x768bb.jpg" />]]></content>
+</ul><h2>应用描述</h2><p>控制您的经常性支出。订阅可帮助您跟踪您支付的每一项服务——从流媒体和音乐到健身房会员资格和应用程序续订——所有这些都在一个美丽而简单的地方。停止为您忘记的事情付费。了解即将发生的事情、到期时间以及每个月的实际费用。功能 ◆ 在一个地方跟踪所有内容 添加所有订阅并一目了然地查看每月和每年的总支出。 ◆ 智能提醒 在计费之前收到通知，这样续订就不会让您措手不及——非常适合在免费试用结束之前取消。 ◆ 免费试用</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/79/a6/a479a6ba-5d7c-85b4-39df-e531525a46ff/1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/fd/92/92fd920a-a727-7e69-6bd3-c57445871a1e/5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/8c/7c/be8c7c69-78f3-ad40-d464-5d66c95515de/2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/df/8a/95df8ab1-d285-8c13-0e83-f6ea187ec3d1/4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/85/ec/6485ec72-a193-a390-b675-3f31a8eb5477/3.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/28/38/2b2838e1-9f9a-4ca9-0b67-223f562c8993/1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/de/4b/dede4b7c-1e5e-03ff-5701-7a9890fbd358/2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/c5/34/68c534b1-e203-877c-70c7-659d3fb81a84/3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/b5/f6/c8b5f6c1-e4b3-4bbe-51ed-27f9128864ed/4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/75/f0/d975f0c2-80a7-b6c3-580a-f5d57474a2a9/5.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Virtual-Fridge]]></title>
@@ -4424,7 +4743,7 @@ feedId:157007849019630592+userId:73658201673997312
 </b><span>[¥48.00 ~ ¥98.00]</span>）
 </h2><h2>全部价格信息</h2><p>
   价格：<b>¥58.00</b>
-</p><h2>应用描述</h2><p>欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏源于希腊数学家欧几里得的算法，该算法涉及使用两个数字的最大公约数将匹配项尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里得音序器是自动生成复杂音乐序列的好方法，无需先验</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2c/f6/b8/2cf6b83a-57f0-fe2a-eced-14ac02f1e93d/0ed6da95-0037-49b7-96d0-f607240607a0_Screen_Shot_2022-01-24_at_07.43.11.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/10/3c/c8/103cc88c-b903-0b60-9777-5a8471a47db9/0ec45873-bf14-4478-8ede-cf2199426610_Screen_Shot_2022-01-24_at_07.43.55.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/39/8b/89/398b8913-8f1d-aebc-74c4-e46787795296/022437b9-5122-4d28-9fb0-2a381af933c5_Screen_Shot_2022-01-27_at_11.40.56.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/46/dc/0746dc40-2254-fa76-65ae-7b37d513a5f5/00add8c8-33ce-4d16-a920-31f70096c4d4_Screen_Shot_2022-01-28_at_10.17.39.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ab/1d/e2/ab1de236-be96-22c9-6ddc-1823dbc41ce1/330e6445-a01a-49fc-b1ad-41f5e091980d_Screen_Shot_2022-01-27_at_11.41.40.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/41/cf/cc41cfeb-6187-a0df-2f49-ec251efdb057/0a0a4406-c33c-49d9-ba3d-c453fac83626_Screen_Shot_2022-01-24_at_06.57.25.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/9b/4b/6e9b4b8c-c066-a150-1ea8-991a8e664d93/cf2eeca0-a037-4294-a019-1cdf52c820d0_Screen_Shot_2022-01-24_at_06.59.20.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0e/79/5d/0e795d56-f818-a4c0-3c95-65b4b931bfb2/f2a10005-51c6-4518-952c-91644772c665_Screen_Shot_2022-01-24_at_07.00.26.png/552x414bb.png" />]]></content>
+</p><h2>应用描述</h2><p>欧几里德音序器是经典步进音序器的替代版本，在模块化领域非常流行。它基于计算机科学家戈德弗里德·图桑 (Godfried Toussaint) 于 2004 年开发的欧几里得节奏。欧几里得节奏起源于希腊数学家欧几里得算法，该算法涉及使用两个数字的最大公约数将命中数尽可能均匀地分布在一组计时分区中。实际上，这实际上比您想象的要简单，欧几里德音序器是自动生成复杂音乐序列的好方法，无需先验</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2c/f6/b8/2cf6b83a-57f0-fe2a-eced-14ac02f1e93d/0ed6da95-0037-49b7-96d0-f607240607a0_Screen_Shot_2022-01-24_at_07.43.11.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/10/3c/c8/103cc88c-b903-0b60-9777-5a8471a47db9/0ec45873-bf14-4478-8ede-cf2199426610_Screen_Shot_2022-01-24_at_07.43.55.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/39/8b/89/398b8913-8f1d-aebc-74c4-e46787795296/022437b9-5122-4d28-9fb0-2a381af933c5_Screen_Shot_2022-01-27_at_11.40.56.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/46/dc/0746dc40-2254-fa76-65ae-7b37d513a5f5/00add8c8-33ce-4d16-a920-31f70096c4d4_Screen_Shot_2022-01-28_at_10.17.39.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ab/1d/e2/ab1de236-be96-22c9-6ddc-1823dbc41ce1/330e6445-a01a-49fc-b1ad-41f5e091980d_Screen_Shot_2022-01-27_at_11.41.40.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/41/cf/cc41cfeb-6187-a0df-2f49-ec251efdb057/0a0a4406-c33c-49d9-ba3d-c453fac83626_Screen_Shot_2022-01-24_at_06.57.25.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/9b/4b/6e9b4b8c-c066-a150-1ea8-991a8e664d93/cf2eeca0-a037-4294-a019-1cdf52c820d0_Screen_Shot_2022-01-24_at_06.59.20.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0e/79/5d/0e795d56-f818-a4c0-3c95-65b4b931bfb2/f2a10005-51c6-4518-952c-91644772c665_Screen_Shot_2022-01-24_at_07.00.26.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VoiceWeaver]]></title>
@@ -4836,7 +5155,7 @@ feedId:157007849019630592+userId:73658201673997312
 </b><span>[免费 ~ ¥38.00]</span>）
 </h2><h2>全部价格信息</h2><p>
   价格：<b>¥8.00</b>
-</p><h2>应用描述</h2><p>在短短 90 天内改变您的身体和思想！欢迎来到 Yoga Yogi，您的健身、灵活性和正念的个人圣地。无论您是完全的初学者还是经验丰富的瑜伽士，我们结构化的 90 天旅程都会引导您日复一日地走上一条变革之路。为什么选择瑜伽士？与随机视频应用程序不同，我们提供渐进的、基于科学的计划，旨在增强力量、减轻压力和提高注意力。主要特点： 结构化的 90 天计划 忘记选择要做什么的麻烦。您的日常流程已为您准备好。通过 3 个不同的关卡，解锁新的挑战</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/07/71/260771e3-2467-52c2-16c8-cc4708d42b80/941_kopyasi_kopyasi__U002813_U0029.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/80/ce/5f80ced2-f1ea-c410-3a05-3de61d1a496b/1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/5f/d3/4e5fd384-735e-0589-e1b0-a8fa4f685d57/2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/d0/d8/96d0d801-2174-127c-e361-f7e7d885a165/941_kopyasi_kopyasi__U002815_U0029.png/320x480bb.jpg" />]]></content>
+</p><h2>应用描述</h2><p>在短短 90 天内改变您的身体和思想！欢迎来到 Yoga Yogi，这里是您健身、灵活性和正念的个人圣地。无论您是完全的初学者还是经验丰富的瑜伽士，我们结构化的 90 天旅程都会引导您日复一日地走上一条变革之路。为什么选择瑜伽士？与随机视频应用程序不同，我们提供渐进的、基于科学的计划，旨在增强力量、减轻压力和提高注意力。主要特点： 结构化的 90 天计划 忘记选择要做什么的麻烦。您的日常流程已为您准备好。通过 3 个不同的关卡，解锁新的挑战</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/07/71/260771e3-2467-52c2-16c8-cc4708d42b80/941_kopyasi_kopyasi__U002813_U0029.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/80/ce/5f80ced2-f1ea-c410-3a05-3de61d1a496b/1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/5f/d3/4e5fd384-735e-0589-e1b0-a8fa4f685d57/2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/d0/d8/96d0d801-2174-127c-e361-f7e7d885a165/941_kopyasi_kopyasi__U002815_U0029.png/320x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[吉他助手]]></title>
@@ -5040,7 +5359,7 @@ feedId:157007849019630592+userId:73658201673997312
   </li><li>
     Quiet Thanks：<b>¥8.00</b>
   </li>
-</ul><h2>应用描述</h2><p>适合分散的思绪和忙碌的日子。 Frido 的 To do cards 专为那些在任务感觉简单、清晰且可控的情况下思考得更好的人而设计。任务空间：在旨在保持工作效率的部分中滑动和规划任务 任务情绪：为任务添加上下文，以便您知道如何执行任务类别：使分散的任务井井有条且易于查找 状态：安静地记录您所做的一切 专注模式：从主屏幕跟踪专注会话 温和的通知：自动根据您的日期和优先级进行调整的提醒 自适应小部件：显示您接下来应该处理的任务，ch</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/b6/48/5ab6487d-48f1-7925-980f-4e01f9711759/09.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/cf/d6/09cfd61f-9016-b8bf-8ffd-0e9d4e28c5f2/01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/29/8c/ea298c28-39e9-1668-dc6b-eb7b772861b2/02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/10/3a/c7103a06-aea1-fa76-3c8d-86895b21b16c/03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/9d/58/419d58d3-6305-a5f0-c313-d82dc1364768/04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/f8/43/e0f8437b-2cb7-76d6-8fe9-318b06a8ced7/06.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ef/4f/ecef4f33-1539-e64e-470d-b1316703dc40/10.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/f3/b6/a5f3b6d4-fda2-c151-7c90-7404699f3360/05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/d8/14/fcd814c4-a926-4b47-d285-fb07f264bd09/07.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/e5/b8/39e5b8b9-f0ea-6ad8-8ad0-15f3358b73d7/08.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/86/35/6c86352b-8f1d-c523-7804-2d3f8f8bb53a/01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/df/ba/ebdfbaa4-575e-db1b-1fba-5fe4ba12735b/03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/df/0c/4adf0c88-6693-e700-60d9-2bf4bc85f903/04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/2c/0e/b72c0e72-b4c2-e562-d8d5-cceead00fad5/02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/cb/d4/30cbd418-5330-b82a-1f78-c223722b330e/05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/63/bf/ae63bfff-8d6d-89d4-0a14-504dd51989ec/06.png/360x480bb.jpg" />]]></content>
+</ul><h2>应用描述</h2><p>适合分散的思绪和忙碌的日子。 Frido 的 To do cards 专为那些在任务简单、清晰且可控的情况下思考得更好的人而设计。任务空间：在旨在保持高效的部分中滑动和规划任务 任务情绪：为任务添加上下文，以便您知道如何执行任务类别：使分散的任务井井有条且易于查找 状态：安静地记录您所做的一切 专注模式：从主屏幕跟踪专注会话 温和的通知：根据您的日期和优先级自动调整的提醒 自适应小部件：显示您接下来应该处理的任务，ch</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/b6/48/5ab6487d-48f1-7925-980f-4e01f9711759/09.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/cf/d6/09cfd61f-9016-b8bf-8ffd-0e9d4e28c5f2/01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/29/8c/ea298c28-39e9-1668-dc6b-eb7b772861b2/02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/10/3a/c7103a06-aea1-fa76-3c8d-86895b21b16c/03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/9d/58/419d58d3-6305-a5f0-c313-d82dc1364768/04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/f8/43/e0f8437b-2cb7-76d6-8fe9-318b06a8ced7/06.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ef/4f/ecef4f33-1539-e64e-470d-b1316703dc40/10.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/f3/b6/a5f3b6d4-fda2-c151-7c90-7404699f3360/05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/d8/14/fcd814c4-a926-4b47-d285-fb07f264bd09/07.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/e5/b8/39e5b8b9-f0ea-6ad8-8ad0-15f3358b73d7/08.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/86/35/6c86352b-8f1d-c523-7804-2d3f8f8bb53a/01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/df/ba/ebdfbaa4-575e-db1b-1fba-5fe4ba12735b/03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/df/0c/4adf0c88-6693-e700-60d9-2bf4bc85f903/04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/2c/0e/b72c0e72-b4c2-e562-d8d5-cceead00fad5/02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/cb/d4/30cbd418-5330-b82a-1f78-c223722b330e/05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/63/bf/ae63bfff-8d6d-89d4-0a14-504dd51989ec/06.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WaveCloud]]></title>

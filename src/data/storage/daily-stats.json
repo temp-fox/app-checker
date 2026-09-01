@@ -1,5 +1,69 @@
 [
   {
+    "timestamp": 1788246060427,
+    "cn": {
+      "total": 9,
+      "price": 8,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 1609414621,
+          "name": "typotypo 照片加文字",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6758899879,
+          "name": "Bill Splitter - 账单分摊",
+          "type": "iap",
+          "detail": "Eternal Boss (Lifetime): ¥58.00 → ¥0.00"
+        },
+        {
+          "id": 1436832183,
+          "name": "羽毛笔 - 今日待办",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1296076444,
+          "name": "央数-央行数据",
+          "type": "price",
+          "detail": "¥18.00 → ¥1.00"
+        },
+        {
+          "id": 618657110,
+          "name": "VideoRecord: Pause & Resume",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6759317655,
+          "name": "Teleprompter - CamScript",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 1193013588,
+          "name": "Math Shot Division",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 773532397,
+          "name": "乘法表 12x12",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6803090506,
+          "name": "Tiny Arcade : Fun Games",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788226963072,
     "cn": {
       "total": 5,
@@ -3207,144 +3271,6 @@
           "name": "计复利计算器",
           "type": "price",
           "detail": "¥15.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787379939968,
-    "cn": {
-      "total": 3,
-      "price": 1,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6801204237,
-          "name": "起了吗",
-          "type": "price",
-          "detail": "¥3.00 → 免费"
-        },
-        {
-          "id": 6780071655,
-          "name": "Intenty: Intention Journal",
-          "type": "iap",
-          "detail": "Lifetime: ¥398.00 → ¥0.00"
-        },
-        {
-          "id": 6779157571,
-          "name": "私密照片保险箱 - Arca",
-          "type": "iap",
-          "detail": "Arca Premium Lifetime: ¥148.00 → ¥68.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787372693114,
-    "cn": {
-      "total": 8,
-      "price": 6,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6781997361,
-          "name": "LUT工坊：相机风格",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6759631839,
-          "name": "抽签大王",
-          "type": "iap",
-          "detail": "抽签大王专业版: ¥8.00 → ¥0.00"
-        },
-        {
-          "id": 6756459946,
-          "name": "中英输入法",
-          "type": "iap",
-          "detail": "永久会员: ¥258.00 → ¥171.00"
-        },
-        {
-          "id": 6786425249,
-          "name": "Cinder - compress videos",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6787141171,
-          "name": "Velora Player: Video & Audio",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6749509377,
-          "name": "简忆：Anki记忆卡片，AI间隔复习",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6747093581,
-          "name": "GitHubba - Discover Repos",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6774022961,
-          "name": "Findit - Search Your Screen",
-          "type": "price",
-          "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787365793551,
-    "cn": {
-      "total": 7,
-      "price": 2,
-      "iap": 5,
-      "apps": [
-        {
-          "id": 6790564711,
-          "name": "Photos 2 PDF Pro",
-          "type": "price",
-          "detail": "¥68.00 → ¥22.00"
-        },
-        {
-          "id": 430798174,
-          "name": "HazeOver • 分心调光器",
-          "type": "price",
-          "detail": "¥68.00 → ¥48.00"
-        },
-        {
-          "id": 629019487,
-          "name": "Remote, Mouse & Keyboard",
-          "type": "iap",
-          "detail": "Remote Mouse Pro - forever: ¥148.00 → ¥68.00"
-        },
-        {
-          "id": 6762709553,
-          "name": "图梦抠图:消除路人图片去水印一键抠图修图大师",
-          "type": "iap",
-          "detail": "图梦终身会员: ¥128.00 → ¥88.00"
-        },
-        {
-          "id": 6762709553,
-          "name": "图梦抠图:消除路人图片去水印一键抠图修图大师",
-          "type": "iap",
-          "detail": "图梦永久会员: ¥128.00 → ¥88.00"
-        },
-        {
-          "id": 680170305,
-          "name": "7 Minute Workout Challenge",
-          "type": "iap",
-          "detail": "Bonus Workout Pack 4: ¥15.00 → ¥0.00"
-        },
-        {
-          "id": 932191687,
-          "name": "KORG Module Pro",
-          "type": "iap",
-          "detail": "Petrichor: ¥68.00 → ¥0.00"
         }
       ]
     }
