@@ -2,6 +2,127 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 349258523,
+      "name": {
+        "cn": "CTC-AE+"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788263128525,
+      "_discountType": "app"
+    },
+    {
+      "id": 1138626916,
+      "name": {
+        "cn": "Greek English Lexicon - LSJ"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788263117535,
+      "_discountType": "app"
+    },
+    {
+      "id": 1335992423,
+      "name": {
+        "cn": "Modern English Etymology"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788263117535,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761693183,
+      "name": {
+        "cn": "Raven - Markdown Notes"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788263117727,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779038691,
+      "name": {
+        "cn": "笨整理"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788263117787,
+      "_discountType": "app"
+    },
+    {
+      "id": 6769902885,
+      "name": {
+        "cn": "Nebulis"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788263117787,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755762617,
+      "name": {
+        "cn": "Magic Snap - AI 魔法相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788263117787,
+      "_discountType": "app"
+    },
+    {
+      "id": 6449596508,
+      "name": {
+        "cn": "HashCamera - Folder Camera"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788263117787,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788661661,
+      "name": {
+        "cn": "背诵尺-课文古诗记忆复习2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788263125829,
+      "_discountType": "app"
+    },
+    {
+      "id": 6747948514,
+      "name": {
+        "cn": "CatalogueMessier"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788263125829,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789280991,
+      "name": {
+        "cn": "页读计划-读书进度与页码安排2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788263128451,
+      "_discountType": "app"
+    },
+    {
       "id": 618657110,
       "name": {
         "cn": "VideoRecord: Pause & Resume"
@@ -39868,8 +39989,8 @@
       "name": {
         "cn": "EE35 Film Cam Aesthetics Dispo"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1781149210064,

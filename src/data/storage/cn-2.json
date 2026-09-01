@@ -1,4 +1,156 @@
 {
+  "1403919533": {
+    "name": "MWeb Pro",
+    "trackName": "MWeb Pro",
+    "maxPriceInfo": {
+      "price": 228,
+      "formattedPrice": "¥228.00"
+    },
+    "minPriceInfo": {
+      "price": 128,
+      "formattedPrice": "¥128.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781365367538,
+          "price": 228,
+          "formattedPrice": "¥228.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1780803388344,
+          "price": 128,
+          "formattedPrice": "¥128.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1773217905447,
+          "price": 228,
+          "formattedPrice": "¥228.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/mweb-pro/id1403919533?mt=12&uo=4",
+    "description": "MWeb 诞生于 2015 年，是一款专注于 Markdown 的写作、记笔记和发布软件。如果你喜欢 Markdown 或者文字写作，非常建议你试试 MWeb。 这是 MWeb Pro，比 MWeb 只多了一个静态网站生成功能。 简单来说，MWeb 是由一个完善而稳定的编辑器、一个管理文档的文件夹模式、一个专门用于笔记的文档库模式和一个文档发布和分享功能集构成，共四个模块。MWeb 的软件的特色是针对每个平台，都会选择平台原生的技术，在 macOS 上使用 AppKit 构建，iOS/iPadOS 上是使用 UIKit。下面都是对这四个模块的简单介绍，如果感兴趣，可以继续阅读。 MWeb 的编辑器 对于写作和笔记来说，编辑器是一切的基础，以下是一些编辑器的关键特性： 基于最流行的 CommonMark 语法标准和 GitHub Flavored Markdown (GFM) 扩展语法，支持如 TOC、表格、代码块、数学公式、任务列表、脚注等语法。 完整的显示 Markdown 文档的文本，不会有任何的删减。我们认为这是保持简单和高效的关键。 编辑器中可以直接显示图片，支持 jpg、png、gif、webP、HEIC 等格式 编辑器中可以预览数学公式、mermaid 和 Echarts 的画图。 可以设置自己喜欢的一种字体或多种字体来写作。 可以选择 11 种亮主题和 21 种暗主题，也支持自定义主题。 有方便输入 Markdown 语法的菜单，iOS 中还会提供专门的 Markdown 语法键盘。 有方便的 Markdown 表格语法生成和格式化的工具。 可以查看 Markdown 文档的大纲和字数，macOS 版本还支持固定在编辑器的左边或右边。 可以预览 Markdown 文档，支持精准的边编辑边预览。 MWeb 的文件夹模式 Markdown 的第一个需求就是创建和编辑 Markdown 文档，而 MWeb 的文件夹模式就是做这件事的。它支持以下特性： 创建 Markdown、Textbundle 文档，或者简单地打开来编辑。 引入一个有 Markdown 文档的文件夹到 MWeb 的文件夹模式中，MWeb 会提供 Markdown 文档的管理、全文搜索、复制粘贴插入图片、引用的图片的统一存储等实用的功能。 针对每个平台的使用习惯进行深度优化。macOS 中为经典的双栏设计，左栏为引入的文件夹的树形结构，右栏为打开的文档。支持多窗口、多标签等 macOS 系统的特性，可同时打开多个文档。iPadOS 中支持多窗口，工具栏等特性。 iPadOS/iOS 版本支持引入 Dropbox 的文件夹。 支持管理 Jekyll 或 hexo 等静态博客的 Markdown 文档，使用方法很简单，就是引入 Markdown 文档所在的文件夹就可以了。 MWeb 的文档库 Markdown 如此的好用，所以记笔记也是非常大的需求。当然，你可以使用文件夹模式，引入一个文件夹来记笔记，这种方式也非常好并且易于分享。所以为什么还会单独做一个文档库模式呢？主要是文档库模式有以下特性： 不需要考虑文件名，标题和存储位置，新增笔记就是的编辑器，直接自由输入和记录。 用分类树和标签管理笔记，单个笔记可以归类为多个分类，为笔记设置分类时更轻松。 整理笔记更方便，移动分类和笔记时，重命名分类时都互不影响，不需要担心笔记之间的关联不正确，笔记内的图片和附件引用位置不正确等等。 完整的跨设备同步，使用 iCloud CloudKit 技术实现，macOS、iPadOS 和 iOS 都支持。 文档库遵从“本地优先”原则，统一存储到一个文件夹内，管理和备份都很方便。就算你使用 iCloud 同步，也能把文档库完整地备份在本地。 把整个分类的笔记导出为 PDF 或者 Epub 电子书。 macOS 版的 MWeb Pro 还支持把分类生成静态博客，生成的博客中完整支持数学公式、mermaid 的画图等特性。让你以非常简单的方式就能创建一个自己的博客。 发布、图片上传和导出等特性 把文档或笔记发布到 Wordpress、Metaweblog API 、Evernote、Blogger、Tumblr、语雀、少数派 Matrix、Ghost 和 Medium，除了 Medium 外都支持更新已发布文档。发布时会自动上传插入到文档中的图片。 把文档或笔记内的图片上传到 imgur、七牛云、SM.MS、腾讯云 COS、又拍云、阿里云 OSS、自定义 API 等。 把文档或笔记导出为 PDF，macOS 版在导出时支持生成目录（Table of Contents）。 把文档或笔记导出为 Epub 或图片。 希望您能喜欢 MWeb！",
+    "fullDescription": "MWeb 诞生于 2015 年，是一款专注于 Markdown 的写作、记笔记和发布软件。如果你喜欢 Markdown 或者文字写作，非常建议你试试 MWeb。 这是 MWeb Pro，比 MWeb 只多了一个静态网站生成功能。 简单来说，MWeb 是由一个完善而稳定的编辑器、一个管理文档的文件夹模式、一个专门用于笔记的文档库模式和一个文档发布和分享功能集构成，共四个模块。MWeb 的软件的特色是针对每个平台，都会选择平台原生的技术，在 macOS 上使用 AppKit 构建，iOS/iPadOS 上是使用 UIKit。下面都是对这四个模块的简单介绍，如果感兴趣，可以继续阅读。 MWeb 的编辑器 对于写作和笔记来说，编辑器是一切的基础，以下是一些编辑器的关键特性： 基于最流行的 CommonMark 语法标准和 GitHub Flavored Markdown (GFM) 扩展语法，支持如 TOC、表格、代码块、数学公式、任务列表、脚注等语法。 完整的显示 Markdown 文档的文本，不会有任何的删减。我们认为这是保持简单和高效的关键。 编辑器中可以直接显示图片，支持 jpg、png、gif、webP、HEIC 等格式 编辑器中可以预览数学公式、mermaid 和 Echarts 的画图。 可以设置自己喜欢的一种字体或多种字体来写作。 可以选择 11 种亮主题和 21 种暗主题，也支持自定义主题。 有方便输入 Markdown 语法的菜单，iOS 中还会提供专门的 Markdown 语法键盘。 有方便的 Markdown 表格语法生成和格式化的工具。 可以查看 Markdown 文档的大纲和字数，macOS 版本还支持固定在编辑器的左边或右边。 可以预览 Markdown 文档，支持精准的边编辑边预览。 MWeb 的文件夹模式 Markdown 的第一个需求就是创建和编辑 Markdown 文档，而 MWeb 的文件夹模式就是做这件事的。它支持以下特性： 创建 Markdown、Textbundle 文档，或者简单地打开来编辑。 引入一个有 Markdown 文档的文件夹到 MWeb 的文件夹模式中，MWeb 会提供 Markdown 文档的管理、全文搜索、复制粘贴插入图片、引用的图片的统一存储等实用的功能。 针对每个平台的使用习惯进行深度优化。macOS 中为经典的双栏设计，左栏为引入的文件夹的树形结构，右栏为打开的文档。支持多窗口、多标签等 macOS 系统的特性，可同时打开多个文档。iPadOS 中支持多窗口，工具栏等特性。 iPadOS/iOS 版本支持引入 Dropbox 的文件夹。 支持管理 Jekyll 或 hexo 等静态博客的 Markdown 文档，使用方法很简单，就是引入 Markdown 文档所在的文件夹就可以了。 MWeb 的文档库 Markdown 如此的好用，所以记笔记也是非常大的需求。当然，你可以使用文件夹模式，引入一个文件夹来记笔记，这种方式也非常好并且易于分享。所以为什么还会单独做一个文档库模式呢？主要是文档库模式有以下特性： 不需要考虑文件名，标题和存储位置，新增笔记就是的编辑器，直接自由输入和记录。 用分类树和标签管理笔记，单个笔记可以归类为多个分类，为笔记设置分类时更轻松。 整理笔记更方便，移动分类和笔记时，重命名分类时都互不影响，不需要担心笔记之间的关联不正确，笔记内的图片和附件引用位置不正确等等。 完整的跨设备同步，使用 iCloud CloudKit 技术实现，macOS、iPadOS 和 iOS 都支持。 文档库遵从“本地优先”原则，统一存储到一个文件夹内，管理和备份都很方便。就算你使用 iCloud 同步，也能把文档库完整地备份在本地。 把整个分类的笔记导出为 PDF 或者 Epub 电子书。 macOS 版的 MWeb Pro 还支持把分类生成静态博客，生成的博客中完整支持数学公式、mermaid 的画图等特性。让你以非常简单的方式就能创建一个自己的博客。 发布、图片上传和导出等特性 把文档或笔记发布到 Wordpress、Metaweblog API 、Evernote、Blogger、Tumblr、语雀、少数派 Matrix、Ghost 和 Medium，除了 Medium 外都支持更新已发布文档。发布时会自动上传插入到文档中的图片。 把文档或笔记内的图片上传到 imgur、七牛云、SM.MS、腾讯云 COS、又拍云、阿里云 OSS、自定义 API 等。 把文档或笔记导出为 PDF，macOS 版在导出时支持生成目录（Table of Contents）。 把文档或笔记导出为 Epub 或图片。 希望您能喜欢 MWeb！",
+    "summaryDescription": "MWeb 诞生于 2015 年，是一款专注于 Markdown 的写作、记笔记和发布软件。如果你喜欢 Markdown 或者文字写作，非常建议你试试 MWeb。 这是 MWeb Pro，比 MWeb 只多了一个静态网站生成功能。 简单来说，MWeb 是由一个完善而稳定的编辑器、一个管理文档的文件夹模式、一个专门用于笔记的文档库模式和一个文档发布和分享功能集构成，共四个模块。MWeb 的软件的特色是针对每个平台，都会选择平台原生的技术，在 macOS 上使用 AppKit 构建，iOS/iPadOS 上是使用 UIKit。下面都是对这四个模块的简单介绍，如果感兴趣，可以继续阅读。 MWeb 的编辑器 对于写作和笔记来说，编辑器是一切的基础，以下是一些编辑器的关键特性： 基于最流行的 CommonMark 语法标准和 GitHub Flavored Markdown (GFM) 扩展语法，支持如 TOC、表格、代码块、数学公式、任务列表、脚注等语法。 完整的显示 Markdown 文档的文本，不会有任何的删减。我们认为这是保持简单和高效的关键。 编辑器中可以直接显示图片，支持 jpg、png、gif、webP、HEIC 等格式 编辑器中可以预览数学公式、mermaid 和 Echarts 的画图。 可以设置自己喜欢的一种字体或多种字体来写作。 可以选择 11 种亮主题和 21 种暗主题，也支持自定义主题。 有方便输入 Markdown 语法的菜单，iOS 中还会提供专门的 Markdown 语法键盘。 有方便的 Markdown 表格语法生成和格式化的工具。 可以查看 Markdown 文档的大纲和字数，macOS 版本还支持固定在编辑器的左边或右边。 可以预览 Markdown 文档，支持精准的边编辑边预览。 MWeb 的文件夹模式 Markdown 的第一个需求就是创建和编辑 Markdown 文档，而 MWeb 的文件夹模式就是做这件事的。它支持以下特性： 创建 Markdown、Textbundle 文档，或者简单地打开来编辑。 引入一个有 Markdown 文档的文件夹到 MWeb 的文件夹模式中，MWeb 会提供 Markdown 文档的管理、全文搜索、复制粘贴插入图片、引用的图片的统一存储等实用的功能。 针对每个平台的使用习惯进行深度优化。macOS 中为经典的双栏设计，左栏为引入的文件夹的树形结构，右栏为打开的文档。支持多窗口、多标签等 macOS 系统的特性，可同时打开多个文档。iPadOS 中支持多窗口，工具栏等特性。 iPadOS/iOS 版本支持引入 Dropbox 的文件夹。 支持管理 Jekyll 或 hexo 等静态博客的 Markdown 文档，使用方法很简单，就是引入 Markdown 文档所在的文件夹就可以了。 MWeb 的文档库 Markdown 如此的好用，所以记笔记也是非常大的需求。当然，你可以使用文件夹模式，引入一个文件夹来记笔记，这种方式也非常好并且易于分享。所以为什么还会单独做一个文档库模式呢？主要是文档库模式有以下特性： 不需要考虑文件名，标题和存储位置，新增笔记就是的编辑器，直接自由输入和记录。 用分类树和标签管理笔记，单个笔记可以归类为多个分类，为笔记设置分类时更轻松。 整理笔记更方便，移动分类和笔记时，重命名分类时都互不影响，不需要担心笔记之间的关联不正确，笔记内的图片和附件引用位置不正确等等。 完整的跨设备同步，使用 iCloud CloudKit 技术实现，macOS、iPadOS 和 iOS 都支持。 文档库遵从“本地优先”原则，统一存储到一个文件夹内，管理和备份都很方便。就算你使用 iCloud 同步，也能把文档库完整地备份在本地。 把整个分类的笔记导出为 PDF 或者 Epub 电子书。 macOS 版的 MWeb Pro 还支持把分类生成静态博客，生成的博客中完整支持数学公式、mermaid 的画图等特性。让你以非常简单的方式就能创建一个自己的博客。 发布、图片上传和导出等特性 把文档或笔记发布到 Wordpress、Metaweblog API 、Evernote、Blogger、Tumblr、语雀、少数派 Matrix、Ghost 和 Medium，除了 Medium 外都支持更新已发布文档。发布时会自动上传插入到文档中的图片。 把文档或笔记内的图片上传到 imgur、七牛云、SM.MS、腾讯云 COS、又拍云、阿里云 OSS、自定义 API 等。 把文档或笔记导出为 PDF，macOS 版在导出时支持生成目录（Table of Contents）。 把文档或笔记导出为 Epub 或图片。 希望您能喜欢 MWeb！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/5b/60/a55b6093-345f-bdd4-7f09-02d5a0b7b13d/MWebPro-0-0-85-220-0-0-6-0-2x.png/60x60bb.png",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/5b/60/a55b6093-345f-bdd4-7f09-02d5a0b7b13d/MWebPro-0-0-85-220-0-0-6-0-2x.png/100x100bb.png",
+    "sellerName": "禄海 区",
+    "artistName": "禄海 区",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7e/f1/30/7ef130ac-e7a0-37a9-e918-4a1e0d201b43/361c76cb-620f-496f-b684-c90e3b2158b8_screenshot_1.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/98/60/8a/98608ae8-a681-e74a-85da-3817768e2156/aece07a7-1244-402a-8eb0-d957f4f70928_screenshot_2.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b6/69/97/b669976b-4bd9-1b5e-29cd-4fd077073f9a/240902d0-c2bb-475c-a1c9-fcc5e3d96680_screenshot_3.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fd/c4/24/fdc42471-5145-5f84-c7e7-c8c92939cf88/56624454-0a4c-4eb4-a485-2ea0d4d30601_screenshot_4.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9a/95/77/9a9577ff-e1fe-acf1-ea01-59e26ca5a3ef/97ab7b12-51fb-4fc0-b51d-7b093640fe80_screenshot_8.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/ab/b3/70abb33c-ca57-56cc-89f9-15af65cec906/59f3f2c4-b24a-4f02-946d-480780db4f6e_screenshot_5.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c6/30/8e/c6308e99-8047-dcca-db38-06b65a1c5033/fd7c0aef-afb0-4cee-8176-9150bb8d13de_screenshot_6.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/67/7d/71677d95-73b6-31b2-9f96-ede78776313c/27ec635d-c697-454d-ad0a-ae8a69b4950a_screenshot_7.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d1/a3/10/d1a3103d-8330-bd00-aabb-ff292e6b3c01/18c16646-0f89-4118-9560-01d63b1e1591_screenshot_9.png/800x500bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8d/61/33/8d6133ae-2eae-1480-ec3d-a1e1afba5a12/c2aadffa-917e-48d5-adcf-098cbad3acbb_screenshot_10.png/800x500bb.jpg"
+    ],
+    "_externalSource": "GoFans",
+    "_externalSourceFirstSeen": 1773217905412
+  },
+  "1404025964": {
+    "name": "SW array",
+    "trackName": "SW array",
+    "maxPriceInfo": {
+      "price": 58,
+      "formattedPrice": "¥58.00"
+    },
+    "minPriceInfo": {
+      "price": 58,
+      "formattedPrice": "¥58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774349516788,
+          "price": 58,
+          "formattedPrice": "¥58.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/sw-array/id1404025964?uo=4",
+    "description": "O Subwofer Array (SW array) é uma ferramenta para facilitar os cálculos dos arranjos. Usa como referência caixas “omnidirecionais” e indica os dados para auxiliar montagens dos arranjos: Cardioide (com caixas opostas e caixas em mesma direção) End Fire (1/4 λ até 4 caixas) Straigth (2/3 λ 4,6,8,12 caixas) Arc Delay (Delay/Físico com cobertura aproximada: 15o, 30o, 45o, 60o, 90o, 120o Aviso “O SW array é uma ferramenta para facilitar os cálculos, portanto, não tem o objetivo de ensinar as técnicas e não se responsabiliza por danos aos equipamentos. ” Os dados inseridos no aplicativo são processados internamente. Não há qualquer exportação de informações do usuário ou mesmo dos dados inseridos. Não há acesso externo.",
+    "fullDescription": "O Subwofer Array (SW array) é uma ferramenta para facilitar os cálculos dos arranjos. Usa como referência caixas “omnidirecionais” e indica os dados para auxiliar montagens dos arranjos: Cardioide (com caixas opostas e caixas em mesma direção) End Fire (1/4 λ até 4 caixas) Straigth (2/3 λ 4,6,8,12 caixas) Arc Delay (Delay/Físico com cobertura aproximada: 15o, 30o, 45o, 60o, 90o, 120o Aviso “O SW array é uma ferramenta para facilitar os cálculos, portanto, não tem o objetivo de ensinar as técnicas e não se responsabiliza por danos aos equipamentos. ” Os dados inseridos no aplicativo são processados internamente. Não há qualquer exportação de informações do usuário ou mesmo dos dados inseridos. Não há acesso externo.",
+    "summaryDescription": "O Subwofer Array (SW array) é uma ferramenta para facilitar os cálculos dos arranjos. Usa como referência caixas “omnidirecionais” e indica os dados para auxiliar montagens dos arranjos: Cardioide (com caixas opostas e caixas em mesma direção) End Fire (1/4 λ até 4 caixas) Straigth (2/3 λ 4,6,8,12 caixas) Arc Delay (Delay/Físico com cobertura aproximada: 15o, 30o, 45o, 60o, 90o, 120o Aviso “O SW array é uma ferramenta para facilitar os cálculos, portanto, não tem o objetivo de ensinar as técnicas e não se responsabiliza por danos aos equipamentos. ” Os dados inseridos no aplicativo são processados internamente. Não há qualquer exportação de informações do usuário ou mesmo dos dados inseridos. Não há acesso externo.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d7/4e/c1d74e76-c8e8-9717-bbd2-4ce48c8b795b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d7/4e/c1d74e76-c8e8-9717-bbd2-4ce48c8b795b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Ebert Marques",
+    "artistName": "Ebert Marques",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/d8/71/efd8715a-5caf-bd0c-3fa1-4f8c40fc129b/Arquivo_000.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/34/7f/27347f21-8ea5-270f-db45-e697620c38ea/Arquivo_001.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/c7/5b/59c75b1a-751e-2eed-4755-42eb4d66cc85/Arquivo_002.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/25/3d/3d253df3-f114-ebce-1bd0-b2c8c0b7f934/Arquivo_003.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/99/48/c59948f8-b02a-46b6-4542-40b3fb69f2d4/Arquivo_004.png/406x228bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/55/ad/9855adcc-a77a-4bbb-b912-e52131a53fda/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-11-03_at_18.46.57.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/c0/c5/e3c0c5e4-ea70-6fe8-4d07-8d40e0b0f2db/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-11-03_at_18.47.03.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/4f/b7/784fb72d-a29b-24f5-7198-25aa538fea5b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-11-03_at_18.47.07.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/4f/9d/cb4f9d23-d6a7-588c-d02b-dcd602f1ae55/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-11-03_at_18.47.10.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/9b/43/949b43b3-c196-cfeb-eba9-6dd5999f76f8/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-11-03_at_18.47.14.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1774349484349
+  },
+  "1404193468": {
+    "name": "喝水时间 - 健康喝水提醒助手",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "永久会员": "¥128.00",
+      "一年会员": "¥78.00",
+      "三个月会员": "¥18.00",
+      "去除广告": "¥8.00",
+      "一月会员": "¥12.00",
+      "小花猫": "¥8.00",
+      "树懒": "¥8.00",
+      "小熊猫": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "永久会员": "¥128.00",
+      "一年会员": "¥78.00",
+      "三个月会员": "¥18.00",
+      "去除广告": "¥8.00",
+      "一月会员": "¥12.00",
+      "小花猫": "¥8.00",
+      "树懒": "¥8.00",
+      "小熊猫": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772865008630,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久会员": "¥128.00",
+            "一年会员": "¥78.00",
+            "三个月会员": "¥18.00",
+            "去除广告": "¥8.00",
+            "一月会员": "¥12.00",
+            "小花猫": "¥8.00",
+            "树懒": "¥8.00",
+            "小熊猫": "¥8.00"
+          }
+        }
+      ]
+    ],
+    "_externalSourceFirstSeen": 1772864994853
+  },
   "1406198586": {
     "name": "运动解剖",
     "trackName": "运动解剖",
@@ -7722,9 +7874,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E7%BE%BD%E6%AF%9B%E7%AC%94-%E4%BB%8A%E6%97%A5%E5%BE%85%E5%8A%9E/id1436832183?uo=4",
-    "description": "羽毛笔，便捷 TODO 小组件 【特点】 可直接在负一屏直接查看、勾选、编辑你的每一个小确幸 路上、课间、工作、刚起床，记录每一个一闪而逝的小灵感 轻量、高效、便捷，没有冗余功能只为提高你的生活效率 支持深色模式，夜间也能舒心使用 支持云云同步， ，多设备轻松同步 支持定时提醒，重要事情不忘记 【添加】 如何添加可在锁屏下编辑的组件 负一屏小工具栏 — 下滑底部“编辑” —下滑底部 “自定” —羽毛笔 【使用】 添加负一屏小组件后在锁屏情况下编辑待办事项 在通知中心单击+新建 ，单击任务编辑 ，长按可预览全文勾选完成任务 更多使用说明见 app 默认初始任务以及设置中小视频介绍 联系邮箱： developer.feedbacks@gmail.com 如功能性建议以及使用疑问， ，请五星好评留言谢谢 n (* ≧▽ ≦ *) n。 感谢来自希腊雅典的 Alex Chrisakis 提供的希腊语翻译。",
-    "fullDescription": "羽毛笔，便捷 TODO 小组件 【特点】 可直接在负一屏直接查看、勾选、编辑你的每一个小确幸 路上、课间、工作、刚起床，记录每一个一闪而逝的小灵感 轻量、高效、便捷，没有冗余功能只为提高你的生活效率 支持深色模式，夜间也能舒心使用 支持云云同步， ，多设备轻松同步 支持定时提醒，重要事情不忘记 【添加】 如何添加可在锁屏下编辑的组件 负一屏小工具栏 — 下滑底部“编辑” —下滑底部 “自定” —羽毛笔 【使用】 添加负一屏小组件后在锁屏情况下编辑待办事项 在通知中心单击+新建 ，单击任务编辑 ，长按可预览全文勾选完成任务 更多使用说明见 app 默认初始任务以及设置中小视频介绍 联系邮箱： developer.feedbacks@gmail.com 如功能性建议以及使用疑问， ，请五星好评留言谢谢 n (* ≧▽ ≦ *) n。 感谢来自希腊雅典的 Alex Chrisakis 提供的希腊语翻译。",
-    "summaryDescription": "羽毛笔，便捷 TODO 小组件 【特点】 可直接在负一屏直接查看、勾选、编辑你的每一个小确幸 路上、课间、工作、刚起床，记录每一个一闪而逝的小灵感 轻量、高效、便捷，没有冗余功能只为提高你的生活效率 支持深色模式，夜间也能舒心使用 支持云云同步， ，多设备轻松同步 支持定时提醒，重要事情不忘记 【添加】 如何添加可在锁屏下编辑的组件 负一屏小工具栏 — 下滑底部“编辑” —下滑底部 “自定” —羽毛笔 【使用】 添加负一屏小组件后在锁屏情况下编辑待办事项 在通知中心单击+新建 ，单击任务编辑 ，长按可预览全文勾选完成任务 更多使用说明见 app 默认初始任务以及设置中小视频介绍 联系邮箱： developer.feedbacks@gmail.com 如功能性建议以及使用疑问， ，请五星好评留言谢谢 n (* ≧▽ ≦ *) n。 感谢来自希腊雅典的 Alex Chrisakis 提供的希腊语翻译。",
+    "description": "羽毛笔，便捷 TODO 小组件 【特点】 可直接在负一屏直接查看、勾选、编辑你的每一个小确幸 路上、课间、工作、刚起床，记录每一个一闪而逝的小灵感 轻量、高效、便捷，没有冗余功能，只为提高你的生活效率 支持深色模式，夜间也能舒心使用 支持 Cloud 云同步，多设备轻松同步 支持定时提醒，重要事情不忘记 【添加】 如何添加可在锁屏下编辑的组件？ 负一屏小工具栏 — 下滑底部“编辑”—下滑底部“自定”—羽毛笔 【使用】 添加负一屏小组件后在锁屏情况下编辑待办事项 在通知中心单击+新建，单击任务编辑，长按可预览全文，勾选完成任务 更多使用说明见 app 默认初始任务以及设置中小视频介绍 联系邮箱： developer.feedbacks@gmail.com 如功能性建议以及使用疑问，请五星好评留言，谢谢 n(*≧▽≦*)n。 感谢来自希腊雅典的 Alex Chrisakis 提供的希腊语翻译。",
+    "fullDescription": "羽毛笔，便捷 TODO 小组件 【特点】 可直接在负一屏直接查看、勾选、编辑你的每一个小确幸 路上、课间、工作、刚起床，记录每一个一闪而逝的小灵感 轻量、高效、便捷，没有冗余功能，只为提高你的生活效率 支持深色模式，夜间也能舒心使用 支持 Cloud 云同步，多设备轻松同步 支持定时提醒，重要事情不忘记 【添加】 如何添加可在锁屏下编辑的组件？ 负一屏小工具栏 — 下滑底部“编辑”—下滑底部“自定”—羽毛笔 【使用】 添加负一屏小组件后在锁屏情况下编辑待办事项 在通知中心单击+新建，单击任务编辑，长按可预览全文，勾选完成任务 更多使用说明见 app 默认初始任务以及设置中小视频介绍 联系邮箱： developer.feedbacks@gmail.com 如功能性建议以及使用疑问，请五星好评留言，谢谢 n(*≧▽≦*)n。 感谢来自希腊雅典的 Alex Chrisakis 提供的希腊语翻译。",
+    "summaryDescription": "羽毛笔，便捷 TODO 小组件 【特点】 可直接在负一屏直接查看、勾选、编辑你的每一个小确幸 路上、课间、工作、刚起床，记录每一个一闪而逝的小灵感 轻量、高效、便捷，没有冗余功能，只为提高你的生活效率 支持深色模式，夜间也能舒心使用 支持 Cloud 云同步，多设备轻松同步 支持定时提醒，重要事情不忘记 【添加】 如何添加可在锁屏下编辑的组件？ 负一屏小工具栏 — 下滑底部“编辑”—下滑底部“自定”—羽毛笔 【使用】 添加负一屏小组件后在锁屏情况下编辑待办事项 在通知中心单击+新建，单击任务编辑，长按可预览全文，勾选完成任务 更多使用说明见 app 默认初始任务以及设置中小视频介绍 联系邮箱： developer.feedbacks@gmail.com 如功能性建议以及使用疑问，请五星好评留言，谢谢 n(*≧▽≦*)n。 感谢来自希腊雅典的 Alex Chrisakis 提供的希腊语翻译。",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/c1/43/39c143b8-abb4-3dff-d6be-58fa8dff3040/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/c1/43/39c143b8-abb4-3dff-d6be-58fa8dff3040/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "元吉 李",
@@ -8387,6 +8539,18 @@
     "history": [
       [
         {
+          "timestamp": 1788263147497,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "伟大的统治": "¥12.00",
+            "邪恶病房": "¥18.00",
+            "异象号": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785683044362,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -8837,9 +9001,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E9%80%83%E8%84%B1%E8%80%85-%E5%9B%B0%E5%A2%83%E7%AA%81%E5%9B%B4/id1437479513?uo=4",
-    "description": "从寒冷的城堡冻原，乘坐疾驰的火车穿过沙漠，直至最后的边界。 全力以赴从各种生存条件艰辛密室中逃脱出来。探索各具风格的密室，密室建有多层地板、屋顶、通风口和地下隧道。开发你的创造力，使用各种日用品（肥皂和袜子）或一些有趣的随手可见的餐具等物品（叉子或钢板）制造武器和工具。 【游戏玩法】： 顶级特色密室： 全力以赴从世界上生存环境最艰苦的密室中逃脱出来。你需要遵守密室的规定，做各种工作并遵循严格的日常安排；所有的一切都是在努力为你争取自由，早日逃出密室！ 建立你的装扮： 从大量的定制中选择你的角色，使其独一无二。当你策划逃脱时，时尚装扮很重要。 制定你的逃脱计划： 在监狱里，你要开发你的创造力，使用有限的工具来制作各种道具。你可以将日常用品（如肥皂和袜子）组合起来，制造新的武器和工具，以帮助你实现目标。也可以从自助餐厅拿到叉子，在房间里铺一条隧道，并通过杂志和胶带制作海报以隐藏痕迹。你将很快了解到，胶带解决一切！ 逃脱队组合： 联合最多 3 个朋友组建终极逃脱团队，并设计出最疯狂的逃脱计划！聚拢于沙发上，为你的暗中冒险做准备。通过合作，你将创建更加精细和勇敢的计划。感觉没有竞争性？你可以进入对战模式，并显示出你有能力比你的朋友更快地逃脱任何密室。如果其他一切都失败了，在密室天井上解决你的敌对目标！ 准备战斗： 《逃脱者：困境突围》引入了全新的战斗系统，使每个密室的战斗更加激动人心以及具有互动性。你可以保持攻击姿态并围绕你的目标走动，以在作战中获得上风；也可以在合适的时间格挡已减少伤害。确保你先到健身房锻炼肌肉！ 逃脱新方法： 随着密室越来越艰苦，你将不得不策划更加周密的逃脱计划。应对任何密室逃脱都有很多选择。尝试制作药物混合物来伪造自己的死亡，让太平间做剩下的工作！ 【游戏特色】： 最多4名玩家合作逃脱 玩家之间可以联机对战 超过 300 个角色装扮定制 多层密室，给你最真实的场景体验 【逃脱者：困境突围】 联系我们------ 有任何问题或建议，都可以通过以下渠道告诉我们： 客服电话：4009001565 客服邮箱：kf@east2west.cn 微信公众号：east2westgames或搜索“东品西尚” 微博：@东品游戏",
-    "fullDescription": "从寒冷的城堡冻原，乘坐疾驰的火车穿过沙漠，直至最后的边界。 全力以赴从各种生存条件艰辛密室中逃脱出来。探索各具风格的密室，密室建有多层地板、屋顶、通风口和地下隧道。开发你的创造力，使用各种日用品（肥皂和袜子）或一些有趣的随手可见的餐具等物品（叉子或钢板）制造武器和工具。 【游戏玩法】： 顶级特色密室： 全力以赴从世界上生存环境最艰苦的密室中逃脱出来。你需要遵守密室的规定，做各种工作并遵循严格的日常安排；所有的一切都是在努力为你争取自由，早日逃出密室！ 建立你的装扮： 从大量的定制中选择你的角色，使其独一无二。当你策划逃脱时，时尚装扮很重要。 制定你的逃脱计划： 在监狱里，你要开发你的创造力，使用有限的工具来制作各种道具。你可以将日常用品（如肥皂和袜子）组合起来，制造新的武器和工具，以帮助你实现目标。也可以从自助餐厅拿到叉子，在房间里铺一条隧道，并通过杂志和胶带制作海报以隐藏痕迹。你将很快了解到，胶带解决一切！ 逃脱队组合： 联合最多 3 个朋友组建终极逃脱团队，并设计出最疯狂的逃脱计划！聚拢于沙发上，为你的暗中冒险做准备。通过合作，你将创建更加精细和勇敢的计划。感觉没有竞争性？你可以进入对战模式，并显示出你有能力比你的朋友更快地逃脱任何密室。如果其他一切都失败了，在密室天井上解决你的敌对目标！ 准备战斗： 《逃脱者：困境突围》引入了全新的战斗系统，使每个密室的战斗更加激动人心以及具有互动性。你可以保持攻击姿态并围绕你的目标走动，以在作战中获得上风；也可以在合适的时间格挡已减少伤害。确保你先到健身房锻炼肌肉！ 逃脱新方法： 随着密室越来越艰苦，你将不得不策划更加周密的逃脱计划。应对任何密室逃脱都有很多选择。尝试制作药物混合物来伪造自己的死亡，让太平间做剩下的工作！ 【游戏特色】： 最多4名玩家合作逃脱 玩家之间可以联机对战 超过 300 个角色装扮定制 多层密室，给你最真实的场景体验 【逃脱者：困境突围】 联系我们------ 有任何问题或建议，都可以通过以下渠道告诉我们： 客服电话：4009001565 客服邮箱：kf@east2west.cn 微信公众号：east2westgames或搜索“东品西尚” 微博：@东品游戏",
-    "summaryDescription": "从寒冷的城堡冻原，乘坐疾驰的火车穿过沙漠，直至最后的边界。 全力以赴从各种生存条件艰辛密室中逃脱出来。探索各具风格的密室，密室建有多层地板、屋顶、通风口和地下隧道。开发你的创造力，使用各种日用品（肥皂和袜子）或一些有趣的随手可见的餐具等物品（叉子或钢板）制造武器和工具。 【游戏玩法】： 顶级特色密室： 全力以赴从世界上生存环境最艰苦的密室中逃脱出来。你需要遵守密室的规定，做各种工作并遵循严格的日常安排；所有的一切都是在努力为你争取自由，早日逃出密室！ 建立你的装扮： 从大量的定制中选择你的角色，使其独一无二。当你策划逃脱时，时尚装扮很重要。 制定你的逃脱计划： 在监狱里，你要开发你的创造力，使用有限的工具来制作各种道具。你可以将日常用品（如肥皂和袜子）组合起来，制造新的武器和工具，以帮助你实现目标。也可以从自助餐厅拿到叉子，在房间里铺一条隧道，并通过杂志和胶带制作海报以隐藏痕迹。你将很快了解到，胶带解决一切！ 逃脱队组合： 联合最多 3 个朋友组建终极逃脱团队，并设计出最疯狂的逃脱计划！聚拢于沙发上，为你的暗中冒险做准备。通过合作，你将创建更加精细和勇敢的计划。感觉没有竞争性？你可以进入对战模式，并显示出你有能力比你的朋友更快地逃脱任何密室。如果其他一切都失败了，在密室天井上解决你的敌对目标！ 准备战斗： 《逃脱者：困境突围》引入了全新的战斗系统，使每个密室的战斗更加激动人心以及具有互动性。你可以保持攻击姿态并围绕你的目标走动，以在作战中获得上风；也可以在合适的时间格挡已减少伤害。确保你先到健身房锻炼肌肉！ 逃脱新方法： 随着密室越来越艰苦，你将不得不策划更加周密的逃脱计划。应对任何密室逃脱都有很多选择。尝试制作药物混合物来伪造自己的死亡，让太平间做剩下的工作！ 【游戏特色】： 最多4名玩家合作逃脱 玩家之间可以联机对战 超过 300 个角色装扮定制 多层密室，给你最真实的场景体验 【逃脱者：困境突围】 联系我们------ 有任何问题或建议，都可以通过以下渠道告诉我们： 客服电话：4009001565 客服邮箱：kf@east2west.cn 微信公众号：east2westgames或搜索“东品西尚” 微博：@东品游戏",
+    "description": "从寒冷的城堡冻原，乘坐疾驰的火车穿过沙漠，直至最后的边界。 全力以赴从各种生存条件艰辛密室中逃脱出来。探索各具风格的密室，密室建有多层地板、屋顶、通风口和地下隧道。开发你的创造力，使用各种日用品（肥皂和袜子）或一些有趣的随手可见的餐具等物品（叉子或钢板）制造武器和工具。 【游戏玩法】： 顶级特色密室： 全力以赴从世界上生存环境最艰苦的密室中逃脱出来。你需要遵守密室的规定，做各种工作并遵循严格的日常安排；所有的一切都是在努力为你争取自由，早日逃出密室！ 建立你的装扮： 从大量的定制中选择你的角色，使其独一无二。当你策划逃脱时，时尚装扮很重要。 制定你的逃脱计划： 在监狱里，你要开发你的创造力，使用有限的工具来制作各种道具。你可以将日常用品（如肥皂和袜子）组合起来，制造新的武器和工具，以帮助你实现目标。也可以从自助餐厅拿到叉子，在房间里铺一条隧道，并通过杂志和胶带制作海报以隐藏痕迹。你将很快了解到，胶带解决一切！ 逃脱队组合： 联合最多 3 个朋友组建终极逃脱团队，并设计出最疯狂的逃脱计划！聚拢于沙发上，为你的暗中冒险做准备。通过合作，你将创建更加精细和勇敢的计划。感觉没有竞争性？你可以进入对战模式，并显示出你有能力比你的朋友更快地逃脱任何密室。如果其他一切都失败了，在密室天井上解决你的敌对目标！ 准备战斗： 《逃脱者：困境突围》引入了全新的战斗系统，使每个密室的战斗更加激动人心以及具",
+    "fullDescription": "从寒冷的城堡冻原，乘坐疾驰的火车穿过沙漠，直至最后的边界。 全力以赴从各种生存条件艰辛密室中逃脱出来。探索各具风格的密室，密室建有多层地板、屋顶、通风口和地下隧道。开发你的创造力，使用各种日用品（肥皂和袜子）或一些有趣的随手可见的餐具等物品（叉子或钢板）制造武器和工具。 【游戏玩法】： 顶级特色密室： 全力以赴从世界上生存环境最艰苦的密室中逃脱出来。你需要遵守密室的规定，做各种工作并遵循严格的日常安排；所有的一切都是在努力为你争取自由，早日逃出密室！ 建立你的装扮： 从大量的定制中选择你的角色，使其独一无二。当你策划逃脱时，时尚装扮很重要。 制定你的逃脱计划： 在监狱里，你要开发你的创造力，使用有限的工具来制作各种道具。你可以将日常用品（如肥皂和袜子）组合起来，制造新的武器和工具，以帮助你实现目标。也可以从自助餐厅拿到叉子，在房间里铺一条隧道，并通过杂志和胶带制作海报以隐藏痕迹。你将很快了解到，胶带解决一切！ 逃脱队组合： 联合最多 3 个朋友组建终极逃脱团队，并设计出最疯狂的逃脱计划！聚拢于沙发上，为你的暗中冒险做准备。通过合作，你将创建更加精细和勇敢的计划。感觉没有竞争性？你可以进入对战模式，并显示出你有能力比你的朋友更快地逃脱任何密室。如果其他一切都失败了，在密室天井上解决你的敌对目标！ 准备战斗： 《逃脱者：困境突围》引入了全新的战斗系统，使每个密室的战斗更加激动人心以及具",
+    "summaryDescription": "从寒冷的城堡冻原，乘坐疾驰的火车穿过沙漠，直至最后的边界。 全力以赴从各种生存条件艰辛密室中逃脱出来。探索各具风格的密室，密室建有多层地板、屋顶、通风口和地下隧道。开发你的创造力，使用各种日用品（肥皂和袜子）或一些有趣的随手可见的餐具等物品（叉子或钢板）制造武器和工具。 【游戏玩法】： 顶级特色密室： 全力以赴从世界上生存环境最艰苦的密室中逃脱出来。你需要遵守密室的规定，做各种工作并遵循严格的日常安排；所有的一切都是在努力为你争取自由，早日逃出密室！ 建立你的装扮： 从大量的定制中选择你的角色，使其独一无二。当你策划逃脱时，时尚装扮很重要。 制定你的逃脱计划： 在监狱里，你要开发你的创造力，使用有限的工具来制作各种道具。你可以将日常用品（如肥皂和袜子）组合起来，制造新的武器和工具，以帮助你实现目标。也可以从自助餐厅拿到叉子，在房间里铺一条隧道，并通过杂志和胶带制作海报以隐藏痕迹。你将很快了解到，胶带解决一切！ 逃脱队组合： 联合最多 3 个朋友组建终极逃脱团队，并设计出最疯狂的逃脱计划！聚拢于沙发上，为你的暗中冒险做准备。通过合作，你将创建更加精细和勇敢的计划。感觉没有竞争性？你可以进入对战模式，并显示出你有能力比你的朋友更快地逃脱任何密室。如果其他一切都失败了，在密室天井上解决你的敌对目标！ 准备战斗： 《逃脱者：困境突围》引入了全新的战斗系统，使每个密室的战斗更加激动人心以及具",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/47/d2/a047d23d-47a5-70f6-970e-f6e1a27c2c30/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/47/d2/a047d23d-47a5-70f6-970e-f6e1a27c2c30/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.jpg",
     "sellerName": "East2west Network Tech. Co. Ltd.",
@@ -39509,11 +39673,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/dgv-platzreife/id1470048869?uo=4",
-    "description": "Offizieller Fragenkatalog zur DGV-Platzreifeprüfung, gültig ab Januar 2023. Quizzen Sie sich durch alle 170 Original-Prüfungsfragen der Golf Platzreife. Testen Sie Ihr Wissen im Prüfungsmodus oder frischen Sie Ihre Regelkenntnisse im Übungsmodus auf. Die offizielle App zur Platzreifeprüfung des Deutschen Golf Verbandes (DGV). Nach den Golfregeln und dem World Handicap System, gültig ab Januar 2023. Die App bietet Ihnen neben zwei verschiedenen Übungsmodi zum Lernen auch einen Prüfungsmodus zur idealen Vorbereitung auf den theoretischen Teil der Platzreifeprüfung. Im Prüfungsmodus haben Sie 30 Minuten Zeit, um 30 Fragen zu beantworten. Die Auswahl der Fragen im Prüfungsmodus erfolgt nach der gleichen Systematik, die auch bei der Platzreifeprüfung dem Fragebogen zugrunde liegt. Golfeinstieg mit Qualität Mit der Platzreife wird sichergestellt, dass Golf-Anfänger weder sich selbst noch andere Personen gefährden, im zügigen Spielfluss mithalten können und den Platz pfleglich behandeln. Nur wer die dafür notwendigen Grundlagen beherrscht, bekommt die Platzerlaubnis. Der Inhalt der Ausbildung setzt sich aus den drei Prüfungsteilen „Verhalten auf dem Platz“, „Golfspiel“ und „Theorie“ zusammen. Wir wünschen Ihnen viel Spaß beim Üben und für die Zeit nach bestandener Prüfung: Schönes Spiel! presented by All4Golf Die DGV-Platzreife App wird Ihnen von All4Golf präsentiert. Der langjährige Partner des Deutscher Golf Verband e.V. (DGV) und Presenting Partner der Deutsche Golf Liga (DGL) steht Ihnen beim Einstieg in den Golfsport mit attraktiven Angeboten und einer riesigen Auswahl an Golfartikeln zur Seite. In der DGV-Platzreife App bietet Ihnen All4Golf bei erfolgreichem Bestehen des Prüfungsmodus und nach korrekt beantworteten Fragen im Übungsmodus unmittelbar Rabatte auf Ihren nächsten Einkauf. 2024 Deutscher Golf Verband e.V.",
-    "fullDescription": "Offizieller Fragenkatalog zur DGV-Platzreifeprüfung, gültig ab Januar 2023. Quizzen Sie sich durch alle 170 Original-Prüfungsfragen der Golf Platzreife. Testen Sie Ihr Wissen im Prüfungsmodus oder frischen Sie Ihre Regelkenntnisse im Übungsmodus auf. Die offizielle App zur Platzreifeprüfung des Deutschen Golf Verbandes (DGV). Nach den Golfregeln und dem World Handicap System, gültig ab Januar 2023. Die App bietet Ihnen neben zwei verschiedenen Übungsmodi zum Lernen auch einen Prüfungsmodus zur idealen Vorbereitung auf den theoretischen Teil der Platzreifeprüfung. Im Prüfungsmodus haben Sie 30 Minuten Zeit, um 30 Fragen zu beantworten. Die Auswahl der Fragen im Prüfungsmodus erfolgt nach der gleichen Systematik, die auch bei der Platzreifeprüfung dem Fragebogen zugrunde liegt. Golfeinstieg mit Qualität Mit der Platzreife wird sichergestellt, dass Golf-Anfänger weder sich selbst noch andere Personen gefährden, im zügigen Spielfluss mithalten können und den Platz pfleglich behandeln. Nur wer die dafür notwendigen Grundlagen beherrscht, bekommt die Platzerlaubnis. Der Inhalt der Ausbildung setzt sich aus den drei Prüfungsteilen „Verhalten auf dem Platz“, „Golfspiel“ und „Theorie“ zusammen. Wir wünschen Ihnen viel Spaß beim Üben und für die Zeit nach bestandener Prüfung: Schönes Spiel! presented by All4Golf Die DGV-Platzreife App wird Ihnen von All4Golf präsentiert. Der langjährige Partner des Deutscher Golf Verband e.V. (DGV) und Presenting Partner der Deutsche Golf Liga (DGL) steht Ihnen beim Einstieg in den Golfsport mit attraktiven Angeboten und einer riesigen Auswahl an Golfartikeln zur Seite. In der DGV-Platzreife App bietet Ihnen All4Golf bei erfolgreichem Bestehen des Prüfungsmodus und nach korrekt beantworteten Fragen im Übungsmodus unmittelbar Rabatte auf Ihren nächsten Einkauf. 2024 Deutscher Golf Verband e.V.",
-    "summaryDescription": "Offizieller Fragenkatalog zur DGV-Platzreifeprüfung, gültig ab Januar 2023. Quizzen Sie sich durch alle 170 Original-Prüfungsfragen der Golf Platzreife. Testen Sie Ihr Wissen im Prüfungsmodus oder frischen Sie Ihre Regelkenntnisse im Übungsmodus auf. Die offizielle App zur Platzreifeprüfung des Deutschen Golf Verbandes (DGV). Nach den Golfregeln und dem World Handicap System, gültig ab Januar 2023. Die App bietet Ihnen neben zwei verschiedenen Übungsmodi zum Lernen auch einen Prüfungsmodus zur idealen Vorbereitung auf den theoretischen Teil der Platzreifeprüfung. Im Prüfungsmodus haben Sie 30 Minuten Zeit, um 30 Fragen zu beantworten. Die Auswahl der Fragen im Prüfungsmodus erfolgt nach der gleichen Systematik, die auch bei der Platzreifeprüfung dem Fragebogen zugrunde liegt. Golfeinstieg mit Qualität Mit der Platzreife wird sichergestellt, dass Golf-Anfänger weder sich selbst noch andere Personen gefährden, im zügigen Spielfluss mithalten können und den Platz pfleglich behandeln. Nur wer die dafür notwendigen Grundlagen beherrscht, bekommt die Platzerlaubnis. Der Inhalt der Ausbildung setzt sich aus den drei Prüfungsteilen „Verhalten auf dem Platz“, „Golfspiel“ und „Theorie“ zusammen. Wir wünschen Ihnen viel Spaß beim Üben und für die Zeit nach bestandener Prüfung: Schönes Spiel! presented by All4Golf Die DGV-Platzreife App wird Ihnen von All4Golf präsentiert. Der langjährige Partner des Deutscher Golf Verband e.V. (DGV) und Presenting Partner der Deutsche Golf Liga (DGL) steht Ihnen beim Einstieg in den Golfsport mit attraktiven Angeboten und einer riesigen Auswahl an Golfartikeln zur Seite. In der DGV-Platzreife App bietet Ihnen All4Golf bei erfolgreichem Bestehen des Prüfungsmodus und nach korrekt beantworteten Fragen im Übungsmodus unmittelbar Rabatte auf Ihren nächsten Einkauf. 2024 Deutscher Golf Verband e.V.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/93/92/bc93925d-faeb-46b5-86a2-580c97a97ea2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/93/92/bc93925d-faeb-46b5-86a2-580c97a97ea2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "description": "Offizieller Fragenkatalog zur DGV-Platzreifeprüfung, gültig ab Januar 2023. Quizzen Sie sich durch alle 170 Original-Prüfungsfragen der Golf Platzreife. Testen Sie Ihr Wissen im Prüfungsmodus oder frischen Sie Ihre Regelkenntnisse im Übungsmodus auf. Die offizielle App zur Platzreifeprüfung des Deutschen Golf Verbandes (DGV). Nach den Golfregeln und dem World Handicap System, gültig ab Januar 2023. Die App bietet Ihnen neben zwei verschiedenen Übungsmodi zum Lernen auch einen Prüfungsmodus zur idealen Vorbereitung auf den theoretischen Teil der Platzreifeprüfung. Im Prüfungsmodus haben Sie 30 Minuten Zeit, um 30 Fragen zu beantworten. Die Auswahl der Fragen im Prüfungsmodus erfolgt nach der gleichen Systematik, die auch bei der Platzreifeprüfung dem Fragebogen zugrunde liegt. Golfeinstieg mit Qualität Mit der Platzreife wird sichergestellt, dass Golf-Anfänger weder sich selbst noch andere Personen gefährden, im zügigen Spielfluss mithalten können und den Platz pfleglich behandeln. Nur wer die dafür notwendigen Grundlagen beherrscht, bekommt die Platzerlaubnis. Der Inhalt der Ausbildung setzt sich aus den drei Prüfungsteilen „Verhalten auf dem Platz“, „Golfspiel“ und „Theorie“ zusammen. Wir wünschen Ihnen viel Spaß beim Üben und für die Zeit nach bestandener Prüfung: Schönes Spiel! presented by All4Golf Die DGV-Platzreife App wird Ihnen von All4Golf präsentiert. Der langjährige Partner des Deutscher Golf Verband e.V. (DGV) und Presenting Partner der Deutsche Golf Liga (DGL) steht Ihnen beim Einstieg in den Golfsport mit attraktiven Angeboten und einer riesigen Auswahl an Golfartikeln zur Seite. In der DGV-Platzreife App bietet Ihnen All4Golf bei erfolgreichem Bestehen des Prüfungsmodus und nach korrekt beantworteten Fragen im Übungsmodus unmittelbar Rabatte auf Ihren nächsten Einkauf. 2026 Deutscher Golf Verband e.V.",
+    "fullDescription": "Offizieller Fragenkatalog zur DGV-Platzreifeprüfung, gültig ab Januar 2023. Quizzen Sie sich durch alle 170 Original-Prüfungsfragen der Golf Platzreife. Testen Sie Ihr Wissen im Prüfungsmodus oder frischen Sie Ihre Regelkenntnisse im Übungsmodus auf. Die offizielle App zur Platzreifeprüfung des Deutschen Golf Verbandes (DGV). Nach den Golfregeln und dem World Handicap System, gültig ab Januar 2023. Die App bietet Ihnen neben zwei verschiedenen Übungsmodi zum Lernen auch einen Prüfungsmodus zur idealen Vorbereitung auf den theoretischen Teil der Platzreifeprüfung. Im Prüfungsmodus haben Sie 30 Minuten Zeit, um 30 Fragen zu beantworten. Die Auswahl der Fragen im Prüfungsmodus erfolgt nach der gleichen Systematik, die auch bei der Platzreifeprüfung dem Fragebogen zugrunde liegt. Golfeinstieg mit Qualität Mit der Platzreife wird sichergestellt, dass Golf-Anfänger weder sich selbst noch andere Personen gefährden, im zügigen Spielfluss mithalten können und den Platz pfleglich behandeln. Nur wer die dafür notwendigen Grundlagen beherrscht, bekommt die Platzerlaubnis. Der Inhalt der Ausbildung setzt sich aus den drei Prüfungsteilen „Verhalten auf dem Platz“, „Golfspiel“ und „Theorie“ zusammen. Wir wünschen Ihnen viel Spaß beim Üben und für die Zeit nach bestandener Prüfung: Schönes Spiel! presented by All4Golf Die DGV-Platzreife App wird Ihnen von All4Golf präsentiert. Der langjährige Partner des Deutscher Golf Verband e.V. (DGV) und Presenting Partner der Deutsche Golf Liga (DGL) steht Ihnen beim Einstieg in den Golfsport mit attraktiven Angeboten und einer riesigen Auswahl an Golfartikeln zur Seite. In der DGV-Platzreife App bietet Ihnen All4Golf bei erfolgreichem Bestehen des Prüfungsmodus und nach korrekt beantworteten Fragen im Übungsmodus unmittelbar Rabatte auf Ihren nächsten Einkauf. 2026 Deutscher Golf Verband e.V.",
+    "summaryDescription": "Offizieller Fragenkatalog zur DGV-Platzreifeprüfung, gültig ab Januar 2023. Quizzen Sie sich durch alle 170 Original-Prüfungsfragen der Golf Platzreife. Testen Sie Ihr Wissen im Prüfungsmodus oder frischen Sie Ihre Regelkenntnisse im Übungsmodus auf. Die offizielle App zur Platzreifeprüfung des Deutschen Golf Verbandes (DGV). Nach den Golfregeln und dem World Handicap System, gültig ab Januar 2023. Die App bietet Ihnen neben zwei verschiedenen Übungsmodi zum Lernen auch einen Prüfungsmodus zur idealen Vorbereitung auf den theoretischen Teil der Platzreifeprüfung. Im Prüfungsmodus haben Sie 30 Minuten Zeit, um 30 Fragen zu beantworten. Die Auswahl der Fragen im Prüfungsmodus erfolgt nach der gleichen Systematik, die auch bei der Platzreifeprüfung dem Fragebogen zugrunde liegt. Golfeinstieg mit Qualität Mit der Platzreife wird sichergestellt, dass Golf-Anfänger weder sich selbst noch andere Personen gefährden, im zügigen Spielfluss mithalten können und den Platz pfleglich behandeln. Nur wer die dafür notwendigen Grundlagen beherrscht, bekommt die Platzerlaubnis. Der Inhalt der Ausbildung setzt sich aus den drei Prüfungsteilen „Verhalten auf dem Platz“, „Golfspiel“ und „Theorie“ zusammen. Wir wünschen Ihnen viel Spaß beim Üben und für die Zeit nach bestandener Prüfung: Schönes Spiel! presented by All4Golf Die DGV-Platzreife App wird Ihnen von All4Golf präsentiert. Der langjährige Partner des Deutscher Golf Verband e.V. (DGV) und Presenting Partner der Deutsche Golf Liga (DGL) steht Ihnen beim Einstieg in den Golfsport mit attraktiven Angeboten und einer riesigen Auswahl an Golfartikeln zur Seite. In der DGV-Platzreife App bietet Ihnen All4Golf bei erfolgreichem Bestehen des Prüfungsmodus und nach korrekt beantworteten Fragen im Übungsmodus unmittelbar Rabatte auf Ihren nächsten Einkauf. 2026 Deutscher Golf Verband e.V.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/85/f6/f985f63a-5544-6419-05e9-e6b7e14edc3a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/85/f6/f985f63a-5544-6419-05e9-e6b7e14edc3a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Kollen Druck- und Verlagsgesellschaft mit beschrankter Haftung",
     "artistName": "Köllen Golf",
     "screenshotUrls": [
@@ -55270,6 +55434,14 @@
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788263147497,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785683044362,
@@ -73036,9 +73208,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/trick-shot-math/id1510811475?uo=4",
-    "description": "Trick Shot Math 将您的数学练习转变为令人兴奋的游戏。 Trick Shot Math 由最自然的手写输入提供支持，并提供从一年级到六年级的大量数学事实选择，以及额外的自定义选项。您可以练习以下数学技能： 加法： 10 以内加法 18 以内加法 一个数与 10 的倍数相加 加双数 三个数相加，每个数不超过 10 相关加法和减法 20 以内加法 两位数和一位数相加 10 或 100 的倍数相加 两个两位数相加 100 以内加法 两个三位数以内相加 A",
-    "fullDescription": "Trick Shot Math 将您的数学练习转变为令人兴奋的游戏。 Trick Shot Math 由最自然的手写输入提供支持，并提供从一年级到六年级的大量数学事实选择，以及额外的自定义选项。您可以练习以下数学技能： 加法： 10 以内加法 18 以内加法 一个数与 10 的倍数相加 加双数 三个数相加，每个数不超过 10 相关加法和减法 20 以内加法 两位数和一位数相加 10 或 100 的倍数相加 两个两位数相加 100 以内加法 两个三位数以内相加 A",
-    "summaryDescription": "Trick Shot Math 将您的数学练习转变为令人兴奋的游戏。 Trick Shot Math 由最自然的手写输入提供支持，并提供从一年级到六年级的大量数学事实选择，以及额外的自定义选项。您可以练习以下数学技能： 加法： 10 以内加法 18 以内加法 一个数与 10 的倍数相加 加双数 三个数相加，每个数不超过 10 相关加法和减法 20 以内加法 两位数和一位数相加 10 或 100 的倍数相加 两个两位数相加 100 以内加法 两个三位数以内相加 A",
+    "description": "Trick Shot Math 将您的数学练习转变为令人兴奋的游戏。 Trick Shot Math 由最自然的手写输入提供支持，并提供从一年级到六年级的大量数学事实选择，以及额外的自定义选项。您可以练习以下数学技能： 加法： 10 以内的加法 18 以内的加法 一个数与 10 的倍数相加 加双数 三个数相加，每个数不超过 10 相关加法和减法 20 以内的加法 两位数和一位数相加 10 或 100 的倍数相加 两个两位数相加 100 以内的加法 两个三位数以内的数相加 A",
+    "fullDescription": "Trick Shot Math 将您的数学练习转变为令人兴奋的游戏。 Trick Shot Math 由最自然的手写输入提供支持，并提供从一年级到六年级的大量数学事实选择，以及额外的自定义选项。您可以练习以下数学技能： 加法： 10 以内的加法 18 以内的加法 一个数与 10 的倍数相加 加双数 三个数相加，每个数不超过 10 相关加法和减法 20 以内的加法 两位数和一位数相加 10 或 100 的倍数相加 两个两位数相加 100 以内的加法 两个三位数以内的数相加 A",
+    "summaryDescription": "Trick Shot Math 将您的数学练习转变为令人兴奋的游戏。 Trick Shot Math 由最自然的手写输入提供支持，并提供从一年级到六年级的大量数学事实选择，以及额外的自定义选项。您可以练习以下数学技能： 加法： 10 以内的加法 18 以内的加法 一个数与 10 的倍数相加 加双数 三个数相加，每个数不超过 10 相关加法和减法 20 以内的加法 两位数和一位数相加 10 或 100 的倍数相加 两个两位数相加 100 以内的加法 两个三位数以内的数相加 A",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/76/24/81762442-b7ff-154a-f363-1fa9be9cd598/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/76/24/81762442-b7ff-154a-f363-1fa9be9cd598/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/100x100bb.jpg",
     "sellerName": "Sergey Malugin",
@@ -103808,6 +103980,14 @@
     "history": [
       [
         {
+          "timestamp": 1788263147497,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785683044362,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -111759,6 +111939,14 @@
       "formattedPrice": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788263147497,
+          "price": 9,
+          "formattedPrice": "¥9.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785683044362,
@@ -132636,6 +132824,14 @@
       "formattedPrice": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788263147497,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785683044362,
@@ -154068,9 +154264,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/typotypo-%E7%85%A7%E7%89%87%E5%8A%A0%E6%96%87%E5%AD%97/id1609414621?uo=4",
-    "description": "Typotypo 是一款专业的文字艺术设计工具，让创意触手可及。 主要功能： 50 + 高级字体 — 含韩文、衬线、手写字体包 丰富的特效 — 马赛克、发光、弯曲、阴影 4K 高清导出 — JPEG/PDF/GIF 多格式支持 无限项目 — 不限保存数，随心创作 多图层设计 — 复杂构图轻松搞定 模板与图库 — 海量素材一键应用 适合海报设计、社交媒体内容、个性化创作的全能文字艺术工具。 订阅信息 — Premium (高级版年度自动续订订阅)时长: 1年 ，每年自动续订 价格: 以应用内显示价格为准 (购买确认时通过Apple ID因地区而异)扣款 在当前订阅期结束前24小时未关闭自动续订 ，将自动续订 可在App Store账户设置中管理订阅及关闭自动续订 使用条款(EULA): https://www.pentarab.com/typotypo/terms隐私政策: https://www.pentarab.com/typotypo/privacy",
-    "fullDescription": "Typotypo 是一款专业的文字艺术设计工具，让创意触手可及。 主要功能： 50 + 高级字体 — 含韩文、衬线、手写字体包 丰富的特效 — 马赛克、发光、弯曲、阴影 4K 高清导出 — JPEG/PDF/GIF 多格式支持 无限项目 — 不限保存数，随心创作 多图层设计 — 复杂构图轻松搞定 模板与图库 — 海量素材一键应用 适合海报设计、社交媒体内容、个性化创作的全能文字艺术工具。 订阅信息 — Premium (高级版年度自动续订订阅)时长: 1年 ，每年自动续订 价格: 以应用内显示价格为准 (购买确认时通过Apple ID因地区而异)扣款 在当前订阅期结束前24小时未关闭自动续订 ，将自动续订 可在App Store账户设置中管理订阅及关闭自动续订 使用条款(EULA): https://www.pentarab.com/typotypo/terms隐私政策: https://www.pentarab.com/typotypo/privacy",
-    "summaryDescription": "Typotypo 是一款专业的文字艺术设计工具，让创意触手可及。 主要功能： 50 + 高级字体 — 含韩文、衬线、手写字体包 丰富的特效 — 马赛克、发光、弯曲、阴影 4K 高清导出 — JPEG/PDF/GIF 多格式支持 无限项目 — 不限保存数，随心创作 多图层设计 — 复杂构图轻松搞定 模板与图库 — 海量素材一键应用 适合海报设计、社交媒体内容、个性化创作的全能文字艺术工具。 订阅信息 — Premium (高级版年度自动续订订阅)时长: 1年 ，每年自动续订 价格: 以应用内显示价格为准 (购买确认时通过Apple ID因地区而异)扣款 在当前订阅期结束前24小时未关闭自动续订 ，将自动续订 可在App Store账户设置中管理订阅及关闭自动续订 使用条款(EULA): https://www.pentarab.com/typotypo/terms隐私政策: https://www.pentarab.com/typotypo/privacy",
+    "description": "Typotypo 是一款专业的文字艺术设计工具，让创意触手可及。 主要功能： 50+ 高级字体 — 含韩文、衬线、手写字体包 丰富的特效 — 马赛克、发光、弯曲、阴影 4K 高清导出 — JPEG / PDF / GIF 多格式支持 无限项目 — 不限保存数，随心创作 多图层设计 — 复杂构图轻松搞定 模板与图库 — 海量素材一键应用 适合海报设计、社交媒体内容、个性化创作的全能文字艺术工具。 — 订阅信息 — Premium (年度自动续订订阅) 时长: 1年，每年自动续订 价格: 以应用内显示价格为准 (因地区而异) 购买确认时通过Apple ID扣款 在当前订阅期结束前24小时未关闭自动续订，将自动续订 可在App Store账户设置中管理订阅及关闭自动续订 使用条款(EULA): https://www.pentarab.com/typotypo/terms 隐私政策: https://www.pentarab.com/typotypo/privacy",
+    "fullDescription": "Typotypo 是一款专业的文字艺术设计工具，让创意触手可及。 主要功能： 50+ 高级字体 — 含韩文、衬线、手写字体包 丰富的特效 — 马赛克、发光、弯曲、阴影 4K 高清导出 — JPEG / PDF / GIF 多格式支持 无限项目 — 不限保存数，随心创作 多图层设计 — 复杂构图轻松搞定 模板与图库 — 海量素材一键应用 适合海报设计、社交媒体内容、个性化创作的全能文字艺术工具。 — 订阅信息 — Premium (年度自动续订订阅) 时长: 1年，每年自动续订 价格: 以应用内显示价格为准 (因地区而异) 购买确认时通过Apple ID扣款 在当前订阅期结束前24小时未关闭自动续订，将自动续订 可在App Store账户设置中管理订阅及关闭自动续订 使用条款(EULA): https://www.pentarab.com/typotypo/terms 隐私政策: https://www.pentarab.com/typotypo/privacy",
+    "summaryDescription": "Typotypo 是一款专业的文字艺术设计工具，让创意触手可及。 主要功能： 50+ 高级字体 — 含韩文、衬线、手写字体包 丰富的特效 — 马赛克、发光、弯曲、阴影 4K 高清导出 — JPEG / PDF / GIF 多格式支持 无限项目 — 不限保存数，随心创作 多图层设计 — 复杂构图轻松搞定 模板与图库 — 海量素材一键应用 适合海报设计、社交媒体内容、个性化创作的全能文字艺术工具。 — 订阅信息 — Premium (年度自动续订订阅) 时长: 1年，每年自动续订 价格: 以应用内显示价格为准 (因地区而异) 购买确认时通过Apple ID扣款 在当前订阅期结束前24小时未关闭自动续订，将自动续订 可在App Store账户设置中管理订阅及关闭自动续订 使用条款(EULA): https://www.pentarab.com/typotypo/terms 隐私政策: https://www.pentarab.com/typotypo/privacy",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/fa/38/d1fa3807-3752-bc54-b54b-c96177a7c3ff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/fa/38/d1fa3807-3752-bc54-b54b-c96177a7c3ff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
     "sellerName": "Pentarab",
@@ -213605,6 +213801,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788263147497,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "斜谷残阳": "¥36.00",
+            "终身版": "¥45.00",
+            "冠绝天下": "¥36.00"
+          }
+        },
         {
           "timestamp": 1788220555218,
           "price": 35,
