@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": 1788303577862,
+    "cn": {
+      "total": 2,
+      "price": 2,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6751312171,
+          "name": "Phase Chimes",
+          "type": "price",
+          "detail": "¥88.00 → ¥68.00"
+        },
+        {
+          "id": 6752672698,
+          "name": "SkySafari 8 Plus",
+          "type": "price",
+          "detail": "¥128.00 → ¥88.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788288003864,
     "cn": {
       "total": 21,
@@ -3219,28 +3241,6 @@
           "name": "Vurbit：意大利语动词",
           "type": "price",
           "detail": "¥38.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787427589486,
-    "cn": {
-      "total": 2,
-      "price": 0,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6779493280,
-          "name": "删图 OnePhoto",
-          "type": "iap",
-          "detail": "支持者版: ¥29.90 → ¥0.00"
-        },
-        {
-          "id": 6726997887,
-          "name": "TextVerified by Temphone",
-          "type": "iap",
-          "detail": "Service Verification: ¥22.00 → ¥15.00"
         }
       ]
     }
