@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": 1788226963072,
+    "cn": {
+      "total": 5,
+      "price": 5,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6759224538,
+          "name": "ScreenDoctor PRO",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 1510811475,
+          "name": "Trick Shot Math",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 1312646149,
+          "name": "First Grade Math Trainer",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6747307749,
+          "name": "CHAKK - 인스타 스토리 꾸미는 재미, 챡!",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 766858884,
+          "name": "Neutron Music Player",
+          "type": "price",
+          "detail": "¥88.00 → ¥58.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788213478102,
     "cn": {
       "total": 15,
@@ -3305,44 +3345,6 @@
           "name": "KORG Module Pro",
           "type": "iap",
           "detail": "Petrichor: ¥68.00 → ¥0.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787355878608,
-    "cn": {
-      "total": 2,
-      "price": 2,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 1549683587,
-          "name": "Money Pro",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 1016163162,
-          "name": "Exif 查看器 · 发现照片背后的故事",
-          "type": "price",
-          "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787349985703,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6476618917,
-          "name": "Currency++",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
         }
       ]
     }
