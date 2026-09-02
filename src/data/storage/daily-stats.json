@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": 1788389646054,
+    "cn": {
+      "total": 2,
+      "price": 1,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6777138096,
+          "name": "ChordMaster: 学习与练习",
+          "type": "iap",
+          "detail": "ChordMaster Pro Yearly: ¥186.00 → ¥148.00"
+        },
+        {
+          "id": 6761775005,
+          "name": "GLPzy：GLP-1记录",
+          "type": "price",
+          "detail": "¥598.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788377624168,
     "cn": {
       "total": 15,
@@ -3061,64 +3083,6 @@
           "name": "Über Umwege - Stadt erkunden",
           "type": "iap",
           "detail": "Detours Pro - Promo: ¥58.00 → ¥38.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787514948649,
-    "cn": {
-      "total": 8,
-      "price": 5,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6756681306,
-          "name": "SleepTune: White Noise & Rain",
-          "type": "price",
-          "detail": "¥68.00 → ¥58.00"
-        },
-        {
-          "id": 6758349989,
-          "name": "Typin - 极简输入应用",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6772662421,
-          "name": "抢签模拟·whv",
-          "type": "price",
-          "detail": "¥28.00 → ¥8.00"
-        },
-        {
-          "id": 6761987453,
-          "name": "明朝当官模拟器-俺在大明当首辅",
-          "type": "iap",
-          "detail": "3次继续考试的机会: ¥3.00 → ¥1.00"
-        },
-        {
-          "id": 6761987453,
-          "name": "明朝当官模拟器-俺在大明当首辅",
-          "type": "iap",
-          "detail": "直接通过考试: ¥3.00 → ¥1.00"
-        },
-        {
-          "id": 6761987453,
-          "name": "明朝当官模拟器-俺在大明当首辅",
-          "type": "iap",
-          "detail": "逢考必过符: ¥3.00 → ¥1.00"
-        },
-        {
-          "id": 6757943661,
-          "name": "阿福出境管家（原签证大师）",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 1271213321,
-          "name": "购物清单 - 简约风格的购物清单",
-          "type": "price",
-          "detail": "¥12.00 → 免费"
         }
       ]
     }
