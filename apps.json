@@ -2,6 +2,173 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 651203671,
+      "name": {
+        "cn": "牙科词典和词汇的条款，治疗方法和程序。"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788333019182,
+      "_discountType": "app"
+    },
+    {
+      "id": 890490026,
+      "name": {
+        "cn": "Daxiang Grammar"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788333027246,
+      "_discountType": "app"
+    },
+    {
+      "id": 1101739841,
+      "name": {
+        "cn": "Wayfarer Stars"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788333070372,
+      "_discountType": "app"
+    },
+    {
+      "id": 1528373297,
+      "name": {
+        "cn": "Canada Driver License G1 Test"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788333019182,
+      "_discountType": "app"
+    },
+    {
+      "id": 6802967321,
+      "name": {
+        "cn": "常回家看看吧"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788333013614,
+      "_discountType": "app"
+    },
+    {
+      "id": 6737270789,
+      "name": {
+        "cn": "Musei Capitolini Roma"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788333016674,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792676952,
+      "name": {
+        "cn": "货运司机记账助手 - 货运记账运输记录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788333019292,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775494748,
+      "name": {
+        "cn": "轮班排班表-倒班工时助手2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788333019292,
+      "_discountType": "app"
+    },
+    {
+      "id": 6800616114,
+      "name": {
+        "cn": "play_music_theory"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788333021947,
+      "_discountType": "app"
+    },
+    {
+      "id": 6771271431,
+      "name": {
+        "cn": "财富领航"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788333027209,
+      "_discountType": "app"
+    },
+    {
+      "id": 6752842992,
+      "name": {
+        "cn": "Reflection App - Reflectric"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788333070372,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6744659670,
+      "name": {
+        "cn": "Cash Counter: 点钞数钱与通用计数器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788333070372,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6764091194,
+      "name": {
+        "cn": "BillGuard Medical Bill Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788333070372,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6787106097,
+      "name": {
+        "cn": "DEVELOP·LATER: Film Camera"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788333070372,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6448397954,
+      "name": {
+        "cn": "几何计算器 – 三角形"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788333070372,
+      "_discountType": "app"
+    },
+    {
       "id": 6805444905,
       "name": {
         "cn": "唱唱鸭-同频成曲"

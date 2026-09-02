@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": 1788339244671,
+    "cn": {
+      "total": 10,
+      "price": 7,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6797875277,
+          "name": "羽球迹",
+          "type": "price",
+          "detail": "¥6.00 → 免费"
+        },
+        {
+          "id": 6789875887,
+          "name": "ListenCards",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        },
+        {
+          "id": 6772648377,
+          "name": "Hydrate or Diedrate Tracker",
+          "type": "iap",
+          "detail": "Hydrate or Diedrate: ¥28.00 → ¥22.00"
+        },
+        {
+          "id": 6777138096,
+          "name": "ChordMaster: 学习与练习",
+          "type": "iap",
+          "detail": "ChordMaster Pro Lifetime: ¥370.00 → ¥298.00"
+        },
+        {
+          "id": 6761543554,
+          "name": "旅途记账-旅行行程账本预算开支统计结余本地离线隐私登录随身",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6504203696,
+          "name": "Difela Tsa Sione Hymns",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6449638248,
+          "name": "极简轻眠-轻量的冥想、助眠、放松、减压、专注神器",
+          "type": "iap",
+          "detail": "解锁所有声音: ¥6.00 → ¥0.00"
+        },
+        {
+          "id": 1296076444,
+          "name": "央数-央行数据",
+          "type": "price",
+          "detail": "¥18.00 → ¥1.00"
+        },
+        {
+          "id": 1101739841,
+          "name": "Wayfarer Stars",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6448397954,
+          "name": "几何计算器 – 三角形",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788315817716,
     "cn": {
       "total": 1,
@@ -3099,136 +3169,6 @@
           "name": "Private LLM Chat: PocketMind",
           "type": "price",
           "detail": "¥15.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787471752582,
-    "cn": {
-      "total": 2,
-      "price": 0,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 1383181685,
-          "name": "DWG to PDF Converter Pro",
-          "type": "iap",
-          "detail": "Basic Version: ¥98.00 → ¥68.00"
-        },
-        {
-          "id": 6777819460,
-          "name": "AirPhotos:相册管家, 照片管理器-Slidebox",
-          "type": "iap",
-          "detail": "终身: ¥88.00 → ¥58.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787464619237,
-    "cn": {
-      "total": 2,
-      "price": 2,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6797827645,
-          "name": "爬楼助手 - 支持watch手表爬楼梯打卡",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6749217176,
-          "name": "SpotPin",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787458732190,
-    "cn": {
-      "total": 9,
-      "price": 9,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 1513271356,
-          "name": "PlayTally: Apple Music Stats",
-          "type": "price",
-          "detail": "¥28.00 → ¥22.00"
-        },
-        {
-          "id": 1556021583,
-          "name": "Rockabilly Radio",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6770347853,
-          "name": "QuellCut - 视频静音剪切",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6760823598,
-          "name": "ShopSuggest",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6449939349,
-          "name": "Combustor",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6775503330,
-          "name": "eSign PDF Converter & Editor",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6746726847,
-          "name": "eliozz",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6443682366,
-          "name": "OutRacer",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6799720840,
-          "name": "Yoink: Farming Brawler",
-          "type": "price",
-          "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787451946967,
-    "cn": {
-      "total": 2,
-      "price": 0,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 1662217862,
-          "name": "Wipr 2",
-          "type": "iap",
-          "detail": "Filtr: ¥168.00 → ¥38.00"
-        },
-        {
-          "id": 6502426413,
-          "name": "血压：追踪器",
-          "type": "iap",
-          "detail": "Lifetime: ¥1,998.00 → ¥798.00"
         }
       ]
     }
