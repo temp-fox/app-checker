@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6805444905,
+      "name": {
+        "cn": "唱唱鸭-同频成曲"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788308359988,
+      "_discountType": "app"
+    },
+    {
       "id": 6758235112,
       "name": {
         "cn": "诗一 · 每日古诗词"

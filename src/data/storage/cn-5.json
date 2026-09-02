@@ -1,4 +1,166 @@
 {
+  "6777542389": {
+    "name": "Exifspot",
+    "trackName": "Exifspot",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786159616485,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1785785443602,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1785120104309,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1785033222002,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1784827357827,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/exifspot/id6777542389?uo=4",
+    "description": "Exifspot is a calm, single-purpose viewer for everything your camera quietly writes into a photo: the EXIF, the TIFF tags, the GPS coordinates, the lens model, the exposure - and the position of the sun at the moment you pressed the shutter. WHY EXIFSPOT Modern photo apps hide your camera's metadata behind a tiny \"i\" button or paywall it inside a $20 RAW editor. Exifspot is the focused, $0.99 alternative. Pick a shot, scroll the table, copy any field. Done. Built for the photographer who just wants to know \"what was I shooting at?\" without booting up Lightroom. WHAT YOU GET Camera: make, model, software version. Lens: model name (with a 68-entry friendly-name dictionary that turns \"EF50mm f/1.4 USM\" into \"Canon EF 50mm f/1.4 USM Prime\"), focal length in mm, and the 35-mm equivalent. Exposure: aperture as f/2.8, shutter as 1/250 s, ISO as ISO 400, EV bias, metering mode, white balance, flash status. GPS: precise coordinates with N/S/E/W signs, altitude (above or below sea level), compass heading - and a dark-mode map with a dropped camera-aperture pin showing exactly where the photo was taken. Sun at capture: azimuth and elevation calculated on-device using the NOAA solar-position algorithm. We tell you whether the moment was dawn, sunrise, morning, solar noon, afternoon, sunset, dusk, or night - and flag golden-hour and blue-hour shots automatically. File: pixel dimensions, megapixels, file size, color space, EXIF orientation, photo ID. Export: copy the metadata as JSON, copy a plain-text summary, or share a .json sidecar to any app. HOW IT WORKS Tap \"Pick a photo\" - the iOS photo picker opens. Exifspot reads the bytes locally and shows the full metadata table. Recently inspected photos are saved to a local history (just the metadata snapshot, never the image bytes). PRIVATE BY DESIGN Exifspot uses the system photo picker, so the app NEVER asks for full photo-library access. It only sees the bytes of the photos you explicitly pick. No accounts, no analytics, no telemetry, no network calls, no ads, no subscription. The sun position is computed offline using a published deterministic algorithm - no WeatherKit, no API. The PrivacyInfo manifest declares only the standard UserDefaults reason code (CA92.1) for storing your inspection history. ONE-TIME PURCHASE Exifspot is a single $0.99 purchase. No in-app purchases. No upsells. No \"pro\" tier. Everything above is the whole product. GREAT FOR Photographers comparing their settings across a shoot. Bloggers documenting \"what camera was that?\" for a writeup. Hobbyists curious where their travel photos were taken. Anyone who wants to know if a beach shot really WAS taken at golden hour. Open Exifspot, pick a photo, and finally see what your camera has been writing into every shot.",
+    "fullDescription": "Exifspot is a calm, single-purpose viewer for everything your camera quietly writes into a photo: the EXIF, the TIFF tags, the GPS coordinates, the lens model, the exposure - and the position of the sun at the moment you pressed the shutter. WHY EXIFSPOT Modern photo apps hide your camera's metadata behind a tiny \"i\" button or paywall it inside a $20 RAW editor. Exifspot is the focused, $0.99 alternative. Pick a shot, scroll the table, copy any field. Done. Built for the photographer who just wants to know \"what was I shooting at?\" without booting up Lightroom. WHAT YOU GET Camera: make, model, software version. Lens: model name (with a 68-entry friendly-name dictionary that turns \"EF50mm f/1.4 USM\" into \"Canon EF 50mm f/1.4 USM Prime\"), focal length in mm, and the 35-mm equivalent. Exposure: aperture as f/2.8, shutter as 1/250 s, ISO as ISO 400, EV bias, metering mode, white balance, flash status. GPS: precise coordinates with N/S/E/W signs, altitude (above or below sea level), compass heading - and a dark-mode map with a dropped camera-aperture pin showing exactly where the photo was taken. Sun at capture: azimuth and elevation calculated on-device using the NOAA solar-position algorithm. We tell you whether the moment was dawn, sunrise, morning, solar noon, afternoon, sunset, dusk, or night - and flag golden-hour and blue-hour shots automatically. File: pixel dimensions, megapixels, file size, color space, EXIF orientation, photo ID. Export: copy the metadata as JSON, copy a plain-text summary, or share a .json sidecar to any app. HOW IT WORKS Tap \"Pick a photo\" - the iOS photo picker opens. Exifspot reads the bytes locally and shows the full metadata table. Recently inspected photos are saved to a local history (just the metadata snapshot, never the image bytes). PRIVATE BY DESIGN Exifspot uses the system photo picker, so the app NEVER asks for full photo-library access. It only sees the bytes of the photos you explicitly pick. No accounts, no analytics, no telemetry, no network calls, no ads, no subscription. The sun position is computed offline using a published deterministic algorithm - no WeatherKit, no API. The PrivacyInfo manifest declares only the standard UserDefaults reason code (CA92.1) for storing your inspection history. ONE-TIME PURCHASE Exifspot is a single $0.99 purchase. No in-app purchases. No upsells. No \"pro\" tier. Everything above is the whole product. GREAT FOR Photographers comparing their settings across a shoot. Bloggers documenting \"what camera was that?\" for a writeup. Hobbyists curious where their travel photos were taken. Anyone who wants to know if a beach shot really WAS taken at golden hour. Open Exifspot, pick a photo, and finally see what your camera has been writing into every shot.",
+    "summaryDescription": "Exifspot is a calm, single-purpose viewer for everything your camera quietly writes into a photo: the EXIF, the TIFF tags, the GPS coordinates, the lens model, the exposure - and the position of the sun at the moment you pressed the shutter. WHY EXIFSPOT Modern photo apps hide your camera's metadata behind a tiny \"i\" button or paywall it inside a $20 RAW editor. Exifspot is the focused, $0.99 alternative. Pick a shot, scroll the table, copy any field. Done. Built for the photographer who just wants to know \"what was I shooting at?\" without booting up Lightroom. WHAT YOU GET Camera: make, model, software version. Lens: model name (with a 68-entry friendly-name dictionary that turns \"EF50mm f/1.4 USM\" into \"Canon EF 50mm f/1.4 USM Prime\"), focal length in mm, and the 35-mm equivalent. Exposure: aperture as f/2.8, shutter as 1/250 s, ISO as ISO 400, EV bias, metering mode, white balance, flash status. GPS: precise coordinates with N/S/E/W signs, altitude (above or below sea level), compass heading - and a dark-mode map with a dropped camera-aperture pin showing exactly where the photo was taken. Sun at capture: azimuth and elevation calculated on-device using the NOAA solar-position algorithm. We tell you whether the moment was dawn, sunrise, morning, solar noon, afternoon, sunset, dusk, or night - and flag golden-hour and blue-hour shots automatically. File: pixel dimensions, megapixels, file size, color space, EXIF orientation, photo ID. Export: copy the metadata as JSON, copy a plain-text summary, or share a .json sidecar to any app. HOW IT WORKS Tap \"Pick a photo\" - the iOS photo picker opens. Exifspot reads the bytes locally and shows the full metadata table. Recently inspected photos are saved to a local history (just the metadata snapshot, never the image bytes). PRIVATE BY DESIGN Exifspot uses the system photo picker, so the app NEVER asks for full photo-library access. It only sees the bytes of the photos you explicitly pick. No accounts, no analytics, no telemetry, no network calls, no ads, no subscription. The sun position is computed offline using a published deterministic algorithm - no WeatherKit, no API. The PrivacyInfo manifest declares only the standard UserDefaults reason code (CA92.1) for storing your inspection history. ONE-TIME PURCHASE Exifspot is a single $0.99 purchase. No in-app purchases. No upsells. No \"pro\" tier. Everything above is the whole product. GREAT FOR Photographers comparing their settings across a shoot. Bloggers documenting \"what camera was that?\" for a writeup. Hobbyists curious where their travel photos were taken. Anyone who wants to know if a beach shot really WAS taken at golden hour. Open Exifspot, pick a photo, and finally see what your camera has been writing into every shot.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/2e/a7/fd2ea740-7b78-4cd4-8736-dddc07b31c86/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/2e/a7/fd2ea740-7b78-4cd4-8736-dddc07b31c86/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Robert Corbin",
+    "artistName": "Robert Corbin",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/06/4d/70064d54-c885-ff26-2686-e70a7b12561c/01-exifspot-APP_IPHONE_67.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/3c/51/a13c5115-45fe-be40-05c6-a949f3dda407/01-exifspot-APP_IPAD_PRO_3GEN_129.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784827329324
+  },
+  "6791107314": {
+    "name": "JOLUCK吉他指板训练",
+    "trackName": "JOLUCK吉他指板训练",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786632933031,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1784827357827,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/joluck%E5%90%89%E4%BB%96%E6%8C%87%E6%9D%BF%E8%AE%AD%E7%BB%83/id6791107314?uo=4",
+    "description": "JOLUCK吉他指板训练 是一款为古典吉他学习者设计的塞戈维亚音阶训练工具。 核心功能： 收录 Segovia 24 条大小调音阶路线 吉他指板与五线谱同步显示 逐音呈现左手指法、弦与品位 跟练模式：按经典指法路线逐步练习 看谱找音：根据谱面在指板上定位正确音符 节拍器与自动演奏辅助建立稳定节奏 支持离线使用，无需注册，无广告 适合古典吉他初学者、教师与希望系统巩固音阶把位的演奏者。你可以从单个音符开始，逐步掌握换把、跨弦与完整上下行路线，让经典练习从纸面变成清晰、可重复的日常训练。 本应用专注练习体验，不提供社交、账号或云同步功能。",
+    "fullDescription": "JOLUCK吉他指板训练 是一款为古典吉他学习者设计的塞戈维亚音阶训练工具。 核心功能： 收录 Segovia 24 条大小调音阶路线 吉他指板与五线谱同步显示 逐音呈现左手指法、弦与品位 跟练模式：按经典指法路线逐步练习 看谱找音：根据谱面在指板上定位正确音符 节拍器与自动演奏辅助建立稳定节奏 支持离线使用，无需注册，无广告 适合古典吉他初学者、教师与希望系统巩固音阶把位的演奏者。你可以从单个音符开始，逐步掌握换把、跨弦与完整上下行路线，让经典练习从纸面变成清晰、可重复的日常训练。 本应用专注练习体验，不提供社交、账号或云同步功能。",
+    "summaryDescription": "JOLUCK吉他指板训练 是一款为古典吉他学习者设计的塞戈维亚音阶训练工具。 核心功能： 收录 Segovia 24 条大小调音阶路线 吉他指板与五线谱同步显示 逐音呈现左手指法、弦与品位 跟练模式：按经典指法路线逐步练习 看谱找音：根据谱面在指板上定位正确音符 节拍器与自动演奏辅助建立稳定节奏 支持离线使用，无需注册，无广告 适合古典吉他初学者、教师与希望系统巩固音阶把位的演奏者。你可以从单个音符开始，逐步掌握换把、跨弦与完整上下行路线，让经典练习从纸面变成清晰、可重复的日常训练。 本应用专注练习体验，不提供社交、账号或云同步功能。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/a4/16/04a41664-e78d-d51f-41bf-73ff2abaf5e0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/a4/16/04a41664-e78d-d51f-41bf-73ff2abaf5e0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "旭辉 焦",
+    "artistName": "旭辉 焦",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/7a/0b/5f7a0bfe-beb8-dbd1-f070-89c1c21f45aa/iphone-01-scale-practice-2688x1242.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/cb/70/60cb70b4-1a28-f689-d638-2029ee491e49/iphone-02-sight-reading-2688x1242.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/cb/cb/b5cbcbf2-0f88-dd06-da3f-af66c1ff6ae6/iphone-03-chord-demo-2688x1242.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/b7/4a/70b74a53-9fc9-ef34-ec1f-5ab438cbda78/ipad-centered-03-chord-demo-2752x2064.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/5b/be/5b5bbebf-3c26-c7fe-e150-54f9a5b1a365/ipad-centered-02-sight-reading-2752x2064.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/c6/8e/6ec68e2d-f46e-d837-4758-07ab28c16bbc/ipad-centered-01-scale-practice-2752x2064.jpg/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784827331903
+  },
+  "6779314887": {
+    "name": "日常有数",
+    "trackName": "日常有数",
+    "maxPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784827357827,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%97%A5%E5%B8%B8%E6%9C%89%E6%95%B0/id6779314887?uo=4",
+    "description": "日常有数是一款专注于日常事务记录与周期管理的应用。 无论是个人护理、家居卫生、宠物和植物照护，还是其他需要定期关注的事项，日常有数都能帮助你轻松记录、查看历史记录，并提醒距离下一次事项还有多久。 功能特色： 记录日常生活中的重要事项 自定义分类与管理内容 清晰展示历史记录与时间间隔 帮助管理周期性事务 简洁直观的操作体验 数据存储于本地设备，保护个人隐私 通过日常有数，让生活中的重要事项井井有条。 LoopCare is a simple and intuitive app designed to help you keep track of recurring routines and important life events. Whether it's personal care, household maintenance, pet care, or other activities that happen on a regular schedule, LoopCare helps you stay organized and informed. Features: Track recurring routines and events Create and manage custom records View activity history at a glance Monitor timing and intervals between events Clean and easy-to-use interface Privacy-focused design LoopCare helps you organize everyday responsibilities and maintain important routines without unnecessary complexity. All data is stored locally on your device.",
+    "fullDescription": "日常有数是一款专注于日常事务记录与周期管理的应用。 无论是个人护理、家居卫生、宠物和植物照护，还是其他需要定期关注的事项，日常有数都能帮助你轻松记录、查看历史记录，并提醒距离下一次事项还有多久。 功能特色： 记录日常生活中的重要事项 自定义分类与管理内容 清晰展示历史记录与时间间隔 帮助管理周期性事务 简洁直观的操作体验 数据存储于本地设备，保护个人隐私 通过日常有数，让生活中的重要事项井井有条。 LoopCare is a simple and intuitive app designed to help you keep track of recurring routines and important life events. Whether it's personal care, household maintenance, pet care, or other activities that happen on a regular schedule, LoopCare helps you stay organized and informed. Features: Track recurring routines and events Create and manage custom records View activity history at a glance Monitor timing and intervals between events Clean and easy-to-use interface Privacy-focused design LoopCare helps you organize everyday responsibilities and maintain important routines without unnecessary complexity. All data is stored locally on your device.",
+    "summaryDescription": "日常有数是一款专注于日常事务记录与周期管理的应用。 无论是个人护理、家居卫生、宠物和植物照护，还是其他需要定期关注的事项，日常有数都能帮助你轻松记录、查看历史记录，并提醒距离下一次事项还有多久。 功能特色： 记录日常生活中的重要事项 自定义分类与管理内容 清晰展示历史记录与时间间隔 帮助管理周期性事务 简洁直观的操作体验 数据存储于本地设备，保护个人隐私 通过日常有数，让生活中的重要事项井井有条。 LoopCare is a simple and intuitive app designed to help you keep track of recurring routines and important life events. Whether it's personal care, household maintenance, pet care, or other activities that happen on a regular schedule, LoopCare helps you stay organized and informed. Features: Track recurring routines and events Create and manage custom records View activity history at a glance Monitor timing and intervals between events Clean and easy-to-use interface Privacy-focused design LoopCare helps you organize everyday responsibilities and maintain important routines without unnecessary complexity. All data is stored locally on your device.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/76/68/b8766807-704d-ec8d-76a6-00f821702896/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/76/68/b8766807-704d-ec8d-76a6-00f821702896/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "祎蓝 陆",
+    "artistName": "祎蓝 陆",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/26/90/6e269044-a8b4-0b01-6bd9-70feac025529/01_onboarding_intro_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/1f/bc/ab1fbcc1-1c3b-b944-540a-c44800c8968e/03_onboarding_recommend_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/16/b8/ea16b8b1-9984-55da-0d54-3dcdb4f90e22/04_home_homeHygiene_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/1e/73/1e1e736a-19f2-2692-6d28-8780c8a20b59/09_star_jar_2.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/e1/d4/89e1d422-e8b6-f4d1-ee7a-406599b8f7eb/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-16_at_16.15.31.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/87/a7/ff87a7a1-e2d9-37df-3898-3fedc5ba527c/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-16_at_16.15.45.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/57/25/1457256d-4b38-032e-5ebd-9c83ee03a382/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-16_at_16.16.01.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/bd/55/95bd55da-64e8-83fb-c847-a8ccc1b3ba0b/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-16_at_16.16.24.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/9b/d6/5e9bd674-fb1e-4a21-614a-5f90da6aff81/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-07-16_at_16.16.56.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784827334728
+  },
   "6745196852": {
     "name": "CalmEyes: Dark Mode Browser",
     "trackName": "CalmEyes: Dark Mode Browser",
@@ -2573,19 +2735,20 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8F%B0%E7%90%83%E8%AE%B0%E5%88%86%E5%99%A8-pro/id6792800689?uo=4",
-    "description": "台球记分器 Pro 是一款专为台球爱好者设计的计分工具。 支持： 九球追分模式 中式八球模式 斯诺克模式 自定义比赛模式 练球训练模式 无需注册账号，无需联网，打开即可使用。 适用于日常练习、朋友比赛以及台球俱乐部计分。",
-    "fullDescription": "台球记分器 Pro 是一款专为台球爱好者设计的计分工具。 支持： 九球追分模式 中式八球模式 斯诺克模式 自定义比赛模式 练球训练模式 无需注册账号，无需联网，打开即可使用。 适用于日常练习、朋友比赛以及台球俱乐部计分。",
-    "summaryDescription": "台球记分器 Pro 是一款专为台球爱好者设计的计分工具。 支持： 九球追分模式 中式八球模式 斯诺克模式 自定义比赛模式 练球训练模式 无需注册账号，无需联网，打开即可使用。 适用于日常练习、朋友比赛以及台球俱乐部计分。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/48/36/f048369b-5b35-e9ff-67b7-8a5f4129b1a8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/48/36/f048369b-5b35-e9ff-67b7-8a5f4129b1a8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "description": "三大竞技模式，专业记分 9球追分：大金、小金、普胜、犯规完整计分体系，支持 2 至 4 人 中式八球：炸清、接清、黑8决胜，规则自由定制 斯诺克：标准计分规则、单杆追踪、清彩阶段引导，冲击 147 每场比赛自动生成详细报告：选手数据、每局回顾、事件时间线 练球模式，系统提升 9球清台挑战：开球流程、连进记录、失误追踪，冲击一杆清台 8球清台挑战：开球、定色、自由选球，统计一杆清台率 斯诺克单杆训练：标准规则、清彩顺序、自动结束，向 147 前进 专业 3D 台球渲染，球感真实 训练数据中心 球手等级体系：训练时长解锁新手球手、练习球手、稳定球手、球房高手 训练表现一目了然：清台次数、最佳成绩、失误分析、最近训练记录 更多贴心功能 语音播报得分，专心打球不用看屏幕 比赛自动保存，误杀后台随时恢复 历史比赛随时回看，战绩永久保存 比赛分享图一键保存相册，战绩晒出来 无论你是想系统涨球，还是和朋友认真打一场，台球记分器 Pro 都值得装在手机里",
+    "fullDescription": "三大竞技模式，专业记分 9球追分：大金、小金、普胜、犯规完整计分体系，支持 2 至 4 人 中式八球：炸清、接清、黑8决胜，规则自由定制 斯诺克：标准计分规则、单杆追踪、清彩阶段引导，冲击 147 每场比赛自动生成详细报告：选手数据、每局回顾、事件时间线 练球模式，系统提升 9球清台挑战：开球流程、连进记录、失误追踪，冲击一杆清台 8球清台挑战：开球、定色、自由选球，统计一杆清台率 斯诺克单杆训练：标准规则、清彩顺序、自动结束，向 147 前进 专业 3D 台球渲染，球感真实 训练数据中心 球手等级体系：训练时长解锁新手球手、练习球手、稳定球手、球房高手 训练表现一目了然：清台次数、最佳成绩、失误分析、最近训练记录 更多贴心功能 语音播报得分，专心打球不用看屏幕 比赛自动保存，误杀后台随时恢复 历史比赛随时回看，战绩永久保存 比赛分享图一键保存相册，战绩晒出来 无论你是想系统涨球，还是和朋友认真打一场，台球记分器 Pro 都值得装在手机里",
+    "summaryDescription": "三大竞技模式，专业记分 9球追分：大金、小金、普胜、犯规完整计分体系，支持 2 至 4 人 中式八球：炸清、接清、黑8决胜，规则自由定制 斯诺克：标准计分规则、单杆追踪、清彩阶段引导，冲击 147 每场比赛自动生成详细报告：选手数据、每局回顾、事件时间线 练球模式，系统提升 9球清台挑战：开球流程、连进记录、失误追踪，冲击一杆清台 8球清台挑战：开球、定色、自由选球，统计一杆清台率 斯诺克单杆训练：标准规则、清彩顺序、自动结束，向 147 前进 专业 3D 台球渲染，球感真实 训练数据中心 球手等级体系：训练时长解锁新手球手、练习球手、稳定球手、球房高手 训练表现一目了然：清台次数、最佳成绩、失误分析、最近训练记录 更多贴心功能 语音播报得分，专心打球不用看屏幕 比赛自动保存，误杀后台随时恢复 历史比赛随时回看，战绩永久保存 比赛分享图一键保存相册，战绩晒出来 无论你是想系统涨球，还是和朋友认真打一场，台球记分器 Pro 都值得装在手机里",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/69/fc/fb69fcdb-b547-b494-621b-30f321e35de6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/69/fc/fb69fcdb-b547-b494-621b-30f321e35de6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "涛 王",
     "artistName": "涛 王",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/b0/6e/f3b06eac-0b84-8356-392b-1fd7218e8c1e/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-07-20_at_23.49.48.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/4e/14/4b4e148b-2bfe-5998-b711-de379368c17b/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-07-20_at_23.49.03.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/8c/2c/c68c2c8b-e48b-1b56-a5b4-0ee83046fc62/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-07-20_at_23.49.21.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/d1/19/93d11957-f6a9-696d-dd15-ad458fc0bc4b/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-07-20_at_23.48.54.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/56/49/e6564966-9fa6-c445-a867-9231fa57f4e8/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-07-20_at_23.50.38.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/18/e7/1018e737-6257-4973-abba-f2b4fd39f9d2/Screenshot_iPhone_17_Pro_Max_2026-09-02_at_01.05.05.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/6b/54/a76b54be-efb3-1479-3a59-23aca36c3f0e/Screenshot_iPhone_17_Pro_Max_2026-09-02_at_01.05.18.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/e8/6b/cbe86bef-9c52-cd1c-3567-fd60f0d482b8/Screenshot_iPhone_17_Pro_Max_2026-09-02_at_01.05.49.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/6e/46/796e462f-7695-189e-6305-26e8b64c005b/Screenshot_iPhone_17_Pro_Max_2026-09-02_at_01.06.16.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/d0/1a/d4d01a51-9f6d-b1cd-5a3d-79c0feafaadd/Screenshot_iPhone_17_Pro_Max_2026-09-02_at_01.07.02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/8b/d0/758bd0ac-4637-b8a7-39a1-3fda5f6018c0/Screenshot_iPhone_17_Pro_Max_2026-09-02_at_01.07.26.png/320x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1784934116075
   },
@@ -10307,9 +10470,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/appvantage-sales-analytics-pro/id6778536339?uo=4",
-    "description": "Appvantage 是查看您的 App Store 数量的私密方式。连接只读的 App Store Connect 密钥，即可立即查看您发布的每个应用程序的销售额、收益、付款和订阅。您的数据永远不会离开您的设备。为什么开发者选择应用程序 一目了然地查看所有应用程序昨天的销售和收入 跟踪下载、重新下载、更新和应用程序内购买，一切都准确 通过清晰的活动热图和每月图表跟踪趋势 了解订阅：活跃订阅者、试用、转化和流失 按月份和货币检查实际支出，实际上是什么",
-    "fullDescription": "Appvantage 是查看您的 App Store 数量的私密方式。连接只读的 App Store Connect 密钥，即可立即查看您发布的每个应用程序的销售额、收益、付款和订阅。您的数据永远不会离开您的设备。为什么开发者选择应用程序 一目了然地查看所有应用程序昨天的销售和收入 跟踪下载、重新下载、更新和应用程序内购买，一切都准确 通过清晰的活动热图和每月图表跟踪趋势 了解订阅：活跃订阅者、试用、转化和流失 按月份和货币检查实际支出，实际上是什么",
-    "summaryDescription": "Appvantage 是查看您的 App Store 数量的私密方式。连接只读的 App Store Connect 密钥，即可立即查看您发布的每个应用程序的销售额、收益、付款和订阅。您的数据永远不会离开您的设备。为什么开发者选择应用程序 一目了然地查看所有应用程序昨天的销售和收入 跟踪下载、重新下载、更新和应用程序内购买，一切都准确 通过清晰的活动热图和每月图表跟踪趋势 了解订阅：活跃订阅者、试用、转化和流失 按月份和货币检查实际支出，实际上是什么",
+    "description": "Appvantage是查看App Store号码的私人方式。连接只读App Store Connect密钥，即时查看您发运的每个应用程序的销售额、收益、收款和订阅情况。您的数据永远不会离开您的设备。为什么开发人员选择APPVANTAGE一目了然地查看所有应用程序的昨天销售额和收入跟踪下载、重新下载、更新和应用程序中的购买，所有这些都准确使用干净的活动热图和月度图表跟踪趋势了解订阅：激活",
+    "fullDescription": "Appvantage是查看App Store号码的私人方式。连接只读App Store Connect密钥，即时查看您发运的每个应用程序的销售额、收益、收款和订阅情况。您的数据永远不会离开您的设备。为什么开发人员选择APPVANTAGE一目了然地查看所有应用程序的昨天销售额和收入跟踪下载、重新下载、更新和应用程序中的购买，所有这些都准确使用干净的活动热图和月度图表跟踪趋势了解订阅：激活",
+    "summaryDescription": "Appvantage是查看App Store号码的私人方式。连接只读App Store Connect密钥，即时查看您发运的每个应用程序的销售额、收益、收款和订阅情况。您的数据永远不会离开您的设备。为什么开发人员选择APPVANTAGE一目了然地查看所有应用程序的昨天销售额和收入跟踪下载、重新下载、更新和应用程序中的购买，所有这些都准确使用干净的活动热图和月度图表跟踪趋势了解订阅：激活",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/19/6a/3b196aa9-e87d-7a3f-291c-3a35636a5f55/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/19/6a/3b196aa9-e87d-7a3f-291c-3a35636a5f55/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Aneesh Pradeep",
@@ -15448,9 +15611,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E6%99%BA%E8%83%BD%E4%B8%80%E9%94%AE%E6%B8%85%E7%90%86%E9%87%8D%E5%A4%8D%E7%85%A7%E7%89%87-%E8%A7%86%E9%A2%91%E4%B8%8E%E6%88%AA%E5%9B%BE-%E5%88%A0%E9%99%A4%E5%A4%A7%E6%96%87%E4%BB%B6%E9%87%8A%E6%94%BE%E7%A9%BA%E9%97%B4/id6758605025?uo=4",
-    "description": "存储空间又满了？填满您 iPhone 的大部分都是您遗忘的杂物——重复的照片、巨大的视频和好几个月的屏幕截图。Cleanup Photos 能找到所有这些，只需轻按一下即可清除。 而且，一次性购买即可永久拥有。无订阅。无套路。 ■ 一次付费。终身拥有。 Cleanup Photos 是一次性买断，涵盖 iPhone 和 iPad——购买一次，永久使用。 ■ 您的照片永远不会离开您的设备 每次扫描 100% 在设备端运行。没有任何内容会上传到云端，也不需要帐户。您的图库保持完全私密。 ■ 一键释放千兆字节 智能建议会准确显示您可以恢复多少空间，然后立即清除重复和模糊的照片。您可以一目了然地查看按照片、视频、屏幕截图、重复项、屏幕录制和慢动作分类的存储空间。 ■ 擦除所有重复项 Cleanup Photos 会检测完全相同和几乎完全相同的副本，自动保留最佳版本，并通过智能合并一键合并其余部分。 ■ 解决大文件 按文件大小对照片和视频进行排序，找出那些悄悄吞噬千兆字节的少数大文件——然后仅删除您选择的文件。 ■ 按月清除屏幕截图 屏幕截图堆积得很快。Cleanup Photos 会按月将它们分组，这样您就可以在几秒钟内清除数百张屏幕截图。 ■ 您始终掌控一切 未经您的确认，绝不会删除任何内容。审查所有内容，保留重要的，放心地删除其余的。 ■ 来自 EXIF VIEWER 的创作者 由苹果",
-    "fullDescription": "存储空间又满了？填满您 iPhone 的大部分都是您遗忘的杂物——重复的照片、巨大的视频和好几个月的屏幕截图。Cleanup Photos 能找到所有这些，只需轻按一下即可清除。 而且，一次性购买即可永久拥有。无订阅。无套路。 ■ 一次付费。终身拥有。 Cleanup Photos 是一次性买断，涵盖 iPhone 和 iPad——购买一次，永久使用。 ■ 您的照片永远不会离开您的设备 每次扫描 100% 在设备端运行。没有任何内容会上传到云端，也不需要帐户。您的图库保持完全私密。 ■ 一键释放千兆字节 智能建议会准确显示您可以恢复多少空间，然后立即清除重复和模糊的照片。您可以一目了然地查看按照片、视频、屏幕截图、重复项、屏幕录制和慢动作分类的存储空间。 ■ 擦除所有重复项 Cleanup Photos 会检测完全相同和几乎完全相同的副本，自动保留最佳版本，并通过智能合并一键合并其余部分。 ■ 解决大文件 按文件大小对照片和视频进行排序，找出那些悄悄吞噬千兆字节的少数大文件——然后仅删除您选择的文件。 ■ 按月清除屏幕截图 屏幕截图堆积得很快。Cleanup Photos 会按月将它们分组，这样您就可以在几秒钟内清除数百张屏幕截图。 ■ 您始终掌控一切 未经您的确认，绝不会删除任何内容。审查所有内容，保留重要的，放心地删除其余的。 ■ 来自 EXIF VIEWER 的创作者 由苹果",
-    "summaryDescription": "存储空间又满了？填满您 iPhone 的大部分都是您遗忘的杂物——重复的照片、巨大的视频和好几个月的屏幕截图。Cleanup Photos 能找到所有这些，只需轻按一下即可清除。 而且，一次性购买即可永久拥有。无订阅。无套路。 ■ 一次付费。终身拥有。 Cleanup Photos 是一次性买断，涵盖 iPhone 和 iPad——购买一次，永久使用。 ■ 您的照片永远不会离开您的设备 每次扫描 100% 在设备端运行。没有任何内容会上传到云端，也不需要帐户。您的图库保持完全私密。 ■ 一键释放千兆字节 智能建议会准确显示您可以恢复多少空间，然后立即清除重复和模糊的照片。您可以一目了然地查看按照片、视频、屏幕截图、重复项、屏幕录制和慢动作分类的存储空间。 ■ 擦除所有重复项 Cleanup Photos 会检测完全相同和几乎完全相同的副本，自动保留最佳版本，并通过智能合并一键合并其余部分。 ■ 解决大文件 按文件大小对照片和视频进行排序，找出那些悄悄吞噬千兆字节的少数大文件——然后仅删除您选择的文件。 ■ 按月清除屏幕截图 屏幕截图堆积得很快。Cleanup Photos 会按月将它们分组，这样您就可以在几秒钟内清除数百张屏幕截图。 ■ 您始终掌控一切 未经您的确认，绝不会删除任何内容。审查所有内容，保留重要的，放心地删除其余的。 ■ 来自 EXIF VIEWER 的创作者 由苹果",
+    "description": "存储空间又满了？填满您 iPhone 的大部分都是您遗忘的杂物——重复的照片、巨大的视频和好几个月的屏幕截图。清理照片能找到所有这些，只需轻按一下即可清除。 而且，一次性购买即可永久拥有。无订阅。无套路。 ■ 一次付费。终身拥有。清理照片是一次性买断，涵盖 iPhone 和 iPad——购买一次 ，永久使用。 ■ 您的照片永远不会离开您的设备 每次扫描 100% 在设备端运行。没有任何内容会上传到云端，也不需要帐户。您的图库保持完全私密。 ■ 一键释放千兆字节 智能建议会准确显示您可以恢复多少空间，然后立即清除重复和模糊的照片。您可以一目了然地查看按照片、视频、屏幕截图、重复项、屏幕录制和慢动作分类的存储空间。 ■ 擦除所有重复项清理照片会检测完全相同和几乎完全相同的副本，自动保留最佳版本 ，并通过智能合并一键合并其余部分。 ■ 解决大文件 按文件大小对照片和视频进行排序，找出那些悄悄吞噬千兆字节的少数大文件 ——然后仅删除您选择的文件。 ■ 按月清除屏幕截图 屏幕截图堆积得很快。清理照片 会按月将它们",
+    "fullDescription": "存储空间又满了？填满您 iPhone 的大部分都是您遗忘的杂物——重复的照片、巨大的视频和好几个月的屏幕截图。清理照片能找到所有这些，只需轻按一下即可清除。 而且，一次性购买即可永久拥有。无订阅。无套路。 ■ 一次付费。终身拥有。清理照片是一次性买断，涵盖 iPhone 和 iPad——购买一次 ，永久使用。 ■ 您的照片永远不会离开您的设备 每次扫描 100% 在设备端运行。没有任何内容会上传到云端，也不需要帐户。您的图库保持完全私密。 ■ 一键释放千兆字节 智能建议会准确显示您可以恢复多少空间，然后立即清除重复和模糊的照片。您可以一目了然地查看按照片、视频、屏幕截图、重复项、屏幕录制和慢动作分类的存储空间。 ■ 擦除所有重复项清理照片会检测完全相同和几乎完全相同的副本，自动保留最佳版本 ，并通过智能合并一键合并其余部分。 ■ 解决大文件 按文件大小对照片和视频进行排序，找出那些悄悄吞噬千兆字节的少数大文件 ——然后仅删除您选择的文件。 ■ 按月清除屏幕截图 屏幕截图堆积得很快。清理照片 会按月将它们",
+    "summaryDescription": "存储空间又满了？填满您 iPhone 的大部分都是您遗忘的杂物——重复的照片、巨大的视频和好几个月的屏幕截图。清理照片能找到所有这些，只需轻按一下即可清除。 而且，一次性购买即可永久拥有。无订阅。无套路。 ■ 一次付费。终身拥有。清理照片是一次性买断，涵盖 iPhone 和 iPad——购买一次 ，永久使用。 ■ 您的照片永远不会离开您的设备 每次扫描 100% 在设备端运行。没有任何内容会上传到云端，也不需要帐户。您的图库保持完全私密。 ■ 一键释放千兆字节 智能建议会准确显示您可以恢复多少空间，然后立即清除重复和模糊的照片。您可以一目了然地查看按照片、视频、屏幕截图、重复项、屏幕录制和慢动作分类的存储空间。 ■ 擦除所有重复项清理照片会检测完全相同和几乎完全相同的副本，自动保留最佳版本 ，并通过智能合并一键合并其余部分。 ■ 解决大文件 按文件大小对照片和视频进行排序，找出那些悄悄吞噬千兆字节的少数大文件 ——然后仅删除您选择的文件。 ■ 按月清除屏幕截图 屏幕截图堆积得很快。清理照片 会按月将它们",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/2e/40/532e4070-95e9-7886-e6b4-1082b1673e7e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/2e/40/532e4070-95e9-7886-e6b4-1082b1673e7e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Mohith km",
@@ -20025,9 +20188,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/phase-chimes/id6751312171?uo=4",
-    "description": "制造音乐机器！将齿轮连接在一起，创作出极其复杂的节奏和旋律。作为 AUv3 MIDI 插件在 AUM 和 Logic Pro（适用于 iPad）等主机应用程序中运行，或作为独立应用程序运行，以便您可以在灵感袭来时在 iPhone 或 iPad 上探索音乐创意！概念 不同尺寸的齿轮定义了齿轮比，从而产生多种节奏。齿轮之间的连接角度决定音符音高。使用这些简单的原则来创建具有视觉优雅的用户界面的生成组合。创作随时间演变的模式，或通过改变和编排现场表演",
-    "fullDescription": "制造音乐机器！将齿轮连接在一起，创作出极其复杂的节奏和旋律。作为 AUv3 MIDI 插件在 AUM 和 Logic Pro（适用于 iPad）等主机应用程序中运行，或作为独立应用程序运行，以便您可以在灵感袭来时在 iPhone 或 iPad 上探索音乐创意！概念 不同尺寸的齿轮定义了齿轮比，从而产生多种节奏。齿轮之间的连接角度决定音符音高。使用这些简单的原则来创建具有视觉优雅的用户界面的生成组合。创作随时间演变的模式，或通过改变和编排现场表演",
-    "summaryDescription": "制造音乐机器！将齿轮连接在一起，创作出极其复杂的节奏和旋律。作为 AUv3 MIDI 插件在 AUM 和 Logic Pro（适用于 iPad）等主机应用程序中运行，或作为独立应用程序运行，以便您可以在灵感袭来时在 iPhone 或 iPad 上探索音乐创意！概念 不同尺寸的齿轮定义了齿轮比，从而产生多种节奏。齿轮之间的连接角度决定音符音高。使用这些简单的原则来创建具有视觉优雅的用户界面的生成组合。创作随时间演变的模式，或通过改变和编排现场表演",
+    "description": "制作音乐机器！将齿轮连接在一起，创作令人惊讶的复杂节奏和旋律。在AUM和Logic Pro （适用于iPad ）等主机应用程序中作为AUv3 MIDI插件运行，或作为独立应用程序运行，以便您随时可以在iPhone或iPad上探索音乐创意！概念不同尺寸的齿轮定义了产生多节律的齿轮比。齿轮之间的连接角度决定了音调节距。使用这些简单的原则来创建具有视觉效果的生成性构图",
+    "fullDescription": "制作音乐机器！将齿轮连接在一起，创作令人惊讶的复杂节奏和旋律。在AUM和Logic Pro （适用于iPad ）等主机应用程序中作为AUv3 MIDI插件运行，或作为独立应用程序运行，以便您随时可以在iPhone或iPad上探索音乐创意！概念不同尺寸的齿轮定义了产生多节律的齿轮比。齿轮之间的连接角度决定了音调节距。使用这些简单的原则来创建具有视觉效果的生成性构图",
+    "summaryDescription": "制作音乐机器！将齿轮连接在一起，创作令人惊讶的复杂节奏和旋律。在AUM和Logic Pro （适用于iPad ）等主机应用程序中作为AUv3 MIDI插件运行，或作为独立应用程序运行，以便您随时可以在iPhone或iPad上探索音乐创意！概念不同尺寸的齿轮定义了产生多节律的齿轮比。齿轮之间的连接角度决定了音调节距。使用这些简单的原则来创建具有视觉效果的生成性构图",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/bf/5a/fcbf5a9c-206b-e548-ae9b-82f4507a928b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/bf/5a/fcbf5a9c-206b-e548-ae9b-82f4507a928b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "Kenneth Murphy",
@@ -22386,17 +22549,19 @@
     "description": "企鹅训练是一款简洁高效的健身训练记录工具，帮助你系统规划训练、记录每组重量和次数，见证每一步成长。 【动作库】 内置 30+ 常见健身动作，涵盖胸、背、腿、肩、手臂、核心六大肌群，每个动作配有 GIF动画演示和详细要领说明。 【训练记录】 训练时轻松记录每个动作的组数、重量和次数，自动保存训练历史，随时回顾过往表现。 【智能计划】 根据你的训练水平（入门 / 进阶 / 硬核）自动生成每周训练计划，支持自定义模板，灵活调整适合自己的节奏。 【数据本地存储】 所有数据存储在本地，不上传任何信息，充分保护你的隐私。",
     "fullDescription": "企鹅训练是一款简洁高效的健身训练记录工具，帮助你系统规划训练、记录每组重量和次数，见证每一步成长。 【动作库】 内置 30+ 常见健身动作，涵盖胸、背、腿、肩、手臂、核心六大肌群，每个动作配有 GIF动画演示和详细要领说明。 【训练记录】 训练时轻松记录每个动作的组数、重量和次数，自动保存训练历史，随时回顾过往表现。 【智能计划】 根据你的训练水平（入门 / 进阶 / 硬核）自动生成每周训练计划，支持自定义模板，灵活调整适合自己的节奏。 【数据本地存储】 所有数据存储在本地，不上传任何信息，充分保护你的隐私。",
     "summaryDescription": "企鹅训练是一款简洁高效的健身训练记录工具，帮助你系统规划训练、记录每组重量和次数，见证每一步成长。 【动作库】 内置 30+ 常见健身动作，涵盖胸、背、腿、肩、手臂、核心六大肌群，每个动作配有 GIF动画演示和详细要领说明。 【训练记录】 训练时轻松记录每个动作的组数、重量和次数，自动保存训练历史，随时回顾过往表现。 【智能计划】 根据你的训练水平（入门 / 进阶 / 硬核）自动生成每周训练计划，支持自定义模板，灵活调整适合自己的节奏。 【数据本地存储】 所有数据存储在本地，不上传任何信息，充分保护你的隐私。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/01/2d/a5012dd7-8e10-beae-1534-935783ccde51/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/01/2d/a5012dd7-8e10-beae-1534-935783ccde51/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/de/cd/9fdecdcf-3297-5017-76a3-ecdbcdaf99af/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/de/cd/9fdecdcf-3297-5017-76a3-ecdbcdaf99af/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "浩 林",
     "artistName": "浩 林",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/05/dc/6e05dc18-6412-f13e-e039-51d4dd5d7f2b/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-11_at_17.47.10.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/af/ba/cdafba59-8cce-5d19-2bc7-c68fa7bc7429/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-11_at_17.47.14.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/f6/59/a4f659c6-de20-78ac-791f-f9c50dab1950/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-11_at_17.47.19.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/9e/c5/f79ec5c9-919d-a60c-261d-0c7295dfef0c/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-11_at_17.47.35.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/d0/92/c3d092d1-7bf1-684f-d41c-7bbe7e9d8f48/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-11_at_17.56.03.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/98/99/98989919-bd70-e721-f26c-f76e2d797745/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-11_at_17.55.54.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/e7/b3/d1e7b3d6-937d-543a-6995-65c948ed1a3e/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-11_at_17.47.10.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/8c/3d/ba8c3d00-5bc5-07b1-de1b-8b2d268c6495/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-09-01_at_16.08.49.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/53/af/3e53af57-6c11-d3e8-4b39-3c5d85738f0d/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-09-01_at_16.08.59.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/ff/19/8cff1992-54ef-967d-0eb2-851e5fb080c6/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-09-01_at_16.08.42.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/22/15/5d221549-97a8-6827-d306-09d156d6241f/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-11_at_17.47.14.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/e7/cf/fce7cf6b-7b35-94a7-b97e-fa68c2989e3d/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-11_at_17.47.19.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/c0/76/d9c076fa-1b90-27c1-184c-14e10440d64f/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-11_at_17.56.03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/f3/ff/64f3ffcb-4f3e-ed64-94cc-37ee5c4620b8/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-08-11_at_17.55.54.png/320x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1786093161568
   },
@@ -37736,9 +37901,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/motifpilot-midi-generator/id6770246707?uo=4",
-    "description": "MotifPilot 通过由清晰的音乐控件构建的可编辑 MIDI 启动器帮助制作人克服空白的 DAW 会话。选择风格预设、调、音阶、节奏、小节数、密度、和声细节、人性化和摇摆。 MotifPilot 的本地规则驱动引擎构建了一个由和弦、贝司、琶音和旋律组成的四部分 MIDI 草图。预览想法、塑造零件、尝试另一种变化，然后导出标准 MIDI 文件以共享或导入到兼容的 DAW。专为电子音乐制作人、词曲作者制作人和移动制作人而设计：从清晰的 mu 中生成 4、8 或 16 小节 MIDI 草图起始曲",
-    "fullDescription": "MotifPilot 通过由清晰的音乐控件构建的可编辑 MIDI 启动器帮助制作人克服空白的 DAW 会话。选择风格预设、调、音阶、节奏、小节数、密度、和声细节、人性化和摇摆。 MotifPilot 的本地规则驱动引擎构建了一个由和弦、贝司、琶音和旋律组成的四部分 MIDI 草图。预览想法、塑造零件、尝试另一种变化，然后导出标准 MIDI 文件以共享或导入到兼容的 DAW。专为电子音乐制作人、词曲作者制作人和移动制作人而设计：从清晰的 mu 中生成 4、8 或 16 小节 MIDI 草图起始曲",
-    "summaryDescription": "MotifPilot 通过由清晰的音乐控件构建的可编辑 MIDI 启动器帮助制作人克服空白的 DAW 会话。选择风格预设、调、音阶、节奏、小节数、密度、和声细节、人性化和摇摆。 MotifPilot 的本地规则驱动引擎构建了一个由和弦、贝司、琶音和旋律组成的四部分 MIDI 草图。预览想法、塑造零件、尝试另一种变化，然后导出标准 MIDI 文件以共享或导入到兼容的 DAW。专为电子音乐制作人、词曲作者制作人和移动制作人而设计：从清晰的 mu 中生成 4、8 或 16 小节 MIDI 草图起始曲",
+    "description": "MotifPilot 通过清晰的音乐控件构建的可编辑 MIDI 启动器帮助制作人克服空白的 DAW 会话。选择风格预设、调、音阶、速度、小节数、密度、和声细节、人性化和摇摆。 MotifPilot 的本地规则驱动引擎构建了一个由和弦、贝司、琶音和旋律组成的四部分 MIDI 草图。预览想法、塑造零件、尝试另一种变化，然后导出标准 MIDI 文件以共享或导入到兼容的 DAW。专为电子音乐制作人、词曲作者制作人和移动制作人而设计：从清晰的 mu 中生成 4、8 或 16 小节 MIDI 草图起始曲",
+    "fullDescription": "MotifPilot 通过清晰的音乐控件构建的可编辑 MIDI 启动器帮助制作人克服空白的 DAW 会话。选择风格预设、调、音阶、速度、小节数、密度、和声细节、人性化和摇摆。 MotifPilot 的本地规则驱动引擎构建了一个由和弦、贝司、琶音和旋律组成的四部分 MIDI 草图。预览想法、塑造零件、尝试另一种变化，然后导出标准 MIDI 文件以共享或导入到兼容的 DAW。专为电子音乐制作人、词曲作者制作人和移动制作人而设计：从清晰的 mu 中生成 4、8 或 16 小节 MIDI 草图起始曲",
+    "summaryDescription": "MotifPilot 通过清晰的音乐控件构建的可编辑 MIDI 启动器帮助制作人克服空白的 DAW 会话。选择风格预设、调、音阶、速度、小节数、密度、和声细节、人性化和摇摆。 MotifPilot 的本地规则驱动引擎构建了一个由和弦、贝司、琶音和旋律组成的四部分 MIDI 草图。预览想法、塑造零件、尝试另一种变化，然后导出标准 MIDI 文件以共享或导入到兼容的 DAW。专为电子音乐制作人、词曲作者制作人和移动制作人而设计：从清晰的 mu 中生成 4、8 或 16 小节 MIDI 草图起始曲",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/c2/c8/66c2c855-2ca5-750f-c299-8e055e8b8f9e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/c2/c8/66c2c855-2ca5-750f-c299-8e055e8b8f9e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Borealbit Technology Limited",
@@ -39059,8 +39224,8 @@
     "description": "O KeyCam transforma a maneira de gravar performances musicais. Grave vídeo, áudio e MIDI ao mesmo tempo, com notas, acordes e teclado virtual aparecendo diretamente na imagem. Tudo já sincronizado, reduzindo horas de edição para poucos minutos. Ideal para músicos, produtores, professores, criadores de conteúdo, igrejas, bandas e apresentações ao vivo. RECURSOS PRINCIPAIS Gravação simultânea de vídeo, áudio e MIDI Detecção de notas e acordes em tempo real Piano virtual exibido sobre o vídeo Personalização da posição, tamanho e rotação dos elementos Áudio pelo microfone, interface externa ou KeyCam Bridge Conexão MIDI por USB, Bluetooth ou rede local Controles profissionais de câmera Diferentes resoluções e taxas de quadros, conforme o aparelho Suporte para iPhone e iPad Salvamento direto na biblioteca de Fotos KEYCAM BRIDGE Com o KeyCam Bridge para Mac ou Windows, você pode receber áudio e MIDI do computador pela rede local enquanto grava com a câmera do iPhone ou iPad. Capture sua performance completa em uma única tomada: imagem, som, notas e acordes perfeitamente integrados. DO ESTÚDIO AO PALCO Use o KeyCam para gravar conteúdo em casa, aulas de música, demonstrações, ensaios, apresentações, cultos, shows e performances ao vivo. Grave. Toque. Sincronize. Tudo ao mesmo tempo.",
     "fullDescription": "O KeyCam transforma a maneira de gravar performances musicais. Grave vídeo, áudio e MIDI ao mesmo tempo, com notas, acordes e teclado virtual aparecendo diretamente na imagem. Tudo já sincronizado, reduzindo horas de edição para poucos minutos. Ideal para músicos, produtores, professores, criadores de conteúdo, igrejas, bandas e apresentações ao vivo. RECURSOS PRINCIPAIS Gravação simultânea de vídeo, áudio e MIDI Detecção de notas e acordes em tempo real Piano virtual exibido sobre o vídeo Personalização da posição, tamanho e rotação dos elementos Áudio pelo microfone, interface externa ou KeyCam Bridge Conexão MIDI por USB, Bluetooth ou rede local Controles profissionais de câmera Diferentes resoluções e taxas de quadros, conforme o aparelho Suporte para iPhone e iPad Salvamento direto na biblioteca de Fotos KEYCAM BRIDGE Com o KeyCam Bridge para Mac ou Windows, você pode receber áudio e MIDI do computador pela rede local enquanto grava com a câmera do iPhone ou iPad. Capture sua performance completa em uma única tomada: imagem, som, notas e acordes perfeitamente integrados. DO ESTÚDIO AO PALCO Use o KeyCam para gravar conteúdo em casa, aulas de música, demonstrações, ensaios, apresentações, cultos, shows e performances ao vivo. Grave. Toque. Sincronize. Tudo ao mesmo tempo.",
     "summaryDescription": "O KeyCam transforma a maneira de gravar performances musicais. Grave vídeo, áudio e MIDI ao mesmo tempo, com notas, acordes e teclado virtual aparecendo diretamente na imagem. Tudo já sincronizado, reduzindo horas de edição para poucos minutos. Ideal para músicos, produtores, professores, criadores de conteúdo, igrejas, bandas e apresentações ao vivo. RECURSOS PRINCIPAIS Gravação simultânea de vídeo, áudio e MIDI Detecção de notas e acordes em tempo real Piano virtual exibido sobre o vídeo Personalização da posição, tamanho e rotação dos elementos Áudio pelo microfone, interface externa ou KeyCam Bridge Conexão MIDI por USB, Bluetooth ou rede local Controles profissionais de câmera Diferentes resoluções e taxas de quadros, conforme o aparelho Suporte para iPhone e iPad Salvamento direto na biblioteca de Fotos KEYCAM BRIDGE Com o KeyCam Bridge para Mac ou Windows, você pode receber áudio e MIDI do computador pela rede local enquanto grava com a câmera do iPhone ou iPad. Capture sua performance completa em uma única tomada: imagem, som, notas e acordes perfeitamente integrados. DO ESTÚDIO AO PALCO Use o KeyCam para gravar conteúdo em casa, aulas de música, demonstrações, ensaios, apresentações, cultos, shows e performances ao vivo. Grave. Toque. Sincronize. Tudo ao mesmo tempo.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/93/f0/e093f070-3842-91ae-feb1-88ef1c27e6c5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/93/f0/e093f070-3842-91ae-feb1-88ef1c27e6c5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/a8/dc/9ba8dc98-cb2f-5661-19c0-32ecd501cabd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/a8/dc/9ba8dc98-cb2f-5661-19c0-32ecd501cabd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "DANIEL TIMOTEO ALBANO",
     "artistName": "Daniel Albano",
     "screenshotUrls": [
@@ -39504,9 +39669,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/sonicswarm-sound-connect/id6790208141?uo=4",
-    "description": "将任意一组手机变成一个巨型扬声器。没人带蓝牙音箱吗？没问题。 SonicSwarm 将每个人口袋里的手机变成一个同步音响系统。主持一个群体，让朋友加入，点击播放——每部连接的手机在同一时刻播放相同的音频。将设备分布在房间各处，组合的声音充满整个空间。没有账户。无需注册。没有云服务器。所有内容都可以在 Wi-Fi 网络上的手机之间直接同步。它是如何运作的一个人点击“Host a Swarm”并选择要玩的内容。其他人都点击“加入 Swarm”并连接",
-    "fullDescription": "将任意一组手机变成一个巨型扬声器。没人带蓝牙音箱吗？没问题。 SonicSwarm 将每个人口袋里的手机变成一个同步音响系统。主持一个群体，让朋友加入，点击播放——每部连接的手机在同一时刻播放相同的音频。将设备分布在房间各处，组合的声音充满整个空间。没有账户。无需注册。没有云服务器。所有内容都可以在 Wi-Fi 网络上的手机之间直接同步。它是如何运作的一个人点击“Host a Swarm”并选择要玩的内容。其他人都点击“加入 Swarm”并连接",
-    "summaryDescription": "将任意一组手机变成一个巨型扬声器。没人带蓝牙音箱吗？没问题。 SonicSwarm 将每个人口袋里的手机变成一个同步音响系统。主持一个群体，让朋友加入，点击播放——每部连接的手机在同一时刻播放相同的音频。将设备分布在房间各处，组合的声音充满整个空间。没有账户。无需注册。没有云服务器。所有内容都可以在 Wi-Fi 网络上的手机之间直接同步。它是如何运作的一个人点击“Host a Swarm”并选择要玩的内容。其他人都点击“加入 Swarm”并连接",
+    "description": "将任何一组手机变成一个巨大的扬声器。没人带蓝牙音箱？没问题。SonicSwarm将每个人口袋里的手机变成一个同步的音响系统。接待群众，邀请好友加入，点击播放—每部连接的手机在同一时刻播放相同的音频。将设备散布在房间周围，组合的声音将填满整个空间。无帐户。无需注册。没有云服务器。一切都直接在Wi-Fi网络上的手机之间同步。",
+    "fullDescription": "将任何一组手机变成一个巨大的扬声器。没人带蓝牙音箱？没问题。SonicSwarm将每个人口袋里的手机变成一个同步的音响系统。接待群众，邀请好友加入，点击播放—每部连接的手机在同一时刻播放相同的音频。将设备散布在房间周围，组合的声音将填满整个空间。无帐户。无需注册。没有云服务器。一切都直接在Wi-Fi网络上的手机之间同步。",
+    "summaryDescription": "将任何一组手机变成一个巨大的扬声器。没人带蓝牙音箱？没问题。SonicSwarm将每个人口袋里的手机变成一个同步的音响系统。接待群众，邀请好友加入，点击播放—每部连接的手机在同一时刻播放相同的音频。将设备散布在房间周围，组合的声音将填满整个空间。无帐户。无需注册。没有云服务器。一切都直接在Wi-Fi网络上的手机之间同步。",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/c9/c2/1fc9c2b2-250b-b485-8f91-3273500bb4d4/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/c9/c2/1fc9c2b2-250b-b485-8f91-3273500bb4d4/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
     "sellerName": "Shashwat Patel",
@@ -39626,7 +39791,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "BrainHero Lifetime": "¥28.00",
+      "BrainHero Lifetime": "¥128.00",
       "BrainHero Annual": "¥168.00",
       "BrainHero Weekly": "¥38.00"
     },
@@ -39639,6 +39804,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788308398068,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "BrainHero Lifetime": "¥128.00",
+            "BrainHero Annual": "¥22.00",
+            "BrainHero Weekly": "¥22.00"
+          }
+        },
         {
           "timestamp": 1788281146708,
           "price": 0,
@@ -41861,9 +42036,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/imoney-%E8%AE%B0%E8%B4%A6-%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86/id6759709829?uo=4",
-    "description": "【产品功能】 三大记账模式：支持常规、消费、资产三种模式。无论您是想精细记录每一笔买菜钱，还是只想追踪净资产与投资组合，iMoney 都能完美适配。 资产看板：聚合现金、银行储蓄、股票投资及负债状况。净资产实时更新，让您的财务状况透明化。 投资复盘：自动计算投资收益率，用数据辅助决策，助您跑赢大盘。 消费洞察：分类统计饼图，一目了然核心开支占比，精准捕捉财务黑洞。 进阶工具：内置报销管理、借款追踪、周期分期及自动记账功能。 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "fullDescription": "【产品功能】 三大记账模式：支持常规、消费、资产三种模式。无论您是想精细记录每一笔买菜钱，还是只想追踪净资产与投资组合，iMoney 都能完美适配。 资产看板：聚合现金、银行储蓄、股票投资及负债状况。净资产实时更新，让您的财务状况透明化。 投资复盘：自动计算投资收益率，用数据辅助决策，助您跑赢大盘。 消费洞察：分类统计饼图，一目了然核心开支占比，精准捕捉财务黑洞。 进阶工具：内置报销管理、借款追踪、周期分期及自动记账功能。 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "summaryDescription": "【产品功能】 三大记账模式：支持常规、消费、资产三种模式。无论您是想精细记录每一笔买菜钱，还是只想追踪净资产与投资组合，iMoney 都能完美适配。 资产看板：聚合现金、银行储蓄、股票投资及负债状况。净资产实时更新，让您的财务状况透明化。 投资复盘：自动计算投资收益率，用数据辅助决策，助您跑赢大盘。 消费洞察：分类统计饼图，一目了然核心开支占比，精准捕捉财务黑洞。 进阶工具：内置报销管理、借款追踪、周期分期及自动记账功能。 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "description": "【产品功能】 三大记账模式：支持常规、消费、资产三种模式。无论您是想精细记录每一笔买菜钱还是只想追踪净资产与投资组合 ， ， iMoney 都能完美适配。 资产看板让您的财务状况透明化。 投资复盘：聚合现金、银行储蓄、股票投资及负债状况。净资产实时更新自动计算投资收益率 ， ，用数据辅助决策 ，助您跑赢大盘。 消费洞察分类统计饼图，一目了然核心开支占比 ，精准捕捉财务黑洞。 进阶工具内置报销管理、借款追踪、周期分期及自动记账功能。 使用条款 （ EULA ） ： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "fullDescription": "【产品功能】 三大记账模式：支持常规、消费、资产三种模式。无论您是想精细记录每一笔买菜钱还是只想追踪净资产与投资组合 ， ， iMoney 都能完美适配。 资产看板让您的财务状况透明化。 投资复盘：聚合现金、银行储蓄、股票投资及负债状况。净资产实时更新自动计算投资收益率 ， ，用数据辅助决策 ，助您跑赢大盘。 消费洞察分类统计饼图，一目了然核心开支占比 ，精准捕捉财务黑洞。 进阶工具内置报销管理、借款追踪、周期分期及自动记账功能。 使用条款 （ EULA ） ： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "summaryDescription": "【产品功能】 三大记账模式：支持常规、消费、资产三种模式。无论您是想精细记录每一笔买菜钱还是只想追踪净资产与投资组合 ， ， iMoney 都能完美适配。 资产看板让您的财务状况透明化。 投资复盘：聚合现金、银行储蓄、股票投资及负债状况。净资产实时更新自动计算投资收益率 ， ，用数据辅助决策 ，助您跑赢大盘。 消费洞察分类统计饼图，一目了然核心开支占比 ，精准捕捉财务黑洞。 进阶工具内置报销管理、借款追踪、周期分期及自动记账功能。 使用条款 （ EULA ） ： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/40/c9/b240c960-2a7f-461f-12f2-22a940fd16b2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/40/c9/b240c960-2a7f-461f-12f2-22a940fd16b2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "JIE LI",
@@ -44883,9 +45058,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/cairn-%E7%A7%81%E5%AF%86ai%E6%97%A5%E8%AE%B0-%E5%BF%83%E6%83%85%E6%89%8B%E8%B4%A6/id6778041880?uo=4",
-    "description": "CAIRN 是一款真正私密的日记本。你在这里写下心事，一位温暖的 AI 伙伴会安静地倾听、回应你的感受，再问你一个值得思考的问题。所有内容都只留在你的设备上，连我们也看不到。 写日记本该是一件安心的事。CAIRN 把隐私放在第一位，让你可以毫无顾虑地诚实面对自己，把心里的话慢慢说清楚。 私密是底层设计: 日记内容在本地加密存储，并支持面容 ID 或触控 ID 上锁。 我们没有任何服务器，不收集、不上传你的日记。 AI 请求由你的设备直接发出，绝不经过我们中转。 你的内容默认不会被用于训练 AI 模型。 温暖的 AI 伙伴，而非冷冰冰的工具: 它会复述你写下的内容，先肯定你的情绪，再轻轻提出一个问题。 可选不同人格与语气: 倾听者、斯多葛、苏格拉底、教练、朋友。 可调节回应的温度与长度，找到最适合你的陪伴方式。 它不说教、不评判，只是认真地听你说。 记录心情，只需几秒: 双轴心情面板，同时捕捉愉悦度与精力高低。 精准的情绪词汇，帮你说清此刻的真实感受。 可以单独记录心情，也可以附在日记里，写不写都随你。 适合在状态低落、没力气写字的日子，也能轻松坚持。 洞察与规律: 每周与每月的 AI 反思总结，看见自己的变化。 规律识别，例如发现你的情绪常在周日低落。 私密的年度回顾，回看自己走过的一整年。 问问你的日记: 向过去的自己提问，例如我上一次感到骄傲是什么时候。 答案完全在设备本地检索",
-    "fullDescription": "CAIRN 是一款真正私密的日记本。你在这里写下心事，一位温暖的 AI 伙伴会安静地倾听、回应你的感受，再问你一个值得思考的问题。所有内容都只留在你的设备上，连我们也看不到。 写日记本该是一件安心的事。CAIRN 把隐私放在第一位，让你可以毫无顾虑地诚实面对自己，把心里的话慢慢说清楚。 私密是底层设计: 日记内容在本地加密存储，并支持面容 ID 或触控 ID 上锁。 我们没有任何服务器，不收集、不上传你的日记。 AI 请求由你的设备直接发出，绝不经过我们中转。 你的内容默认不会被用于训练 AI 模型。 温暖的 AI 伙伴，而非冷冰冰的工具: 它会复述你写下的内容，先肯定你的情绪，再轻轻提出一个问题。 可选不同人格与语气: 倾听者、斯多葛、苏格拉底、教练、朋友。 可调节回应的温度与长度，找到最适合你的陪伴方式。 它不说教、不评判，只是认真地听你说。 记录心情，只需几秒: 双轴心情面板，同时捕捉愉悦度与精力高低。 精准的情绪词汇，帮你说清此刻的真实感受。 可以单独记录心情，也可以附在日记里，写不写都随你。 适合在状态低落、没力气写字的日子，也能轻松坚持。 洞察与规律: 每周与每月的 AI 反思总结，看见自己的变化。 规律识别，例如发现你的情绪常在周日低落。 私密的年度回顾，回看自己走过的一整年。 问问你的日记: 向过去的自己提问，例如我上一次感到骄傲是什么时候。 答案完全在设备本地检索",
-    "summaryDescription": "CAIRN 是一款真正私密的日记本。你在这里写下心事，一位温暖的 AI 伙伴会安静地倾听、回应你的感受，再问你一个值得思考的问题。所有内容都只留在你的设备上，连我们也看不到。 写日记本该是一件安心的事。CAIRN 把隐私放在第一位，让你可以毫无顾虑地诚实面对自己，把心里的话慢慢说清楚。 私密是底层设计: 日记内容在本地加密存储，并支持面容 ID 或触控 ID 上锁。 我们没有任何服务器，不收集、不上传你的日记。 AI 请求由你的设备直接发出，绝不经过我们中转。 你的内容默认不会被用于训练 AI 模型。 温暖的 AI 伙伴，而非冷冰冰的工具: 它会复述你写下的内容，先肯定你的情绪，再轻轻提出一个问题。 可选不同人格与语气: 倾听者、斯多葛、苏格拉底、教练、朋友。 可调节回应的温度与长度，找到最适合你的陪伴方式。 它不说教、不评判，只是认真地听你说。 记录心情，只需几秒: 双轴心情面板，同时捕捉愉悦度与精力高低。 精准的情绪词汇，帮你说清此刻的真实感受。 可以单独记录心情，也可以附在日记里，写不写都随你。 适合在状态低落、没力气写字的日子，也能轻松坚持。 洞察与规律: 每周与每月的 AI 反思总结，看见自己的变化。 规律识别，例如发现你的情绪常在周日低落。 私密的年度回顾，回看自己走过的一整年。 问问你的日记: 向过去的自己提问，例如我上一次感到骄傲是什么时候。 答案完全在设备本地检索",
+    "description": "CAIRN 是一款真正私密的日记本。你在这里写下心事，一位温暖的 AI 伙伴会安静地倾听、回应你的感受再问你一个值得思考的问题。所有内容都只留在你的设备上，连我们也看不到。 写日记本该是一件安心的事。CAIRN 把隐私放在第一位让你可以毫无顾虑地诚实面对自己，把心里的话慢慢说清楚。 私密是底层设计： 日记内容在本地加密存储，并支持面容 或触控 ID 上锁。 我们没有任何服务器，不收集、不上传你的日记。 AI 请求由你的设备直接发出，绝不经过我们中转。 你的内容默认不会被用于训练 模型。 温暖的 AI AI 伙伴 它会复述你写下的内容，而非冷冰冰的工具再轻轻提出一个问题。 可选不同人格与语气：先肯定你的情绪 ， 倾听者、斯多葛、苏格拉底、教练、朋友。 可调节回应的温度与长度，找到最适合你的陪伴方式。 它不说教、不评判，只是认真地听你说。 记录心情，只需几秒 双轴心情面板，同时捕捉愉悦度与精力高低。 精准的情绪词汇，帮你说清此刻的真实感受。 可以单独记录心情，也可以附在日记里写不写都随你。 适合在状态低落、没力气写字的日子，也能轻松坚持。 洞察与规律： 每周与每月的 AI",
+    "fullDescription": "CAIRN 是一款真正私密的日记本。你在这里写下心事，一位温暖的 AI 伙伴会安静地倾听、回应你的感受再问你一个值得思考的问题。所有内容都只留在你的设备上，连我们也看不到。 写日记本该是一件安心的事。CAIRN 把隐私放在第一位让你可以毫无顾虑地诚实面对自己，把心里的话慢慢说清楚。 私密是底层设计： 日记内容在本地加密存储，并支持面容 或触控 ID 上锁。 我们没有任何服务器，不收集、不上传你的日记。 AI 请求由你的设备直接发出，绝不经过我们中转。 你的内容默认不会被用于训练 模型。 温暖的 AI AI 伙伴 它会复述你写下的内容，而非冷冰冰的工具再轻轻提出一个问题。 可选不同人格与语气：先肯定你的情绪 ， 倾听者、斯多葛、苏格拉底、教练、朋友。 可调节回应的温度与长度，找到最适合你的陪伴方式。 它不说教、不评判，只是认真地听你说。 记录心情，只需几秒 双轴心情面板，同时捕捉愉悦度与精力高低。 精准的情绪词汇，帮你说清此刻的真实感受。 可以单独记录心情，也可以附在日记里写不写都随你。 适合在状态低落、没力气写字的日子，也能轻松坚持。 洞察与规律： 每周与每月的 AI",
+    "summaryDescription": "CAIRN 是一款真正私密的日记本。你在这里写下心事，一位温暖的 AI 伙伴会安静地倾听、回应你的感受再问你一个值得思考的问题。所有内容都只留在你的设备上，连我们也看不到。 写日记本该是一件安心的事。CAIRN 把隐私放在第一位让你可以毫无顾虑地诚实面对自己，把心里的话慢慢说清楚。 私密是底层设计： 日记内容在本地加密存储，并支持面容 或触控 ID 上锁。 我们没有任何服务器，不收集、不上传你的日记。 AI 请求由你的设备直接发出，绝不经过我们中转。 你的内容默认不会被用于训练 模型。 温暖的 AI AI 伙伴 它会复述你写下的内容，而非冷冰冰的工具再轻轻提出一个问题。 可选不同人格与语气：先肯定你的情绪 ， 倾听者、斯多葛、苏格拉底、教练、朋友。 可调节回应的温度与长度，找到最适合你的陪伴方式。 它不说教、不评判，只是认真地听你说。 记录心情，只需几秒 双轴心情面板，同时捕捉愉悦度与精力高低。 精准的情绪词汇，帮你说清此刻的真实感受。 可以单独记录心情，也可以附在日记里写不写都随你。 适合在状态低落、没力气写字的日子，也能轻松坚持。 洞察与规律： 每周与每月的 AI",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/d5/73/4ad57379-6e4a-0e63-3dcf-256b6ebfb1df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/d5/73/4ad57379-6e4a-0e63-3dcf-256b6ebfb1df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Aneesh Pradeep",
@@ -48325,8 +48500,8 @@
     "description": "吉日历，一查就准的老黄历。 结婚领证、搬家入宅、开业签约、提车出行——人生大事都想挑个好日子。吉日历把传统老黄历做成了现代人顺手好用的工具：打开就是今日宜忌，三秒看懂今天适不适合办事。 【今日黄历】 公历、农历、干支、生肖、星座一屏看全 今日宜忌大字呈现，吉神凶神、冲煞、五行、纳音、值神、胎神、彭祖百忌等传统字段完整可查 时辰吉凶实时更新，当前时辰吉凶随手可见 今日综合评分一眼看清，宜动还是宜静不用猜 【黄道吉日·择吉】 选好事项（嫁娶、搬迁、开市、动土、出行等17类），自动从日期范围内筛出好日子 每个推荐日附评分与理由，点开即看完整黄历详情 Pro 支持一年内任意范围与高级过滤（避开周末、仅看优选） Pro 全年吉日分布：一屏看清哪个月好日子最多，提前定档 【万年历·月历】 农历、节气、法定节假日、传统节日直观标注 任意日期点开即查宜忌，长按快速添加日程 【吉日倒数与提醒】 收藏心仪吉日，自动倒数还有几天 日程、待办、生日、纪念日提醒，支持每天/每周/每月/每年与农历每年重复 农历生日提醒：按农历自动每年提醒，长辈生日再不会忘 每日黄历推送：每天早上送达当日宜忌，不错过任何好日子 节气与传统节日倒数，重要日子提前知道 【桌面小组件 & 灵动岛】 主屏与锁屏小组件，不打开 App 也能看今日宜忌、农历与时辰吉凶 今日黄历可常驻锁屏与灵动岛（Live Activity） 【传统民俗参考】 八字简批、姻缘合婚、周公解梦、宝宝起名等传统文化娱乐参考 仅供民俗文化参考，不构成任何预测或建议 【更多】 公历农历互转、日期间隔计算（相差多少年月日一次算清） 黄历分享卡片，一键发给家人朋友 iCloud 多设备同步，iPhone / iPad 通用 深浅色外观 + 三套配色主题 无需注册账号，打开即用 【吉日历 Pro】 解锁高级择吉与全年吉日分布、全天时辰详批与吉时提醒、无限吉日倒数、自定义推送时间、专属主题与分享卡片样式。一次付费，永久解锁，非订阅。 温馨提示：黄历宜忌、吉凶等内容源自传统民俗文化，仅供文化参考与日程安排辅助，不构成对现实结果的保证。 意见反馈 QQ 群：605016458",
     "fullDescription": "吉日历，一查就准的老黄历。 结婚领证、搬家入宅、开业签约、提车出行——人生大事都想挑个好日子。吉日历把传统老黄历做成了现代人顺手好用的工具：打开就是今日宜忌，三秒看懂今天适不适合办事。 【今日黄历】 公历、农历、干支、生肖、星座一屏看全 今日宜忌大字呈现，吉神凶神、冲煞、五行、纳音、值神、胎神、彭祖百忌等传统字段完整可查 时辰吉凶实时更新，当前时辰吉凶随手可见 今日综合评分一眼看清，宜动还是宜静不用猜 【黄道吉日·择吉】 选好事项（嫁娶、搬迁、开市、动土、出行等17类），自动从日期范围内筛出好日子 每个推荐日附评分与理由，点开即看完整黄历详情 Pro 支持一年内任意范围与高级过滤（避开周末、仅看优选） Pro 全年吉日分布：一屏看清哪个月好日子最多，提前定档 【万年历·月历】 农历、节气、法定节假日、传统节日直观标注 任意日期点开即查宜忌，长按快速添加日程 【吉日倒数与提醒】 收藏心仪吉日，自动倒数还有几天 日程、待办、生日、纪念日提醒，支持每天/每周/每月/每年与农历每年重复 农历生日提醒：按农历自动每年提醒，长辈生日再不会忘 每日黄历推送：每天早上送达当日宜忌，不错过任何好日子 节气与传统节日倒数，重要日子提前知道 【桌面小组件 & 灵动岛】 主屏与锁屏小组件，不打开 App 也能看今日宜忌、农历与时辰吉凶 今日黄历可常驻锁屏与灵动岛（Live Activity） 【传统民俗参考】 八字简批、姻缘合婚、周公解梦、宝宝起名等传统文化娱乐参考 仅供民俗文化参考，不构成任何预测或建议 【更多】 公历农历互转、日期间隔计算（相差多少年月日一次算清） 黄历分享卡片，一键发给家人朋友 iCloud 多设备同步，iPhone / iPad 通用 深浅色外观 + 三套配色主题 无需注册账号，打开即用 【吉日历 Pro】 解锁高级择吉与全年吉日分布、全天时辰详批与吉时提醒、无限吉日倒数、自定义推送时间、专属主题与分享卡片样式。一次付费，永久解锁，非订阅。 温馨提示：黄历宜忌、吉凶等内容源自传统民俗文化，仅供文化参考与日程安排辅助，不构成对现实结果的保证。 意见反馈 QQ 群：605016458",
     "summaryDescription": "吉日历，一查就准的老黄历。 结婚领证、搬家入宅、开业签约、提车出行——人生大事都想挑个好日子。吉日历把传统老黄历做成了现代人顺手好用的工具：打开就是今日宜忌，三秒看懂今天适不适合办事。 【今日黄历】 公历、农历、干支、生肖、星座一屏看全 今日宜忌大字呈现，吉神凶神、冲煞、五行、纳音、值神、胎神、彭祖百忌等传统字段完整可查 时辰吉凶实时更新，当前时辰吉凶随手可见 今日综合评分一眼看清，宜动还是宜静不用猜 【黄道吉日·择吉】 选好事项（嫁娶、搬迁、开市、动土、出行等17类），自动从日期范围内筛出好日子 每个推荐日附评分与理由，点开即看完整黄历详情 Pro 支持一年内任意范围与高级过滤（避开周末、仅看优选） Pro 全年吉日分布：一屏看清哪个月好日子最多，提前定档 【万年历·月历】 农历、节气、法定节假日、传统节日直观标注 任意日期点开即查宜忌，长按快速添加日程 【吉日倒数与提醒】 收藏心仪吉日，自动倒数还有几天 日程、待办、生日、纪念日提醒，支持每天/每周/每月/每年与农历每年重复 农历生日提醒：按农历自动每年提醒，长辈生日再不会忘 每日黄历推送：每天早上送达当日宜忌，不错过任何好日子 节气与传统节日倒数，重要日子提前知道 【桌面小组件 & 灵动岛】 主屏与锁屏小组件，不打开 App 也能看今日宜忌、农历与时辰吉凶 今日黄历可常驻锁屏与灵动岛（Live Activity） 【传统民俗参考】 八字简批、姻缘合婚、周公解梦、宝宝起名等传统文化娱乐参考 仅供民俗文化参考，不构成任何预测或建议 【更多】 公历农历互转、日期间隔计算（相差多少年月日一次算清） 黄历分享卡片，一键发给家人朋友 iCloud 多设备同步，iPhone / iPad 通用 深浅色外观 + 三套配色主题 无需注册账号，打开即用 【吉日历 Pro】 解锁高级择吉与全年吉日分布、全天时辰详批与吉时提醒、无限吉日倒数、自定义推送时间、专属主题与分享卡片样式。一次付费，永久解锁，非订阅。 温馨提示：黄历宜忌、吉凶等内容源自传统民俗文化，仅供文化参考与日程安排辅助，不构成对现实结果的保证。 意见反馈 QQ 群：605016458",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/96/fc/9d96fce1-e46c-8a06-270d-a0f9f0b99102/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/96/fc/9d96fce1-e46c-8a06-270d-a0f9f0b99102/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/41/5b/de415b95-71c9-cf7e-3193-9bcecff9c8c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/41/5b/de415b95-71c9-cf7e-3193-9bcecff9c8c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "献慧 陈",
     "artistName": "献慧 陈",
     "screenshotUrls": [
@@ -51726,7 +51901,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "The Sealed Chamber (Lifetime)": "¥22.00"
+      "The Sealed Chamber (Lifetime)": "¥28.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -51734,6 +51909,16 @@
       "The Sealed Chamber (Lifetime)": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788308398068,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "The Sealed Chamber (Lifetime)": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787848665178,
@@ -53401,9 +53586,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/sequence-%E6%97%B6%E9%97%B4%E5%9D%97%E6%97%A5%E7%A8%8B%E8%AE%A1%E5%88%92%E6%B8%85%E5%8D%95/id6782797615?uo=4",
-    "description": "Sequence 能将繁忙的日程表和零散的任务清单，转化为切实可行的每日计划。 将待办任务与日程表上的既定安排一并查看。您可以导入 Apple“提醒事项”中的任务或直接在 Sequence 中创建任务，预估所需工时，并将工作安排在切合实际的“专注时段”内。当计划有变时，您可以将未完成的工作顺延至后续时段，同时保持全天日程安排的连贯性。 使用 Sequence，您可以： 整合任务、空闲时间和日程事件，制定每日计划 导入 Apple“提醒事项”并保持完成状态同步 创建包含清单、工时预估和专属专注时段的计划模块 为会议创建私密工作区，记录议题、决策和行动项 在支持的操作系统版本上，利用设备端语音转文字功能记录会议纪要 将未完成的后续工作顺延至下一个合适的时间段 保存可重复使用的模板和专注计划，适用于深度工作、行政事务、培训或项目发布日等场景 通过小组件、“实时活动”和“快捷指令”查看计划 使用 Sequence Guard 功能，在专注时段内屏蔽干扰性应用和网站 Sequence Pro 进阶功能包括： 通过 iCloud 私密同步任务、计划、模板、行动项和日程安排 无限制创建专注计划、每周例行安排和事件模板 灵活的未来日程、多日期及重复性任务安排 针对专注时段和例行安排的智能提醒与无缝衔接功能（VariAlarm） Guard 功能报告，以及通过“控制中心”、Siri 和“快捷指令”进",
-    "fullDescription": "Sequence 能将繁忙的日程表和零散的任务清单，转化为切实可行的每日计划。 将待办任务与日程表上的既定安排一并查看。您可以导入 Apple“提醒事项”中的任务或直接在 Sequence 中创建任务，预估所需工时，并将工作安排在切合实际的“专注时段”内。当计划有变时，您可以将未完成的工作顺延至后续时段，同时保持全天日程安排的连贯性。 使用 Sequence，您可以： 整合任务、空闲时间和日程事件，制定每日计划 导入 Apple“提醒事项”并保持完成状态同步 创建包含清单、工时预估和专属专注时段的计划模块 为会议创建私密工作区，记录议题、决策和行动项 在支持的操作系统版本上，利用设备端语音转文字功能记录会议纪要 将未完成的后续工作顺延至下一个合适的时间段 保存可重复使用的模板和专注计划，适用于深度工作、行政事务、培训或项目发布日等场景 通过小组件、“实时活动”和“快捷指令”查看计划 使用 Sequence Guard 功能，在专注时段内屏蔽干扰性应用和网站 Sequence Pro 进阶功能包括： 通过 iCloud 私密同步任务、计划、模板、行动项和日程安排 无限制创建专注计划、每周例行安排和事件模板 灵活的未来日程、多日期及重复性任务安排 针对专注时段和例行安排的智能提醒与无缝衔接功能（VariAlarm） Guard 功能报告，以及通过“控制中心”、Siri 和“快捷指令”进",
-    "summaryDescription": "Sequence 能将繁忙的日程表和零散的任务清单，转化为切实可行的每日计划。 将待办任务与日程表上的既定安排一并查看。您可以导入 Apple“提醒事项”中的任务或直接在 Sequence 中创建任务，预估所需工时，并将工作安排在切合实际的“专注时段”内。当计划有变时，您可以将未完成的工作顺延至后续时段，同时保持全天日程安排的连贯性。 使用 Sequence，您可以： 整合任务、空闲时间和日程事件，制定每日计划 导入 Apple“提醒事项”并保持完成状态同步 创建包含清单、工时预估和专属专注时段的计划模块 为会议创建私密工作区，记录议题、决策和行动项 在支持的操作系统版本上，利用设备端语音转文字功能记录会议纪要 将未完成的后续工作顺延至下一个合适的时间段 保存可重复使用的模板和专注计划，适用于深度工作、行政事务、培训或项目发布日等场景 通过小组件、“实时活动”和“快捷指令”查看计划 使用 Sequence Guard 功能，在专注时段内屏蔽干扰性应用和网站 Sequence Pro 进阶功能包括： 通过 iCloud 私密同步任务、计划、模板、行动项和日程安排 无限制创建专注计划、每周例行安排和事件模板 灵活的未来日程、多日期及重复性任务安排 针对专注时段和例行安排的智能提醒与无缝衔接功能（VariAlarm） Guard 功能报告，以及通过“控制中心”、Siri 和“快捷指令”进",
+    "description": "Sequence 能将繁忙的日程表和零散的任务清单，转化为切实可行的每日计划。 将待办任务与日程表上的既定安排一并查看。您可以导入 Apple “提醒事项”中的任务或直接在 Sequence 中创建任务预估所需工时，并将工作安排在切合实际的 “专注时段”内。当计划有变时您可以将未完成的工作顺延至后续时段 ，同时保持全天日程安排的连贯性。 使用 Sequence ，您可以 ： 整合任务、空闲时间和日程事件，制定每日计划 导入 Apple “提醒事项”并保持完成状态同步 创建包含清单、工时预估和专属专注时段的计划模块 为会议创建私密工作区记录议题、决策和行动项 在支持的操作系统版本上，利用设备端语音转文字功能记录会议纪要 将未完成的后续工作顺延至下一个合适的时间段 保存可重复使用的模板和专注计划，适用于深度工作、行政事务、培训或项目发布日等场景 通过小组件、和“实时活动快捷指令”查看计划 使用 Sequence Guard 功能，在专注时段内屏蔽干扰性应用和网站 Sequence Pro 进阶功能包括： 通过 iCloud 私密同步任务、计划、模板、行动项和日程安排 无限制创建专注计划、每周",
+    "fullDescription": "Sequence 能将繁忙的日程表和零散的任务清单，转化为切实可行的每日计划。 将待办任务与日程表上的既定安排一并查看。您可以导入 Apple “提醒事项”中的任务或直接在 Sequence 中创建任务预估所需工时，并将工作安排在切合实际的 “专注时段”内。当计划有变时您可以将未完成的工作顺延至后续时段 ，同时保持全天日程安排的连贯性。 使用 Sequence ，您可以 ： 整合任务、空闲时间和日程事件，制定每日计划 导入 Apple “提醒事项”并保持完成状态同步 创建包含清单、工时预估和专属专注时段的计划模块 为会议创建私密工作区记录议题、决策和行动项 在支持的操作系统版本上，利用设备端语音转文字功能记录会议纪要 将未完成的后续工作顺延至下一个合适的时间段 保存可重复使用的模板和专注计划，适用于深度工作、行政事务、培训或项目发布日等场景 通过小组件、和“实时活动快捷指令”查看计划 使用 Sequence Guard 功能，在专注时段内屏蔽干扰性应用和网站 Sequence Pro 进阶功能包括： 通过 iCloud 私密同步任务、计划、模板、行动项和日程安排 无限制创建专注计划、每周",
+    "summaryDescription": "Sequence 能将繁忙的日程表和零散的任务清单，转化为切实可行的每日计划。 将待办任务与日程表上的既定安排一并查看。您可以导入 Apple “提醒事项”中的任务或直接在 Sequence 中创建任务预估所需工时，并将工作安排在切合实际的 “专注时段”内。当计划有变时您可以将未完成的工作顺延至后续时段 ，同时保持全天日程安排的连贯性。 使用 Sequence ，您可以 ： 整合任务、空闲时间和日程事件，制定每日计划 导入 Apple “提醒事项”并保持完成状态同步 创建包含清单、工时预估和专属专注时段的计划模块 为会议创建私密工作区记录议题、决策和行动项 在支持的操作系统版本上，利用设备端语音转文字功能记录会议纪要 将未完成的后续工作顺延至下一个合适的时间段 保存可重复使用的模板和专注计划，适用于深度工作、行政事务、培训或项目发布日等场景 通过小组件、和“实时活动快捷指令”查看计划 使用 Sequence Guard 功能，在专注时段内屏蔽干扰性应用和网站 Sequence Pro 进阶功能包括： 通过 iCloud 私密同步任务、计划、模板、行动项和日程安排 无限制创建专注计划、每周",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/fa/9e/b3fa9e7b-4b70-c7b7-2d4b-f2527a7ea135/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/fa/9e/b3fa9e7b-4b70-c7b7-2d4b-f2527a7ea135/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Nhat Le",
@@ -55104,9 +55289,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/calcula/id6764356974?uo=4",
-    "description": "Calcula 是一个面向 iPhone 的轻量科学计算键盘。添加键盘后，你可以在聊天、备忘录、浏览器搜索框或任何系统输入场景里直接输入表达式，并把结果插入当前输入位置。 v1.0 聚焦基础但高频的能力：基础键盘、f(x) 科学面板、可切换 DEG / RAD 的三角函数、键盘内历史面板，以及宿主 App 里的启用引导、基础设置和关于页。它不做账号、云同步或在线计算，相关设置仅在设备本地使用。",
-    "fullDescription": "Calcula 是一个面向 iPhone 的轻量科学计算键盘。添加键盘后，你可以在聊天、备忘录、浏览器搜索框或任何系统输入场景里直接输入表达式，并把结果插入当前输入位置。 v1.0 聚焦基础但高频的能力：基础键盘、f(x) 科学面板、可切换 DEG / RAD 的三角函数、键盘内历史面板，以及宿主 App 里的启用引导、基础设置和关于页。它不做账号、云同步或在线计算，相关设置仅在设备本地使用。",
-    "summaryDescription": "Calcula 是一个面向 iPhone 的轻量科学计算键盘。添加键盘后，你可以在聊天、备忘录、浏览器搜索框或任何系统输入场景里直接输入表达式，并把结果插入当前输入位置。 v1.0 聚焦基础但高频的能力：基础键盘、f(x) 科学面板、可切换 DEG / RAD 的三角函数、键盘内历史面板，以及宿主 App 里的启用引导、基础设置和关于页。它不做账号、云同步或在线计算，相关设置仅在设备本地使用。",
+    "description": "Calcula 是一个面向 iPhone 的轻量科学计算键盘。添加键盘后，你可以在聊天、备忘录、浏览器搜索框或任何系统输入场景里直接输入表达式并把结果插入当前输入位置。 v1.0 聚焦基础但高频的能力：基础键盘、 f (x) 科学面板、可切换 DEG/RAD 的三角函数、键盘内历史面板，以及宿主 App 里的启用引导、基础设置和关于页。它不做账号、云同步或在线计算，相关设置仅在设备本地使用。",
+    "fullDescription": "Calcula 是一个面向 iPhone 的轻量科学计算键盘。添加键盘后，你可以在聊天、备忘录、浏览器搜索框或任何系统输入场景里直接输入表达式并把结果插入当前输入位置。 v1.0 聚焦基础但高频的能力：基础键盘、 f (x) 科学面板、可切换 DEG/RAD 的三角函数、键盘内历史面板，以及宿主 App 里的启用引导、基础设置和关于页。它不做账号、云同步或在线计算，相关设置仅在设备本地使用。",
+    "summaryDescription": "Calcula 是一个面向 iPhone 的轻量科学计算键盘。添加键盘后，你可以在聊天、备忘录、浏览器搜索框或任何系统输入场景里直接输入表达式并把结果插入当前输入位置。 v1.0 聚焦基础但高频的能力：基础键盘、 f (x) 科学面板、可切换 DEG/RAD 的三角函数、键盘内历史面板，以及宿主 App 里的启用引导、基础设置和关于页。它不做账号、云同步或在线计算，相关设置仅在设备本地使用。",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/55/19/2155192f-5313-4c95-a935-f26ea4fe339f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/55/19/2155192f-5313-4c95-a935-f26ea4fe339f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "锦珍 黄",
@@ -55672,9 +55857,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/magic-cutout-%E6%99%BA%E8%83%BD%E6%8A%A0%E5%9B%BE/id6787381856?uo=4",
-    "description": "一张照片，轻松变成干净有质感的成品。MagicCutout 可智能识别人物与主体，一键去除杂乱背景，快速导出透明图片。 无论是制作商品白底图、头像、贴纸、社交配图，还是为照片换上新背景，都能在几步内完成。边缘精修、擦除恢复、阴影倒影和尺寸调整，让每张图片更自然、更精致。 证件照也是 MagicCutout 的亮点功能。选取一张正面照片，即可自动抠出人物并生成常用尺寸证件照，支持手动调整构图和背景，轻松制作清晰得体的形象照。 核心功能 智能抠图 一键去除人物和物品背景 透明导出 保存清晰 PNG 图片 证件照制作 自动抠图并生成常用尺寸照片 边缘精修 支持擦除与恢复 细节更自然 背景替换 阴影倒影 让合成效果更有质感 图片裁剪与尺寸调整 适配社交分享和商品图片 滤镜与修图 完成照片的最后润色 所有图片处理均在设备本地完成，照片无需上传。 MagicCutout Pro 提供更多高级工具与导出能力，采用一次性购买方式，不是订阅，不会自动续费。",
-    "fullDescription": "一张照片，轻松变成干净有质感的成品。MagicCutout 可智能识别人物与主体，一键去除杂乱背景，快速导出透明图片。 无论是制作商品白底图、头像、贴纸、社交配图，还是为照片换上新背景，都能在几步内完成。边缘精修、擦除恢复、阴影倒影和尺寸调整，让每张图片更自然、更精致。 证件照也是 MagicCutout 的亮点功能。选取一张正面照片，即可自动抠出人物并生成常用尺寸证件照，支持手动调整构图和背景，轻松制作清晰得体的形象照。 核心功能 智能抠图 一键去除人物和物品背景 透明导出 保存清晰 PNG 图片 证件照制作 自动抠图并生成常用尺寸照片 边缘精修 支持擦除与恢复 细节更自然 背景替换 阴影倒影 让合成效果更有质感 图片裁剪与尺寸调整 适配社交分享和商品图片 滤镜与修图 完成照片的最后润色 所有图片处理均在设备本地完成，照片无需上传。 MagicCutout Pro 提供更多高级工具与导出能力，采用一次性购买方式，不是订阅，不会自动续费。",
-    "summaryDescription": "一张照片，轻松变成干净有质感的成品。MagicCutout 可智能识别人物与主体，一键去除杂乱背景，快速导出透明图片。 无论是制作商品白底图、头像、贴纸、社交配图，还是为照片换上新背景，都能在几步内完成。边缘精修、擦除恢复、阴影倒影和尺寸调整，让每张图片更自然、更精致。 证件照也是 MagicCutout 的亮点功能。选取一张正面照片，即可自动抠出人物并生成常用尺寸证件照，支持手动调整构图和背景，轻松制作清晰得体的形象照。 核心功能 智能抠图 一键去除人物和物品背景 透明导出 保存清晰 PNG 图片 证件照制作 自动抠图并生成常用尺寸照片 边缘精修 支持擦除与恢复 细节更自然 背景替换 阴影倒影 让合成效果更有质感 图片裁剪与尺寸调整 适配社交分享和商品图片 滤镜与修图 完成照片的最后润色 所有图片处理均在设备本地完成，照片无需上传。 MagicCutout Pro 提供更多高级工具与导出能力，采用一次性购买方式，不是订阅，不会自动续费。",
+    "description": "一张照片，轻松变成干净有质感的成品。 MagicCutout 可智能识别人物与主体，一键去除杂乱背景快速导出透明图片。 无论是制作商品白底图、头像、贴纸、社交配图，还是为照片换上新背景 ，都能在几步内完成。边缘精修、擦除恢复、阴影倒影和尺寸调整 ，让每张图片更自然、更精致。 证件照也是 MagicCutout 的亮点功能。选取一张正面照片，即可自动抠出人物并生成常用尺寸证件照支持手动调整构图和背景 ，轻松制作清晰得体的形象照。 核心功能 智能抠图 一键去除人物和物品背景 透明导出 保存清晰 PNG 图片 证件照制作 自动抠图并生成常用尺寸照片 边缘精修 支持擦除与恢复 细节更自然 背景替换 阴影倒影 让合成效果更有质感 图片裁剪与尺寸调整 适配社交分享和商品图片 滤镜与修图 完成照片的最后润色 所有图片处理均在设备本地完成，照片无需上传。 MagicCutout Pro 提供更多高级工具与导出能力，采用一次性购买方式 ，不是订阅 ，不会自动续费。",
+    "fullDescription": "一张照片，轻松变成干净有质感的成品。 MagicCutout 可智能识别人物与主体，一键去除杂乱背景快速导出透明图片。 无论是制作商品白底图、头像、贴纸、社交配图，还是为照片换上新背景 ，都能在几步内完成。边缘精修、擦除恢复、阴影倒影和尺寸调整 ，让每张图片更自然、更精致。 证件照也是 MagicCutout 的亮点功能。选取一张正面照片，即可自动抠出人物并生成常用尺寸证件照支持手动调整构图和背景 ，轻松制作清晰得体的形象照。 核心功能 智能抠图 一键去除人物和物品背景 透明导出 保存清晰 PNG 图片 证件照制作 自动抠图并生成常用尺寸照片 边缘精修 支持擦除与恢复 细节更自然 背景替换 阴影倒影 让合成效果更有质感 图片裁剪与尺寸调整 适配社交分享和商品图片 滤镜与修图 完成照片的最后润色 所有图片处理均在设备本地完成，照片无需上传。 MagicCutout Pro 提供更多高级工具与导出能力，采用一次性购买方式 ，不是订阅 ，不会自动续费。",
+    "summaryDescription": "一张照片，轻松变成干净有质感的成品。 MagicCutout 可智能识别人物与主体，一键去除杂乱背景快速导出透明图片。 无论是制作商品白底图、头像、贴纸、社交配图，还是为照片换上新背景 ，都能在几步内完成。边缘精修、擦除恢复、阴影倒影和尺寸调整 ，让每张图片更自然、更精致。 证件照也是 MagicCutout 的亮点功能。选取一张正面照片，即可自动抠出人物并生成常用尺寸证件照支持手动调整构图和背景 ，轻松制作清晰得体的形象照。 核心功能 智能抠图 一键去除人物和物品背景 透明导出 保存清晰 PNG 图片 证件照制作 自动抠图并生成常用尺寸照片 边缘精修 支持擦除与恢复 细节更自然 背景替换 阴影倒影 让合成效果更有质感 图片裁剪与尺寸调整 适配社交分享和商品图片 滤镜与修图 完成照片的最后润色 所有图片处理均在设备本地完成，照片无需上传。 MagicCutout Pro 提供更多高级工具与导出能力，采用一次性购买方式 ，不是订阅 ，不会自动续费。",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/3c/7c/e93c7c33-ecef-6a7b-2c1d-191d538f754c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/3c/7c/e93c7c33-ecef-6a7b-2c1d-191d538f754c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
     "sellerName": "友健 高",
@@ -56367,8 +56552,8 @@
     "description": "时时勤拂拭，不使惹尘埃。 笨整理把精确筛选和快速手动审图结合起来，把每一次保留与删除的决定都交给你。你可以从最近的照片开始，也可以按日期、媒体类型、横竖方向、实况照片、相册、收藏等条件建立彼此独立的整理任务。进度会自动保存，下次从上一次的位置继续。 滑动或点按即可保留、在 Apple 照片中收藏、查看上一张，或先把素材放进笨整理废纸篓。只有清空应用内废纸篓并确认 Apple 的系统弹窗后，照片才会真正进入“最近删除”。 “立正”会在扫描过程中逐张给出可能需要旋转的照片；“实况”会保守筛选食物和静物类实况照片，再由你选择哪些变为静态照片。相册工具还支持浏览、筛选、预览、移动和清理相册。 照片分析在设备本地完成。笨整理无需账号，也不会上传你的照片。",
     "fullDescription": "时时勤拂拭，不使惹尘埃。 笨整理把精确筛选和快速手动审图结合起来，把每一次保留与删除的决定都交给你。你可以从最近的照片开始，也可以按日期、媒体类型、横竖方向、实况照片、相册、收藏等条件建立彼此独立的整理任务。进度会自动保存，下次从上一次的位置继续。 滑动或点按即可保留、在 Apple 照片中收藏、查看上一张，或先把素材放进笨整理废纸篓。只有清空应用内废纸篓并确认 Apple 的系统弹窗后，照片才会真正进入“最近删除”。 “立正”会在扫描过程中逐张给出可能需要旋转的照片；“实况”会保守筛选食物和静物类实况照片，再由你选择哪些变为静态照片。相册工具还支持浏览、筛选、预览、移动和清理相册。 照片分析在设备本地完成。笨整理无需账号，也不会上传你的照片。",
     "summaryDescription": "时时勤拂拭，不使惹尘埃。 笨整理把精确筛选和快速手动审图结合起来，把每一次保留与删除的决定都交给你。你可以从最近的照片开始，也可以按日期、媒体类型、横竖方向、实况照片、相册、收藏等条件建立彼此独立的整理任务。进度会自动保存，下次从上一次的位置继续。 滑动或点按即可保留、在 Apple 照片中收藏、查看上一张，或先把素材放进笨整理废纸篓。只有清空应用内废纸篓并确认 Apple 的系统弹窗后，照片才会真正进入“最近删除”。 “立正”会在扫描过程中逐张给出可能需要旋转的照片；“实况”会保守筛选食物和静物类实况照片，再由你选择哪些变为静态照片。相册工具还支持浏览、筛选、预览、移动和清理相册。 照片分析在设备本地完成。笨整理无需账号，也不会上传你的照片。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/a9/3e/36a93e71-5d81-cf86-04a4-53dcd16e1cc0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/a9/3e/36a93e71-5d81-cf86-04a4-53dcd16e1cc0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/2e/ae/d02eaefb-8946-5340-b40b-a92e8bec8aa9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/2e/ae/d02eaefb-8946-5340-b40b-a92e8bec8aa9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Li Wei",
     "artistName": "Li Wei",
     "screenshotUrls": [
@@ -56867,8 +57052,8 @@
     "description": "Studio Camera transforms your iPhone or iPad into a professional video and livestreaming studio—now with powerful audio capabilities through Tone3000 integration and virtual channel mixing. Professional Audio Control Tone3000 Integration: Expand your sound with AUv3 audio effects plugins. Add studio-grade effects like overdrive, chorus, delay, reverb, and auto-wah to any input channel in real time. VocalInKey: Real-time vocal pitch correction. Pick a key and scale and VocalInKey snaps your singing in tune automatically, live. Virtual Channels: Import and play backing tracks, background music, or pre-recorded audio alongside your live inputs. Mix multiple audio sources simultaneously—perfect for karaoke, live performances with accompaniment, or layered podcast production. Advanced Mixing: Connect professional audio interfaces, control per-channel levels and panning, apply effects chains, and monitor everything with precision VU meters. Complete Video Studio High-Quality Recording: Capture broadcast-ready video with reliable performance and quick setup controls. Livestreaming Simplified: Go live instantly using Stream Key and RTMP URL. Native YouTube integration makes setup effortless. Flexible Monitoring: Adjust monitor mixes independently from your broadcast output—hear exactly what you need while streaming clean audio to your audience. Designed for Creators Midi support: Control effect presets and toggle using Midi messages Clean, focused interface puts controls at your fingertips. Switch inputs, balance your mix, and start recording or streaming in seconds. Save device presets and resume sessions instantly. Perfect for: musicians performing with backing tracks, podcasters mixing remote guests and intro music, broadcasters managing multiple audio sources, and creators who demand professional sound. Studio Camera: Professional video meets powerful audio mixing—all from your iOS device.",
     "fullDescription": "Studio Camera transforms your iPhone or iPad into a professional video and livestreaming studio—now with powerful audio capabilities through Tone3000 integration and virtual channel mixing. Professional Audio Control Tone3000 Integration: Expand your sound with AUv3 audio effects plugins. Add studio-grade effects like overdrive, chorus, delay, reverb, and auto-wah to any input channel in real time. VocalInKey: Real-time vocal pitch correction. Pick a key and scale and VocalInKey snaps your singing in tune automatically, live. Virtual Channels: Import and play backing tracks, background music, or pre-recorded audio alongside your live inputs. Mix multiple audio sources simultaneously—perfect for karaoke, live performances with accompaniment, or layered podcast production. Advanced Mixing: Connect professional audio interfaces, control per-channel levels and panning, apply effects chains, and monitor everything with precision VU meters. Complete Video Studio High-Quality Recording: Capture broadcast-ready video with reliable performance and quick setup controls. Livestreaming Simplified: Go live instantly using Stream Key and RTMP URL. Native YouTube integration makes setup effortless. Flexible Monitoring: Adjust monitor mixes independently from your broadcast output—hear exactly what you need while streaming clean audio to your audience. Designed for Creators Midi support: Control effect presets and toggle using Midi messages Clean, focused interface puts controls at your fingertips. Switch inputs, balance your mix, and start recording or streaming in seconds. Save device presets and resume sessions instantly. Perfect for: musicians performing with backing tracks, podcasters mixing remote guests and intro music, broadcasters managing multiple audio sources, and creators who demand professional sound. Studio Camera: Professional video meets powerful audio mixing—all from your iOS device.",
     "summaryDescription": "Studio Camera transforms your iPhone or iPad into a professional video and livestreaming studio—now with powerful audio capabilities through Tone3000 integration and virtual channel mixing. Professional Audio Control Tone3000 Integration: Expand your sound with AUv3 audio effects plugins. Add studio-grade effects like overdrive, chorus, delay, reverb, and auto-wah to any input channel in real time. VocalInKey: Real-time vocal pitch correction. Pick a key and scale and VocalInKey snaps your singing in tune automatically, live. Virtual Channels: Import and play backing tracks, background music, or pre-recorded audio alongside your live inputs. Mix multiple audio sources simultaneously—perfect for karaoke, live performances with accompaniment, or layered podcast production. Advanced Mixing: Connect professional audio interfaces, control per-channel levels and panning, apply effects chains, and monitor everything with precision VU meters. Complete Video Studio High-Quality Recording: Capture broadcast-ready video with reliable performance and quick setup controls. Livestreaming Simplified: Go live instantly using Stream Key and RTMP URL. Native YouTube integration makes setup effortless. Flexible Monitoring: Adjust monitor mixes independently from your broadcast output—hear exactly what you need while streaming clean audio to your audience. Designed for Creators Midi support: Control effect presets and toggle using Midi messages Clean, focused interface puts controls at your fingertips. Switch inputs, balance your mix, and start recording or streaming in seconds. Save device presets and resume sessions instantly. Perfect for: musicians performing with backing tracks, podcasters mixing remote guests and intro music, broadcasters managing multiple audio sources, and creators who demand professional sound. Studio Camera: Professional video meets powerful audio mixing—all from your iOS device.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/d1/b4/06d1b48d-7252-559e-beab-033c4785f21b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/d1/b4/06d1b48d-7252-559e-beab-033c4785f21b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/1e/57/5b1e5723-2306-43cb-2cee-bc9e5c18d5c8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/1e/57/5b1e5723-2306-43cb-2cee-bc9e5c18d5c8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "Rafael Guilherme Bertholdo",
     "artistName": "Rafael Guilherme Bertholdo",
     "screenshotUrls": [
@@ -57535,5 +57720,42 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/09/54/d609543b-1a36-4951-5e70-bcefd4341e7e/5.jpg/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1788296849326
+  },
+  "6805444905": {
+    "name": "唱唱鸭-同频成曲",
+    "trackName": "唱唱鸭-同频成曲",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788308398068,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%94%B1%E5%94%B1%E9%B8%AD-%E5%90%8C%E9%A2%91%E6%88%90%E6%9B%B2/id6805444905?uo=4",
+    "description": "同频成曲 — 零基础也能轻松弹唱与三键成曲 用合成音色练习和弦与歌词，点三下就能生成一段旋律， 并在「本机同频社区」分享你的练习与作品。 【轻松弹唱】 跟随歌词与和弦垫练习，实时计分（命中 / 漏按） 可选主音提示与麦克风录音（练习录音保存在本机） 支持自建曲目，录音可系统分享或发布到同频社区 【三键成曲】 点选三个种子音，或自由编曲，快速生成旋律 保存、续编，管理在「设置中心 · 我的作品」 【同频社区 · 本机体验】 发布文字 / 成曲 / 曲目 / 录音，点赞与评论 全部内容仅存本机，无账号、无云端社交同步 首次使用需同意社区规范；支持举报、拉黑与基础内容过滤 【设置中心】 管理成曲、曲目与录音 音色与偏好 隐私说明、使用说明、社区规范与 UGC 安全说明 【重要说明】 乐器音色为程序合成，并非真实乐器采样 演示曲目仅供学习与体验，不含正版伴奏或商业授权 麦克风仅在你开启录音时使用 删除 App 即清除本机数据 适合想轻松练琴、随手成曲的朋友。欢迎开始你的同频之旅。",
+    "fullDescription": "同频成曲 — 零基础也能轻松弹唱与三键成曲 用合成音色练习和弦与歌词，点三下就能生成一段旋律， 并在「本机同频社区」分享你的练习与作品。 【轻松弹唱】 跟随歌词与和弦垫练习，实时计分（命中 / 漏按） 可选主音提示与麦克风录音（练习录音保存在本机） 支持自建曲目，录音可系统分享或发布到同频社区 【三键成曲】 点选三个种子音，或自由编曲，快速生成旋律 保存、续编，管理在「设置中心 · 我的作品」 【同频社区 · 本机体验】 发布文字 / 成曲 / 曲目 / 录音，点赞与评论 全部内容仅存本机，无账号、无云端社交同步 首次使用需同意社区规范；支持举报、拉黑与基础内容过滤 【设置中心】 管理成曲、曲目与录音 音色与偏好 隐私说明、使用说明、社区规范与 UGC 安全说明 【重要说明】 乐器音色为程序合成，并非真实乐器采样 演示曲目仅供学习与体验，不含正版伴奏或商业授权 麦克风仅在你开启录音时使用 删除 App 即清除本机数据 适合想轻松练琴、随手成曲的朋友。欢迎开始你的同频之旅。",
+    "summaryDescription": "同频成曲 — 零基础也能轻松弹唱与三键成曲 用合成音色练习和弦与歌词，点三下就能生成一段旋律， 并在「本机同频社区」分享你的练习与作品。 【轻松弹唱】 跟随歌词与和弦垫练习，实时计分（命中 / 漏按） 可选主音提示与麦克风录音（练习录音保存在本机） 支持自建曲目，录音可系统分享或发布到同频社区 【三键成曲】 点选三个种子音，或自由编曲，快速生成旋律 保存、续编，管理在「设置中心 · 我的作品」 【同频社区 · 本机体验】 发布文字 / 成曲 / 曲目 / 录音，点赞与评论 全部内容仅存本机，无账号、无云端社交同步 首次使用需同意社区规范；支持举报、拉黑与基础内容过滤 【设置中心】 管理成曲、曲目与录音 音色与偏好 隐私说明、使用说明、社区规范与 UGC 安全说明 【重要说明】 乐器音色为程序合成，并非真实乐器采样 演示曲目仅供学习与体验，不含正版伴奏或商业授权 麦克风仅在你开启录音时使用 删除 App 即清除本机数据 适合想轻松练琴、随手成曲的朋友。欢迎开始你的同频之旅。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/3b/58/483b58ad-994b-70c6-5602-518d8ea7ba01/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/3b/58/483b58ad-994b-70c6-5602-518d8ea7ba01/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.jpg",
+    "sellerName": "宇涵 刘",
+    "artistName": "宇涵 刘",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/d2/8c/39d28c53-3c2a-17c8-aadf-61bd8a34e204/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-08-26_at_18.30.51.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/b4/48/82b448ee-68a0-0f99-dd0c-928605176907/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-08-26_at_18.30.56.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/2c/e2/1e2ce26d-e741-78fe-e114-8772be809578/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-08-26_at_18.30.53.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/a0/67/6fa067d4-1fb2-383d-af4d-2fe9235f48d0/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-08-26_at_18.30.49.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788308359988
   }
 }

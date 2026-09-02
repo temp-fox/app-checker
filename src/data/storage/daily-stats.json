@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": 1788315817716,
+    "cn": {
+      "total": 1,
+      "price": 0,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 1169525771,
+          "name": "JPEG Jackal Lite",
+          "type": "iap",
+          "detail": "Upgrade to Full Version: ¥15.00 → ¥0.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788303577862,
     "cn": {
       "total": 2,
@@ -3213,34 +3229,6 @@
           "name": "血压：追踪器",
           "type": "iap",
           "detail": "Lifetime: ¥1,998.00 → ¥798.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787442756539,
-    "cn": {
-      "total": 3,
-      "price": 2,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6757269133,
-          "name": "GlobalScan Pro: PDF Scanner",
-          "type": "price",
-          "detail": "¥38.00 → ¥22.00"
-        },
-        {
-          "id": 6740407542,
-          "name": "BarGenius - Mixology App",
-          "type": "iap",
-          "detail": "Lifetime Pro: ¥298.00 → ¥0.00"
-        },
-        {
-          "id": 1661349178,
-          "name": "Vurbit：意大利语动词",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
         }
       ]
     }
