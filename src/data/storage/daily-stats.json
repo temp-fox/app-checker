@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": 1788402669368,
+    "cn": {
+      "total": 1,
+      "price": 1,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6749027480,
+          "name": "Speed Pro Meter",
+          "type": "price",
+          "detail": "¥38.00 → ¥15.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788389646054,
     "cn": {
       "total": 2,
@@ -3009,80 +3025,6 @@
           "name": "Simple Tracker App",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787538538512,
-    "cn": {
-      "total": 6,
-      "price": 0,
-      "iap": 6,
-      "apps": [
-        {
-          "id": 6483687406,
-          "name": "KingB Organ",
-          "type": "iap",
-          "detail": "Meditations in Blue: ¥28.00 → ¥8.00"
-        },
-        {
-          "id": 6483687406,
-          "name": "KingB Organ",
-          "type": "iap",
-          "detail": "Forever Classics: ¥28.00 → ¥8.00"
-        },
-        {
-          "id": 6483687406,
-          "name": "KingB Organ",
-          "type": "iap",
-          "detail": "Organ Essentials: ¥28.00 → ¥8.00"
-        },
-        {
-          "id": 1644005057,
-          "name": "TROOPER Synthesizer",
-          "type": "iap",
-          "detail": "The EDC: ¥15.00 → ¥8.00"
-        },
-        {
-          "id": 1644005057,
-          "name": "TROOPER Synthesizer",
-          "type": "iap",
-          "detail": "Slow Burn: ¥15.00 → ¥8.00"
-        },
-        {
-          "id": 1644005057,
-          "name": "TROOPER Synthesizer",
-          "type": "iap",
-          "detail": "Magnum Load: ¥15.00 → ¥8.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787528747520,
-    "cn": {
-      "total": 3,
-      "price": 2,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6754876029,
-          "name": "stashy",
-          "type": "price",
-          "detail": "¥58.00 → 免费"
-        },
-        {
-          "id": 1442926006,
-          "name": "MiniTube Player",
-          "type": "price",
-          "detail": "¥15.00 → ¥3.00"
-        },
-        {
-          "id": 6761574508,
-          "name": "Über Umwege - Stadt erkunden",
-          "type": "iap",
-          "detail": "Detours Pro - Promo: ¥58.00 → ¥38.00"
         }
       ]
     }
