@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 408061139,
+      "name": {
+        "cn": "Starfall Snowman"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788469667886,
+      "_discountType": "app"
+    },
+    {
+      "id": 425759273,
+      "name": {
+        "cn": "Starfall Gingerbread"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788469667886,
+      "_discountType": "app"
+    },
+    {
+      "id": 6747370121,
+      "name": {
+        "cn": "一刻-倒计时正计时纪念日"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788469659459,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785975241,
+      "name": {
+        "cn": "Video Touch: 颜色"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788469667886,
+      "_discountType": "app"
+    },
+    {
       "id": 985978176,
       "name": {
         "cn": "Telegraph - 电报 ! 开心记住摩尔斯电码 !"
