@@ -2,6 +2,176 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 390175338,
+      "name": {
+        "cn": "LunaSolCal"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788419680274,
+      "_discountType": "app"
+    },
+    {
+      "id": 1363458953,
+      "name": {
+        "cn": "嘉宾礼簿 - 礼尚往来一目了然"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788419680274,
+      "_discountType": "app"
+    },
+    {
+      "id": 1488667597,
+      "name": {
+        "cn": "PDF Document Scanner - Captize"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788419736721,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6754839310,
+      "name": {
+        "cn": "危化品查询"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788419680274,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756989954,
+      "name": {
+        "cn": "英语启蒙语句"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788419680274,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793179615,
+      "name": {
+        "cn": "SP Neuron"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788419685350,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760778140,
+      "name": {
+        "cn": "TVH Stream"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788419693257,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790637806,
+      "name": {
+        "cn": "Orbit（轨迹）"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788419736721,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6788569032,
+      "name": {
+        "cn": "FaceIdent: AI照片相册"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788419736721,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6752551268,
+      "name": {
+        "cn": "두번알림"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788419736721,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6798718530,
+      "name": {
+        "cn": "PresetCollection"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788419736721,
+      "_discountType": "app"
+    },
+    {
+      "id": 6791581762,
+      "name": {
+        "cn": "iSlip: Save now Forget later"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788419736721,
+      "_discountType": "app"
+    },
+    {
+      "id": 6503481780,
+      "name": {
+        "cn": "MyLog: Diary Journal Notes"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788419736721,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787306687,
+      "name": {
+        "cn": "Lulla: Baby Sleep Sounds"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788419736721,
+      "_discountType": "app"
+    },
+    {
+      "id": 6737504944,
+      "name": {
+        "cn": "Axchange - ADB File Transfer"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788419736721,
+      "_discountType": "app"
+    },
+    {
       "id": 1011014154,
       "name": {
         "cn": "驱蚊器 - 超声波电蚊香驱赶蚊虫"
