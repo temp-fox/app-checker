@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 586803362,
+      "name": {
+        "cn": "ウィズダム英和・和英辞典 2"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788555000381,
+      "_discountType": "app"
+    },
+    {
+      "id": 943024231,
+      "name": {
+        "cn": "小学館 ランダムハウス英和大辞典"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788555000381,
+      "_discountType": "app"
+    },
+    {
+      "id": 1387400884,
+      "name": {
+        "cn": "i临帖-多宝塔碑"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788555008439,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761405965,
+      "name": {
+        "cn": "情绪森林 - 情绪的港湾：记录与治愈"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788554994861,
+      "_discountType": "app"
+    },
+    {
+      "id": 6744562813,
+      "name": {
+        "cn": "Peace of Mind CBT - AI Therapy"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788555005794,
+      "_discountType": "app"
+    },
+    {
       "id": 1627316972,
       "name": {
         "cn": "Arabiyyah Bayna Yadayk 2: ABY2"

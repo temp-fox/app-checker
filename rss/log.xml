@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/log.xml</id>
     <title>日志信息</title>
-    <updated>2026-09-04T16:27:35.886Z</updated>
+    <updated>2026-09-04T20:50:31.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -10,6 +10,259 @@
         <uri>https://github.com/eyelly-wu</uri>
     </author>
     <rights>Copyright (c) 2024-present Eyelly Wu</rights>
+    <entry>
+        <title type="html"><![CDATA[2026-09-05 04:50:31 - playwright - 2]]></title>
+        <id>1788555031090</id>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2026-09-04T20:50:31.090Z</updated>
+        <summary type="html"><![CDATA[总耗时：2h19m39.567s；重新获取应用数占比：0%；单个应用重新获取平均次数：1；重新获取总次数：18；获取失败总应用数：0；获取失败应用数占比：0%]]></summary>
+        <content type="html"><![CDATA[<h1>汇总信息</h1><ul>
+  <li>总耗时：2h19m39.567s</li><li>重新获取应用数占比：0%</li><li>单个应用重新获取平均次数：1</li><li>重新获取总次数：18</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：0%</li>
+</ul><h2>统计信息</h2><table>
+  <thead>
+    <tr>
+      <th>区域</th>
+      <th>应用总数</th>
+      <th>重新获取应用数</th>
+      <th>重试总次数</th>
+      <th>获取失败数</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>中国大陆（CN）</td>
+      <td>12544</td>
+      <td>14（0%）</td>
+      <td>
+        <b>18</b>
+      </td>
+      <td>
+        <b>0（0%）</b>
+      </td>
+    </tr>
+  </tbody>
+</table><h1>各领域内购信息获取排行</h1><h2>中国大陆（CN）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>1</b>
+      </td>
+      <td>
+        <ul>
+          <li>657441399</li><li>
+            <a href="https://apps.apple.com/cn/app/id657441399">Visual Math 4D</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>3</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <ul>
+          <li>6761194077</li><li>
+            <a href="https://apps.apple.com/cn/app/id6761194077">Geopix</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>3</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
+        <ul>
+          <li>6444508254</li><li>
+            <a href="https://apps.apple.com/cn/app/id6444508254">汉末霸业</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>3</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
+        <ul>
+          <li>6448636483</li><li>
+            <a href="https://apps.apple.com/cn/app/id6448636483">美食美声</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>3</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
+        <ul>
+          <li>1072547160</li><li>
+            <a href="https://apps.apple.com/cn/app/id1072547160">NumPad: 数字键盘</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>2</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
+        <ul>
+          <li>6779561210</li><li>
+            <a href="https://apps.apple.com/cn/app/id6779561210">骑行胎压计算器2026</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>2</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <ul>
+          <li>1188973442</li><li>
+            <a href="https://apps.apple.com/cn/app/id1188973442">Sally & Friends: 生日聚会</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>2</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
+      </td>
+      <td>
+        <ul>
+          <li>1019610471</li><li>
+            <a href="https://apps.apple.com/cn/app/id1019610471">DVSA Hazard Perception</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>2</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
+        <ul>
+          <li>1556086085</li><li>
+            <a href="https://apps.apple.com/cn/app/id1556086085">Blackmagic BlueConnect</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>2</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
+      </td>
+      <td>
+        <ul>
+          <li>1317198278</li><li>
+            <a href="https://apps.apple.com/cn/app/id1317198278">Cinegraph - Living Photos</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>2</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
+        <ul>
+          <li>6761607757</li><li>
+            <a href="https://apps.apple.com/cn/app/id6761607757">想要相机 - 逛街购物拍照清单</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>2</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
+        <ul>
+          <li>1296085645</li><li>
+            <a href="https://apps.apple.com/cn/app/id1296085645">aRacerSmart</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>2</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>13</b>
+      </td>
+      <td>
+        <ul>
+          <li>1121659254</li><li>
+            <a href="https://apps.apple.com/cn/app/id1121659254">江湖风云录-超自由武侠剧情角色扮演手游</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>2</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>14</b>
+      </td>
+      <td>
+        <ul>
+          <li>424477181</li><li>
+            <a href="https://apps.apple.com/cn/app/id424477181">SMS Smileys</a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <b>2</b>
+      </td>
+    </tr>
+  </tbody>
+</table>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026-09-05 00:27:35 - playwright - 2]]></title>
         <id>1788539255886</id>
