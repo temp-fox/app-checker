@@ -1,5 +1,117 @@
 [
   {
+    "timestamp": 1788528925487,
+    "cn": {
+      "total": 17,
+      "price": 15,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6801023145,
+          "name": "再看：遇到未来的自己",
+          "type": "price",
+          "detail": "¥18.00 → 免费"
+        },
+        {
+          "id": 6768887563,
+          "name": "NEN: Focus Timer",
+          "type": "iap",
+          "detail": "NEN Lifetime Unlock: ¥48.00 → ¥18.00"
+        },
+        {
+          "id": 6761043009,
+          "name": "BakeNote : 烘焙笔记、烘焙日记 - 美味存档",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6760637402,
+          "name": "DidYouPoop : 拉了吗、排便记录、便便记录",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6770832821,
+          "name": "Sentium Glitch",
+          "type": "price",
+          "detail": "¥198.00 → ¥148.00"
+        },
+        {
+          "id": 6762442876,
+          "name": "Tracker Note - 全能追踪笔记",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1374282205,
+          "name": "smartscore - 乒乓球",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6789095581,
+          "name": "PDF Editor: Document Assistant",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6762346798,
+          "name": "DualFrame Cam・双格相机、双摄、镜像相机",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 976964316,
+          "name": "电池健康与续航监测",
+          "type": "price",
+          "detail": "¥12.00 → ¥7.00"
+        },
+        {
+          "id": 6760383873,
+          "name": "Echo - 时光回声·纪念日",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6770565481,
+          "name": "Bass Resonance",
+          "type": "price",
+          "detail": "¥68.00 → ¥58.00"
+        },
+        {
+          "id": 6758280815,
+          "name": "OverlyCam - Camera Overlay",
+          "type": "price",
+          "detail": "¥18.00 → ¥10.80"
+        },
+        {
+          "id": 6762799011,
+          "name": "呼噜监测大师 - 专业睡眠健康助手",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        },
+        {
+          "id": 6761989945,
+          "name": "视力训练大师-专业视力训练与视觉检查",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        },
+        {
+          "id": 6758938642,
+          "name": "PolyPipe",
+          "type": "price",
+          "detail": "¥98.00 → ¥58.00"
+        },
+        {
+          "id": 6760831361,
+          "name": "Topo Maps & Trails Offline",
+          "type": "iap",
+          "detail": "Topo Maps Pro: ¥68.00 → ¥22.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788504564845,
     "cn": {
       "total": 19,
@@ -2975,78 +3087,6 @@
           "name": "票小帮",
           "type": "price",
           "detail": "¥15.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787658704032,
-    "cn": {
-      "total": 2,
-      "price": 2,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 961632517,
-          "name": "Be Focused Pro - 工作和学习的计时器",
-          "type": "price",
-          "detail": "¥98.00 → ¥58.00"
-        },
-        {
-          "id": 953426154,
-          "name": "Be Focused Pro: Pomodoro Timer",
-          "type": "price",
-          "detail": "¥98.00 → ¥58.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787653088887,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6786560987,
-          "name": "图表大师-数据可视化柱状折线饼图统计制作助手工具专版",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787644550927,
-    "cn": {
-      "total": 4,
-      "price": 3,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6744636363,
-          "name": "Macquarie Dictionary",
-          "type": "price",
-          "detail": "¥198.00 → ¥128.00"
-        },
-        {
-          "id": 1167744486,
-          "name": "GPX Buddy",
-          "type": "price",
-          "detail": "¥28.00 → ¥22.00"
-        },
-        {
-          "id": 6738623449,
-          "name": "二维码管家 - 二维码生成器和扫描器，条形码扫描器",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6770481522,
-          "name": "象棋AI版 - 人机对弈·残局破解",
-          "type": "iap",
-          "detail": "钻石周卡: ¥9.00 → ¥8.00"
         }
       ]
     }
