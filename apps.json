@@ -2,6 +2,202 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6761261891,
+      "name": {
+        "cn": "环境扫描"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788496869214,
+      "_discountType": "app"
+    },
+    {
+      "id": 6771828376,
+      "name": {
+        "cn": "闲言 - 创作卡片·笔记分享"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788496880403,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772020794,
+      "name": {
+        "cn": "提前还贷-房贷计算器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788496883174,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795562456,
+      "name": {
+        "cn": "TooTask ·将计划、提醒、清单和小组件整合在一起"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6799588989,
+      "name": {
+        "cn": "DaysCount-重要日子"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6756551142,
+      "name": {
+        "cn": "Mock Interview Prep AI"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6757142929,
+      "name": {
+        "cn": "Flirty: Questions for Couples"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6762165253,
+      "name": {
+        "cn": "极简记账本-记账理财预算"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6787014012,
+      "name": {
+        "cn": "PrepBatch: Bulk Image Tools"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "app"
+    },
+    {
+      "id": 6744582695,
+      "name": {
+        "cn": "Breathe Relief"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796996962,
+      "name": {
+        "cn": "Pix World"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775304785,
+      "name": {
+        "cn": "MyPlaces - Save & Organize"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789805312,
+      "name": {
+        "cn": "ScanKit: Document Scanner"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760205374,
+      "name": {
+        "cn": "Debra's Kitchen"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760863263,
+      "name": {
+        "cn": "Habit Tracker Daily Routine+"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796784687,
+      "name": {
+        "cn": "US Debt & World - EconoLive"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807021022,
+      "name": {
+        "cn": "Turnos Shift Rotation Calendar"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788496937153,
+      "_discountType": "app"
+    },
+    {
       "id": 408061139,
       "name": {
         "cn": "Starfall Snowman"
@@ -1289,8 +1485,8 @@
       "name": {
         "cn": "VideoRecord: Pause & Resume"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1788239889230,
