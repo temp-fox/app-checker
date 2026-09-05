@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6796010801,
+      "name": {
+        "cn": "爱千字文"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788646000377,
+      "_discountType": "app"
+    },
+    {
+      "id": 6764842515,
+      "name": {
+        "cn": "小白学折纸"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788646000377,
+      "_discountType": "app"
+    },
+    {
       "id": 404649255,
       "name": {
         "cn": "Electromag"
