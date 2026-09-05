@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1661963427,
+      "name": {
+        "cn": "MP1 Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788621587509,
+      "_discountType": "app"
+    },
+    {
+      "id": 6447102673,
+      "name": {
+        "cn": "Arduino Programming Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788621592848,
+      "_discountType": "app"
+    },
+    {
       "id": 933224459,
       "name": {
         "cn": "面相学  五官看出你的财运事业婚姻以及善恶"
