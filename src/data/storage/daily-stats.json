@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": 1788573634194,
+    "cn": {
+      "total": 7,
+      "price": 5,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6786382061,
+          "name": "نظام الطيبات - دليلك الغذائي",
+          "type": "price",
+          "detail": "¥28.00 → ¥15.00"
+        },
+        {
+          "id": 6798038580,
+          "name": "RunTrace 跑步记录与轨迹",
+          "type": "price",
+          "detail": "¥38.00 → ¥22.00"
+        },
+        {
+          "id": 6780071655,
+          "name": "Intenty: Intention Journal",
+          "type": "iap",
+          "detail": "Lifetime: ¥398.00 → ¥0.00"
+        },
+        {
+          "id": 6757244121,
+          "name": "GeoCam: 天气定位时间水印相机",
+          "type": "iap",
+          "detail": "Lifetime Premium: ¥598.00 → ¥398.00"
+        },
+        {
+          "id": 1022762114,
+          "name": "碰毁彗星",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        },
+        {
+          "id": 6759991476,
+          "name": "Weather Cafe",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 1114320457,
+          "name": "Baby Led Weaning Recipes",
+          "type": "price",
+          "detail": "¥38.00 → ¥28.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788563338330,
     "cn": {
       "total": 5,
@@ -3027,34 +3079,6 @@
           "name": "Teddy's Nanny",
           "type": "price",
           "detail": "¥58.00 → ¥48.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787701361017,
-    "cn": {
-      "total": 3,
-      "price": 3,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6760831361,
-          "name": "Offline Topo Maps & Trails",
-          "type": "price",
-          "detail": "¥38.00 → ¥22.00"
-        },
-        {
-          "id": 6504745518,
-          "name": "Xproguard Password Manager",
-          "type": "price",
-          "detail": "¥148.00 → 免费"
-        },
-        {
-          "id": 1114320457,
-          "name": "Baby Led Weaning Recipes",
-          "type": "price",
-          "detail": "¥38.00 → ¥28.00"
         }
       ]
     }

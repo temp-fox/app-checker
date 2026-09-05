@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 687059692,
+      "name": {
+        "cn": "Rar解压利器+"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788567030543,
+      "_discountType": "app"
+    },
+    {
+      "id": 1634064993,
+      "name": {
+        "cn": "Screen Capture for NDI HX"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788567031104,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788974302,
+      "name": {
+        "cn": "芒果加密-私人视频加密"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788567025087,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768484303,
+      "name": {
+        "cn": "时间记-时间块规划番茄钟习惯打卡统计时间轴离线助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788567030543,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793744610,
+      "name": {
+        "cn": "2AM CAM"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788567031104,
+      "_discountType": "app"
+    },
+    {
       "id": 586803362,
       "name": {
         "cn": "ウィズダム英和・和英辞典 2"
@@ -76517,8 +76572,8 @@
       "name": {
         "cn": "任务助手: 习惯培养"
       },
-      "addType": "external",
-      "addSource": "WarmDay",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "WarmDay",
       "_externalSourceFirstSeen": 1776306488814,
