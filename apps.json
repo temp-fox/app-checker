@@ -2,6 +2,121 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1092984911,
+      "name": {
+        "cn": "Orbitrack"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788583084177,
+      "_discountType": "app"
+    },
+    {
+      "id": 1562559674,
+      "name": {
+        "cn": "Curated: Planner for Instagram"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788583084177,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6754012888,
+      "name": {
+        "cn": "待办清单 - 子任务"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788583027589,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760955397,
+      "name": {
+        "cn": "证件照大师-无广一键制作证件照AI智能抠图换背景ai证件照"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788583084177,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6754246549,
+      "name": {
+        "cn": "Swipe Budget: Money Manager"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788583084177,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6797085265,
+      "name": {
+        "cn": "Nubox"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788583084177,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6801606517,
+      "name": {
+        "cn": "Patterns: Create Wallpapers"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788583084177,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779346628,
+      "name": {
+        "cn": "Sleep Fighters: Alarm Clock"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788583084177,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804383248,
+      "name": {
+        "cn": "KeyJoy－Mechanical Keyboard App"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788583084177,
+      "_discountType": "app"
+    },
+    {
+      "id": 6737458841,
+      "name": {
+        "cn": "Elegant Piano"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788583084177,
+      "_discountType": "app"
+    },
+    {
       "id": 687059692,
       "name": {
         "cn": "Rar解压利器+"

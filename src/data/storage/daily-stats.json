@@ -1,5 +1,69 @@
 [
   {
+    "timestamp": 1788590982318,
+    "cn": {
+      "total": 9,
+      "price": 7,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6761658497,
+          "name": "邮票相机 - 拍照变成邮票",
+          "type": "iap",
+          "detail": "永久会员: ¥38.00 → ¥28.00"
+        },
+        {
+          "id": 6760683779,
+          "name": "喝茶人-茶叶百科-喝茶日历-茶文化",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6757162931,
+          "name": "Emotica - 情绪追踪与心情日记",
+          "type": "iap",
+          "detail": "Emotica Pro Lifetime: ¥598.00 → ¥0.00"
+        },
+        {
+          "id": 1441863446,
+          "name": "1Contact Pro: Clean & Backup",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1092984911,
+          "name": "Orbitrack",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6801606517,
+          "name": "Patterns: Create Wallpapers",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6779346628,
+          "name": "Sleep Fighters: Alarm Clock",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6804383248,
+          "name": "KeyJoy－Mechanical Keyboard App",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6737458841,
+          "name": "Elegant Piano",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788573634194,
     "cn": {
       "total": 7,
@@ -2983,102 +3047,6 @@
           "name": "Xliff Editor",
           "type": "price",
           "detail": "¥148.00 → ¥68.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787725917987,
-    "cn": {
-      "total": 2,
-      "price": 1,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6736619440,
-          "name": "网球ACE - 网球专业运动AI记录分析",
-          "type": "price",
-          "detail": "¥58.00 → 免费"
-        },
-        {
-          "id": 6736619440,
-          "name": "网球ACE - 网球专业运动AI记录分析",
-          "type": "iap",
-          "detail": "网球ACE永久会员: ¥68.00 → ¥58.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787718228836,
-    "cn": {
-      "total": 8,
-      "price": 8,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6798578493,
-          "name": "复盘日记-习惯打卡目标管理",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 6761900494,
-          "name": "SleepNote · 睡眠笔记 - 夜眠录音、睡眠监测",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6773016723,
-          "name": "Pinly - Polaroid Sticky Notes",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6772349545,
-          "name": "LockLines",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6760733319,
-          "name": "Quite Goofy Explorer",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 1634967005,
-          "name": "Time to Paste",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6781131521,
-          "name": "Minpick",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6790817785,
-          "name": "Solitaire After Dark",
-          "type": "price",
-          "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787710907045,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6759351727,
-          "name": "Teddy's Nanny",
-          "type": "price",
-          "detail": "¥58.00 → ¥48.00"
         }
       ]
     }

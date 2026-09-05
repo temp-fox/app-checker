@@ -5074,13 +5074,25 @@
     "trackName": "FMO 设备控制台",
     "maxPriceInfo": {
       "price": 28,
-      "formattedPrice": "¥28.00"
+      "formattedPrice": "¥28.00",
+      "SSTV 图像接收": "¥15.00"
     },
     "minPriceInfo": {
       "price": 28,
-      "formattedPrice": "¥28.00"
+      "formattedPrice": "¥28.00",
+      "SSTV 图像接收": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788583084262,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "SSTV 图像接收": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784900470232,
@@ -20770,9 +20782,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/intenty-intention-journal/id6780071655?uo=4",
-    "description": "写下原因。检查您是否已经这样做了。Intenty是数字自我意识的意向期刊。当您打开受监视的应用程序时，您会写下打开它的原因以及打开多长时间。时间到来时， Intenty会询问您是否贯彻执行—喂养您的诚实率和连胜。这不是另一个通用应用程序拦截器。阻塞只是触发因素。产品是反思：私人日记、见解、每周摘要和责任签到。特征：书面意图：捕捉你的理由，持续时间",
-    "fullDescription": "写下原因。检查您是否已经这样做了。Intenty是数字自我意识的意向期刊。当您打开受监视的应用程序时，您会写下打开它的原因以及打开多长时间。时间到来时， Intenty会询问您是否贯彻执行—喂养您的诚实率和连胜。这不是另一个通用应用程序拦截器。阻塞只是触发因素。产品是反思：私人日记、见解、每周摘要和责任签到。特征：书面意图：捕捉你的理由，持续时间",
-    "summaryDescription": "写下原因。检查您是否已经这样做了。Intenty是数字自我意识的意向期刊。当您打开受监视的应用程序时，您会写下打开它的原因以及打开多长时间。时间到来时， Intenty会询问您是否贯彻执行—喂养您的诚实率和连胜。这不是另一个通用应用程序拦截器。阻塞只是触发因素。产品是反思：私人日记、见解、每周摘要和责任签到。特征：书面意图：捕捉你的理由，持续时间",
+    "description": "写下原因。检查你是否这样做了。 Intenty 是一本数字自我意识的意向日记。当您打开观看的应用程序时，您可以写下打开它的原因以及打开时长。时间到了，Intenty 会询问您是否坚持到底——提高您的诚实率和连续性。这不是另一个通用的应用程序拦截器。阻止只是触发器。产品是反思：私人日记、见解、每周总结和责任检查。特点： 书面意图：在使用观看的应用程序之前记录您的原因、持续时间和可选情绪。诚实签到：当您规定的时间结束时，请确认",
+    "fullDescription": "写下原因。检查你是否这样做了。 Intenty 是一本数字自我意识的意向日记。当您打开观看的应用程序时，您可以写下打开它的原因以及打开时长。时间到了，Intenty 会询问您是否坚持到底——提高您的诚实率和连续性。这不是另一个通用的应用程序拦截器。阻止只是触发器。产品是反思：私人日记、见解、每周总结和责任检查。特点： 书面意图：在使用观看的应用程序之前记录您的原因、持续时间和可选情绪。诚实签到：当您规定的时间结束时，请确认",
+    "summaryDescription": "写下原因。检查你是否这样做了。 Intenty 是一本数字自我意识的意向日记。当您打开观看的应用程序时，您可以写下打开它的原因以及打开时长。时间到了，Intenty 会询问您是否坚持到底——提高您的诚实率和连续性。这不是另一个通用的应用程序拦截器。阻止只是触发器。产品是反思：私人日记、见解、每周总结和责任检查。特点： 书面意图：在使用观看的应用程序之前记录您的原因、持续时间和可选情绪。诚实签到：当您规定的时间结束时，请确认",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/5c/11/f45c11d5-519b-c039-6e85-6a68dc6ee144/intentylogo-0-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/5c/11/f45c11d5-519b-c039-6e85-6a68dc6ee144/intentylogo-0-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
     "sellerName": "Adrian Pompa Pena",
@@ -21980,8 +21992,8 @@
     "description": "台灯、护眼灯、LED 灯泡、电脑显示器、手机屏幕——它们发出的光看起来稳定，实际上可能存在肉眼难以察觉的亮度波动（频闪）。 长时间在频闪光环境下用眼，容易引起疲劳、眼胀、头痛甚至眩晕。 这款 App 帮你发现人眼难以察觉的闪烁。 【快速测频闪】 对准光源或屏幕，App 会持续采集约 3 秒自适应多快门样本，并实时更新\"有无频闪\"的筛查结论。 筛查结论：检测到频闪 / 未检测到明显频闪 / 暂无法判断 护眼判断：基于频闪水平给出低 / 中 / 高风险提示 专业参数：频闪指数、调制深度、主频、亮度波形图 【不止检测频闪】 环境照度估算：给出大致亮度区间，帮你判断环境是否适合用眼。 色温估算：大致色温参考。 护眼判断：结合频闪水平给出低 / 中 / 高风险提示。 【导出与分享】 生成 PDF 报告（含波形图、频谱图、光源截图与结论），或导出 CSV 原始数据。 【隐私优先，完全离线】 不含广告、不集成任何分析 SDK、不需要账号。 App 不主动联网，所有数据只存在你的设备上。 测量过程生成的视频仅临时处理，分析完成后立即删除；App 只保留测量结果和备注信息。 可随时在\"设置\"中一键清除全部本地数据。 【支持 12 种语言】 简体中文、繁體中文、English、日本語、한국어、Français、Deutsch、Español、Português、Русский、العربية、हिन्दी。 【重要说明】 本 App 提供的是消费级光环境筛查，结果受手机相机帧率、曝光、滚动快门和环境光影响，不能替代专业光度计检测、标准合规认证或医疗诊断。 隐私政策：https://wwmmkk.github.io/Flicker-Insight/Privacy%20Policy 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "台灯、护眼灯、LED 灯泡、电脑显示器、手机屏幕——它们发出的光看起来稳定，实际上可能存在肉眼难以察觉的亮度波动（频闪）。 长时间在频闪光环境下用眼，容易引起疲劳、眼胀、头痛甚至眩晕。 这款 App 帮你发现人眼难以察觉的闪烁。 【快速测频闪】 对准光源或屏幕，App 会持续采集约 3 秒自适应多快门样本，并实时更新\"有无频闪\"的筛查结论。 筛查结论：检测到频闪 / 未检测到明显频闪 / 暂无法判断 护眼判断：基于频闪水平给出低 / 中 / 高风险提示 专业参数：频闪指数、调制深度、主频、亮度波形图 【不止检测频闪】 环境照度估算：给出大致亮度区间，帮你判断环境是否适合用眼。 色温估算：大致色温参考。 护眼判断：结合频闪水平给出低 / 中 / 高风险提示。 【导出与分享】 生成 PDF 报告（含波形图、频谱图、光源截图与结论），或导出 CSV 原始数据。 【隐私优先，完全离线】 不含广告、不集成任何分析 SDK、不需要账号。 App 不主动联网，所有数据只存在你的设备上。 测量过程生成的视频仅临时处理，分析完成后立即删除；App 只保留测量结果和备注信息。 可随时在\"设置\"中一键清除全部本地数据。 【支持 12 种语言】 简体中文、繁體中文、English、日本語、한국어、Français、Deutsch、Español、Português、Русский、العربية、हिन्दी。 【重要说明】 本 App 提供的是消费级光环境筛查，结果受手机相机帧率、曝光、滚动快门和环境光影响，不能替代专业光度计检测、标准合规认证或医疗诊断。 隐私政策：https://wwmmkk.github.io/Flicker-Insight/Privacy%20Policy 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "台灯、护眼灯、LED 灯泡、电脑显示器、手机屏幕——它们发出的光看起来稳定，实际上可能存在肉眼难以察觉的亮度波动（频闪）。 长时间在频闪光环境下用眼，容易引起疲劳、眼胀、头痛甚至眩晕。 这款 App 帮你发现人眼难以察觉的闪烁。 【快速测频闪】 对准光源或屏幕，App 会持续采集约 3 秒自适应多快门样本，并实时更新\"有无频闪\"的筛查结论。 筛查结论：检测到频闪 / 未检测到明显频闪 / 暂无法判断 护眼判断：基于频闪水平给出低 / 中 / 高风险提示 专业参数：频闪指数、调制深度、主频、亮度波形图 【不止检测频闪】 环境照度估算：给出大致亮度区间，帮你判断环境是否适合用眼。 色温估算：大致色温参考。 护眼判断：结合频闪水平给出低 / 中 / 高风险提示。 【导出与分享】 生成 PDF 报告（含波形图、频谱图、光源截图与结论），或导出 CSV 原始数据。 【隐私优先，完全离线】 不含广告、不集成任何分析 SDK、不需要账号。 App 不主动联网，所有数据只存在你的设备上。 测量过程生成的视频仅临时处理，分析完成后立即删除；App 只保留测量结果和备注信息。 可随时在\"设置\"中一键清除全部本地数据。 【支持 12 种语言】 简体中文、繁體中文、English、日本語、한국어、Français、Deutsch、Español、Português、Русский、العربية、हिन्दी。 【重要说明】 本 App 提供的是消费级光环境筛查，结果受手机相机帧率、曝光、滚动快门和环境光影响，不能替代专业光度计检测、标准合规认证或医疗诊断。 隐私政策：https://wwmmkk.github.io/Flicker-Insight/Privacy%20Policy 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/d9/52/58d952cd-e3cf-6b85-d4f9-fb0741ca9817/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/d9/52/58d952cd-e3cf-6b85-d4f9-fb0741ca9817/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/e1/73/20e17342-ffac-9aad-ef25-5d69632584df/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/e1/73/20e17342-ffac-9aad-ef25-5d69632584df/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "名楷 王",
     "artistName": "名楷 王",
     "screenshotUrls": [
@@ -49604,7 +49616,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Lifetime": "¥8.00",
+      "Lifetime": "¥15.00",
       "Weekly Plan": "¥15.00",
       "24-Hour Pass": "¥8.00",
       "Weekly": "¥15.00",
@@ -49620,6 +49632,20 @@
       "Yearly": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788583084262,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Lifetime": "¥15.00",
+            "Weekly": "¥15.00",
+            "Weekly Plan": "¥15.00",
+            "24-Hour Pass": "¥8.00",
+            "Yearly": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788184869523,
@@ -58926,9 +58952,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B7%D9%8A%D8%A8%D8%A7%D8%AA-%D8%AF%D9%84%D9%8A%D9%84%D9%83-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A/id6786382061?uo=4",
-    "description": "نظام الطيبات - دليلك الشامل للتغذية الصحية بطريقة طبيعية 100% هل تشعر بالحيرة أمام كل هذا الكم من المعلومات المتضاربة حول الأكل الصحي؟ هل جربت أنظمة غذائية قاسية ومؤقتة ولم تحقق نتائج تدوم؟ تطبيق \"نظام الطيبات\"يقدم لك حلاً مختلفاً:نهجاً علمياً واضحاً وواقعياً، مبنياً على أبحاث الدكتور ضياء العوضي رحمه الله في الطب الطبيعي، يساعدك على بناء علاقة صحية ومستدامة مع الطعام دون حرمان أو تعقيد.فلسفة النظام: مؤشر التكرار جوهر نظام الطيبات هو قاعدة \"مؤشر التكرار\": ليست هناك أطعمة \"ممنوعة مطلقاً\" أو \"م",
-    "fullDescription": "نظام الطيبات - دليلك الشامل للتغذية الصحية بطريقة طبيعية 100% هل تشعر بالحيرة أمام كل هذا الكم من المعلومات المتضاربة حول الأكل الصحي؟ هل جربت أنظمة غذائية قاسية ومؤقتة ولم تحقق نتائج تدوم؟ تطبيق \"نظام الطيبات\"يقدم لك حلاً مختلفاً:نهجاً علمياً واضحاً وواقعياً، مبنياً على أبحاث الدكتور ضياء العوضي رحمه الله في الطب الطبيعي، يساعدك على بناء علاقة صحية ومستدامة مع الطعام دون حرمان أو تعقيد.فلسفة النظام: مؤشر التكرار جوهر نظام الطيبات هو قاعدة \"مؤشر التكرار\": ليست هناك أطعمة \"ممنوعة مطلقاً\" أو \"م",
-    "summaryDescription": "نظام الطيبات - دليلك الشامل للتغذية الصحية بطريقة طبيعية 100% هل تشعر بالحيرة أمام كل هذا الكم من المعلومات المتضاربة حول الأكل الصحي؟ هل جربت أنظمة غذائية قاسية ومؤقتة ولم تحقق نتائج تدوم؟ تطبيق \"نظام الطيبات\"يقدم لك حلاً مختلفاً:نهجاً علمياً واضحاً وواقعياً، مبنياً على أبحاث الدكتور ضياء العوضي رحمه الله في الطب الطبيعي، يساعدك على بناء علاقة صحية ومستدامة مع الطعام دون حرمان أو تعقيد.فلسفة النظام: مؤشر التكرار جوهر نظام الطيبات هو قاعدة \"مؤشر التكرار\": ليست هناك أطعمة \"ممنوعة مطلقاً\" أو \"م",
+    "description": "Al Tayebat System - 以 100% 天然方式提供健康营养的综合指南。您是否对这么多关于健康饮食的相互矛盾的信息感到困惑？您是否尝试过严厉且临时的节食方法，但没有取得持久的效果？ “Al-Tayebat System”应用程序为您提供了不同的解决方案：基于 Dhia Al-Awadhi 博士（愿上帝怜悯他）在自然医学方面的研究，采用清晰、现实的科学方法，帮助您与食物建立健康、可持续的关系，而不存在剥夺或复杂性。系统理念：频率指数 Taybat系统的本质是“频率指数”规则：不存在“绝对禁止”或“无限允许”的食物——每种食物都有一个必须遵守的理想频率。即使有益的食物如果食用过量也会变得有害",
+    "fullDescription": "Al Tayebat System - 以 100% 天然方式提供健康营养的综合指南。您是否对这么多关于健康饮食的相互矛盾的信息感到困惑？您是否尝试过严厉且临时的节食方法，但没有取得持久的效果？ “Al-Tayebat System”应用程序为您提供了不同的解决方案：基于 Dhia Al-Awadhi 博士（愿上帝怜悯他）在自然医学方面的研究，采用清晰、现实的科学方法，帮助您与食物建立健康、可持续的关系，而不存在剥夺或复杂性。系统理念：频率指数 Taybat系统的本质是“频率指数”规则：不存在“绝对禁止”或“无限允许”的食物——每种食物都有一个必须遵守的理想频率。即使有益的食物如果食用过量也会变得有害",
+    "summaryDescription": "Al Tayebat System - 以 100% 天然方式提供健康营养的综合指南。您是否对这么多关于健康饮食的相互矛盾的信息感到困惑？您是否尝试过严厉且临时的节食方法，但没有取得持久的效果？ “Al-Tayebat System”应用程序为您提供了不同的解决方案：基于 Dhia Al-Awadhi 博士（愿上帝怜悯他）在自然医学方面的研究，采用清晰、现实的科学方法，帮助您与食物建立健康、可持续的关系，而不存在剥夺或复杂性。系统理念：频率指数 Taybat系统的本质是“频率指数”规则：不存在“绝对禁止”或“无限允许”的食物——每种食物都有一个必须遵守的理想频率。即使有益的食物如果食用过量也会变得有害",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/5e/94/7d5e94c1-82e6-182c-bbd0-90474ae7b91d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/5e/94/7d5e94c1-82e6-182c-bbd0-90474ae7b91d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "mohamed oumaalla",
@@ -63109,14 +63135,22 @@
     "name": "SP Neuron",
     "trackName": "SP Neuron",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 68,
+      "formattedPrice": "¥68.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788583084262,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788419736807,
@@ -64655,9 +64689,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/pix-world/id6796996962?uo=4",
-    "description": "Pix World 是您的像素护照：一本关于在世界各地街道上发现的像素艺术的个人田野日记。发现马赛克，准确地拍摄它并保存这次邂逅。 Pix World 保留原始的墙上照片，创建修正后的收藏品，并将发现的内容放置在您的个人地图上。捕捉艺术品，而不是角度在应用程序中拍摄一张照片，并在同一时刻捕捉到位置。使用自动帧检测或自己定位四个角。长按一个角可放大视图并应用透视校正。保留原始图像和校正后的图像。打造你的",
-    "fullDescription": "Pix World 是您的像素护照：一本关于在世界各地街道上发现的像素艺术的个人田野日记。发现马赛克，准确地拍摄它并保存这次邂逅。 Pix World 保留原始的墙上照片，创建修正后的收藏品，并将发现的内容放置在您的个人地图上。捕捉艺术品，而不是角度在应用程序中拍摄一张照片，并在同一时刻捕捉到位置。使用自动帧检测或自己定位四个角。长按一个角可放大视图并应用透视校正。保留原始图像和校正后的图像。打造你的",
-    "summaryDescription": "Pix World 是您的像素护照：一本关于在世界各地街道上发现的像素艺术的个人田野日记。发现马赛克，准确地拍摄它并保存这次邂逅。 Pix World 保留原始的墙上照片，创建修正后的收藏品，并将发现的内容放置在您的个人地图上。捕捉艺术品，而不是角度在应用程序中拍摄一张照片，并在同一时刻捕捉到位置。使用自动帧检测或自己定位四个角。长按一个角可放大视图并应用透视校正。保留原始图像和校正后的图像。打造你的",
+    "description": "Pix World 是您的像素护照：一本记录世界各地街头像素艺术的个人田野日记。发现一幅马赛克，准确地拍摄它并保存这次邂逅。 Pix World 保留原始的墙上照片，创建修正后的收藏品，并将发现的内容放置在您的个人地图上。捕捉艺术品，而不是角度在应用程序中拍摄一张照片，并在同一时刻捕捉到位置。使用自动帧检测或自己定位四个角。长按一个角可放大视图并应用透视校正。保留原始图像和校正后的图像。打造你的",
+    "fullDescription": "Pix World 是您的像素护照：一本记录世界各地街头像素艺术的个人田野日记。发现一幅马赛克，准确地拍摄它并保存这次邂逅。 Pix World 保留原始的墙上照片，创建修正后的收藏品，并将发现的内容放置在您的个人地图上。捕捉艺术品，而不是角度在应用程序中拍摄一张照片，并在同一时刻捕捉到位置。使用自动帧检测或自己定位四个角。长按一个角可放大视图并应用透视校正。保留原始图像和校正后的图像。打造你的",
+    "summaryDescription": "Pix World 是您的像素护照：一本记录世界各地街头像素艺术的个人田野日记。发现一幅马赛克，准确地拍摄它并保存这次邂逅。 Pix World 保留原始的墙上照片，创建修正后的收藏品，并将发现的内容放置在您的个人地图上。捕捉艺术品，而不是角度在应用程序中拍摄一张照片，并在同一时刻捕捉到位置。使用自动帧检测或自己定位四个角。长按一个角可放大视图并应用透视校正。保留原始图像和校正后的图像。打造你的",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/07/49/ba074946-73f3-88ca-a69f-5907d8118421/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/07/49/ba074946-73f3-88ca-a69f-5907d8118421/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Jean-Baptiste Meyer",
@@ -64957,17 +64991,17 @@
     "description": "Turnos. is the simplest way for shift workers to know exactly when they work - and what's coming next. Whether you're a nurse, pilot, hotel worker, or anyone on a rotating schedule, Turnos keeps your whole cycle organized in one place. SET UP IN SECONDS Enter your shift rotation once - morning, afternoon, night, or custom hours - and Turnos calculates every future day automatically based on your cycle. ALWAYS KNOW YOUR SCHEDULE Today view shows your current shift with start time, end time, and hours at a glance Calendar view highlights your full month so you can plan ahead See how many hours you've worked this month WIDGETS FOR YOUR HOME SCREEN Small, medium, and large widgets show today's shift and upcoming days without opening the app. APPLE WATCH SUPPORT Glance at your wrist to see today's shift and the next 6 days. No phone needed. NOTIFICATIONS Get reminded 1 hour before your shift starts and 15 minutes before it ends - so you're never caught off guard. MULTIPLE LANGUAGES Turnos is available in English, Spanish, and German. Simple, fast, and built for people who don't work 9 to 5.",
     "fullDescription": "Turnos. is the simplest way for shift workers to know exactly when they work - and what's coming next. Whether you're a nurse, pilot, hotel worker, or anyone on a rotating schedule, Turnos keeps your whole cycle organized in one place. SET UP IN SECONDS Enter your shift rotation once - morning, afternoon, night, or custom hours - and Turnos calculates every future day automatically based on your cycle. ALWAYS KNOW YOUR SCHEDULE Today view shows your current shift with start time, end time, and hours at a glance Calendar view highlights your full month so you can plan ahead See how many hours you've worked this month WIDGETS FOR YOUR HOME SCREEN Small, medium, and large widgets show today's shift and upcoming days without opening the app. APPLE WATCH SUPPORT Glance at your wrist to see today's shift and the next 6 days. No phone needed. NOTIFICATIONS Get reminded 1 hour before your shift starts and 15 minutes before it ends - so you're never caught off guard. MULTIPLE LANGUAGES Turnos is available in English, Spanish, and German. Simple, fast, and built for people who don't work 9 to 5.",
     "summaryDescription": "Turnos. is the simplest way for shift workers to know exactly when they work - and what's coming next. Whether you're a nurse, pilot, hotel worker, or anyone on a rotating schedule, Turnos keeps your whole cycle organized in one place. SET UP IN SECONDS Enter your shift rotation once - morning, afternoon, night, or custom hours - and Turnos calculates every future day automatically based on your cycle. ALWAYS KNOW YOUR SCHEDULE Today view shows your current shift with start time, end time, and hours at a glance Calendar view highlights your full month so you can plan ahead See how many hours you've worked this month WIDGETS FOR YOUR HOME SCREEN Small, medium, and large widgets show today's shift and upcoming days without opening the app. APPLE WATCH SUPPORT Glance at your wrist to see today's shift and the next 6 days. No phone needed. NOTIFICATIONS Get reminded 1 hour before your shift starts and 15 minutes before it ends - so you're never caught off guard. MULTIPLE LANGUAGES Turnos is available in English, Spanish, and German. Simple, fast, and built for people who don't work 9 to 5.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/40/0f/2a400f3d-ea56-1d4f-6f8e-415dd05ce5a9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/40/0f/2a400f3d-ea56-1d4f-6f8e-415dd05ce5a9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/fc/48/75fc48b6-f538-7c82-0d41-122360b39d52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/fc/48/75fc48b6-f538-7c82-0d41-122360b39d52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "luis reynaldo cedeno manzanilla",
     "artistName": "luis reynaldo cedeno manzanilla",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/ff/08/57ff08a6-b8c2-7a87-1dbb-98e2f660d110/Group_382.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/32/3f/85323fb1-bffe-0e5a-63c2-0c3f1b507052/Group_384.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/74/98/457498e5-8118-9303-3d61-c92fe7140b93/Group_383.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/28/5c/ae285cb6-97c1-c4b7-b271-942f00af806d/Group_385.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/ba/6b/29ba6b3b-d715-fb37-7c45-11d8795d1e0b/Group_391.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/35/ab/bb35ab63-d3eb-bd1f-0dbb-da2a75add9ac/Group_386.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/5f/a4/585fa4f4-c3ae-157e-546e-846f93a1f836/Group_382-2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/58/1e/91581e1e-d9be-cb22-6827-a9560b1689d1/Group_384.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/ef/75/dcef7519-fda7-f450-f5b0-ea34befa4553/Group_383-2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/d7/2a/8dd72ab3-af56-1f22-62c0-5a3e061d1991/Group_385.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/2b/19/092b195e-13f7-e905-d920-b460a6e48118/Group_391.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/f4/59/c7f45973-67f1-046c-8058-62c2180529c0/Group_386.png/320x480bb.jpg"
     ],
     "_externalSource": "OODATA",
     "_externalSourceFirstSeen": 1788496937153
@@ -65844,5 +65878,421 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/8c/b6/038cb60e-d0b6-c552-4e09-5bcbcb6445a1/IMG_shared.jpg/320x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1788567031104
+  },
+  "6754012888": {
+    "name": "待办清单 - 子任务",
+    "trackName": "待办清单 - 子任务",
+    "maxPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00",
+      "Monthly Special plan": "¥3.00",
+      "Half year plan": "¥68.00",
+      "Half year plan (Sale)": "¥38.00",
+      "Monthly Value Plan": "¥8.00",
+      "Basic Plan": "¥15.00",
+      "3 Month Plan": "¥22.00",
+      "Monthly Super Saver Plan": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00",
+      "Monthly Special plan": "¥3.00",
+      "Half year plan": "¥68.00",
+      "Half year plan (Sale)": "¥38.00",
+      "Monthly Value Plan": "¥8.00",
+      "Basic Plan": "¥15.00",
+      "3 Month Plan": "¥22.00",
+      "Monthly Super Saver Plan": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788583084262,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "Monthly Special plan": "¥3.00",
+            "Half year plan": "¥68.00",
+            "Half year plan (Sale)": "¥38.00",
+            "Monthly Value Plan": "¥8.00",
+            "Basic Plan": "¥15.00",
+            "3 Month Plan": "¥22.00",
+            "Monthly Super Saver Plan": "¥8.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%BE%85%E5%8A%9E%E6%B8%85%E5%8D%95-%E5%AD%90%E4%BB%BB%E5%8A%A1/id6754012888?uo=4",
+    "description": "无需复杂操作，轻松安排每天要做的事。 这款简洁、易读的待办事项与日程管理应用，可以帮助你记录日常任务、快速查看还有哪些事情没有完成，并记住真正重要的事项。 几秒钟即可添加任务，还可以把较大的任务拆分成更小的步骤，并添加提醒、备注和照片。所有需要的信息都能清晰地整理在一个地方。 无论是购物、家务、约会、工作、学习，还是每天重复的事情，都可以随手记录，轻松管理。 ■ 快速、简单地添加任务 记录待办事项不应该很麻烦。点击一行即可直接开始输入，不需要在多个页面之间来回切换。 几秒钟添加任务 快速连续输入多个任务 完成后直接勾选 拖放调整任务顺序 添加子任务、备注和照片 ■ 用子任务拆分复杂事项 把一个较大的任务拆分成多个更容易完成的小步骤。 逐个勾选子任务，并轻松查看自己的完成进度。 无论是购物、准备工作、项目、日常习惯还是学习计划，需要一步一步完成的事情都非常适合。 ■ 在日历中查看计划 按日期查看任务，快速了解今天需要做什么，以及之后还有哪些安排。 待办事项和日历结合在一起，让每天的计划更加清晰。 ■ 为重要事项设置提醒 可以指定具体日期和时间，也可以选择每周特定的星期设置提醒。 适合用于约会、服药、家务、学习、运动、每周固定事项以及其他不想忘记的事情。 ■ 轻松找到尚未完成的任务 即使一天很忙，也不用担心重要的事情被埋在任务列表里。 查看已过期、未完成或未设置日期的任务，快速确认还有哪些事情需要处理。 ■ 添加备注和照片 把重要信息直接保存在任务旁边。 需要记录更多内容时可以添加备注，也可以添加购物商品、文件、参考图片或其他希望用图片记住的内容。 照片还可以放大查看，更方便确认细节。 ■ 使用分类和颜色整理任务 可以按照工作、购物、学习、家庭、约会、家务等不同用途创建自己的分类。 随时修改分类名称，根据优先级调整任务顺序，还可以通过颜色快速识别重要事项或相关任务。 ■ 清晰易读，使用更舒适 可以轻松调整文字大小。 想看得更清楚时调大文字，想在一个页面看到更多任务时则可以调小。 还可以选择适合自己的背景。无论在手机还是平板上，都能保持简单、清晰、易用。 ■ 快速清理已完成任务 完成后可以一次删除所有已完成的任务，也可以在想重新开始时清空整个列表。 ■ 在主屏幕直接查看任务 通过主屏幕小组件，无需打开应用即可查看待办事项，让重要任务一整天都保持在视线中。 适合用作： 待办事项 每日计划 任务管理 提醒工具 清单 日历计划 购物清单 工作或学习计划 日常事务管理 整理生活，不需要复杂的效率管理系统。 只需写下要做的事情，需要时拆分成更小的步骤，然后一件一件完成即可。 先写下今天要做的事情，让每一天都变得更轻松一点。 使用条款 https://foodmenu.world/seniorList/zh-CN/tos 隐私政策 https://foodmenu.world/seniorList/zh-CN/privacy",
+    "fullDescription": "无需复杂操作，轻松安排每天要做的事。 这款简洁、易读的待办事项与日程管理应用，可以帮助你记录日常任务、快速查看还有哪些事情没有完成，并记住真正重要的事项。 几秒钟即可添加任务，还可以把较大的任务拆分成更小的步骤，并添加提醒、备注和照片。所有需要的信息都能清晰地整理在一个地方。 无论是购物、家务、约会、工作、学习，还是每天重复的事情，都可以随手记录，轻松管理。 ■ 快速、简单地添加任务 记录待办事项不应该很麻烦。点击一行即可直接开始输入，不需要在多个页面之间来回切换。 几秒钟添加任务 快速连续输入多个任务 完成后直接勾选 拖放调整任务顺序 添加子任务、备注和照片 ■ 用子任务拆分复杂事项 把一个较大的任务拆分成多个更容易完成的小步骤。 逐个勾选子任务，并轻松查看自己的完成进度。 无论是购物、准备工作、项目、日常习惯还是学习计划，需要一步一步完成的事情都非常适合。 ■ 在日历中查看计划 按日期查看任务，快速了解今天需要做什么，以及之后还有哪些安排。 待办事项和日历结合在一起，让每天的计划更加清晰。 ■ 为重要事项设置提醒 可以指定具体日期和时间，也可以选择每周特定的星期设置提醒。 适合用于约会、服药、家务、学习、运动、每周固定事项以及其他不想忘记的事情。 ■ 轻松找到尚未完成的任务 即使一天很忙，也不用担心重要的事情被埋在任务列表里。 查看已过期、未完成或未设置日期的任务，快速确认还有哪些事情需要处理。 ■ 添加备注和照片 把重要信息直接保存在任务旁边。 需要记录更多内容时可以添加备注，也可以添加购物商品、文件、参考图片或其他希望用图片记住的内容。 照片还可以放大查看，更方便确认细节。 ■ 使用分类和颜色整理任务 可以按照工作、购物、学习、家庭、约会、家务等不同用途创建自己的分类。 随时修改分类名称，根据优先级调整任务顺序，还可以通过颜色快速识别重要事项或相关任务。 ■ 清晰易读，使用更舒适 可以轻松调整文字大小。 想看得更清楚时调大文字，想在一个页面看到更多任务时则可以调小。 还可以选择适合自己的背景。无论在手机还是平板上，都能保持简单、清晰、易用。 ■ 快速清理已完成任务 完成后可以一次删除所有已完成的任务，也可以在想重新开始时清空整个列表。 ■ 在主屏幕直接查看任务 通过主屏幕小组件，无需打开应用即可查看待办事项，让重要任务一整天都保持在视线中。 适合用作： 待办事项 每日计划 任务管理 提醒工具 清单 日历计划 购物清单 工作或学习计划 日常事务管理 整理生活，不需要复杂的效率管理系统。 只需写下要做的事情，需要时拆分成更小的步骤，然后一件一件完成即可。 先写下今天要做的事情，让每一天都变得更轻松一点。 使用条款 https://foodmenu.world/seniorList/zh-CN/tos 隐私政策 https://foodmenu.world/seniorList/zh-CN/privacy",
+    "summaryDescription": "无需复杂操作，轻松安排每天要做的事。 这款简洁、易读的待办事项与日程管理应用，可以帮助你记录日常任务、快速查看还有哪些事情没有完成，并记住真正重要的事项。 几秒钟即可添加任务，还可以把较大的任务拆分成更小的步骤，并添加提醒、备注和照片。所有需要的信息都能清晰地整理在一个地方。 无论是购物、家务、约会、工作、学习，还是每天重复的事情，都可以随手记录，轻松管理。 ■ 快速、简单地添加任务 记录待办事项不应该很麻烦。点击一行即可直接开始输入，不需要在多个页面之间来回切换。 几秒钟添加任务 快速连续输入多个任务 完成后直接勾选 拖放调整任务顺序 添加子任务、备注和照片 ■ 用子任务拆分复杂事项 把一个较大的任务拆分成多个更容易完成的小步骤。 逐个勾选子任务，并轻松查看自己的完成进度。 无论是购物、准备工作、项目、日常习惯还是学习计划，需要一步一步完成的事情都非常适合。 ■ 在日历中查看计划 按日期查看任务，快速了解今天需要做什么，以及之后还有哪些安排。 待办事项和日历结合在一起，让每天的计划更加清晰。 ■ 为重要事项设置提醒 可以指定具体日期和时间，也可以选择每周特定的星期设置提醒。 适合用于约会、服药、家务、学习、运动、每周固定事项以及其他不想忘记的事情。 ■ 轻松找到尚未完成的任务 即使一天很忙，也不用担心重要的事情被埋在任务列表里。 查看已过期、未完成或未设置日期的任务，快速确认还有哪些事情需要处理。 ■ 添加备注和照片 把重要信息直接保存在任务旁边。 需要记录更多内容时可以添加备注，也可以添加购物商品、文件、参考图片或其他希望用图片记住的内容。 照片还可以放大查看，更方便确认细节。 ■ 使用分类和颜色整理任务 可以按照工作、购物、学习、家庭、约会、家务等不同用途创建自己的分类。 随时修改分类名称，根据优先级调整任务顺序，还可以通过颜色快速识别重要事项或相关任务。 ■ 清晰易读，使用更舒适 可以轻松调整文字大小。 想看得更清楚时调大文字，想在一个页面看到更多任务时则可以调小。 还可以选择适合自己的背景。无论在手机还是平板上，都能保持简单、清晰、易用。 ■ 快速清理已完成任务 完成后可以一次删除所有已完成的任务，也可以在想重新开始时清空整个列表。 ■ 在主屏幕直接查看任务 通过主屏幕小组件，无需打开应用即可查看待办事项，让重要任务一整天都保持在视线中。 适合用作： 待办事项 每日计划 任务管理 提醒工具 清单 日历计划 购物清单 工作或学习计划 日常事务管理 整理生活，不需要复杂的效率管理系统。 只需写下要做的事情，需要时拆分成更小的步骤，然后一件一件完成即可。 先写下今天要做的事情，让每一天都变得更轻松一点。 使用条款 https://foodmenu.world/seniorList/zh-CN/tos 隐私政策 https://foodmenu.world/seniorList/zh-CN/privacy",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/6b/90/476b9063-77cf-36bc-b827-1f528fcf73c0/AppIcon-1x_U007emarketing-0-8-0-P3-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/6b/90/476b9063-77cf-36bc-b827-1f528fcf73c0/AppIcon-1x_U007emarketing-0-8-0-P3-85-220-0.png/100x100bb.jpg",
+    "sellerName": "Foodmenu.world Inc.",
+    "artistName": "Foodmenu.world Inc.",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/dd/ec/c7ddec10-5afa-2c1b-f999-8d3fb706e55a/zh_cn.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/c9/6e/04c96e0f-a81d-afd2-fb4d-613621cbc62d/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/3a/59/193a59b4-841c-53a0-5899-4daa987ea0c4/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/13/29/98132995-5bd3-8538-2c21-a5a1a1f67361/4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/f3/43/b9f3437e-176d-4bab-48ed-b2208e33995a/5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/af/1d/c2af1dd4-d2ae-aaf8-9e81-732b49199a27/6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/ef/b1/96efb15c-81ae-f9b0-6afe-a3861047d5f8/3.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/17/b4/0617b427-c692-282a-cb8b-b1146595f56f/cn_s4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/5d/90/235d90bf-58d8-1c38-8fde-14d04e5cebb2/cn_s5.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/75/b5/bd75b567-be82-6d22-d1db-5ffb7fa9a97d/cn_s2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/db/70/e4db70e1-a0b0-c2df-46aa-650ceb0643c4/cn_s6.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/f9/61/68f9617a-a8ed-f37f-b877-cafbea334a06/cn_s1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/c3/16/c1c316ae-0e44-e8fc-2c2a-9e86969e36aa/cn_s3.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788583027589
+  },
+  "6760955397": {
+    "name": "证件照大师-无广一键制作证件照AI智能抠图换背景ai证件照",
+    "trackName": "证件照大师-无广一键制作证件照AI智能抠图换背景ai证件照",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "升级高级会员": "¥0.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "升级高级会员": "¥0.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788583084262,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "升级高级会员": "¥0.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%AF%81%E4%BB%B6%E7%85%A7%E5%A4%A7%E5%B8%88-%E6%97%A0%E5%B9%BF%E4%B8%80%E9%94%AE%E5%88%B6%E4%BD%9C%E8%AF%81%E4%BB%B6%E7%85%A7ai%E6%99%BA%E8%83%BD%E6%8A%A0%E5%9B%BE%E6%8D%A2%E8%83%8C%E6%99%AFai%E8%AF%81%E4%BB%B6%E7%85%A7/id6760955397?uo=4",
+    "description": "智能证件照制作 一键拍摄或导入照片，智能识别人脸，自动调整尺寸和背景。支持多种证件照规格，包括一寸证件照、二寸证件照、小一寸证件照、大一寸证件照、标准证件照，以及美国护照照片、加拿大护照照片、英国护照照片、德国护照照片、申根签证照片、欧盟签证照片、ICAO标准证件照等国际证件照尺寸。覆盖求职简历证件照、护照签证证件照、驾驶证证件照、工作证证件照、学生证证件照等各类证件照制作需求。 智能抠图技术 采用先进的AI抠图算法，精准识别人物轮廓，一键去除背景。支持人像抠图、物品抠图、宠物抠图等多种抠图场景。抠图边缘自然流畅，无需手动调整，复杂背景轻松分离。支持批量抠图处理，一键处理多张照片，大幅提高工作效率。快速换背景，海量背景素材任你选择。 专业美颜功能 内置专业级美颜算法，支持磨皮美白、瘦脸大眼、祛斑祛痘等美颜效果。提供自然美颜模式，让证件照更加精致同时保持真实感，素颜也能美美哒。智能检测人脸特征，自动优化光影效果。实时美颜预览，拍照就美，让你的证件照脱颖而出。 多场景头像制作 支持微信头像、小红书头像、Instagram头像、Twitter头像、情侣头像等多种社交平台头像尺寸。圆形头像一键裁剪，完美适配各大平台。提供朋友圈、微博、小红书、抖音等多平台社交媒体模板，让你的社交内容更出彩。 证件照背景库 提供证件照标准背景色，包括证件照白底、证件照蓝底、证件照红底等官方规定颜色。支持自定义背景颜色，满足不同用途需求。渐变背景和创意背景让照片更有氛围感，证件照换底色一键完成。 智能换装功能 内置多种服装模板，一键更换正装、西装、衬衫等服装。支持男装、女装、通用服装分类，满足不同用户需求。智能服装合成，边缘自然融合，让你的证件照更专业。 照片编辑工具 提供完整的照片编辑功能，包括图片裁剪、调整尺寸、旋转翻转、亮度对比度调整。支持手动微调抠图边缘，精细调整人物位置和缩放。照片修图、图片压缩、图片处理一站式完成。 PDF工具箱 内置PDF处理工具，支持PDF签名、PDF水印、PDF合并、PDF拆分、PDF压缩、PDF转图片、图片转PDF等功能。支持电子签名、手写签名，远程签约便捷安全。长图拼接功能，将多张图片合并为一张长图。一站式处理PDF文档，提升办公效率。 批量处理功能 支持批量抠图、批量导出证件照、批量添加水印等批量操作。提高工作效率，节省时间成本，让你告别繁琐重复工作。 合规检测系统 智能检测证件照是否符合官方标准，包括人脸位置、照片尺寸、背景颜色、表情姿态等。实时给出优化建议，确保照片一次通过审核，避免反复修改。 【产品优势】 操作简单 界面简洁直观，一键操作完成证件照制作。无需专业知识，小白也能轻松上手，告别照相馆排队烦恼。 输出高质量 支持高清导出，分辨率达到证件照标准要求。打印输出清晰锐利，符合官方审核标准，冲印效果清晰。 快速高效 AI智能处理，几秒内完成抠图和证件照制作。批量处理功能大幅提升工作效率，让你告别等待。 功能全面 集成证件照制作、智能抠图、美颜、照片编辑、PDF处理等多元化功能，一款应用满足多种需求，无需下载多个应用。 持续更新 定期更新证件照规格库，跟进各国证件照标准变化。新增滤镜、背景、服装模板等内容，持续优化用户体验。 数据安全 所有照片处理均在本地完成，不上传至服务器。保护用户隐私，数据安全可靠，你的照片安全无忧。 免费使用 基础功能完全免费，让你零成本体验专业证件照制作服务。 【适用场景】 证件照制作 身份证照片、护照照片、签证照片、驾驶证照片、工作证照片、学生证照片、考试报名照片等各类证件照制作。 求职应聘 简历照片、职业形象照、求职证件照等专业照片制作，让你的简历更出彩。 社交头像 微信头像、QQ头像、微博头像、小红书头像、抖音头像等社交平台头像定制，展现你的独特魅力。 商务应用 企业员工证件照、名片照片、职业资格证书照片等商务用途，打造专业商务形象。 出国留学 留学申请照片、签证申请照片、国际考试证件照等出国相关证件照，助你顺利出国。 日常生活中 结婚证件照、证件照打印、照片美化处理等日常使用需求，记录美好时刻。 证件照大师致力于为用户提供最专业的证件照制作体验，采用先进AI技术，让证件照制作变得简单高效。无论是求职应聘、出国留学、办理证件，还是社交头像制作，证件照大师都能满足您的需求。立即下载证件照大师，体验专业级证件照制作服务！",
+    "fullDescription": "智能证件照制作 一键拍摄或导入照片，智能识别人脸，自动调整尺寸和背景。支持多种证件照规格，包括一寸证件照、二寸证件照、小一寸证件照、大一寸证件照、标准证件照，以及美国护照照片、加拿大护照照片、英国护照照片、德国护照照片、申根签证照片、欧盟签证照片、ICAO标准证件照等国际证件照尺寸。覆盖求职简历证件照、护照签证证件照、驾驶证证件照、工作证证件照、学生证证件照等各类证件照制作需求。 智能抠图技术 采用先进的AI抠图算法，精准识别人物轮廓，一键去除背景。支持人像抠图、物品抠图、宠物抠图等多种抠图场景。抠图边缘自然流畅，无需手动调整，复杂背景轻松分离。支持批量抠图处理，一键处理多张照片，大幅提高工作效率。快速换背景，海量背景素材任你选择。 专业美颜功能 内置专业级美颜算法，支持磨皮美白、瘦脸大眼、祛斑祛痘等美颜效果。提供自然美颜模式，让证件照更加精致同时保持真实感，素颜也能美美哒。智能检测人脸特征，自动优化光影效果。实时美颜预览，拍照就美，让你的证件照脱颖而出。 多场景头像制作 支持微信头像、小红书头像、Instagram头像、Twitter头像、情侣头像等多种社交平台头像尺寸。圆形头像一键裁剪，完美适配各大平台。提供朋友圈、微博、小红书、抖音等多平台社交媒体模板，让你的社交内容更出彩。 证件照背景库 提供证件照标准背景色，包括证件照白底、证件照蓝底、证件照红底等官方规定颜色。支持自定义背景颜色，满足不同用途需求。渐变背景和创意背景让照片更有氛围感，证件照换底色一键完成。 智能换装功能 内置多种服装模板，一键更换正装、西装、衬衫等服装。支持男装、女装、通用服装分类，满足不同用户需求。智能服装合成，边缘自然融合，让你的证件照更专业。 照片编辑工具 提供完整的照片编辑功能，包括图片裁剪、调整尺寸、旋转翻转、亮度对比度调整。支持手动微调抠图边缘，精细调整人物位置和缩放。照片修图、图片压缩、图片处理一站式完成。 PDF工具箱 内置PDF处理工具，支持PDF签名、PDF水印、PDF合并、PDF拆分、PDF压缩、PDF转图片、图片转PDF等功能。支持电子签名、手写签名，远程签约便捷安全。长图拼接功能，将多张图片合并为一张长图。一站式处理PDF文档，提升办公效率。 批量处理功能 支持批量抠图、批量导出证件照、批量添加水印等批量操作。提高工作效率，节省时间成本，让你告别繁琐重复工作。 合规检测系统 智能检测证件照是否符合官方标准，包括人脸位置、照片尺寸、背景颜色、表情姿态等。实时给出优化建议，确保照片一次通过审核，避免反复修改。 【产品优势】 操作简单 界面简洁直观，一键操作完成证件照制作。无需专业知识，小白也能轻松上手，告别照相馆排队烦恼。 输出高质量 支持高清导出，分辨率达到证件照标准要求。打印输出清晰锐利，符合官方审核标准，冲印效果清晰。 快速高效 AI智能处理，几秒内完成抠图和证件照制作。批量处理功能大幅提升工作效率，让你告别等待。 功能全面 集成证件照制作、智能抠图、美颜、照片编辑、PDF处理等多元化功能，一款应用满足多种需求，无需下载多个应用。 持续更新 定期更新证件照规格库，跟进各国证件照标准变化。新增滤镜、背景、服装模板等内容，持续优化用户体验。 数据安全 所有照片处理均在本地完成，不上传至服务器。保护用户隐私，数据安全可靠，你的照片安全无忧。 免费使用 基础功能完全免费，让你零成本体验专业证件照制作服务。 【适用场景】 证件照制作 身份证照片、护照照片、签证照片、驾驶证照片、工作证照片、学生证照片、考试报名照片等各类证件照制作。 求职应聘 简历照片、职业形象照、求职证件照等专业照片制作，让你的简历更出彩。 社交头像 微信头像、QQ头像、微博头像、小红书头像、抖音头像等社交平台头像定制，展现你的独特魅力。 商务应用 企业员工证件照、名片照片、职业资格证书照片等商务用途，打造专业商务形象。 出国留学 留学申请照片、签证申请照片、国际考试证件照等出国相关证件照，助你顺利出国。 日常生活中 结婚证件照、证件照打印、照片美化处理等日常使用需求，记录美好时刻。 证件照大师致力于为用户提供最专业的证件照制作体验，采用先进AI技术，让证件照制作变得简单高效。无论是求职应聘、出国留学、办理证件，还是社交头像制作，证件照大师都能满足您的需求。立即下载证件照大师，体验专业级证件照制作服务！",
+    "summaryDescription": "智能证件照制作 一键拍摄或导入照片，智能识别人脸，自动调整尺寸和背景。支持多种证件照规格，包括一寸证件照、二寸证件照、小一寸证件照、大一寸证件照、标准证件照，以及美国护照照片、加拿大护照照片、英国护照照片、德国护照照片、申根签证照片、欧盟签证照片、ICAO标准证件照等国际证件照尺寸。覆盖求职简历证件照、护照签证证件照、驾驶证证件照、工作证证件照、学生证证件照等各类证件照制作需求。 智能抠图技术 采用先进的AI抠图算法，精准识别人物轮廓，一键去除背景。支持人像抠图、物品抠图、宠物抠图等多种抠图场景。抠图边缘自然流畅，无需手动调整，复杂背景轻松分离。支持批量抠图处理，一键处理多张照片，大幅提高工作效率。快速换背景，海量背景素材任你选择。 专业美颜功能 内置专业级美颜算法，支持磨皮美白、瘦脸大眼、祛斑祛痘等美颜效果。提供自然美颜模式，让证件照更加精致同时保持真实感，素颜也能美美哒。智能检测人脸特征，自动优化光影效果。实时美颜预览，拍照就美，让你的证件照脱颖而出。 多场景头像制作 支持微信头像、小红书头像、Instagram头像、Twitter头像、情侣头像等多种社交平台头像尺寸。圆形头像一键裁剪，完美适配各大平台。提供朋友圈、微博、小红书、抖音等多平台社交媒体模板，让你的社交内容更出彩。 证件照背景库 提供证件照标准背景色，包括证件照白底、证件照蓝底、证件照红底等官方规定颜色。支持自定义背景颜色，满足不同用途需求。渐变背景和创意背景让照片更有氛围感，证件照换底色一键完成。 智能换装功能 内置多种服装模板，一键更换正装、西装、衬衫等服装。支持男装、女装、通用服装分类，满足不同用户需求。智能服装合成，边缘自然融合，让你的证件照更专业。 照片编辑工具 提供完整的照片编辑功能，包括图片裁剪、调整尺寸、旋转翻转、亮度对比度调整。支持手动微调抠图边缘，精细调整人物位置和缩放。照片修图、图片压缩、图片处理一站式完成。 PDF工具箱 内置PDF处理工具，支持PDF签名、PDF水印、PDF合并、PDF拆分、PDF压缩、PDF转图片、图片转PDF等功能。支持电子签名、手写签名，远程签约便捷安全。长图拼接功能，将多张图片合并为一张长图。一站式处理PDF文档，提升办公效率。 批量处理功能 支持批量抠图、批量导出证件照、批量添加水印等批量操作。提高工作效率，节省时间成本，让你告别繁琐重复工作。 合规检测系统 智能检测证件照是否符合官方标准，包括人脸位置、照片尺寸、背景颜色、表情姿态等。实时给出优化建议，确保照片一次通过审核，避免反复修改。 【产品优势】 操作简单 界面简洁直观，一键操作完成证件照制作。无需专业知识，小白也能轻松上手，告别照相馆排队烦恼。 输出高质量 支持高清导出，分辨率达到证件照标准要求。打印输出清晰锐利，符合官方审核标准，冲印效果清晰。 快速高效 AI智能处理，几秒内完成抠图和证件照制作。批量处理功能大幅提升工作效率，让你告别等待。 功能全面 集成证件照制作、智能抠图、美颜、照片编辑、PDF处理等多元化功能，一款应用满足多种需求，无需下载多个应用。 持续更新 定期更新证件照规格库，跟进各国证件照标准变化。新增滤镜、背景、服装模板等内容，持续优化用户体验。 数据安全 所有照片处理均在本地完成，不上传至服务器。保护用户隐私，数据安全可靠，你的照片安全无忧。 免费使用 基础功能完全免费，让你零成本体验专业证件照制作服务。 【适用场景】 证件照制作 身份证照片、护照照片、签证照片、驾驶证照片、工作证照片、学生证照片、考试报名照片等各类证件照制作。 求职应聘 简历照片、职业形象照、求职证件照等专业照片制作，让你的简历更出彩。 社交头像 微信头像、QQ头像、微博头像、小红书头像、抖音头像等社交平台头像定制，展现你的独特魅力。 商务应用 企业员工证件照、名片照片、职业资格证书照片等商务用途，打造专业商务形象。 出国留学 留学申请照片、签证申请照片、国际考试证件照等出国相关证件照，助你顺利出国。 日常生活中 结婚证件照、证件照打印、照片美化处理等日常使用需求，记录美好时刻。 证件照大师致力于为用户提供最专业的证件照制作体验，采用先进AI技术，让证件照制作变得简单高效。无论是求职应聘、出国留学、办理证件，还是社交头像制作，证件照大师都能满足您的需求。立即下载证件照大师，体验专业级证件照制作服务！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/40/51/594051c3-d572-ba68-56b9-9b697a0a799a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/40/51/594051c3-d572-ba68-56b9-9b697a0a799a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "sellerName": "友健 高",
+    "artistName": "友健 高",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/f6/fe/88f6fe7f-6d89-4fa6-e8d8-976edbc0d503/certificate-photo-promo-zh-appstore-1242x2688.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/fc/de/6afcde0f-bda6-eb9f-0b17-b4e57145d0b9/id-photo-grid-promo-zh-hd-1242x2688.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/a8/a7/16a8a79c-b297-63b3-6db8-21a8c2156bd1/id-photo-appstore-promo-1242x2688.png/320x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1788583084177
+  },
+  "6754246549": {
+    "name": "Swipe Budget: Money Manager",
+    "trackName": "Swipe Budget: Money Manager",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "SwipeBudget Premium Lifetime Access": "¥328.00",
+      "Premium Yearly": "¥68.00",
+      "Premium Monthly": "¥18.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "SwipeBudget Premium Lifetime Access": "¥328.00",
+      "Premium Yearly": "¥68.00",
+      "Premium Monthly": "¥18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788583084262,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "SwipeBudget Premium Lifetime Access": "¥328.00",
+            "Premium Yearly": "¥68.00",
+            "Premium Monthly": "¥18.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/swipe-budget-money-manager/id6754246549?uo=4",
+    "description": "SwipeBudget helps you feel clear, organized, and in control of your money. Track spending, build budgets, grow savings, manage debts, and understand your full financial picture in one simple private app. Main Features: Dashboard - See your spending, savings, income, and money overview at a glance Budgets - Plan monthly expenses by category and track what is left Quick Add - Add expenses fast without breaking your flow Transactions - Search, filter, and review all your records easily Income Tracking - Record salary, side income, investments, and more Saving Goals - Set goals for travel, a home, emergency funds, or anything you want Borrow & Lend - Track money you owe or money others owe you Accounts - Manage balances, credit cards, loans, and payments Assets - Track real estate, cars, gold, investments, and personal assets Charts & Insights - Understand where your money goes with clear visuals Home Screen Widgets - Check budgets and add transactions faster Apple Watch Support - View budgets and add expenses from your wrist Currency Settings - Use the currency that fits your life iCloud Sync - Keep your data synced across your Apple devices Private by Design - Your financial data stays with you SwipeBudget is built for everyday money management: simple enough for daily use, powerful enough to keep your whole financial life organized. Privacy First: We don’t track, sell, or share your financial data. Your information stays private on your device and in your Apple ID iCloud. We’ve added powerful new features to make managing your money easier: Upload bank transactions and quickly add them to your budget. New AI Agent to help you understand spending, organize finances, and get smarter budget insights. Full “How to Use the App” section with clear guidance for every major feature. Reminders and notifications to help you stay on track with bills, budgets, and financial goals. Improved experience and smoother app flow across key screens. Privacy Policy: https://sites.google.com/view/swipebudgetsup/home Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "fullDescription": "SwipeBudget helps you feel clear, organized, and in control of your money. Track spending, build budgets, grow savings, manage debts, and understand your full financial picture in one simple private app. Main Features: Dashboard - See your spending, savings, income, and money overview at a glance Budgets - Plan monthly expenses by category and track what is left Quick Add - Add expenses fast without breaking your flow Transactions - Search, filter, and review all your records easily Income Tracking - Record salary, side income, investments, and more Saving Goals - Set goals for travel, a home, emergency funds, or anything you want Borrow & Lend - Track money you owe or money others owe you Accounts - Manage balances, credit cards, loans, and payments Assets - Track real estate, cars, gold, investments, and personal assets Charts & Insights - Understand where your money goes with clear visuals Home Screen Widgets - Check budgets and add transactions faster Apple Watch Support - View budgets and add expenses from your wrist Currency Settings - Use the currency that fits your life iCloud Sync - Keep your data synced across your Apple devices Private by Design - Your financial data stays with you SwipeBudget is built for everyday money management: simple enough for daily use, powerful enough to keep your whole financial life organized. Privacy First: We don’t track, sell, or share your financial data. Your information stays private on your device and in your Apple ID iCloud. We’ve added powerful new features to make managing your money easier: Upload bank transactions and quickly add them to your budget. New AI Agent to help you understand spending, organize finances, and get smarter budget insights. Full “How to Use the App” section with clear guidance for every major feature. Reminders and notifications to help you stay on track with bills, budgets, and financial goals. Improved experience and smoother app flow across key screens. Privacy Policy: https://sites.google.com/view/swipebudgetsup/home Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "summaryDescription": "SwipeBudget helps you feel clear, organized, and in control of your money. Track spending, build budgets, grow savings, manage debts, and understand your full financial picture in one simple private app. Main Features: Dashboard - See your spending, savings, income, and money overview at a glance Budgets - Plan monthly expenses by category and track what is left Quick Add - Add expenses fast without breaking your flow Transactions - Search, filter, and review all your records easily Income Tracking - Record salary, side income, investments, and more Saving Goals - Set goals for travel, a home, emergency funds, or anything you want Borrow & Lend - Track money you owe or money others owe you Accounts - Manage balances, credit cards, loans, and payments Assets - Track real estate, cars, gold, investments, and personal assets Charts & Insights - Understand where your money goes with clear visuals Home Screen Widgets - Check budgets and add transactions faster Apple Watch Support - View budgets and add expenses from your wrist Currency Settings - Use the currency that fits your life iCloud Sync - Keep your data synced across your Apple devices Private by Design - Your financial data stays with you SwipeBudget is built for everyday money management: simple enough for daily use, powerful enough to keep your whole financial life organized. Privacy First: We don’t track, sell, or share your financial data. Your information stays private on your device and in your Apple ID iCloud. We’ve added powerful new features to make managing your money easier: Upload bank transactions and quickly add them to your budget. New AI Agent to help you understand spending, organize finances, and get smarter budget insights. Full “How to Use the App” section with clear guidance for every major feature. Reminders and notifications to help you stay on track with bills, budgets, and financial goals. Improved experience and smoother app flow across key screens. Privacy Policy: https://sites.google.com/view/swipebudgetsup/home Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/48/a8/8648a8b5-8dc1-6b16-fc29-05f0494beda4/AppIcon_fromLogo-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/48/a8/8648a8b5-8dc1-6b16-fc29-05f0494beda4/AppIcon_fromLogo-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Shehab Hegazy",
+    "artistName": "Shehab Hegazy",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/2c/b5/f62cb572-6d37-67a9-7f66-9e233e82d457/image1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/3b/48/e23b489e-f95f-6659-02b1-b76aa0b7b304/image2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/7f/ed/fc7fed8b-eeaa-3cb3-7ac5-5b8887a12918/image3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/15/06/761506e1-2a11-c28a-d2f1-53583f16f67c/image4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/75/72/967572e2-f5ba-1d36-380e-ff400cdc73b0/image5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/d1/1f/cdd11f40-3a7b-b6b5-dce1-5df3d6391a9e/image6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/a1/9a/62a19ae5-b994-6575-4472-2175919585d5/image10.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/1e/8b/591e8bfd-c9e5-b3a4-bd10-d801c8832e8a/image8.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/91/20/7c9120e2-b907-3120-c7ad-414f97deb050/image9.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/a5/99/b7a599f2-772f-7df5-c1d6-c44083a3893d/image7.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/89/4c/36894c03-3cf3-0f53-7208-001ce198f7a8/canvas-1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/2c/26/c82c26ef-6875-7992-0c83-ba1e25647ea1/canvas-2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/6b/fc/976bfcbb-eb59-35e2-1362-689529862614/canvas-3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/f8/9d/bff89d8a-bcd5-219a-1cfb-4d5e4629d729/canvas-4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/8f/a4/908fa461-443f-973d-eacd-0522c19bb961/canvas-5.png/360x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1788583084177
+  },
+  "6797085265": {
+    "name": "Nubox",
+    "trackName": "Nubox",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "Nubox Pro 永久": "¥98.00",
+      "Nubox Pro 年付": "¥48.00",
+      "Nubox Pro 月付": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "Nubox Pro 永久": "¥98.00",
+      "Nubox Pro 年付": "¥48.00",
+      "Nubox Pro 月付": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788583084262,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Nubox Pro 永久": "¥98.00",
+            "Nubox Pro 年付": "¥48.00",
+            "Nubox Pro 月付": "¥8.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/nubox/id6797085265?uo=4",
+    "description": "Nubox 是一款账号、订阅与证件资料管理的工具，帮助你集中整理分散在不同 App 和服务中的数字信息。 无论是常用账号、会员订阅、一次买断项目，还是证件、银行卡与联系资料，都可以在 Nubox 中清晰归纳、快速查询关联信息。 【账号集中管理】 保存不同 App、网站和服务的账号资料，让登录信息更容易整理。 通过应用搜索、链接或手动方式添加账号 保存账号、邮箱、手机号、密码和备注 记录 Apple、Google、微信等快捷登录关系 支持账号置顶、复制、分类与服务商管理 【订阅与买断管理】 集中记录周期订阅和一次买断项目，查看本月支出、订阅数量及不同周期的支出变化。 管理月付、季付、年付及自定义周期 记录免费试用、限时优惠和价格变化 查看即将续费、到期和逾期项目 保存历史账单、退款与费用调整 支持多币种及历史汇率记录 支持订阅选择共享和多人费用分摊 自动续费项目会根据你记录的计费规则生成账单；手动续费项目到期后，可由你决定续订或结束。 【个人资料库】 将经常需要使用的重要资料分类保存，并与账号建立关联。 联系：邮箱、手机号及其他联系信息 卡包：银行卡、会员卡及相关资料 证件：身份证、驾驶证、护照等 支持到期提醒与关联账号 【快速查询】 通过统一查询快速找到账号、订阅、证件、卡片和联系资料，减少在多个页面之间反复查找。 【个性化显示】 多种主题配色，支持智能提取图标颜色 自定义底部功能顺序与显示项目 列表和卡片布局可独立选择 【同步与数据管理】 支持通过 iCloud 在设备间同步资料 密码等敏感信息使用系统钥匙串保存 支持整库备份导出与导入恢复 可随时管理、导出或清除自己的数据 Nubox 录入的数据默认存储在本机，部分高级功能需要 Nubox Pro，具体功能和价格以 App 内显示为准。 使用条款：https://open-note-367.notion.site/Nubox-3bdc23fea1ef815aaa85ec6b0a599c78 隐私政策：https://open-note-367.notion.site/Nubox-3bdc23fea1ef815aaa85ec6b0a599c78 联系我们：https://open-note-367.notion.site/Nubox-3bdc23fea1ef815aaa85ec6b0a599c78",
+    "fullDescription": "Nubox 是一款账号、订阅与证件资料管理的工具，帮助你集中整理分散在不同 App 和服务中的数字信息。 无论是常用账号、会员订阅、一次买断项目，还是证件、银行卡与联系资料，都可以在 Nubox 中清晰归纳、快速查询关联信息。 【账号集中管理】 保存不同 App、网站和服务的账号资料，让登录信息更容易整理。 通过应用搜索、链接或手动方式添加账号 保存账号、邮箱、手机号、密码和备注 记录 Apple、Google、微信等快捷登录关系 支持账号置顶、复制、分类与服务商管理 【订阅与买断管理】 集中记录周期订阅和一次买断项目，查看本月支出、订阅数量及不同周期的支出变化。 管理月付、季付、年付及自定义周期 记录免费试用、限时优惠和价格变化 查看即将续费、到期和逾期项目 保存历史账单、退款与费用调整 支持多币种及历史汇率记录 支持订阅选择共享和多人费用分摊 自动续费项目会根据你记录的计费规则生成账单；手动续费项目到期后，可由你决定续订或结束。 【个人资料库】 将经常需要使用的重要资料分类保存，并与账号建立关联。 联系：邮箱、手机号及其他联系信息 卡包：银行卡、会员卡及相关资料 证件：身份证、驾驶证、护照等 支持到期提醒与关联账号 【快速查询】 通过统一查询快速找到账号、订阅、证件、卡片和联系资料，减少在多个页面之间反复查找。 【个性化显示】 多种主题配色，支持智能提取图标颜色 自定义底部功能顺序与显示项目 列表和卡片布局可独立选择 【同步与数据管理】 支持通过 iCloud 在设备间同步资料 密码等敏感信息使用系统钥匙串保存 支持整库备份导出与导入恢复 可随时管理、导出或清除自己的数据 Nubox 录入的数据默认存储在本机，部分高级功能需要 Nubox Pro，具体功能和价格以 App 内显示为准。 使用条款：https://open-note-367.notion.site/Nubox-3bdc23fea1ef815aaa85ec6b0a599c78 隐私政策：https://open-note-367.notion.site/Nubox-3bdc23fea1ef815aaa85ec6b0a599c78 联系我们：https://open-note-367.notion.site/Nubox-3bdc23fea1ef815aaa85ec6b0a599c78",
+    "summaryDescription": "Nubox 是一款账号、订阅与证件资料管理的工具，帮助你集中整理分散在不同 App 和服务中的数字信息。 无论是常用账号、会员订阅、一次买断项目，还是证件、银行卡与联系资料，都可以在 Nubox 中清晰归纳、快速查询关联信息。 【账号集中管理】 保存不同 App、网站和服务的账号资料，让登录信息更容易整理。 通过应用搜索、链接或手动方式添加账号 保存账号、邮箱、手机号、密码和备注 记录 Apple、Google、微信等快捷登录关系 支持账号置顶、复制、分类与服务商管理 【订阅与买断管理】 集中记录周期订阅和一次买断项目，查看本月支出、订阅数量及不同周期的支出变化。 管理月付、季付、年付及自定义周期 记录免费试用、限时优惠和价格变化 查看即将续费、到期和逾期项目 保存历史账单、退款与费用调整 支持多币种及历史汇率记录 支持订阅选择共享和多人费用分摊 自动续费项目会根据你记录的计费规则生成账单；手动续费项目到期后，可由你决定续订或结束。 【个人资料库】 将经常需要使用的重要资料分类保存，并与账号建立关联。 联系：邮箱、手机号及其他联系信息 卡包：银行卡、会员卡及相关资料 证件：身份证、驾驶证、护照等 支持到期提醒与关联账号 【快速查询】 通过统一查询快速找到账号、订阅、证件、卡片和联系资料，减少在多个页面之间反复查找。 【个性化显示】 多种主题配色，支持智能提取图标颜色 自定义底部功能顺序与显示项目 列表和卡片布局可独立选择 【同步与数据管理】 支持通过 iCloud 在设备间同步资料 密码等敏感信息使用系统钥匙串保存 支持整库备份导出与导入恢复 可随时管理、导出或清除自己的数据 Nubox 录入的数据默认存储在本机，部分高级功能需要 Nubox Pro，具体功能和价格以 App 内显示为准。 使用条款：https://open-note-367.notion.site/Nubox-3bdc23fea1ef815aaa85ec6b0a599c78 隐私政策：https://open-note-367.notion.site/Nubox-3bdc23fea1ef815aaa85ec6b0a599c78 联系我们：https://open-note-367.notion.site/Nubox-3bdc23fea1ef815aaa85ec6b0a599c78",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/ae/a6/2baea650-3cb3-4421-9edc-e9e3adff4c07/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/ae/a6/2baea650-3cb3-4421-9edc-e9e3adff4c07/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "万飞 杜",
+    "artistName": "万飞 杜",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/bf/fa/8dbffaa3-dda0-f1b8-6547-5b70f45b3090/Nubox-iOS_U5ba3_U4f20_U56fe1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/d9/a7/ffd9a726-58b6-23b3-1673-065ff41741eb/Nubox-iOS_U5ba3_U4f20_U56fe2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/b2/85/cbb285fc-3f86-8d4a-02c1-8fe661266f22/Nubox-iOS_U5ba3_U4f20_U56fe3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/6a/27/fd6a2735-9b02-2ba9-8474-4b499c920913/Nubox-iOS_U5ba3_U4f20_U56fe4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/39/61/9639614e-9b4a-f463-8f95-218583b41d45/Nubox-iOS_U5ba3_U4f20_U56fe5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/85/b6/4385b6e7-b982-28b1-2e4b-9a82c56301bd/Nubox-iOS_U5ba3_U4f20_U56fe6.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/0e/2d/480e2d49-7d98-9712-45c9-69c91872920e/Nubox-iOS_U5ba3_U4f20_U56fe7.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/4e/ce/674ece4d-dd3d-6e6f-fbd7-49ac053d7d90/Nubox-iOS_U5ba3_U4f20_U56fe8.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/f9/bf/6ef9bfc6-3296-6b41-54f7-f5aeb8673f3d/Nubox-iPad_U5ba3_U4f20_U56fe1.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/9f/84/5b9f8468-7393-145d-9134-f8e3b1bbfecb/Nubox-iPad_U5ba3_U4f20_U56fe2.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/65/00/a6650081-7f5a-8c67-0b3c-a2faa778e794/Nubox-iPad_U5ba3_U4f20_U56fe3.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/81/a4/d381a4d6-a50a-8de5-68e1-aa5212b03083/Nubox-iPad_U5ba3_U4f20_U56fe4.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/0d/93/650d9386-06ee-0b99-4200-b9681ecc0e10/Nubox-iPad_U5ba3_U4f20_U56fe5.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/b9/83/06b9834a-4aa7-e0f6-4882-cdd85a309db5/Nubox-iPad_U5ba3_U4f20_U56fe6.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/23/cc/5723cc8f-c7cf-503b-019b-1119e1cab1c9/Nubox-iPad_U5ba3_U4f20_U56fe7.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/1c/45/ef1c45fa-a22a-561e-58d0-ae342c581136/Nubox-iPad_U5ba3_U4f20_U56fe8.jpg/360x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1788583084177
+  },
+  "6801606517": {
+    "name": "Patterns: Create Wallpapers",
+    "trackName": "Patterns: Create Wallpapers",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788583084262,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/patterns-create-wallpapers/id6801606517?uo=4",
+    "description": "图案将您的屏幕变成您制作的东西。创建您的风格这里的每张壁纸都是从配方开始的，而不是下载。选择一种生成样式，对其进行调整直至感觉合适，然后应用程序就会以全分辨率在您的设备上呈现结果。改变一个值，你就会得到新的东西。不会从服务器获取任何内容，也不会出现两个人最终看到完全相同的屏幕的情况。美丽的图案 四十种生成风格，分为四个系列： 渐变 - 网格渐变、极光、星云、日落、霓虹灯和深 AMOLED 黑色 纹理 - 大理石、水彩、墨水、烟雾、云彩、织物、碳纤维",
+    "fullDescription": "图案将您的屏幕变成您制作的东西。创建您的风格这里的每张壁纸都是从配方开始的，而不是下载。选择一种生成样式，对其进行调整直至感觉合适，然后应用程序就会以全分辨率在您的设备上呈现结果。改变一个值，你就会得到新的东西。不会从服务器获取任何内容，也不会出现两个人最终看到完全相同的屏幕的情况。美丽的图案 四十种生成风格，分为四个系列： 渐变 - 网格渐变、极光、星云、日落、霓虹灯和深 AMOLED 黑色 纹理 - 大理石、水彩、墨水、烟雾、云彩、织物、碳纤维",
+    "summaryDescription": "图案将您的屏幕变成您制作的东西。创建您的风格这里的每张壁纸都是从配方开始的，而不是下载。选择一种生成样式，对其进行调整直至感觉合适，然后应用程序就会以全分辨率在您的设备上呈现结果。改变一个值，你就会得到新的东西。不会从服务器获取任何内容，也不会出现两个人最终看到完全相同的屏幕的情况。美丽的图案 四十种生成风格，分为四个系列： 渐变 - 网格渐变、极光、星云、日落、霓虹灯和深 AMOLED 黑色 纹理 - 大理石、水彩、墨水、烟雾、云彩、织物、碳纤维",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/ce/e3/20cee30e-4a2d-06ef-c6c6-d1f9d3a9515f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/ce/e3/20cee30e-4a2d-06ef-c6c6-d1f9d3a9515f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Ram Tulugu",
+    "artistName": "Ram Tulugu",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/a8/56/32a856d3-2383-00af-7e74-6da68c376132/01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/9f/0c/bc9f0cdf-4dbf-e15e-6185-b00de7cd5c3a/03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/23/b7/4d23b78f-a146-d0df-39a9-ce5a99834d0d/10.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/e1/73/efe17333-82f6-eb97-da8d-bd34daa8c867/06.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/e8/c6/4be8c620-e555-72f3-25ae-31517a2b615a/07.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/85/56/d1855665-c83d-ccc0-ef56-d47f4803752c/02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/3a/4e/053a4edb-ddb0-f8c5-4e8a-b7519b4cc554/04.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/65/04/43650496-bf00-8968-1ee2-42b20000ca24/05.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/09/fc/3109fcb3-3378-55d8-3b08-ec0653accc05/09.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/18/99/00189907-b662-a994-9e3e-a307e5f6a688/08.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/01/67/7c016702-6097-7858-bfeb-dec95899c19c/01.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/59/e4/c359e402-8fdf-064c-9fd7-876c22d6df6c/06.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/b2/98/d0b29899-ba12-c5f7-c906-183f9179e03c/09.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/21/0d/d8210db6-bad4-29b4-da75-b55d7002ceb6/04.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/e0/13/74e0130c-fe5d-1214-735a-9bbd066e20e7/10.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/d3/64/b3d364e4-f925-cbcd-3ea0-a79742e10051/03.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/ae/dc/f4aedc20-24bf-65d4-b709-add477a6ab83/05.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/83/c1/4483c16e-96c2-3f25-21b8-70ab0e6c2fee/07.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/da/89/74da8972-317a-1fc4-451e-db7b81439497/08.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/5f/49/7e5f498b-b1a6-4f45-de82-681063e9cabc/02.png/360x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1788583084177
+  },
+  "6779346628": {
+    "name": "Sleep Fighters: Alarm Clock",
+    "trackName": "Sleep Fighters: Alarm Clock",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788583084262,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/sleep-fighters-alarm-clock/id6779346628?uo=4",
+    "description": "《Sleep Fighters》是一款让起床成为一场值得获胜的战斗的闹钟。你没有打瞌睡，而是打架。设置你的闹钟，选择你的难度，当闹钟响起时，你就会面对你的老板。用刺拳、勾拳和上勾拳将他们打得安静。阻止他们的攻击或接受打击。击败boss即可解除警报。特色 4 个像素艺术大佬 — 从无能的经理到冷酷无情的首席执行官 4 个难度级别 — 简单、中等、困难和专家 3 种出拳类型 — 刺拳、勾拳和带有冷却时间的上勾拳 格挡机制 — 快速反应或失去 HP 6 种警报声 — 经典铃声、数字嗡嗡声、战斗",
+    "fullDescription": "《Sleep Fighters》是一款让起床成为一场值得获胜的战斗的闹钟。你没有打瞌睡，而是打架。设置你的闹钟，选择你的难度，当闹钟响起时，你就会面对你的老板。用刺拳、勾拳和上勾拳将他们打得安静。阻止他们的攻击或接受打击。击败boss即可解除警报。特色 4 个像素艺术大佬 — 从无能的经理到冷酷无情的首席执行官 4 个难度级别 — 简单、中等、困难和专家 3 种出拳类型 — 刺拳、勾拳和带有冷却时间的上勾拳 格挡机制 — 快速反应或失去 HP 6 种警报声 — 经典铃声、数字嗡嗡声、战斗",
+    "summaryDescription": "《Sleep Fighters》是一款让起床成为一场值得获胜的战斗的闹钟。你没有打瞌睡，而是打架。设置你的闹钟，选择你的难度，当闹钟响起时，你就会面对你的老板。用刺拳、勾拳和上勾拳将他们打得安静。阻止他们的攻击或接受打击。击败boss即可解除警报。特色 4 个像素艺术大佬 — 从无能的经理到冷酷无情的首席执行官 4 个难度级别 — 简单、中等、困难和专家 3 种出拳类型 — 刺拳、勾拳和带有冷却时间的上勾拳 格挡机制 — 快速反应或失去 HP 6 种警报声 — 经典铃声、数字嗡嗡声、战斗",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/3f/18/5f3f18de-d9c9-246d-2a5b-0499f2164ea7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/3f/18/5f3f18de-d9c9-246d-2a5b-0499f2164ea7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "mohammad malek",
+    "artistName": "mohammad malek",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/9d/35/b99d3530-fca9-4d10-dac8-d9bd6330e21a/02-alarms.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/66/f5/5466f5c8-0e01-1c2e-26cc-ac962883a1c7/01-fight.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/08/0f/83080f07-806c-9760-3d7f-f84a5acbdd42/05-add.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/31/fc/6331fcd6-50c4-01e1-d122-e95e7faa5e1a/03-roster.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/80/12/2e8012ef-17ad-d2e6-d0bb-e116ea96bb89/04-ringing.png/320x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1788583084177
+  },
+  "6804383248": {
+    "name": "KeyJoy－Mechanical Keyboard App",
+    "trackName": "KeyJoy－Mechanical Keyboard App",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788583084262,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/keyjoy-mechanical-keyboard-app/id6804383248?uo=4",
+    "description": "Key Joy 是一款定制 iOS 键盘，带有机械声音包、板主题和完整的表情符号选择器。每次击键都可以发出咔嗒声、敲击声或耳语声，并具有与之相匹配的触觉效果。真实的声音 从点击声、触觉声、线性声、ASMR 声和打字机声包中进行选择。打开或关闭声音和触觉，并将音量设置为您想要的水平。按住某个键可进行印刷机预览。可以切换的主板数十种主题 - 哑光黑、雪花、樱花、木色、赛博朋克、海军蓝等等。选择经典的厚键帽或软 iOS 风格的玻璃按键。专为真实打字而打造 在消息、便笺、邮件和任何地方使用 Key Joy",
+    "fullDescription": "Key Joy 是一款定制 iOS 键盘，带有机械声音包、板主题和完整的表情符号选择器。每次击键都可以发出咔嗒声、敲击声或耳语声，并具有与之相匹配的触觉效果。真实的声音 从点击声、触觉声、线性声、ASMR 声和打字机声包中进行选择。打开或关闭声音和触觉，并将音量设置为您想要的水平。按住某个键可进行印刷机预览。可以切换的主板数十种主题 - 哑光黑、雪花、樱花、木色、赛博朋克、海军蓝等等。选择经典的厚键帽或软 iOS 风格的玻璃按键。专为真实打字而打造 在消息、便笺、邮件和任何地方使用 Key Joy",
+    "summaryDescription": "Key Joy 是一款定制 iOS 键盘，带有机械声音包、板主题和完整的表情符号选择器。每次击键都可以发出咔嗒声、敲击声或耳语声，并具有与之相匹配的触觉效果。真实的声音 从点击声、触觉声、线性声、ASMR 声和打字机声包中进行选择。打开或关闭声音和触觉，并将音量设置为您想要的水平。按住某个键可进行印刷机预览。可以切换的主板数十种主题 - 哑光黑、雪花、樱花、木色、赛博朋克、海军蓝等等。选择经典的厚键帽或软 iOS 风格的玻璃按键。专为真实打字而打造 在消息、便笺、邮件和任何地方使用 Key Joy",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/53/5b/c1535b2c-2c2c-f0f6-d6d7-ca038ef5f096/keyjoyicn-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/53/5b/c1535b2c-2c2c-f0f6-d6d7-ca038ef5f096/keyjoyicn-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "sellerName": "Arima Jain",
+    "artistName": "Arima Jain",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/bc/16/39bc1643-77af-72e5-3a26-fe2c30f57a5c/Frame_43.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/86/21/878621b6-6fe2-1fee-606f-3d27a0b36f58/Frame_10.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/68/09/60680984-63d7-023b-8b9c-16e8c972d4f7/Frame_12.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/ed/3a/10ed3adb-c6ec-ce71-5028-5f960ed9d84b/Frame_11.png/320x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1788583084177
+  },
+  "6737458841": {
+    "name": "Elegant Piano",
+    "trackName": "Elegant Piano",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788583084262,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/elegant-piano/id6737458841?uo=4",
+    "description": "将您的设备转变为专业钢琴键盘 - 您完整的音乐伴侣！ Elegant Piano 通过真实的钢琴音色、专业的伴奏风格和广泛的定制选项提供优质的音乐体验。无论您是探索音乐的初学者还是专业音乐家，我们的应用程序都能提供您获得卓越钢琴体验所需的所有工具。全面的功能： 专业的钢琴体验 高品质的声音字体，带来真实的声音 响应式触摸控制，带来自然的演奏体验 可定制的键盘布局，具有直观的导航功能",
+    "fullDescription": "将您的设备转变为专业钢琴键盘 - 您完整的音乐伴侣！ Elegant Piano 通过真实的钢琴音色、专业的伴奏风格和广泛的定制选项提供优质的音乐体验。无论您是探索音乐的初学者还是专业音乐家，我们的应用程序都能提供您获得卓越钢琴体验所需的所有工具。全面的功能： 专业的钢琴体验 高品质的声音字体，带来真实的声音 响应式触摸控制，带来自然的演奏体验 可定制的键盘布局，具有直观的导航功能",
+    "summaryDescription": "将您的设备转变为专业钢琴键盘 - 您完整的音乐伴侣！ Elegant Piano 通过真实的钢琴音色、专业的伴奏风格和广泛的定制选项提供优质的音乐体验。无论您是探索音乐的初学者还是专业音乐家，我们的应用程序都能提供您获得卓越钢琴体验所需的所有工具。全面的功能： 专业的钢琴体验 高品质的声音字体，带来真实的声音 响应式触摸控制，带来自然的演奏体验 可定制的键盘布局，具有直观的导航功能",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/c1/b0/d1c1b06e-d821-6072-2c90-deb4dbb94cc4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/c1/b0/d1c1b06e-d821-6072-2c90-deb4dbb94cc4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Hayder Dheyaa Yahya Yahya",
+    "artistName": "Hayder Dheyaa Yahya Yahya",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/5a/9d/925a9dfe-bf42-8d8d-ee50-b908ad73176b/iphone-screenshotsSamsung-S10-Isometric_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/6a/50/d66a5010-0410-8ce9-e17d-7a7dc5eb051f/iphone-screenshotsSamsung-S10-Isometric_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/2c/42/8f2c4209-1ebc-fdc3-590e-885c842cf4df/iphone-screenshotsSamsung-S10-Isometric_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/3c/d7/933cd712-b87e-1834-f957-34415665041a/iphone-screenshotsSamsung-S10-Isometric_5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/5e/e5/1e5ee51a-277f-8aba-29be-3b00df25729b/iphone-screenshotsSamsung-S10-Isometric_4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/11/8c/cf118cd4-6b36-faf9-135c-6c4c2098bc8d/iphone-screenshotsSamsung-S10-Isometric_6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/36/24/2936242e-228d-1f37-6b97-1c70f0437e55/iphone-screenshotsSamsung-S10-Isometric_7.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/e3/bb/aae3bbba-8e5e-17c9-1a8a-7ed6274dd77a/iphone-screenshotsArtboard-1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/1f/7b/e91f7b87-946b-7d62-b6ea-c2572c60587b/iphone-screenshotsArtboard-1-copy.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/5c/2f/495c2fe8-b1e6-fc70-cd3c-b111f90247c5/iphone-screenshotsArtboard-1-copy-2_1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/37/7d/ba377dbe-c24e-05b2-3edf-a0bab7618869/iphone-screenshotsArtboard-1-copy-2_2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/0c/01/d70c0174-7e2f-5704-806b-05cea7a7ffac/iphone-screenshotsArtboard-1-copy-2_3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/4d/17/f94d174f-c20d-c268-bfc4-12c21975fe9d/iphone-screenshotsArtboard-1-copy-2_4.png/360x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1788583084177
   }
 }
