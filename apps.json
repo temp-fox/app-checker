@@ -2,6 +2,138 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 933224459,
+      "name": {
+        "cn": "面相学  五官看出你的财运事业婚姻以及善恶"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604935195,
+      "_discountType": "app"
+    },
+    {
+      "id": 1084265311,
+      "name": {
+        "cn": "咖啡百科知识大全"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604935195,
+      "_discountType": "app"
+    },
+    {
+      "id": 1487589430,
+      "name": {
+        "cn": "Goo GIF: GIF动图表情包制作工具集"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604935185,
+      "_discountType": "app"
+    },
+    {
+      "id": 1516190198,
+      "name": {
+        "cn": "手写字体 书法字体"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604935329,
+      "_discountType": "app"
+    },
+    {
+      "id": 1522127731,
+      "name": {
+        "cn": "0110 - 史上最强二进制脑力操"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604943158,
+      "_discountType": "app"
+    },
+    {
+      "id": 1557036559,
+      "name": {
+        "cn": "CISSP中文习题-学习备考助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604943158,
+      "_discountType": "app"
+    },
+    {
+      "id": 6754533982,
+      "name": {
+        "cn": "Currency Converter ~"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604932394,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776415929,
+      "name": {
+        "cn": "FaceTrack3D"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604940596,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786999320,
+      "name": {
+        "cn": "魔幻砖域"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604940461,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799134752,
+      "name": {
+        "cn": "宝宝找不同 - 幼儿益智启蒙"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604943113,
+      "_discountType": "app"
+    },
+    {
+      "id": 6464316877,
+      "name": {
+        "cn": "Ellou - 蔬菜填色画本 - 宝宝孩子魔法涂色游戏"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604943158,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763972347,
+      "name": {
+        "cn": "候物 - 心愿存钱清单｜购物愿望储蓄"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788604951276,
+      "_discountType": "app"
+    },
+    {
       "id": 1092984911,
       "name": {
         "cn": "Orbitrack"
@@ -28924,8 +29056,8 @@
       "name": {
         "cn": "Pitch Alarm"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1783392519944,
