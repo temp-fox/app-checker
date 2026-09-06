@@ -1,11 +1,29 @@
 [
   {
-    "timestamp": 1788652620843,
+    "timestamp": 1788659681219,
     "cn": {
-      "total": 2,
-      "price": 2,
-      "iap": 0,
+      "total": 5,
+      "price": 4,
+      "iap": 1,
       "apps": [
+        {
+          "id": 6761043009,
+          "name": "BakeNote : 烘焙笔记、烘焙日记 - 美味存档",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 862473183,
+          "name": "PDFMagic：PDF编辑器与扫描仪",
+          "type": "iap",
+          "detail": "PDFLifetime: ¥298.00 → ¥198.00"
+        },
+        {
+          "id": 6760383873,
+          "name": "Echo - 时光回声·纪念日",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
         {
           "id": 6757885519,
           "name": "Fasting Space",
