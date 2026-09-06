@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 400981132,
+      "name": {
+        "cn": "Home Natural Remedies"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788719034770,
+      "_discountType": "app"
+    },
+    {
+      "id": 1040017318,
+      "name": {
+        "cn": "广场舞：离线视频教学，专业舞者教您跳广场舞"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788719029231,
+      "_discountType": "app"
+    },
+    {
+      "id": 1073305840,
+      "name": {
+        "cn": "Sidecar MIDI Controller"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788719032082,
+      "_discountType": "app"
+    },
+    {
+      "id": 1620695357,
+      "name": {
+        "cn": "Fairy PDF Reader"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788719029237,
+      "_discountType": "app"
+    },
+    {
       "id": 1014191410,
       "name": {
         "cn": "Fugue Machine : MIDI Sequencer"
