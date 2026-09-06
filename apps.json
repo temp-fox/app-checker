@@ -2,6 +2,128 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 284455726,
+      "name": {
+        "cn": "Outliner"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788692652130,
+      "_discountType": "app"
+    },
+    {
+      "id": 620009806,
+      "name": {
+        "cn": "Database for Skyrim™"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788692652109,
+      "_discountType": "app"
+    },
+    {
+      "id": 1112873127,
+      "name": {
+        "cn": "TOEFL®テスト英単語3800（4訂版）"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788692660237,
+      "_discountType": "app"
+    },
+    {
+      "id": 1355144122,
+      "name": {
+        "cn": "Chromatica Mark II"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788692652167,
+      "_discountType": "app"
+    },
+    {
+      "id": 1563698880,
+      "name": {
+        "cn": "Mirror Magnet"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1788692702542,
+      "_discountType": "app"
+    },
+    {
+      "id": 6743649291,
+      "name": {
+        "cn": "中华干支万年历"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788692652130,
+      "_discountType": "app"
+    },
+    {
+      "id": 6742370753,
+      "name": {
+        "cn": "ZoomCraft"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788692652167,
+      "_discountType": "app"
+    },
+    {
+      "id": 6802252999,
+      "name": {
+        "cn": "帮我选｜随机选择助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788692657463,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808677259,
+      "name": {
+        "cn": "腕温周期·睡觉测温看例假排卵月经体温曲线"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788692657296,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768324204,
+      "name": {
+        "cn": "小白学粤语"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788692660237,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756268487,
+      "name": {
+        "cn": "NaNa今日"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788692660237,
+      "_discountType": "app"
+    },
+    {
       "id": 1523043483,
       "name": {
         "cn": "Alaska State Roads"
