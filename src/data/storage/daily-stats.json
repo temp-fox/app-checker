@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": 1788739014809,
+    "cn": {
+      "total": 1,
+      "price": 1,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 680700116,
+          "name": "And Today Is",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788725867037,
     "cn": {
       "total": 1,
@@ -2919,58 +2935,6 @@
           "name": "Raider",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787874791407,
-    "cn": {
-      "total": 7,
-      "price": 5,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6758624892,
-          "name": "WeekPad: Weekly Planner Diary",
-          "type": "price",
-          "detail": "¥28.00 → ¥22.00"
-        },
-        {
-          "id": 6772679802,
-          "name": "脑力冲刺：专注力训练",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6470270145,
-          "name": "秉文识字",
-          "type": "iap",
-          "detail": "年度订阅: ¥58.00 → ¥48.00"
-        },
-        {
-          "id": 6758055077,
-          "name": "SharKNX - KNX & ETS Toolkit",
-          "type": "iap",
-          "detail": "SharKNX 终身版: ¥198.00 → ¥168.00"
-        },
-        {
-          "id": 6749027480,
-          "name": "Speed Pro Meter",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6752916073,
-          "name": "离线设备端 AI",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 1257281849,
-          "name": "SkySafari",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
         }
       ]
     }

@@ -2,6 +2,83 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6806143747,
+      "name": {
+        "cn": "灵犀账本"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788732621457,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795150955,
+      "name": {
+        "cn": "MomentCat"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788732621457,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795094478,
+      "name": {
+        "cn": "班主任工作台-班务管理工具"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788732621457,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797989232,
+      "name": {
+        "cn": "Konnakol"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788732629716,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794821298,
+      "name": {
+        "cn": "字母奇妙闯关"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788732635194,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788546094,
+      "name": {
+        "cn": "小说线索读书笔记2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788732637692,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761381692,
+      "name": {
+        "cn": "药叮当"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788732637833,
+      "_discountType": "app"
+    },
+    {
       "id": 400981132,
       "name": {
         "cn": "Home Natural Remedies"
