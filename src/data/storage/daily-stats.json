@@ -1,5 +1,87 @@
 [
   {
+    "timestamp": 1788677459216,
+    "cn": {
+      "total": 12,
+      "price": 11,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 1613019131,
+          "name": "打字练习-手机双拼输入训练",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6787381856,
+          "name": "Magic Cutout-智能抠图",
+          "type": "iap",
+          "detail": "Upgrade to premium: ¥3.00 → ¥0.00"
+        },
+        {
+          "id": 6797211431,
+          "name": "润舍日历 - 农历节假日与养生",
+          "type": "price",
+          "detail": "¥6.00 → ¥3.00"
+        },
+        {
+          "id": 6761912488,
+          "name": "颈觉",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        },
+        {
+          "id": 766098740,
+          "name": "PushFit Pro",
+          "type": "price",
+          "detail": "¥38.00 → ¥28.00"
+        },
+        {
+          "id": 6757686080,
+          "name": "不能打 - 冲动急刹与情绪管理",
+          "type": "price",
+          "detail": "¥6.00 → 免费"
+        },
+        {
+          "id": 6757379697,
+          "name": "会聊鸭 - AI恋爱聊天助手",
+          "type": "price",
+          "detail": "¥18.00 → ¥12.00"
+        },
+        {
+          "id": 6477562652,
+          "name": "Flight Tracker: Weather Radar",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6785680986,
+          "name": "FocusLift - Workout with focus",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6803594126,
+          "name": "App Rank Tracker",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6802515797,
+          "name": "阿頼耶",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6801948624,
+          "name": "Paintly: Draw, Trace & Paint",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788659681219,
     "cn": {
       "total": 5,
@@ -2965,112 +3047,6 @@
           "name": "会员卡助手",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1787807144419,
-    "cn": {
-      "total": 16,
-      "price": 9,
-      "iap": 7,
-      "apps": [
-        {
-          "id": 6795468377,
-          "name": "分数册",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6798767414,
-          "name": "岩随相机",
-          "type": "price",
-          "detail": "¥15.00 → ¥12.00"
-        },
-        {
-          "id": 6738851170,
-          "name": "English Grammar Drills",
-          "type": "price",
-          "detail": "¥68.00 → ¥48.00"
-        },
-        {
-          "id": 6758605905,
-          "name": "RoastCam - Vibe Check",
-          "type": "iap",
-          "detail": "RoastCam Pro: ¥38.00 → ¥0.00"
-        },
-        {
-          "id": 6751312171,
-          "name": "Phase Chimes",
-          "type": "price",
-          "detail": "¥98.00 → ¥88.00"
-        },
-        {
-          "id": 6794661401,
-          "name": "频闪检测仪 - 光源闪烁测量仪",
-          "type": "price",
-          "detail": "¥3.00 → ¥1.00"
-        },
-        {
-          "id": 6781167309,
-          "name": "汇率换算:货币转换器·外汇牌价",
-          "type": "iap",
-          "detail": "汇率猫永久会员: ¥128.00 → ¥68.00"
-        },
-        {
-          "id": 6762346798,
-          "name": "DualFrame Cam・双格相机、双摄、镜像相机",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1207653001,
-          "name": "DanceAnimation - Stop Motion",
-          "type": "price",
-          "detail": "¥22.00 → ¥8.00"
-        },
-        {
-          "id": 6770481522,
-          "name": "象棋AI版 - 人机对弈·残局破解",
-          "type": "iap",
-          "detail": "悔棋次数x10次: ¥6.00 → ¥3.00"
-        },
-        {
-          "id": 6770481522,
-          "name": "象棋AI版 - 人机对弈·残局破解",
-          "type": "iap",
-          "detail": "提示次数x15: ¥6.00 → ¥4.00"
-        },
-        {
-          "id": 6758305500,
-          "name": "高等数学",
-          "type": "iap",
-          "detail": "解锁全部章节: ¥68.00 → ¥38.00"
-        },
-        {
-          "id": 1639786814,
-          "name": "Fraction Steps: Learn Visually",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6751472255,
-          "name": "UltraTimerGo",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6746777407,
-          "name": "魔法工艺",
-          "type": "iap",
-          "detail": "皮肤合集: ¥15.00 → ¥14.00"
-        },
-        {
-          "id": 6746777407,
-          "name": "魔法工艺",
-          "type": "iap",
-          "detail": "凉爽夏日: ¥6.00 → ¥4.80"
         }
       ]
     }

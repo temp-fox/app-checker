@@ -2,6 +2,110 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1523043483,
+      "name": {
+        "cn": "Alaska State Roads"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788669999352,
+      "_discountType": "app"
+    },
+    {
+      "id": 6745186352,
+      "name": {
+        "cn": "SafeNet - Porn Blocker"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788669996633,
+      "_discountType": "app"
+    },
+    {
+      "id": 6503202553,
+      "name": {
+        "cn": "Color Cam: The Color Finder"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788670001918,
+      "_discountType": "app"
+    },
+    {
+      "id": 6774709624,
+      "name": {
+        "cn": "EKA2L1"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788670010201,
+      "_discountType": "app"
+    },
+    {
+      "id": 6477562652,
+      "name": {
+        "cn": "Flight Tracker: Weather Radar"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788670057113,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785680986,
+      "name": {
+        "cn": "FocusLift - Workout with focus"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788670057113,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803594126,
+      "name": {
+        "cn": "App Rank Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788670057113,
+      "_discountType": "app"
+    },
+    {
+      "id": 6802515797,
+      "name": {
+        "cn": "阿頼耶"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788670057113,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801948624,
+      "name": {
+        "cn": "Paintly: Draw, Trace & Paint"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788670057113,
+      "_discountType": "app"
+    },
+    {
       "id": 982939222,
       "name": {
         "cn": "Flamencómetro Oscar Herrero"
