@@ -2,6 +2,95 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1622157617,
+      "name": {
+        "cn": "壁酷"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788756643265,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803383251,
+      "name": {
+        "cn": "薪动-实时薪资"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788756582524,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770578926,
+      "name": {
+        "cn": "Bible Map Explorer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788756595636,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760818331,
+      "name": {
+        "cn": "papry – Document Organizer"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788756643265,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6740433029,
+      "name": {
+        "cn": "网络使用监控器 Network Usage Monitor"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788756643265,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6806298730,
+      "name": {
+        "cn": "Walti 记账·支出管理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788756643265,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6759379649,
+      "name": {
+        "cn": "Tuner Universal"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788756643265,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6778029822,
+      "name": {
+        "cn": "MetricSmith"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788756643265,
+      "_discountType": "iap"
+    },
+    {
       "id": 6808067758,
       "name": {
         "cn": "OneThing - 极简事项"
