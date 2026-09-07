@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6808067758,
+      "name": {
+        "cn": "OneThing - 极简事项"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788739233630,
+      "_discountType": "app"
+    },
+    {
+      "id": 6753145496,
+      "name": {
+        "cn": "Link Styler - 链接样式"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788739239935,
+      "_discountType": "app"
+    },
+    {
       "id": 6806143747,
       "name": {
         "cn": "灵犀账本"
