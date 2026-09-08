@@ -1,4 +1,475 @@
 {
+  "6782404421": {
+    "name": "子网掩码计算器",
+    "trackName": "子网掩码计算器",
+    "maxPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "minPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784442532882,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%AD%90%E7%BD%91%E6%8E%A9%E7%A0%81%E8%AE%A1%E7%AE%97%E5%99%A8/id6782404421?uo=4",
+    "description": "子网掩码计算器是一款简洁、专业的网络计算工具,为网络工程师、运维人员、CCNA/HCIA 备考学生和开发者打造。输入一个 IP 地址和前缀(或 CIDR),立即得到所有你需要的子网信息。 【IPv4 计算】 网络地址、广播地址 可用主机范围与可用主机数 子网掩码、通配符(反掩码)、十六进制掩码 地址类别(A/B/C/D/E)与用途识别(私有 / 公网 / 环回 / 链路本地 / 组播 等) 二进制视图,网络位与主机位用颜色区分 掩码 ⇄ CIDR 前缀自由互转 正确处理 /31(点到点)、/32(单主机)等边界情况 【IPv6 计算】 地址压缩(::)与完整展开 地址类型识别(全球单播 / 链路本地 / 唯一本地 / 组播 等) 网络前缀、首地址、末地址 地址总数(以 2 的幂和精确数值显示)、/64 子网数量 【子网划分】 等分划分:把一个网段按新前缀平均切分,列出每个子网 VLSM 变长子网划分:按每个子网所需主机数自动分配最合适的网段 【为什么选它】 100% 离线运行,不联网、不收集任何数据,保护隐私 点按任意结果即可一键复制 支持深色模式,iPhone 与 iPad 通用 中英双语,跟随系统语言 界面干净,没有广告打扰 无论是规划网络、做实验、备考还是日常排错,这款工具都能帮你又快又准地完成子网计算。",
+    "fullDescription": "子网掩码计算器是一款简洁、专业的网络计算工具,为网络工程师、运维人员、CCNA/HCIA 备考学生和开发者打造。输入一个 IP 地址和前缀(或 CIDR),立即得到所有你需要的子网信息。 【IPv4 计算】 网络地址、广播地址 可用主机范围与可用主机数 子网掩码、通配符(反掩码)、十六进制掩码 地址类别(A/B/C/D/E)与用途识别(私有 / 公网 / 环回 / 链路本地 / 组播 等) 二进制视图,网络位与主机位用颜色区分 掩码 ⇄ CIDR 前缀自由互转 正确处理 /31(点到点)、/32(单主机)等边界情况 【IPv6 计算】 地址压缩(::)与完整展开 地址类型识别(全球单播 / 链路本地 / 唯一本地 / 组播 等) 网络前缀、首地址、末地址 地址总数(以 2 的幂和精确数值显示)、/64 子网数量 【子网划分】 等分划分:把一个网段按新前缀平均切分,列出每个子网 VLSM 变长子网划分:按每个子网所需主机数自动分配最合适的网段 【为什么选它】 100% 离线运行,不联网、不收集任何数据,保护隐私 点按任意结果即可一键复制 支持深色模式,iPhone 与 iPad 通用 中英双语,跟随系统语言 界面干净,没有广告打扰 无论是规划网络、做实验、备考还是日常排错,这款工具都能帮你又快又准地完成子网计算。",
+    "summaryDescription": "子网掩码计算器是一款简洁、专业的网络计算工具,为网络工程师、运维人员、CCNA/HCIA 备考学生和开发者打造。输入一个 IP 地址和前缀(或 CIDR),立即得到所有你需要的子网信息。 【IPv4 计算】 网络地址、广播地址 可用主机范围与可用主机数 子网掩码、通配符(反掩码)、十六进制掩码 地址类别(A/B/C/D/E)与用途识别(私有 / 公网 / 环回 / 链路本地 / 组播 等) 二进制视图,网络位与主机位用颜色区分 掩码 ⇄ CIDR 前缀自由互转 正确处理 /31(点到点)、/32(单主机)等边界情况 【IPv6 计算】 地址压缩(::)与完整展开 地址类型识别(全球单播 / 链路本地 / 唯一本地 / 组播 等) 网络前缀、首地址、末地址 地址总数(以 2 的幂和精确数值显示)、/64 子网数量 【子网划分】 等分划分:把一个网段按新前缀平均切分,列出每个子网 VLSM 变长子网划分:按每个子网所需主机数自动分配最合适的网段 【为什么选它】 100% 离线运行,不联网、不收集任何数据,保护隐私 点按任意结果即可一键复制 支持深色模式,iPhone 与 iPad 通用 中英双语,跟随系统语言 界面干净,没有广告打扰 无论是规划网络、做实验、备考还是日常排错,这款工具都能帮你又快又准地完成子网计算。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/85/f2/1485f2cf-90ab-59f9-e716-cb134392d2f1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/85/f2/1485f2cf-90ab-59f9-e716-cb134392d2f1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "敬东 孙",
+    "artistName": "敬东 孙",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/9a/24/3b9a24ba-367d-f9e8-6e8b-bb67076ed74e/1-IPv4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/4b/3e/5c4b3efd-b2e1-c0d5-24f6-6a0b21d1793c/2-IPv6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/35/7a/ca357ac9-a7cb-b3cf-a2f2-f27966c57971/3-Subnetting.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/08/98/f90898c4-8436-a577-9ad5-7a2213aafdf0/4-Tools.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/96/dc/b796dc5a-ed36-bb10-d326-ff08be0c9961/5-About.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/23/6e/92236e43-fcc8-33b6-4ecb-0b8011db2f92/1-IPv4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/cc/82/03cc8256-d5fa-054e-1a48-66eb45f736dc/2-IPv6.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/3c/3f/313c3f6e-f05b-4c80-0923-82c7dce1773e/3-Subnetting.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/2d/0f/5f2d0fca-bf74-08fc-ac9e-4ae19a3858cc/4-Tools.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/27/1c/98271c26-64c7-84c8-4913-67e291fcdffe/5-About.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784442493318
+  },
+  "6763209457": {
+    "name": "双屏相机 - 双摄画中画分屏",
+    "trackName": "双屏相机 - 双摄画中画分屏",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784442532882,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8F%8C%E5%B1%8F%E7%9B%B8%E6%9C%BA-%E5%8F%8C%E6%91%84%E7%94%BB%E4%B8%AD%E7%94%BB%E5%88%86%E5%B1%8F/id6763209457?uo=4",
+    "description": "一部 iPhone，同时录制前置与后置镜头 —— 合成一条视频，无需中途切换机位。 双屏相机专为需要「双视角同框」的创作者设计：路况与骑手、风景与表情、舞台与反应，前后画面实时同步，一次拍成。 六种布局，适配不同场景 左右 / 上下 / 斜向分屏 —— 拖动手柄调节比例，长按可旋转分割轴 方形与圆形画中画 —— 拖动、双指缩放、四角磁吸 Social 1:4 社交分屏 —— 演唱会、Live 现场利器 双击小窗或手柄，瞬间交换前后镜头 专业级参数 最高 4K，H.264 / H.265，自定义码率 HDR（HLG），Rec.709 / P3 / Rec.2020 色彩空间 边缘手势：左侧调曝光，右侧调变焦 实时美颜，长按对比原图 Ghost Mode 录制时 UI 自动淡出 行车记录仪循环缓冲 + MARK 标记精彩瞬间 灵动岛 / 实时活动显示录制状态 横竖屏跟随，录制中自动锁定方向 音频与硬件 双声道实时电平表 内置 / 蓝牙 / USB-C 音频输入 支持机型可用双后置（广角 + 长焦）同录 布局 metadata JSON 导出 快捷拍摄 点击快门：开始 / 停止录制 长按快门：未录制时拍照；录制中暂停 / 继续 支持 App 快捷指令与操作按钮一键开录 适合骑行摩托、旅行 Vlog、健身教学、演唱会、访谈等「一个镜头不够」的场景。 需要支持双摄（MultiCam）的 iPhone，iOS 17 及以上。",
+    "fullDescription": "一部 iPhone，同时录制前置与后置镜头 —— 合成一条视频，无需中途切换机位。 双屏相机专为需要「双视角同框」的创作者设计：路况与骑手、风景与表情、舞台与反应，前后画面实时同步，一次拍成。 六种布局，适配不同场景 左右 / 上下 / 斜向分屏 —— 拖动手柄调节比例，长按可旋转分割轴 方形与圆形画中画 —— 拖动、双指缩放、四角磁吸 Social 1:4 社交分屏 —— 演唱会、Live 现场利器 双击小窗或手柄，瞬间交换前后镜头 专业级参数 最高 4K，H.264 / H.265，自定义码率 HDR（HLG），Rec.709 / P3 / Rec.2020 色彩空间 边缘手势：左侧调曝光，右侧调变焦 实时美颜，长按对比原图 Ghost Mode 录制时 UI 自动淡出 行车记录仪循环缓冲 + MARK 标记精彩瞬间 灵动岛 / 实时活动显示录制状态 横竖屏跟随，录制中自动锁定方向 音频与硬件 双声道实时电平表 内置 / 蓝牙 / USB-C 音频输入 支持机型可用双后置（广角 + 长焦）同录 布局 metadata JSON 导出 快捷拍摄 点击快门：开始 / 停止录制 长按快门：未录制时拍照；录制中暂停 / 继续 支持 App 快捷指令与操作按钮一键开录 适合骑行摩托、旅行 Vlog、健身教学、演唱会、访谈等「一个镜头不够」的场景。 需要支持双摄（MultiCam）的 iPhone，iOS 17 及以上。",
+    "summaryDescription": "一部 iPhone，同时录制前置与后置镜头 —— 合成一条视频，无需中途切换机位。 双屏相机专为需要「双视角同框」的创作者设计：路况与骑手、风景与表情、舞台与反应，前后画面实时同步，一次拍成。 六种布局，适配不同场景 左右 / 上下 / 斜向分屏 —— 拖动手柄调节比例，长按可旋转分割轴 方形与圆形画中画 —— 拖动、双指缩放、四角磁吸 Social 1:4 社交分屏 —— 演唱会、Live 现场利器 双击小窗或手柄，瞬间交换前后镜头 专业级参数 最高 4K，H.264 / H.265，自定义码率 HDR（HLG），Rec.709 / P3 / Rec.2020 色彩空间 边缘手势：左侧调曝光，右侧调变焦 实时美颜，长按对比原图 Ghost Mode 录制时 UI 自动淡出 行车记录仪循环缓冲 + MARK 标记精彩瞬间 灵动岛 / 实时活动显示录制状态 横竖屏跟随，录制中自动锁定方向 音频与硬件 双声道实时电平表 内置 / 蓝牙 / USB-C 音频输入 支持机型可用双后置（广角 + 长焦）同录 布局 metadata JSON 导出 快捷拍摄 点击快门：开始 / 停止录制 长按快门：未录制时拍照；录制中暂停 / 继续 支持 App 快捷指令与操作按钮一键开录 适合骑行摩托、旅行 Vlog、健身教学、演唱会、访谈等「一个镜头不够」的场景。 需要支持双摄（MultiCam）的 iPhone，iOS 17 及以上。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/dc/2a/83dc2ad6-32b3-f894-7a78-a57c0a6913c3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/dc/2a/83dc2ad6-32b3-f894-7a78-a57c0a6913c3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Shanghai Origin Horizon Information Technology Co., Ltd.",
+    "artistName": "XINJUN WU",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/6b/ab/f76baba2-88d7-f31e-4db3-951fa715644f/new_1_6layouts.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/12/16/fa121633-19a7-a582-8066-bea9627513a5/new_2_camera_pair.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/9e/2e/a99e2e3a-7013-900f-316c-d542153b6941/new_3_beauty.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/48/22/9c4822b9-ca01-5df1-fc24-8333e6154060/new_4_controllerhub.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/16/79/2116791b-df89-01ce-e66e-7e03c777de18/new_5_video.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784442498971
+  },
+  "6785475523": {
+    "name": "健康日志--HealthLog",
+    "trackName": "健康日志--HealthLog",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784442532882,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%81%A5%E5%BA%B7%E6%97%A5%E5%BF%97-healthlog/id6785475523?uo=4",
+    "description": "健康日志 - 您的个人健康档案管家 还在为找不到体检记录发愁？还在担心忘记吃药？健康日志帮您一站式管理全家人的健康数据。 核心功能： 9种健康指标管理 支持血压、血糖、血脂、体重、身高、心率、体温、用药记录、体检报告，覆盖日常健康监测的全部场景。 拍照智能识别 直接拍摄或从相册导入，自动识别体检单上的数值，省去手动输入的麻烦。 趋势图表追踪 自动生成折线图，直观查看各项指标的变化趋势，健康状况一目了然。 PDF导出分享 一键导出所有记录为PDF文件，方便就医时分享给医生，也方便存档备份。 隐私安全保障 所有数据仅保存在您的设备上，不上传任何服务器，完全保护您的隐私。 适用人群： 需要长期监测血压、血糖的慢性病患者 定期体检、关注健康数据的上班族 管理全家人健康记录的家庭用户 需要记录用药情况的老年人 立即下载，开始管理您的健康档案！",
+    "fullDescription": "健康日志 - 您的个人健康档案管家 还在为找不到体检记录发愁？还在担心忘记吃药？健康日志帮您一站式管理全家人的健康数据。 核心功能： 9种健康指标管理 支持血压、血糖、血脂、体重、身高、心率、体温、用药记录、体检报告，覆盖日常健康监测的全部场景。 拍照智能识别 直接拍摄或从相册导入，自动识别体检单上的数值，省去手动输入的麻烦。 趋势图表追踪 自动生成折线图，直观查看各项指标的变化趋势，健康状况一目了然。 PDF导出分享 一键导出所有记录为PDF文件，方便就医时分享给医生，也方便存档备份。 隐私安全保障 所有数据仅保存在您的设备上，不上传任何服务器，完全保护您的隐私。 适用人群： 需要长期监测血压、血糖的慢性病患者 定期体检、关注健康数据的上班族 管理全家人健康记录的家庭用户 需要记录用药情况的老年人 立即下载，开始管理您的健康档案！",
+    "summaryDescription": "健康日志 - 您的个人健康档案管家 还在为找不到体检记录发愁？还在担心忘记吃药？健康日志帮您一站式管理全家人的健康数据。 核心功能： 9种健康指标管理 支持血压、血糖、血脂、体重、身高、心率、体温、用药记录、体检报告，覆盖日常健康监测的全部场景。 拍照智能识别 直接拍摄或从相册导入，自动识别体检单上的数值，省去手动输入的麻烦。 趋势图表追踪 自动生成折线图，直观查看各项指标的变化趋势，健康状况一目了然。 PDF导出分享 一键导出所有记录为PDF文件，方便就医时分享给医生，也方便存档备份。 隐私安全保障 所有数据仅保存在您的设备上，不上传任何服务器，完全保护您的隐私。 适用人群： 需要长期监测血压、血糖的慢性病患者 定期体检、关注健康数据的上班族 管理全家人健康记录的家庭用户 需要记录用药情况的老年人 立即下载，开始管理您的健康档案！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/ac/ea/a0acea8a-3c4d-d364-e4e7-14bf6db1651f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/ac/ea/a0acea8a-3c4d-d364-e4e7-14bf6db1651f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "晓帆 涂",
+    "artistName": "晓帆 涂",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/ba/37/95ba3720-b67d-3f8c-1f54-af97a04734af/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/42/4e/70424e4f-171a-aece-98c7-7c99fab4e540/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/7c/c8/217cc88a-cb71-532c-4926-e6513d6bba9b/7.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/e8/7e/e7e87e14-19f1-a9b3-9cf0-2b5082a15ba4/4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/03/8d/16038db9-f4b1-37ee-e24c-79b192387ef2/3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/38/fd/4238fd5f-12ea-492d-ed68-1617f15b0e9a/6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/f5/87/04f5871d-e1a3-2c82-d3a6-bd9683a5935c/5.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/8f/86/008f8679-34d7-3605-6642-685c0959d6fb/1-_U6863_U6848_U9875-_U9996_U9875.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/fc/aa/25fcaa84-34f5-e6f7-4bc5-dfef53ef405b/2-_U6dfb_U52a0_U8bb0_U5f55-_U4e5d_U5bab_U683c_U9009_U62e9.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/87/fd/fc87fd82-4b43-6448-eca3-531f2b26f3ea/3-_U8840_U538b_U5f55_U5165-_U8868_U5355_U586b_U5199.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784442504449
+  },
+  "6788588108": {
+    "name": "病句修改训练题卡2026",
+    "trackName": "病句修改训练题卡2026",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784442532882,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E7%97%85%E5%8F%A5%E4%BF%AE%E6%94%B9%E8%AE%AD%E7%BB%83%E9%A2%98%E5%8D%A12026/id6788588108?uo=4",
+    "description": "病句修改训练题卡是一款面向中学生和语文学习者的离线专项训练工具，适合日常刷题、考前复习和错题整理。应用围绕常见病句类型建立题卡，帮助用户记录判断依据、修改过程和错因归类，形成可持续复习的本地题库。 应用无需登录、不联网、不收集个人数据，所有内容保存在本机。用户可以按搭配不当、成分残缺、语序不当、句式杂糅、表意不明等类型管理练习记录，并通过复习批次查看薄弱点。",
+    "fullDescription": "病句修改训练题卡是一款面向中学生和语文学习者的离线专项训练工具，适合日常刷题、考前复习和错题整理。应用围绕常见病句类型建立题卡，帮助用户记录判断依据、修改过程和错因归类，形成可持续复习的本地题库。 应用无需登录、不联网、不收集个人数据，所有内容保存在本机。用户可以按搭配不当、成分残缺、语序不当、句式杂糅、表意不明等类型管理练习记录，并通过复习批次查看薄弱点。",
+    "summaryDescription": "病句修改训练题卡是一款面向中学生和语文学习者的离线专项训练工具，适合日常刷题、考前复习和错题整理。应用围绕常见病句类型建立题卡，帮助用户记录判断依据、修改过程和错因归类，形成可持续复习的本地题库。 应用无需登录、不联网、不收集个人数据，所有内容保存在本机。用户可以按搭配不当、成分残缺、语序不当、句式杂糅、表意不明等类型管理练习记录，并通过复习批次查看薄弱点。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/f0/9f/6af09f54-ba80-5920-78a1-36dd8d9cc918/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/f0/9f/6af09f54-ba80-5920-78a1-36dd8d9cc918/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Nanjing Yunxiaochuang Technology Co., Ltd",
+    "artistName": "Nanjing Yunxiaochuang Technology Co., Ltd",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/95/e3/d595e332-3c43-7574-fb80-46167438e29b/thread-b-bingjuFixTrainer-marketing.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/65/f5/9c65f57a-0179-f2f7-ef04-1bfa4edeb636/01-home.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/28/07/bc280719-b1ae-a121-c7f6-da3ebb037487/02-feature.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/0d/33/c60d331d-d5fc-33fe-ee8f-b1a32bbbb699/03-settings.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784442507104
+  },
+  "6740482526": {
+    "name": "谁是卧底助手",
+    "trackName": "谁是卧底助手",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786438298006,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        },
+        {
+          "timestamp": 1786379426434,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1785321587953,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1785234867324,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1784802162696,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1784454641650,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%B0%81%E6%98%AF%E5%8D%A7%E5%BA%95%E5%8A%A9%E6%89%8B/id6740482526?uo=4",
+    "description": "谁是卧底助手是一个线下聚会谁是卧底发牌器",
+    "fullDescription": "谁是卧底助手是一个线下聚会谁是卧底发牌器",
+    "summaryDescription": "谁是卧底助手是一个线下聚会谁是卧底发牌器",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/ea/dd/f1eadd96-8061-f8ab-b87f-11dfb879fe28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/ea/dd/f1eadd96-8061-f8ab-b87f-11dfb879fe28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "振 陈",
+    "artistName": "振 陈",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/46/5b/0a465b93-e969-744a-d27b-0661b5cf6906/Apple_iPhone_11_Pro_Max_Screenshot_1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/09/de/2c09de4a-6598-4703-740a-306515af9397/Apple_iPhone_11_Pro_Max_Screenshot_2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/0e/32/440e32f6-ef17-d591-95de-a48caee9e909/Apple_iPhone_11_Pro_Max_Screenshot_3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/91/ac/9691aca1-089b-5a2f-8431-61a8340611c0/Apple_iPhone_11_Pro_Max_Screenshot_4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/d0/48/4ed04837-a994-81e3-cc39-1e98b7015806/Apple_iPhone_11_Pro_Max_Screenshot_5.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/13/6b/d8136b59-226b-9af8-b968-d6a8cfa845fa/1.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/1f/74/c31f744d-cbc3-be2f-bc2c-6e41b73e1945/2.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/23/5f/19235fd0-839a-25ac-7b77-5c64fd48ccd8/3.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/f1/d9/7cf1d907-b04d-cc56-e3c0-9fc094596e4d/4.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/31/d5/0631d50e-50fa-6afb-a99d-b7bc8f16b9c5/5.jpg/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784454592105
+  },
+  "6748609933": {
+    "name": "单位换算-公斤磅斤两摄氏华氏英尺英寸英里亩毫升克升加仑码千瓦",
+    "trackName": "单位换算-公斤磅斤两摄氏华氏英尺英寸英里亩毫升克升加仑码千瓦",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784454641650,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8D%95%E4%BD%8D%E6%8D%A2%E7%AE%97-%E5%85%AC%E6%96%A4%E7%A3%85%E6%96%A4%E4%B8%A4%E6%91%84%E6%B0%8F%E5%8D%8E%E6%B0%8F%E8%8B%B1%E5%B0%BA%E8%8B%B1%E5%AF%B8%E8%8B%B1%E9%87%8C%E4%BA%A9%E6%AF%AB%E5%8D%87%E5%85%8B%E5%8D%87%E5%8A%A0%E4%BB%91%E7%A0%81%E5%8D%83%E7%93%A6/id6748609933?uo=4",
+    "description": "单位换算是买断制、完全离线的换算工具，适合学生、电工、装修与出行。输入一个数，同类别全部结果即时出现；点结果可回填连算。侧栏可排序，并记住上次类别、单位与输入。33个类别如下： 长度：千米到纳米，英里英尺英寸海里，里丈尺寸 质量：吨千克克，磅盎司克拉英石，担斤两钱 面积：平方千米、公顷、平方米，英亩，顷亩 体积：升毫升立方米，美制/英制加仑夸脱品脱，斗市升 温度：摄氏、华氏、开尔文、兰氏度 速度：米/秒、千米/时、英里/时、节、马赫 数据存储：KB/MB/GB（1000）与KiB/MiB/GiB（1024）分开 时间：世纪、年到纳秒 压力：帕斯卡、巴、大气压、汞柱、水柱、psi 功率：瓦千瓦，英制/米制马力，BTU/h 能量：焦耳、千瓦时（度）、大卡、卡路里、BTU、电子伏特 密度：kg/m³、g/cm³、lb/ft³ 角度：度、弧度、角分角秒、密位 力：牛顿、千克力、磅力 光照度：勒克斯、英尺烛光 电阻：毫欧到兆欧 电压：毫伏到兆伏 电流：微安到兆安 频率：赫兹到太赫兹 电导：西门子、毫西、微西 电容：皮法到法拉 电感：纳亨到亨利 加速度：m/s²、ft/s²、重力加速度g 扭矩：牛米、磅力英尺、磅力英寸 流量：m³/h、L/min、加仑/分 数据传输速率：bit/s到Gbit/s，KB/s、MB/s 燃油经济性：升/百公里，美制/英制mpg 电荷：库仑、安时、毫安时 角速度：rad/s、度/秒、rpm、rps 质量流量：kg/s、t/h、lb/s 光通量：流明、千流明、毫流明 发光强度：坎德拉、千坎、毫坎 亮度：cd/m²、英尺朗伯 一次购买，更新免费。无广告、无订阅、不收集数据。深色界面，28种语言。结果仅供参考，不构成计量检定。海外商店名称为UnitGrid。",
+    "fullDescription": "单位换算是买断制、完全离线的换算工具，适合学生、电工、装修与出行。输入一个数，同类别全部结果即时出现；点结果可回填连算。侧栏可排序，并记住上次类别、单位与输入。33个类别如下： 长度：千米到纳米，英里英尺英寸海里，里丈尺寸 质量：吨千克克，磅盎司克拉英石，担斤两钱 面积：平方千米、公顷、平方米，英亩，顷亩 体积：升毫升立方米，美制/英制加仑夸脱品脱，斗市升 温度：摄氏、华氏、开尔文、兰氏度 速度：米/秒、千米/时、英里/时、节、马赫 数据存储：KB/MB/GB（1000）与KiB/MiB/GiB（1024）分开 时间：世纪、年到纳秒 压力：帕斯卡、巴、大气压、汞柱、水柱、psi 功率：瓦千瓦，英制/米制马力，BTU/h 能量：焦耳、千瓦时（度）、大卡、卡路里、BTU、电子伏特 密度：kg/m³、g/cm³、lb/ft³ 角度：度、弧度、角分角秒、密位 力：牛顿、千克力、磅力 光照度：勒克斯、英尺烛光 电阻：毫欧到兆欧 电压：毫伏到兆伏 电流：微安到兆安 频率：赫兹到太赫兹 电导：西门子、毫西、微西 电容：皮法到法拉 电感：纳亨到亨利 加速度：m/s²、ft/s²、重力加速度g 扭矩：牛米、磅力英尺、磅力英寸 流量：m³/h、L/min、加仑/分 数据传输速率：bit/s到Gbit/s，KB/s、MB/s 燃油经济性：升/百公里，美制/英制mpg 电荷：库仑、安时、毫安时 角速度：rad/s、度/秒、rpm、rps 质量流量：kg/s、t/h、lb/s 光通量：流明、千流明、毫流明 发光强度：坎德拉、千坎、毫坎 亮度：cd/m²、英尺朗伯 一次购买，更新免费。无广告、无订阅、不收集数据。深色界面，28种语言。结果仅供参考，不构成计量检定。海外商店名称为UnitGrid。",
+    "summaryDescription": "单位换算是买断制、完全离线的换算工具，适合学生、电工、装修与出行。输入一个数，同类别全部结果即时出现；点结果可回填连算。侧栏可排序，并记住上次类别、单位与输入。33个类别如下： 长度：千米到纳米，英里英尺英寸海里，里丈尺寸 质量：吨千克克，磅盎司克拉英石，担斤两钱 面积：平方千米、公顷、平方米，英亩，顷亩 体积：升毫升立方米，美制/英制加仑夸脱品脱，斗市升 温度：摄氏、华氏、开尔文、兰氏度 速度：米/秒、千米/时、英里/时、节、马赫 数据存储：KB/MB/GB（1000）与KiB/MiB/GiB（1024）分开 时间：世纪、年到纳秒 压力：帕斯卡、巴、大气压、汞柱、水柱、psi 功率：瓦千瓦，英制/米制马力，BTU/h 能量：焦耳、千瓦时（度）、大卡、卡路里、BTU、电子伏特 密度：kg/m³、g/cm³、lb/ft³ 角度：度、弧度、角分角秒、密位 力：牛顿、千克力、磅力 光照度：勒克斯、英尺烛光 电阻：毫欧到兆欧 电压：毫伏到兆伏 电流：微安到兆安 频率：赫兹到太赫兹 电导：西门子、毫西、微西 电容：皮法到法拉 电感：纳亨到亨利 加速度：m/s²、ft/s²、重力加速度g 扭矩：牛米、磅力英尺、磅力英寸 流量：m³/h、L/min、加仑/分 数据传输速率：bit/s到Gbit/s，KB/s、MB/s 燃油经济性：升/百公里，美制/英制mpg 电荷：库仑、安时、毫安时 角速度：rad/s、度/秒、rpm、rps 质量流量：kg/s、t/h、lb/s 光通量：流明、千流明、毫流明 发光强度：坎德拉、千坎、毫坎 亮度：cd/m²、英尺朗伯 一次购买，更新免费。无广告、无订阅、不收集数据。深色界面，28种语言。结果仅供参考，不构成计量检定。海外商店名称为UnitGrid。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/7e/68/877e689b-7c5b-a3a5-bfd7-3abcdbd0f98a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/7e/68/877e689b-7c5b-a3a5-bfd7-3abcdbd0f98a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "sellerName": "骏 叶",
+    "artistName": "骏 叶",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/d0/bf/f9d0bfc3-546e-b94e-6deb-df52902deddb/screen-1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/12/cb/a712cbc5-bd8e-3473-6706-998c62004cea/screen-2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/19/54/8f195421-bcb5-f597-570f-ad2dda53dabd/screen-3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/fd/c7/94fdc78b-1693-762f-16f2-9a0d77c15119/screen-4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/a2/6a/2da26a76-4a30-4e0f-e123-f92da6e9ee29/screen-4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/28/ce/ec28ce13-b5dd-461a-f42c-11350b3a52c5/screen-5.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/f9/e6/40f9e6c4-b2ee-8448-0d3e-e3074988d09b/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-07-24_at_22.05.36.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/4b/41/f94b415c-ae49-e4f7-fe1f-925d9e11817d/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-07-24_at_22.05.30.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/4e/74/d44e7497-a921-8420-c6af-475261e3bfd7/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-07-24_at_22.05.42.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784454592105
+  },
+  "6779495062": {
+    "name": "LuneGallery-月光相框",
+    "trackName": "LuneGallery-月光相框",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "minPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787480475134,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1784454641650,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/lunegallery-%E6%9C%88%E5%85%89%E7%9B%B8%E6%A1%86/id6779495062?uo=4",
+    "description": "Luna Gallery 是一款为日常照片设计的本地艺术相框应用。 你可以从系统照片库选择图片，添加法式卡纸、宝丽来、木质画框、胶片接触印相等视觉样式，再写下一段属于自己的水印文字，把普通照片保存成更有收藏感的画面。 应用不会要求注册账号，也不会把你的照片上传到服务器。导入、预览、加框、水印和保存到应用内画廊都在设备本地完成。你可以随时删除应用内保存的个人照片副本，不会影响系统照片库中的原图。 适合这些场景： 给旅行照片加一层安静的展览感` 为生活记录制作统一的相框风格` 保存带边框和水印的纪念照片` 把手机里的瞬间整理成私人月光画廊` 主要功能： 从系统照片库导入图片` 多种艺术相框与纸张质感` 支持自定义水印文字` 应用内本地画廊保存` 一键保存成品到系统照片库` 内置原创样片用于展示风格` 无账号、无广告、无第三方追踪` Luna Gallery 不追求复杂修图，而是专注于照片与画框之间的留白、质感和秩序。愿你保存的不只是照片，也是不想被匆忙带走的片刻。",
+    "fullDescription": "Luna Gallery 是一款为日常照片设计的本地艺术相框应用。 你可以从系统照片库选择图片，添加法式卡纸、宝丽来、木质画框、胶片接触印相等视觉样式，再写下一段属于自己的水印文字，把普通照片保存成更有收藏感的画面。 应用不会要求注册账号，也不会把你的照片上传到服务器。导入、预览、加框、水印和保存到应用内画廊都在设备本地完成。你可以随时删除应用内保存的个人照片副本，不会影响系统照片库中的原图。 适合这些场景： 给旅行照片加一层安静的展览感` 为生活记录制作统一的相框风格` 保存带边框和水印的纪念照片` 把手机里的瞬间整理成私人月光画廊` 主要功能： 从系统照片库导入图片` 多种艺术相框与纸张质感` 支持自定义水印文字` 应用内本地画廊保存` 一键保存成品到系统照片库` 内置原创样片用于展示风格` 无账号、无广告、无第三方追踪` Luna Gallery 不追求复杂修图，而是专注于照片与画框之间的留白、质感和秩序。愿你保存的不只是照片，也是不想被匆忙带走的片刻。",
+    "summaryDescription": "Luna Gallery 是一款为日常照片设计的本地艺术相框应用。 你可以从系统照片库选择图片，添加法式卡纸、宝丽来、木质画框、胶片接触印相等视觉样式，再写下一段属于自己的水印文字，把普通照片保存成更有收藏感的画面。 应用不会要求注册账号，也不会把你的照片上传到服务器。导入、预览、加框、水印和保存到应用内画廊都在设备本地完成。你可以随时删除应用内保存的个人照片副本，不会影响系统照片库中的原图。 适合这些场景： 给旅行照片加一层安静的展览感` 为生活记录制作统一的相框风格` 保存带边框和水印的纪念照片` 把手机里的瞬间整理成私人月光画廊` 主要功能： 从系统照片库导入图片` 多种艺术相框与纸张质感` 支持自定义水印文字` 应用内本地画廊保存` 一键保存成品到系统照片库` 内置原创样片用于展示风格` 无账号、无广告、无第三方追踪` Luna Gallery 不追求复杂修图，而是专注于照片与画框之间的留白、质感和秩序。愿你保存的不只是照片，也是不想被匆忙带走的片刻。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/e8/fa/a0e8fa1c-aba4-3ecf-fd8a-7fcae95f7761/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/e8/fa/a0e8fa1c-aba4-3ecf-fd8a-7fcae95f7761/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "德鑫 徐",
+    "artistName": "德鑫 徐",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/5f/a8/6a5fa8eb-e00f-ec19-1c0b-4cc1d2175b10/1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/91/a0/7891a0ec-2d5e-f113-7aec-867fa47f5f79/2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/b5/36/38b536c2-1bb3-7cff-67ef-848abbfe958e/3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/00/c8/2300c8ac-1fed-8e57-64e5-c5aaae93b1d1/4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/85/3b/49853b04-e2b3-27c4-de19-cf57309aa50c/5.jpg/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784454597718
+  },
+  "6775221338": {
+    "name": "钢琴和弦-PianoChord",
+    "trackName": "钢琴和弦-PianoChord",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784454641650,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E9%92%A2%E7%90%B4%E5%92%8C%E5%BC%A6-pianochord/id6775221338?uo=4",
+    "description": "想学和弦，却被乐理书劝退？《钢琴和弦》把查、听、练、记放在手机里：336 种和弦、156 条音阶、29 篇乐理文章，零基础也能按图索骥。全部数据离线可用，地铁上、琴房边，点开就查、点键就听。 【和弦音阶库】 336 和弦 + 156 音阶，12 调根音筛选，大三/小三/七和弦/延伸音/挂留等分类 详情页：组成音、级数、适用场景、乐理说明、速记曲线 柱式 / 分解试听，收藏与最近查看 【和弦反查】 在键盘上点选音符，自动匹配和弦名称与结构 基础和弦、转位、延伸音等结果一览，一键进详情 【调内和弦 · 和弦进行】 12 调 × 大/小调 × 三/七和弦，I–VII 顺阶一览 进行列表可新建/编辑，预设 I–V–vi–IV、ii–V–I 等常用模板 瀑布可视化播放进行，直观感受和声走向 【转位与 Voicing】 原位 / 转位切换，Drop2 / Drop3 等排列 试听对比不同 voicing 的音响差异 【节拍器】 BPM 调节、拍号与重音设置，练指法与节奏 【乐理知识】 29 篇文章，5 大分类：基础常识、和弦理论、音阶理论、弹奏技巧、常见纠错 可展开阅读，配合库内查询加深理解 【多语言】 界面 11 种语言：简中、英、日、韩、德、法、西、葡、俄、阿、印尼 和弦说明与乐理文章随系统语言切换（简中/多语内容，缺失回退英文） 【贴心设计】 深色极简界面，琴键示意图高亮按位 无需注册；收藏、进行等数据存本机 从第一个大三和弦开始，把乐理查清楚、听明白。下载《钢琴和弦》，今天就把 C 和弦弹稳。 隐私政策：https://cy.xyysh.top/privacy/pianochord 用户协议：https://cy.xyysh.top/terms/pianochord",
+    "fullDescription": "想学和弦，却被乐理书劝退？《钢琴和弦》把查、听、练、记放在手机里：336 种和弦、156 条音阶、29 篇乐理文章，零基础也能按图索骥。全部数据离线可用，地铁上、琴房边，点开就查、点键就听。 【和弦音阶库】 336 和弦 + 156 音阶，12 调根音筛选，大三/小三/七和弦/延伸音/挂留等分类 详情页：组成音、级数、适用场景、乐理说明、速记曲线 柱式 / 分解试听，收藏与最近查看 【和弦反查】 在键盘上点选音符，自动匹配和弦名称与结构 基础和弦、转位、延伸音等结果一览，一键进详情 【调内和弦 · 和弦进行】 12 调 × 大/小调 × 三/七和弦，I–VII 顺阶一览 进行列表可新建/编辑，预设 I–V–vi–IV、ii–V–I 等常用模板 瀑布可视化播放进行，直观感受和声走向 【转位与 Voicing】 原位 / 转位切换，Drop2 / Drop3 等排列 试听对比不同 voicing 的音响差异 【节拍器】 BPM 调节、拍号与重音设置，练指法与节奏 【乐理知识】 29 篇文章，5 大分类：基础常识、和弦理论、音阶理论、弹奏技巧、常见纠错 可展开阅读，配合库内查询加深理解 【多语言】 界面 11 种语言：简中、英、日、韩、德、法、西、葡、俄、阿、印尼 和弦说明与乐理文章随系统语言切换（简中/多语内容，缺失回退英文） 【贴心设计】 深色极简界面，琴键示意图高亮按位 无需注册；收藏、进行等数据存本机 从第一个大三和弦开始，把乐理查清楚、听明白。下载《钢琴和弦》，今天就把 C 和弦弹稳。 隐私政策：https://cy.xyysh.top/privacy/pianochord 用户协议：https://cy.xyysh.top/terms/pianochord",
+    "summaryDescription": "想学和弦，却被乐理书劝退？《钢琴和弦》把查、听、练、记放在手机里：336 种和弦、156 条音阶、29 篇乐理文章，零基础也能按图索骥。全部数据离线可用，地铁上、琴房边，点开就查、点键就听。 【和弦音阶库】 336 和弦 + 156 音阶，12 调根音筛选，大三/小三/七和弦/延伸音/挂留等分类 详情页：组成音、级数、适用场景、乐理说明、速记曲线 柱式 / 分解试听，收藏与最近查看 【和弦反查】 在键盘上点选音符，自动匹配和弦名称与结构 基础和弦、转位、延伸音等结果一览，一键进详情 【调内和弦 · 和弦进行】 12 调 × 大/小调 × 三/七和弦，I–VII 顺阶一览 进行列表可新建/编辑，预设 I–V–vi–IV、ii–V–I 等常用模板 瀑布可视化播放进行，直观感受和声走向 【转位与 Voicing】 原位 / 转位切换，Drop2 / Drop3 等排列 试听对比不同 voicing 的音响差异 【节拍器】 BPM 调节、拍号与重音设置，练指法与节奏 【乐理知识】 29 篇文章，5 大分类：基础常识、和弦理论、音阶理论、弹奏技巧、常见纠错 可展开阅读，配合库内查询加深理解 【多语言】 界面 11 种语言：简中、英、日、韩、德、法、西、葡、俄、阿、印尼 和弦说明与乐理文章随系统语言切换（简中/多语内容，缺失回退英文） 【贴心设计】 深色极简界面，琴键示意图高亮按位 无需注册；收藏、进行等数据存本机 从第一个大三和弦开始，把乐理查清楚、听明白。下载《钢琴和弦》，今天就把 C 和弦弹稳。 隐私政策：https://cy.xyysh.top/privacy/pianochord 用户协议：https://cy.xyysh.top/terms/pianochord",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/6c/a1/446ca1a8-0709-a348-272a-862dea4611c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/6c/a1/446ca1a8-0709-a348-272a-862dea4611c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "紫红 李",
+    "artistName": "紫红 李",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/c7/cd/d1c7cd91-cb71-d6aa-919d-9893b1ee47ff/05.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/3a/da/3d3ada4a-00e6-02a3-521c-ad4214538cf9/04.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/37/37/90373755-73e7-1152-4619-657d2b67d10c/03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/07/36/3a07369e-3f03-5abe-b489-ac0d6a545bdd/08.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/6e/76/e16e761f-273c-b126-db49-b48e26ba8cc3/02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/7c/cc/147ccc7d-7ed4-9d28-fd4d-7c6d5d054d5a/01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/ac/3c/93ac3cf6-5bf4-0511-6fc0-9b78c1528998/06.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/17/11/73171197-f26a-8dca-8e5a-47f80f08b69c/07.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/3e/e2/d23ee258-d72c-9860-902e-8fc1eff1d16c/06.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/ba/85/53ba85bf-8064-48a0-4fb9-c05eab45e66e/02.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/a4/8e/62a48e7e-fea1-70fd-490d-d838048ff17f/03.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/02/1e/b8021e6e-39fd-9e2c-f761-9e4694835b89/04.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/39/86/3c39865a-422e-6247-d6c2-b106e630d5c5/05.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/c7/a3/2fc7a323-eca8-8452-978e-4c53d03d8973/07.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/c5/c3/b3c5c30c-b0b3-3364-93d6-04b0ccfdcd07/08.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a2/8e/6ca28e27-a8f8-c626-ac35-b78081d4a876/01.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784454600370
+  },
+  "6751185069": {
+    "name": "快眠：解决失眠",
+    "trackName": "快眠：解决失眠",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784454641650,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%BF%AB%E7%9C%A0-%E8%A7%A3%E5%86%B3%E5%A4%B1%E7%9C%A0/id6751185069?uo=4",
+    "description": "从今晚开始，享受更安稳的睡眠。 本应用通过科学验证的简单习惯与日常作息，帮助您缓解失眠，获得稳定的睡眠体验，无需复杂功能。 主要功能 基于CBT-I的建议：提供简短实用的提示，涵盖睡眠卫生、规律作息、刺激控制等经过验证的睡眠原则。 睡眠日记与洞察：记录就寝时间、起床时间、夜间醒来情况与心情，帮助您发现睡眠模式与改进点。 夜间急救模式：当您半夜醒来时，提供专门设计的流程，帮助重新入睡。 智能提醒：贴心提醒，支持就寝准备与规律睡眠习惯。 温和唤醒：逐渐响起的闹钟与晨间签到，让您平静开启新的一天。 极简设计：简洁直观的界面，人人都能轻松使用。 预期效果 更快入睡，更深层恢复性的睡眠 减少看钟与焦虑性辗转反侧 简单、可持续的日常睡眠习惯 适合人群 入睡困难或夜间频繁醒来的人 因繁忙日程、时差或不规律睡眠而困扰的人 希望建立稳定睡眠习惯的人 提示：本应用旨在支持睡眠习惯改善，并非医疗器械，不能替代专业诊疗。如失眠持续或加重，请咨询专业人士。 隐私政策: https://best-friend-7a1.notion.site/Privacy-Policy-2535ee0f842981ef829cf160e10901ba?source=copy_link 服务条款: https://best-friend-7a1.notion.site/Terms-of-Service-2535ee0f842981be85c2f35552d95979?source=copy_link",
+    "fullDescription": "从今晚开始，享受更安稳的睡眠。 本应用通过科学验证的简单习惯与日常作息，帮助您缓解失眠，获得稳定的睡眠体验，无需复杂功能。 主要功能 基于CBT-I的建议：提供简短实用的提示，涵盖睡眠卫生、规律作息、刺激控制等经过验证的睡眠原则。 睡眠日记与洞察：记录就寝时间、起床时间、夜间醒来情况与心情，帮助您发现睡眠模式与改进点。 夜间急救模式：当您半夜醒来时，提供专门设计的流程，帮助重新入睡。 智能提醒：贴心提醒，支持就寝准备与规律睡眠习惯。 温和唤醒：逐渐响起的闹钟与晨间签到，让您平静开启新的一天。 极简设计：简洁直观的界面，人人都能轻松使用。 预期效果 更快入睡，更深层恢复性的睡眠 减少看钟与焦虑性辗转反侧 简单、可持续的日常睡眠习惯 适合人群 入睡困难或夜间频繁醒来的人 因繁忙日程、时差或不规律睡眠而困扰的人 希望建立稳定睡眠习惯的人 提示：本应用旨在支持睡眠习惯改善，并非医疗器械，不能替代专业诊疗。如失眠持续或加重，请咨询专业人士。 隐私政策: https://best-friend-7a1.notion.site/Privacy-Policy-2535ee0f842981ef829cf160e10901ba?source=copy_link 服务条款: https://best-friend-7a1.notion.site/Terms-of-Service-2535ee0f842981be85c2f35552d95979?source=copy_link",
+    "summaryDescription": "从今晚开始，享受更安稳的睡眠。 本应用通过科学验证的简单习惯与日常作息，帮助您缓解失眠，获得稳定的睡眠体验，无需复杂功能。 主要功能 基于CBT-I的建议：提供简短实用的提示，涵盖睡眠卫生、规律作息、刺激控制等经过验证的睡眠原则。 睡眠日记与洞察：记录就寝时间、起床时间、夜间醒来情况与心情，帮助您发现睡眠模式与改进点。 夜间急救模式：当您半夜醒来时，提供专门设计的流程，帮助重新入睡。 智能提醒：贴心提醒，支持就寝准备与规律睡眠习惯。 温和唤醒：逐渐响起的闹钟与晨间签到，让您平静开启新的一天。 极简设计：简洁直观的界面，人人都能轻松使用。 预期效果 更快入睡，更深层恢复性的睡眠 减少看钟与焦虑性辗转反侧 简单、可持续的日常睡眠习惯 适合人群 入睡困难或夜间频繁醒来的人 因繁忙日程、时差或不规律睡眠而困扰的人 希望建立稳定睡眠习惯的人 提示：本应用旨在支持睡眠习惯改善，并非医疗器械，不能替代专业诊疗。如失眠持续或加重，请咨询专业人士。 隐私政策: https://best-friend-7a1.notion.site/Privacy-Policy-2535ee0f842981ef829cf160e10901ba?source=copy_link 服务条款: https://best-friend-7a1.notion.site/Terms-of-Service-2535ee0f842981be85c2f35552d95979?source=copy_link",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/b4/df/0ab4df96-814d-6cbf-3a74-a475ecfb7d51/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/b4/df/0ab4df96-814d-6cbf-3a74-a475ecfb7d51/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+    "sellerName": "won choi",
+    "artistName": "won choi",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/c2/97/b3c297c9-f418-0f6a-bca1-e44d6018ca50/iPhone-zh-2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/18/e5/e518e55b-e76d-b7b3-7408-dd98c98d6681/iPhone-zh-3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/b3/96/2eb3960c-99c0-88f0-070d-f797097d706b/iPhone-zh-1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/12/c4/1912c403-9a86-deb9-edae-7d9b559ecd02/iPhone-zh-0.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/86/fb/0c86fbc8-d33d-19ec-74ea-da24703914ad/iPad-en-1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/a7/c3/d4a7c3eb-8c36-4ea9-d5a2-51944143d2a3/iPad-en-2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/74/b7/2a74b7ec-3337-ef0d-adde-10f780713782/iPad-en-3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/c5/c8/41c5c856-ad99-4625-2ef4-7491ff1c6a86/iPad-en-4.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784454602979
+  },
+  "6776704119": {
+    "name": "NotchForge: 耳鸣缓解与凹槽技术",
+    "trackName": "NotchForge: 耳鸣缓解与凹槽技术",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784454641650,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/notchforge-%E8%80%B3%E9%B8%A3%E7%BC%93%E8%A7%A3%E4%B8%8E%E5%87%B9%E6%A7%BD%E6%8A%80%E6%9C%AF/id6776704119?uo=4",
+    "description": "借助精密的声学工程，缓解持续耳鸣的困扰。NotchForge是专为耳鸣习惯化和缓解焦虑而设计的个性化声学康复助手，100%完全离线运行，严密守护您的健康隐私。 凹槽噪音技术（Notched Noise）是针对稳定单音耳鸣的循证康复方案。通过播放滤除了您精准耳鸣频率的白噪音、粉红噪音、棕色噪音或自然环境声，NotchForge 利用“侧方抑制”机制激活周围健康的听觉神经，从而平息大脑中引起耳鸣的异常活跃区域。 NotchForge 专为夜间使用设计了高对比度暗黑界面与流畅微交互，以确保舒缓而温和的使用体验。 核心功能： 精密声学凹槽技术 量身定制您的声波调理。在 125 Hz 至 20,000 Hz 之间调整滑块，精确匹配您的耳鸣音调。选择背景噪音后，系统将瞬间应用带阻滤波器滤除该频段。 自然环境音混音器 创造最适合放松的音境。可将调理用的凹槽噪音（图层 1）与最多两种自然声（图层 2 & 3，如海浪、细雨、微风）混合播放。 双凹槽同时调理 针对双耳耳鸣频率不同的使用者。支持配置主、副两个中心频率，同时缓解双耳的耳鸣。 每日不适度日记 在每次听音前后，以 1 至 10 的刻度记录您的耳鸣困扰程度。通过 30 天 or 90 天的不适度演变曲线，直观掌握习惯化进度。 PDF 健康报告导出 一键导出排版规范、结构清晰的 PDF 健康报告。报告包含您的聆听时间统计、连续天数及困扰程度演变，方便在面诊听力师或耳鼻喉科（ENT）医生时提供数据参考。 渐干式睡眠定时器 安心伴音入眠。可设定 5 分钟至 8 小时的定时器，在播放结束前音量会极缓下降直至静音，避免惊醒并保护听觉。 听觉安全卫士 当音量水平超过安全阈值时，系统会立即给予视觉警示，帮助您保持健康的用耳习惯。 100% 离线与绝对隐私 您的健康数据完全属于您。NotchForge 无需注册，不使用 any 第三方分析追踪代码，零网络数据交换。所有数据均安全保存在您的本地设备上。 重要声明：NotchForge 并非进度设备。本软件为通用舒缓及耳鸣顺应辅助工具。若有听力下降或其他耳部疾病，请及时前往医院耳鼻喉科面诊专业医生。",
+    "fullDescription": "借助精密的声学工程，缓解持续耳鸣的困扰。NotchForge是专为耳鸣习惯化和缓解焦虑而设计的个性化声学康复助手，100%完全离线运行，严密守护您的健康隐私。 凹槽噪音技术（Notched Noise）是针对稳定单音耳鸣的循证康复方案。通过播放滤除了您精准耳鸣频率的白噪音、粉红噪音、棕色噪音或自然环境声，NotchForge 利用“侧方抑制”机制激活周围健康的听觉神经，从而平息大脑中引起耳鸣的异常活跃区域。 NotchForge 专为夜间使用设计了高对比度暗黑界面与流畅微交互，以确保舒缓而温和的使用体验。 核心功能： 精密声学凹槽技术 量身定制您的声波调理。在 125 Hz 至 20,000 Hz 之间调整滑块，精确匹配您的耳鸣音调。选择背景噪音后，系统将瞬间应用带阻滤波器滤除该频段。 自然环境音混音器 创造最适合放松的音境。可将调理用的凹槽噪音（图层 1）与最多两种自然声（图层 2 & 3，如海浪、细雨、微风）混合播放。 双凹槽同时调理 针对双耳耳鸣频率不同的使用者。支持配置主、副两个中心频率，同时缓解双耳的耳鸣。 每日不适度日记 在每次听音前后，以 1 至 10 的刻度记录您的耳鸣困扰程度。通过 30 天 or 90 天的不适度演变曲线，直观掌握习惯化进度。 PDF 健康报告导出 一键导出排版规范、结构清晰的 PDF 健康报告。报告包含您的聆听时间统计、连续天数及困扰程度演变，方便在面诊听力师或耳鼻喉科（ENT）医生时提供数据参考。 渐干式睡眠定时器 安心伴音入眠。可设定 5 分钟至 8 小时的定时器，在播放结束前音量会极缓下降直至静音，避免惊醒并保护听觉。 听觉安全卫士 当音量水平超过安全阈值时，系统会立即给予视觉警示，帮助您保持健康的用耳习惯。 100% 离线与绝对隐私 您的健康数据完全属于您。NotchForge 无需注册，不使用 any 第三方分析追踪代码，零网络数据交换。所有数据均安全保存在您的本地设备上。 重要声明：NotchForge 并非进度设备。本软件为通用舒缓及耳鸣顺应辅助工具。若有听力下降或其他耳部疾病，请及时前往医院耳鼻喉科面诊专业医生。",
+    "summaryDescription": "借助精密的声学工程，缓解持续耳鸣的困扰。NotchForge是专为耳鸣习惯化和缓解焦虑而设计的个性化声学康复助手，100%完全离线运行，严密守护您的健康隐私。 凹槽噪音技术（Notched Noise）是针对稳定单音耳鸣的循证康复方案。通过播放滤除了您精准耳鸣频率的白噪音、粉红噪音、棕色噪音或自然环境声，NotchForge 利用“侧方抑制”机制激活周围健康的听觉神经，从而平息大脑中引起耳鸣的异常活跃区域。 NotchForge 专为夜间使用设计了高对比度暗黑界面与流畅微交互，以确保舒缓而温和的使用体验。 核心功能： 精密声学凹槽技术 量身定制您的声波调理。在 125 Hz 至 20,000 Hz 之间调整滑块，精确匹配您的耳鸣音调。选择背景噪音后，系统将瞬间应用带阻滤波器滤除该频段。 自然环境音混音器 创造最适合放松的音境。可将调理用的凹槽噪音（图层 1）与最多两种自然声（图层 2 & 3，如海浪、细雨、微风）混合播放。 双凹槽同时调理 针对双耳耳鸣频率不同的使用者。支持配置主、副两个中心频率，同时缓解双耳的耳鸣。 每日不适度日记 在每次听音前后，以 1 至 10 的刻度记录您的耳鸣困扰程度。通过 30 天 or 90 天的不适度演变曲线，直观掌握习惯化进度。 PDF 健康报告导出 一键导出排版规范、结构清晰的 PDF 健康报告。报告包含您的聆听时间统计、连续天数及困扰程度演变，方便在面诊听力师或耳鼻喉科（ENT）医生时提供数据参考。 渐干式睡眠定时器 安心伴音入眠。可设定 5 分钟至 8 小时的定时器，在播放结束前音量会极缓下降直至静音，避免惊醒并保护听觉。 听觉安全卫士 当音量水平超过安全阈值时，系统会立即给予视觉警示，帮助您保持健康的用耳习惯。 100% 离线与绝对隐私 您的健康数据完全属于您。NotchForge 无需注册，不使用 any 第三方分析追踪代码，零网络数据交换。所有数据均安全保存在您的本地设备上。 重要声明：NotchForge 并非进度设备。本软件为通用舒缓及耳鸣顺应辅助工具。若有听力下降或其他耳部疾病，请及时前往医院耳鼻喉科面诊专业医生。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/60/70/97607071-dab1-88a5-b3be-539f823ebc53/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/60/70/97607071-dab1-88a5-b3be-539f823ebc53/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "TRIMECH Dhaker",
+    "artistName": "TRIMECH Dhaker",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/f3/41/baf341be-10e1-1937-2a35-1e2a3a843bd6/iPhone_16_Pro_Max-01_hero.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/9b/6e/fa9b6e02-3b50-a3bc-ce8d-a8f89bb7bc53/iPhone_16_Pro_Max-02_mixer.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/eb/e9/63ebe9df-85bc-65c2-aace-e2a05ede329e/iPhone_16_Pro_Max-03_journal.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/2b/a7/082ba796-8f81-0d6a-aa32-c678e2fdd2b5/iPhone_16_Pro_Max-04_science.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/26/d9/4e26d979-ab13-4f0a-cc33-3a00a27ee8f1/iPhone_16_Pro_Max-05_settings.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/5d/2a/115d2a41-8cb4-e5ae-e3cb-45107caf6718/iPhone_16_Pro_Max-06_doctor.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784454602979
+  },
   "6444507987": {
     "name": "EnTest:English Vocabulary Test",
     "trackName": "EnTest:English Vocabulary Test",
@@ -6185,6 +6656,14 @@
     "history": [
       [
         {
+          "timestamp": 1788885831302,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788281146708,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -6944,14 +7423,22 @@
     "name": "Mossca 无损音乐播放器",
     "trackName": "Mossca 无损音乐播放器",
     "maxPriceInfo": {
-      "price": 68,
-      "formattedPrice": "¥68.00"
+      "price": 98,
+      "formattedPrice": "¥98.00"
     },
     "minPriceInfo": {
       "price": 58,
       "formattedPrice": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786546451788,
@@ -8983,6 +9470,14 @@
     "history": [
       [
         {
+          "timestamp": 1788885831302,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788101754035,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -9037,9 +9532,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/handwritten-quick-notes/id6760898657?uo=4",
-    "description": "Handwritten Quick Notes - Write Naturally, Save Digitally Turn your ideas into beautiful handwritten notes with the comfort of digital convenience. Handwritten Quick Notes lets you create natural-looking handwritten content or instantly convert typed text into handwriting-perfect for study, work, and everyday planning. Whether you’re a student, professional, or creative thinker, this app helps you capture thoughts in a way that feels personal and authentic-just like writing on paper. Key Features Write Naturally Smooth and distraction-free handwriting experience Feels like writing on real paper Perfect for quick notes, journaling, and ideas Text to Handwriting Convert typed text into realistic handwritten notes Multiple handwriting styles for a natural look Great for assignments, notes, and aesthetic content Smart & Simple Preview notes before saving Organize notes for quick and easy access Minimal, clean interface for better focus Export & Share Save notes as images Easy to share across apps Create clean, printable handwritten notes Privacy policy: https://digitalhole.github.io/Handwritten%20Digital%20Notes.html Standard Apple Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "fullDescription": "Handwritten Quick Notes - Write Naturally, Save Digitally Turn your ideas into beautiful handwritten notes with the comfort of digital convenience. Handwritten Quick Notes lets you create natural-looking handwritten content or instantly convert typed text into handwriting-perfect for study, work, and everyday planning. Whether you’re a student, professional, or creative thinker, this app helps you capture thoughts in a way that feels personal and authentic-just like writing on paper. Key Features Write Naturally Smooth and distraction-free handwriting experience Feels like writing on real paper Perfect for quick notes, journaling, and ideas Text to Handwriting Convert typed text into realistic handwritten notes Multiple handwriting styles for a natural look Great for assignments, notes, and aesthetic content Smart & Simple Preview notes before saving Organize notes for quick and easy access Minimal, clean interface for better focus Export & Share Save notes as images Easy to share across apps Create clean, printable handwritten notes Privacy policy: https://digitalhole.github.io/Handwritten%20Digital%20Notes.html Standard Apple Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "summaryDescription": "Handwritten Quick Notes - Write Naturally, Save Digitally Turn your ideas into beautiful handwritten notes with the comfort of digital convenience. Handwritten Quick Notes lets you create natural-looking handwritten content or instantly convert typed text into handwriting-perfect for study, work, and everyday planning. Whether you’re a student, professional, or creative thinker, this app helps you capture thoughts in a way that feels personal and authentic-just like writing on paper. Key Features Write Naturally Smooth and distraction-free handwriting experience Feels like writing on real paper Perfect for quick notes, journaling, and ideas Text to Handwriting Convert typed text into realistic handwritten notes Multiple handwriting styles for a natural look Great for assignments, notes, and aesthetic content Smart & Simple Preview notes before saving Organize notes for quick and easy access Minimal, clean interface for better focus Export & Share Save notes as images Easy to share across apps Create clean, printable handwritten notes Privacy policy: https://digitalhole.github.io/Handwritten%20Digital%20Notes.html Standard Apple Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "description": "手写快速笔记 - 自然书写，以数字方式保存 将您的想法转化为精美的手写笔记，并享受数字便利的舒适感。手写快速笔记可让您创建外观自然的手写内容或立即将键入的文本转换为手写内容，非常适合学习、工作和日常计划。无论您是学生、专业人士还是创意思想家，此应用程序都可以帮助您以个性化和真实的方式捕捉想法，就像在纸上书写一样。主要功能 自然书写 流畅、无干扰的手写体验 感觉就像在真正的纸上书写一样",
+    "fullDescription": "手写快速笔记 - 自然书写，以数字方式保存 将您的想法转化为精美的手写笔记，并享受数字便利的舒适感。手写快速笔记可让您创建外观自然的手写内容或立即将键入的文本转换为手写内容，非常适合学习、工作和日常计划。无论您是学生、专业人士还是创意思想家，此应用程序都可以帮助您以个性化和真实的方式捕捉想法，就像在纸上书写一样。主要功能 自然书写 流畅、无干扰的手写体验 感觉就像在真正的纸上书写一样",
+    "summaryDescription": "手写快速笔记 - 自然书写，以数字方式保存 将您的想法转化为精美的手写笔记，并享受数字便利的舒适感。手写快速笔记可让您创建外观自然的手写内容或立即将键入的文本转换为手写内容，非常适合学习、工作和日常计划。无论您是学生、专业人士还是创意思想家，此应用程序都可以帮助您以个性化和真实的方式捕捉想法，就像在纸上书写一样。主要功能 自然书写 流畅、无干扰的手写体验 感觉就像在真正的纸上书写一样",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/52/23/24522334-11ef-2d27-8182-44dc1884d141/HandWrittenIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/52/23/24522334-11ef-2d27-8182-44dc1884d141/HandWrittenIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Digital Hole Pvt. Ltd.",
@@ -15155,6 +15650,17 @@
       "Yearly Subscription": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Lifetime Access": "¥48.00",
+            "Yearly Subscription": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788842784449,
@@ -31725,8 +32231,8 @@
     "name": "晚安不急-白噪音助眠·睡眠声音",
     "trackName": "晚安不急-白噪音助眠·睡眠声音",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
+      "price": 22,
+      "formattedPrice": "¥22.00",
       "不限时收听": "¥22.00"
     },
     "minPriceInfo": {
@@ -31735,6 +32241,16 @@
       "不限时收听": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "不限时收听": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788220555218,
@@ -32456,14 +32972,22 @@
     "name": "孤岛猎神",
     "trackName": "孤岛猎神",
     "maxPriceInfo": {
-      "price": 12,
-      "formattedPrice": "¥12.00"
+      "price": 18,
+      "formattedPrice": "¥18.00"
     },
     "minPriceInfo": {
       "price": 12,
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786238902782,
@@ -33720,6 +34244,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787108231076,
@@ -36782,14 +37314,22 @@
     "name": "Fishtail",
     "trackName": "Fishtail",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
+      "price": 98,
+      "formattedPrice": "¥98.00"
     },
     "minPriceInfo": {
       "price": 38,
       "formattedPrice": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786467373984,
@@ -48189,6 +48729,18 @@
     "history": [
       [
         {
+          "timestamp": 1788885831302,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身会员": "¥88.00",
+            "月度订阅": "¥18.00",
+            "年度订阅": "¥88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788806917118,
           "price": 0,
           "formattedPrice": "免费",
@@ -48213,9 +48765,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/dbhub-%E7%BC%96%E7%BB%87%E4%BD%A0%E7%9A%84%E8%AE%B0%E5%BD%95%E6%83%B3%E6%B3%95/id6797049214?uo=4",
-    "description": "创建数据集、数据库、分页和字段，记录单词、计划、收藏、习惯、项目与生活信息。从示例/模版开始，或建立完全符合自己方式的工作空间。 自由搭建专属记录工具--- 在一个数据集中创建多个数据库，把许多有关联的想法或事项汇聚在一起的可视化带交互功能数据库集合。 使用文本、数字、日期、选项、评分、进度、公式、关系、媒体、位置、天气、笔记和绘画等字段 通过列表、卡片、时间线、日历、表单、主图详情和统计图表，从不同角度查看同一份数据 使用筛选、排序、搜索、收藏和随机浏览快速找到内容 你可以创建预设、关联和公式；使用记录模式快速录入；通过统计图表查看趋势；借助自动化和关卡模式推进目标；将图片、音频等媒体和数据一起保存。 快速记录--- 用普通记录、快速记录和记录模式适配不同场景 设置默认值、预设选项、必填规则和计算公式 为数据添加图片、视频、音频、文件与其他附件 使用连续富文本笔记，加入标题、文字样式、颜色、项目符号、缩进、分隔线和正文内图片 使用 Apple Pencil 或手指直接绘画 建立日常节奏--- 用日记、周记、月记和年记持续回顾 使用专注计时、倒计时预设、背景音频和进度记录保持节奏 通过自动化与本地通知处理重复工作 将日期内容添加到你选择的系统日历或提醒事项 融入 Apple 生态--- 桌面小组件快速查看资料集、单条记录和专注状态 通过快捷指令获取或记录数据、启动专注和运行自动化 可选的 Spotlight 索引帮助你从系统搜索未加锁的内容 DBHub Pro 可启用私有 iCloud Drive 资料库同步 隐私与数据归属--- 本机优先，无需 DBHub 账号 隐私空间支持 Face ID，资料集可使用文件加锁 隐私空间和加锁内容不会进入 Spotlight、小组件或快捷指令建议 支持 .DBHub 备份与导入，并可与 CSV、XLS、XLSX 和 JSON 交换数据 DBHub 不运营自有同步服务器；启用 iCloud 时，数据存储于你的 Apple iCloud Drive 部分高级功能需要 DBHub Pro，可选择月度、年度或一次性购买。 隐私政策：https://my.feishu.cn/docx/X8O1dlhNyoe323xXwOpcKCy2nph 服务条款：https://my.feishu.cn/docx/Qwv9dmyWcoY7aKxO8HYccjENn4b 联系我们: kuerxi@icloud.com",
-    "fullDescription": "创建数据集、数据库、分页和字段，记录单词、计划、收藏、习惯、项目与生活信息。从示例/模版开始，或建立完全符合自己方式的工作空间。 自由搭建专属记录工具--- 在一个数据集中创建多个数据库，把许多有关联的想法或事项汇聚在一起的可视化带交互功能数据库集合。 使用文本、数字、日期、选项、评分、进度、公式、关系、媒体、位置、天气、笔记和绘画等字段 通过列表、卡片、时间线、日历、表单、主图详情和统计图表，从不同角度查看同一份数据 使用筛选、排序、搜索、收藏和随机浏览快速找到内容 你可以创建预设、关联和公式；使用记录模式快速录入；通过统计图表查看趋势；借助自动化和关卡模式推进目标；将图片、音频等媒体和数据一起保存。 快速记录--- 用普通记录、快速记录和记录模式适配不同场景 设置默认值、预设选项、必填规则和计算公式 为数据添加图片、视频、音频、文件与其他附件 使用连续富文本笔记，加入标题、文字样式、颜色、项目符号、缩进、分隔线和正文内图片 使用 Apple Pencil 或手指直接绘画 建立日常节奏--- 用日记、周记、月记和年记持续回顾 使用专注计时、倒计时预设、背景音频和进度记录保持节奏 通过自动化与本地通知处理重复工作 将日期内容添加到你选择的系统日历或提醒事项 融入 Apple 生态--- 桌面小组件快速查看资料集、单条记录和专注状态 通过快捷指令获取或记录数据、启动专注和运行自动化 可选的 Spotlight 索引帮助你从系统搜索未加锁的内容 DBHub Pro 可启用私有 iCloud Drive 资料库同步 隐私与数据归属--- 本机优先，无需 DBHub 账号 隐私空间支持 Face ID，资料集可使用文件加锁 隐私空间和加锁内容不会进入 Spotlight、小组件或快捷指令建议 支持 .DBHub 备份与导入，并可与 CSV、XLS、XLSX 和 JSON 交换数据 DBHub 不运营自有同步服务器；启用 iCloud 时，数据存储于你的 Apple iCloud Drive 部分高级功能需要 DBHub Pro，可选择月度、年度或一次性购买。 隐私政策：https://my.feishu.cn/docx/X8O1dlhNyoe323xXwOpcKCy2nph 服务条款：https://my.feishu.cn/docx/Qwv9dmyWcoY7aKxO8HYccjENn4b 联系我们: kuerxi@icloud.com",
-    "summaryDescription": "创建数据集、数据库、分页和字段，记录单词、计划、收藏、习惯、项目与生活信息。从示例/模版开始，或建立完全符合自己方式的工作空间。 自由搭建专属记录工具--- 在一个数据集中创建多个数据库，把许多有关联的想法或事项汇聚在一起的可视化带交互功能数据库集合。 使用文本、数字、日期、选项、评分、进度、公式、关系、媒体、位置、天气、笔记和绘画等字段 通过列表、卡片、时间线、日历、表单、主图详情和统计图表，从不同角度查看同一份数据 使用筛选、排序、搜索、收藏和随机浏览快速找到内容 你可以创建预设、关联和公式；使用记录模式快速录入；通过统计图表查看趋势；借助自动化和关卡模式推进目标；将图片、音频等媒体和数据一起保存。 快速记录--- 用普通记录、快速记录和记录模式适配不同场景 设置默认值、预设选项、必填规则和计算公式 为数据添加图片、视频、音频、文件与其他附件 使用连续富文本笔记，加入标题、文字样式、颜色、项目符号、缩进、分隔线和正文内图片 使用 Apple Pencil 或手指直接绘画 建立日常节奏--- 用日记、周记、月记和年记持续回顾 使用专注计时、倒计时预设、背景音频和进度记录保持节奏 通过自动化与本地通知处理重复工作 将日期内容添加到你选择的系统日历或提醒事项 融入 Apple 生态--- 桌面小组件快速查看资料集、单条记录和专注状态 通过快捷指令获取或记录数据、启动专注和运行自动化 可选的 Spotlight 索引帮助你从系统搜索未加锁的内容 DBHub Pro 可启用私有 iCloud Drive 资料库同步 隐私与数据归属--- 本机优先，无需 DBHub 账号 隐私空间支持 Face ID，资料集可使用文件加锁 隐私空间和加锁内容不会进入 Spotlight、小组件或快捷指令建议 支持 .DBHub 备份与导入，并可与 CSV、XLS、XLSX 和 JSON 交换数据 DBHub 不运营自有同步服务器；启用 iCloud 时，数据存储于你的 Apple iCloud Drive 部分高级功能需要 DBHub Pro，可选择月度、年度或一次性购买。 隐私政策：https://my.feishu.cn/docx/X8O1dlhNyoe323xXwOpcKCy2nph 服务条款：https://my.feishu.cn/docx/Qwv9dmyWcoY7aKxO8HYccjENn4b 联系我们: kuerxi@icloud.com",
+    "description": "创建数据集、数据库、分页和字段，记录单词、计划、收藏、习惯、项目与生活信息。从示例/模版开始，或建立完全符合自己方式的工作空间。 自由搭建专属记录工具--- 在一个数据集中创建多个数据库，把许多有关联的想法或事项汇聚在一起的可视化带交互功能数据库集合。 使用文本、数字、日期、选项、评分、进度、公式、关系、媒体、位置、天气、笔记和绘画等字段 通过列表、卡片、时间线、日历、表单、主图详情和统计图表，从不同角度查看同一份数据 使用筛选、排序、搜索、收藏和随机浏览快速找到内容 你可以创建预设、关联和公式；使用记录模式快速录入；通过统计图表查看趋势；借助自动化和关卡模式推进目标；将图片、音频等媒体和数据一起保存。 快速记录--- 用普通记录、快速记录和记录模式适配不同场景 设置默认值、预设选项、必填规则和计算公式 为数据添加图片、视频、音频、文件与其他附件 使用连续富文本笔记，加入标题、文字样式、颜色、项目符号、缩进、分隔线和正文内图片 使用 Apple Pencil 或手指直接绘画 建立日常节奏--- 用日记、周记、月记和年记持续回顾 使用专注计时、倒计时预设、背景音频和进度记录保持节奏 通过自动化与本地通知处理重复工作 将日期内容添加到你选择的系统日历或提醒事项 融入 Apple 生态--- 桌面小组件快速查看资料集、单条记录和专注状态 通过快捷指令获取或记录数据、启动专注和运行自动化",
+    "fullDescription": "创建数据集、数据库、分页和字段，记录单词、计划、收藏、习惯、项目与生活信息。从示例/模版开始，或建立完全符合自己方式的工作空间。 自由搭建专属记录工具--- 在一个数据集中创建多个数据库，把许多有关联的想法或事项汇聚在一起的可视化带交互功能数据库集合。 使用文本、数字、日期、选项、评分、进度、公式、关系、媒体、位置、天气、笔记和绘画等字段 通过列表、卡片、时间线、日历、表单、主图详情和统计图表，从不同角度查看同一份数据 使用筛选、排序、搜索、收藏和随机浏览快速找到内容 你可以创建预设、关联和公式；使用记录模式快速录入；通过统计图表查看趋势；借助自动化和关卡模式推进目标；将图片、音频等媒体和数据一起保存。 快速记录--- 用普通记录、快速记录和记录模式适配不同场景 设置默认值、预设选项、必填规则和计算公式 为数据添加图片、视频、音频、文件与其他附件 使用连续富文本笔记，加入标题、文字样式、颜色、项目符号、缩进、分隔线和正文内图片 使用 Apple Pencil 或手指直接绘画 建立日常节奏--- 用日记、周记、月记和年记持续回顾 使用专注计时、倒计时预设、背景音频和进度记录保持节奏 通过自动化与本地通知处理重复工作 将日期内容添加到你选择的系统日历或提醒事项 融入 Apple 生态--- 桌面小组件快速查看资料集、单条记录和专注状态 通过快捷指令获取或记录数据、启动专注和运行自动化",
+    "summaryDescription": "创建数据集、数据库、分页和字段，记录单词、计划、收藏、习惯、项目与生活信息。从示例/模版开始，或建立完全符合自己方式的工作空间。 自由搭建专属记录工具--- 在一个数据集中创建多个数据库，把许多有关联的想法或事项汇聚在一起的可视化带交互功能数据库集合。 使用文本、数字、日期、选项、评分、进度、公式、关系、媒体、位置、天气、笔记和绘画等字段 通过列表、卡片、时间线、日历、表单、主图详情和统计图表，从不同角度查看同一份数据 使用筛选、排序、搜索、收藏和随机浏览快速找到内容 你可以创建预设、关联和公式；使用记录模式快速录入；通过统计图表查看趋势；借助自动化和关卡模式推进目标；将图片、音频等媒体和数据一起保存。 快速记录--- 用普通记录、快速记录和记录模式适配不同场景 设置默认值、预设选项、必填规则和计算公式 为数据添加图片、视频、音频、文件与其他附件 使用连续富文本笔记，加入标题、文字样式、颜色、项目符号、缩进、分隔线和正文内图片 使用 Apple Pencil 或手指直接绘画 建立日常节奏--- 用日记、周记、月记和年记持续回顾 使用专注计时、倒计时预设、背景音频和进度记录保持节奏 通过自动化与本地通知处理重复工作 将日期内容添加到你选择的系统日历或提醒事项 融入 Apple 生态--- 桌面小组件快速查看资料集、单条记录和专注状态 通过快捷指令获取或记录数据、启动专注和运行自动化",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/6a/60/e36a60a5-7801-3206-119f-fe3273ecad42/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/6a/60/e36a60a5-7801-3206-119f-fe3273ecad42/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "江 杨",
@@ -49563,8 +50115,8 @@
     "description": "Nagram 是为高频聊天用户设计的即时通讯客户端，提供简洁稳定的聊天、群组、频道、媒体分享和多设备同步体验，并加入更多本地化与效率设置。 主要功能： 更灵活的界面设置：隐藏标签栏、隐藏动态、调整底部导航显示 消息体验增强：时间戳显示秒、消息菜单自定义、贴纸尺寸调整 手势与发送偏好：对话列表横滑行为、回车发送、隐藏录音按钮 媒体与通知体验优化：图片、视频、语音、文件分享与通知处理改进 本地偏好设置：增强选项由用户自行开启或关闭 Nagram 不是 Telegram Messenger Inc. 的官方应用。请确保你已阅读并理解相关服务条款与隐私政策。",
     "fullDescription": "Nagram 是为高频聊天用户设计的即时通讯客户端，提供简洁稳定的聊天、群组、频道、媒体分享和多设备同步体验，并加入更多本地化与效率设置。 主要功能： 更灵活的界面设置：隐藏标签栏、隐藏动态、调整底部导航显示 消息体验增强：时间戳显示秒、消息菜单自定义、贴纸尺寸调整 手势与发送偏好：对话列表横滑行为、回车发送、隐藏录音按钮 媒体与通知体验优化：图片、视频、语音、文件分享与通知处理改进 本地偏好设置：增强选项由用户自行开启或关闭 Nagram 不是 Telegram Messenger Inc. 的官方应用。请确保你已阅读并理解相关服务条款与隐私政策。",
     "summaryDescription": "Nagram 是为高频聊天用户设计的即时通讯客户端，提供简洁稳定的聊天、群组、频道、媒体分享和多设备同步体验，并加入更多本地化与效率设置。 主要功能： 更灵活的界面设置：隐藏标签栏、隐藏动态、调整底部导航显示 消息体验增强：时间戳显示秒、消息菜单自定义、贴纸尺寸调整 手势与发送偏好：对话列表横滑行为、回车发送、隐藏录音按钮 媒体与通知体验优化：图片、视频、语音、文件分享与通知处理改进 本地偏好设置：增强选项由用户自行开启或关闭 Nagram 不是 Telegram Messenger Inc. 的官方应用。请确保你已阅读并理解相关服务条款与隐私政策。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/93/ed/b193ed97-6b1b-d6d5-ca0a-b42e52adfffc/NagramBuild-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/93/ed/b193ed97-6b1b-d6d5-ca0a-b42e52adfffc/NagramBuild-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/a6/25/50a625c0-587e-124d-374e-1951dab059c7/Nagram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/a6/25/50a625c0-587e-124d-374e-1951dab059c7/Nagram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Kitta Ltd",
     "artistName": "Kitta Co.",
     "screenshotUrls": [
@@ -53169,8 +53721,8 @@
     "description": "聚会不用临时找游戏，睡前不用费劲想话题。 六种手绘猫咪玩法，陪朋友热热闹闹玩一局，也陪两个人安安静静聊一会儿。谁是卧底、一夜狼人杀、猜词、德州扑克、五子棋，还有全新聊天卡「叭叭猫」。 【叭叭猫｜睡前，聊点平时没聊过的】 今天的小事、意想不到的选择，还有那些一直没聊过的想法。 选择朋友或情侣模式，正面打开一个话题，翻到背面再接着聊。中英文题库各有 5,000 对双面问题，包含破冰暖场、深度了解和趣味假设。 一台设备就能一起聊，不需要联机。不想回答？换一张就好，不必解释，也不用分输赢。 【卧底猫｜说得太少可疑，说得太多露馅】 轮流描述手里的词，听出别人话里的不同，再投票找出卧底。刚认识的朋友，也能从一句描述开始接上话。 【一夜狼｜这次，主持人也能一起玩】 夜晚悄悄行动，天亮认真推理。系统引导身份行动、发言和投票，不用专门留一个人在场外主持，把解释和怀疑都留给同桌的朋友。 【猜词猫｜给朋友出个词，看他什么时候猜到】 互相写词，轮流提问，一点点接近答案。饭桌等上菜、朋友小聚时，把共同知道的人和事变成这一局的笑点。 【五子猫｜两个人，也能认真较量】 用黑白猫爪下一局五子棋，看谁先连成五子。棋盘随落子向边缘扩展，还能和 NPC 对弈，一个人也可以练练手。 【德州猫｜看牌认真，表情要稳】 猫咪主题的德州扑克式对局，系统处理发牌、公共牌和积分结算。跟上、加鱼，还是及时退出？人手不足时，也能加入 N",
     "fullDescription": "聚会不用临时找游戏，睡前不用费劲想话题。 六种手绘猫咪玩法，陪朋友热热闹闹玩一局，也陪两个人安安静静聊一会儿。谁是卧底、一夜狼人杀、猜词、德州扑克、五子棋，还有全新聊天卡「叭叭猫」。 【叭叭猫｜睡前，聊点平时没聊过的】 今天的小事、意想不到的选择，还有那些一直没聊过的想法。 选择朋友或情侣模式，正面打开一个话题，翻到背面再接着聊。中英文题库各有 5,000 对双面问题，包含破冰暖场、深度了解和趣味假设。 一台设备就能一起聊，不需要联机。不想回答？换一张就好，不必解释，也不用分输赢。 【卧底猫｜说得太少可疑，说得太多露馅】 轮流描述手里的词，听出别人话里的不同，再投票找出卧底。刚认识的朋友，也能从一句描述开始接上话。 【一夜狼｜这次，主持人也能一起玩】 夜晚悄悄行动，天亮认真推理。系统引导身份行动、发言和投票，不用专门留一个人在场外主持，把解释和怀疑都留给同桌的朋友。 【猜词猫｜给朋友出个词，看他什么时候猜到】 互相写词，轮流提问，一点点接近答案。饭桌等上菜、朋友小聚时，把共同知道的人和事变成这一局的笑点。 【五子猫｜两个人，也能认真较量】 用黑白猫爪下一局五子棋，看谁先连成五子。棋盘随落子向边缘扩展，还能和 NPC 对弈，一个人也可以练练手。 【德州猫｜看牌认真，表情要稳】 猫咪主题的德州扑克式对局，系统处理发牌、公共牌和积分结算。跟上、加鱼，还是及时退出？人手不足时，也能加入 N",
     "summaryDescription": "聚会不用临时找游戏，睡前不用费劲想话题。 六种手绘猫咪玩法，陪朋友热热闹闹玩一局，也陪两个人安安静静聊一会儿。谁是卧底、一夜狼人杀、猜词、德州扑克、五子棋，还有全新聊天卡「叭叭猫」。 【叭叭猫｜睡前，聊点平时没聊过的】 今天的小事、意想不到的选择，还有那些一直没聊过的想法。 选择朋友或情侣模式，正面打开一个话题，翻到背面再接着聊。中英文题库各有 5,000 对双面问题，包含破冰暖场、深度了解和趣味假设。 一台设备就能一起聊，不需要联机。不想回答？换一张就好，不必解释，也不用分输赢。 【卧底猫｜说得太少可疑，说得太多露馅】 轮流描述手里的词，听出别人话里的不同，再投票找出卧底。刚认识的朋友，也能从一句描述开始接上话。 【一夜狼｜这次，主持人也能一起玩】 夜晚悄悄行动，天亮认真推理。系统引导身份行动、发言和投票，不用专门留一个人在场外主持，把解释和怀疑都留给同桌的朋友。 【猜词猫｜给朋友出个词，看他什么时候猜到】 互相写词，轮流提问，一点点接近答案。饭桌等上菜、朋友小聚时，把共同知道的人和事变成这一局的笑点。 【五子猫｜两个人，也能认真较量】 用黑白猫爪下一局五子棋，看谁先连成五子。棋盘随落子向边缘扩展，还能和 NPC 对弈，一个人也可以练练手。 【德州猫｜看牌认真，表情要稳】 猫咪主题的德州扑克式对局，系统处理发牌、公共牌和积分结算。跟上、加鱼，还是及时退出？人手不足时，也能加入 N",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/4f/d1/064fd152-8f81-9f1a-c7dc-aa772d45aa95/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/4f/d1/064fd152-8f81-9f1a-c7dc-aa772d45aa95/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c9/e6/67c9e686-fc93-72e9-50a4-bc4e1da03230/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c9/e6/67c9e686-fc93-72e9-50a4-bc4e1da03230/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
     "sellerName": "加康 王",
     "artistName": "加康 王",
     "screenshotUrls": [
@@ -54391,6 +54943,14 @@
     "history": [
       [
         {
+          "timestamp": 1788885831302,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787582383099,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -55050,14 +55610,22 @@
     "name": "拾级登月 - 爬楼梯打卡",
     "trackName": "拾级登月 - 爬楼梯打卡",
     "maxPriceInfo": {
-      "price": 1,
-      "formattedPrice": "¥1.00"
+      "price": 3,
+      "formattedPrice": "¥3.00"
     },
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787480475134,
@@ -57658,21 +58226,21 @@
     "description": "厌倦了每次出门都是相同的骑行路线？VeloRand 专为骑友设计，只需设置目标骑行距离，即可从家门口或任意指定起点生成一条全新的闭环骑行路线。 智能顺风环线算法 根据实时风向自动优化路线走向：去程逆风锻炼，回程顺风轻松到家 规划界面实时显示风向与风速信息 喜欢完全随机？可随时一键关闭风向对齐 四步轻松生成 设置目标骑行距离（5–150 公里） 选择骑行模式：休闲旅行、公路车、Gravel（全地形）或安全优先 选择海拔偏好：平坦、均衡起伏或爬坡挑战 自定义偏好：避开主干道与危险路段，优先途经森林绿道与河畔小径 可选固定途经点：在地图上钉入必经打卡地 点击骰子按钮，几秒内即可生成专属闭环路线 生成后的强大功能 精确的海拔爬升曲线与坡度图表 根据个人平均骑行速度预估骑行用时 对路线不满意？轻触骰子即可重新随机生成 自定义命名并离线保存喜爱的路线 一键导出 GPX 格式路书，无缝同步至 Garmin 佳明、Wahoo、Hammerhead Karoo、行者、黑鸟及 Strava 一次买断 · 纯净无广告 · 隐私安全 无订阅费，无应用内广告，无需注册账号，数据仅保存在您的本地设备中。 告别繁琐的手动路书绘制，让每一次踩踏都充满未知的探索乐趣！",
     "fullDescription": "厌倦了每次出门都是相同的骑行路线？VeloRand 专为骑友设计，只需设置目标骑行距离，即可从家门口或任意指定起点生成一条全新的闭环骑行路线。 智能顺风环线算法 根据实时风向自动优化路线走向：去程逆风锻炼，回程顺风轻松到家 规划界面实时显示风向与风速信息 喜欢完全随机？可随时一键关闭风向对齐 四步轻松生成 设置目标骑行距离（5–150 公里） 选择骑行模式：休闲旅行、公路车、Gravel（全地形）或安全优先 选择海拔偏好：平坦、均衡起伏或爬坡挑战 自定义偏好：避开主干道与危险路段，优先途经森林绿道与河畔小径 可选固定途经点：在地图上钉入必经打卡地 点击骰子按钮，几秒内即可生成专属闭环路线 生成后的强大功能 精确的海拔爬升曲线与坡度图表 根据个人平均骑行速度预估骑行用时 对路线不满意？轻触骰子即可重新随机生成 自定义命名并离线保存喜爱的路线 一键导出 GPX 格式路书，无缝同步至 Garmin 佳明、Wahoo、Hammerhead Karoo、行者、黑鸟及 Strava 一次买断 · 纯净无广告 · 隐私安全 无订阅费，无应用内广告，无需注册账号，数据仅保存在您的本地设备中。 告别繁琐的手动路书绘制，让每一次踩踏都充满未知的探索乐趣！",
     "summaryDescription": "厌倦了每次出门都是相同的骑行路线？VeloRand 专为骑友设计，只需设置目标骑行距离，即可从家门口或任意指定起点生成一条全新的闭环骑行路线。 智能顺风环线算法 根据实时风向自动优化路线走向：去程逆风锻炼，回程顺风轻松到家 规划界面实时显示风向与风速信息 喜欢完全随机？可随时一键关闭风向对齐 四步轻松生成 设置目标骑行距离（5–150 公里） 选择骑行模式：休闲旅行、公路车、Gravel（全地形）或安全优先 选择海拔偏好：平坦、均衡起伏或爬坡挑战 自定义偏好：避开主干道与危险路段，优先途经森林绿道与河畔小径 可选固定途经点：在地图上钉入必经打卡地 点击骰子按钮，几秒内即可生成专属闭环路线 生成后的强大功能 精确的海拔爬升曲线与坡度图表 根据个人平均骑行速度预估骑行用时 对路线不满意？轻触骰子即可重新随机生成 自定义命名并离线保存喜爱的路线 一键导出 GPX 格式路书，无缝同步至 Garmin 佳明、Wahoo、Hammerhead Karoo、行者、黑鸟及 Strava 一次买断 · 纯净无广告 · 隐私安全 无订阅费，无应用内广告，无需注册账号，数据仅保存在您的本地设备中。 告别繁琐的手动路书绘制，让每一次踩踏都充满未知的探索乐趣！",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/cd/8f/69cd8f42-ac1f-0694-3f12-3d8efd601061/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/cd/8f/69cd8f42-ac1f-0694-3f12-3d8efd601061/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/2f/8e/7d2f8e52-49f0-d7f0-5748-8b2a9a6f98bb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/2f/8e/7d2f8e52-49f0-d7f0-5748-8b2a9a6f98bb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "Patrick Engels-Kolodziej",
     "artistName": "Patrick Engels-Kolodziej",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/c6/b9/46c6b91f-aa20-48cf-4321-b7e7f7ce8fd1/Apple_iPhone_16_Pro_Max_Screenshot_1.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/25/17/7e25176a-8e08-0093-3656-648e4fb68b01/Apple_iPhone_16_Pro_Max_Screenshot_2.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/10/5f/85105f4d-02f6-d0ec-bd9a-83eae237b2c3/Apple_iPhone_16_Pro_Max_Screenshot_3.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/a4/dc/c3a4dca6-67cd-32cb-2768-7dc67ad4b1b6/Apple_iPhone_16_Pro_Max_Screenshot_4.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/32/07/033207cc-2326-a16b-bde5-f6e6fc4d8774/iPhone_15_Pro_Max-01Planner.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/6d/8f/d86d8fab-80f8-ed0e-cd10-ed2287e9a9cb/iPhone_15_Pro_Max-02Route.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/84/e3/5e84e364-19b7-317d-68e7-47da3c31b530/iPhone_15_Pro_Max-03Surface.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/aa/83/7caa83c8-7cfb-7772-c73b-46220ca27586/iPhone_15_Pro_Max-04MyRoutes.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/16/f4/3b16f422-6e45-729e-ddec-fac11f569256/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-07-09_at_21.56.18.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/42/0a/f2420a83-e0f0-ba59-4e89-6cbd8d15993b/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-02Route.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/e5/86/60e58671-f327-d68e-76ee-8381dc76d18c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-07-09_at_21.56.28.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/22/24/4522246c-8066-b682-8972-d6793aa4e55e/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-07-09_at_21.56.31.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/97/d4/8297d4f4-78d5-83b9-8a63-11375d44802a/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-01Planner.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/a4/d1/daa4d1bd-970e-9cc6-5e0f-5d9df3a93af2/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-02Route.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/e3/38/59e33867-a480-f368-3cb7-301d4e9108e9/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-03Surface.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/06/de/c606de38-88b7-6ebd-1af8-a34c75d1277e/iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-04MyRoutes.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1787668942484
   },
@@ -68805,10 +69373,18 @@
       "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788458131272,
@@ -68819,9 +69395,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E6%98%9F%E9%99%85%E8%83%8C%E5%8D%95%E8%AF%8D/id6802153860?uo=4",
-    "description": "星际背单词是一款面向海外中文学习者的学术英语词汇与阅读工具。词库、文章和语音模型均随 App 提供，离线也可以完整学习。 【系统学习近 6000 个学术词汇】 根据每次评分，App 使用 SM-2 间隔复习方法安排下一次复习。内置 5,873 个固定女性音色的单词发音，点击即可播放，无需等待生成。 【每个词的完整讲解与练习】 从核心记忆、词义与语域，到简单、生活和学术例句，再延伸到搭配、构词、词族、近反义词、易混词和常见错误。每个词还配有填空、选择和改错练习，帮助你从“认识”走向“会用”。 【588 篇主题文章】 在真实语境中反复遇见目标词。阅读页提供目标词高亮、中文摘要、长难句解析、阅读理解与完形填空，也可从文章直接进入相关词卡。 【阅读也能变成听力】 本地 AI 按句群分段朗读，当前片段准备好就开始播放，同时缓存后续片段。支持调速、后台播放、锁屏及控制中心操作，让阅读素材也成为听力素材。语音全部在设备本地生成，学习内容不会上传到外部 AI 服务。 【通勤复习与跨设备同步】 列表循环播放可连续朗读单词、释义和例句。登录 iCloud 后，SM-2 学习进度、词卡练习、阅读及听力进度可同步到你自己的 CloudKit 私有数据库。没有网络或未登录 iCloud 时，本地功能不受影响。 本 App 可用于准备 PTE 等需要学术英语词汇的学习场景，但“星际背单词”是独立开发产品，并非 Pearson 或 PTE 官方产品，也未获得其赞助、认可或隶属关系。 一次购买，无广告、无订阅、无应用内购买。",
-    "fullDescription": "星际背单词是一款面向海外中文学习者的学术英语词汇与阅读工具。词库、文章和语音模型均随 App 提供，离线也可以完整学习。 【系统学习近 6000 个学术词汇】 根据每次评分，App 使用 SM-2 间隔复习方法安排下一次复习。内置 5,873 个固定女性音色的单词发音，点击即可播放，无需等待生成。 【每个词的完整讲解与练习】 从核心记忆、词义与语域，到简单、生活和学术例句，再延伸到搭配、构词、词族、近反义词、易混词和常见错误。每个词还配有填空、选择和改错练习，帮助你从“认识”走向“会用”。 【588 篇主题文章】 在真实语境中反复遇见目标词。阅读页提供目标词高亮、中文摘要、长难句解析、阅读理解与完形填空，也可从文章直接进入相关词卡。 【阅读也能变成听力】 本地 AI 按句群分段朗读，当前片段准备好就开始播放，同时缓存后续片段。支持调速、后台播放、锁屏及控制中心操作，让阅读素材也成为听力素材。语音全部在设备本地生成，学习内容不会上传到外部 AI 服务。 【通勤复习与跨设备同步】 列表循环播放可连续朗读单词、释义和例句。登录 iCloud 后，SM-2 学习进度、词卡练习、阅读及听力进度可同步到你自己的 CloudKit 私有数据库。没有网络或未登录 iCloud 时，本地功能不受影响。 本 App 可用于准备 PTE 等需要学术英语词汇的学习场景，但“星际背单词”是独立开发产品，并非 Pearson 或 PTE 官方产品，也未获得其赞助、认可或隶属关系。 一次购买，无广告、无订阅、无应用内购买。",
-    "summaryDescription": "星际背单词是一款面向海外中文学习者的学术英语词汇与阅读工具。词库、文章和语音模型均随 App 提供，离线也可以完整学习。 【系统学习近 6000 个学术词汇】 根据每次评分，App 使用 SM-2 间隔复习方法安排下一次复习。内置 5,873 个固定女性音色的单词发音，点击即可播放，无需等待生成。 【每个词的完整讲解与练习】 从核心记忆、词义与语域，到简单、生活和学术例句，再延伸到搭配、构词、词族、近反义词、易混词和常见错误。每个词还配有填空、选择和改错练习，帮助你从“认识”走向“会用”。 【588 篇主题文章】 在真实语境中反复遇见目标词。阅读页提供目标词高亮、中文摘要、长难句解析、阅读理解与完形填空，也可从文章直接进入相关词卡。 【阅读也能变成听力】 本地 AI 按句群分段朗读，当前片段准备好就开始播放，同时缓存后续片段。支持调速、后台播放、锁屏及控制中心操作，让阅读素材也成为听力素材。语音全部在设备本地生成，学习内容不会上传到外部 AI 服务。 【通勤复习与跨设备同步】 列表循环播放可连续朗读单词、释义和例句。登录 iCloud 后，SM-2 学习进度、词卡练习、阅读及听力进度可同步到你自己的 CloudKit 私有数据库。没有网络或未登录 iCloud 时，本地功能不受影响。 本 App 可用于准备 PTE 等需要学术英语词汇的学习场景，但“星际背单词”是独立开发产品，并非 Pearson 或 PTE 官方产品，也未获得其赞助、认可或隶属关系。 一次购买，无广告、无订阅、无应用内购买。",
+    "description": "星际背单词是一款面向海外中文学习者的学术英语词汇与阅读工具。词库、文章和语音模型均随 App 提供，离线也可以完整学习。 【系统学习近 6000 个学术词汇】 根据每次评分，App 使用 SM-2 间隔复习方法安排下一次复习。内置 5,873 个固定女性音色的单词发音，点击即可播放，无需等待生成。 【每个词的完整讲解与练习】 从核心记忆、词义与语域，到简单、生活和学术例句，再延伸到搭配、构词、词族、近反义词、易混词和常见错误。每个词还配有填空、选择和改错练习，帮助你从“认识”走向“会用”。 【588 篇主题文章】 在真实语境中反复遇见目标词。阅读页提供目标词高亮、中文摘要、长难句解析、阅读理解与完形填空，也可从文章直接进入相关词卡。 【阅读也能变成听力】 本地 AI 按句群分段朗读，当前片段准备好就开始播放，同时缓存后续片段。支持调速、后台播放、锁屏及控制中心操作，让阅读素材也成为听力素材。语音全部在设备本地生成，学习内容不会上传到外部 AI 服务。 【通勤复习与跨设备同步】 列表循环播放可连续朗读单词、释义和例句。登录 iCloud 后，SM-2 学习进度、词卡练习、阅读及听力进度可同步到你自己的 CloudKit 私有数据库。没有网络或未登录 iCloud 时，本地功能不受影响。 本 App 可用于准备 PTE 等需要学术英语词汇的学习场景，但“星际背单词”是独立开发产品，并非",
+    "fullDescription": "星际背单词是一款面向海外中文学习者的学术英语词汇与阅读工具。词库、文章和语音模型均随 App 提供，离线也可以完整学习。 【系统学习近 6000 个学术词汇】 根据每次评分，App 使用 SM-2 间隔复习方法安排下一次复习。内置 5,873 个固定女性音色的单词发音，点击即可播放，无需等待生成。 【每个词的完整讲解与练习】 从核心记忆、词义与语域，到简单、生活和学术例句，再延伸到搭配、构词、词族、近反义词、易混词和常见错误。每个词还配有填空、选择和改错练习，帮助你从“认识”走向“会用”。 【588 篇主题文章】 在真实语境中反复遇见目标词。阅读页提供目标词高亮、中文摘要、长难句解析、阅读理解与完形填空，也可从文章直接进入相关词卡。 【阅读也能变成听力】 本地 AI 按句群分段朗读，当前片段准备好就开始播放，同时缓存后续片段。支持调速、后台播放、锁屏及控制中心操作，让阅读素材也成为听力素材。语音全部在设备本地生成，学习内容不会上传到外部 AI 服务。 【通勤复习与跨设备同步】 列表循环播放可连续朗读单词、释义和例句。登录 iCloud 后，SM-2 学习进度、词卡练习、阅读及听力进度可同步到你自己的 CloudKit 私有数据库。没有网络或未登录 iCloud 时，本地功能不受影响。 本 App 可用于准备 PTE 等需要学术英语词汇的学习场景，但“星际背单词”是独立开发产品，并非",
+    "summaryDescription": "星际背单词是一款面向海外中文学习者的学术英语词汇与阅读工具。词库、文章和语音模型均随 App 提供，离线也可以完整学习。 【系统学习近 6000 个学术词汇】 根据每次评分，App 使用 SM-2 间隔复习方法安排下一次复习。内置 5,873 个固定女性音色的单词发音，点击即可播放，无需等待生成。 【每个词的完整讲解与练习】 从核心记忆、词义与语域，到简单、生活和学术例句，再延伸到搭配、构词、词族、近反义词、易混词和常见错误。每个词还配有填空、选择和改错练习，帮助你从“认识”走向“会用”。 【588 篇主题文章】 在真实语境中反复遇见目标词。阅读页提供目标词高亮、中文摘要、长难句解析、阅读理解与完形填空，也可从文章直接进入相关词卡。 【阅读也能变成听力】 本地 AI 按句群分段朗读，当前片段准备好就开始播放，同时缓存后续片段。支持调速、后台播放、锁屏及控制中心操作，让阅读素材也成为听力素材。语音全部在设备本地生成，学习内容不会上传到外部 AI 服务。 【通勤复习与跨设备同步】 列表循环播放可连续朗读单词、释义和例句。登录 iCloud 后，SM-2 学习进度、词卡练习、阅读及听力进度可同步到你自己的 CloudKit 私有数据库。没有网络或未登录 iCloud 时，本地功能不受影响。 本 App 可用于准备 PTE 等需要学术英语词汇的学习场景，但“星际背单词”是独立开发产品，并非",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/a1/a8/a7a1a85a-ed37-6e58-c295-5c2c3bd511b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/a1/a8/a7a1a85a-ed37-6e58-c295-5c2c3bd511b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "秉国 蔡",
@@ -69153,14 +69729,30 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "升级高级会员": "¥3.00"
+      "升级高级会员": "¥3.00",
+      "年度订阅": "¥38.00",
+      "月度订阅": "¥3.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "升级高级会员": "¥0.00"
+      "升级高级会员": "¥0.00",
+      "年度订阅": "¥38.00",
+      "月度订阅": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "升级高级会员": "¥0.00",
+            "年度订阅": "¥38.00",
+            "月度订阅": "¥3.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788842784449,
@@ -69194,8 +69786,8 @@
     "description": "Days Count 重要日子是一款把未来期待和已经走过的时光都好好记下来的日期工具。 为生日、纪念日、婚礼、考试、旅行和每一个重要节点创建倒数或正数。未来日子看还有多久，过去日子看已经走过多少天。 桌面、锁屏、待机和灵动岛让重要日子随时可见。本地提醒、重复规则、里程碑提醒和农历日期，让生日和纪念日不再错过。 用表情、颜色、照片背景和备注打造自己的日子。支持月历、时间轴、搜索、收藏、置顶、日历导入、通讯录生日导入和分享卡片。 数据优先保存在本机，可选 iCloud 同步。Face ID 或设备密码可保护私密内容。 使用条款：https://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/",
     "fullDescription": "Days Count 重要日子是一款把未来期待和已经走过的时光都好好记下来的日期工具。 为生日、纪念日、婚礼、考试、旅行和每一个重要节点创建倒数或正数。未来日子看还有多久，过去日子看已经走过多少天。 桌面、锁屏、待机和灵动岛让重要日子随时可见。本地提醒、重复规则、里程碑提醒和农历日期，让生日和纪念日不再错过。 用表情、颜色、照片背景和备注打造自己的日子。支持月历、时间轴、搜索、收藏、置顶、日历导入、通讯录生日导入和分享卡片。 数据优先保存在本机，可选 iCloud 同步。Face ID 或设备密码可保护私密内容。 使用条款：https://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/",
     "summaryDescription": "Days Count 重要日子是一款把未来期待和已经走过的时光都好好记下来的日期工具。 为生日、纪念日、婚礼、考试、旅行和每一个重要节点创建倒数或正数。未来日子看还有多久，过去日子看已经走过多少天。 桌面、锁屏、待机和灵动岛让重要日子随时可见。本地提醒、重复规则、里程碑提醒和农历日期，让生日和纪念日不再错过。 用表情、颜色、照片背景和备注打造自己的日子。支持月历、时间轴、搜索、收藏、置顶、日历导入、通讯录生日导入和分享卡片。 数据优先保存在本机，可选 iCloud 同步。Face ID 或设备密码可保护私密内容。 使用条款：https://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/f0/70/e3f070d3-c0d0-8937-9e69-a3383dd24257/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/f0/70/e3f070d3-c0d0-8937-9e69-a3383dd24257/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/fd/e5/dbfde574-1bf7-a669-6598-48c5032904ca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/fd/e5/dbfde574-1bf7-a669-6598-48c5032904ca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
     "sellerName": "友健 高",
     "artistName": "友健 高",
     "screenshotUrls": [
@@ -71114,11 +71706,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/keyjoy-mechanical-keyboard-app/id6804383248?uo=4",
-    "description": "Key Joy 是一款定制 iOS 键盘，带有机械声音包、板主题和完整的表情符号选择器。每次击键都可以发出咔嗒声、敲击声或耳语声，并具有与之相匹配的触觉效果。真实的声音 从点击声、触觉声、线性声、ASMR 声和打字机声包中进行选择。打开或关闭声音和触觉，并将音量设置为您想要的级别。按住某个键可进行印刷机预览。可以切换的主板数十种主题 - 哑光黑、雪花、樱花、木色、赛博朋克、海军蓝等等。选择经典的厚键帽或软 iOS 风格的玻璃按键。专为真实打字而打造 在消息、便笺、邮件和任何地方使用 Key Joy",
-    "fullDescription": "Key Joy 是一款定制 iOS 键盘，带有机械声音包、板主题和完整的表情符号选择器。每次击键都可以发出咔嗒声、敲击声或耳语声，并具有与之相匹配的触觉效果。真实的声音 从点击声、触觉声、线性声、ASMR 声和打字机声包中进行选择。打开或关闭声音和触觉，并将音量设置为您想要的级别。按住某个键可进行印刷机预览。可以切换的主板数十种主题 - 哑光黑、雪花、樱花、木色、赛博朋克、海军蓝等等。选择经典的厚键帽或软 iOS 风格的玻璃按键。专为真实打字而打造 在消息、便笺、邮件和任何地方使用 Key Joy",
-    "summaryDescription": "Key Joy 是一款定制 iOS 键盘，带有机械声音包、板主题和完整的表情符号选择器。每次击键都可以发出咔嗒声、敲击声或耳语声，并具有与之相匹配的触觉效果。真实的声音 从点击声、触觉声、线性声、ASMR 声和打字机声包中进行选择。打开或关闭声音和触觉，并将音量设置为您想要的级别。按住某个键可进行印刷机预览。可以切换的主板数十种主题 - 哑光黑、雪花、樱花、木色、赛博朋克、海军蓝等等。选择经典的厚键帽或软 iOS 风格的玻璃按键。专为真实打字而打造 在消息、便笺、邮件和任何地方使用 Key Joy",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/a3/e6/20a3e674-aad4-1567-8cf6-c714e250dc9f/keyjoyicn-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/a3/e6/20a3e674-aad4-1567-8cf6-c714e250dc9f/keyjoyicn-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "description": "Key Joy 是一款定制 iOS 键盘，带有机械声音包、板主题和完整的表情符号选择器。每次击键都可以发出咔嗒声、敲击声或耳语声，并具有与之相匹配的触觉效果。真实的声音 从点击声、触觉声、线性声、ASMR 声和打字机声包中进行选择。打开或关闭声音和触觉，并将音量设置为您想要的水平。按住某个键可进行印刷机预览。可以切换的主板数十种主题 - 哑光黑、雪花、樱花、木色、赛博朋克、海军蓝等等。选择经典的厚键帽或软 iOS 风格的玻璃按键。专为真实打字而打造 在消息、便笺、邮件和任何地方使用 Key Joy",
+    "fullDescription": "Key Joy 是一款定制 iOS 键盘，带有机械声音包、板主题和完整的表情符号选择器。每次击键都可以发出咔嗒声、敲击声或耳语声，并具有与之相匹配的触觉效果。真实的声音 从点击声、触觉声、线性声、ASMR 声和打字机声包中进行选择。打开或关闭声音和触觉，并将音量设置为您想要的水平。按住某个键可进行印刷机预览。可以切换的主板数十种主题 - 哑光黑、雪花、樱花、木色、赛博朋克、海军蓝等等。选择经典的厚键帽或软 iOS 风格的玻璃按键。专为真实打字而打造 在消息、便笺、邮件和任何地方使用 Key Joy",
+    "summaryDescription": "Key Joy 是一款定制 iOS 键盘，带有机械声音包、板主题和完整的表情符号选择器。每次击键都可以发出咔嗒声、敲击声或耳语声，并具有与之相匹配的触觉效果。真实的声音 从点击声、触觉声、线性声、ASMR 声和打字机声包中进行选择。打开或关闭声音和触觉，并将音量设置为您想要的水平。按住某个键可进行印刷机预览。可以切换的主板数十种主题 - 哑光黑、雪花、樱花、木色、赛博朋克、海军蓝等等。选择经典的厚键帽或软 iOS 风格的玻璃按键。专为真实打字而打造 在消息、便笺、邮件和任何地方使用 Key Joy",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/06/2b/63062b9e-5f12-f6c5-3519-5bdf92a4dc32/keyjoyicn-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/06/2b/63062b9e-5f12-f6c5-3519-5bdf92a4dc32/keyjoyicn-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Arima Jain",
     "artistName": "Arima Jain",
     "screenshotUrls": [
@@ -72356,14 +72948,22 @@
     "name": "腕温周期·睡觉测温看例假排卵月经体温曲线",
     "trackName": "腕温周期·睡觉测温看例假排卵月经体温曲线",
     "maxPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00"
+      "price": 8,
+      "formattedPrice": "¥8.00"
     },
     "minPriceInfo": {
       "price": 3,
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788692702616,
@@ -74735,7 +75335,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Freshli+ Lifetime": "¥0.00",
+      "Freshli+ Lifetime": "¥328.00",
       "Freshli+ Family": "¥58.00",
       "Freshli+ Pro Yearly": "¥298.00",
       "Freshli+ Pro Monthly": "¥38.00"
@@ -74749,6 +75349,19 @@
       "Freshli+ Pro Monthly": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Freshli+ Lifetime": "¥328.00",
+            "Freshli+ Family": "¥58.00",
+            "Freshli+ Pro Yearly": "¥298.00",
+            "Freshli+ Pro Monthly": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788842784449,
@@ -74914,7 +75527,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Printer Lifetime Pro": "¥68.00",
+      "Printer Lifetime Pro": "¥198.00",
       "Printer": "¥38.00"
     },
     "minPriceInfo": {
@@ -74924,6 +75537,17 @@
       "Printer": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Printer Lifetime Pro": "¥198.00",
+            "Printer": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788866827148,
@@ -75507,5 +76131,500 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/18/2a/a1182ae8-8bed-4275-c522-fc8f029573c5/8.jpg/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1788866801784
+  },
+  "6807461021": {
+    "name": "别刷了喵",
+    "trackName": "别刷了喵",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%88%AB%E5%88%B7%E4%BA%86%E5%96%B5/id6807461021?uo=4",
+    "description": "「别刷了喵」是一款帮你夺回时间的自律工具，专为 \"控制不住想刷手机\" 的人打造。 【核心用法：立约 → 限时 → 到点 → 复盘】 添加想要拦截的应用 ・立约：打开拦截应用，亲手写下这次使用的目的和时长； ・限时：输入的时间内应用才能正常使用； ・到点：时间一到，应用自动重新被屏蔽，不给你 \"再刷五分钟\" 的机会； ・复盘：每次结束后回顾这段时间用得值不值，让每一次使用都心中有数。 【为什么选择它】 ・强约束不靠意志力：用系统级屏蔽帮你挡住诱惑，而不是靠你自己 \"忍\"; ・想用也能用：不是一刀切禁用，而是让你 \"带着目的、有节制地用\"; ・数据看得见：清晰统计你的专注时长与使用习惯，进步一目了然； ・纯本地、更安心：所有数据只存在你的手机本地，不联网、不上传、无广告、无追踪，不收集任何个人信息。 适合学生党备考、上班族专注工作、以及每一个想减少无意义刷屏、把时间花在更重要的事情上的人。 现在就开始，和 \"刷不停\" 说再见，把时间还给真正重要的事。 【隐私政策】 https://lcn77kzi4s0c.feishu.cn/docx/QI2zdhJeIoMWpJxZAVHcaqGhnpc?from=from_copylink 【联系方式】 小红书：归归的脑花 微信：guiggg0",
+    "fullDescription": "「别刷了喵」是一款帮你夺回时间的自律工具，专为 \"控制不住想刷手机\" 的人打造。 【核心用法：立约 → 限时 → 到点 → 复盘】 添加想要拦截的应用 ・立约：打开拦截应用，亲手写下这次使用的目的和时长； ・限时：输入的时间内应用才能正常使用； ・到点：时间一到，应用自动重新被屏蔽，不给你 \"再刷五分钟\" 的机会； ・复盘：每次结束后回顾这段时间用得值不值，让每一次使用都心中有数。 【为什么选择它】 ・强约束不靠意志力：用系统级屏蔽帮你挡住诱惑，而不是靠你自己 \"忍\"; ・想用也能用：不是一刀切禁用，而是让你 \"带着目的、有节制地用\"; ・数据看得见：清晰统计你的专注时长与使用习惯，进步一目了然； ・纯本地、更安心：所有数据只存在你的手机本地，不联网、不上传、无广告、无追踪，不收集任何个人信息。 适合学生党备考、上班族专注工作、以及每一个想减少无意义刷屏、把时间花在更重要的事情上的人。 现在就开始，和 \"刷不停\" 说再见，把时间还给真正重要的事。 【隐私政策】 https://lcn77kzi4s0c.feishu.cn/docx/QI2zdhJeIoMWpJxZAVHcaqGhnpc?from=from_copylink 【联系方式】 小红书：归归的脑花 微信：guiggg0",
+    "summaryDescription": "「别刷了喵」是一款帮你夺回时间的自律工具，专为 \"控制不住想刷手机\" 的人打造。 【核心用法：立约 → 限时 → 到点 → 复盘】 添加想要拦截的应用 ・立约：打开拦截应用，亲手写下这次使用的目的和时长； ・限时：输入的时间内应用才能正常使用； ・到点：时间一到，应用自动重新被屏蔽，不给你 \"再刷五分钟\" 的机会； ・复盘：每次结束后回顾这段时间用得值不值，让每一次使用都心中有数。 【为什么选择它】 ・强约束不靠意志力：用系统级屏蔽帮你挡住诱惑，而不是靠你自己 \"忍\"; ・想用也能用：不是一刀切禁用，而是让你 \"带着目的、有节制地用\"; ・数据看得见：清晰统计你的专注时长与使用习惯，进步一目了然； ・纯本地、更安心：所有数据只存在你的手机本地，不联网、不上传、无广告、无追踪，不收集任何个人信息。 适合学生党备考、上班族专注工作、以及每一个想减少无意义刷屏、把时间花在更重要的事情上的人。 现在就开始，和 \"刷不停\" 说再见，把时间还给真正重要的事。 【隐私政策】 https://lcn77kzi4s0c.feishu.cn/docx/QI2zdhJeIoMWpJxZAVHcaqGhnpc?from=from_copylink 【联系方式】 小红书：归归的脑花 微信：guiggg0",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/e3/8e/1ee38e03-42dd-d021-45fe-19e84b079b2f/BieShuaLeIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/e3/8e/1ee38e03-42dd-d021-45fe-19e84b079b2f/BieShuaLeIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.jpg",
+    "sellerName": "海莹 沈",
+    "artistName": "海莹 沈",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/dd/e1/03dde14a-a470-ca57-62fb-423177a5705b/ios1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/b9/d3/72b9d39e-4972-19bd-08c1-24da8b3ddde2/ios2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/27/39/cc273948-53f6-6a55-fab6-6f1176d086b5/ios3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/b4/0d/33b40d4b-7879-4a24-d1ec-454ec193e0db/ios4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/50/72/ec507279-bebc-8c46-16c9-49612b38b398/ios5.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/d5/c8/7ad5c82f-78ba-c967-6a5d-09982b5ea3e3/ipad_1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/35/3c/ab353c1d-cc2b-6286-18eb-f80bde75fe5e/ipad2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/06/00/5b0600b4-6b93-41c1-10f1-0a1c04933ae8/ipad4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/39/b7/e639b71b-6a37-a05e-ecf0-bed2b4527635/ipad_4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/aa/38/aeaa3810-ec29-23cf-44f6-63e43e8248ef/ipad5.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788885790173
+  },
+  "6800616132": {
+    "name": "实时海拔表Pro - 干净清爽，无网络测量海拔",
+    "trackName": "实时海拔表Pro - 干净清爽，无网络测量海拔",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%AE%9E%E6%97%B6%E6%B5%B7%E6%8B%94%E8%A1%A8pro-%E5%B9%B2%E5%87%80%E6%B8%85%E7%88%BD-%E6%97%A0%E7%BD%91%E7%BB%9C%E6%B5%8B%E9%87%8F%E6%B5%B7%E6%8B%94/id6800616132?uo=4",
+    "description": "Realtime Pro · 你的户外口袋仪表盘（付费完整版） 基于 iPhone 的 GPS 与气压计，提供精确的海拔、坐标、气压与速度读数。 一次买断，无广告、无订阅、无账号。所有数据仅保存在本机。 ======== 主要功能 ======== 【实时读数】 海拔（米 / 英尺） 气压（mmHg / kPa / mBar / atm） 坐标、速度、真北指南针 日出日落 / 月相 【历史曲线】 1 小时 / 6 小时 / 24 小时 / 7 天 海拔与气压双曲线 【轨迹记录】 徒步 / 登山路径记录 距离、爬升、下降、平均速度 锁屏后台持续记录 导出 GPX 【气压天气趋势】 根据气压变化提示天气趋势（离线可用） 【海拔打卡相册】 水印照片自动记录位置 地图一览打卡点 6 种户外主题水印 【户外工具】 水平仪 / 坡度 方位锁定 海拔语音播报 【扩展】 主屏 / 锁屏小组件 灵动岛实时活动 Apple Watch 独立应用 ======== 为什么选 Realtime Pro ======== 一次买断，功能完整 100% 本地数据，不上传云端 无广告、无订阅、无内购打扰 中英双语 支持 iPhone、Apple Watch、小组件 适合登山、徒步、骑行、越野、滑雪，或只是想随时查看当前海拔。",
+    "fullDescription": "Realtime Pro · 你的户外口袋仪表盘（付费完整版） 基于 iPhone 的 GPS 与气压计，提供精确的海拔、坐标、气压与速度读数。 一次买断，无广告、无订阅、无账号。所有数据仅保存在本机。 ======== 主要功能 ======== 【实时读数】 海拔（米 / 英尺） 气压（mmHg / kPa / mBar / atm） 坐标、速度、真北指南针 日出日落 / 月相 【历史曲线】 1 小时 / 6 小时 / 24 小时 / 7 天 海拔与气压双曲线 【轨迹记录】 徒步 / 登山路径记录 距离、爬升、下降、平均速度 锁屏后台持续记录 导出 GPX 【气压天气趋势】 根据气压变化提示天气趋势（离线可用） 【海拔打卡相册】 水印照片自动记录位置 地图一览打卡点 6 种户外主题水印 【户外工具】 水平仪 / 坡度 方位锁定 海拔语音播报 【扩展】 主屏 / 锁屏小组件 灵动岛实时活动 Apple Watch 独立应用 ======== 为什么选 Realtime Pro ======== 一次买断，功能完整 100% 本地数据，不上传云端 无广告、无订阅、无内购打扰 中英双语 支持 iPhone、Apple Watch、小组件 适合登山、徒步、骑行、越野、滑雪，或只是想随时查看当前海拔。",
+    "summaryDescription": "Realtime Pro · 你的户外口袋仪表盘（付费完整版） 基于 iPhone 的 GPS 与气压计，提供精确的海拔、坐标、气压与速度读数。 一次买断，无广告、无订阅、无账号。所有数据仅保存在本机。 ======== 主要功能 ======== 【实时读数】 海拔（米 / 英尺） 气压（mmHg / kPa / mBar / atm） 坐标、速度、真北指南针 日出日落 / 月相 【历史曲线】 1 小时 / 6 小时 / 24 小时 / 7 天 海拔与气压双曲线 【轨迹记录】 徒步 / 登山路径记录 距离、爬升、下降、平均速度 锁屏后台持续记录 导出 GPX 【气压天气趋势】 根据气压变化提示天气趋势（离线可用） 【海拔打卡相册】 水印照片自动记录位置 地图一览打卡点 6 种户外主题水印 【户外工具】 水平仪 / 坡度 方位锁定 海拔语音播报 【扩展】 主屏 / 锁屏小组件 灵动岛实时活动 Apple Watch 独立应用 ======== 为什么选 Realtime Pro ======== 一次买断，功能完整 100% 本地数据，不上传云端 无广告、无订阅、无内购打扰 中英双语 支持 iPhone、Apple Watch、小组件 适合登山、徒步、骑行、越野、滑雪，或只是想随时查看当前海拔。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/d8/35/99d8354a-7844-0b98-f965-0788ecd582d4/AppIconPro-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/d8/35/99d8354a-7844-0b98-f965-0788ecd582d4/AppIconPro-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "sellerName": "haoqiang shan",
+    "artistName": "haoqiang shan",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/11/19/4f11195d-ddd4-ea04-0007-56760a91bc40/appstore.005.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/d8/33/b9d83360-29d2-9a7f-8773-eade315c1537/appstore.004.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/5d/aa/735daaa0-ec01-8cf5-8e36-92c6f4894c92/appstore.006.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/d4/b5/39d4b55b-4b9a-7053-61d2-fd81394db17d/appstore.003.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/a1/b5/dfa1b52a-e54b-4ced-34cc-ba31fc183e24/appstore.002.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/09/fc/9e09fccb-ee8f-9e9a-790b-1a1fe6d89a4b/appstore.007.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/a5/49/94a549d6-9900-ac2d-e743-e61ea36eed41/appstore.001.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788885795698
+  },
+  "6775119552": {
+    "name": "会议纪要模板与待办整理2026",
+    "trackName": "会议纪要模板与待办整理2026",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81%E6%A8%A1%E6%9D%BF%E4%B8%8E%E5%BE%85%E5%8A%9E%E6%95%B4%E7%90%862026/id6775119552?uo=4",
+    "description": "会议纪要盒是一款专注会议记录整理的离线效率工具，适合需要频繁整理例会、项目会、复盘会、客户沟通记录的用户。 App 不需要登录、不联网、不收集任何个人数据，所有内容仅保存在本机。你可以用结构化模板快速记录会议主题、参会人、议题、结论、待办和截止时间，并在会后快速生成清晰的纪要文本。 核心功能： 1. 多场景会议纪要模板：支持例会、项目会、复盘会、客户沟通等常用结构。 2. 行动项整理：将负责人、截止日期、任务状态独立管理，避免纪要写完待办遗失。 3. 决议与问题归档：单独保存会议决议、风险问题和后续跟进事项。 4. 一键复制与导出：快速生成适合发送到微信、邮件、飞书、钉钉的纯文本纪要。 5. 本地历史搜索：按会议主题、参会人、项目名称和待办内容快速查找历史记录。 6. 离线备份文件：支持本地导出备份，方便换机前保存。",
+    "fullDescription": "会议纪要盒是一款专注会议记录整理的离线效率工具，适合需要频繁整理例会、项目会、复盘会、客户沟通记录的用户。 App 不需要登录、不联网、不收集任何个人数据，所有内容仅保存在本机。你可以用结构化模板快速记录会议主题、参会人、议题、结论、待办和截止时间，并在会后快速生成清晰的纪要文本。 核心功能： 1. 多场景会议纪要模板：支持例会、项目会、复盘会、客户沟通等常用结构。 2. 行动项整理：将负责人、截止日期、任务状态独立管理，避免纪要写完待办遗失。 3. 决议与问题归档：单独保存会议决议、风险问题和后续跟进事项。 4. 一键复制与导出：快速生成适合发送到微信、邮件、飞书、钉钉的纯文本纪要。 5. 本地历史搜索：按会议主题、参会人、项目名称和待办内容快速查找历史记录。 6. 离线备份文件：支持本地导出备份，方便换机前保存。",
+    "summaryDescription": "会议纪要盒是一款专注会议记录整理的离线效率工具，适合需要频繁整理例会、项目会、复盘会、客户沟通记录的用户。 App 不需要登录、不联网、不收集任何个人数据，所有内容仅保存在本机。你可以用结构化模板快速记录会议主题、参会人、议题、结论、待办和截止时间，并在会后快速生成清晰的纪要文本。 核心功能： 1. 多场景会议纪要模板：支持例会、项目会、复盘会、客户沟通等常用结构。 2. 行动项整理：将负责人、截止日期、任务状态独立管理，避免纪要写完待办遗失。 3. 决议与问题归档：单独保存会议决议、风险问题和后续跟进事项。 4. 一键复制与导出：快速生成适合发送到微信、邮件、飞书、钉钉的纯文本纪要。 5. 本地历史搜索：按会议主题、参会人、项目名称和待办内容快速查找历史记录。 6. 离线备份文件：支持本地导出备份，方便换机前保存。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/a0/c0/8ca0c01e-0781-e728-44fd-e232d03bae72/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/a0/c0/8ca0c01e-0781-e728-44fd-e232d03bae72/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Nanjing Yunxiaochuang Technology Co., Ltd",
+    "artistName": "Nanjing Yunxiaochuang Technology Co., Ltd",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/38/ff/4338ff53-b8bf-4d5c-9fe9-96b8a7dfb203/meetingMinutesKit-marketing-zh-Hans.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/f2/e2/3bf2e22e-26b0-b737-d260-ca4295b5d985/01-home.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/dd/29/79dd2985-e9b6-df85-5b12-146e690e5d88/02-feature.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/f5/1d/6ef51d54-5ca3-e686-a8d7-764967e09e00/03-settings.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/a5/4a/b0a54a75-d6d8-35e6-dfa8-4a0643c29b75/01-home.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/01/d0/7901d0fd-1c1b-380c-55ac-0459fdbd4f6d/02-feature.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/6c/ce/2e6ccee1-57c2-0c6e-1592-a57d7f9e8866/03-settings.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788885798252
+  },
+  "6744988426": {
+    "name": "Spring: Timebox Planner",
+    "trackName": "Spring: Timebox Planner",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/spring-timebox-planner/id6744988426?uo=4",
+    "description": "你的计划会变化，但一天不必因此失控。 Spring 将任务、提醒和想法转化为真实可执行的时间块，让你知道现在该做什么、今天能完成什么，以及什么可以稍后处理。 功能亮点 让清单真正进入你的日程 导入提醒事项，粘贴想法，或随手记录任务，将零散内容变成有序的一天。 从 AI 聊天导入计划 在第三方 AI 聊天中使用随附的 SwiftPlan 格式和可选的 Skill.md，然后将生成的时间块计划导入 Spring。Spring 不提供内置 AI 功能。 为每项任务留出专属时间 创建切实可行的时间块，而不是面对不断增长的待办列表。 找到你的每日节奏 将计划时段与实际执行情况结合查看，了解自己的工作节奏。 保持当下专注 通过实时活动、灵动岛、小组件和专注计时，让重要时刻始终触手可及。 保存你的成功节奏 将有效的日常安排保存为模板，更快开始未来的日子。 连接你的日历 将安排好的活动同步到 Apple 日历。 从每一天中学习 回顾已完成的时间块，逐渐优化属于你的节奏。 Spring 是 Swift Moment 家族的一员，帮助你在 Apple 设备上把时间转化为真正的行动。",
+    "fullDescription": "你的计划会变化，但一天不必因此失控。 Spring 将任务、提醒和想法转化为真实可执行的时间块，让你知道现在该做什么、今天能完成什么，以及什么可以稍后处理。 功能亮点 让清单真正进入你的日程 导入提醒事项，粘贴想法，或随手记录任务，将零散内容变成有序的一天。 从 AI 聊天导入计划 在第三方 AI 聊天中使用随附的 SwiftPlan 格式和可选的 Skill.md，然后将生成的时间块计划导入 Spring。Spring 不提供内置 AI 功能。 为每项任务留出专属时间 创建切实可行的时间块，而不是面对不断增长的待办列表。 找到你的每日节奏 将计划时段与实际执行情况结合查看，了解自己的工作节奏。 保持当下专注 通过实时活动、灵动岛、小组件和专注计时，让重要时刻始终触手可及。 保存你的成功节奏 将有效的日常安排保存为模板，更快开始未来的日子。 连接你的日历 将安排好的活动同步到 Apple 日历。 从每一天中学习 回顾已完成的时间块，逐渐优化属于你的节奏。 Spring 是 Swift Moment 家族的一员，帮助你在 Apple 设备上把时间转化为真正的行动。",
+    "summaryDescription": "你的计划会变化，但一天不必因此失控。 Spring 将任务、提醒和想法转化为真实可执行的时间块，让你知道现在该做什么、今天能完成什么，以及什么可以稍后处理。 功能亮点 让清单真正进入你的日程 导入提醒事项，粘贴想法，或随手记录任务，将零散内容变成有序的一天。 从 AI 聊天导入计划 在第三方 AI 聊天中使用随附的 SwiftPlan 格式和可选的 Skill.md，然后将生成的时间块计划导入 Spring。Spring 不提供内置 AI 功能。 为每项任务留出专属时间 创建切实可行的时间块，而不是面对不断增长的待办列表。 找到你的每日节奏 将计划时段与实际执行情况结合查看，了解自己的工作节奏。 保持当下专注 通过实时活动、灵动岛、小组件和专注计时，让重要时刻始终触手可及。 保存你的成功节奏 将有效的日常安排保存为模板，更快开始未来的日子。 连接你的日历 将安排好的活动同步到 Apple 日历。 从每一天中学习 回顾已完成的时间块，逐渐优化属于你的节奏。 Spring 是 Swift Moment 家族的一员，帮助你在 Apple 设备上把时间转化为真正的行动。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/5e/0d/565e0dea-6be2-4be1-5803-99ec433c0660/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/5e/0d/565e0dea-6be2-4be1-5803-99ec433c0660/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "帆 杨",
+    "artistName": "帆 杨",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/b7/01/93b701ba-a7ff-d9d5-f8eb-68e9a66bca1a/01_iPhone_6.7__Display_Portrait_zh.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/87/ee/0d87ee14-3855-2981-dc03-21f6963c924f/02_iPhone_6.7__Display_Portrait_zh.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/e4/91/b3e491bb-108f-438a-e0c0-cdce64578a1e/03_iPhone_6.7__Display_Portrait_zh.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/cc/4f/e5cc4f85-4a0d-d7e9-2bd5-2f8d6753ad98/04_iPhone_6.7__Display_Portrait_zh.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/eb/75/87eb7590-9297-b0a9-86a6-292a6f1fe50b/05_iPhone_6.7__Display_Portrait_zh.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/94/c6/2a94c680-a262-96b1-14c4-089fa979d294/06_iPhone_6.7__Display_Portrait_zh.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/06/29/930629c1-b6f8-042f-c3f8-fc3036acacc0/07_iPhone_6.7__Display_Portrait_zh.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/78/91/8f7891d3-187a-c73f-2ff0-ff9b4cab2501/08_iPhone_6.7__Display_Portrait_zh.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/88/c3/0688c3a6-3ad6-368a-52b3-50adad618ced/09_iPhone_6.7__Display_Portrait_zh.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/e5/c6/bbe5c6a3-f151-32c0-f78e-7d14a82ec715/10_iPhone_6.7__Display_Portrait_zh.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/70/03/707003b5-0fe3-f9fd-5f90-89aad52091dd/01_iPad_13__Display__U8096_U50cf_zh.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/2f/fc/812ffc67-7cbb-59e2-db09-2b4071423325/02_iPad_13__Display__U8096_U50cf_zh.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/06/7f/5a067f2c-b13e-6e03-fa78-713ad3318087/03_iPad_13__Display__U8096_U50cf_zh.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/22/7c/11227ced-40ed-427c-391b-bda329c059b8/04_iPad_13__Display__U8096_U50cf_zh.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/f2/ed/7ef2edad-1cc4-1d22-7e06-753a68030940/05_iPad_13__Display__U8096_U50cf_zh.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/66/cd/9d66cd26-de57-2567-2808-243ac701c09a/06_iPad_13__Display__U8096_U50cf_zh.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/69/86/c46986a6-aa0a-7052-3756-7305ed5109da/07_iPad_13__Display__U8096_U50cf_zh.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/a7/07/71a707c4-7503-930f-90b4-2c69aef509af/08_iPad_13__Display__U8096_U50cf_zh.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/f3/a4/d5f3a493-3469-d42b-0478-3a924e64207a/09_iPad_13__Display__U8096_U50cf_zh.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/ce/fa/07cefa29-e93b-46a3-d10e-ab7aed74681b/10_iPad_13__Display__U8096_U50cf_zh.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788885798252
+  },
+  "6801750217": {
+    "name": "负片查看器",
+    "trackName": "负片查看器",
+    "maxPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "minPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%B4%9F%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/id6801750217?uo=4",
+    "description": "负片查看器是一款用于观察胶片负片的实时取景工具。 将一格负片放在均匀背光前，并对准屏幕取景框。App 会把相机预览实时反转为近似正相，方便快速观察构图、人物和色彩，全程无需拍照。 主要功能： 彩色负片与黑白负片实时预览 支持 135、半格、XPan、6×6、6×7、6×12、6×17 取景框 横向与纵向取景框切换 提供 iPhone 支持的相机倍率 所有实时处理均在设备本地完成 无账号、无广告、无订阅，不拍摄、不导入、不上传 本 App 适合快速观察与构图参考，不能替代专业胶片扫描仪或最终调色。显示结果会受到光源、胶片类型、曝光和屏幕影响。",
+    "fullDescription": "负片查看器是一款用于观察胶片负片的实时取景工具。 将一格负片放在均匀背光前，并对准屏幕取景框。App 会把相机预览实时反转为近似正相，方便快速观察构图、人物和色彩，全程无需拍照。 主要功能： 彩色负片与黑白负片实时预览 支持 135、半格、XPan、6×6、6×7、6×12、6×17 取景框 横向与纵向取景框切换 提供 iPhone 支持的相机倍率 所有实时处理均在设备本地完成 无账号、无广告、无订阅，不拍摄、不导入、不上传 本 App 适合快速观察与构图参考，不能替代专业胶片扫描仪或最终调色。显示结果会受到光源、胶片类型、曝光和屏幕影响。",
+    "summaryDescription": "负片查看器是一款用于观察胶片负片的实时取景工具。 将一格负片放在均匀背光前，并对准屏幕取景框。App 会把相机预览实时反转为近似正相，方便快速观察构图、人物和色彩，全程无需拍照。 主要功能： 彩色负片与黑白负片实时预览 支持 135、半格、XPan、6×6、6×7、6×12、6×17 取景框 横向与纵向取景框切换 提供 iPhone 支持的相机倍率 所有实时处理均在设备本地完成 无账号、无广告、无订阅，不拍摄、不导入、不上传 本 App 适合快速观察与构图参考，不能替代专业胶片扫描仪或最终调色。显示结果会受到光源、胶片类型、曝光和屏幕影响。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/2b/cd/fe2bcd1e-6e46-d38d-5a57-ea6dfce7158f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/2b/cd/fe2bcd1e-6e46-d38d-5a57-ea6dfce7158f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "怀斌 余",
+    "artistName": "怀斌 余",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/0e/a7/380ea746-8968-a748-1bd6-6596ad602e07/_U8d1f_U7247_U67e5_U770b_U5668-_U5b9e_U65f6_U9884_U89c8-1320x2868.jpg/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788885798374
+  },
+  "6795472851": {
+    "name": "猫猫钢琴",
+    "trackName": "猫猫钢琴",
+    "maxPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "minPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E7%8C%AB%E7%8C%AB%E9%92%A2%E7%90%B4/id6795472851?uo=4",
+    "description": "猫猫钢琴是一架会喵叫的可爱口袋钢琴。 轻触彩色琴键，就能用不同音高的猫叫声演奏旋律。每次按键都会带来灵敏的动态反馈和飞舞的猫爪，让自由演奏变得轻松、有趣又治愈。 特色： 20 个琴键，覆盖 C4 至 G5 每个音符都由真实猫叫声变调生成 支持多音同时播放 可爱的猫咪主题界面与猫爪动画 支持触控及外接键盘演奏 完全离线，无广告、无账号、无数据收集 无论是随手弹一段旋律，还是和家人朋友一起发现猫叫音乐的乐趣，猫猫钢琴都能带来一段轻松愉快的音乐时光。",
+    "fullDescription": "猫猫钢琴是一架会喵叫的可爱口袋钢琴。 轻触彩色琴键，就能用不同音高的猫叫声演奏旋律。每次按键都会带来灵敏的动态反馈和飞舞的猫爪，让自由演奏变得轻松、有趣又治愈。 特色： 20 个琴键，覆盖 C4 至 G5 每个音符都由真实猫叫声变调生成 支持多音同时播放 可爱的猫咪主题界面与猫爪动画 支持触控及外接键盘演奏 完全离线，无广告、无账号、无数据收集 无论是随手弹一段旋律，还是和家人朋友一起发现猫叫音乐的乐趣，猫猫钢琴都能带来一段轻松愉快的音乐时光。",
+    "summaryDescription": "猫猫钢琴是一架会喵叫的可爱口袋钢琴。 轻触彩色琴键，就能用不同音高的猫叫声演奏旋律。每次按键都会带来灵敏的动态反馈和飞舞的猫爪，让自由演奏变得轻松、有趣又治愈。 特色： 20 个琴键，覆盖 C4 至 G5 每个音符都由真实猫叫声变调生成 支持多音同时播放 可爱的猫咪主题界面与猫爪动画 支持触控及外接键盘演奏 完全离线，无广告、无账号、无数据收集 无论是随手弹一段旋律，还是和家人朋友一起发现猫叫音乐的乐趣，猫猫钢琴都能带来一段轻松愉快的音乐时光。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/63/ab/ca63abe0-a46a-cc48-0249-f069ee651b97/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/63/ab/ca63abe0-a46a-cc48-0249-f069ee651b97/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "艺智 方",
+    "artistName": "艺智 方",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/b9/3c/b1b93c6f-f336-fb7e-c81d-91ba2380503d/screen-1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/3e/47/b03e4761-c453-d48b-6ae7-8b0df73f6418/screen-2.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/73/93/b37393bd-64c5-d6f3-3429-3560acb0eca2/screen-1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/5d/84/305d84f8-7d01-00cf-5ec2-bdfb33c9105b/screen-2.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788885801062
+  },
+  "6767985150": {
+    "name": "Decision Scale Note",
+    "trackName": "Decision Scale Note",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/decision-scale-note/id6767985150?uo=4",
+    "description": "Decision Scale 是一款帮助你在做出重要决定前整理思绪的应用。 有时候，有些决定只能由你自己来做。 换工作。 搬家。 关系。 人生选择。 Decision Scale 不会催促你立刻得出答案，而是帮助你随着时间慢慢思考，看清自己的想法正倾向于哪一边。 创建两个选项，记录影响你决定的原因，并定期记录自己的感受。 随着心情与想法的变化，应用会将两个选择之间的平衡可视化呈现。 没有广告、没有订阅、也不需要账号。 你的想法只会保存在你的设备中，保持私密。 慢慢来。 诚实思考。 由自己做出决定。 [功能] 使用两个选项整理决策 记录影响决定的原因 追踪感受随时间的变化 可视化呈现选项之间的平衡 设置回顾提醒与决定日期 使用 PIN 锁保护数据 无广告 无订阅 无需账号",
+    "fullDescription": "Decision Scale 是一款帮助你在做出重要决定前整理思绪的应用。 有时候，有些决定只能由你自己来做。 换工作。 搬家。 关系。 人生选择。 Decision Scale 不会催促你立刻得出答案，而是帮助你随着时间慢慢思考，看清自己的想法正倾向于哪一边。 创建两个选项，记录影响你决定的原因，并定期记录自己的感受。 随着心情与想法的变化，应用会将两个选择之间的平衡可视化呈现。 没有广告、没有订阅、也不需要账号。 你的想法只会保存在你的设备中，保持私密。 慢慢来。 诚实思考。 由自己做出决定。 [功能] 使用两个选项整理决策 记录影响决定的原因 追踪感受随时间的变化 可视化呈现选项之间的平衡 设置回顾提醒与决定日期 使用 PIN 锁保护数据 无广告 无订阅 无需账号",
+    "summaryDescription": "Decision Scale 是一款帮助你在做出重要决定前整理思绪的应用。 有时候，有些决定只能由你自己来做。 换工作。 搬家。 关系。 人生选择。 Decision Scale 不会催促你立刻得出答案，而是帮助你随着时间慢慢思考，看清自己的想法正倾向于哪一边。 创建两个选项，记录影响你决定的原因，并定期记录自己的感受。 随着心情与想法的变化，应用会将两个选择之间的平衡可视化呈现。 没有广告、没有订阅、也不需要账号。 你的想法只会保存在你的设备中，保持私密。 慢慢来。 诚实思考。 由自己做出决定。 [功能] 使用两个选项整理决策 记录影响决定的原因 追踪感受随时间的变化 可视化呈现选项之间的平衡 设置回顾提醒与决定日期 使用 PIN 锁保护数据 无广告 无订阅 无需账号",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/e2/8e/abe28ee6-109d-4143-5e4d-3090af5797e7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/e2/8e/abe28ee6-109d-4143-5e4d-3090af5797e7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "sellerName": "YUKI ISHINO",
+    "artistName": "YUKI ISHINO",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/d4/df/25d4dfba-c921-03a2-9ed7-f3f83257daab/1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/dd/c3/b1ddc3e1-e3a1-4b81-45f6-86c57544e966/2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/50/79/4f507963-83d0-25aa-f5bd-a9065de10b0d/3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/51/d0/ff51d0a3-e6a5-dd88-7ac1-b6dba4c949ac/4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/ec/2d/83ec2d2a-6500-2cfd-c28f-eb06c1d62f93/5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/63/eb/8c63ebe7-119f-5f7d-caa2-6e55e42c5da8/6.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/61/1c/a7611c7f-bda0-41d3-6a83-09e0c00319e8/7.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/a7/06/d1a706b0-f766-7f84-b98d-490976904cbe/1_iPad.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/aa/11/feaa1174-1308-d9eb-c4aa-a202ac6c8a32/2_iPad.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/eb/81/33eb81dc-f715-2681-140c-9630e7195e75/3_iPad.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/ec/70/74ec705a-6e11-ca0b-24c1-3dc8695a2de5/4_iPad.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/10/b4/a510b484-60a6-9a51-fdf9-877ebd938eb8/5_iPad.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/49/ee/ab49ee4e-f415-01a6-392e-d2317b0b0171/6_iPad.jpg/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788885803654
+  },
+  "6756336898": {
+    "name": "三国英雄传奇-开局千抽自选SSR",
+    "trackName": "三国英雄传奇-开局千抽自选SSR",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00",
+      "30元礼包": "¥30.00",
+      "128元礼包": "¥128.00",
+      "68元礼包": "¥68.00",
+      "12元礼包": "¥12.00",
+      "198元礼包": "¥198.00",
+      "6元礼包": "¥6.00",
+      "18元礼包": "¥18.00",
+      "328元礼包": "¥328.00",
+      "98元礼包": "¥98.00",
+      "648元礼包": "¥648.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00",
+      "30元礼包": "¥30.00",
+      "128元礼包": "¥128.00",
+      "68元礼包": "¥68.00",
+      "12元礼包": "¥12.00",
+      "198元礼包": "¥198.00",
+      "6元礼包": "¥6.00",
+      "18元礼包": "¥18.00",
+      "328元礼包": "¥328.00",
+      "98元礼包": "¥98.00",
+      "648元礼包": "¥648.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "30元礼包": "¥30.00",
+            "128元礼包": "¥128.00",
+            "68元礼包": "¥68.00",
+            "12元礼包": "¥12.00",
+            "198元礼包": "¥198.00",
+            "6元礼包": "¥6.00",
+            "18元礼包": "¥18.00",
+            "328元礼包": "¥328.00",
+            "98元礼包": "¥98.00",
+            "648元礼包": "¥648.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%89%E5%9B%BD%E8%8B%B1%E9%9B%84%E4%BC%A0%E5%A5%87-%E5%BC%80%E5%B1%80%E5%8D%83%E6%8A%BD%E8%87%AA%E9%80%89ssr/id6756336898?uo=4",
+    "description": "放置挂机告别繁琐操作 轻松书写属于你的三国传奇！",
+    "fullDescription": "放置挂机告别繁琐操作 轻松书写属于你的三国传奇！",
+    "summaryDescription": "放置挂机告别繁琐操作 轻松书写属于你的三国传奇！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/f4/49/2ef4496e-7459-6fd1-3f07-5c359962ced6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/f4/49/2ef4496e-7459-6fd1-3f07-5c359962ced6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "sellerName": "锐 赵",
+    "artistName": "锐 赵",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f3/5a/82f35a3a-5c3a-b192-086d-4b6f03c9dd4e/1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/40/01/ce400164-d6c0-1b94-c648-128ca32843cc/2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/47/09/74470924-2304-9e03-708f-d3a63cc196cb/3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/1d/95/a11d95f8-502e-163a-beab-09f3edd14159/4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/69/8c/27698ca6-dadb-78a2-6b0f-30ccb476b686/5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/71/4a/5f714a48-b865-c1de-748b-73d2f1f66aa9/6.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/dd/07/f9dd0782-0354-4f33-8eee-fb12e79939d0/1.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/50/62/7e50626a-53a9-8821-4965-e23dc47f2162/33.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/c3/8c/49c38cac-2e5b-eba9-3e7a-1e74136349a4/22.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/20/df/e520df82-8630-f4f7-ca14-565001c74088/55.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/c6/6d/38c66da3-bc56-e5e5-9c49-994d514caf2e/66.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/4a/50/494a5084-091b-720a-10b7-a2f8804424ba/44.jpg/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788885803553
+  },
+  "6805384472": {
+    "name": "手腕对决-体感瞄准训练",
+    "trackName": "手腕对决-体感瞄准训练",
+    "maxPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%89%8B%E8%85%95%E5%AF%B9%E5%86%B3-%E4%BD%93%E6%84%9F%E7%9E%84%E5%87%86%E8%AE%AD%E7%BB%83/id6805384472?uo=4",
+    "description": "用手腕动作训练瞄准、节奏与反应速度。 手腕对决将 iPhone 与配套手表连接为体感目标训练体验。完成姿态校准后，手腕运动会实时控制 iPhone 屏幕上的准心；移动、瞄准并挑战连续目标，在每局结束后查看命中、用时与训练成绩。 【设备联动】 Apple Watch 负责前台手腕动作输入，iPhone 显示准心、目标、成绩与结果。准心训练期间请让两端 App 保持前台。 【10 发准心训练】 完成 10 个连续目标挑战，查看命中数量、完成用时和最高 100 分的训练成绩，随时再练一局。 【校准后即可开始】 首次使用按屏幕提示完成姿态校准；之后可通过中心快速校准重新设定准心。不同佩戴方式或手腕方向出现偏差时，随时可重新校准。 【虚拟武器风格】 在首页和训练前切换十种无品牌虚拟武器，获得不同的视觉、音效和触感反馈。所有武器元素仅用于虚拟互动与娱乐体验，不涉及真实武器操作或训练。 【本地优先】 无需账号、广告或分析 SDK。原始动作数据仅在前台设备内存中实时处理；姿态仅临时发送到配对设备，不保存原始姿态或训练历史。 建议 13 岁以上使用。请在安全、私人且无障碍物的空间体验。",
+    "fullDescription": "用手腕动作训练瞄准、节奏与反应速度。 手腕对决将 iPhone 与配套手表连接为体感目标训练体验。完成姿态校准后，手腕运动会实时控制 iPhone 屏幕上的准心；移动、瞄准并挑战连续目标，在每局结束后查看命中、用时与训练成绩。 【设备联动】 Apple Watch 负责前台手腕动作输入，iPhone 显示准心、目标、成绩与结果。准心训练期间请让两端 App 保持前台。 【10 发准心训练】 完成 10 个连续目标挑战，查看命中数量、完成用时和最高 100 分的训练成绩，随时再练一局。 【校准后即可开始】 首次使用按屏幕提示完成姿态校准；之后可通过中心快速校准重新设定准心。不同佩戴方式或手腕方向出现偏差时，随时可重新校准。 【虚拟武器风格】 在首页和训练前切换十种无品牌虚拟武器，获得不同的视觉、音效和触感反馈。所有武器元素仅用于虚拟互动与娱乐体验，不涉及真实武器操作或训练。 【本地优先】 无需账号、广告或分析 SDK。原始动作数据仅在前台设备内存中实时处理；姿态仅临时发送到配对设备，不保存原始姿态或训练历史。 建议 13 岁以上使用。请在安全、私人且无障碍物的空间体验。",
+    "summaryDescription": "用手腕动作训练瞄准、节奏与反应速度。 手腕对决将 iPhone 与配套手表连接为体感目标训练体验。完成姿态校准后，手腕运动会实时控制 iPhone 屏幕上的准心；移动、瞄准并挑战连续目标，在每局结束后查看命中、用时与训练成绩。 【设备联动】 Apple Watch 负责前台手腕动作输入，iPhone 显示准心、目标、成绩与结果。准心训练期间请让两端 App 保持前台。 【10 发准心训练】 完成 10 个连续目标挑战，查看命中数量、完成用时和最高 100 分的训练成绩，随时再练一局。 【校准后即可开始】 首次使用按屏幕提示完成姿态校准；之后可通过中心快速校准重新设定准心。不同佩戴方式或手腕方向出现偏差时，随时可重新校准。 【虚拟武器风格】 在首页和训练前切换十种无品牌虚拟武器，获得不同的视觉、音效和触感反馈。所有武器元素仅用于虚拟互动与娱乐体验，不涉及真实武器操作或训练。 【本地优先】 无需账号、广告或分析 SDK。原始动作数据仅在前台设备内存中实时处理；姿态仅临时发送到配对设备，不保存原始姿态或训练历史。 建议 13 岁以上使用。请在安全、私人且无障碍物的空间体验。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/5e/ca/675ecab3-e5be-f993-adbf-bf4e13c4b4a8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/5e/ca/675ecab3-e5be-f993-adbf-bf4e13c4b4a8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Hot Future (guangzhou) Internet Co., Ltd",
+    "artistName": "Hot Future (guangzhou) Internet Co., Ltd",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/a2/11/aaa211ca-5bd9-74a5-1d70-16eb1a6f0169/iPhone_15_Pro_Max-01-wrist-aim.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/d0/6b/5cd06b96-e8fc-a848-a9ed-dda50783b95e/iPhone_15_Pro_Max-02-weapon-styles.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/97/49/e397491d-c06a-c097-fd99-672c87bb3336/iPhone_15_Pro_Max-03-results.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788885806539
+  },
+  "6749929855": {
+    "name": "幸运双色球Pro-随机数生成器助手",
+    "trackName": "幸运双色球Pro-随机数生成器助手",
+    "maxPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "minPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%B9%B8%E8%BF%90%E5%8F%8C%E8%89%B2%E7%90%83pro-%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%94%9F%E6%88%90%E5%99%A8%E5%8A%A9%E6%89%8B/id6749929855?uo=4",
+    "description": "「幸运双色球Pro」纯净无广告版 3D物理引擎幸运选号模拟器，您的幸运号码或许就在其中！ 可创建多个幸运盒子，每个幸运盒子100个数字任意选 幸运球的颜色随意更改（当触碰颜色条的时候手指上下滑动可调节颜色亮度） 结果仅供娱乐参考#",
+    "fullDescription": "「幸运双色球Pro」纯净无广告版 3D物理引擎幸运选号模拟器，您的幸运号码或许就在其中！ 可创建多个幸运盒子，每个幸运盒子100个数字任意选 幸运球的颜色随意更改（当触碰颜色条的时候手指上下滑动可调节颜色亮度） 结果仅供娱乐参考#",
+    "summaryDescription": "「幸运双色球Pro」纯净无广告版 3D物理引擎幸运选号模拟器，您的幸运号码或许就在其中！ 可创建多个幸运盒子，每个幸运盒子100个数字任意选 幸运球的颜色随意更改（当触碰颜色条的时候手指上下滑动可调节颜色亮度） 结果仅供娱乐参考#",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/98/c0/a698c062-e298-5057-8691-5e3a258f67c4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/98/c0/a698c062-e298-5057-8691-5e3a258f67c4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+    "sellerName": "伟 雷",
+    "artistName": "伟 雷",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/3a/92/8b3a928a-a10b-e134-6c36-cbccdc3da15d/6_9_page.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/f3/ba/86f3ba8d-6450-a0ba-8fba-d92196458863/6_9_page_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/9d/db/759ddb76-7ed0-a0b4-7ddc-7e476cab0680/6_9_page_7.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/e1/f2/0de1f29f-8241-4972-4356-a02ebfbdc9f3/6_9_page_4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/7a/0a/df7a0a3f-d155-365f-945b-f3be0d9b48c2/6_9_page_6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/41/c3/3a41c3a3-9112-f1b4-7617-8a966377d6d7/6_9_page_5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/52/88/895288fd-c750-c49e-280e-5724d3815ca7/6_9_page_3.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788885806539
+  },
+  "6791618022": {
+    "name": "情绪碎碎碎",
+    "trackName": "情绪碎碎碎",
+    "maxPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788885831302,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%83%85%E7%BB%AA%E7%A2%8E%E7%A2%8E%E7%A2%8E/id6791618022?uo=4",
+    "description": "情绪碎碎碎是一款轻量的情绪释放 App。对着屏幕大声喊出来，把烦人的文字一个个震碎，在 15 秒内获得你的本次爽值。 不管是工作、社交，还是日常生活里让你不开心、内耗的人和事，都可以在安全、私密的环境里用爽了么快速释放一下。应用只在本地检测声音强弱，不录音、不上传音频、不保存个人数据。",
+    "fullDescription": "情绪碎碎碎是一款轻量的情绪释放 App。对着屏幕大声喊出来，把烦人的文字一个个震碎，在 15 秒内获得你的本次爽值。 不管是工作、社交，还是日常生活里让你不开心、内耗的人和事，都可以在安全、私密的环境里用爽了么快速释放一下。应用只在本地检测声音强弱，不录音、不上传音频、不保存个人数据。",
+    "summaryDescription": "情绪碎碎碎是一款轻量的情绪释放 App。对着屏幕大声喊出来，把烦人的文字一个个震碎，在 15 秒内获得你的本次爽值。 不管是工作、社交，还是日常生活里让你不开心、内耗的人和事，都可以在安全、私密的环境里用爽了么快速释放一下。应用只在本地检测声音强弱，不录音、不上传音频、不保存个人数据。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/47/e9/8447e965-9f3c-e887-843c-466a0921de43/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/47/e9/8447e965-9f3c-e887-843c-466a0921de43/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "卓凡 张",
+    "artistName": "卓凡 张",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/21/f9/3321f93a-890d-8790-c98d-192652774221/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/db/9a/1edb9abb-9c8f-a2cb-29a1-43ae046ddae5/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/58/d7/d058d710-60be-d931-6fa3-c2d55ec9c76a/5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/62/d9/4462d923-0af1-77aa-6d9f-47a1f718f36f/4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/7b/9e/d37b9ecc-09ba-fb13-e771-25100b924506/3.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788885806539
   }
 }
