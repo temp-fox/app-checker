@@ -2,6 +2,131 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1328558547,
+      "name": {
+        "cn": "Tongan-English Dictionary"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788842728456,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786304892,
+      "name": {
+        "cn": "窗帘用料计算器2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788842711943,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803344823,
+      "name": {
+        "cn": "拾光 - 相册回顾与整理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788842784336,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761957596,
+      "name": {
+        "cn": "Freshli: 食品保质期管理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788842784336,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6756362014,
+      "name": {
+        "cn": "ImageLab - 本地人工智能图像"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788842784336,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6792556839,
+      "name": {
+        "cn": "Dun"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788842784336,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6788844093,
+      "name": {
+        "cn": "Smart Printer: Print & Scans"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788842784336,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6760010299,
+      "name": {
+        "cn": "Pro Cam - 人像与电影"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788842784336,
+      "_discountType": "app"
+    },
+    {
+      "id": 6445854325,
+      "name": {
+        "cn": "Panda LLM Offline & Private AI"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788842784336,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792520446,
+      "name": {
+        "cn": "One相册"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788842784336,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799574548,
+      "name": {
+        "cn": "Tap PiP"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788842784336,
+      "_discountType": "app"
+    },
+    {
       "id": 942257403,
       "name": {
         "cn": "佛教音乐：净化心灵，聆听天籁之音"
