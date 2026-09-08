@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1663946323,
+      "name": {
+        "cn": "Snuggly: Record Baby Heartbeat"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788902122571,
+      "_discountType": "app"
+    },
+    {
+      "id": 6774715841,
+      "name": {
+        "cn": "Rawly"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788902117221,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785144247,
+      "name": {
+        "cn": "SetClass"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788902120011,
+      "_discountType": "app"
+    },
+    {
       "id": 293760823,
       "name": {
         "cn": "iFart - Fart Sounds App"
