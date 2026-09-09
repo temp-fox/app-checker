@@ -64,16 +64,28 @@
       "inAppPurchase": {}
     },
     "573445641": {
-      "all": 2,
+      "all": 3,
       "price": 2,
-      "inAppPurchase": {}
+      "inAppPurchase": {
+        "Yearly Plan": 1
+      }
     },
     "573801721": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
     },
+    "583822799": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "599384920": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "604756608": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -145,6 +157,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "719309903": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "733743097": {
       "all": 1,
       "price": 1,
@@ -171,6 +188,11 @@
       "inAppPurchase": {}
     },
     "818394449": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "834235298": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -383,12 +405,22 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1205413164": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1209929785": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
     },
     "1230497116": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1242808815": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -505,6 +537,11 @@
         "Pro Version 无限": 1
       }
     },
+    "1492013825": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1510811475": {
       "all": 1,
       "price": 1,
@@ -589,6 +626,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1576118042": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Unlock All Rhymes": 1
+      }
+    },
     "1576629649": {
       "all": 1,
       "price": 1,
@@ -672,8 +716,8 @@
       "inAppPurchase": {}
     },
     "6757250780": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "6758991291": {
@@ -748,10 +792,10 @@
       "inAppPurchase": {}
     },
     "6787381856": {
-      "all": 3,
+      "all": 4,
       "price": 1,
       "inAppPurchase": {
-        "Upgrade to premium": 2
+        "Upgrade to premium": 3
       }
     },
     "6778041880": {
@@ -1120,13 +1164,13 @@
       "inAppPurchase": {}
     },
     "6757885519": {
-      "all": 2,
-      "price": 2,
+      "all": 3,
+      "price": 3,
       "inAppPurchase": {}
     },
     "6760660711": {
-      "all": 2,
-      "price": 2,
+      "all": 3,
+      "price": 3,
       "inAppPurchase": {}
     },
     "6757410893": {
@@ -1877,10 +1921,12 @@
       "inAppPurchase": {}
     },
     "6757496457": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Postura Pro - Lifetime": 1
+        "Postura Pro - Lifetime": 1,
+        "Monthly": 1,
+        "Annual": 1
       }
     },
     "6794661636": {
@@ -1957,6 +2003,28 @@
       "inAppPurchase": {
         "Gaze Guard 终身版": 1
       }
+    },
+    "6795150955": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6760733319": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime Unlock": 1
+      }
+    },
+    "6802565793": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6779943310": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   }
 }
