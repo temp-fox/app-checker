@@ -2,6 +2,240 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 460013304,
+      "name": {
+        "cn": "WritePDF mobile"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788938842692,
+      "_discountType": "app"
+    },
+    {
+      "id": 733858623,
+      "name": {
+        "cn": "HSK5汉语听力训练"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788938857136,
+      "_discountType": "app"
+    },
+    {
+      "id": 823643851,
+      "name": {
+        "cn": "Fitzpatrick's Derm Flash Cards"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788938859749,
+      "_discountType": "app"
+    },
+    {
+      "id": 1495937992,
+      "name": {
+        "cn": "神龙-漫聊"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788938845747,
+      "_discountType": "app"
+    },
+    {
+      "id": 6805539124,
+      "name": {
+        "cn": "时刻转钳"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788938848664,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790382144,
+      "name": {
+        "cn": "自听：本地生成随身听"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788938848664,
+      "_discountType": "app"
+    },
+    {
+      "id": 6802036426,
+      "name": {
+        "cn": "空谷"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788938854449,
+      "_discountType": "app"
+    },
+    {
+      "id": 6744992836,
+      "name": {
+        "cn": "AquaTrack"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788938854449,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795795127,
+      "name": {
+        "cn": "PinchKey：快速启动器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6737277424,
+      "name": {
+        "cn": "Player Xtreme – 影音播放器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6768603911,
+      "name": {
+        "cn": "Creddy: Card Perks Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6471654166,
+      "name": {
+        "cn": "Task: To do list"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6793530703,
+      "name": {
+        "cn": "决策币"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6768885559,
+      "name": {
+        "cn": "iBirdsong"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6757688459,
+      "name": {
+        "cn": "iUnloop"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6743631840,
+      "name": {
+        "cn": "月光育儿 - 哄睡健身追踪器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6760569665,
+      "name": {
+        "cn": "PentaPizza"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6757631882,
+      "name": {
+        "cn": "没死呢"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6503905670,
+      "name": {
+        "cn": "NextNote - AI笔记与写作"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758227934,
+      "name": {
+        "cn": "My Invoices"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "app"
+    },
+    {
+      "id": 6773422359,
+      "name": {
+        "cn": "Sincey"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1788938917373,
+      "_discountType": "app"
+    },
+    {
       "id": 1663946323,
       "name": {
         "cn": "Snuggly: Record Baby Heartbeat"
