@@ -1,4 +1,486 @@
 {
+  "1381240441": {
+    "name": "Tube Metal Weight Calculator",
+    "trackName": "Tube Metal Weight Calculator",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00",
+      "Annual access for Semicircle": "¥63.00",
+      "半圆形": "¥22.00",
+      "Annual access for Triangle": "¥63.00",
+      "三角形": "¥22.00",
+      "Semiann. access for Triangle": "¥33.00",
+      "Monthly access for Semicircle": "¥6.00",
+      "Z-bar": "¥22.00",
+      "F-bar": "¥22.00",
+      "E-bar": "¥22.00",
+      "U-bar": "¥22.00",
+      "Monthly access for Triangle": "¥6.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00",
+      "Annual access for Semicircle": "¥63.00",
+      "半圆形": "¥22.00",
+      "Annual access for Triangle": "¥63.00",
+      "三角形": "¥22.00",
+      "Semiann. access for Triangle": "¥33.00",
+      "Monthly access for Semicircle": "¥6.00",
+      "Z-bar": "¥22.00",
+      "F-bar": "¥22.00",
+      "E-bar": "¥22.00",
+      "U-bar": "¥22.00",
+      "Monthly access for Triangle": "¥6.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786692042367,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "半圆形": "¥22.00",
+            "Annual access for Semicircle": "¥63.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1786660731403,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00",
+            "半圆形": "¥22.00",
+            "三角形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Triangle": "¥6.00",
+            "Annual access for Semicircle": "¥63.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1782543111681,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "半圆形": "¥22.00",
+            "Annual access for Semicircle": "¥63.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1782515073990,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00",
+            "半圆形": "¥22.00",
+            "三角形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Triangle": "¥6.00",
+            "Annual access for Semicircle": "¥63.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1779529817378,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "半圆形": "¥22.00",
+            "Annual access for Semicircle": "¥63.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1779504330011,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00",
+            "半圆形": "¥22.00",
+            "三角形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Triangle": "¥6.00",
+            "Annual access for Semicircle": "¥63.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1778528693205,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "半圆形": "¥22.00",
+            "Annual access for Semicircle": "¥63.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1778510735489,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00",
+            "半圆形": "¥22.00",
+            "三角形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Triangle": "¥6.00",
+            "Annual access for Semicircle": "¥63.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1778121518687,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "半圆形": "¥22.00",
+            "Annual access for Semicircle": "¥63.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1778101781940,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00",
+            "半圆形": "¥22.00",
+            "三角形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Triangle": "¥6.00",
+            "Annual access for Semicircle": "¥63.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1777323638020,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "半圆形": "¥22.00",
+            "Annual access for Semicircle": "¥63.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1777304809794,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00",
+            "半圆形": "¥22.00",
+            "三角形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Triangle": "¥6.00",
+            "Annual access for Semicircle": "¥63.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1776219122175,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Annual access for Semicircle": "¥63.00",
+            "半圆形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1775787247280,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "半圆形": "¥22.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00",
+            "三角形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Triangle": "¥6.00",
+            "Annual access for Semicircle": "¥63.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1774935864955,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Annual access for Semicircle": "¥63.00",
+            "半圆形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1774910049406,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00",
+            "半圆形": "¥22.00",
+            "三角形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Triangle": "¥6.00",
+            "Annual access for Semicircle": "¥63.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1774577228363,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Annual access for Semicircle": "¥63.00",
+            "半圆形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1774551814093,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00",
+            "半圆形": "¥22.00",
+            "三角形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Triangle": "¥6.00",
+            "Annual access for Semicircle": "¥63.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1773799231041,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Annual access for Semicircle": "¥63.00",
+            "半圆形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1773774015324,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00",
+            "半圆形": "¥22.00",
+            "三角形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Triangle": "¥6.00",
+            "Annual access for Semicircle": "¥63.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1772979530307,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Annual access for Semicircle": "¥63.00",
+            "半圆形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1772907752491,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00",
+            "半圆形": "¥22.00",
+            "三角形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Triangle": "¥6.00",
+            "Annual access for Semicircle": "¥63.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1772807554328,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Annual access for Semicircle": "¥63.00",
+            "半圆形": "¥22.00",
+            "Annual access for Triangle": "¥63.00",
+            "三角形": "¥22.00",
+            "Semiann. access for Triangle": "¥33.00",
+            "Monthly access for Semicircle": "¥6.00",
+            "Z-bar": "¥22.00",
+            "F-bar": "¥22.00",
+            "E-bar": "¥22.00",
+            "U-bar": "¥22.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/tube-metal-weight-calculator/id1381240441?uo=4",
+    "description": "这个程序是为真正的专业人士制作的！快速，简单和方便的重量搜索，取决于轧制金属的长度或重量。仅最受欢迎的金属型材和类型。您也可以创建自己的内容。任何计算都可以保存在“收藏夹”部分中。选择理想的度量单位，并在没有互联网连接的情况下随时为您计算！ 最受欢迎的金属型材 金属的主要类型 创建自己的材料 多个单位 结果可以保存 无广告横幅 我们建议在iPhone 6S或更高版本上使用该应用程序 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
+    "fullDescription": "这个程序是为真正的专业人士制作的！快速，简单和方便的重量搜索，取决于轧制金属的长度或重量。仅最受欢迎的金属型材和类型。您也可以创建自己的内容。任何计算都可以保存在“收藏夹”部分中。选择理想的度量单位，并在没有互联网连接的情况下随时为您计算！ 最受欢迎的金属型材 金属的主要类型 创建自己的材料 多个单位 结果可以保存 无广告横幅 我们建议在iPhone 6S或更高版本上使用该应用程序 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
+    "summaryDescription": "这个程序是为真正的专业人士制作的！快速，简单和方便的重量搜索，取决于轧制金属的长度或重量。仅最受欢迎的金属型材和类型。您也可以创建自己的内容。任何计算都可以保存在“收藏夹”部分中。选择理想的度量单位，并在没有互联网连接的情况下随时为您计算！ 最受欢迎的金属型材 金属的主要类型 创建自己的材料 多个单位 结果可以保存 无广告横幅 我们建议在iPhone 6S或更高版本上使用该应用程序 使用条款 (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cc/b2/5dccb246-fa3d-c932-d6f5-0c6004f856ab/AppIcon-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cc/b2/5dccb246-fa3d-c932-d6f5-0c6004f856ab/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+    "sellerName": "SIARHEI ZINKEVICH",
+    "artistName": "SIARHEI ZINKEVICH",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/81/94/97819420-3ee4-3a61-b2d0-351cd4bb52ef/0f4040c2-c7bf-4e3f-8049-68eae9f00ede_iPhone_U00285.5_inch_U0029_1_cn.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/c8/31/3fc8312c-130c-2e0b-0753-09f0666e2b7f/024a92aa-db2e-4d75-a7bf-38990c5a71d5_iPhone_U00285.5_inch_U0029_2_cn.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/a3/d4/b2a3d48c-06b0-a22a-7d46-e504fc2f5c2d/5b2b9959-55d6-45a5-88ef-a6cd0d060010_iPhone_U00285.5_inch_U0029_3_cn.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/f3/af/b5f3afeb-6406-8c89-6232-5994926cbbfc/4c7bb325-07b4-4d1b-8b9f-49e939c404c4_iPhone_U00285.5_inch_U0029_4_cn.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/9f/98/e99f98d4-bbfa-481e-e8ce-6f1f9bb72a4f/b69e21ff-421e-4eb6-99b6-25b404117f04_iPhone_U00285.5_inch_U0029_5_cn.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/22/b4/fa22b4c5-070f-75fc-fedb-7215a6f2183c/f44255e9-22d8-4812-a491-7116395642af_iPhone_U00285.5_inch_U0029_6_cn.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/8b/09/b08b0961-2c2d-8d69-03f5-8716444df5be/cd67510f-4a69-4306-b04d-9925a02b73a7_iPad2gen_1_cn.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/26/70/332670e5-922b-c666-eb04-1614bc46fe9e/aff4ff35-6edc-4152-944f-71fbf29a374c_iPad2gen_2_cn.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/71/7f/90717f26-e582-9515-6cc6-9c20950afeb5/569b851d-37e2-46d0-98e9-f7adc48767d4_iPad2gen_3_cn.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/de/f7/12def760-a504-d20f-7cc6-927f9cfdbcec/6c5a72ec-962f-4c29-8edd-ef525a215a91_iPad2gen_4_cn.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/87/fe/5787feab-ef7b-8520-d0f1-2102b6c77e6a/ea4a348e-4f89-44b2-a83e-7cac8dc17ccb_iPad2gen_5_cn.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/3a/47/d53a47a5-11b7-1106-53f4-3258318cbd9a/b2ef457f-0780-42ff-97c8-6e05abf0dd17_iPad2gen_6_cn.png/576x768bb.png"
+    ],
+    "_externalSourceFirstSeen": 1772807528043
+  },
   "1381392223": {
     "name": "FRMS - Granular Synthesizer",
     "trackName": "FRMS - Granular Synthesizer",
@@ -2921,8 +3403,8 @@
     "description": "还在翻找几千张照片？简忆相册利用设备端 AI，自动将照片库分类到智能相册中——无需联网。 AI 智能分类 基于 Apple Vision 框架，自动识别照片内容并归类： 宠物与动物 — 猫、狗等萌宠 美食与饮品 — 佳肴、咖啡、食谱 风景与自然 — 日落、山川、海滩 建筑与城市 — 地标、街景 人物与肖像 文档与截图 支持 1000+ 种物体识别 地点相册 根据 GPS 数据自动按城市分组照片，轻松回顾每段旅程。 自定义智能相册 按内容类型、地点、日期范围创建专属相册，新照片自动匹配归入。 隐私优先 — 无云端、无追踪 所有 AI 处理均在设备本地完成 无需网络连接 无云端上传、无账号注册 照片永不离开手机 照片编辑 内置编辑器，支持裁剪、旋转和调整，直接保存到照片库。 iOS 18+ 新功能 空间照片相册，支持 Vision Pro Apple 图像乐园集成 荣获 App Store 精选合集推荐 https://apps.apple.com/cn/story/id1674714323 简忆相册 — 让照片整理变得轻松简单。",
     "fullDescription": "还在翻找几千张照片？简忆相册利用设备端 AI，自动将照片库分类到智能相册中——无需联网。 AI 智能分类 基于 Apple Vision 框架，自动识别照片内容并归类： 宠物与动物 — 猫、狗等萌宠 美食与饮品 — 佳肴、咖啡、食谱 风景与自然 — 日落、山川、海滩 建筑与城市 — 地标、街景 人物与肖像 文档与截图 支持 1000+ 种物体识别 地点相册 根据 GPS 数据自动按城市分组照片，轻松回顾每段旅程。 自定义智能相册 按内容类型、地点、日期范围创建专属相册，新照片自动匹配归入。 隐私优先 — 无云端、无追踪 所有 AI 处理均在设备本地完成 无需网络连接 无云端上传、无账号注册 照片永不离开手机 照片编辑 内置编辑器，支持裁剪、旋转和调整，直接保存到照片库。 iOS 18+ 新功能 空间照片相册，支持 Vision Pro Apple 图像乐园集成 荣获 App Store 精选合集推荐 https://apps.apple.com/cn/story/id1674714323 简忆相册 — 让照片整理变得轻松简单。",
     "summaryDescription": "还在翻找几千张照片？简忆相册利用设备端 AI，自动将照片库分类到智能相册中——无需联网。 AI 智能分类 基于 Apple Vision 框架，自动识别照片内容并归类： 宠物与动物 — 猫、狗等萌宠 美食与饮品 — 佳肴、咖啡、食谱 风景与自然 — 日落、山川、海滩 建筑与城市 — 地标、街景 人物与肖像 文档与截图 支持 1000+ 种物体识别 地点相册 根据 GPS 数据自动按城市分组照片，轻松回顾每段旅程。 自定义智能相册 按内容类型、地点、日期范围创建专属相册，新照片自动匹配归入。 隐私优先 — 无云端、无追踪 所有 AI 处理均在设备本地完成 无需网络连接 无云端上传、无账号注册 照片永不离开手机 照片编辑 内置编辑器，支持裁剪、旋转和调整，直接保存到照片库。 iOS 18+ 新功能 空间照片相册，支持 Vision Pro Apple 图像乐园集成 荣获 App Store 精选合集推荐 https://apps.apple.com/cn/story/id1674714323 简忆相册 — 让照片整理变得轻松简单。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/fd/15/c6fd15f7-e974-4acf-8730-f138a0eb881f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/fd/15/c6fd15f7-e974-4acf-8730-f138a0eb881f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/08/2b/67082b4e-fa7c-08c6-62ec-e258d4f1ddf3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/08/2b/67082b4e-fa7c-08c6-62ec-e258d4f1ddf3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "小祯 汪",
     "artistName": "小祯 汪",
     "screenshotUrls": [
@@ -9005,8 +9487,8 @@
     "description": "开火车 在“小狐狸火车”中，孩子们可乘火车穿越神奇的田园风景，到各处游览。农场、工厂和城市的货物还等着您装卸呢。那些精美的插图、有趣的动画以及非常适合儿童的控制，就是很小的孩子也没问题。 帮忙采收和装货 可以到10多个不同的农场采收并装火车。帮忙采摘水果和蔬菜，从养鸡场拾鸡蛋或给奶牛挤奶。 把你采收的送到工厂 现在必须将采收的送到工厂去加工。胡萝卜型装饰蛋糕、桃子冰淇淋、还有羊驼毛制成的袜子 - 在20多家工厂中，孩子们边玩边熟悉生产过程，可主动帮忙，触发有趣的动画。 在城里卖货 在工厂将果汁、蛋糕或奶酪装车，运到大城市。那里的居民正等着买货呢，快将货物送到超市吧。 最适合小孩子 控制非常简单：点击一下就可以采收、装货、让火车加速。所以年纪小也可以轻松地玩。 “小狐狸铁路”是由Karoline Pietrowski绘制的。 通过对细节的关注、手工制作和画笔的使用，这些场景看起来就像一本画册。 特点： 易于控制，最适合2至5岁的儿童 风景如画 有30多个不同的车站 人物和动画生动有趣 可爱的图画和音乐 无需上网或WiFi - 随时随地可玩！ 关于 Fox & Sheep： 我们是来自柏林的儿童 App 工作室，为 2-8 岁的儿童开发高品质的游戏。 同样身为父母，我们带着对我们产品的热情和心血工作着。我们为我们的 App 选择全世界顶尖的插画师和动画师，为了能开发最美的 App 呈献给孩子们，以及带给我们和你们的孩子更丰富多彩的生活。",
     "fullDescription": "开火车 在“小狐狸火车”中，孩子们可乘火车穿越神奇的田园风景，到各处游览。农场、工厂和城市的货物还等着您装卸呢。那些精美的插图、有趣的动画以及非常适合儿童的控制，就是很小的孩子也没问题。 帮忙采收和装货 可以到10多个不同的农场采收并装火车。帮忙采摘水果和蔬菜，从养鸡场拾鸡蛋或给奶牛挤奶。 把你采收的送到工厂 现在必须将采收的送到工厂去加工。胡萝卜型装饰蛋糕、桃子冰淇淋、还有羊驼毛制成的袜子 - 在20多家工厂中，孩子们边玩边熟悉生产过程，可主动帮忙，触发有趣的动画。 在城里卖货 在工厂将果汁、蛋糕或奶酪装车，运到大城市。那里的居民正等着买货呢，快将货物送到超市吧。 最适合小孩子 控制非常简单：点击一下就可以采收、装货、让火车加速。所以年纪小也可以轻松地玩。 “小狐狸铁路”是由Karoline Pietrowski绘制的。 通过对细节的关注、手工制作和画笔的使用，这些场景看起来就像一本画册。 特点： 易于控制，最适合2至5岁的儿童 风景如画 有30多个不同的车站 人物和动画生动有趣 可爱的图画和音乐 无需上网或WiFi - 随时随地可玩！ 关于 Fox & Sheep： 我们是来自柏林的儿童 App 工作室，为 2-8 岁的儿童开发高品质的游戏。 同样身为父母，我们带着对我们产品的热情和心血工作着。我们为我们的 App 选择全世界顶尖的插画师和动画师，为了能开发最美的 App 呈献给孩子们，以及带给我们和你们的孩子更丰富多彩的生活。",
     "summaryDescription": "开火车 在“小狐狸火车”中，孩子们可乘火车穿越神奇的田园风景，到各处游览。农场、工厂和城市的货物还等着您装卸呢。那些精美的插图、有趣的动画以及非常适合儿童的控制，就是很小的孩子也没问题。 帮忙采收和装货 可以到10多个不同的农场采收并装火车。帮忙采摘水果和蔬菜，从养鸡场拾鸡蛋或给奶牛挤奶。 把你采收的送到工厂 现在必须将采收的送到工厂去加工。胡萝卜型装饰蛋糕、桃子冰淇淋、还有羊驼毛制成的袜子 - 在20多家工厂中，孩子们边玩边熟悉生产过程，可主动帮忙，触发有趣的动画。 在城里卖货 在工厂将果汁、蛋糕或奶酪装车，运到大城市。那里的居民正等着买货呢，快将货物送到超市吧。 最适合小孩子 控制非常简单：点击一下就可以采收、装货、让火车加速。所以年纪小也可以轻松地玩。 “小狐狸铁路”是由Karoline Pietrowski绘制的。 通过对细节的关注、手工制作和画笔的使用，这些场景看起来就像一本画册。 特点： 易于控制，最适合2至5岁的儿童 风景如画 有30多个不同的车站 人物和动画生动有趣 可爱的图画和音乐 无需上网或WiFi - 随时随地可玩！ 关于 Fox & Sheep： 我们是来自柏林的儿童 App 工作室，为 2-8 岁的儿童开发高品质的游戏。 同样身为父母，我们带着对我们产品的热情和心血工作着。我们为我们的 App 选择全世界顶尖的插画师和动画师，为了能开发最美的 App 呈献给孩子们，以及带给我们和你们的孩子更丰富多彩的生活。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1e/cb/0c/1ecb0c2e-c5b2-a610-f390-71b27ea3953b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1e/cb/0c/1ecb0c2e-c5b2-a610-f390-71b27ea3953b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/7d/fd/107dfd48-5c74-bb44-8ac4-0cacfdec4d43/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/7d/fd/107dfd48-5c74-bb44-8ac4-0cacfdec4d43/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Fox and Sheep GmbH",
     "artistName": "Fox and Sheep GmbH",
     "screenshotUrls": [
@@ -34180,8 +34662,8 @@
     "description": "The official CITB HS&E test app for Operatives and Specialists* The CITB Health, safety and environment (HS&E) operatives and specialists test app offers the only complete revision experience available. This app contains everything you need to know to book, prepare for - and sit the test Key application features: Experience our most realistic test simulation yet, revise on the move using your smartphone or tablet Benefit from having the full suite of revision material on your mobile device – practise knowledge questions and learning content with the ability to navigate forwards, backwards and flag questions for review. Take a simulated test against the clock to measure how ready you really are and where further preparation is needed Use questions and answers and learning content in book mode- Search the content bank for keywords Sit a practice test covering your weakest areas Smart revision concentrates on unseen questions and those you have answered incorrectly, to minimise repetition and maximise learning Review your progress with a comprehensive breakdown of scores – look at individual questions to see which answers are correct, watch as your scores improve over time with practice Revise for your test, even if English isn't your first language – The app provides voice-overs for the CITB HS&E Operatives test in 14 different languages including Bulgarian, Polish and Lithuanian Share your score on Facebook and Twitter Find your closest HS&E test centres, when you are ready to book and take your test New for this version: Content updated to reflect industry and legislation changes Addition of new learning content in book mode Updated test information New marking scheme Updated user interface For more information around the changes to the test, visit www.citb.co.uk/hsetestdev",
     "fullDescription": "The official CITB HS&E test app for Operatives and Specialists* The CITB Health, safety and environment (HS&E) operatives and specialists test app offers the only complete revision experience available. This app contains everything you need to know to book, prepare for - and sit the test Key application features: Experience our most realistic test simulation yet, revise on the move using your smartphone or tablet Benefit from having the full suite of revision material on your mobile device – practise knowledge questions and learning content with the ability to navigate forwards, backwards and flag questions for review. Take a simulated test against the clock to measure how ready you really are and where further preparation is needed Use questions and answers and learning content in book mode- Search the content bank for keywords Sit a practice test covering your weakest areas Smart revision concentrates on unseen questions and those you have answered incorrectly, to minimise repetition and maximise learning Review your progress with a comprehensive breakdown of scores – look at individual questions to see which answers are correct, watch as your scores improve over time with practice Revise for your test, even if English isn't your first language – The app provides voice-overs for the CITB HS&E Operatives test in 14 different languages including Bulgarian, Polish and Lithuanian Share your score on Facebook and Twitter Find your closest HS&E test centres, when you are ready to book and take your test New for this version: Content updated to reflect industry and legislation changes Addition of new learning content in book mode Updated test information New marking scheme Updated user interface For more information around the changes to the test, visit www.citb.co.uk/hsetestdev",
     "summaryDescription": "The official CITB HS&E test app for Operatives and Specialists* The CITB Health, safety and environment (HS&E) operatives and specialists test app offers the only complete revision experience available. This app contains everything you need to know to book, prepare for - and sit the test Key application features: Experience our most realistic test simulation yet, revise on the move using your smartphone or tablet Benefit from having the full suite of revision material on your mobile device – practise knowledge questions and learning content with the ability to navigate forwards, backwards and flag questions for review. Take a simulated test against the clock to measure how ready you really are and where further preparation is needed Use questions and answers and learning content in book mode- Search the content bank for keywords Sit a practice test covering your weakest areas Smart revision concentrates on unseen questions and those you have answered incorrectly, to minimise repetition and maximise learning Review your progress with a comprehensive breakdown of scores – look at individual questions to see which answers are correct, watch as your scores improve over time with practice Revise for your test, even if English isn't your first language – The app provides voice-overs for the CITB HS&E Operatives test in 14 different languages including Bulgarian, Polish and Lithuanian Share your score on Facebook and Twitter Find your closest HS&E test centres, when you are ready to book and take your test New for this version: Content updated to reflect industry and legislation changes Addition of new learning content in book mode Updated test information New marking scheme Updated user interface For more information around the changes to the test, visit www.citb.co.uk/hsetestdev",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/b7/9e/31b79e1b-62c1-ea34-3f5f-07fad375800a/AppIcon_Op-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/b7/9e/31b79e1b-62c1-ea34-3f5f-07fad375800a/AppIcon_Op-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/cc/f3/54ccf370-d40b-a913-972a-7cf111a1724d/AppIcon_Op-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/cc/f3/54ccf370-d40b-a913-972a-7cf111a1724d/AppIcon_Op-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "CITB-ConstructionSkills",
     "artistName": "CITB",
     "screenshotUrls": [
@@ -180954,6 +181436,16 @@
     "history": [
       [
         {
+          "timestamp": 1788958930832,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Premium Access": "¥328.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787394056085,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -190174,8 +190666,8 @@
     "description": "广受欢迎的「熊猫吃短信」推出了 2.0 版本，使用新的机器学习模型架构，更加准确，也支持了更多的分类。 全面适配 iOS 16 的最新的短信分类，在正常短信、垃圾短信之外能够识别更加细致的短信分类：财务（银行信息、保险、理财、水电费）、订单（取件码、物流、订单状态、旅游出行）、运营商、天气等等。 熊猫吃短信创新性的使用 CoreML 机器学习框架在手机端离线拦截垃圾短信。我们不上传用户短信，拒绝云端识别。 我们依靠广大的用户群体主动向我们举报垃圾短信来建立机器学习的样本库。然后使用基于统计学的机器学习算法从百万条各类短信样本中学习而成。无需用户配置任何关键词，它通过识别一个短信的语义特征，自己就可以精准的判断收到的短信是正常短信、公益短信、交易记录还是广告骚扰短信等等。 如果熊猫有判断失误的时候，大家可以在 App 里面投喂新的短信样本帮助熊猫进化，喂养越多熊猫越聪明。 隐私条款：熊猫会收集哪些信息？** 「熊猫吃短信」不会收集您的任何信息，更不会上传您的短信内容。如果您自愿向熊猫提交短信样本，那么会收集脱敏后的短信文本以及一个您标注是否是垃圾短信的数字，仅此两项数据。 https://baye.tech/privacy-policy.html 使用条款 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "广受欢迎的「熊猫吃短信」推出了 2.0 版本，使用新的机器学习模型架构，更加准确，也支持了更多的分类。 全面适配 iOS 16 的最新的短信分类，在正常短信、垃圾短信之外能够识别更加细致的短信分类：财务（银行信息、保险、理财、水电费）、订单（取件码、物流、订单状态、旅游出行）、运营商、天气等等。 熊猫吃短信创新性的使用 CoreML 机器学习框架在手机端离线拦截垃圾短信。我们不上传用户短信，拒绝云端识别。 我们依靠广大的用户群体主动向我们举报垃圾短信来建立机器学习的样本库。然后使用基于统计学的机器学习算法从百万条各类短信样本中学习而成。无需用户配置任何关键词，它通过识别一个短信的语义特征，自己就可以精准的判断收到的短信是正常短信、公益短信、交易记录还是广告骚扰短信等等。 如果熊猫有判断失误的时候，大家可以在 App 里面投喂新的短信样本帮助熊猫进化，喂养越多熊猫越聪明。 隐私条款：熊猫会收集哪些信息？** 「熊猫吃短信」不会收集您的任何信息，更不会上传您的短信内容。如果您自愿向熊猫提交短信样本，那么会收集脱敏后的短信文本以及一个您标注是否是垃圾短信的数字，仅此两项数据。 https://baye.tech/privacy-policy.html 使用条款 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "广受欢迎的「熊猫吃短信」推出了 2.0 版本，使用新的机器学习模型架构，更加准确，也支持了更多的分类。 全面适配 iOS 16 的最新的短信分类，在正常短信、垃圾短信之外能够识别更加细致的短信分类：财务（银行信息、保险、理财、水电费）、订单（取件码、物流、订单状态、旅游出行）、运营商、天气等等。 熊猫吃短信创新性的使用 CoreML 机器学习框架在手机端离线拦截垃圾短信。我们不上传用户短信，拒绝云端识别。 我们依靠广大的用户群体主动向我们举报垃圾短信来建立机器学习的样本库。然后使用基于统计学的机器学习算法从百万条各类短信样本中学习而成。无需用户配置任何关键词，它通过识别一个短信的语义特征，自己就可以精准的判断收到的短信是正常短信、公益短信、交易记录还是广告骚扰短信等等。 如果熊猫有判断失误的时候，大家可以在 App 里面投喂新的短信样本帮助熊猫进化，喂养越多熊猫越聪明。 隐私条款：熊猫会收集哪些信息？** 「熊猫吃短信」不会收集您的任何信息，更不会上传您的短信内容。如果您自愿向熊猫提交短信样本，那么会收集脱敏后的短信文本以及一个您标注是否是垃圾短信的数字，仅此两项数据。 https://baye.tech/privacy-policy.html 使用条款 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/a6/28/c5a628a4-b3d7-b087-62b0-92202e2c241e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/a6/28/c5a628a4-b3d7-b087-62b0-92202e2c241e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/07/3a/d4073a94-cef7-74a3-5f7f-bf45125149b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/07/3a/d4073a94-cef7-74a3-5f7f-bf45125149b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Early Moon, LLC",
     "artistName": "Early Moon, LLC",
     "screenshotUrls": [
@@ -213060,356 +213552,6 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/58/df/1b58dfa4-f0e4-2ed8-2593-1b1d07bf7dc8/6.5-cn-3.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/de/85/f0de8572-b888-a875-af98-215f93263af5/6.5-cn-4.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/58/b3/dd58b3d4-4ee5-bc65-852d-eb7dc66a455e/6.5-cn-6.png/320x480bb.jpg"
-    ]
-  },
-  "6742221550": {
-    "name": "魔卡棋旅",
-    "trackName": "魔卡棋旅",
-    "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00"
-    },
-    "minPriceInfo": {
-      "price": 12,
-      "formattedPrice": "¥12.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1772046909953,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1770916023652,
-          "price": 12,
-          "formattedPrice": "¥12.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1767544365292,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1766507793000,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1763051577831,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1762446905790,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1759846370320,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1759155151599,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1755353432676,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1754576264504,
-          "price": 12,
-          "formattedPrice": "¥12.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1752934275432,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1752070365505,
-          "price": 12,
-          "formattedPrice": "¥12.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1750774392637,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1750255981109,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1746453743410,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1745935349811,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1745328692670,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E9%AD%94%E5%8D%A1%E6%A3%8B%E6%97%85/id6742221550?uo=4",
-    "description": "这是一款革新式的Roguelite游戏： ◆“卡牌构筑×战棋”深度融合的独特玩法。 ◆独创的多牌同出玩法带来新鲜体验。 作为硬核向的策略游戏，《魔卡棋旅》有： ◆ 随机生成的战斗场景和地图节点，带来了丰富的战斗体验。 ◆ 六个独特的职业，每个职业的构筑玩法都是独一无二的。 ◆ 300+张卡牌和100+种秘宝与道具，每一局游戏都是全新的惊奇冒险！ ◆ 多周目层层递进的难度挑战。 ◆ 碎片化进程保存技术，随时随地玩几下或是持续玩够一局90分钟的冒险全都可以！",
-    "fullDescription": "这是一款革新式的Roguelite游戏： ◆“卡牌构筑×战棋”深度融合的独特玩法。 ◆独创的多牌同出玩法带来新鲜体验。 作为硬核向的策略游戏，《魔卡棋旅》有： ◆ 随机生成的战斗场景和地图节点，带来了丰富的战斗体验。 ◆ 六个独特的职业，每个职业的构筑玩法都是独一无二的。 ◆ 300+张卡牌和100+种秘宝与道具，每一局游戏都是全新的惊奇冒险！ ◆ 多周目层层递进的难度挑战。 ◆ 碎片化进程保存技术，随时随地玩几下或是持续玩够一局90分钟的冒险全都可以！",
-    "summaryDescription": "这是一款革新式的Roguelite游戏： ◆“卡牌构筑×战棋”深度融合的独特玩法。 ◆独创的多牌同出玩法带来新鲜体验。 作为硬核向的策略游戏，《魔卡棋旅》有： ◆ 随机生成的战斗场景和地图节点，带来了丰富的战斗体验。 ◆ 六个独特的职业，每个职业的构筑玩法都是独一无二的。 ◆ 300+张卡牌和100+种秘宝与道具，每一局游戏都是全新的惊奇冒险！ ◆ 多周目层层递进的难度挑战。 ◆ 碎片化进程保存技术，随时随地玩几下或是持续玩够一局90分钟的冒险全都可以！",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/8c/0c/5c8c0c40-301f-8f5e-90c8-c6e60abeeef8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/8c/0c/5c8c0c40-301f-8f5e-90c8-c6e60abeeef8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "sellerName": "Shenzhen Tongguan Network Technology Co., Ltd.",
-    "artistName": "Shenzhen Tongguan Network Technology Co., Ltd.",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/79/11/43791102-5db4-0986-4c86-59f1f5532e92/s1.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/35/ee/d435eef1-d412-115c-65fd-201e86cef604/s2.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/1b/a3/3c1ba320-5af2-bac3-3147-7c2e1f95d182/s3.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/2b/37/922b370c-fd85-4465-345b-54e2a8934964/s4.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/e9/71/1fe971ed-6603-248c-709b-eecf7fa2275e/s5.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/c8/c7/e5c8c73c-7437-0d8b-2207-510704a84a82/s6.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/97/3f/52973fde-9019-903c-6b14-ce05277b8aaa/s7.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/c9/2c/c3c92c7e-696f-3a90-195a-2d73a388633d/s8.png/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/38/e0/7e38e0bb-b573-cb75-af1b-2253a86a4755/p1.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/32/b8/6032b8a1-2c90-4958-c193-1203b9a542e1/p2.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/92/72/c5927297-c828-319b-eb56-6a70b43749ed/p3.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/e9/f3/26e9f3c7-1ea3-5757-2d4a-df56c14e159f/p4.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/46/56/f046561b-7c0c-c6eb-fd68-7c94fa48f4c4/p5.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/14/cb/0014cbd3-2a89-99e7-4d9f-78ccea4d3bb6/p6.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/c4/46/b3c44615-6fae-8204-6db1-16181b09493f/p7.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/66/fa/1866fac2-8b39-ef27-1c1b-d3da468f3627/p8.png/360x480bb.jpg"
-    ]
-  },
-  "6738767315": {
-    "name": "便利店开业日记",
-    "trackName": "便利店开业日记",
-    "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00"
-    },
-    "minPriceInfo": {
-      "price": 12,
-      "formattedPrice": "¥12.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1778121518687,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1777647264972,
-          "price": 12,
-          "formattedPrice": "¥12.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1771866498121,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1771001866488,
-          "price": 12,
-          "formattedPrice": "¥12.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1766378817173,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1766283702458,
-          "price": 12,
-          "formattedPrice": "¥12.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1760062811432,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1758853195988,
-          "price": 12,
-          "formattedPrice": "¥12.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1754882892620,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1754623766608,
-          "price": 12,
-          "formattedPrice": "¥12.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1752031032488,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1751512525372,
-          "price": 12,
-          "formattedPrice": "¥12.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1749004342365,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1748572277443,
-          "price": 12,
-          "formattedPrice": "¥12.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1746498642266,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1745893813794,
-          "price": 12,
-          "formattedPrice": "¥12.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1745328692670,
-          "price": 18,
-          "formattedPrice": "¥18.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BC%80%E4%B8%9A%E6%97%A5%E8%AE%B0/id6738767315?uo=4",
-    "description": "《便利店开业日记》是一款模拟经营类游戏，你将化身店长，从经营一家丰富多彩的便利店开始。在游戏过程中，你需要设置货架、培养店员、服务顾客......快来打造最客流最高、最受欢迎的连锁便利店！ 【精心陈列，打造特色专柜!】 研究商品搭配，精心打造人气货架。不断开发新商品，打造更多特色专柜吧！ 【精确经营，把握商品库存！】 时刻关注货架情况，设置合理的补货数量，减少废弃率，实现利润最大化！ 【培养店员，赢得比赛优胜！】 通过完成挑战提升店员各项能力，为客户提供更好的服务，同时冲击评选赛优胜！ 【满足顾客，获取丰厚回报！】 分发试用商品，俘获顾客们的青睐。满足顾客心愿，培养店铺的忠实顾客！ 【开设分店，打造连锁品牌!】 不断扩张规模，在新地区开设分店。击败本地对手，打造你的连锁便利店品牌！ 便利店里有 200 种以上不同的产品！ 我惊讶地发现，这里的商品比我想象的还要多： 饭团、炸饭团、甜点布丁......还有零食薯片......我去便利店的时候，总会忍不住买一堆计划外的东西。所以，如果你能打造出精美的商品货架，顾客肯定也会大量购买的。此外， 您还可以享受与竞争对手商店的销售战！ ——开罗君亲笔信",
-    "fullDescription": "《便利店开业日记》是一款模拟经营类游戏，你将化身店长，从经营一家丰富多彩的便利店开始。在游戏过程中，你需要设置货架、培养店员、服务顾客......快来打造最客流最高、最受欢迎的连锁便利店！ 【精心陈列，打造特色专柜!】 研究商品搭配，精心打造人气货架。不断开发新商品，打造更多特色专柜吧！ 【精确经营，把握商品库存！】 时刻关注货架情况，设置合理的补货数量，减少废弃率，实现利润最大化！ 【培养店员，赢得比赛优胜！】 通过完成挑战提升店员各项能力，为客户提供更好的服务，同时冲击评选赛优胜！ 【满足顾客，获取丰厚回报！】 分发试用商品，俘获顾客们的青睐。满足顾客心愿，培养店铺的忠实顾客！ 【开设分店，打造连锁品牌!】 不断扩张规模，在新地区开设分店。击败本地对手，打造你的连锁便利店品牌！ 便利店里有 200 种以上不同的产品！ 我惊讶地发现，这里的商品比我想象的还要多： 饭团、炸饭团、甜点布丁......还有零食薯片......我去便利店的时候，总会忍不住买一堆计划外的东西。所以，如果你能打造出精美的商品货架，顾客肯定也会大量购买的。此外， 您还可以享受与竞争对手商店的销售战！ ——开罗君亲笔信",
-    "summaryDescription": "《便利店开业日记》是一款模拟经营类游戏，你将化身店长，从经营一家丰富多彩的便利店开始。在游戏过程中，你需要设置货架、培养店员、服务顾客......快来打造最客流最高、最受欢迎的连锁便利店！ 【精心陈列，打造特色专柜!】 研究商品搭配，精心打造人气货架。不断开发新商品，打造更多特色专柜吧！ 【精确经营，把握商品库存！】 时刻关注货架情况，设置合理的补货数量，减少废弃率，实现利润最大化！ 【培养店员，赢得比赛优胜！】 通过完成挑战提升店员各项能力，为客户提供更好的服务，同时冲击评选赛优胜！ 【满足顾客，获取丰厚回报！】 分发试用商品，俘获顾客们的青睐。满足顾客心愿，培养店铺的忠实顾客！ 【开设分店，打造连锁品牌!】 不断扩张规模，在新地区开设分店。击败本地对手，打造你的连锁便利店品牌！ 便利店里有 200 种以上不同的产品！ 我惊讶地发现，这里的商品比我想象的还要多： 饭团、炸饭团、甜点布丁......还有零食薯片......我去便利店的时候，总会忍不住买一堆计划外的东西。所以，如果你能打造出精美的商品货架，顾客肯定也会大量购买的。此外， 您还可以享受与竞争对手商店的销售战！ ——开罗君亲笔信",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/ab/9c/49ab9c76-3da8-2c12-7e39-a469a1f93d22/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/ab/9c/49ab9c76-3da8-2c12-7e39-a469a1f93d22/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.jpg",
-    "sellerName": "Shenzhen Leiting Information Technology Co., Ltd.",
-    "artistName": "雷霆信息",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/75/15/23751540-88c8-e1fb-532a-403ec490a8a4/1.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/80/ad/6380ad6a-51ac-5980-5618-993d4cf8a7ef/2.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/94/1a/e2941ac7-be8e-29ba-45c8-981ffcf80e9e/3.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/7a/ba/be7aba9e-3835-974b-8b48-247a86c9c8f4/4.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/5c/a5/085ca5f7-5b35-bdc1-2de2-14c85e55a1a6/5.png/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/98/21/af982182-788c-41cb-630e-ae354713d354/1.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/a1/d6/b3a1d653-ef8a-53bf-aa58-d0a19faace77/2.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/5a/5b/3c5a5b27-47ae-f939-1e17-9e371d7f0827/3.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/a6/5d/13a65d5b-492f-d549-06bc-7d4fc8e5d979/4.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/6a/bc/826abcee-3c36-2002-c846-b4ae9241be00/5.png/360x480bb.jpg"
     ]
   }
 }

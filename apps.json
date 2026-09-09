@@ -2,6 +2,40 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 457622435,
+      "name": {
+        "cn": "Yoink - 拖放也可以轻松自如"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1788958930755,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804435186,
+      "name": {
+        "cn": "Days OFF"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788958884875,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763530340,
+      "name": {
+        "cn": "小白学数独"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1788958887765,
+      "_discountType": "app"
+    },
+    {
       "id": 460013304,
       "name": {
         "cn": "WritePDF mobile"
