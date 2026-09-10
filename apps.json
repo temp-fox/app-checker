@@ -2,6 +2,333 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 305242949,
+      "name": {
+        "cn": "iNet Pro - 网络扫描器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024970389,
+      "_discountType": "app"
+    },
+    {
+      "id": 382585125,
+      "name": {
+        "cn": "pic2shop PRO - DIY Barcode"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024970563,
+      "_discountType": "app"
+    },
+    {
+      "id": 957061929,
+      "name": {
+        "cn": "PDF Scanner: Date Stamp"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "iap"
+    },
+    {
+      "id": 1451570646,
+      "name": {
+        "cn": "Shy shrimp & Cory catfish"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "app"
+    },
+    {
+      "id": 1480168613,
+      "name": {
+        "cn": "Single Origin - Coffee Timer"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "app"
+    },
+    {
+      "id": 1513089417,
+      "name": {
+        "cn": "AnyScale - Tunings & Scales"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "app"
+    },
+    {
+      "id": 1527286727,
+      "name": {
+        "cn": "记事日历-记事与时间管理工具"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024970389,
+      "_discountType": "app"
+    },
+    {
+      "id": 1546575584,
+      "name": {
+        "cn": "加油向未来 科学一起嗨"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024984133,
+      "_discountType": "app"
+    },
+    {
+      "id": 1586473881,
+      "name": {
+        "cn": "RGM - Real Gigging Metronome"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809072439,
+      "name": {
+        "cn": "SOLO日程"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024970389,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763279304,
+      "name": {
+        "cn": "小白学滑雪"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024973066,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801987320,
+      "name": {
+        "cn": "seeklys"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024973137,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772259497,
+      "name": {
+        "cn": "语速助手：说话节拍器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024975862,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808260289,
+      "name": {
+        "cn": "一帧: 实况照片转静态图"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024975744,
+      "_discountType": "app"
+    },
+    {
+      "id": 6806721202,
+      "name": {
+        "cn": "M8 Music Tracker"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024978474,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789734684,
+      "name": {
+        "cn": "055U4RY"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024978474,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809171969,
+      "name": {
+        "cn": "Holden - DCA"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024984102,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794535226,
+      "name": {
+        "cn": "亲子英语角"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024984133,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762179193,
+      "name": {
+        "cn": "威斯敏斯特小要理问答"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024984133,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762076080,
+      "name": {
+        "cn": "海德堡要理问答"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789024984133,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763504025,
+      "name": {
+        "cn": "HomeschoolLog: School Records"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6764089072,
+      "name": {
+        "cn": "隐私小相册-本机加密更安心"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6806892588,
+      "name": {
+        "cn": "Period Tracker & Pregnancy App"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6807085822,
+      "name": {
+        "cn": "AR Builder: Pixel Art 3D Voxel"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6784645886,
+      "name": {
+        "cn": "MusicPod：经典音乐播放器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6791322417,
+      "name": {
+        "cn": "Chordyne"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775771984,
+      "name": {
+        "cn": "RefeCam"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808630327,
+      "name": {
+        "cn": "The Workout App: Home & Gym"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "app"
+    },
+    {
+      "id": 6445966741,
+      "name": {
+        "cn": "Barbara's Sleep Stories"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789025027299,
+      "_discountType": "app"
+    },
+    {
       "id": 290160980,
       "name": {
         "cn": "Audio Memos Pro"
