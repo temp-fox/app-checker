@@ -1,4 +1,972 @@
 {
+  "6444782083": {
+    "name": "王国保卫战4",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "¥30.00",
+      "超大防御塔组合包": "¥98.00",
+      "哈默霍尔德战役！": "¥58.00",
+      "超大英雄组合包": "¥148.00",
+      "海盗之王战役": "¥58.00",
+      "英雄 艾斯酷特": "¥38.00",
+      "英雄 电云": "¥38.00",
+      "英雄 贝雷萨德": "¥48.00",
+      "限时特惠": "¥148.00",
+      "防御塔 火光祭坛": "¥22.00",
+      "防御塔 炙热宝石": "¥38.00",
+      "防御塔 少林寺": "¥22.00",
+      "限时特惠 II": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00",
+      "超大防御塔组合包": "¥98.00",
+      "哈默霍尔德战役！": "¥58.00",
+      "超大英雄组合包": "¥128.00",
+      "海盗之王战役": "¥58.00",
+      "英雄 艾斯酷特": "¥38.00",
+      "英雄 电云": "¥38.00",
+      "英雄 贝雷萨德": "¥48.00",
+      "限时特惠": "¥22.00",
+      "防御塔 火光祭坛": "¥22.00",
+      "防御塔 炙热宝石": "¥38.00",
+      "防御塔 少林寺": "¥22.00",
+      "限时特惠 II": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750860787382,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1750342349525,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1750302768824,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1750294930223,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "海盗之王战役": "¥58.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥148.00",
+            "限时特惠 II": "¥28.00",
+            "限时特惠": "¥148.00",
+            "超大防御塔组合包": "¥98.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1750223604781,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1750216315437,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1750151670232,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1750100983765,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1749874569852,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1749759261922,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1749443075326,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1749439044822,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "海盗之王战役": "¥58.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥148.00",
+            "限时特惠 II": "¥28.00",
+            "限时特惠": "¥148.00",
+            "超大防御塔组合包": "¥98.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1749055417533,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1748800961416,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1748797322683,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "海盗之王战役": "¥58.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥148.00",
+            "限时特惠 II": "¥28.00",
+            "限时特惠": "¥148.00",
+            "超大防御塔组合包": "¥98.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1748527337543,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1748408544634,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1748405054904,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        },
+        {
+          "timestamp": 1748395795702,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1748361769136,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1748340155682,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1748296933840,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "限时特惠": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        },
+        {
+          "timestamp": 1748275344677,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "限时特惠": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1748253993786,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        },
+        {
+          "timestamp": 1748235750844,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1748136619880,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        },
+        {
+          "timestamp": 1748102531024,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1748095327810,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        },
+        {
+          "timestamp": 1748092119882,
+          "price": 24,
+          "formattedPrice": "¥24.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1748008944667,
+          "price": 24,
+          "formattedPrice": "¥24.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1748005811215,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1747864931116,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1747803747710,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1747800226785,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1746712941022,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1746709838821,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "海盗之王战役": "¥58.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥148.00",
+            "限时特惠 II": "¥28.00",
+            "限时特惠": "¥148.00",
+            "超大防御塔组合包": "¥98.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1746540140866,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1746453743410,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1746331470214,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1746309731186,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1746242213893,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1746239354241,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "海盗之王战役": "¥58.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥148.00",
+            "限时特惠 II": "¥28.00",
+            "限时特惠": "¥148.00",
+            "超大防御塔组合包": "¥98.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1745935349811,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1745733774086,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1745730140413,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "海盗之王战役": "¥58.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥148.00",
+            "限时特惠 II": "¥28.00",
+            "限时特惠": "¥148.00",
+            "超大防御塔组合包": "¥98.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1745640142195,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1745564540396,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        },
+        {
+          "timestamp": 1745557346725,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1745553751957,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "哈默霍尔德战役！": "¥58.00",
+            "超大防御塔组合包": "¥98.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1745503347397,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        },
+        {
+          "timestamp": 1745500208771,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "海盗之王战役": "¥58.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥148.00",
+            "限时特惠 II": "¥28.00",
+            "限时特惠": "¥148.00",
+            "超大防御塔组合包": "¥98.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1745371786907,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "海盗之王战役": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "英雄 电云": "¥38.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 少林寺": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1745328692670,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "超大防御塔组合包": "¥98.00",
+            "哈默霍尔德战役！": "¥58.00",
+            "超大英雄组合包": "¥128.00",
+            "海盗之王战役": "¥58.00",
+            "英雄 艾斯酷特": "¥38.00",
+            "英雄 电云": "¥38.00",
+            "英雄 贝雷萨德": "¥48.00",
+            "限时特惠": "¥22.00",
+            "防御塔 火光祭坛": "¥22.00",
+            "防御塔 炙热宝石": "¥38.00"
+          }
+        }
+      ]
+    ]
+  },
   "6450148077": {
     "name": "SnapFriends",
     "maxPriceInfo": {
@@ -11951,9 +12919,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/goblin-tools/id6449003064?uo=4",
-    "description": "一系列小而简单的工具，当事情感觉太大或复杂时，Goblin Tools 可以帮助将繁重的任务、令人困惑的消息、困难的决定和混乱的想法转化为易于管理的后续步骤。这是与 goblin.tools 关联的官方 Goblin Tools 应用程序。谨防非官方的模仿者。它们不隶属于 Goblin Tools，并且有些可能具有误导性或不安全。仅信任来自经过验证的 Goblin Tools 发行商的官方应用程序。 Goblin Tools 专为神经分化人群而设计，是日常生活中一系列小巧而聪明的助手的集合。它可以支持人们",
-    "fullDescription": "一系列小而简单的工具，当事情感觉太大或复杂时，Goblin Tools 可以帮助将繁重的任务、令人困惑的消息、困难的决定和混乱的想法转化为易于管理的后续步骤。这是与 goblin.tools 关联的官方 Goblin Tools 应用程序。谨防非官方的模仿者。它们不隶属于 Goblin Tools，并且有些可能具有误导性或不安全。仅信任来自经过验证的 Goblin Tools 发行商的官方应用程序。 Goblin Tools 专为神经分化人群而设计，是日常生活中一系列小巧而聪明的助手的集合。它可以支持人们",
-    "summaryDescription": "一系列小而简单的工具，当事情感觉太大或复杂时，Goblin Tools 可以帮助将繁重的任务、令人困惑的消息、困难的决定和混乱的想法转化为易于管理的后续步骤。这是与 goblin.tools 关联的官方 Goblin Tools 应用程序。谨防非官方的模仿者。它们不隶属于 Goblin Tools，并且有些可能具有误导性或不安全。仅信任来自经过验证的 Goblin Tools 发行商的官方应用程序。 Goblin Tools 专为神经分化人群而设计，是日常生活中一系列小巧而聪明的助手的集合。它可以支持人们",
+    "description": "A collection of small, simple tools, for when things feel too big or complicated Goblin Tools helps turn overwhelming tasks, confusing messages, difficult decisions, and messy thoughts into manageable next steps. This is the official Goblin Tools app associated with goblin.tools. Beware of unofficial copycats. They are not affiliated with Goblin Tools, and some may be misleading or unsafe. Only trust the official app from the verified Goblin Tools publisher. Created with neurodivergent people in mind, Goblin Tools is a collection of tiny, clever helpers for everyday life. It can support people with ADHD, autism, executive dysfunction, chronic illness, low-energy days, and anyone who could use a little help getting things done. You get: Magic ToDo: Break overwhelming tasks into clear, bite-sized steps Formalizer: Rewrite text to match the tone, style, or level of formality you need Judge: Get a second opinion on the mood, emotion, or intent behind a message Professor: Turn complicated subjects into explanations that are easier to understand Taskmaster: Work through your to-do list one step at a time, without losing focus Consultant: Compare options and get help making a decision Estimator: Create rough time estimates for tasks and activities Compiler: Transform a messy brain dump into an organized list of actions Chef: Invent recipes using the ingredients you already have Goblin Tools Pro unlocks features that rely on ongoing online services, storage, and continued development, and therefore cannot be sustainably provided for a single fixed purchase price. With Goblin Tools Pro, you can: Keep your data continuously synced between devices Create and reuse templates for to-do items Share the lists you create Make custom Formalizer tones and use your own voice Access your history across all Goblin Tools Use additional Pro features as they are introduced Use Goblin Tools for productivity, planning, communication, decision-making, learning, cooking, and getting unstuck when your brain refuses to cooperate. It is useful for anyone, but especially designed to help untangle the neurospicy challenges of ADHD, autism, executive dysfunction, spoonie life, and more. Purchasing the official app helps keep the Goblin Tools website free and ad-free for everyone, while Goblin Tools Pro supports the ongoing services behind its connected features.",
+    "fullDescription": "A collection of small, simple tools, for when things feel too big or complicated Goblin Tools helps turn overwhelming tasks, confusing messages, difficult decisions, and messy thoughts into manageable next steps. This is the official Goblin Tools app associated with goblin.tools. Beware of unofficial copycats. They are not affiliated with Goblin Tools, and some may be misleading or unsafe. Only trust the official app from the verified Goblin Tools publisher. Created with neurodivergent people in mind, Goblin Tools is a collection of tiny, clever helpers for everyday life. It can support people with ADHD, autism, executive dysfunction, chronic illness, low-energy days, and anyone who could use a little help getting things done. You get: Magic ToDo: Break overwhelming tasks into clear, bite-sized steps Formalizer: Rewrite text to match the tone, style, or level of formality you need Judge: Get a second opinion on the mood, emotion, or intent behind a message Professor: Turn complicated subjects into explanations that are easier to understand Taskmaster: Work through your to-do list one step at a time, without losing focus Consultant: Compare options and get help making a decision Estimator: Create rough time estimates for tasks and activities Compiler: Transform a messy brain dump into an organized list of actions Chef: Invent recipes using the ingredients you already have Goblin Tools Pro unlocks features that rely on ongoing online services, storage, and continued development, and therefore cannot be sustainably provided for a single fixed purchase price. With Goblin Tools Pro, you can: Keep your data continuously synced between devices Create and reuse templates for to-do items Share the lists you create Make custom Formalizer tones and use your own voice Access your history across all Goblin Tools Use additional Pro features as they are introduced Use Goblin Tools for productivity, planning, communication, decision-making, learning, cooking, and getting unstuck when your brain refuses to cooperate. It is useful for anyone, but especially designed to help untangle the neurospicy challenges of ADHD, autism, executive dysfunction, spoonie life, and more. Purchasing the official app helps keep the Goblin Tools website free and ad-free for everyone, while Goblin Tools Pro supports the ongoing services behind its connected features.",
+    "summaryDescription": "A collection of small, simple tools, for when things feel too big or complicated Goblin Tools helps turn overwhelming tasks, confusing messages, difficult decisions, and messy thoughts into manageable next steps. This is the official Goblin Tools app associated with goblin.tools. Beware of unofficial copycats. They are not affiliated with Goblin Tools, and some may be misleading or unsafe. Only trust the official app from the verified Goblin Tools publisher. Created with neurodivergent people in mind, Goblin Tools is a collection of tiny, clever helpers for everyday life. It can support people with ADHD, autism, executive dysfunction, chronic illness, low-energy days, and anyone who could use a little help getting things done. You get: Magic ToDo: Break overwhelming tasks into clear, bite-sized steps Formalizer: Rewrite text to match the tone, style, or level of formality you need Judge: Get a second opinion on the mood, emotion, or intent behind a message Professor: Turn complicated subjects into explanations that are easier to understand Taskmaster: Work through your to-do list one step at a time, without losing focus Consultant: Compare options and get help making a decision Estimator: Create rough time estimates for tasks and activities Compiler: Transform a messy brain dump into an organized list of actions Chef: Invent recipes using the ingredients you already have Goblin Tools Pro unlocks features that rely on ongoing online services, storage, and continued development, and therefore cannot be sustainably provided for a single fixed purchase price. With Goblin Tools Pro, you can: Keep your data continuously synced between devices Create and reuse templates for to-do items Share the lists you create Make custom Formalizer tones and use your own voice Access your history across all Goblin Tools Use additional Pro features as they are introduced Use Goblin Tools for productivity, planning, communication, decision-making, learning, cooking, and getting unstuck when your brain refuses to cooperate. It is useful for anyone, but especially designed to help untangle the neurospicy challenges of ADHD, autism, executive dysfunction, spoonie life, and more. Purchasing the official app helps keep the Goblin Tools website free and ad-free for everyone, while Goblin Tools Pro supports the ongoing services behind its connected features.",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
     "sellerName": "Skyhook",
@@ -52180,6 +53148,20 @@
     "history": [
       [
         {
+          "timestamp": 1789062341820,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "万圣节主题套装": "¥6.00",
+            "凉爽夏日": "¥6.00",
+            "马年新春": "¥6.00",
+            "皮肤合集": "¥15.00",
+            "节日套装": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788078261721,
           "price": 25,
           "formattedPrice": "¥25.00",
@@ -54478,6 +55460,25 @@
       "DLC-暖意泳装礼包1": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789062341820,
+          "price": 29,
+          "formattedPrice": "¥29.00",
+          "inAppPurchases": {
+            "《沙石镇时光》美好时光与怪兽萌宠合集包": "¥14.00",
+            "《沙石镇时光》肥尾守宫宠物包": "¥3.00",
+            "DLC-家具合集包": "¥10.00",
+            "手游DLC-工坊主泳装礼服合集包": "¥5.00",
+            "DLC-星光礼服礼包合集": "¥12.00",
+            "DLC超值合集包": "¥56.00",
+            "《沙石镇时光》DLC-暖意泳装礼包合集": "¥12.00",
+            "《沙石镇时光》怪兽萌宠": "¥10.00",
+            "沙石镇时光恋爱时光DLC": "¥10.00",
+            "DLC-暖意泳装礼包3": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788821660179,
@@ -59150,19 +60151,19 @@
     "description": "闹钟 Pro 是一款专为排班、倒班、大小周和不固定作息设计的智能闹钟。 支持日期排班、周期排班、节假日智能跳过、自定义铃声等功能。一次设置，即可自动管理未来的闹钟，告别每天重复设置和频繁开关。 界面纯净无广告，基础功能免费使用。无需订阅，高级功能支持一次性解锁。 适合医生、护士、工厂轮班人员、值班岗位，以及其他按照固定排期工作或生活的用户。 【智能排班】 支持日期排班和周期排班两种方式。 日期排班可直接在日历中选择响铃日期，也可导入节假日模板后进行调整，适合班次不固定或需要灵活安排的用户。 周期排班只需设置开始日期和循环规则，即可自动生成未来排班，适合大小周、做一休一、做四休二、两班倒等规律作息。 支持创建多个排班，为不同班次设置对应的闹钟时间、名称和颜色。 排班还可通过二维码分享给同事、家人或团队成员。分享者更新排班后，导入方也能同步获取最新内容。排班即将到期时，系统会发送提醒，避免遗漏后续设置。 【节假日智能跳过】 支持中国内地及港澳台节假日数据。 工作日闹钟可自动识别法定假期、调休工作日和周末，无需每逢假期手动关闭和重新开启。 【自定义铃声】 支持导入音乐并进行剪辑，也可以直接录制声音，制作专属起床铃声。 还可设置每日随机铃声，让每个清晨保持新鲜感。 【日出日落闹钟】 根据日期和地点自动计算日出、日落时间，并支持提前或延后触发。 适合日出起床、日落提醒、摄影及户外活动等场景。 【桌面与锁屏小组件】 无需打开 App，即可在桌面或锁屏查看下一次闹钟时间。 桌面排班组件还可展示未来排班，方便随时确认接下来的班次安排。 【系统级可靠性】 基于 iOS 最新闹钟 SDK 开发，无惧静音、勿扰模式，提醒始终准时可靠。 【iCloud 同步】 支持通过 iCloud 在多台设备之间同步闹钟、排班、起床记录、自定义铃声和白噪音播放列表等数据。 更换设备或同时使用 iPhone、iPad 时，可更方便地保持数据一致，减少重复设置。同步功能默认由用户手动开启，数据存储在个人 iCloud 账号中。 【纯净无广告】 不展示任何广告，让闹钟设置和日程管理保持简单、安静和专注。 闹钟 Pro 可免费下载，基础功能即可满足日常使用需求。 完整高级功能需要升级到Pro版本： √ 支持订阅或一次性解锁，灵活自由 √ 持续更新与功能优化 √ 全程无广告 使用中遇到问题或有功能建议，可通过 App 内的“反馈与建议”联系我们。 使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "闹钟 Pro 是一款专为排班、倒班、大小周和不固定作息设计的智能闹钟。 支持日期排班、周期排班、节假日智能跳过、自定义铃声等功能。一次设置，即可自动管理未来的闹钟，告别每天重复设置和频繁开关。 界面纯净无广告，基础功能免费使用。无需订阅，高级功能支持一次性解锁。 适合医生、护士、工厂轮班人员、值班岗位，以及其他按照固定排期工作或生活的用户。 【智能排班】 支持日期排班和周期排班两种方式。 日期排班可直接在日历中选择响铃日期，也可导入节假日模板后进行调整，适合班次不固定或需要灵活安排的用户。 周期排班只需设置开始日期和循环规则，即可自动生成未来排班，适合大小周、做一休一、做四休二、两班倒等规律作息。 支持创建多个排班，为不同班次设置对应的闹钟时间、名称和颜色。 排班还可通过二维码分享给同事、家人或团队成员。分享者更新排班后，导入方也能同步获取最新内容。排班即将到期时，系统会发送提醒，避免遗漏后续设置。 【节假日智能跳过】 支持中国内地及港澳台节假日数据。 工作日闹钟可自动识别法定假期、调休工作日和周末，无需每逢假期手动关闭和重新开启。 【自定义铃声】 支持导入音乐并进行剪辑，也可以直接录制声音，制作专属起床铃声。 还可设置每日随机铃声，让每个清晨保持新鲜感。 【日出日落闹钟】 根据日期和地点自动计算日出、日落时间，并支持提前或延后触发。 适合日出起床、日落提醒、摄影及户外活动等场景。 【桌面与锁屏小组件】 无需打开 App，即可在桌面或锁屏查看下一次闹钟时间。 桌面排班组件还可展示未来排班，方便随时确认接下来的班次安排。 【系统级可靠性】 基于 iOS 最新闹钟 SDK 开发，无惧静音、勿扰模式，提醒始终准时可靠。 【iCloud 同步】 支持通过 iCloud 在多台设备之间同步闹钟、排班、起床记录、自定义铃声和白噪音播放列表等数据。 更换设备或同时使用 iPhone、iPad 时，可更方便地保持数据一致，减少重复设置。同步功能默认由用户手动开启，数据存储在个人 iCloud 账号中。 【纯净无广告】 不展示任何广告，让闹钟设置和日程管理保持简单、安静和专注。 闹钟 Pro 可免费下载，基础功能即可满足日常使用需求。 完整高级功能需要升级到Pro版本： √ 支持订阅或一次性解锁，灵活自由 √ 持续更新与功能优化 √ 全程无广告 使用中遇到问题或有功能建议，可通过 App 内的“反馈与建议”联系我们。 使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "闹钟 Pro 是一款专为排班、倒班、大小周和不固定作息设计的智能闹钟。 支持日期排班、周期排班、节假日智能跳过、自定义铃声等功能。一次设置，即可自动管理未来的闹钟，告别每天重复设置和频繁开关。 界面纯净无广告，基础功能免费使用。无需订阅，高级功能支持一次性解锁。 适合医生、护士、工厂轮班人员、值班岗位，以及其他按照固定排期工作或生活的用户。 【智能排班】 支持日期排班和周期排班两种方式。 日期排班可直接在日历中选择响铃日期，也可导入节假日模板后进行调整，适合班次不固定或需要灵活安排的用户。 周期排班只需设置开始日期和循环规则，即可自动生成未来排班，适合大小周、做一休一、做四休二、两班倒等规律作息。 支持创建多个排班，为不同班次设置对应的闹钟时间、名称和颜色。 排班还可通过二维码分享给同事、家人或团队成员。分享者更新排班后，导入方也能同步获取最新内容。排班即将到期时，系统会发送提醒，避免遗漏后续设置。 【节假日智能跳过】 支持中国内地及港澳台节假日数据。 工作日闹钟可自动识别法定假期、调休工作日和周末，无需每逢假期手动关闭和重新开启。 【自定义铃声】 支持导入音乐并进行剪辑，也可以直接录制声音，制作专属起床铃声。 还可设置每日随机铃声，让每个清晨保持新鲜感。 【日出日落闹钟】 根据日期和地点自动计算日出、日落时间，并支持提前或延后触发。 适合日出起床、日落提醒、摄影及户外活动等场景。 【桌面与锁屏小组件】 无需打开 App，即可在桌面或锁屏查看下一次闹钟时间。 桌面排班组件还可展示未来排班，方便随时确认接下来的班次安排。 【系统级可靠性】 基于 iOS 最新闹钟 SDK 开发，无惧静音、勿扰模式，提醒始终准时可靠。 【iCloud 同步】 支持通过 iCloud 在多台设备之间同步闹钟、排班、起床记录、自定义铃声和白噪音播放列表等数据。 更换设备或同时使用 iPhone、iPad 时，可更方便地保持数据一致，减少重复设置。同步功能默认由用户手动开启，数据存储在个人 iCloud 账号中。 【纯净无广告】 不展示任何广告，让闹钟设置和日程管理保持简单、安静和专注。 闹钟 Pro 可免费下载，基础功能即可满足日常使用需求。 完整高级功能需要升级到Pro版本： √ 支持订阅或一次性解锁，灵活自由 √ 持续更新与功能优化 √ 全程无广告 使用中遇到问题或有功能建议，可通过 App 内的“反馈与建议”联系我们。 使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/2b/dc/582bdc49-f4ed-6bdf-0496-e67c528924c7/HolidayAlarmIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/2b/dc/582bdc49-f4ed-6bdf-0496-e67c528924c7/HolidayAlarmIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/c0/3d/0dc03d63-b6e1-08c6-9d86-7fd63252fab8/HolidayAlarmIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/c0/3d/0dc03d63-b6e1-08c6-9d86-7fd63252fab8/HolidayAlarmIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "文亮 张",
     "artistName": "文亮 张",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/e2/4b/fce24b19-4ca6-ecce-a1c4-7f559fc51e43/_U95f9_U949f.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/b8/5c/38b85c77-5978-4c27-267c-3500998c55bc/_U6392_U73ed_U8868.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/eb/d3/dfebd3b8-c7ac-ff84-dd4d-eba084b6fc0e/_U8ba1_U65f6_U5668.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/73/55/20735549-ca24-71a6-c488-f5b8154def6c/_U6570_U636e_U7edf_U8ba1.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/86/4f/97864f31-1cd0-03d6-01b2-031d58a071e6/_U5c0f_U7ec4_U4ef6.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/be/c0/01bec037-3396-68bf-1598-98c28972cdf3/_U94c3_U58f0.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/af/b7/d5afb700-2211-3a2d-9743-9dd6d99efe23/_U8282_U5047_U65e5-2.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/9b/f6/d39bf6bc-314f-9096-53f3-38af9d6636bc/_U95f9_U949f_U5c0f_U529f_U80fd.jpg/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/70/f7/7e70f73b-1ee3-e57b-4f51-f51c6518fd9f/_U95f9_U949f.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/8b/30/588b30a1-ccff-af3b-d03d-56bad1b59695/_U6392_U73ed_U8868.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/c3/56/1ac3564b-af8a-c6e7-9c22-6f9628f771dd/_U8ba1_U65f6_U5668.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/29/9f/6e299fcf-e3dc-fd77-436c-1ba0d3e82cd2/_U6570_U636e_U7edf_U8ba1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/de/32/e7de32d0-b760-43c0-086d-2a7963146860/_U5c0f_U7ec4_U4ef6.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/db/38/b8db382e-8f44-0062-a8a2-0b7ad9994dcd/_U94c3_U58f0.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/75/af/b375afc8-7818-ce16-dcee-6c611d49f55c/_U8282_U5047_U65e5-2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/e3/c1/bfe3c192-0d6b-2f74-2eac-64ff7d7a1c95/_U95f9_U949f_U5c0f_U529f_U80fd.jpg/320x480bb.jpg"
     ]
   },
   "6740257736": {
@@ -82881,6 +83882,18 @@
     "history": [
       [
         {
+          "timestamp": 1789062341820,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "BrainFit Premium - Lifetime": "¥0.00",
+            "BrainFit Premium - Yearly": "¥168.00",
+            "BrainFit Premium - Monthly": "¥28.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782121663408,
           "price": 0,
           "formattedPrice": "免费",
@@ -83013,9 +84026,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/brainfit-logic-puzzles-focus/id6751512104?uo=4",
-    "description": "Your brain has the amazing ability to grow and adapt at any age – it just needs regular exercise. BrainFit makes daily brain exercise fun, fast, and effective. Improve your brain muscles, sharpen your focus, and boost your problem-solving skills with just 3-minute daily workouts guided by your personal AI brain trainer, Neuro Coach. Why BrainFit? Personalized plan: Adaptive difficulty and a guided path from Cognitive Foundations → Advanced Skills → Cognitive Mastery. Daily routine: Focus & Inhibition, Processing Speed + Working Memo, Logic & Quant Reasoning, Flexibility & Verbal Fluency, Integration Challenge, and Recovery. Short, effective sessions: Fast, focused drills designed for busy schedules. What You’ll Train Working Memo: formation, recall techniques Attention & Focus: sustained/selective attention, distraction resistance Speed & Agility: processing speed, reaction time, quick decision-making Logic & Reasoning: deductive thinking, complex/abstract reasoning Flexibility & Creativity: task switching, perspective shifting, ideation Executive Function: planning, prioritization, cognitive control For Students, Professionals & Lifelong Learners: Whether you’re a student aiming to boost memo for exams, a professional seeking sharper focus and problem-solving at work, or a senior looking to keep your mind active, BrainFit adapts to you. The app is suitable for all ages and backgrounds, ensuring everyone can build a sharper, smarter mind. Real skills, real variety: Memo Palace & association methods, attention switching, working memo, reaction time, problem solving, creative thinking, executive control, and more. Built-In Motivation Levels & XP: 500 points per level, climb as you master lessons. Streaks & stats: Keep momentum with daily streaks and improvement tracking. Freemium Model – Upgrade for More: BrainFit is free to download and use, with core training exercises available for free. You’ll get a robust selection of brain games to start improving right away. Ready for the next level? Upgrade to BrainFit Premium to unlock the full training program: advanced lessons, all daily challenge modes for every day of the week, and exclusive games. Train with no limits and supercharge your progress with premium features! Give your brain the workout it deserves and have a blast doing it. Download BrainFit for free today and start your brain training journey. In just a few minutes a day, you can build a brighter memo, faster thinking, and a more focused, agile mind. Get ready to train your brain and unlock your full potential with BrainFit! Note: This app is for training and entertainment purposes and does not provide medical advice. Developed by Fastemy - Fast and Fun Education Privacy Policy: https://fastemy.com/privacy-policy Terms of Service: https://fastemy.com/terms-of-use",
-    "fullDescription": "Your brain has the amazing ability to grow and adapt at any age – it just needs regular exercise. BrainFit makes daily brain exercise fun, fast, and effective. Improve your brain muscles, sharpen your focus, and boost your problem-solving skills with just 3-minute daily workouts guided by your personal AI brain trainer, Neuro Coach. Why BrainFit? Personalized plan: Adaptive difficulty and a guided path from Cognitive Foundations → Advanced Skills → Cognitive Mastery. Daily routine: Focus & Inhibition, Processing Speed + Working Memo, Logic & Quant Reasoning, Flexibility & Verbal Fluency, Integration Challenge, and Recovery. Short, effective sessions: Fast, focused drills designed for busy schedules. What You’ll Train Working Memo: formation, recall techniques Attention & Focus: sustained/selective attention, distraction resistance Speed & Agility: processing speed, reaction time, quick decision-making Logic & Reasoning: deductive thinking, complex/abstract reasoning Flexibility & Creativity: task switching, perspective shifting, ideation Executive Function: planning, prioritization, cognitive control For Students, Professionals & Lifelong Learners: Whether you’re a student aiming to boost memo for exams, a professional seeking sharper focus and problem-solving at work, or a senior looking to keep your mind active, BrainFit adapts to you. The app is suitable for all ages and backgrounds, ensuring everyone can build a sharper, smarter mind. Real skills, real variety: Memo Palace & association methods, attention switching, working memo, reaction time, problem solving, creative thinking, executive control, and more. Built-In Motivation Levels & XP: 500 points per level, climb as you master lessons. Streaks & stats: Keep momentum with daily streaks and improvement tracking. Freemium Model – Upgrade for More: BrainFit is free to download and use, with core training exercises available for free. You’ll get a robust selection of brain games to start improving right away. Ready for the next level? Upgrade to BrainFit Premium to unlock the full training program: advanced lessons, all daily challenge modes for every day of the week, and exclusive games. Train with no limits and supercharge your progress with premium features! Give your brain the workout it deserves and have a blast doing it. Download BrainFit for free today and start your brain training journey. In just a few minutes a day, you can build a brighter memo, faster thinking, and a more focused, agile mind. Get ready to train your brain and unlock your full potential with BrainFit! Note: This app is for training and entertainment purposes and does not provide medical advice. Developed by Fastemy - Fast and Fun Education Privacy Policy: https://fastemy.com/privacy-policy Terms of Service: https://fastemy.com/terms-of-use",
-    "summaryDescription": "Your brain has the amazing ability to grow and adapt at any age – it just needs regular exercise. BrainFit makes daily brain exercise fun, fast, and effective. Improve your brain muscles, sharpen your focus, and boost your problem-solving skills with just 3-minute daily workouts guided by your personal AI brain trainer, Neuro Coach. Why BrainFit? Personalized plan: Adaptive difficulty and a guided path from Cognitive Foundations → Advanced Skills → Cognitive Mastery. Daily routine: Focus & Inhibition, Processing Speed + Working Memo, Logic & Quant Reasoning, Flexibility & Verbal Fluency, Integration Challenge, and Recovery. Short, effective sessions: Fast, focused drills designed for busy schedules. What You’ll Train Working Memo: formation, recall techniques Attention & Focus: sustained/selective attention, distraction resistance Speed & Agility: processing speed, reaction time, quick decision-making Logic & Reasoning: deductive thinking, complex/abstract reasoning Flexibility & Creativity: task switching, perspective shifting, ideation Executive Function: planning, prioritization, cognitive control For Students, Professionals & Lifelong Learners: Whether you’re a student aiming to boost memo for exams, a professional seeking sharper focus and problem-solving at work, or a senior looking to keep your mind active, BrainFit adapts to you. The app is suitable for all ages and backgrounds, ensuring everyone can build a sharper, smarter mind. Real skills, real variety: Memo Palace & association methods, attention switching, working memo, reaction time, problem solving, creative thinking, executive control, and more. Built-In Motivation Levels & XP: 500 points per level, climb as you master lessons. Streaks & stats: Keep momentum with daily streaks and improvement tracking. Freemium Model – Upgrade for More: BrainFit is free to download and use, with core training exercises available for free. You’ll get a robust selection of brain games to start improving right away. Ready for the next level? Upgrade to BrainFit Premium to unlock the full training program: advanced lessons, all daily challenge modes for every day of the week, and exclusive games. Train with no limits and supercharge your progress with premium features! Give your brain the workout it deserves and have a blast doing it. Download BrainFit for free today and start your brain training journey. In just a few minutes a day, you can build a brighter memo, faster thinking, and a more focused, agile mind. Get ready to train your brain and unlock your full potential with BrainFit! Note: This app is for training and entertainment purposes and does not provide medical advice. Developed by Fastemy - Fast and Fun Education Privacy Policy: https://fastemy.com/privacy-policy Terms of Service: https://fastemy.com/terms-of-use",
+    "description": "您的大脑在任何年龄都具有惊人的成长和适应能力——它只需要定期锻炼即可。 BrainFit 让日常大脑锻炼变得有趣、快速且有效。在您的私人人工智能大脑训练师 Neuro Coach 的指导下，每天进行 3 分钟的锻炼，即可改善您的大脑肌肉，提高注意力，并提高您解决问题的能力。为什么选择脑健身？个性化计划：适应性难度和从认知基础→高级技能→认知掌握的指导路径。日常生活：专注与抑制、处理速度+工作备忘录、逻辑与定量推理、灵活性与语言流畅性、整合",
+    "fullDescription": "您的大脑在任何年龄都具有惊人的成长和适应能力——它只需要定期锻炼即可。 BrainFit 让日常大脑锻炼变得有趣、快速且有效。在您的私人人工智能大脑训练师 Neuro Coach 的指导下，每天进行 3 分钟的锻炼，即可改善您的大脑肌肉，提高注意力，并提高您解决问题的能力。为什么选择脑健身？个性化计划：适应性难度和从认知基础→高级技能→认知掌握的指导路径。日常生活：专注与抑制、处理速度+工作备忘录、逻辑与定量推理、灵活性与语言流畅性、整合",
+    "summaryDescription": "您的大脑在任何年龄都具有惊人的成长和适应能力——它只需要定期锻炼即可。 BrainFit 让日常大脑锻炼变得有趣、快速且有效。在您的私人人工智能大脑训练师 Neuro Coach 的指导下，每天进行 3 分钟的锻炼，即可改善您的大脑肌肉，提高注意力，并提高您解决问题的能力。为什么选择脑健身？个性化计划：适应性难度和从认知基础→高级技能→认知掌握的指导路径。日常生活：专注与抑制、处理速度+工作备忘录、逻辑与定量推理、灵活性与语言流畅性、整合",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/a9/af/b7a9af43-576a-de4e-e43f-4d8e9ca3300f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/a9/af/b7a9af43-576a-de4e-e43f-4d8e9ca3300f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Abdullah YILMAZ",
@@ -85678,8 +86691,8 @@
     "description": "推荐使用：索尼A7C2、A7M4、A7M5、A7S3、A7R4、A7R5、A7R6、FX3、FX30、A1、A2M2、A9M2、A9M3等机身内具备原生FTP功能的机型。 佳能、尼康、富士部分旗舰机型也可以使用。 Continued use of GPS running in the background can dramatically decrease battery life.",
     "fullDescription": "推荐使用：索尼A7C2、A7M4、A7M5、A7S3、A7R4、A7R5、A7R6、FX3、FX30、A1、A2M2、A9M2、A9M3等机身内具备原生FTP功能的机型。 佳能、尼康、富士部分旗舰机型也可以使用。 Continued use of GPS running in the background can dramatically decrease battery life.",
     "summaryDescription": "推荐使用：索尼A7C2、A7M4、A7M5、A7S3、A7R4、A7R5、A7R6、FX3、FX30、A1、A2M2、A9M2、A9M3等机身内具备原生FTP功能的机型。 佳能、尼康、富士部分旗舰机型也可以使用。 Continued use of GPS running in the background can dramatically decrease battery life.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/d2/4d/51d24d36-6236-ff08-b1e1-e01437383ad7/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/d2/4d/51d24d36-6236-ff08-b1e1-e01437383ad7/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/a4/62/e4a4625c-623b-5e47-9f07-ab07cfb58c62/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/a4/62/e4a4625c-623b-5e47-9f07-ab07cfb58c62/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
     "sellerName": "英武 宋",
     "artistName": "英武 宋",
     "screenshotUrls": [
@@ -105362,8 +106375,8 @@
     "description": "Health.md 将你的 Apple 健康数据转化为精美、可搜索的 Markdown 健身日记，自动同步到 Obsidian 或你选择的任意文件夹。 使用方法 只需连接一次 Apple 健康 从涵盖 21 个类别的 225 多项健康数据中选择要追踪和导出的项目，包括睡眠、HRV、步数和心率 Health.md 按照你想要的格式，每天自动生成一篇 Markdown 笔记 笔记保存到你的 Obsidian 库、iCloud 云盘或本地文件夹 可导出的数据 睡眠 — 总时长、深度睡眠、REM 睡眠、核心睡眠、清醒、卧床时间 心脏 — HRV（日均值）、静息心率、步行心率、平均/最低/最高心率、心率恢复 活动 — 步数、距离、活动能量、锻炼时长、VO2 Max、站立时间 身体 — 体重、BMI、体脂率、去脂体重、腰围 生命体征 — 呼吸频率、血氧、体温、腕温、血压、血糖 营养 — 卡路里、蛋白质、碳水化合物、脂肪、膳食纤维、糖、钠、胆固醇等 正念、症状、生殖健康等数十个额外类别 Obsidian 原生支持 Health.md 专为 Obsidian 用户打造。每日笔记使用你现有的模板，插入到正确的文件夹，并支持 Obsidian Bases（YAML 前置属性），让你的健康数据可以在 Obsidian 数据库视图中查询。 灵活的格式 自定义指标名称和单位 选择每日、每周或手动导出计划 在文件夹路径中使用日期占位符（{year}、{month}、{quarter}、{week}） 支持导出为 Markdown、CSV、JSON 或 Obsidian Bases YAML 隐私保护 Health.md 不会将你的健康数据存储在 Health.md 服务器上。处理在你的设备上进行，导出内容只会发送到你选择的目标位置。Health.md 使用随机应用安装 ID 自动收集有限的假名化产品事件，用于了解新手引导和购买流程。这些事件绝不包含健康数值、指标名称、健康日期或导出文件，也不会用于广告或跨应用跟踪。 全方位健康管理 无论你是通过手表或手环追踪运动和计步数据，还是为了减肥、养生而进行健康管理，Health.md 都能将你的每一条健康记录整理成精美的 Markdown 笔记。 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "Health.md 将你的 Apple 健康数据转化为精美、可搜索的 Markdown 健身日记，自动同步到 Obsidian 或你选择的任意文件夹。 使用方法 只需连接一次 Apple 健康 从涵盖 21 个类别的 225 多项健康数据中选择要追踪和导出的项目，包括睡眠、HRV、步数和心率 Health.md 按照你想要的格式，每天自动生成一篇 Markdown 笔记 笔记保存到你的 Obsidian 库、iCloud 云盘或本地文件夹 可导出的数据 睡眠 — 总时长、深度睡眠、REM 睡眠、核心睡眠、清醒、卧床时间 心脏 — HRV（日均值）、静息心率、步行心率、平均/最低/最高心率、心率恢复 活动 — 步数、距离、活动能量、锻炼时长、VO2 Max、站立时间 身体 — 体重、BMI、体脂率、去脂体重、腰围 生命体征 — 呼吸频率、血氧、体温、腕温、血压、血糖 营养 — 卡路里、蛋白质、碳水化合物、脂肪、膳食纤维、糖、钠、胆固醇等 正念、症状、生殖健康等数十个额外类别 Obsidian 原生支持 Health.md 专为 Obsidian 用户打造。每日笔记使用你现有的模板，插入到正确的文件夹，并支持 Obsidian Bases（YAML 前置属性），让你的健康数据可以在 Obsidian 数据库视图中查询。 灵活的格式 自定义指标名称和单位 选择每日、每周或手动导出计划 在文件夹路径中使用日期占位符（{year}、{month}、{quarter}、{week}） 支持导出为 Markdown、CSV、JSON 或 Obsidian Bases YAML 隐私保护 Health.md 不会将你的健康数据存储在 Health.md 服务器上。处理在你的设备上进行，导出内容只会发送到你选择的目标位置。Health.md 使用随机应用安装 ID 自动收集有限的假名化产品事件，用于了解新手引导和购买流程。这些事件绝不包含健康数值、指标名称、健康日期或导出文件，也不会用于广告或跨应用跟踪。 全方位健康管理 无论你是通过手表或手环追踪运动和计步数据，还是为了减肥、养生而进行健康管理，Health.md 都能将你的每一条健康记录整理成精美的 Markdown 笔记。 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "Health.md 将你的 Apple 健康数据转化为精美、可搜索的 Markdown 健身日记，自动同步到 Obsidian 或你选择的任意文件夹。 使用方法 只需连接一次 Apple 健康 从涵盖 21 个类别的 225 多项健康数据中选择要追踪和导出的项目，包括睡眠、HRV、步数和心率 Health.md 按照你想要的格式，每天自动生成一篇 Markdown 笔记 笔记保存到你的 Obsidian 库、iCloud 云盘或本地文件夹 可导出的数据 睡眠 — 总时长、深度睡眠、REM 睡眠、核心睡眠、清醒、卧床时间 心脏 — HRV（日均值）、静息心率、步行心率、平均/最低/最高心率、心率恢复 活动 — 步数、距离、活动能量、锻炼时长、VO2 Max、站立时间 身体 — 体重、BMI、体脂率、去脂体重、腰围 生命体征 — 呼吸频率、血氧、体温、腕温、血压、血糖 营养 — 卡路里、蛋白质、碳水化合物、脂肪、膳食纤维、糖、钠、胆固醇等 正念、症状、生殖健康等数十个额外类别 Obsidian 原生支持 Health.md 专为 Obsidian 用户打造。每日笔记使用你现有的模板，插入到正确的文件夹，并支持 Obsidian Bases（YAML 前置属性），让你的健康数据可以在 Obsidian 数据库视图中查询。 灵活的格式 自定义指标名称和单位 选择每日、每周或手动导出计划 在文件夹路径中使用日期占位符（{year}、{month}、{quarter}、{week}） 支持导出为 Markdown、CSV、JSON 或 Obsidian Bases YAML 隐私保护 Health.md 不会将你的健康数据存储在 Health.md 服务器上。处理在你的设备上进行，导出内容只会发送到你选择的目标位置。Health.md 使用随机应用安装 ID 自动收集有限的假名化产品事件，用于了解新手引导和购买流程。这些事件绝不包含健康数值、指标名称、健康日期或导出文件，也不会用于广告或跨应用跟踪。 全方位健康管理 无论你是通过手表或手环追踪运动和计步数据，还是为了减肥、养生而进行健康管理，Health.md 都能将你的每一条健康记录整理成精美的 Markdown 笔记。 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/2b/d7/b82bd7e8-8260-6f10-f025-21f7cad2be34/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/2b/d7/b82bd7e8-8260-6f10-f025-21f7cad2be34/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/74/74/587474f1-cffe-a9c0-e3b6-b5a998e83d0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/74/74/587474f1-cffe-a9c0-e3b6-b5a998e83d0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Cody Russell Bontecou",
     "artistName": "Cody Russell Bontecou",
     "screenshotUrls": [
@@ -152843,8 +153856,8 @@
     "description": "Smart RTSP 是一款注重隐私的本地 IP 摄像头查看与事件录像 App，支持 RTSP、HLS 和 ONVIF。 你可以输入视频流 URL 手动添加摄像头，也可以在本地网络中发现 ONVIF 设备。查看实时画面，录制重要事件，回放历史记录，并控制支持的 ONVIF PTZ 云台摄像头。 主要功能： 查看 RTSP、HLS 和 ONVIF 摄像头 手动录制和事件触发录制，支持免录制时段与可调录制时长 按事件类型智能保留录像 运动、人物和声音检测，支持运动检测 ROI 区域 事件历史、录像回放和批量清理 从 Mac 将支持的 RTSP 摄像头桥接到 Apple Home 直播推流至 YouTube、Facebook、Twitch 或自定义 RTMP 本地通知和隐私优先设计，无需 Smart RTSP 账号 可选 iCloud 同步与 iCloud Drive 存储 兼容性取决于摄像头是否提供受支持的 RTSP/HLS 视频流或 ONVIF 服务。 Privacy Policy: https://www.smartrtsp.com/privacy.html Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "Smart RTSP 是一款注重隐私的本地 IP 摄像头查看与事件录像 App，支持 RTSP、HLS 和 ONVIF。 你可以输入视频流 URL 手动添加摄像头，也可以在本地网络中发现 ONVIF 设备。查看实时画面，录制重要事件，回放历史记录，并控制支持的 ONVIF PTZ 云台摄像头。 主要功能： 查看 RTSP、HLS 和 ONVIF 摄像头 手动录制和事件触发录制，支持免录制时段与可调录制时长 按事件类型智能保留录像 运动、人物和声音检测，支持运动检测 ROI 区域 事件历史、录像回放和批量清理 从 Mac 将支持的 RTSP 摄像头桥接到 Apple Home 直播推流至 YouTube、Facebook、Twitch 或自定义 RTMP 本地通知和隐私优先设计，无需 Smart RTSP 账号 可选 iCloud 同步与 iCloud Drive 存储 兼容性取决于摄像头是否提供受支持的 RTSP/HLS 视频流或 ONVIF 服务。 Privacy Policy: https://www.smartrtsp.com/privacy.html Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "Smart RTSP 是一款注重隐私的本地 IP 摄像头查看与事件录像 App，支持 RTSP、HLS 和 ONVIF。 你可以输入视频流 URL 手动添加摄像头，也可以在本地网络中发现 ONVIF 设备。查看实时画面，录制重要事件，回放历史记录，并控制支持的 ONVIF PTZ 云台摄像头。 主要功能： 查看 RTSP、HLS 和 ONVIF 摄像头 手动录制和事件触发录制，支持免录制时段与可调录制时长 按事件类型智能保留录像 运动、人物和声音检测，支持运动检测 ROI 区域 事件历史、录像回放和批量清理 从 Mac 将支持的 RTSP 摄像头桥接到 Apple Home 直播推流至 YouTube、Facebook、Twitch 或自定义 RTMP 本地通知和隐私优先设计，无需 Smart RTSP 账号 可选 iCloud 同步与 iCloud Drive 存储 兼容性取决于摄像头是否提供受支持的 RTSP/HLS 视频流或 ONVIF 服务。 Privacy Policy: https://www.smartrtsp.com/privacy.html Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/f0/e2/82f0e2d7-2724-a0e4-98e0-fc37d6a404be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/f0/e2/82f0e2d7-2724-a0e4-98e0-fc37d6a404be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/94/ce/7894ced6-c35f-2b5b-dea5-fdbf61dadcda/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/94/ce/7894ced6-c35f-2b5b-dea5-fdbf61dadcda/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "原野 葛",
     "artistName": "原野 葛",
     "screenshotUrls": [
@@ -154509,6 +155522,14 @@
     "history": [
       [
         {
+          "timestamp": 1789062341820,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788806917118,
           "price": 0,
           "formattedPrice": "免费",
@@ -154597,9 +155618,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/passport-photo/id6472762578?uo=4",
-    "description": "通过 AI 支持的背景自定义和精确的面部对齐指导的无缝集成，轻松制作理想的护照、身份证或签证照片。主要功能： 即时拍摄和裁剪：只需轻按几下即可拍摄完美的护照照片。该应用程序的集成摄像头可让您拍摄高分辨率照片，智能裁剪工具可确保您的照片符合护照标准的特定尺寸和构图要求。指南和合规检查器：担心是否符合护照照片的严格规定？该应用程序提供实时反馈",
-    "fullDescription": "通过 AI 支持的背景自定义和精确的面部对齐指导的无缝集成，轻松制作理想的护照、身份证或签证照片。主要功能： 即时拍摄和裁剪：只需轻按几下即可拍摄完美的护照照片。该应用程序的集成摄像头可让您拍摄高分辨率照片，智能裁剪工具可确保您的照片符合护照标准的特定尺寸和构图要求。指南和合规检查器：担心是否符合护照照片的严格规定？该应用程序提供实时反馈",
-    "summaryDescription": "通过 AI 支持的背景自定义和精确的面部对齐指导的无缝集成，轻松制作理想的护照、身份证或签证照片。主要功能： 即时拍摄和裁剪：只需轻按几下即可拍摄完美的护照照片。该应用程序的集成摄像头可让您拍摄高分辨率照片，智能裁剪工具可确保您的照片符合护照标准的特定尺寸和构图要求。指南和合规检查器：担心是否符合护照照片的严格规定？该应用程序提供实时反馈",
+    "description": "Effortlessly craft your ideal passport, ID, or visa photo with the seamless integration of AI-powered background customization and precise face alignment guidance. Key Features: Instant Capture and Crop: Take a perfect passport photo with just a few taps. The app's integrated camera allows you to capture high-resolution photos, and the intelligent cropping tool ensures that your photo meets the specific size and composition requirements of passport standards. Guidelines and Compliance Checker: Worried about meeting the stringent regulations for passport photos? The app provides real-time feedback and guidelines to help you align your photo correctly. It automatically checks for common issues such as head positioning, background color, and overall photo quality to ensure compliance with international standards. Background Customization: Choose a background color that suits your preferences or adheres to specific passport regulations. The app lets you easily switch between plain white, light blue, and other acceptable background colors, ensuring your photo meets the official criteria. Print and Share Options: Once you've created the perfect passport photo, the app allows you to save it to your device, share it digitally, or even print it directly from your phone. Say goodbye to expensive photo studios and lengthy processing times – get your passport photo in minutes. Multi-Size Support: Whether you need a standard passport photo, visa photo, or any other identification-sized photo, this app supports various sizing options. Simply select the required dimensions, and the app adjusts your photo accordingly. User-Friendly Interface: The Passport Photo Creator app is designed for users of all levels of tech-savviness. Its intuitive interface guides you through each step, making the entire process quick and stress-free.",
+    "fullDescription": "Effortlessly craft your ideal passport, ID, or visa photo with the seamless integration of AI-powered background customization and precise face alignment guidance. Key Features: Instant Capture and Crop: Take a perfect passport photo with just a few taps. The app's integrated camera allows you to capture high-resolution photos, and the intelligent cropping tool ensures that your photo meets the specific size and composition requirements of passport standards. Guidelines and Compliance Checker: Worried about meeting the stringent regulations for passport photos? The app provides real-time feedback and guidelines to help you align your photo correctly. It automatically checks for common issues such as head positioning, background color, and overall photo quality to ensure compliance with international standards. Background Customization: Choose a background color that suits your preferences or adheres to specific passport regulations. The app lets you easily switch between plain white, light blue, and other acceptable background colors, ensuring your photo meets the official criteria. Print and Share Options: Once you've created the perfect passport photo, the app allows you to save it to your device, share it digitally, or even print it directly from your phone. Say goodbye to expensive photo studios and lengthy processing times – get your passport photo in minutes. Multi-Size Support: Whether you need a standard passport photo, visa photo, or any other identification-sized photo, this app supports various sizing options. Simply select the required dimensions, and the app adjusts your photo accordingly. User-Friendly Interface: The Passport Photo Creator app is designed for users of all levels of tech-savviness. Its intuitive interface guides you through each step, making the entire process quick and stress-free.",
+    "summaryDescription": "Effortlessly craft your ideal passport, ID, or visa photo with the seamless integration of AI-powered background customization and precise face alignment guidance. Key Features: Instant Capture and Crop: Take a perfect passport photo with just a few taps. The app's integrated camera allows you to capture high-resolution photos, and the intelligent cropping tool ensures that your photo meets the specific size and composition requirements of passport standards. Guidelines and Compliance Checker: Worried about meeting the stringent regulations for passport photos? The app provides real-time feedback and guidelines to help you align your photo correctly. It automatically checks for common issues such as head positioning, background color, and overall photo quality to ensure compliance with international standards. Background Customization: Choose a background color that suits your preferences or adheres to specific passport regulations. The app lets you easily switch between plain white, light blue, and other acceptable background colors, ensuring your photo meets the official criteria. Print and Share Options: Once you've created the perfect passport photo, the app allows you to save it to your device, share it digitally, or even print it directly from your phone. Say goodbye to expensive photo studios and lengthy processing times – get your passport photo in minutes. Multi-Size Support: Whether you need a standard passport photo, visa photo, or any other identification-sized photo, this app supports various sizing options. Simply select the required dimensions, and the app adjusts your photo accordingly. User-Friendly Interface: The Passport Photo Creator app is designed for users of all levels of tech-savviness. Its intuitive interface guides you through each step, making the entire process quick and stress-free.",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/f2/2f/bcf22f0d-9178-fa28-78be-14a8df9ff829/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/f2/2f/bcf22f0d-9178-fa28-78be-14a8df9ff829/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Viet Ho Duc",
@@ -169972,8 +170993,8 @@
     "description": "eLearning Birds South Africa' is designed specifically to teach and test a person's ability to identify birds in the field, focusing only on sight and sounds of birds. This Application is designed specifically for Field Guide students and is a Study Aid and not a typical bird app. eLearning Birds covers the whole of South Africa and its 9 Biomes regions, including 660 bird species with more than 5000 pictures and 600 bird calls. By working through various bird lists and slides, the user is taught the calls and appearance of the birds in a very simple and easy process. In traditional bird apps, birds are typically presented in the order of name, picture, and call. This application introduces birds in a different order: first the bird's call, then its picture, and lastly its name. This change in the 'Order of Introduction' may seem trivial, but it has a significant impact on the user's ability to remember and recognize bird calls. It's important to note that this is not a traditional bird app; there are many amazing bird apps providing copious amounts of information regarding birds. This app focuses on teaching the user to identify birds via sight or sounds.",
     "fullDescription": "eLearning Birds South Africa' is designed specifically to teach and test a person's ability to identify birds in the field, focusing only on sight and sounds of birds. This Application is designed specifically for Field Guide students and is a Study Aid and not a typical bird app. eLearning Birds covers the whole of South Africa and its 9 Biomes regions, including 660 bird species with more than 5000 pictures and 600 bird calls. By working through various bird lists and slides, the user is taught the calls and appearance of the birds in a very simple and easy process. In traditional bird apps, birds are typically presented in the order of name, picture, and call. This application introduces birds in a different order: first the bird's call, then its picture, and lastly its name. This change in the 'Order of Introduction' may seem trivial, but it has a significant impact on the user's ability to remember and recognize bird calls. It's important to note that this is not a traditional bird app; there are many amazing bird apps providing copious amounts of information regarding birds. This app focuses on teaching the user to identify birds via sight or sounds.",
     "summaryDescription": "eLearning Birds South Africa' is designed specifically to teach and test a person's ability to identify birds in the field, focusing only on sight and sounds of birds. This Application is designed specifically for Field Guide students and is a Study Aid and not a typical bird app. eLearning Birds covers the whole of South Africa and its 9 Biomes regions, including 660 bird species with more than 5000 pictures and 600 bird calls. By working through various bird lists and slides, the user is taught the calls and appearance of the birds in a very simple and easy process. In traditional bird apps, birds are typically presented in the order of name, picture, and call. This application introduces birds in a different order: first the bird's call, then its picture, and lastly its name. This change in the 'Order of Introduction' may seem trivial, but it has a significant impact on the user's ability to remember and recognize bird calls. It's important to note that this is not a traditional bird app; there are many amazing bird apps providing copious amounts of information regarding birds. This app focuses on teaching the user to identify birds via sight or sounds.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9a/e7/f39ae77f-da78-9939-0ba2-5ccadb417c10/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9a/e7/f39ae77f-da78-9939-0ba2-5ccadb417c10/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/6d/36/346d3639-df04-856f-e96e-17507240be35/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/6d/36/346d3639-df04-856f-e96e-17507240be35/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Jan-Hendrik Hanekom",
     "artistName": "Jan-Hendrik Hanekom",
     "screenshotUrls": [
@@ -172764,8 +173785,8 @@
     "description": "DBH 是一款专为重视隐私与极简生活打造的「纯本地」个人全景看板应用。集资产财务、密码安全、个人知识库与日常效率工具于一体，所有数据 100% 存储于您的本地设备，零云端上传，零第三方跟踪，为您构筑绝对私密的数字避风港。 【安全与隐私保险箱】 密码保险箱：安全存储账号密码与多字段凭据，内置 TOTP（两步验证）动态验证码生成器，支持 iOS 系统级自动填充（Credential Provider）。 助记词与私钥保管：离线安全收录多链助记词（12/18/24词）与私钥，物理隔绝网络风险。 绝密信件：端到端本地加密通信与私密备忘记录，专属个人私语空间。 硬件级防护：全量敏感数据依托 iOS Keychain 硬件隔离区加密，支持 Face ID / Touch ID 生物识别解锁，防窥防盗。 【全景资产与个人财务】 资产全览：一站式管理信用卡、储蓄账户、借贷欠款与各类资产，净资产走势与财富等级一目了然。 极简记账：秒级录入交易明细，自动汇总统计，清晰呈现收支流水与财务全貌。 纯本地无风险：无需绑定网银账号，无密码泄露与数据采集隐患，离线也能安心记账。 【日常效率与生活工具集】 灵感备忘录：轻量快捷便签，随时捕捉瞬间灵感与生活随想。 Markdown 文档库：专业级轻量 Markdown 编辑器，支持语法高亮、实时渲染排版与目录大纲。 待办清单：灵活的任务打卡与清单分类，高效推进待办事项与日常工作流。 倒数日 & 纪念日：重要节日、生日与纪念日天数正数倒数，不错过每一个珍贵时刻。 智能书签：自动抓取网站 Favicon 图标，井井有条归纳常用灵感链接。 人情账本：礼尚往来与人情往来明细记录，人脉社交清晰有数。 物品库存与衣橱：居家收纳物品清点与衣橱单品瀑布流搭配，告别重复购买。 创作辅助：内置提词器、涂鸦画板与地理足迹轨迹打卡。 【设计美学与 iOS 深度集成】 现代化设计：精心打磨的 Glassmorphism 毛玻璃拟态质感卡片与丝滑触感反馈。 个性化定制：提供多款精美主题皮肤与自定义壁纸，打造专属视觉风格。 WidgetKit 小组件：丰富实用的桌面与锁屏小组件，抬手即览关键资产、待办与纪念日。 纯粹、安全、优雅——DBH，做您最贴心的私人数字管家。 隐私政策: https://ios.1895.cn/privacy-policy.html Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "DBH 是一款专为重视隐私与极简生活打造的「纯本地」个人全景看板应用。集资产财务、密码安全、个人知识库与日常效率工具于一体，所有数据 100% 存储于您的本地设备，零云端上传，零第三方跟踪，为您构筑绝对私密的数字避风港。 【安全与隐私保险箱】 密码保险箱：安全存储账号密码与多字段凭据，内置 TOTP（两步验证）动态验证码生成器，支持 iOS 系统级自动填充（Credential Provider）。 助记词与私钥保管：离线安全收录多链助记词（12/18/24词）与私钥，物理隔绝网络风险。 绝密信件：端到端本地加密通信与私密备忘记录，专属个人私语空间。 硬件级防护：全量敏感数据依托 iOS Keychain 硬件隔离区加密，支持 Face ID / Touch ID 生物识别解锁，防窥防盗。 【全景资产与个人财务】 资产全览：一站式管理信用卡、储蓄账户、借贷欠款与各类资产，净资产走势与财富等级一目了然。 极简记账：秒级录入交易明细，自动汇总统计，清晰呈现收支流水与财务全貌。 纯本地无风险：无需绑定网银账号，无密码泄露与数据采集隐患，离线也能安心记账。 【日常效率与生活工具集】 灵感备忘录：轻量快捷便签，随时捕捉瞬间灵感与生活随想。 Markdown 文档库：专业级轻量 Markdown 编辑器，支持语法高亮、实时渲染排版与目录大纲。 待办清单：灵活的任务打卡与清单分类，高效推进待办事项与日常工作流。 倒数日 & 纪念日：重要节日、生日与纪念日天数正数倒数，不错过每一个珍贵时刻。 智能书签：自动抓取网站 Favicon 图标，井井有条归纳常用灵感链接。 人情账本：礼尚往来与人情往来明细记录，人脉社交清晰有数。 物品库存与衣橱：居家收纳物品清点与衣橱单品瀑布流搭配，告别重复购买。 创作辅助：内置提词器、涂鸦画板与地理足迹轨迹打卡。 【设计美学与 iOS 深度集成】 现代化设计：精心打磨的 Glassmorphism 毛玻璃拟态质感卡片与丝滑触感反馈。 个性化定制：提供多款精美主题皮肤与自定义壁纸，打造专属视觉风格。 WidgetKit 小组件：丰富实用的桌面与锁屏小组件，抬手即览关键资产、待办与纪念日。 纯粹、安全、优雅——DBH，做您最贴心的私人数字管家。 隐私政策: https://ios.1895.cn/privacy-policy.html Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "DBH 是一款专为重视隐私与极简生活打造的「纯本地」个人全景看板应用。集资产财务、密码安全、个人知识库与日常效率工具于一体，所有数据 100% 存储于您的本地设备，零云端上传，零第三方跟踪，为您构筑绝对私密的数字避风港。 【安全与隐私保险箱】 密码保险箱：安全存储账号密码与多字段凭据，内置 TOTP（两步验证）动态验证码生成器，支持 iOS 系统级自动填充（Credential Provider）。 助记词与私钥保管：离线安全收录多链助记词（12/18/24词）与私钥，物理隔绝网络风险。 绝密信件：端到端本地加密通信与私密备忘记录，专属个人私语空间。 硬件级防护：全量敏感数据依托 iOS Keychain 硬件隔离区加密，支持 Face ID / Touch ID 生物识别解锁，防窥防盗。 【全景资产与个人财务】 资产全览：一站式管理信用卡、储蓄账户、借贷欠款与各类资产，净资产走势与财富等级一目了然。 极简记账：秒级录入交易明细，自动汇总统计，清晰呈现收支流水与财务全貌。 纯本地无风险：无需绑定网银账号，无密码泄露与数据采集隐患，离线也能安心记账。 【日常效率与生活工具集】 灵感备忘录：轻量快捷便签，随时捕捉瞬间灵感与生活随想。 Markdown 文档库：专业级轻量 Markdown 编辑器，支持语法高亮、实时渲染排版与目录大纲。 待办清单：灵活的任务打卡与清单分类，高效推进待办事项与日常工作流。 倒数日 & 纪念日：重要节日、生日与纪念日天数正数倒数，不错过每一个珍贵时刻。 智能书签：自动抓取网站 Favicon 图标，井井有条归纳常用灵感链接。 人情账本：礼尚往来与人情往来明细记录，人脉社交清晰有数。 物品库存与衣橱：居家收纳物品清点与衣橱单品瀑布流搭配，告别重复购买。 创作辅助：内置提词器、涂鸦画板与地理足迹轨迹打卡。 【设计美学与 iOS 深度集成】 现代化设计：精心打磨的 Glassmorphism 毛玻璃拟态质感卡片与丝滑触感反馈。 个性化定制：提供多款精美主题皮肤与自定义壁纸，打造专属视觉风格。 WidgetKit 小组件：丰富实用的桌面与锁屏小组件，抬手即览关键资产、待办与纪念日。 纯粹、安全、优雅——DBH，做您最贴心的私人数字管家。 隐私政策: https://ios.1895.cn/privacy-policy.html Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/f0/3b/11f03bf8-2936-dc37-0778-157ff6c9949b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/f0/3b/11f03bf8-2936-dc37-0778-157ff6c9949b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/6d/4a/e36d4af6-66bb-d721-afaf-f7de8fe9b6a7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/6d/4a/e36d4af6-66bb-d721-afaf-f7de8fe9b6a7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
     "sellerName": "良 陈",
     "artistName": "良 陈",
     "screenshotUrls": [
@@ -183651,9 +184672,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/vinylvibes/id6757410893?uo=4",
-    "description": "VinylVibes 将您的音乐变成一种视觉体验。观看您的曲目在精美渲染的乙烯基转盘上旋转，并具有实时视觉效果、自定义艺术作品和 10 频段参数均衡器。以您的方式播放您的音乐 Spotify 集成 — 连接您的 Spotify 帐户并直接控制播放。专辑封面实时出现在旋转的黑胶唱片上。本地音频 — 从您的设备导入 MP3、M4A 和 WAV 文件。完整的传输控制，包括搜索、播放和暂停。 10 频段参数均衡器 — 专业级均衡器，具有每频段频率、增益、Q 和滤波器类型控制。 26 策展人",
-    "fullDescription": "VinylVibes 将您的音乐变成一种视觉体验。观看您的曲目在精美渲染的乙烯基转盘上旋转，并具有实时视觉效果、自定义艺术作品和 10 频段参数均衡器。以您的方式播放您的音乐 Spotify 集成 — 连接您的 Spotify 帐户并直接控制播放。专辑封面实时出现在旋转的黑胶唱片上。本地音频 — 从您的设备导入 MP3、M4A 和 WAV 文件。完整的传输控制，包括搜索、播放和暂停。 10 频段参数均衡器 — 专业级均衡器，具有每频段频率、增益、Q 和滤波器类型控制。 26 策展人",
-    "summaryDescription": "VinylVibes 将您的音乐变成一种视觉体验。观看您的曲目在精美渲染的乙烯基转盘上旋转，并具有实时视觉效果、自定义艺术作品和 10 频段参数均衡器。以您的方式播放您的音乐 Spotify 集成 — 连接您的 Spotify 帐户并直接控制播放。专辑封面实时出现在旋转的黑胶唱片上。本地音频 — 从您的设备导入 MP3、M4A 和 WAV 文件。完整的传输控制，包括搜索、播放和暂停。 10 频段参数均衡器 — 专业级均衡器，具有每频段频率、增益、Q 和滤波器类型控制。 26 策展人",
+    "description": "VinylVibes turns your music into a visual experience. Watch your tracks spin on a beautifully rendered vinyl turntable with real-time visual effects, custom artwork, and a 10-band parametric equalizer. PLAY YOUR MUSIC YOUR WAY Spotify Integration — Connect your Spotify account and control playback directly. Album art appears on the spinning vinyl in real time. Local Audio — Import MP3, M4A, and WAV files from your device. Full transport controls with seek, play, and pause. 10-Band Parametric EQ — Professional-grade equalizer with per-band frequency, gain, Q, and filter type controls. 26 curated presets across Vinyl, Music, Pro, and Room categories. 50 VISUAL EFFECTS Nine categories of screen effects that overlay your turntable: Classic — Halo, Radar, Scanlines, Particles, Strobe, Cloud, Psychedelic Advanced — Plasma Nebula, Hyperspace Tunnel, Aurora Ribbons, Orbital Lattice, Film Grain Fractal — Mandelbrot, Julia Set, Sierpiński, Dragon Curve, Koch Aurora Golden Ratio — Golden Spiral, Phi Grid, Sunflower Field, Penta Bloom, Fibonacci Lattice Ancient World — Ziggurat Pulse, Cuneiform Flow, Celestial Orbs, Sacred Geometry, Star Gate Elemental — Lava Lamp, Neon Grid, Lightning Storm, Ink Diffusion, Crystal Facets Organic — Underwater Caustics, Fireflies, Rain on Glass Retro — Neon Grid Floor, CRT Monitor, VHS Tracking, Synthwave Sunset Iridescent — Holofoil, CD Surface, Spectrum Bands, Liquid Chrome, Prism, Oil Slick, Soap Bubble, Fresnel Rings, Holo Sheen, Diffraction Burst FULLSCREEN IMMERSIVE MODE Tap to enter a chrome-free fullscreen view — just your vinyl, your effects, and your music. Perfect for parties, streaming setups, or just vibing. AIRPLAY & EXTERNAL DISPLAY Cast your turntable to any TV via AirPlay or HDMI. The external display shows a clean, full-screen spinning record with track info — no UI chrome. VINYLVIBES PRO (One-Time Purchase) Upgrade once, unlock everything — no subscription: Custom Album Art — Use your own photos as the vinyl label artwork, per-track or as a global default. Iridescent Hologram Effects — 10 premium rainbow/foil/prism overlays. Retro Synthwave Effects — Neon grids, CRT scanlines, VHS glitch, synthwave sunsets. Organic Nature Effects — Underwater caustics, fireflies, rain on glass. Turntable Skins — 20 skins across Classic, Wood, Metal, Modern, and Space-Age categories. Needle & Tonearm Styles — Customize your tonearm and cartridge appearance. Vinyl Patterns — Picture discs and audio-reactive patterns on the record surface. Beat-Synced Visuals — Effects that pulse with your music. Analog Character — Dust, crackle, and analog warmth overlays. Shareable Video Export — Record your spinning vinyl as a 10, 15, or 30-second MP4 video with audio. Save to Photos or share directly. CUSTOMIZE EVERYTHING 8 vinyl colors from classic black to translucent clear 8 backdrop colors for the perfect mood Adjustable platter size All settings persist between sessions PRIVACY VinylVibes does not collect, store, or share any personal data. No analytics, no tracking, no accounts required. Your music stays on your device.",
+    "fullDescription": "VinylVibes turns your music into a visual experience. Watch your tracks spin on a beautifully rendered vinyl turntable with real-time visual effects, custom artwork, and a 10-band parametric equalizer. PLAY YOUR MUSIC YOUR WAY Spotify Integration — Connect your Spotify account and control playback directly. Album art appears on the spinning vinyl in real time. Local Audio — Import MP3, M4A, and WAV files from your device. Full transport controls with seek, play, and pause. 10-Band Parametric EQ — Professional-grade equalizer with per-band frequency, gain, Q, and filter type controls. 26 curated presets across Vinyl, Music, Pro, and Room categories. 50 VISUAL EFFECTS Nine categories of screen effects that overlay your turntable: Classic — Halo, Radar, Scanlines, Particles, Strobe, Cloud, Psychedelic Advanced — Plasma Nebula, Hyperspace Tunnel, Aurora Ribbons, Orbital Lattice, Film Grain Fractal — Mandelbrot, Julia Set, Sierpiński, Dragon Curve, Koch Aurora Golden Ratio — Golden Spiral, Phi Grid, Sunflower Field, Penta Bloom, Fibonacci Lattice Ancient World — Ziggurat Pulse, Cuneiform Flow, Celestial Orbs, Sacred Geometry, Star Gate Elemental — Lava Lamp, Neon Grid, Lightning Storm, Ink Diffusion, Crystal Facets Organic — Underwater Caustics, Fireflies, Rain on Glass Retro — Neon Grid Floor, CRT Monitor, VHS Tracking, Synthwave Sunset Iridescent — Holofoil, CD Surface, Spectrum Bands, Liquid Chrome, Prism, Oil Slick, Soap Bubble, Fresnel Rings, Holo Sheen, Diffraction Burst FULLSCREEN IMMERSIVE MODE Tap to enter a chrome-free fullscreen view — just your vinyl, your effects, and your music. Perfect for parties, streaming setups, or just vibing. AIRPLAY & EXTERNAL DISPLAY Cast your turntable to any TV via AirPlay or HDMI. The external display shows a clean, full-screen spinning record with track info — no UI chrome. VINYLVIBES PRO (One-Time Purchase) Upgrade once, unlock everything — no subscription: Custom Album Art — Use your own photos as the vinyl label artwork, per-track or as a global default. Iridescent Hologram Effects — 10 premium rainbow/foil/prism overlays. Retro Synthwave Effects — Neon grids, CRT scanlines, VHS glitch, synthwave sunsets. Organic Nature Effects — Underwater caustics, fireflies, rain on glass. Turntable Skins — 20 skins across Classic, Wood, Metal, Modern, and Space-Age categories. Needle & Tonearm Styles — Customize your tonearm and cartridge appearance. Vinyl Patterns — Picture discs and audio-reactive patterns on the record surface. Beat-Synced Visuals — Effects that pulse with your music. Analog Character — Dust, crackle, and analog warmth overlays. Shareable Video Export — Record your spinning vinyl as a 10, 15, or 30-second MP4 video with audio. Save to Photos or share directly. CUSTOMIZE EVERYTHING 8 vinyl colors from classic black to translucent clear 8 backdrop colors for the perfect mood Adjustable platter size All settings persist between sessions PRIVACY VinylVibes does not collect, store, or share any personal data. No analytics, no tracking, no accounts required. Your music stays on your device.",
+    "summaryDescription": "VinylVibes turns your music into a visual experience. Watch your tracks spin on a beautifully rendered vinyl turntable with real-time visual effects, custom artwork, and a 10-band parametric equalizer. PLAY YOUR MUSIC YOUR WAY Spotify Integration — Connect your Spotify account and control playback directly. Album art appears on the spinning vinyl in real time. Local Audio — Import MP3, M4A, and WAV files from your device. Full transport controls with seek, play, and pause. 10-Band Parametric EQ — Professional-grade equalizer with per-band frequency, gain, Q, and filter type controls. 26 curated presets across Vinyl, Music, Pro, and Room categories. 50 VISUAL EFFECTS Nine categories of screen effects that overlay your turntable: Classic — Halo, Radar, Scanlines, Particles, Strobe, Cloud, Psychedelic Advanced — Plasma Nebula, Hyperspace Tunnel, Aurora Ribbons, Orbital Lattice, Film Grain Fractal — Mandelbrot, Julia Set, Sierpiński, Dragon Curve, Koch Aurora Golden Ratio — Golden Spiral, Phi Grid, Sunflower Field, Penta Bloom, Fibonacci Lattice Ancient World — Ziggurat Pulse, Cuneiform Flow, Celestial Orbs, Sacred Geometry, Star Gate Elemental — Lava Lamp, Neon Grid, Lightning Storm, Ink Diffusion, Crystal Facets Organic — Underwater Caustics, Fireflies, Rain on Glass Retro — Neon Grid Floor, CRT Monitor, VHS Tracking, Synthwave Sunset Iridescent — Holofoil, CD Surface, Spectrum Bands, Liquid Chrome, Prism, Oil Slick, Soap Bubble, Fresnel Rings, Holo Sheen, Diffraction Burst FULLSCREEN IMMERSIVE MODE Tap to enter a chrome-free fullscreen view — just your vinyl, your effects, and your music. Perfect for parties, streaming setups, or just vibing. AIRPLAY & EXTERNAL DISPLAY Cast your turntable to any TV via AirPlay or HDMI. The external display shows a clean, full-screen spinning record with track info — no UI chrome. VINYLVIBES PRO (One-Time Purchase) Upgrade once, unlock everything — no subscription: Custom Album Art — Use your own photos as the vinyl label artwork, per-track or as a global default. Iridescent Hologram Effects — 10 premium rainbow/foil/prism overlays. Retro Synthwave Effects — Neon grids, CRT scanlines, VHS glitch, synthwave sunsets. Organic Nature Effects — Underwater caustics, fireflies, rain on glass. Turntable Skins — 20 skins across Classic, Wood, Metal, Modern, and Space-Age categories. Needle & Tonearm Styles — Customize your tonearm and cartridge appearance. Vinyl Patterns — Picture discs and audio-reactive patterns on the record surface. Beat-Synced Visuals — Effects that pulse with your music. Analog Character — Dust, crackle, and analog warmth overlays. Shareable Video Export — Record your spinning vinyl as a 10, 15, or 30-second MP4 video with audio. Save to Photos or share directly. CUSTOMIZE EVERYTHING 8 vinyl colors from classic black to translucent clear 8 backdrop colors for the perfect mood Adjustable platter size All settings persist between sessions PRIVACY VinylVibes does not collect, store, or share any personal data. No analytics, no tracking, no accounts required. Your music stays on your device.",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/39/88/7d398844-d5de-781d-8556-74eed3039ab6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/39/88/7d398844-d5de-781d-8556-74eed3039ab6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Nicholas Bessmer",
@@ -194530,8 +195551,8 @@
     "description": "LINA CHESS - Offline Chess Analysis & Training Understand your moves, practise with purpose, and bring what you learn to the board. LINA CHESS combines on-device Stockfish analysis, AI play, tactical puzzles, opening lessons, and game review in one app for iPhone and iPad. Available in English, Korean, German, Russian, French, Spanish, Japanese, Chinese, and Portuguese, with clearer learning messages. ANALYSE EVERY POSITION Use the Stockfish engine for real-time position analysis without an internet connection. Read centipawn evaluations and mate distances with the evaluation bar and move-by-move advantage graph. Follow arrows for recommended moves and possible opponent threats. Compare up to three engine lines. On compact screens, expand extra lines when you need them and collapse them to keep the board in focus. Adjust analysis depth and choose which analysis aids appear. PLAY YOUR WAY Challenge the AI at a difficulty that suits you, or play a local two-player game on the same device. Switch between AI and local play during a game. Return to a position in your game review and play it out against the AI to test another idea. LEARN OPENINGS, NOT JUST MOVE ORDERS Explore 20 guided openings with background, move-by-move explanations, alternatives, and plans for the position at the end of each line. Search openings and filter by colour or favourites to build a collection you want to study. Study the reasoning, then test your recall in move-by-move quizzes. Explore supported alternative continuations and jump to a related opening when a matching lesson is available. Use FSRS-based spaced repetition to revisit opening material over time. Review difficult positions separately, choose what to retry, and see dated records of your attempts. Distinguish moves answered without help from hints and wrong attempts. Continue from the final lesson position against the AI, turning opening knowledge into practical experience. BUILD TACTICAL CONFIDENCE Train with more than 50,000 puzzles, covering ratings from 800 to 3000+. Filter by rating, theme, and solving status, including unplayed, solved, and failed puzzles. Practise forks, pins, skewers, back-rank mates, discovered attacks, and other recurring patterns. Ask for a one-move hint when you are stuck. An arrow reveals the next move without giving away the whole continuation. Hint-assisted attempts are recorded separately from unassisted successes. Browse puzzle history, follow rating changes, and return to difficult puzzles for focused practice. Pause a puzzle and continue later. TURN GAMES INTO LESSONS Save games automatically as local PGN records and replay them move by move. Review accuracy and mistake counts for both sides, with move-quality feedback from Brilliant, Great, Best, Excellent, and Good to Inaccuracy, Mistake, Miss, and Blunder. Identify openings and variations automatically. Find turning points in the evaluation graph and practise finding better moves in Mistake Review. Resume unfinished learning from the home screen. Today's practice summarises your puzzles, opening reviews, successful retries, and assisted attempts. A CLOCK FOR OVER-THE-BOARD PLAY Choose Bullet, Blitz, Rapid, or Classical presets, or set your own time and increment. Haptic feedback helps confirm your taps. DESIGNED AROUND THE BOARD Personalise board colours and piece sets. Toggle coordinates, engine lines, and evaluation displays. Layouts adapt to iPhone and iPad in portrait and landscape, with compact controls, consistent move buttons, and clearer dialogs. OFFLINE AND PERSONAL Analysis runs on your device. Games, progress, and settings stay local, and no account is required. Learn and play without needing a connection. Make your next move a better-informed one with LINA CHESS. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
     "fullDescription": "LINA CHESS - Offline Chess Analysis & Training Understand your moves, practise with purpose, and bring what you learn to the board. LINA CHESS combines on-device Stockfish analysis, AI play, tactical puzzles, opening lessons, and game review in one app for iPhone and iPad. Available in English, Korean, German, Russian, French, Spanish, Japanese, Chinese, and Portuguese, with clearer learning messages. ANALYSE EVERY POSITION Use the Stockfish engine for real-time position analysis without an internet connection. Read centipawn evaluations and mate distances with the evaluation bar and move-by-move advantage graph. Follow arrows for recommended moves and possible opponent threats. Compare up to three engine lines. On compact screens, expand extra lines when you need them and collapse them to keep the board in focus. Adjust analysis depth and choose which analysis aids appear. PLAY YOUR WAY Challenge the AI at a difficulty that suits you, or play a local two-player game on the same device. Switch between AI and local play during a game. Return to a position in your game review and play it out against the AI to test another idea. LEARN OPENINGS, NOT JUST MOVE ORDERS Explore 20 guided openings with background, move-by-move explanations, alternatives, and plans for the position at the end of each line. Search openings and filter by colour or favourites to build a collection you want to study. Study the reasoning, then test your recall in move-by-move quizzes. Explore supported alternative continuations and jump to a related opening when a matching lesson is available. Use FSRS-based spaced repetition to revisit opening material over time. Review difficult positions separately, choose what to retry, and see dated records of your attempts. Distinguish moves answered without help from hints and wrong attempts. Continue from the final lesson position against the AI, turning opening knowledge into practical experience. BUILD TACTICAL CONFIDENCE Train with more than 50,000 puzzles, covering ratings from 800 to 3000+. Filter by rating, theme, and solving status, including unplayed, solved, and failed puzzles. Practise forks, pins, skewers, back-rank mates, discovered attacks, and other recurring patterns. Ask for a one-move hint when you are stuck. An arrow reveals the next move without giving away the whole continuation. Hint-assisted attempts are recorded separately from unassisted successes. Browse puzzle history, follow rating changes, and return to difficult puzzles for focused practice. Pause a puzzle and continue later. TURN GAMES INTO LESSONS Save games automatically as local PGN records and replay them move by move. Review accuracy and mistake counts for both sides, with move-quality feedback from Brilliant, Great, Best, Excellent, and Good to Inaccuracy, Mistake, Miss, and Blunder. Identify openings and variations automatically. Find turning points in the evaluation graph and practise finding better moves in Mistake Review. Resume unfinished learning from the home screen. Today's practice summarises your puzzles, opening reviews, successful retries, and assisted attempts. A CLOCK FOR OVER-THE-BOARD PLAY Choose Bullet, Blitz, Rapid, or Classical presets, or set your own time and increment. Haptic feedback helps confirm your taps. DESIGNED AROUND THE BOARD Personalise board colours and piece sets. Toggle coordinates, engine lines, and evaluation displays. Layouts adapt to iPhone and iPad in portrait and landscape, with compact controls, consistent move buttons, and clearer dialogs. OFFLINE AND PERSONAL Analysis runs on your device. Games, progress, and settings stay local, and no account is required. Learn and play without needing a connection. Make your next move a better-informed one with LINA CHESS. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
     "summaryDescription": "LINA CHESS - Offline Chess Analysis & Training Understand your moves, practise with purpose, and bring what you learn to the board. LINA CHESS combines on-device Stockfish analysis, AI play, tactical puzzles, opening lessons, and game review in one app for iPhone and iPad. Available in English, Korean, German, Russian, French, Spanish, Japanese, Chinese, and Portuguese, with clearer learning messages. ANALYSE EVERY POSITION Use the Stockfish engine for real-time position analysis without an internet connection. Read centipawn evaluations and mate distances with the evaluation bar and move-by-move advantage graph. Follow arrows for recommended moves and possible opponent threats. Compare up to three engine lines. On compact screens, expand extra lines when you need them and collapse them to keep the board in focus. Adjust analysis depth and choose which analysis aids appear. PLAY YOUR WAY Challenge the AI at a difficulty that suits you, or play a local two-player game on the same device. Switch between AI and local play during a game. Return to a position in your game review and play it out against the AI to test another idea. LEARN OPENINGS, NOT JUST MOVE ORDERS Explore 20 guided openings with background, move-by-move explanations, alternatives, and plans for the position at the end of each line. Search openings and filter by colour or favourites to build a collection you want to study. Study the reasoning, then test your recall in move-by-move quizzes. Explore supported alternative continuations and jump to a related opening when a matching lesson is available. Use FSRS-based spaced repetition to revisit opening material over time. Review difficult positions separately, choose what to retry, and see dated records of your attempts. Distinguish moves answered without help from hints and wrong attempts. Continue from the final lesson position against the AI, turning opening knowledge into practical experience. BUILD TACTICAL CONFIDENCE Train with more than 50,000 puzzles, covering ratings from 800 to 3000+. Filter by rating, theme, and solving status, including unplayed, solved, and failed puzzles. Practise forks, pins, skewers, back-rank mates, discovered attacks, and other recurring patterns. Ask for a one-move hint when you are stuck. An arrow reveals the next move without giving away the whole continuation. Hint-assisted attempts are recorded separately from unassisted successes. Browse puzzle history, follow rating changes, and return to difficult puzzles for focused practice. Pause a puzzle and continue later. TURN GAMES INTO LESSONS Save games automatically as local PGN records and replay them move by move. Review accuracy and mistake counts for both sides, with move-quality feedback from Brilliant, Great, Best, Excellent, and Good to Inaccuracy, Mistake, Miss, and Blunder. Identify openings and variations automatically. Find turning points in the evaluation graph and practise finding better moves in Mistake Review. Resume unfinished learning from the home screen. Today's practice summarises your puzzles, opening reviews, successful retries, and assisted attempts. A CLOCK FOR OVER-THE-BOARD PLAY Choose Bullet, Blitz, Rapid, or Classical presets, or set your own time and increment. Haptic feedback helps confirm your taps. DESIGNED AROUND THE BOARD Personalise board colours and piece sets. Toggle coordinates, engine lines, and evaluation displays. Layouts adapt to iPhone and iPad in portrait and landscape, with compact controls, consistent move buttons, and clearer dialogs. OFFLINE AND PERSONAL Analysis runs on your device. Games, progress, and settings stay local, and no account is required. Learn and play without needing a connection. Make your next move a better-informed one with LINA CHESS. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/af/65/69af6507-a335-c510-39f4-8e45962d2326/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/af/65/69af6507-a335-c510-39f4-8e45962d2326/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/e2/d4/a7e2d49b-5d91-4caa-6d8c-bd13082306b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/e2/d4/a7e2d49b-5d91-4caa-6d8c-bd13082306b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "CommonSource",
     "artistName": "CommonSource",
     "screenshotUrls": [
@@ -197638,8 +198659,8 @@
     "description": "■专为上班族打造，从此告别手动调闹钟。 支持法定工作日、单休、轮休、大小周、4天3班，按月等多种闹钟模式，智能跳过节假日，适配调休补班。 支持自定义日历、循环排班、手动排班，满足护士，外卖小哥等非固定上班模式等打工人的需求。 支持按场景分组，批量开启/关闭/移动/删除操作。 支持稍后提醒，支持响铃时打开其他App，运行快捷指令。 内置经典免费铃声，支持仅震动模式，支持导入&下载自定义铃声文件。 ■系统级别闹钟 不受静音，勿扰，睡眠，专注等模式影响 支持锁屏提醒，灵动岛提醒。 支持小组件，实时活动，灵动岛实时查看。",
     "fullDescription": "■专为上班族打造，从此告别手动调闹钟。 支持法定工作日、单休、轮休、大小周、4天3班，按月等多种闹钟模式，智能跳过节假日，适配调休补班。 支持自定义日历、循环排班、手动排班，满足护士，外卖小哥等非固定上班模式等打工人的需求。 支持按场景分组，批量开启/关闭/移动/删除操作。 支持稍后提醒，支持响铃时打开其他App，运行快捷指令。 内置经典免费铃声，支持仅震动模式，支持导入&下载自定义铃声文件。 ■系统级别闹钟 不受静音，勿扰，睡眠，专注等模式影响 支持锁屏提醒，灵动岛提醒。 支持小组件，实时活动，灵动岛实时查看。",
     "summaryDescription": "■专为上班族打造，从此告别手动调闹钟。 支持法定工作日、单休、轮休、大小周、4天3班，按月等多种闹钟模式，智能跳过节假日，适配调休补班。 支持自定义日历、循环排班、手动排班，满足护士，外卖小哥等非固定上班模式等打工人的需求。 支持按场景分组，批量开启/关闭/移动/删除操作。 支持稍后提醒，支持响铃时打开其他App，运行快捷指令。 内置经典免费铃声，支持仅震动模式，支持导入&下载自定义铃声文件。 ■系统级别闹钟 不受静音，勿扰，睡眠，专注等模式影响 支持锁屏提醒，灵动岛提醒。 支持小组件，实时活动，灵动岛实时查看。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/9a/5c/129a5c44-6423-d11e-72ea-91bfb86b47bf/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/9a/5c/129a5c44-6423-d11e-72ea-91bfb86b47bf/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/f4/3c/7cf43ce3-b28c-cb6b-8ab5-b042b93d9038/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/f4/3c/7cf43ce3-b28c-cb6b-8ab5-b042b93d9038/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "小旋 王",
     "artistName": "小旋 王",
     "screenshotUrls": [
@@ -202216,11 +203237,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/stockclaw-a%E8%82%A1%E6%B6%A8%E5%81%9C%E6%9D%BF%E5%88%86%E6%9E%90/id6761045384?uo=4",
-    "description": "StockClaw 是一款 A 股市场观察与复盘工具，集中展示涨停板、跌停、炸板、竞价、题材热度、市场情绪、个股行情、K 线和每日财经资讯。 主要功能 涨停板数据：查看涨停、跌停与炸板列表，支持按日期、连板数和题材筛选 实时题材：按题材查看涨停数、观察数、成分股表现和近期趋势 竞价与监控：查看竞价排行、实时列表、题材 Top15 与资金流向；交易时段自动更新当前页面 市场情绪：汇总上涨下跌家数、炸板率、成交额等关键市场数据 个股行情：搜索股票，查看价格、52 周位置、涨停基因、财务指标、近 15 天逻辑资料与 K 线 财经日报：浏览每日精选内容与 7×24 快讯，并保留本地已读状态 自选与分享：管理关注股票，将日报、涨停板和个股信息生成卡片分享 iPhone 与 iPad：支持深色、浅色主题及可调文字大小 会员与购买 完整功能需要有效的月度会员、年度会员或永久权限 符合 Apple 资格的新订阅者可试用 3 天，月度和年度方案均可选择 试用结束后，订阅会按购买时 Apple 确认页面显示的价格和周期自动续费 除非在当前周期结束至少 24 小时前取消，否则订阅将自动续订 你可以在 Apple 账户设置或 App 内的“管理或取消订阅”入口管理订阅，也可以在 App 内恢复购买 永久权限仅在指定活动期间开放，是一次性购买，不会自动续费 在 1.2.3 及更早版本付费下载 StockCl",
-    "fullDescription": "StockClaw 是一款 A 股市场观察与复盘工具，集中展示涨停板、跌停、炸板、竞价、题材热度、市场情绪、个股行情、K 线和每日财经资讯。 主要功能 涨停板数据：查看涨停、跌停与炸板列表，支持按日期、连板数和题材筛选 实时题材：按题材查看涨停数、观察数、成分股表现和近期趋势 竞价与监控：查看竞价排行、实时列表、题材 Top15 与资金流向；交易时段自动更新当前页面 市场情绪：汇总上涨下跌家数、炸板率、成交额等关键市场数据 个股行情：搜索股票，查看价格、52 周位置、涨停基因、财务指标、近 15 天逻辑资料与 K 线 财经日报：浏览每日精选内容与 7×24 快讯，并保留本地已读状态 自选与分享：管理关注股票，将日报、涨停板和个股信息生成卡片分享 iPhone 与 iPad：支持深色、浅色主题及可调文字大小 会员与购买 完整功能需要有效的月度会员、年度会员或永久权限 符合 Apple 资格的新订阅者可试用 3 天，月度和年度方案均可选择 试用结束后，订阅会按购买时 Apple 确认页面显示的价格和周期自动续费 除非在当前周期结束至少 24 小时前取消，否则订阅将自动续订 你可以在 Apple 账户设置或 App 内的“管理或取消订阅”入口管理订阅，也可以在 App 内恢复购买 永久权限仅在指定活动期间开放，是一次性购买，不会自动续费 在 1.2.3 及更早版本付费下载 StockCl",
-    "summaryDescription": "StockClaw 是一款 A 股市场观察与复盘工具，集中展示涨停板、跌停、炸板、竞价、题材热度、市场情绪、个股行情、K 线和每日财经资讯。 主要功能 涨停板数据：查看涨停、跌停与炸板列表，支持按日期、连板数和题材筛选 实时题材：按题材查看涨停数、观察数、成分股表现和近期趋势 竞价与监控：查看竞价排行、实时列表、题材 Top15 与资金流向；交易时段自动更新当前页面 市场情绪：汇总上涨下跌家数、炸板率、成交额等关键市场数据 个股行情：搜索股票，查看价格、52 周位置、涨停基因、财务指标、近 15 天逻辑资料与 K 线 财经日报：浏览每日精选内容与 7×24 快讯，并保留本地已读状态 自选与分享：管理关注股票，将日报、涨停板和个股信息生成卡片分享 iPhone 与 iPad：支持深色、浅色主题及可调文字大小 会员与购买 完整功能需要有效的月度会员、年度会员或永久权限 符合 Apple 资格的新订阅者可试用 3 天，月度和年度方案均可选择 试用结束后，订阅会按购买时 Apple 确认页面显示的价格和周期自动续费 除非在当前周期结束至少 24 小时前取消，否则订阅将自动续订 你可以在 Apple 账户设置或 App 内的“管理或取消订阅”入口管理订阅，也可以在 App 内恢复购买 永久权限仅在指定活动期间开放，是一次性购买，不会自动续费 在 1.2.3 及更早版本付费下载 StockCl",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/8d/48/6c8d4845-fa81-222d-484b-9797515b1b52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/8d/48/6c8d4845-fa81-222d-484b-9797515b1b52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "description": "StockClaw 是一款 A 股市场观察与复盘工具，集中展示涨停板、跌停、炸板、竞价、题材热度、市场情绪、个股行情、K 线和每日财经资讯。 主要功能 涨停板数据：查看涨停、跌停与炸板列表，支持按日期、连板数和题材筛选 实时题材：按题材查看涨停数、观察数、成分股表现和近期趋势 竞价与监控：查看竞价排行、实时列表、题材 Top15 与资金流向；交易时段自动更新当前页面 市场情绪：汇总上涨下跌家数、炸板率、成交额等关键市场数据 个股行情：搜索股票，查看价格、52 周位置、涨停基因、财务指标、近 15 天逻辑资料与 K 线 财经日报：浏览每日精选内容与 7×24 快讯，并保留本地已读状态 自选与分享：管理关注股票，将日报、涨停板和个股信息生成卡片分享 iPhone 与 iPad：支持深色、浅色主题及可调文字大小 会员与购买 订阅前可查看盘中监控、完整研判与盘后复盘的功能截图，支持滑动和放大查看 完整功能需要有效的月度会员、年度会员或永久权限 符合 Apple 资格的新订阅者可试用 3 天，月度和年度方案均可选择 试用结束后，订阅会按购买时 Apple 确认页面显示的价格和周期自动续费 除非在当前周期结束至少 24 小时前取消，否则订阅将自动续订 你可以在 Apple 账户设置或 App 内的“管理或取消订阅”入口管理订阅，也可以在 App 内恢复购买 永久权限仅在指定活动期间开放，是一次",
+    "fullDescription": "StockClaw 是一款 A 股市场观察与复盘工具，集中展示涨停板、跌停、炸板、竞价、题材热度、市场情绪、个股行情、K 线和每日财经资讯。 主要功能 涨停板数据：查看涨停、跌停与炸板列表，支持按日期、连板数和题材筛选 实时题材：按题材查看涨停数、观察数、成分股表现和近期趋势 竞价与监控：查看竞价排行、实时列表、题材 Top15 与资金流向；交易时段自动更新当前页面 市场情绪：汇总上涨下跌家数、炸板率、成交额等关键市场数据 个股行情：搜索股票，查看价格、52 周位置、涨停基因、财务指标、近 15 天逻辑资料与 K 线 财经日报：浏览每日精选内容与 7×24 快讯，并保留本地已读状态 自选与分享：管理关注股票，将日报、涨停板和个股信息生成卡片分享 iPhone 与 iPad：支持深色、浅色主题及可调文字大小 会员与购买 订阅前可查看盘中监控、完整研判与盘后复盘的功能截图，支持滑动和放大查看 完整功能需要有效的月度会员、年度会员或永久权限 符合 Apple 资格的新订阅者可试用 3 天，月度和年度方案均可选择 试用结束后，订阅会按购买时 Apple 确认页面显示的价格和周期自动续费 除非在当前周期结束至少 24 小时前取消，否则订阅将自动续订 你可以在 Apple 账户设置或 App 内的“管理或取消订阅”入口管理订阅，也可以在 App 内恢复购买 永久权限仅在指定活动期间开放，是一次",
+    "summaryDescription": "StockClaw 是一款 A 股市场观察与复盘工具，集中展示涨停板、跌停、炸板、竞价、题材热度、市场情绪、个股行情、K 线和每日财经资讯。 主要功能 涨停板数据：查看涨停、跌停与炸板列表，支持按日期、连板数和题材筛选 实时题材：按题材查看涨停数、观察数、成分股表现和近期趋势 竞价与监控：查看竞价排行、实时列表、题材 Top15 与资金流向；交易时段自动更新当前页面 市场情绪：汇总上涨下跌家数、炸板率、成交额等关键市场数据 个股行情：搜索股票，查看价格、52 周位置、涨停基因、财务指标、近 15 天逻辑资料与 K 线 财经日报：浏览每日精选内容与 7×24 快讯，并保留本地已读状态 自选与分享：管理关注股票，将日报、涨停板和个股信息生成卡片分享 iPhone 与 iPad：支持深色、浅色主题及可调文字大小 会员与购买 订阅前可查看盘中监控、完整研判与盘后复盘的功能截图，支持滑动和放大查看 完整功能需要有效的月度会员、年度会员或永久权限 符合 Apple 资格的新订阅者可试用 3 天，月度和年度方案均可选择 试用结束后，订阅会按购买时 Apple 确认页面显示的价格和周期自动续费 除非在当前周期结束至少 24 小时前取消，否则订阅将自动续订 你可以在 Apple 账户设置或 App 内的“管理或取消订阅”入口管理订阅，也可以在 App 内恢复购买 永久权限仅在指定活动期间开放，是一次",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/09/11/350911c0-bbdc-d0a0-ef27-6c9fb0e08379/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/09/11/350911c0-bbdc-d0a0-ef27-6c9fb0e08379/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "顺飞 邹",
     "artistName": "顺飞 邹",
     "screenshotUrls": [
@@ -202322,8 +203343,8 @@
     "description": "High-Precision Morse Code Decoder Achieve noise-resistant, accurate Morse code decoding with high-precision, sample-level signal processing. Try the superior “listening performance” in the free version. Differences Between Free and Full Versions This app lets everyone try the high-performance decoding engine for free. Free Version Continuous decoding: Up to 3 minutes per session (restart anytime, unlimited times) Basic font display Ideal for testing performance and checking short communications. Full Version (Paid Add-on) Unlimited time: For long ragchews and continuous monitoring Font settings: Customize font type and size for better visibility Recommended for active operation and a stress-free learning experience. Main Features & Technology High-Precision Real-Time Decoding Speed range: 5–50 WPM (auto-adjust speed and threshold) Frequency detection: 400–900 Hz (automatically tracks the strongest signal) Advanced Signal Processing Bandpass filter: Narrowband filtering reduces unwanted noise AGC (Automatic Gain Control): Compensates for signal level changes and fading Noise blanker: Reduces spike noise using MAD (Median Absolute Deviation) Signal stabilization: Multi-sample buffering helps prevent false detections Designed for Real-World Use Scrollable text: Review and check missed content Frequency lock: Tracks the actual operating frequency range (400–900 Hz) Visual support: On-screen text supports listening and copying Recommended For Morse Code Beginners Great for those getting started with Morse code. Seeing decoded text while listening helps self-correction and improves learning efficiency. Amateur Radio Operators CW practice: Compare results with your own copying to find weak points Contests: Helpful for high-speed reception support and log checking Portable ops: No PC needed—build a CW reception setup with just a smartphone Comeback Hams & Experts Useful for reducing fatigue during long monitoring sessions and supporting operators with hearing decline. Powerful filtering helps decoding in weak-signal or interference conditions. Note: Microphone permission is used only for signal analysis. No audio is saved or transmitted.",
     "fullDescription": "High-Precision Morse Code Decoder Achieve noise-resistant, accurate Morse code decoding with high-precision, sample-level signal processing. Try the superior “listening performance” in the free version. Differences Between Free and Full Versions This app lets everyone try the high-performance decoding engine for free. Free Version Continuous decoding: Up to 3 minutes per session (restart anytime, unlimited times) Basic font display Ideal for testing performance and checking short communications. Full Version (Paid Add-on) Unlimited time: For long ragchews and continuous monitoring Font settings: Customize font type and size for better visibility Recommended for active operation and a stress-free learning experience. Main Features & Technology High-Precision Real-Time Decoding Speed range: 5–50 WPM (auto-adjust speed and threshold) Frequency detection: 400–900 Hz (automatically tracks the strongest signal) Advanced Signal Processing Bandpass filter: Narrowband filtering reduces unwanted noise AGC (Automatic Gain Control): Compensates for signal level changes and fading Noise blanker: Reduces spike noise using MAD (Median Absolute Deviation) Signal stabilization: Multi-sample buffering helps prevent false detections Designed for Real-World Use Scrollable text: Review and check missed content Frequency lock: Tracks the actual operating frequency range (400–900 Hz) Visual support: On-screen text supports listening and copying Recommended For Morse Code Beginners Great for those getting started with Morse code. Seeing decoded text while listening helps self-correction and improves learning efficiency. Amateur Radio Operators CW practice: Compare results with your own copying to find weak points Contests: Helpful for high-speed reception support and log checking Portable ops: No PC needed—build a CW reception setup with just a smartphone Comeback Hams & Experts Useful for reducing fatigue during long monitoring sessions and supporting operators with hearing decline. Powerful filtering helps decoding in weak-signal or interference conditions. Note: Microphone permission is used only for signal analysis. No audio is saved or transmitted.",
     "summaryDescription": "High-Precision Morse Code Decoder Achieve noise-resistant, accurate Morse code decoding with high-precision, sample-level signal processing. Try the superior “listening performance” in the free version. Differences Between Free and Full Versions This app lets everyone try the high-performance decoding engine for free. Free Version Continuous decoding: Up to 3 minutes per session (restart anytime, unlimited times) Basic font display Ideal for testing performance and checking short communications. Full Version (Paid Add-on) Unlimited time: For long ragchews and continuous monitoring Font settings: Customize font type and size for better visibility Recommended for active operation and a stress-free learning experience. Main Features & Technology High-Precision Real-Time Decoding Speed range: 5–50 WPM (auto-adjust speed and threshold) Frequency detection: 400–900 Hz (automatically tracks the strongest signal) Advanced Signal Processing Bandpass filter: Narrowband filtering reduces unwanted noise AGC (Automatic Gain Control): Compensates for signal level changes and fading Noise blanker: Reduces spike noise using MAD (Median Absolute Deviation) Signal stabilization: Multi-sample buffering helps prevent false detections Designed for Real-World Use Scrollable text: Review and check missed content Frequency lock: Tracks the actual operating frequency range (400–900 Hz) Visual support: On-screen text supports listening and copying Recommended For Morse Code Beginners Great for those getting started with Morse code. Seeing decoded text while listening helps self-correction and improves learning efficiency. Amateur Radio Operators CW practice: Compare results with your own copying to find weak points Contests: Helpful for high-speed reception support and log checking Portable ops: No PC needed—build a CW reception setup with just a smartphone Comeback Hams & Experts Useful for reducing fatigue during long monitoring sessions and supporting operators with hearing decline. Powerful filtering helps decoding in weak-signal or interference conditions. Note: Microphone permission is used only for signal analysis. No audio is saved or transmitted.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/da/52/9dda5287-fb3d-32ee-ec76-ea629d4d9564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/da/52/9dda5287-fb3d-32ee-ec76-ea629d4d9564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/47/4f/c9474fb0-23b3-e36f-0b19-02abf57e80cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/47/4f/c9474fb0-23b3-e36f-0b19-02abf57e80cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Keiya Chiba",
     "artistName": "Keiya Chiba",
     "screenshotUrls": [
@@ -217351,6 +218372,14 @@
     "history": [
       [
         {
+          "timestamp": 1789062341820,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787121659115,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -217391,9 +218420,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/apireaderpro/id6484505044?uo=4",
-    "description": "Whether you're debugging or demonstrating your latest API, API Reader Pro is tailored to streamline the process. This app can start parsing an endpoint response from a specific key.",
-    "fullDescription": "Whether you're debugging or demonstrating your latest API, API Reader Pro is tailored to streamline the process. This app can start parsing an endpoint response from a specific key.",
-    "summaryDescription": "Whether you're debugging or demonstrating your latest API, API Reader Pro is tailored to streamline the process. This app can start parsing an endpoint response from a specific key.",
+    "description": "无论您是在调试还是演示最新的 API，API Reader Pro 都经过量身定制，可以简化流程。该应用程序可以开始解析来自特定密钥的端点响应。",
+    "fullDescription": "无论您是在调试还是演示最新的 API，API Reader Pro 都经过量身定制，可以简化流程。该应用程序可以开始解析来自特定密钥的端点响应。",
+    "summaryDescription": "无论您是在调试还是演示最新的 API，API Reader Pro 都经过量身定制，可以简化流程。该应用程序可以开始解析来自特定密钥的端点响应。",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/8d/fc/c78dfc7d-e6bf-6475-e99a-122d97385cf5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/8d/fc/c78dfc7d-e6bf-6475-e99a-122d97385cf5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Josep Vicent Ibanez Piera",
@@ -239544,8 +240573,8 @@
     "description": "随心计算器——iPhone 和 iPad 上的实时表达式计算器。 输入任意表达式，结果即时更新，无需按等号。光标可在表达式中任意移动、编辑，预览立即调整。每次计算自动保存到可搜索的历史记录中，支持备注和重复使用。 核心功能 实时预览——输入时结果同步显示 表达式编辑——退格、插入、自由移动光标 计算历史——搜索、置顶、复制、恢复任何记录 单位换算——长度、质量、面积、体积、温度、时间 参考汇率——多个数据源，自动切换备用 桌面小组件——汇率和公式显示在主屏幕和锁屏 Pro 功能 键盘工作室——重排按键、保存多种布局（紧凑/标准/科学） 主题工作室——10 款键盘主题、强调色、按键密度、深色模式 自定义公式——使用变量和实时汇率构建可复用工作流 会话管理——将工作整理为带备注的命名分组 云端同步——将所有数据备份到 iCloud，在任意设备恢复 长期可用：实时预览、完整历史、单位换算和科学按键。无广告、无需注册、核心功能无需网络。数据默认保留在您的设备上。 隐私政策: https://apps.foamzou.com/freestyle-calculator/privacy/ 服务条款: https://apps.foamzou.com/freestyle-calculator/terms/",
     "fullDescription": "随心计算器——iPhone 和 iPad 上的实时表达式计算器。 输入任意表达式，结果即时更新，无需按等号。光标可在表达式中任意移动、编辑，预览立即调整。每次计算自动保存到可搜索的历史记录中，支持备注和重复使用。 核心功能 实时预览——输入时结果同步显示 表达式编辑——退格、插入、自由移动光标 计算历史——搜索、置顶、复制、恢复任何记录 单位换算——长度、质量、面积、体积、温度、时间 参考汇率——多个数据源，自动切换备用 桌面小组件——汇率和公式显示在主屏幕和锁屏 Pro 功能 键盘工作室——重排按键、保存多种布局（紧凑/标准/科学） 主题工作室——10 款键盘主题、强调色、按键密度、深色模式 自定义公式——使用变量和实时汇率构建可复用工作流 会话管理——将工作整理为带备注的命名分组 云端同步——将所有数据备份到 iCloud，在任意设备恢复 长期可用：实时预览、完整历史、单位换算和科学按键。无广告、无需注册、核心功能无需网络。数据默认保留在您的设备上。 隐私政策: https://apps.foamzou.com/freestyle-calculator/privacy/ 服务条款: https://apps.foamzou.com/freestyle-calculator/terms/",
     "summaryDescription": "随心计算器——iPhone 和 iPad 上的实时表达式计算器。 输入任意表达式，结果即时更新，无需按等号。光标可在表达式中任意移动、编辑，预览立即调整。每次计算自动保存到可搜索的历史记录中，支持备注和重复使用。 核心功能 实时预览——输入时结果同步显示 表达式编辑——退格、插入、自由移动光标 计算历史——搜索、置顶、复制、恢复任何记录 单位换算——长度、质量、面积、体积、温度、时间 参考汇率——多个数据源，自动切换备用 桌面小组件——汇率和公式显示在主屏幕和锁屏 Pro 功能 键盘工作室——重排按键、保存多种布局（紧凑/标准/科学） 主题工作室——10 款键盘主题、强调色、按键密度、深色模式 自定义公式——使用变量和实时汇率构建可复用工作流 会话管理——将工作整理为带备注的命名分组 云端同步——将所有数据备份到 iCloud，在任意设备恢复 长期可用：实时预览、完整历史、单位换算和科学按键。无广告、无需注册、核心功能无需网络。数据默认保留在您的设备上。 隐私政策: https://apps.foamzou.com/freestyle-calculator/privacy/ 服务条款: https://apps.foamzou.com/freestyle-calculator/terms/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d9/18/53d918ab-dd6a-e9bb-b66d-a66fcdc3d564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d9/18/53d918ab-dd6a-e9bb-b66d-a66fcdc3d564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/ed/05/f0ed050f-f3c5-d6c6-b5d2-190090fa6c33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/ed/05/f0ed050f-f3c5-d6c6-b5d2-190090fa6c33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "锋 邹",
     "artistName": "锋 邹",
     "screenshotUrls": [
