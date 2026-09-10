@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": 1789007054911,
+    "cn": {
+      "total": 4,
+      "price": 2,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6779550221,
+          "name": "脑英雄 - 脑力训练游戏",
+          "type": "iap",
+          "detail": "BrainHero Lifetime: ¥148.00 → ¥88.00"
+        },
+        {
+          "id": 6738851170,
+          "name": "English Grammar Drills",
+          "type": "price",
+          "detail": "¥58.00 → ¥38.00"
+        },
+        {
+          "id": 1409190654,
+          "name": "Gym Day：力量训练的健身记录和健身计划",
+          "type": "iap",
+          "detail": "高级版: ¥68.00 → ¥22.00"
+        },
+        {
+          "id": 6670347455,
+          "name": "Infinite Digits",
+          "type": "price",
+          "detail": "¥38.00 → ¥15.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1788994592141,
     "cn": {
       "total": 3,
