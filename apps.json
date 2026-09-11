@@ -2,6 +2,84 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1443552140,
+      "name": {
+        "cn": "Medical Image Viewer"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1789144524807,
+      "_discountType": "app"
+    },
+    {
+      "id": 6791800792,
+      "name": {
+        "cn": "力序"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789144475092,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759664189,
+      "name": {
+        "cn": "婴儿白噪音睡覺 - 白噪音哄睡神器 - Baby Sleep"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789144475092,
+      "_discountType": "app"
+    },
+    {
+      "id": 6695743269,
+      "name": {
+        "cn": "Tinnitus Ease"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789144475092,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801183620,
+      "name": {
+        "cn": "嘿你牛"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789144477874,
+      "_discountType": "app"
+    },
+    {
+      "id": 6774068297,
+      "name": {
+        "cn": "存钱喵"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789144477874,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797379761,
+      "name": {
+        "cn": "少年SSTV地面站"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789144478111,
+      "_discountType": "app"
+    },
+    {
       "id": 665145236,
       "name": {
         "cn": "Easy To Use - Adobe InDesign Edition"
