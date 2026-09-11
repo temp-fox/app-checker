@@ -1,5 +1,99 @@
 [
   {
+    "timestamp": 1789109132088,
+    "cn": {
+      "total": 14,
+      "price": 11,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6738013677,
+          "name": "音乐标签编辑器：音频指纹，听歌识曲，批量自动修改",
+          "type": "iap",
+          "detail": "终身优惠: ¥98.00 → ¥68.00"
+        },
+        {
+          "id": 349880412,
+          "name": "Family Tracker",
+          "type": "iap",
+          "detail": "Family Tracker - 1 Month Subscription: ¥15.00 → ¥14.00"
+        },
+        {
+          "id": 6768657055,
+          "name": "Clipaste - 剪贴板键盘",
+          "type": "price",
+          "detail": "¥38.00 → ¥18.00"
+        },
+        {
+          "id": 6763717059,
+          "name": "病历管家：AI拍照识别&指标趋势&个人家庭健康档案&电子病历",
+          "type": "iap",
+          "detail": "永久会员: ¥168.00 → ¥128.00"
+        },
+        {
+          "id": 6743993728,
+          "name": "音乐标签编辑器专业版：音频指纹，听歌识曲，批量自动修改",
+          "type": "price",
+          "detail": "¥88.00 → ¥68.00"
+        },
+        {
+          "id": 6766921369,
+          "name": "Shivaki - Yoga & Stretching",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6761347246,
+          "name": "GymViz - 健身追踪",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6779239434,
+          "name": "Volero: Fahrradcomputer GPS",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6795239812,
+          "name": "ClipPro: Video & Photo Editor",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6450271844,
+          "name": "知遇 - 联系人管理",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6768871727,
+          "name": "Bar reminders",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6758965447,
+          "name": "CONNECTOME: A Game of Points",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 493472757,
+          "name": "autoExpire",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 1631811818,
+          "name": "米多 Plus - 股票/基金盯盘小工具",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789083600915,
     "cn": {
       "total": 2,
@@ -3189,46 +3283,6 @@
           "name": "Tiny Arcade : Fun Games",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788226963072,
-    "cn": {
-      "total": 5,
-      "price": 5,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6759224538,
-          "name": "ScreenDoctor PRO",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 1510811475,
-          "name": "Trick Shot Math",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 1312646149,
-          "name": "First Grade Math Trainer",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6747307749,
-          "name": "CHAKK - 인스타 스토리 꾸미는 재미, 챡!",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 766858884,
-          "name": "Neutron Music Player",
-          "type": "price",
-          "detail": "¥88.00 → ¥58.00"
         }
       ]
     }

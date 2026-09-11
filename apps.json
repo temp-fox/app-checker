@@ -2,6 +2,203 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 493472757,
+      "name": {
+        "cn": "autoExpire"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "app"
+    },
+    {
+      "id": 1631811818,
+      "name": {
+        "cn": "米多 Plus - 股票/基金盯盘小工具"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779905207,
+      "name": {
+        "cn": "PicPin - 桌面照片墙和相册清理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6764269797,
+      "name": {
+        "cn": "小巧工具箱-长图拼接"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6767877600,
+      "name": {
+        "cn": "Heirline: Watch Collection"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6767099913,
+      "name": {
+        "cn": "DebtShield: Debt Collection"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6795298720,
+      "name": {
+        "cn": "UltraAlarm: Get Up Alarm Clock"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6758780189,
+      "name": {
+        "cn": "减肥小助手 - 体重记录饮食打卡断签提醒成就徽章体脂热量打卡"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6806543053,
+      "name": {
+        "cn": "MyBox: Message Yourself"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6766921369,
+      "name": {
+        "cn": "Shivaki - Yoga & Stretching"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761347246,
+      "name": {
+        "cn": "GymViz - 健身追踪"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779239434,
+      "name": {
+        "cn": "Volero: Fahrradcomputer GPS"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795239812,
+      "name": {
+        "cn": "ClipPro: Video & Photo Editor"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "app"
+    },
+    {
+      "id": 6737834708,
+      "name": {
+        "cn": "Loquacious"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "app"
+    },
+    {
+      "id": 6450271844,
+      "name": {
+        "cn": "知遇 - 联系人管理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768871727,
+      "name": {
+        "cn": "Bar reminders"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758965447,
+      "name": {
+        "cn": "CONNECTOME: A Game of Points"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789102270490,
+      "_discountType": "app"
+    },
+    {
       "id": 1524133146,
       "name": {
         "cn": "BT Basketball Scoreboard"
