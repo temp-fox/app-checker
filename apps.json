@@ -2,6 +2,116 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 399760501,
+      "name": {
+        "cn": "I Can Animate"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789160581659,
+      "_discountType": "app"
+    },
+    {
+      "id": 1036789722,
+      "name": {
+        "cn": "Funko.POP Collector By Tryvin"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789160598155,
+      "_discountType": "app"
+    },
+    {
+      "id": 1146908887,
+      "name": {
+        "cn": "古典吉他调音器 - Guitar Tuner Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789160584286,
+      "_discountType": "app"
+    },
+    {
+      "id": 1589008573,
+      "name": {
+        "cn": "Stream Monitor for NDI HX"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789160576020,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808088363,
+      "name": {
+        "cn": "专注之旅"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789160576020,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799760170,
+      "name": {
+        "cn": "男友相机-氛围感构图相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789160581659,
+      "_discountType": "app"
+    },
+    {
+      "id": 6502446839,
+      "name": {
+        "cn": "Filmish"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789160581659,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807597087,
+      "name": {
+        "cn": "KP Viewer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789160584286,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776150353,
+      "name": {
+        "cn": "口袋小狗"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789160587051,
+      "_discountType": "app"
+    },
+    {
+      "id": 6751656583,
+      "name": {
+        "cn": "小主人日程表"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789160589562,
+      "_discountType": "app"
+    },
+    {
       "id": 1443552140,
       "name": {
         "cn": "Medical Image Viewer"
@@ -15791,8 +15901,8 @@
       "name": {
         "cn": "晚安不急-白噪音助眠·睡眠声音"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1786159616399,
