@@ -1,5 +1,129 @@
 [
   {
+    "timestamp": 1789235586559,
+    "cn": {
+      "total": 19,
+      "price": 8,
+      "iap": 11,
+      "apps": [
+        {
+          "id": 6808630327,
+          "name": "The Workout App: Home & Gym",
+          "type": "price",
+          "detail": "¥28.00 → ¥15.00"
+        },
+        {
+          "id": 6756362014,
+          "name": "ImageLab - 本地人工智能图像",
+          "type": "iap",
+          "detail": "Loyal Supporter: ¥168.00 → ¥148.00"
+        },
+        {
+          "id": 6756362014,
+          "name": "ImageLab - 本地人工智能图像",
+          "type": "iap",
+          "detail": "Developer Fuel: ¥58.00 → ¥12.00"
+        },
+        {
+          "id": 418473744,
+          "name": "VHDL Ref",
+          "type": "price",
+          "detail": "¥22.00 → ¥8.00"
+        },
+        {
+          "id": 587880557,
+          "name": "Cakes: Birthday Calendar",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6787898135,
+          "name": "Diet & Meal Planner: FIT AI",
+          "type": "iap",
+          "detail": "FIT AI Premium Lifetime: ¥398.00 → ¥0.00"
+        },
+        {
+          "id": 1374282205,
+          "name": "smartscore - 乒乓球",
+          "type": "iap",
+          "detail": "AirPods Add-On: ¥15.00 → ¥8.00"
+        },
+        {
+          "id": 1374282205,
+          "name": "smartscore - 乒乓球",
+          "type": "iap",
+          "detail": "smartscore Bundle Deal: ¥38.00 → ¥22.00"
+        },
+        {
+          "id": 1374282205,
+          "name": "smartscore - 乒乓球",
+          "type": "iap",
+          "detail": "Apple Watch Add-On: ¥22.00 → ¥15.00"
+        },
+        {
+          "id": 1374282205,
+          "name": "smartscore - 乒乓球",
+          "type": "iap",
+          "detail": "flic Add-On: ¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6777727163,
+          "name": "轻账记",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6757496457,
+          "name": "Postura: 体态提醒",
+          "type": "iap",
+          "detail": "Postura Pro - Lifetime: ¥148.00 → ¥88.80"
+        },
+        {
+          "id": 6757496457,
+          "name": "Postura: 体态提醒",
+          "type": "iap",
+          "detail": "Monthly: ¥58.00 → ¥19.00"
+        },
+        {
+          "id": 6757496457,
+          "name": "Postura: 体态提醒",
+          "type": "iap",
+          "detail": "Annual: ¥98.00 → ¥58.80"
+        },
+        {
+          "id": 6757674944,
+          "name": "疯了吗",
+          "type": "price",
+          "detail": "¥38.00 → ¥1.00"
+        },
+        {
+          "id": 1242808815,
+          "name": "TimeSignal Alarm clock",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6758459529,
+          "name": "PaperFeed - 最新论文阅读AI助手",
+          "type": "price",
+          "detail": "¥6.00 → 免费"
+        },
+        {
+          "id": 1500035542,
+          "name": "Screen Mirroring - Alfacast X",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        },
+        {
+          "id": 6737540969,
+          "name": "FilmRoll - 胶片相机滤镜",
+          "type": "iap",
+          "detail": "PRO Upgrade: ¥148.00 → ¥68.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789223214643,
     "cn": {
       "total": 9,
@@ -3197,40 +3321,6 @@
           "name": "图片降噪 Super Denoising - 超级去除照片噪点",
           "type": "price",
           "detail": "¥68.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788360393711,
-    "cn": {
-      "total": 4,
-      "price": 2,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6738603556,
-          "name": "伊斯兰回历",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6777080682,
-          "name": "ADBox 电视和智能设备可视化调试工具",
-          "type": "iap",
-          "detail": "专业调试解锁: ¥68.00 → ¥28.00"
-        },
-        {
-          "id": 6763717059,
-          "name": "病历管家：AI拍照识别&指标趋势&个人家庭健康档案&电子病历",
-          "type": "iap",
-          "detail": "永久会员: ¥128.00 → ¥98.00"
-        },
-        {
-          "id": 6757722438,
-          "name": "A4Pad – Annotate, Merge PDF",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
         }
       ]
     }
