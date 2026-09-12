@@ -2,6 +2,105 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 368184280,
+      "name": {
+        "cn": "Collins Dictionary & Thesaurus"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789215272877,
+      "_discountType": "app"
+    },
+    {
+      "id": 490922806,
+      "name": {
+        "cn": "我的小镇:幼儿寻宝"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789215283187,
+      "_discountType": "app"
+    },
+    {
+      "id": 554584762,
+      "name": {
+        "cn": "马戏团世界 — 一本儿童互动故事书"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789215283187,
+      "_discountType": "app"
+    },
+    {
+      "id": 926086199,
+      "name": {
+        "cn": "Gallifreyan"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789215283224,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799094888,
+      "name": {
+        "cn": "火箭发射预报"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789215267472,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808632069,
+      "name": {
+        "cn": "简单开单-档口快速开单算钱"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789215272960,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804910551,
+      "name": {
+        "cn": "MyDeadline"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789215272960,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798161246,
+      "name": {
+        "cn": "伏魔诀-茅山道士捉鬼异闻录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789215279668,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808509595,
+      "name": {
+        "cn": "得忘单词"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789215283187,
+      "_discountType": "app"
+    },
+    {
       "id": 1230799806,
       "name": {
         "cn": "深圳网约车考试-网约车从业资格证考试理论题库"
@@ -21299,7 +21398,8 @@
       "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSourceFirstSeen": 1785234831087,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6758302945,
