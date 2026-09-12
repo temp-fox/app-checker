@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": 1789203619597,
+    "cn": {
+      "total": 8,
+      "price": 6,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6803344823,
+          "name": "拾光 - 相册回顾与整理",
+          "type": "iap",
+          "detail": "升级高级会员: ¥6.00 → ¥0.00"
+        },
+        {
+          "id": 6796148467,
+          "name": "RSLatte目标树",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        },
+        {
+          "id": 1169525771,
+          "name": "JPEG Jackal Lite",
+          "type": "iap",
+          "detail": "Upgrade to Full Version: ¥15.00 → ¥1.00"
+        },
+        {
+          "id": 1410053842,
+          "name": "小渔排班 - 倒班工作者的专属日历",
+          "type": "price",
+          "detail": "¥6.00 → ¥1.00"
+        },
+        {
+          "id": 6807487183,
+          "name": "Paster: 剪贴板与截图标注",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6793993952,
+          "name": "Markary — Markdown Notes",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6779274560,
+          "name": "Push Up - Gainz to Godhood",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6761990965,
+          "name": "星眠小兽-您的情绪管理萌宠",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789168057543,
     "cn": {
       "total": 7,
@@ -3109,92 +3167,6 @@
           "name": "A4Pad – Annotate, Merge PDF",
           "type": "price",
           "detail": "¥28.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788339244671,
-    "cn": {
-      "total": 10,
-      "price": 7,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6797875277,
-          "name": "羽球迹",
-          "type": "price",
-          "detail": "¥6.00 → 免费"
-        },
-        {
-          "id": 6789875887,
-          "name": "ListenCards",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 6772648377,
-          "name": "Hydrate or Diedrate Tracker",
-          "type": "iap",
-          "detail": "Hydrate or Diedrate: ¥28.00 → ¥22.00"
-        },
-        {
-          "id": 6777138096,
-          "name": "ChordMaster: 学习与练习",
-          "type": "iap",
-          "detail": "ChordMaster Pro Lifetime: ¥370.00 → ¥298.00"
-        },
-        {
-          "id": 6761543554,
-          "name": "旅途记账-旅行行程账本预算开支统计结余本地离线隐私登录随身",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6504203696,
-          "name": "Difela Tsa Sione Hymns",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 6449638248,
-          "name": "极简轻眠-轻量的冥想、助眠、放松、减压、专注神器",
-          "type": "iap",
-          "detail": "解锁所有声音: ¥6.00 → ¥0.00"
-        },
-        {
-          "id": 1296076444,
-          "name": "央数-央行数据",
-          "type": "price",
-          "detail": "¥18.00 → ¥1.00"
-        },
-        {
-          "id": 1101739841,
-          "name": "Wayfarer Stars",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6448397954,
-          "name": "几何计算器 – 三角形",
-          "type": "price",
-          "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788315817716,
-    "cn": {
-      "total": 1,
-      "price": 0,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 1169525771,
-          "name": "JPEG Jackal Lite",
-          "type": "iap",
-          "detail": "Upgrade to Full Version: ¥15.00 → ¥0.00"
         }
       ]
     }

@@ -2,6 +2,208 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1230799806,
+      "name": {
+        "cn": "深圳网约车考试-网约车从业资格证考试理论题库"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789197199559,
+      "_discountType": "app"
+    },
+    {
+      "id": 1462571191,
+      "name": {
+        "cn": "iziCast"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789197207798,
+      "_discountType": "app"
+    },
+    {
+      "id": 1667328548,
+      "name": {
+        "cn": "WMM 2025"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789197207680,
+      "_discountType": "app"
+    },
+    {
+      "id": 6747609201,
+      "name": {
+        "cn": "MixKit-顏文字、抽選、密碼、紀錄本工具箱"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789197199559,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759628051,
+      "name": {
+        "cn": "Recordus - AI Voice Recorder"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789197205087,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761032477,
+      "name": {
+        "cn": "EXIFrame"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789197205119,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759219160,
+      "name": {
+        "cn": "Starpath"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789197213288,
+      "_discountType": "app"
+    },
+    {
+      "id": 6765866787,
+      "name": {
+        "cn": "Duoscope-双摄画中画分屏相机"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789197256789,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6759209331,
+      "name": {
+        "cn": "FeelmCamera - Film Camera"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789197256789,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6782011794,
+      "name": {
+        "cn": "SignPanda: Signature Maker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789197256789,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6789557773,
+      "name": {
+        "cn": "Grindstep: Espresso Dial-In"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789197256789,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6463595417,
+      "name": {
+        "cn": "答案之书 - 神奇的人生解答书"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789197256789,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6807886872,
+      "name": {
+        "cn": "视频一键去背景｜换背景&AI抠图&绿幕&色度键"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789197256789,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6760999336,
+      "name": {
+        "cn": "深度音乐 - 沉浸式全屏歌词"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789197256789,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6807487183,
+      "name": {
+        "cn": "Paster: 剪贴板与截图标注"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789197256789,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793993952,
+      "name": {
+        "cn": "Markary — Markdown Notes"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789197256789,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779274560,
+      "name": {
+        "cn": "Push Up - Gainz to Godhood"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789197256789,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761990965,
+      "name": {
+        "cn": "星眠小兽-您的情绪管理萌宠"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789197256789,
+      "_discountType": "app"
+    },
+    {
       "id": 328608539,
       "name": {
         "cn": "Music Studio"
