@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": 1789310265529,
+    "cn": {
+      "total": 6,
+      "price": 5,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6804383248,
+          "name": "KeyJoy－Mechanical Keyboard App",
+          "type": "price",
+          "detail": "¥28.00 → ¥22.00"
+        },
+        {
+          "id": 6781167309,
+          "name": "汇率换算:货币转换器·外汇牌价",
+          "type": "iap",
+          "detail": "汇率猫永久会员: ¥128.00 → ¥88.00"
+        },
+        {
+          "id": 6762549726,
+          "name": "screenTools",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1517339236,
+          "name": "渐进阅读-轻松读英文原版书",
+          "type": "price",
+          "detail": "¥6.00 → 免费"
+        },
+        {
+          "id": 6758513735,
+          "name": "Wine Study Level 3",
+          "type": "price",
+          "detail": "¥68.00 → ¥28.00"
+        },
+        {
+          "id": 6760615676,
+          "name": "Wine Study Level 2",
+          "type": "price",
+          "detail": "¥38.00 → ¥15.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789283482544,
     "cn": {
       "total": 14,
@@ -3193,124 +3239,6 @@
           "name": "手表游戏大全 - 游戏盒子",
           "type": "iap",
           "detail": "年卡: ¥18.00 → ¥12.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788426450655,
-    "cn": {
-      "total": 18,
-      "price": 15,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6787141171,
-          "name": "Velora Player: Video & Audio",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6779550221,
-          "name": "脑英雄 - 脑力训练游戏",
-          "type": "iap",
-          "detail": "BrainHero Lifetime: ¥148.00 → ¥0.00"
-        },
-        {
-          "id": 6763670875,
-          "name": "Silicon Vault",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6773266178,
-          "name": "静航",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6770526623,
-          "name": "清戒自律 - 习惯养成打卡",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6747979282,
-          "name": "赛博把脉·辨证脉象｜观相查体-智能手表实时把脉 随身诊脉",
-          "type": "iap",
-          "detail": "永久会员: ¥298.00 → ¥0.00"
-        },
-        {
-          "id": 1095142462,
-          "name": "File Explorer & Player [Pro]",
-          "type": "price",
-          "detail": "¥148.00 → 免费"
-        },
-        {
-          "id": 6762633422,
-          "name": "CroReader",
-          "type": "price",
-          "detail": "¥12.00 → ¥6.00"
-        },
-        {
-          "id": 6760831361,
-          "name": "Topo Maps & Trails Offline",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 1447861806,
-          "name": "我的梦幻宇宙 - 重零开始模拟创造沙盒星系",
-          "type": "price",
-          "detail": "¥98.00 → 免费"
-        },
-        {
-          "id": 1133486371,
-          "name": "超级坦克大战 R - Type X",
-          "type": "price",
-          "detail": "¥148.00 → 免费"
-        },
-        {
-          "id": 951324809,
-          "name": "隐藏照片视频 私密保险库",
-          "type": "iap",
-          "detail": "Lifetime Access.: ¥198.00 → ¥0.00"
-        },
-        {
-          "id": 1296076444,
-          "name": "央数-央行数据",
-          "type": "price",
-          "detail": "¥18.00 → ¥1.00"
-        },
-        {
-          "id": 1485694517,
-          "name": "红豆佳缘‑找对象恋爱相亲聊天",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6791581762,
-          "name": "iSlip: Save now Forget later",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6503481780,
-          "name": "MyLog: Diary Journal Notes",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6787306687,
-          "name": "Lulla: Baby Sleep Sounds",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6737504944,
-          "name": "Axchange - ADB File Transfer",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
