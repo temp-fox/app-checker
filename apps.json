@@ -2,6 +2,72 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 542541355,
+      "name": {
+        "cn": "Horse Anatomy: Equine 3D"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789316745079,
+      "_discountType": "app"
+    },
+    {
+      "id": 861844720,
+      "name": {
+        "cn": "AstroWorx Astrology"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789316739431,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776001035,
+      "name": {
+        "cn": "工具借还台账-库存归还管理2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789316733992,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782497545,
+      "name": {
+        "cn": "爱堪舆 Pro 风水罗盘罗庚罗经指南针海拔高度"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789316736720,
+      "_discountType": "app"
+    },
+    {
+      "id": 6778482599,
+      "name": {
+        "cn": "掼蛋计分器-升级记牌本2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789316742260,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788257782,
+      "name": {
+        "cn": "她来自清朝"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789316742260,
+      "_discountType": "app"
+    },
+    {
       "id": 311679013,
       "name": {
         "cn": "French Verb Drill Practice"
@@ -18586,8 +18652,8 @@
       "name": {
         "cn": "RunnerMate - AI跑步教练"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1785809719327,
