@@ -2,6 +2,72 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 358733250,
+      "name": {
+        "cn": "Ear Trainer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789332922696,
+      "_discountType": "app"
+    },
+    {
+      "id": 982833499,
+      "name": {
+        "cn": "韩语KPT单词 -韩国语金牌考典"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789332928255,
+      "_discountType": "app"
+    },
+    {
+      "id": 1445050080,
+      "name": {
+        "cn": "Reggae Drummer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789332922696,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775755894,
+      "name": {
+        "cn": "出境包-离线通关助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789332917333,
+      "_discountType": "app"
+    },
+    {
+      "id": 6447353824,
+      "name": {
+        "cn": "AudioScope"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789332922696,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801506813,
+      "name": {
+        "cn": "Hey Otti"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789332928255,
+      "_discountType": "app"
+    },
+    {
       "id": 542541355,
       "name": {
         "cn": "Horse Anatomy: Equine 3D"
@@ -72686,8 +72752,8 @@
       "name": {
         "cn": "时钟历书"
       },
-      "addType": "external",
-      "addSource": "IT之家",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "IT之家",
       "_externalSourceFirstSeen": 1777257210929,

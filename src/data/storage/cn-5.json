@@ -1,4 +1,252 @@
 {
+  "6770595635": {
+    "name": "Xmd: 网页和 PDF 转 Markdown",
+    "trackName": "Xmd: 网页和 PDF 转 Markdown",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784109633116,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/xmd-%E7%BD%91%E9%A1%B5%E5%92%8C-pdf-%E8%BD%AC-markdown/id6770595635?uo=4",
+    "description": "Xmd 能把一个 URL 或一份 PDF 变成整洁的 Markdown 文件——可直接放进 Obsidian、Logseq、Bear、iA Writer 或你自己的笔记库。 粘贴链接，选择 PDF，点按“转换”。就这么简单。 为什么选择 Xmd 按来源智能提取。Xmd 能识别 WordPress、新闻文章、文档网站、PDF、X / Twitter 推文串、Reddit、App Store、Google Play 和 Amazon，并为每一种选用合适的技术，而不是一刀切的通用剪藏。 支持 X / Twitter。长文文章和推文串都行。大多数剪藏工具读不了 X，因为它是一个 JavaScript 应用；Xmd 在真实的 WebView 中渲染页面并遍历 DOM。 不止于文章。除了网页和 PDF，Xmd 也能识别结构化页面——Reddit 讨论、App Store / Mac App Store / Google Play 应用页面以及 Amazon 商品页——并将其转换为整洁的 Markdown。App Store 应用页面还可包含该应用的公开用户评论。 把 PDF 处理到位。段落会被重新拼合，而不是按每一行视觉文本切成碎片。 内置 OCR 识别扫描版 PDF。当 PDF 页面没有文本层（扫描件、文档照片）时，Xmd 会自动回退到基于 Apple Vision 框架的设备端 OCR——开箱即支持意大利语和英语。无需上传云端，无需另装应用。 自动处理 Cookie 横幅。Iubenda、OneTrust、Didomi 和 IAB TCF 弹窗会被自动关闭，不会污染你的 Markdown。 识别文档网站。在 docs.* / readthedocs / github.io 站点上，围栏代码块会保留语言标记。 “显示 WebView”开关。对于重度 SPA 或需要登录的页面，可先与页面交互，再进行提取。 可扩展。遇到 Xmd 还不认识的网站？自己创建一个提取器——用 CSS 选择器和模板映射几个字段，或为更棘手的页面编写高级提取器。用真实 URL 测试，然后导入/导出以便分享。 Mac 内置 MCP 服务器（适用于任何 AI 智能体） 在 Mac 上，Xmd 还可以作为 Model Context Protocol 服务器使用。打开 MCP 标签页，点按“启动”，任何兼容 MCP 的 AI 智能体——Claude Desktop、Claude Code、Cursor、Zed，或你自己编写的客户端——都可以调用： convert_url_to_markdown convert_pdf_path_to_markdown scrape_url——对任意页面进行定向提取 save_extractor / list_extractors——教 Xmd 学会一个新网站，之后可反复使用 由于服务器复用了 Xmd 的真实 WebView，你的智能体可以读取纯 HTTP 抓取工具无法处理的 JavaScript 渲染页面——从页面中精确提取所需内容，再把它存为可复用的提取器，下次 Xmd 就能自动处理该网站。一键拷贝配置片段，实时请求日志，一切都在本地 127.0.0.1 上运行。没有云端中转，没有 API key，没有订阅。 这大概是在 macOS 上让 LLM 智能体获得一流网页和 PDF 阅读能力的最简单方式。 私密且本地 无需账户。无需订阅。不经云端。提取在你的设备上完成。文件留在你的设备上。 处处原生 基于 SwiftUI，支持 iPhone、iPad、Mac 和 Vision Pro。iOS 上提供共享表单扩展——从 Safari 发送链接，即可获得 Markdown 文件。键盘快捷键转换（⌘↩）。存储为 .md 或拷贝到剪贴板。 适合谁 在 Obsidian / Logseq / Bear 中构建个人知识库的笔记爱好者 需要以可读、便于 diff 的格式归档资料的研究者 收集参考资料的写作者 离线保存文档页面的工程师 在本地运行 AI 智能体（Claude Desktop、Cursor、Zed、自定义 MCP 客户端）并希望它们能读取实时网页和 PDF 的 Mac 用户 用心打造。为扩展而生——带上你自己的提取器。",
+    "fullDescription": "Xmd 能把一个 URL 或一份 PDF 变成整洁的 Markdown 文件——可直接放进 Obsidian、Logseq、Bear、iA Writer 或你自己的笔记库。 粘贴链接，选择 PDF，点按“转换”。就这么简单。 为什么选择 Xmd 按来源智能提取。Xmd 能识别 WordPress、新闻文章、文档网站、PDF、X / Twitter 推文串、Reddit、App Store、Google Play 和 Amazon，并为每一种选用合适的技术，而不是一刀切的通用剪藏。 支持 X / Twitter。长文文章和推文串都行。大多数剪藏工具读不了 X，因为它是一个 JavaScript 应用；Xmd 在真实的 WebView 中渲染页面并遍历 DOM。 不止于文章。除了网页和 PDF，Xmd 也能识别结构化页面——Reddit 讨论、App Store / Mac App Store / Google Play 应用页面以及 Amazon 商品页——并将其转换为整洁的 Markdown。App Store 应用页面还可包含该应用的公开用户评论。 把 PDF 处理到位。段落会被重新拼合，而不是按每一行视觉文本切成碎片。 内置 OCR 识别扫描版 PDF。当 PDF 页面没有文本层（扫描件、文档照片）时，Xmd 会自动回退到基于 Apple Vision 框架的设备端 OCR——开箱即支持意大利语和英语。无需上传云端，无需另装应用。 自动处理 Cookie 横幅。Iubenda、OneTrust、Didomi 和 IAB TCF 弹窗会被自动关闭，不会污染你的 Markdown。 识别文档网站。在 docs.* / readthedocs / github.io 站点上，围栏代码块会保留语言标记。 “显示 WebView”开关。对于重度 SPA 或需要登录的页面，可先与页面交互，再进行提取。 可扩展。遇到 Xmd 还不认识的网站？自己创建一个提取器——用 CSS 选择器和模板映射几个字段，或为更棘手的页面编写高级提取器。用真实 URL 测试，然后导入/导出以便分享。 Mac 内置 MCP 服务器（适用于任何 AI 智能体） 在 Mac 上，Xmd 还可以作为 Model Context Protocol 服务器使用。打开 MCP 标签页，点按“启动”，任何兼容 MCP 的 AI 智能体——Claude Desktop、Claude Code、Cursor、Zed，或你自己编写的客户端——都可以调用： convert_url_to_markdown convert_pdf_path_to_markdown scrape_url——对任意页面进行定向提取 save_extractor / list_extractors——教 Xmd 学会一个新网站，之后可反复使用 由于服务器复用了 Xmd 的真实 WebView，你的智能体可以读取纯 HTTP 抓取工具无法处理的 JavaScript 渲染页面——从页面中精确提取所需内容，再把它存为可复用的提取器，下次 Xmd 就能自动处理该网站。一键拷贝配置片段，实时请求日志，一切都在本地 127.0.0.1 上运行。没有云端中转，没有 API key，没有订阅。 这大概是在 macOS 上让 LLM 智能体获得一流网页和 PDF 阅读能力的最简单方式。 私密且本地 无需账户。无需订阅。不经云端。提取在你的设备上完成。文件留在你的设备上。 处处原生 基于 SwiftUI，支持 iPhone、iPad、Mac 和 Vision Pro。iOS 上提供共享表单扩展——从 Safari 发送链接，即可获得 Markdown 文件。键盘快捷键转换（⌘↩）。存储为 .md 或拷贝到剪贴板。 适合谁 在 Obsidian / Logseq / Bear 中构建个人知识库的笔记爱好者 需要以可读、便于 diff 的格式归档资料的研究者 收集参考资料的写作者 离线保存文档页面的工程师 在本地运行 AI 智能体（Claude Desktop、Cursor、Zed、自定义 MCP 客户端）并希望它们能读取实时网页和 PDF 的 Mac 用户 用心打造。为扩展而生——带上你自己的提取器。",
+    "summaryDescription": "Xmd 能把一个 URL 或一份 PDF 变成整洁的 Markdown 文件——可直接放进 Obsidian、Logseq、Bear、iA Writer 或你自己的笔记库。 粘贴链接，选择 PDF，点按“转换”。就这么简单。 为什么选择 Xmd 按来源智能提取。Xmd 能识别 WordPress、新闻文章、文档网站、PDF、X / Twitter 推文串、Reddit、App Store、Google Play 和 Amazon，并为每一种选用合适的技术，而不是一刀切的通用剪藏。 支持 X / Twitter。长文文章和推文串都行。大多数剪藏工具读不了 X，因为它是一个 JavaScript 应用；Xmd 在真实的 WebView 中渲染页面并遍历 DOM。 不止于文章。除了网页和 PDF，Xmd 也能识别结构化页面——Reddit 讨论、App Store / Mac App Store / Google Play 应用页面以及 Amazon 商品页——并将其转换为整洁的 Markdown。App Store 应用页面还可包含该应用的公开用户评论。 把 PDF 处理到位。段落会被重新拼合，而不是按每一行视觉文本切成碎片。 内置 OCR 识别扫描版 PDF。当 PDF 页面没有文本层（扫描件、文档照片）时，Xmd 会自动回退到基于 Apple Vision 框架的设备端 OCR——开箱即支持意大利语和英语。无需上传云端，无需另装应用。 自动处理 Cookie 横幅。Iubenda、OneTrust、Didomi 和 IAB TCF 弹窗会被自动关闭，不会污染你的 Markdown。 识别文档网站。在 docs.* / readthedocs / github.io 站点上，围栏代码块会保留语言标记。 “显示 WebView”开关。对于重度 SPA 或需要登录的页面，可先与页面交互，再进行提取。 可扩展。遇到 Xmd 还不认识的网站？自己创建一个提取器——用 CSS 选择器和模板映射几个字段，或为更棘手的页面编写高级提取器。用真实 URL 测试，然后导入/导出以便分享。 Mac 内置 MCP 服务器（适用于任何 AI 智能体） 在 Mac 上，Xmd 还可以作为 Model Context Protocol 服务器使用。打开 MCP 标签页，点按“启动”，任何兼容 MCP 的 AI 智能体——Claude Desktop、Claude Code、Cursor、Zed，或你自己编写的客户端——都可以调用： convert_url_to_markdown convert_pdf_path_to_markdown scrape_url——对任意页面进行定向提取 save_extractor / list_extractors——教 Xmd 学会一个新网站，之后可反复使用 由于服务器复用了 Xmd 的真实 WebView，你的智能体可以读取纯 HTTP 抓取工具无法处理的 JavaScript 渲染页面——从页面中精确提取所需内容，再把它存为可复用的提取器，下次 Xmd 就能自动处理该网站。一键拷贝配置片段，实时请求日志，一切都在本地 127.0.0.1 上运行。没有云端中转，没有 API key，没有订阅。 这大概是在 macOS 上让 LLM 智能体获得一流网页和 PDF 阅读能力的最简单方式。 私密且本地 无需账户。无需订阅。不经云端。提取在你的设备上完成。文件留在你的设备上。 处处原生 基于 SwiftUI，支持 iPhone、iPad、Mac 和 Vision Pro。iOS 上提供共享表单扩展——从 Safari 发送链接，即可获得 Markdown 文件。键盘快捷键转换（⌘↩）。存储为 .md 或拷贝到剪贴板。 适合谁 在 Obsidian / Logseq / Bear 中构建个人知识库的笔记爱好者 需要以可读、便于 diff 的格式归档资料的研究者 收集参考资料的写作者 离线保存文档页面的工程师 在本地运行 AI 智能体（Claude Desktop、Cursor、Zed、自定义 MCP 客户端）并希望它们能读取实时网页和 PDF 的 Mac 用户 用心打造。为扩展而生——带上你自己的提取器。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a9/7c/1da97c09-83a5-4f79-4ed4-33084c9e42f0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a9/7c/1da97c09-83a5-4f79-4ed4-33084c9e42f0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Marco Tini",
+    "artistName": "Marco Tini",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/d9/77/2cd97766-5687-6ff9-f79d-c2feb61743c6/xmd-iphone-17-pro-max-zh-Hans-01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/ee/31/69ee31ea-5d56-1f99-54b4-b3b533f4a8fa/xmd-iphone-17-pro-max-zh-Hans-02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/77/5e/58775eba-5542-b88d-a133-817f5203ee2b/xmd-iphone-17-pro-max-zh-Hans-03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/ae/5e/e1ae5ef4-84b2-ca7d-75c1-1e7123ef24c5/xmd-iphone-17-pro-max-zh-Hans-04.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/36/0f/fe360f06-83d4-1569-5aba-391a605a0d4f/xmd-iphone-17-pro-max-zh-Hans-05.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/dc/ed/1bdced52-da3e-61d7-bc50-d8028ea2c33e/xmd-iphone-17-pro-max-zh-Hans-06.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/3d/22/bc3d223d-c33f-d455-ee07-f7146ef651db/xmd-iphone-17-pro-max-zh-Hans-07.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/3b/97/c83b9748-3aee-84e3-938b-c3e49ea37fac/xmd-iphone-17-pro-max-zh-Hans-08.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/e0/c7/83e0c7ad-1a07-bd43-e0ec-e24a88e7d8e1/xmd-iphone-17-pro-max-zh-Hans-09.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/37/0f/b0370f30-8160-24db-ba47-dd801cc29680/xmd-iphone-17-pro-max-zh-Hans-10.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/84/39/2a84395c-3d5b-8817-2ff5-f3defa2a3e1f/xmd-ipad-pro-12-9-zh-Hans-01.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/59/3a/50593aed-54af-e633-27a8-924585d595ef/xmd-ipad-pro-12-9-zh-Hans-02.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/e6/5d/24e65d7f-ff3e-d1f4-0adb-9a3a47b6158d/xmd-ipad-pro-12-9-zh-Hans-03.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/09/7e/ff097e67-5228-ce3d-462d-ab95a15016fb/xmd-ipad-pro-12-9-zh-Hans-04.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/3f/a9/ab3fa913-5047-e154-ed1a-a259f0e24e2a/xmd-ipad-pro-12-9-zh-Hans-05.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/e3/36/fce33646-0c2d-11f6-3f9e-bfef897d6991/xmd-ipad-pro-12-9-zh-Hans-06.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/65/f8/d365f83b-dabf-601d-63e7-357fa9f17e9b/xmd-ipad-pro-12-9-zh-Hans-07.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/0e/d4/a80ed444-4d8c-c7c7-7b80-434cd10f1559/xmd-ipad-pro-12-9-zh-Hans-08.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/d8/b5/26d8b561-98ee-9e6e-ac08-e7cd40c91d17/xmd-ipad-pro-12-9-zh-Hans-09.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/58/4d/f5584d0c-1616-65ab-e5ef-ad0d1c896d6f/xmd-ipad-pro-12-9-zh-Hans-10.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784109600323
+  },
+  "6768232837": {
+    "name": "借还记账 - 借钱还钱欠款管理",
+    "trackName": "借还记账 - 借钱还钱欠款管理",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784109633116,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%80%9F%E8%BF%98%E8%AE%B0%E8%B4%A6-%E5%80%9F%E9%92%B1%E8%BF%98%E9%92%B1%E6%AC%A0%E6%AC%BE%E7%AE%A1%E7%90%86/id6768232837?uo=4",
+    "description": "资金往来频繁，普通记账软件太繁琐？ 「借还记账」专注于个人借贷、借钱还钱与生意应收应付，为你提供最纯粹的资金往来管理方案。 【专业级管理体验】 应收应付资产大盘：全局净资产、待收欠款、待还债务一目了然，资金状况秒级掌握。 往来对象精细对账：每个联系人独立对账单，借款本金、还款进度、历史流水严谨清晰。 完整借还生命周期：借出、借入、收款、还款全链路支持，错账可编辑可修正。 多币种核算无缝切换：支持国际多币种流转，跨国往来与换汇借还清晰无误。 原生级 iCloud 安全同步：数据加密存储于您个人 iCloud，多设备实时协同，换机无忧。 理清账目，掌控现金流！ 点击购买下载，开启高效规范的借还款管理。",
+    "fullDescription": "资金往来频繁，普通记账软件太繁琐？ 「借还记账」专注于个人借贷、借钱还钱与生意应收应付，为你提供最纯粹的资金往来管理方案。 【专业级管理体验】 应收应付资产大盘：全局净资产、待收欠款、待还债务一目了然，资金状况秒级掌握。 往来对象精细对账：每个联系人独立对账单，借款本金、还款进度、历史流水严谨清晰。 完整借还生命周期：借出、借入、收款、还款全链路支持，错账可编辑可修正。 多币种核算无缝切换：支持国际多币种流转，跨国往来与换汇借还清晰无误。 原生级 iCloud 安全同步：数据加密存储于您个人 iCloud，多设备实时协同，换机无忧。 理清账目，掌控现金流！ 点击购买下载，开启高效规范的借还款管理。",
+    "summaryDescription": "资金往来频繁，普通记账软件太繁琐？ 「借还记账」专注于个人借贷、借钱还钱与生意应收应付，为你提供最纯粹的资金往来管理方案。 【专业级管理体验】 应收应付资产大盘：全局净资产、待收欠款、待还债务一目了然，资金状况秒级掌握。 往来对象精细对账：每个联系人独立对账单，借款本金、还款进度、历史流水严谨清晰。 完整借还生命周期：借出、借入、收款、还款全链路支持，错账可编辑可修正。 多币种核算无缝切换：支持国际多币种流转，跨国往来与换汇借还清晰无误。 原生级 iCloud 安全同步：数据加密存储于您个人 iCloud，多设备实时协同，换机无忧。 理清账目，掌控现金流！ 点击购买下载，开启高效规范的借还款管理。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/34/f6/9234f648-689d-841f-2ef0-9a940eeee20f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/34/f6/9234f648-689d-841f-2ef0-9a940eeee20f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "伟贤 杨",
+    "artistName": "伟贤 杨",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/24/4a/01244afd-8ff1-358d-a533-bd7952eee256/iphone-6-5-01-home-summary.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/4e/17/6a4e17da-64fe-d054-a8d3-2ee405e91f7f/iphone-6-5-02-contact-detail.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/ac/1a/f4ac1a3f-c3dc-3400-c71f-ba095ed58f73/03_new_transaction.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/b1/f2/c6b1f293-603b-2adb-22c8-0235f9b72373/iphone-6-5-04-history.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/fe/cb/06fecbc5-1afd-55fe-b284-3c49df9f2de3/06_settings.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/07/ca/d407caa7-175d-bf8e-3166-05425fb0761c/05_currency_settings.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/3a/cb/ed3acb56-6505-5c78-4fc3-ea251916fa1e/ipad-13-01-home-summary.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/fd/3a/63fd3a39-3333-14d8-44e7-e5b0b32476ac/ipad-13-03-record-transaction.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/0d/64/dd0d64d3-6238-0da0-4be8-b61e11e08e3a/ipad-13-02-contact-detail.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784109608499
+  },
+  "6774253558": {
+    "name": "幸运号码",
+    "trackName": "幸运号码",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784115694980,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%B9%B8%E8%BF%90%E5%8F%B7%E7%A0%81/id6774253558?uo=4",
+    "description": "智能彩票推荐，5大策略助您选号！支持双色球/大乐透，热号分析、生日数字、连号组合，完全离线免费！",
+    "fullDescription": "智能彩票推荐，5大策略助您选号！支持双色球/大乐透，热号分析、生日数字、连号组合，完全离线免费！",
+    "summaryDescription": "智能彩票推荐，5大策略助您选号！支持双色球/大乐透，热号分析、生日数字、连号组合，完全离线免费！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/83/8b/d8838b34-5582-12a1-13b5-63d9dddbd279/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/83/8b/d8838b34-5582-12a1-13b5-63d9dddbd279/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.jpg",
+    "sellerName": "龙 王",
+    "artistName": "龙 王",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/4f/5f/c24f5ff9-3f3e-5dfc-d3f9-c63f6738f850/197252BE-FEF3-4ED3-9687-6FF23ABAD344.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/06/31/69063111-4139-8bfd-2b01-1506ea6c0359/A6879B3C-3444-469E-A149-7847879CF312.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/09/33/3b09332a-e18a-98b7-40aa-971e0c596830/33790E64-0A97-4D79-8517-EBC3F3FC8F86.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/ae/41/a5ae41a9-0441-7f3a-2536-5a20001cdfd8/D8EC17D6-4DCB-4722-9EDB-4404C36E1F42.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/81/26/37812649-5296-e930-4d64-87977d71c5c1/54DBEDC4-8AF0-46CA-9914-EDB9111A5DA5.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/b7/32/46b732c5-d795-7292-8d73-919002e50fc7/A6879B3C-3444-469E-A149-7847879CF312.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/e7/a7/06e7a7b8-9dc9-1362-f0e6-2d60fc7a21bd/197252BE-FEF3-4ED3-9687-6FF23ABAD344.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/0a/62/510a62c4-fe1d-c88b-ff0f-5bbbe6096764/54DBEDC4-8AF0-46CA-9914-EDB9111A5DA5.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/5f/58/6e5f58f5-615a-9fc0-d322-f9f949e3a1b0/D8EC17D6-4DCB-4722-9EDB-4404C36E1F42.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/02/4f/b9024f00-67e3-ca92-b3ef-c6f291b69b33/33790E64-0A97-4D79-8517-EBC3F3FC8F86.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784115660852
+  },
+  "6778996319": {
+    "name": "水电燃气抄表账本2026",
+    "trackName": "水电燃气抄表账本2026",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784115694980,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%B0%B4%E7%94%B5%E7%87%83%E6%B0%94%E6%8A%84%E8%A1%A8%E8%B4%A6%E6%9C%AC2026/id6778996319?uo=4",
+    "description": "抄表账本是一款面向租房、合租、家庭和小型店铺的本地抄表记录工具。你可以按房间或表具记录水表、电表、燃气表读数，自动计算本期用量、费用和分摊金额，并保留照片凭证与历史趋势。 主要功能： 管理水表、电表、燃气表档案 记录每期读数并自动计算用量 设置单价和阶梯价格模板 按合租人数分摊水电燃气费用 添加照片凭证，方便核对账单 查看本期账单汇总和月度趋势 标记异常用量，减少漏记错记 本地搜索记录，支持离线导出 本 App 为纯单机工具，无需登录，不联网，不接入第三方服务，收集、不上传任何用户数据。所有抄表记录、费用模板、照片凭证和导出文件均保存在你的设备本地。",
+    "fullDescription": "抄表账本是一款面向租房、合租、家庭和小型店铺的本地抄表记录工具。你可以按房间或表具记录水表、电表、燃气表读数，自动计算本期用量、费用和分摊金额，并保留照片凭证与历史趋势。 主要功能： 管理水表、电表、燃气表档案 记录每期读数并自动计算用量 设置单价和阶梯价格模板 按合租人数分摊水电燃气费用 添加照片凭证，方便核对账单 查看本期账单汇总和月度趋势 标记异常用量，减少漏记错记 本地搜索记录，支持离线导出 本 App 为纯单机工具，无需登录，不联网，不接入第三方服务，收集、不上传任何用户数据。所有抄表记录、费用模板、照片凭证和导出文件均保存在你的设备本地。",
+    "summaryDescription": "抄表账本是一款面向租房、合租、家庭和小型店铺的本地抄表记录工具。你可以按房间或表具记录水表、电表、燃气表读数，自动计算本期用量、费用和分摊金额，并保留照片凭证与历史趋势。 主要功能： 管理水表、电表、燃气表档案 记录每期读数并自动计算用量 设置单价和阶梯价格模板 按合租人数分摊水电燃气费用 添加照片凭证，方便核对账单 查看本期账单汇总和月度趋势 标记异常用量，减少漏记错记 本地搜索记录，支持离线导出 本 App 为纯单机工具，无需登录，不联网，不接入第三方服务，收集、不上传任何用户数据。所有抄表记录、费用模板、照片凭证和导出文件均保存在你的设备本地。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/a8/f5/2aa8f580-bc2a-7346-dd27-a7c4f65b96f0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/a8/f5/2aa8f580-bc2a-7346-dd27-a7c4f65b96f0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Nanjing Yunxiaochuang Technology Co., Ltd",
+    "artistName": "Nanjing Yunxiaochuang Technology Co., Ltd",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/33/c3/a233c380-53cb-54f6-2bc1-0a4033ce3c3e/meterBillLedger-marketing-zh-Hans.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/dd/8d/6add8de6-5b00-7249-f7ef-6e8af7099c25/01-home.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/2e/7a/ad2e7a76-357f-e280-1674-29c1e9b1d85f/02-feature.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/a2/bb/eba2bb5d-cdb0-26c2-a892-a8cec3c007a5/03-settings.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784115671685
+  },
+  "6752371728": {
+    "name": "Simple Stopwatch – 高效时间管理",
+    "trackName": "Simple Stopwatch – 高效时间管理",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00",
+      "Pro Lifetime": "¥22.00",
+      "Pro（永久）": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00",
+      "Pro Lifetime": "¥22.00",
+      "Pro（永久）": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786379426434,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Pro（永久）": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1784529835451,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Pro Lifetime": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1784115694980,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/simple-stopwatch-%E9%AB%98%E6%95%88%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/id6752371728?uo=4",
+    "description": "精确计时追踪多项活动，停止时自动保存记录。用一键标签整理锻炼、学习和工作时间，即时查看生产力模式。 主要功能： 精确到0.1秒的计时 停止时自动保存，永不丢失记录 智能标签：锻炼、学习、工作、爱好 按日期自动分组：今天、昨天、以前 支持39种语言，标签自动翻译 浅色/深色/跟随系统主题 适合人群： 使用番茄工作法的学生 追踪锻炼时长的运动爱好者 监控工作时间的自由职业者 3步开始： 1. 打开应用（自动显示您的语言） 2. 点击开始 3. 点击停止 - 自动保存 隐私优先： 所有数据保存在您的设备上，不上传任何服务器。",
+    "fullDescription": "精确计时追踪多项活动，停止时自动保存记录。用一键标签整理锻炼、学习和工作时间，即时查看生产力模式。 主要功能： 精确到0.1秒的计时 停止时自动保存，永不丢失记录 智能标签：锻炼、学习、工作、爱好 按日期自动分组：今天、昨天、以前 支持39种语言，标签自动翻译 浅色/深色/跟随系统主题 适合人群： 使用番茄工作法的学生 追踪锻炼时长的运动爱好者 监控工作时间的自由职业者 3步开始： 1. 打开应用（自动显示您的语言） 2. 点击开始 3. 点击停止 - 自动保存 隐私优先： 所有数据保存在您的设备上，不上传任何服务器。",
+    "summaryDescription": "精确计时追踪多项活动，停止时自动保存记录。用一键标签整理锻炼、学习和工作时间，即时查看生产力模式。 主要功能： 精确到0.1秒的计时 停止时自动保存，永不丢失记录 智能标签：锻炼、学习、工作、爱好 按日期自动分组：今天、昨天、以前 支持39种语言，标签自动翻译 浅色/深色/跟随系统主题 适合人群： 使用番茄工作法的学生 追踪锻炼时长的运动爱好者 监控工作时间的自由职业者 3步开始： 1. 打开应用（自动显示您的语言） 2. 点击开始 3. 点击停止 - 自动保存 隐私优先： 所有数据保存在您的设备上，不上传任何服务器。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/66/68/f6666838-79f8-3c71-7855-0408d533c158/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/66/68/f6666838-79f8-3c71-7855-0408d533c158/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "seiya kawano",
+    "artistName": "Seiya.k",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/4e/d6/804ed638-3761-3f89-e76b-86b251193d22/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-09-11_at_22.33.07.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/bf/16/dbbf16e0-353e-7181-d898-b932985c7edf/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-09-11_at_22.33.13.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/2d/9f/032d9fa8-461c-7dbb-281d-89dbaed199a2/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-09-11_at_22.33.17.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/cb/7b/a9cb7b5c-3e5c-0fc9-d727-db1ec57355a8/Simulator_Screenshot_-_iPhone_14_Plus_-_2025-09-11_at_22.33.26.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/fa/2f/fafa2fd4-502a-a17b-5d05-aefffe95e6dd/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-09-11_at_22.12.47.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/d1/5d/b9d15d03-1744-137b-4fb7-da8b98f9c000/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-09-11_at_22.12.51.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/aa/00/6caa00fb-6d57-3895-3f53-3d247799643f/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-09-11_at_22.12.55.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/22/de/dc22de7c-f179-2b38-1fdd-ab830e8d0dc1/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-09-11_at_22.13.06.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1784115671685
+  },
   "6766805275": {
     "name": "Bilingual Reader Pro",
     "trackName": "Bilingual Reader Pro",
@@ -6578,8 +6826,8 @@
     "description": "有些话，不想发朋友圈，也不想解释给别人听，只想轻轻记下来。 每日记忆是一个写给自己的地方。想到什么，就记什么。一句话、一张照片、一个心情，或者今天发生的小事，都可以轻轻留下。 应用会按时间轴整理每天的内容，也支持通过日历、搜索和自由回溯慢慢翻回来。今天看似普通的一天，过一阵子再回头，也许就成了值得记住的回忆。 你的内容优先保存在本地设备，并可通过 iCloud 在你的设备之间自动同步。没有公开主页，没有点赞评论，也没有别人能看到你写下的内容。 适合这些时候： 想随手记一句今天的感受 想把照片和文字留在同一天 不想发给别人，但想给自己留个痕迹 想偶尔回头看看，那些被留下的时刻",
     "fullDescription": "有些话，不想发朋友圈，也不想解释给别人听，只想轻轻记下来。 每日记忆是一个写给自己的地方。想到什么，就记什么。一句话、一张照片、一个心情，或者今天发生的小事，都可以轻轻留下。 应用会按时间轴整理每天的内容，也支持通过日历、搜索和自由回溯慢慢翻回来。今天看似普通的一天，过一阵子再回头，也许就成了值得记住的回忆。 你的内容优先保存在本地设备，并可通过 iCloud 在你的设备之间自动同步。没有公开主页，没有点赞评论，也没有别人能看到你写下的内容。 适合这些时候： 想随手记一句今天的感受 想把照片和文字留在同一天 不想发给别人，但想给自己留个痕迹 想偶尔回头看看，那些被留下的时刻",
     "summaryDescription": "有些话，不想发朋友圈，也不想解释给别人听，只想轻轻记下来。 每日记忆是一个写给自己的地方。想到什么，就记什么。一句话、一张照片、一个心情，或者今天发生的小事，都可以轻轻留下。 应用会按时间轴整理每天的内容，也支持通过日历、搜索和自由回溯慢慢翻回来。今天看似普通的一天，过一阵子再回头，也许就成了值得记住的回忆。 你的内容优先保存在本地设备，并可通过 iCloud 在你的设备之间自动同步。没有公开主页，没有点赞评论，也没有别人能看到你写下的内容。 适合这些时候： 想随手记一句今天的感受 想把照片和文字留在同一天 不想发给别人，但想给自己留个痕迹 想偶尔回头看看，那些被留下的时刻",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/cf/51/f2cf515d-81cc-d4ee-4584-c6be56005ef1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/cf/51/f2cf515d-81cc-d4ee-4584-c6be56005ef1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/7f/d2/057fd278-14a1-183c-8aaa-403dc792e25f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/7f/d2/057fd278-14a1-183c-8aaa-403dc792e25f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "成翩 喻",
     "artistName": "成翩 喻",
     "screenshotUrls": [
@@ -12945,28 +13193,24 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E8%B5%B7%E5%90%8D%E5%8C%A0/id6756984732?uo=4",
-    "description": "【为什么选择起名匠？】 为新生宝宝起一个既符合中华传统、又寓意美好的中文名字，往往是一件令人头疼的事。起名匠正是为解决这个问题而生，结合AI智能技术与中华传统国学，为您的孩子找到最合适的名字。 【核心功能】 基于大语言模型，深度理解中文语义 结合姓氏特点，推荐音韵和谐的名字 每个名字都经过精心筛选，确保寓意美好 每日2次免费AI起名额度 传统国学结合 参考诗经、楚辞、唐诗宋词等经典文献 考虑五行八字、生辰八字（可选） 注重名字的文化内涵和历史渊源 多维度筛选 按性别筛选：男孩/女孩专属推荐 按风格选择：古典优雅/现代简约/诗意文艺 按寓意分类：聪慧、勇敢、善良、美好等 按五行匹配：金木水火土（可选功能） 详细解读 每个名字都附带详细的含义解释 说明名字的出处和文化背景 提供发音指导，方便海外家人学习 隐私保护 所有数据仅存储在您的设备本地 不收集、不上传任何个人信息 无需注册账号，打开即用 收藏管理 喜欢的名字一键收藏 支持添加备注和家人意见 方便对比和最终选择 【适用人群】 适合重视中华文化传承的家庭 适合寻找有文化底蕴名字的用户 适合需要为孩子改名的家长 【使用说明】 每位用户每日享有2次免费AI起名额度，足够您充分体验智能起名的强大功能。精心挑选最合适的名字，无需担心额度不够用。 【隐私承诺】 不收集任何个人信息 不追踪用户行为 数据仅存储在本地设备 无广告，无内购骚扰 隐私：https://button-kilometer-33c.notion.site/2d97d45b082d8057a1e5d596916ae807 条款：https://button-kilometer-33c.notion.site/2e27d45b082d804aac44dbc9461b9292",
-    "fullDescription": "【为什么选择起名匠？】 为新生宝宝起一个既符合中华传统、又寓意美好的中文名字，往往是一件令人头疼的事。起名匠正是为解决这个问题而生，结合AI智能技术与中华传统国学，为您的孩子找到最合适的名字。 【核心功能】 基于大语言模型，深度理解中文语义 结合姓氏特点，推荐音韵和谐的名字 每个名字都经过精心筛选，确保寓意美好 每日2次免费AI起名额度 传统国学结合 参考诗经、楚辞、唐诗宋词等经典文献 考虑五行八字、生辰八字（可选） 注重名字的文化内涵和历史渊源 多维度筛选 按性别筛选：男孩/女孩专属推荐 按风格选择：古典优雅/现代简约/诗意文艺 按寓意分类：聪慧、勇敢、善良、美好等 按五行匹配：金木水火土（可选功能） 详细解读 每个名字都附带详细的含义解释 说明名字的出处和文化背景 提供发音指导，方便海外家人学习 隐私保护 所有数据仅存储在您的设备本地 不收集、不上传任何个人信息 无需注册账号，打开即用 收藏管理 喜欢的名字一键收藏 支持添加备注和家人意见 方便对比和最终选择 【适用人群】 适合重视中华文化传承的家庭 适合寻找有文化底蕴名字的用户 适合需要为孩子改名的家长 【使用说明】 每位用户每日享有2次免费AI起名额度，足够您充分体验智能起名的强大功能。精心挑选最合适的名字，无需担心额度不够用。 【隐私承诺】 不收集任何个人信息 不追踪用户行为 数据仅存储在本地设备 无广告，无内购骚扰 隐私：https://button-kilometer-33c.notion.site/2d97d45b082d8057a1e5d596916ae807 条款：https://button-kilometer-33c.notion.site/2e27d45b082d804aac44dbc9461b9292",
-    "summaryDescription": "【为什么选择起名匠？】 为新生宝宝起一个既符合中华传统、又寓意美好的中文名字，往往是一件令人头疼的事。起名匠正是为解决这个问题而生，结合AI智能技术与中华传统国学，为您的孩子找到最合适的名字。 【核心功能】 基于大语言模型，深度理解中文语义 结合姓氏特点，推荐音韵和谐的名字 每个名字都经过精心筛选，确保寓意美好 每日2次免费AI起名额度 传统国学结合 参考诗经、楚辞、唐诗宋词等经典文献 考虑五行八字、生辰八字（可选） 注重名字的文化内涵和历史渊源 多维度筛选 按性别筛选：男孩/女孩专属推荐 按风格选择：古典优雅/现代简约/诗意文艺 按寓意分类：聪慧、勇敢、善良、美好等 按五行匹配：金木水火土（可选功能） 详细解读 每个名字都附带详细的含义解释 说明名字的出处和文化背景 提供发音指导，方便海外家人学习 隐私保护 所有数据仅存储在您的设备本地 不收集、不上传任何个人信息 无需注册账号，打开即用 收藏管理 喜欢的名字一键收藏 支持添加备注和家人意见 方便对比和最终选择 【适用人群】 适合重视中华文化传承的家庭 适合寻找有文化底蕴名字的用户 适合需要为孩子改名的家长 【使用说明】 每位用户每日享有2次免费AI起名额度，足够您充分体验智能起名的强大功能。精心挑选最合适的名字，无需担心额度不够用。 【隐私承诺】 不收集任何个人信息 不追踪用户行为 数据仅存储在本地设备 无广告，无内购骚扰 隐私：https://button-kilometer-33c.notion.site/2d97d45b082d8057a1e5d596916ae807 条款：https://button-kilometer-33c.notion.site/2e27d45b082d804aac44dbc9461b9292",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/23/52/a62352d1-ae07-d743-112a-dd1c80675768/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/23/52/a62352d1-ae07-d743-112a-dd1c80675768/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "description": "【为什么选择起名匠？】 为新生宝宝起一个既符合中华传统、又寓意美好的中文名字，往往是一件令人头疼的事。起名匠结合 AI 智能技术与中华传统国学，不仅能为孩子推荐好名字，还能解读任何名字的深层含义。 【核心功能】 AI 智能起名 基于大语言模型，深度理解中文语义 结合姓氏特点，推荐音韵和谐的名字 可按职业期望、理想性格定制推荐方向 名字解读 输入任意名字，即刻生成专业解读报告 综合评分：命理匹配、文化内涵、音律评价多维度打分 结合生辰八字分析名字适配度（可选） 每个名字附带含义解释、出处与文化背景、拼音注音 名字对比 收藏夹内勾选 2-3 个名字，评分图表化对比 综合、命理、文化、音律四维一目了然，最高分自动高亮 告别选择困难，用数据辅助最终决定 分享报告 一键生成精美水墨风名字卡片 含评分与八字摘要，保存相册或分享给家人 传统国学结合 参考诗经、楚辞、唐诗宋词等经典文献 考虑五行八字、三才五格 注重名字的文化内涵和历史渊源 收藏管理 喜欢的名字一键收藏，随时回看完整报告 【免费与订阅】 每日 2 次免费 AI 起名/解名额度。订阅起名匠 Pro 即可不限次数使用（提供月度/季度/年度订阅，自动续订，可随时在系统设置中取消）。 【适用人群】 适合重视中华文化传承的新手父母 适合为孩子取名/改名的家长 适合想了解自己名字含义的用户 【隐私承诺】 报告数据仅存储在您的设备本地 无需注册账号，打开即用 无广告 隐私政策：https://button-kilometer-33c.notion.site/2d97d45b082d8057a1e5d596916ae807 服务条款：https://button-kilometer-33c.notion.site/2e27d45b082d804aac44dbc9461b9292",
+    "fullDescription": "【为什么选择起名匠？】 为新生宝宝起一个既符合中华传统、又寓意美好的中文名字，往往是一件令人头疼的事。起名匠结合 AI 智能技术与中华传统国学，不仅能为孩子推荐好名字，还能解读任何名字的深层含义。 【核心功能】 AI 智能起名 基于大语言模型，深度理解中文语义 结合姓氏特点，推荐音韵和谐的名字 可按职业期望、理想性格定制推荐方向 名字解读 输入任意名字，即刻生成专业解读报告 综合评分：命理匹配、文化内涵、音律评价多维度打分 结合生辰八字分析名字适配度（可选） 每个名字附带含义解释、出处与文化背景、拼音注音 名字对比 收藏夹内勾选 2-3 个名字，评分图表化对比 综合、命理、文化、音律四维一目了然，最高分自动高亮 告别选择困难，用数据辅助最终决定 分享报告 一键生成精美水墨风名字卡片 含评分与八字摘要，保存相册或分享给家人 传统国学结合 参考诗经、楚辞、唐诗宋词等经典文献 考虑五行八字、三才五格 注重名字的文化内涵和历史渊源 收藏管理 喜欢的名字一键收藏，随时回看完整报告 【免费与订阅】 每日 2 次免费 AI 起名/解名额度。订阅起名匠 Pro 即可不限次数使用（提供月度/季度/年度订阅，自动续订，可随时在系统设置中取消）。 【适用人群】 适合重视中华文化传承的新手父母 适合为孩子取名/改名的家长 适合想了解自己名字含义的用户 【隐私承诺】 报告数据仅存储在您的设备本地 无需注册账号，打开即用 无广告 隐私政策：https://button-kilometer-33c.notion.site/2d97d45b082d8057a1e5d596916ae807 服务条款：https://button-kilometer-33c.notion.site/2e27d45b082d804aac44dbc9461b9292",
+    "summaryDescription": "【为什么选择起名匠？】 为新生宝宝起一个既符合中华传统、又寓意美好的中文名字，往往是一件令人头疼的事。起名匠结合 AI 智能技术与中华传统国学，不仅能为孩子推荐好名字，还能解读任何名字的深层含义。 【核心功能】 AI 智能起名 基于大语言模型，深度理解中文语义 结合姓氏特点，推荐音韵和谐的名字 可按职业期望、理想性格定制推荐方向 名字解读 输入任意名字，即刻生成专业解读报告 综合评分：命理匹配、文化内涵、音律评价多维度打分 结合生辰八字分析名字适配度（可选） 每个名字附带含义解释、出处与文化背景、拼音注音 名字对比 收藏夹内勾选 2-3 个名字，评分图表化对比 综合、命理、文化、音律四维一目了然，最高分自动高亮 告别选择困难，用数据辅助最终决定 分享报告 一键生成精美水墨风名字卡片 含评分与八字摘要，保存相册或分享给家人 传统国学结合 参考诗经、楚辞、唐诗宋词等经典文献 考虑五行八字、三才五格 注重名字的文化内涵和历史渊源 收藏管理 喜欢的名字一键收藏，随时回看完整报告 【免费与订阅】 每日 2 次免费 AI 起名/解名额度。订阅起名匠 Pro 即可不限次数使用（提供月度/季度/年度订阅，自动续订，可随时在系统设置中取消）。 【适用人群】 适合重视中华文化传承的新手父母 适合为孩子取名/改名的家长 适合想了解自己名字含义的用户 【隐私承诺】 报告数据仅存储在您的设备本地 无需注册账号，打开即用 无广告 隐私政策：https://button-kilometer-33c.notion.site/2d97d45b082d8057a1e5d596916ae807 服务条款：https://button-kilometer-33c.notion.site/2e27d45b082d804aac44dbc9461b9292",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/6d/ba/416dba40-3dae-3267-ec83-0553d9ea3a04/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/6d/ba/416dba40-3dae-3267-ec83-0553d9ea3a04/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "雨鑫 王",
     "artistName": "雨鑫 王",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/23/be/7a23be7e-651b-53b5-b409-8e9492ed70b4/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-16_at_22.31.54.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/1f/fe/a51ffeef-8476-fee0-5fb5-3a4cccea1da2/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-16_at_22.32.45.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/0d/b3/ef0db36a-de08-97b7-a06b-ddc87d0a9314/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-16_at_22.32.53.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/35/5d/59355d07-970c-bc00-b6ac-60c37660e3f9/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-16_at_22.33.00.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/01/03/85010359-a10d-4534-9f6e-e9a8cffd4757/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-16_at_22.33.12.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/c2/ee/a3c2ee3b-faca-1a42-08ef-04b3c23648cb/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-16_at_22.32.17.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/21/af/b121af96-7a19-d1bc-ce89-200f9dd9cbc4/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-16_at_22.33.25.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/32/9b/f1329bb9-52bf-1d81-7c6f-e3c1a18c8e13/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-16_at_22.33.33.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/9f/a7/a29fa798-804b-a939-c828-f677676e7af6/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-16_at_22.33.43.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/0b/95/1e0b9580-cedd-ed21-7c76-8ef48481e5ff/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/10/67/94106742-8a60-7d8d-eb20-c8c06d44fedc/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/e9/17/ffe91713-e665-dfc9-b0ba-cd1e1f0d9dd3/3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/e8/ca/32e8ca42-bda1-544b-dbc6-0a98e21d1f1c/4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/77/a0/3677a0bb-77eb-9108-f227-bb1d6f45477f/5.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/bb/2e97bb13-c73c-c99d-78ac-bf978029d6e5/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2025-12-31_at_11.29.47.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/0e/b8/a70eb801-2ba5-2c39-7782-1f3f3872f06a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2025-12-31_at_11.29.21.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/3d/3c/7a3d3c34-a082-3563-a562-4ba21ade0da4/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2025-12-31_at_11.29.05.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/76/81/3d768194-6b0f-99d4-c4f3-659201cffacd/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2025-12-31_at_11.29.05.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/6f/71/ac6f71eb-4547-3289-f00b-7b1f43fc504d/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2025-12-31_at_11.29.21.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/06/85/a00685f6-312e-38cb-130b-1979eda3835a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2025-12-31_at_11.29.47.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1784802122363
   },
@@ -38682,8 +38926,8 @@
     "description": "Are you a band, orchestra, or choir director looking for an easier way to plan and organize your seating arrangements? First Chair is designed specifically for you! Whether you're leading a small ensemble or a full orchestra, this app helps you create, customize, and manage seating charts for your musical groups with ease. Key Features: Customizable Seating Charts: Easily arrange your students in any configuration that suits your ensemble’s needs. Create layouts for bands, orchestras, and choirs. Virtual Stages: Set up multiple seating arrangements and save them for future use, making it easy to prepare for concerts, rehearsals, and classroom setups Flexible Layouts: Support for both grid-based and arc-based seating designs to accommodate different performance settings Chairs and Stands: Get over all numbers and per row chairs and stands Names: Add names to your seating charts Export: Save or print images of your seating charts",
     "fullDescription": "Are you a band, orchestra, or choir director looking for an easier way to plan and organize your seating arrangements? First Chair is designed specifically for you! Whether you're leading a small ensemble or a full orchestra, this app helps you create, customize, and manage seating charts for your musical groups with ease. Key Features: Customizable Seating Charts: Easily arrange your students in any configuration that suits your ensemble’s needs. Create layouts for bands, orchestras, and choirs. Virtual Stages: Set up multiple seating arrangements and save them for future use, making it easy to prepare for concerts, rehearsals, and classroom setups Flexible Layouts: Support for both grid-based and arc-based seating designs to accommodate different performance settings Chairs and Stands: Get over all numbers and per row chairs and stands Names: Add names to your seating charts Export: Save or print images of your seating charts",
     "summaryDescription": "Are you a band, orchestra, or choir director looking for an easier way to plan and organize your seating arrangements? First Chair is designed specifically for you! Whether you're leading a small ensemble or a full orchestra, this app helps you create, customize, and manage seating charts for your musical groups with ease. Key Features: Customizable Seating Charts: Easily arrange your students in any configuration that suits your ensemble’s needs. Create layouts for bands, orchestras, and choirs. Virtual Stages: Set up multiple seating arrangements and save them for future use, making it easy to prepare for concerts, rehearsals, and classroom setups Flexible Layouts: Support for both grid-based and arc-based seating designs to accommodate different performance settings Chairs and Stands: Get over all numbers and per row chairs and stands Names: Add names to your seating charts Export: Save or print images of your seating charts",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/a1/77/98a1771e-0e5e-2aec-830b-9fb1ca5bea91/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/a1/77/98a1771e-0e5e-2aec-830b-9fb1ca5bea91/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/d3/ca/77d3cab2-ef61-3801-f861-fdd122ea6b7f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/d3/ca/77d3cab2-ef61-3801-f861-fdd122ea6b7f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Steven Quinn",
     "artistName": "Steven Quinn",
     "screenshotUrls": [
@@ -62046,8 +62290,8 @@
     "description": "AshPlayer —— 为媒体库库设计的播放器。 连接你的 Emby，在 iPhone 与 iPad 上以更干净的界面浏览片库，并以 4K / HDR 原画专注播放。 4K UHD SDR/HDR/HDR10/HDR10+ 大部分杜比兼容 隐私：凭据保存在本机，播放进度仅同步至你的 Emby。 实际画质与是否直通，取决于片源、网络与设备解码能力。",
     "fullDescription": "AshPlayer —— 为媒体库库设计的播放器。 连接你的 Emby，在 iPhone 与 iPad 上以更干净的界面浏览片库，并以 4K / HDR 原画专注播放。 4K UHD SDR/HDR/HDR10/HDR10+ 大部分杜比兼容 隐私：凭据保存在本机，播放进度仅同步至你的 Emby。 实际画质与是否直通，取决于片源、网络与设备解码能力。",
     "summaryDescription": "AshPlayer —— 为媒体库库设计的播放器。 连接你的 Emby，在 iPhone 与 iPad 上以更干净的界面浏览片库，并以 4K / HDR 原画专注播放。 4K UHD SDR/HDR/HDR10/HDR10+ 大部分杜比兼容 隐私：凭据保存在本机，播放进度仅同步至你的 Emby。 实际画质与是否直通，取决于片源、网络与设备解码能力。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/df/4f/48df4fd7-669b-c450-418c-47f0f9003809/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/df/4f/48df4fd7-669b-c450-418c-47f0f9003809/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/b1/0e/2bb10e75-2e8d-9daf-7ced-ccc004d2ec06/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/b1/0e/2bb10e75-2e8d-9daf-7ced-ccc004d2ec06/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "前庭 杨",
     "artistName": "前庭 杨",
     "screenshotUrls": [
@@ -63945,8 +64189,8 @@
     "description": "CardPecker — Use Your Best Card Stop guessing which credit card to use. CardPecker instantly shows which card earns the most for dining, hotels, airlines, groceries, travel, and more — and tells you when an offer or a program change is worth knowing about. CHOOSE THE BEST CARD Add your cards and reward multipliers once. Select a spending category to see your cards ranked by their effective return, including the estimated points and cash value you could earn. TODAY'S CARD NEWS Award chart changes, annual fee moves, new routes and program shake-ups, gathered each morning from the publications that cover them. Every story says where it came from — confirmed by the issuer or airline itself, or reported by a named publication — so you can judge it for yourself. CARD-LINKED DEALS Amex Offers, Chase Offers, Citi Offers and merchant promotions, with the terms up front: spend thresholds, statement credits, points earned, and whether the offer has to be activated first. Filter by issuer, and open the original source whenever you want to check the details. NEVER FORGET A BENEFIT Track travel credits, dining credits, lounge access, free nights, checked-bag benefits, and more. Benefits automatically renew according to the schedule you configure, so you can quickly see what remains available. TRACK PURCHASES AND RECEIPTS Record a purchase directly from a card recommendation. CardPecker calculates the points earned and estimated value using the card's reward multiplier. Review receipt history, filter by card, and monitor monthly totals. SCAN RECEIPTS ON-DEVICE Photograph a paper receipt and let CardPecker read the merchant and total. Receipt recognition happens directly on your iPhone, and saving the receipt image is optional. BUILT FOR MULTI-CARD WALLETS Whether you carry two cards or twelve, CardPecker makes reward categories easier to manage. Use subcategories to distinguish airlines, hotels, and other brands when different cards earn different rates. ALERTS ON YOUR TERMS Choose whether news, deals, or both are worth an alert. Turn either off at any time, and CardPecker stops sending it. OPTIONAL ICLOUD BACKUPS Schedule daily, weekly, or monthly backups to iCloud Drive. Restore your cards, benefits, purchase history, and saved receipt images when moving to another iPhone. PRIVATE BY DESIGN No account is required. Your cards, benefits, and receipt history are stored locally on your device, and receipt scanning uses on-device text recognition. News and deals are fetched from CardPecker's own service, and nothing about your cards or your spending is sent with the request. CardPecker does not ask for your location.",
     "fullDescription": "CardPecker — Use Your Best Card Stop guessing which credit card to use. CardPecker instantly shows which card earns the most for dining, hotels, airlines, groceries, travel, and more — and tells you when an offer or a program change is worth knowing about. CHOOSE THE BEST CARD Add your cards and reward multipliers once. Select a spending category to see your cards ranked by their effective return, including the estimated points and cash value you could earn. TODAY'S CARD NEWS Award chart changes, annual fee moves, new routes and program shake-ups, gathered each morning from the publications that cover them. Every story says where it came from — confirmed by the issuer or airline itself, or reported by a named publication — so you can judge it for yourself. CARD-LINKED DEALS Amex Offers, Chase Offers, Citi Offers and merchant promotions, with the terms up front: spend thresholds, statement credits, points earned, and whether the offer has to be activated first. Filter by issuer, and open the original source whenever you want to check the details. NEVER FORGET A BENEFIT Track travel credits, dining credits, lounge access, free nights, checked-bag benefits, and more. Benefits automatically renew according to the schedule you configure, so you can quickly see what remains available. TRACK PURCHASES AND RECEIPTS Record a purchase directly from a card recommendation. CardPecker calculates the points earned and estimated value using the card's reward multiplier. Review receipt history, filter by card, and monitor monthly totals. SCAN RECEIPTS ON-DEVICE Photograph a paper receipt and let CardPecker read the merchant and total. Receipt recognition happens directly on your iPhone, and saving the receipt image is optional. BUILT FOR MULTI-CARD WALLETS Whether you carry two cards or twelve, CardPecker makes reward categories easier to manage. Use subcategories to distinguish airlines, hotels, and other brands when different cards earn different rates. ALERTS ON YOUR TERMS Choose whether news, deals, or both are worth an alert. Turn either off at any time, and CardPecker stops sending it. OPTIONAL ICLOUD BACKUPS Schedule daily, weekly, or monthly backups to iCloud Drive. Restore your cards, benefits, purchase history, and saved receipt images when moving to another iPhone. PRIVATE BY DESIGN No account is required. Your cards, benefits, and receipt history are stored locally on your device, and receipt scanning uses on-device text recognition. News and deals are fetched from CardPecker's own service, and nothing about your cards or your spending is sent with the request. CardPecker does not ask for your location.",
     "summaryDescription": "CardPecker — Use Your Best Card Stop guessing which credit card to use. CardPecker instantly shows which card earns the most for dining, hotels, airlines, groceries, travel, and more — and tells you when an offer or a program change is worth knowing about. CHOOSE THE BEST CARD Add your cards and reward multipliers once. Select a spending category to see your cards ranked by their effective return, including the estimated points and cash value you could earn. TODAY'S CARD NEWS Award chart changes, annual fee moves, new routes and program shake-ups, gathered each morning from the publications that cover them. Every story says where it came from — confirmed by the issuer or airline itself, or reported by a named publication — so you can judge it for yourself. CARD-LINKED DEALS Amex Offers, Chase Offers, Citi Offers and merchant promotions, with the terms up front: spend thresholds, statement credits, points earned, and whether the offer has to be activated first. Filter by issuer, and open the original source whenever you want to check the details. NEVER FORGET A BENEFIT Track travel credits, dining credits, lounge access, free nights, checked-bag benefits, and more. Benefits automatically renew according to the schedule you configure, so you can quickly see what remains available. TRACK PURCHASES AND RECEIPTS Record a purchase directly from a card recommendation. CardPecker calculates the points earned and estimated value using the card's reward multiplier. Review receipt history, filter by card, and monitor monthly totals. SCAN RECEIPTS ON-DEVICE Photograph a paper receipt and let CardPecker read the merchant and total. Receipt recognition happens directly on your iPhone, and saving the receipt image is optional. BUILT FOR MULTI-CARD WALLETS Whether you carry two cards or twelve, CardPecker makes reward categories easier to manage. Use subcategories to distinguish airlines, hotels, and other brands when different cards earn different rates. ALERTS ON YOUR TERMS Choose whether news, deals, or both are worth an alert. Turn either off at any time, and CardPecker stops sending it. OPTIONAL ICLOUD BACKUPS Schedule daily, weekly, or monthly backups to iCloud Drive. Restore your cards, benefits, purchase history, and saved receipt images when moving to another iPhone. PRIVATE BY DESIGN No account is required. Your cards, benefits, and receipt history are stored locally on your device, and receipt scanning uses on-device text recognition. News and deals are fetched from CardPecker's own service, and nothing about your cards or your spending is sent with the request. CardPecker does not ask for your location.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/03/78/3303782f-b264-a135-75cc-9a49fccf9762/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/03/78/3303782f-b264-a135-75cc-9a49fccf9762/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/b1/62/81b162dd-1d1a-6e03-4d9f-35159bcdf23c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/b1/62/81b162dd-1d1a-6e03-4d9f-35159bcdf23c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "TravelPal LLC",
     "artistName": "TravelPal LLC",
     "screenshotUrls": [
@@ -64617,11 +64861,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/daily-quad/id6754517355?uo=4",
-    "description": "Most habit trackers help you track more. DailyQuad helps you focus on less. Most people don't struggle with consistency because they lack motivation. They struggle because they're trying to change too many things at once. A new workout routine, better sleep, more reading, less screen time, healthier eating, meditation, a side project. Each goal sounds worthwhile, but together they can become overwhelming. DailyQuad is built around a simple method: focus on fewer goals and make more progress. DailyQuad starts with four daily goals, helping you prioritize what matters most instead of managing an endless list of habits and routines. The idea is simple: when your attention isn't spread across dozens of competing priorities, it's easier to stay consistent and build momentum. As your routines become established, DailyQuad grows with you. Start with four goals and expand whenever you're ready, while keeping the same philosophy: focus on what matters, show up consistently, and let progress compound over time. Whether you're building healthier habits, improving your fitness, growing a business, learning a new skill, or simply becoming more intentional with your time, DailyQuad provides a clear and flexible framework for turning good intentions into daily action. FEATURES Start with four daily goals for maximum focus Expand as your routines evolve Track simple yes/no goals or numeric goals Track water intake, workouts, steps, pages read, calories, and more Fill steps, exercise, and your Move ring automatically with Apple Health Create fully customized goals Build streaks and celebrate milestones Take a rest day when you need one, without breaking your streak Get a single gentle daily reminder, and none at all on the days you have already finished Enjoy a clean, distraction-free experience designed for everyday use OPTIONAL METRICS TRACKING Goals help you track your actions. Metrics help you track your results. Enable Metrics in Settings to track weight, body measurements, body composition, and custom metrics alongside your daily goals. Whether you're working toward a fitness goal, improving your health, building muscle, losing weight, or tracking personal milestones, Metrics helps you see how your daily habits translate into long-term progress. Track weight and body measurements Track body composition like body fat, muscle, body water, and more Scan a body composition or smart scale report and let DailyQuad fill in your numbers, on your device Create custom metrics for anything you want to measure View weekly, monthly, and yearly trend graphs Use built-in measurement guides for consistency OPTIONAL GLP-1 TRACKING If you're on a GLP-1 medication, DailyQuad can support that journey too. Enable GLP-1 in Settings to log your doses, see when your next shot is due, rotate injection sites, note side effects, and keep protein and weight in view as you go. It brings your medication, your habits, and your results together in one simple place, without turning your day into a spreadsheet. Log doses and see your next shot at a glance Set a weekly or daily dosing schedule Track injection site rotation Record side effects and their severity over time Stay on top of daily protein with a companion goal Follow weight, protein, and dosing trends on clear graphs GREAT FOR Habit tracking Daily routines Fitness and exercise Weight loss and body recomposition GLP-1 medication tracking Body composition tracking Reading goals Meditation and mindfulness Sync with Apple Health No ads. No upsell. No pressure. Scanning stays on your device. DailyQuad was designed for people who want a system simple enough to use every day and flexible enough to grow with them over time. It isn't about tracking everything. It's about focusing on what matters most, staying consistent, and making meaningful progress one day at a time. Start with four goals. Build momentum. Stay consistent.",
-    "fullDescription": "Most habit trackers help you track more. DailyQuad helps you focus on less. Most people don't struggle with consistency because they lack motivation. They struggle because they're trying to change too many things at once. A new workout routine, better sleep, more reading, less screen time, healthier eating, meditation, a side project. Each goal sounds worthwhile, but together they can become overwhelming. DailyQuad is built around a simple method: focus on fewer goals and make more progress. DailyQuad starts with four daily goals, helping you prioritize what matters most instead of managing an endless list of habits and routines. The idea is simple: when your attention isn't spread across dozens of competing priorities, it's easier to stay consistent and build momentum. As your routines become established, DailyQuad grows with you. Start with four goals and expand whenever you're ready, while keeping the same philosophy: focus on what matters, show up consistently, and let progress compound over time. Whether you're building healthier habits, improving your fitness, growing a business, learning a new skill, or simply becoming more intentional with your time, DailyQuad provides a clear and flexible framework for turning good intentions into daily action. FEATURES Start with four daily goals for maximum focus Expand as your routines evolve Track simple yes/no goals or numeric goals Track water intake, workouts, steps, pages read, calories, and more Fill steps, exercise, and your Move ring automatically with Apple Health Create fully customized goals Build streaks and celebrate milestones Take a rest day when you need one, without breaking your streak Get a single gentle daily reminder, and none at all on the days you have already finished Enjoy a clean, distraction-free experience designed for everyday use OPTIONAL METRICS TRACKING Goals help you track your actions. Metrics help you track your results. Enable Metrics in Settings to track weight, body measurements, body composition, and custom metrics alongside your daily goals. Whether you're working toward a fitness goal, improving your health, building muscle, losing weight, or tracking personal milestones, Metrics helps you see how your daily habits translate into long-term progress. Track weight and body measurements Track body composition like body fat, muscle, body water, and more Scan a body composition or smart scale report and let DailyQuad fill in your numbers, on your device Create custom metrics for anything you want to measure View weekly, monthly, and yearly trend graphs Use built-in measurement guides for consistency OPTIONAL GLP-1 TRACKING If you're on a GLP-1 medication, DailyQuad can support that journey too. Enable GLP-1 in Settings to log your doses, see when your next shot is due, rotate injection sites, note side effects, and keep protein and weight in view as you go. It brings your medication, your habits, and your results together in one simple place, without turning your day into a spreadsheet. Log doses and see your next shot at a glance Set a weekly or daily dosing schedule Track injection site rotation Record side effects and their severity over time Stay on top of daily protein with a companion goal Follow weight, protein, and dosing trends on clear graphs GREAT FOR Habit tracking Daily routines Fitness and exercise Weight loss and body recomposition GLP-1 medication tracking Body composition tracking Reading goals Meditation and mindfulness Sync with Apple Health No ads. No upsell. No pressure. Scanning stays on your device. DailyQuad was designed for people who want a system simple enough to use every day and flexible enough to grow with them over time. It isn't about tracking everything. It's about focusing on what matters most, staying consistent, and making meaningful progress one day at a time. Start with four goals. Build momentum. Stay consistent.",
-    "summaryDescription": "Most habit trackers help you track more. DailyQuad helps you focus on less. Most people don't struggle with consistency because they lack motivation. They struggle because they're trying to change too many things at once. A new workout routine, better sleep, more reading, less screen time, healthier eating, meditation, a side project. Each goal sounds worthwhile, but together they can become overwhelming. DailyQuad is built around a simple method: focus on fewer goals and make more progress. DailyQuad starts with four daily goals, helping you prioritize what matters most instead of managing an endless list of habits and routines. The idea is simple: when your attention isn't spread across dozens of competing priorities, it's easier to stay consistent and build momentum. As your routines become established, DailyQuad grows with you. Start with four goals and expand whenever you're ready, while keeping the same philosophy: focus on what matters, show up consistently, and let progress compound over time. Whether you're building healthier habits, improving your fitness, growing a business, learning a new skill, or simply becoming more intentional with your time, DailyQuad provides a clear and flexible framework for turning good intentions into daily action. FEATURES Start with four daily goals for maximum focus Expand as your routines evolve Track simple yes/no goals or numeric goals Track water intake, workouts, steps, pages read, calories, and more Fill steps, exercise, and your Move ring automatically with Apple Health Create fully customized goals Build streaks and celebrate milestones Take a rest day when you need one, without breaking your streak Get a single gentle daily reminder, and none at all on the days you have already finished Enjoy a clean, distraction-free experience designed for everyday use OPTIONAL METRICS TRACKING Goals help you track your actions. Metrics help you track your results. Enable Metrics in Settings to track weight, body measurements, body composition, and custom metrics alongside your daily goals. Whether you're working toward a fitness goal, improving your health, building muscle, losing weight, or tracking personal milestones, Metrics helps you see how your daily habits translate into long-term progress. Track weight and body measurements Track body composition like body fat, muscle, body water, and more Scan a body composition or smart scale report and let DailyQuad fill in your numbers, on your device Create custom metrics for anything you want to measure View weekly, monthly, and yearly trend graphs Use built-in measurement guides for consistency OPTIONAL GLP-1 TRACKING If you're on a GLP-1 medication, DailyQuad can support that journey too. Enable GLP-1 in Settings to log your doses, see when your next shot is due, rotate injection sites, note side effects, and keep protein and weight in view as you go. It brings your medication, your habits, and your results together in one simple place, without turning your day into a spreadsheet. Log doses and see your next shot at a glance Set a weekly or daily dosing schedule Track injection site rotation Record side effects and their severity over time Stay on top of daily protein with a companion goal Follow weight, protein, and dosing trends on clear graphs GREAT FOR Habit tracking Daily routines Fitness and exercise Weight loss and body recomposition GLP-1 medication tracking Body composition tracking Reading goals Meditation and mindfulness Sync with Apple Health No ads. No upsell. No pressure. Scanning stays on your device. DailyQuad was designed for people who want a system simple enough to use every day and flexible enough to grow with them over time. It isn't about tracking everything. It's about focusing on what matters most, staying consistent, and making meaningful progress one day at a time. Start with four goals. Build momentum. Stay consistent.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/45/56/d6455632-d024-e96f-cffa-81cd120aed71/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/45/56/d6455632-d024-e96f-cffa-81cd120aed71/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "description": "You don't need to track more things. You need to keep doing a few of them. That's what DailyQuad is for. You choose four goals for today, and tomorrow they're waiting for you again. Drink the water. Walk. Read ten pages. When you do one, you check it in, and a day with all four done looks different from a day without. Four is a starting point, not a rule. It's small enough that you'll actually do it on a bad Wednesday, and when the four have become ordinary you can add more. Some goals come from someone else. With Playbooks, a coach, a trainer or a friend sets a few goals for a few weeks and shares a code; everyone checks in for themselves, and the person who set them can see how the days are going. And some days are easier when somebody's looking: share a wall with people you choose and each of you adds your day. No leaderboard, nobody wins. You just see each other showing up. The goals are what you do. What happens is a different question, so if you want, keep your weight, measurements and body composition over months and see whether the daily work is showing. If you're on a GLP-1 medication, it belongs in the same place: doses, when the next is due, how it's sitting with you, your protein, how much is left. The medication has its part. The four goals are the rest. Four things today. Keep going. GOALS The goal tracker at the center of the app. Four goals to start. Keep more whenever you're ready. Yes or no goals, or numbers: glasses of water, steps, pages, minutes, grams of protein, anything you count. Make your own goals, with your own name and icon, for the thing nobody else's list has. Streaks that count the days you kept going. A rest day when you need one. Your streak stays. One daily reminder at the time you choose, silent on a day you've already finished. Apple Health fills in your steps, exercise minutes and Move ring, so those goals check themselves in. A year of your days on one screen, so you can see the shape of it. TOGETHER Nothing here has to be done alone. Playbooks: a coach, a trainer or a friend sets a few goals for a few weeks and shares a code. Everyone checks in for themselves, and they can see how it's going. A shared wall where the people you choose each add their day. You see them, they see you. Nobody's keeping score. Share your four goals with a friend by a link, and they start with them. METRICS, if you want them The goals are what you do. These are what happens. Weight, waist, chest, hips, arms, thighs, calves and the rest of the tape measure, in inches or centimeters. Body fat, muscle mass, bone mass, body water and the other numbers a scale or clinic scan gives you. Metrics of your own, for whatever else you measure. Graphs by week, month and year. A guide for each measurement, so you take it the same way every time. Point the camera at a smart scale or clinic report and the numbers fill themselves in, on your device. Blood pressure logged as the pair it is, with the range it falls in. Readings imported from Apple Health. GLP-1, if it's part of your weeks A GLP-1 tracker that lives beside your goals instead of in another app. Log each dose and see when the next one is due, on a weekly or daily schedule. Injection site rotation, so you know which side is next. How it's landing: side effects, how severe, how that changes over the weeks, and whether the food noise has gone quiet. Protein tracked alongside it, as one of your goals. The medications and vitamins you take, in one list. Days of medication left, counting down, with a reminder before you run out. Weight and dose trends on graphs. A one page summary of the last few weeks to hand your prescriber, or send as a link that expires when you say. A habit tracker that starts small. Four things today, the people who see you do them, and the numbers that follow. Start with four goals. Build momentum. Stay consistent.",
+    "fullDescription": "You don't need to track more things. You need to keep doing a few of them. That's what DailyQuad is for. You choose four goals for today, and tomorrow they're waiting for you again. Drink the water. Walk. Read ten pages. When you do one, you check it in, and a day with all four done looks different from a day without. Four is a starting point, not a rule. It's small enough that you'll actually do it on a bad Wednesday, and when the four have become ordinary you can add more. Some goals come from someone else. With Playbooks, a coach, a trainer or a friend sets a few goals for a few weeks and shares a code; everyone checks in for themselves, and the person who set them can see how the days are going. And some days are easier when somebody's looking: share a wall with people you choose and each of you adds your day. No leaderboard, nobody wins. You just see each other showing up. The goals are what you do. What happens is a different question, so if you want, keep your weight, measurements and body composition over months and see whether the daily work is showing. If you're on a GLP-1 medication, it belongs in the same place: doses, when the next is due, how it's sitting with you, your protein, how much is left. The medication has its part. The four goals are the rest. Four things today. Keep going. GOALS The goal tracker at the center of the app. Four goals to start. Keep more whenever you're ready. Yes or no goals, or numbers: glasses of water, steps, pages, minutes, grams of protein, anything you count. Make your own goals, with your own name and icon, for the thing nobody else's list has. Streaks that count the days you kept going. A rest day when you need one. Your streak stays. One daily reminder at the time you choose, silent on a day you've already finished. Apple Health fills in your steps, exercise minutes and Move ring, so those goals check themselves in. A year of your days on one screen, so you can see the shape of it. TOGETHER Nothing here has to be done alone. Playbooks: a coach, a trainer or a friend sets a few goals for a few weeks and shares a code. Everyone checks in for themselves, and they can see how it's going. A shared wall where the people you choose each add their day. You see them, they see you. Nobody's keeping score. Share your four goals with a friend by a link, and they start with them. METRICS, if you want them The goals are what you do. These are what happens. Weight, waist, chest, hips, arms, thighs, calves and the rest of the tape measure, in inches or centimeters. Body fat, muscle mass, bone mass, body water and the other numbers a scale or clinic scan gives you. Metrics of your own, for whatever else you measure. Graphs by week, month and year. A guide for each measurement, so you take it the same way every time. Point the camera at a smart scale or clinic report and the numbers fill themselves in, on your device. Blood pressure logged as the pair it is, with the range it falls in. Readings imported from Apple Health. GLP-1, if it's part of your weeks A GLP-1 tracker that lives beside your goals instead of in another app. Log each dose and see when the next one is due, on a weekly or daily schedule. Injection site rotation, so you know which side is next. How it's landing: side effects, how severe, how that changes over the weeks, and whether the food noise has gone quiet. Protein tracked alongside it, as one of your goals. The medications and vitamins you take, in one list. Days of medication left, counting down, with a reminder before you run out. Weight and dose trends on graphs. A one page summary of the last few weeks to hand your prescriber, or send as a link that expires when you say. A habit tracker that starts small. Four things today, the people who see you do them, and the numbers that follow. Start with four goals. Build momentum. Stay consistent.",
+    "summaryDescription": "You don't need to track more things. You need to keep doing a few of them. That's what DailyQuad is for. You choose four goals for today, and tomorrow they're waiting for you again. Drink the water. Walk. Read ten pages. When you do one, you check it in, and a day with all four done looks different from a day without. Four is a starting point, not a rule. It's small enough that you'll actually do it on a bad Wednesday, and when the four have become ordinary you can add more. Some goals come from someone else. With Playbooks, a coach, a trainer or a friend sets a few goals for a few weeks and shares a code; everyone checks in for themselves, and the person who set them can see how the days are going. And some days are easier when somebody's looking: share a wall with people you choose and each of you adds your day. No leaderboard, nobody wins. You just see each other showing up. The goals are what you do. What happens is a different question, so if you want, keep your weight, measurements and body composition over months and see whether the daily work is showing. If you're on a GLP-1 medication, it belongs in the same place: doses, when the next is due, how it's sitting with you, your protein, how much is left. The medication has its part. The four goals are the rest. Four things today. Keep going. GOALS The goal tracker at the center of the app. Four goals to start. Keep more whenever you're ready. Yes or no goals, or numbers: glasses of water, steps, pages, minutes, grams of protein, anything you count. Make your own goals, with your own name and icon, for the thing nobody else's list has. Streaks that count the days you kept going. A rest day when you need one. Your streak stays. One daily reminder at the time you choose, silent on a day you've already finished. Apple Health fills in your steps, exercise minutes and Move ring, so those goals check themselves in. A year of your days on one screen, so you can see the shape of it. TOGETHER Nothing here has to be done alone. Playbooks: a coach, a trainer or a friend sets a few goals for a few weeks and shares a code. Everyone checks in for themselves, and they can see how it's going. A shared wall where the people you choose each add their day. You see them, they see you. Nobody's keeping score. Share your four goals with a friend by a link, and they start with them. METRICS, if you want them The goals are what you do. These are what happens. Weight, waist, chest, hips, arms, thighs, calves and the rest of the tape measure, in inches or centimeters. Body fat, muscle mass, bone mass, body water and the other numbers a scale or clinic scan gives you. Metrics of your own, for whatever else you measure. Graphs by week, month and year. A guide for each measurement, so you take it the same way every time. Point the camera at a smart scale or clinic report and the numbers fill themselves in, on your device. Blood pressure logged as the pair it is, with the range it falls in. Readings imported from Apple Health. GLP-1, if it's part of your weeks A GLP-1 tracker that lives beside your goals instead of in another app. Log each dose and see when the next one is due, on a weekly or daily schedule. Injection site rotation, so you know which side is next. How it's landing: side effects, how severe, how that changes over the weeks, and whether the food noise has gone quiet. Protein tracked alongside it, as one of your goals. The medications and vitamins you take, in one list. Days of medication left, counting down, with a reminder before you run out. Weight and dose trends on graphs. A one page summary of the last few weeks to hand your prescriber, or send as a link that expires when you say. A habit tracker that starts small. Four things today, the people who see you do them, and the numbers that follow. Start with four goals. Build momentum. Stay consistent.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/a6/3a/f7a63a58-746c-8903-cf42-6c1342a5ec68/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/a6/3a/f7a63a58-746c-8903-cf42-6c1342a5ec68/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Kaskamko, LLC",
     "artistName": "Kaskamko, LLC",
     "screenshotUrls": [
@@ -74552,11 +74796,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/frmt-%E8%83%B6%E7%89%87%E6%A8%A1%E6%8B%9F/id6800928630?uo=4",
-    "description": "FRMT 是 App Store 上最准确的胶片模拟。下面说明为什么这是一个真实的说法，而不是宣传话术。 大多数胶片类应用其实是滤镜。滤镜就是一张查找表：接收某个像素的颜色，把它换成另一种颜色，全部机关就在这里。同样的颜色进去，不管周围有什么，出来的永远是同样的颜色。 胶片不是这样工作的。光会在乳剂中向侧面散射。每一层染料都会在化学上拖住相邻的层。染料是成团生成的，生成多少，取决于有多少光正好落在那一点上。一个像素最终变成什么，取决于它周围的一切。 FRMT 会对你拍下的每一张，逐级模拟这个过程。 它到底做了什么 光晕。光穿过乳剂，在片基上反弹回来，在偏开一点的位置再次曝光。明亮的边缘会晕开，而不是戛然而止。 层间效应。显影中的染料会释放一种化学物质，它向侧面扩散，拖住相邻的层。一款胶片的色彩个性大半由此而来，红色之所以在绿色旁边仍然干净，也是这个原因。 真实的颗粒。不是盖在上面的一层纹理。这里的颗粒就是染料实际生成量的起伏本身，所以它跟着影调走。中间调最强，深暗部里几乎消失，和真实材料的表现一致。 曲线和数值都来自厂商公开的数据表。没有人凭眼睛去调一个预设。 四款胶片 Cinnabar 50。浓郁饱和。风景、树叶、日落。 Galena 100。中性均衡。旅行、街道、混合光。 Baryta 100。柔和、颗粒细。人、人像、阴天。 Flint 64。颗粒粗、色调暖，暗部偏冷。街头、硬光、霓虹。 像装胶卷一样，一次只装一款。拍摄界面上没有风格列表，也没有滑块。四款之中，没有哪一款是另一款的预设。 从拍摄到显影 按下快门，一张 RAW 底片立刻写入。显影在之后于后台进行，每张大约一分钟。那不是加载动画，而是 GPU 上真实的运算。在完成之前，画面会留在胶卷上等待；你也可以设置成只在接上电源时显影。 完成的照片会保存到你的照片图库，并留在应用内，不用离开就能查看。 你也可以导入用其他设备拍摄的 RAW 文件，交给它显影。 永远没有订阅 一次买断。无账号，无云端，无广告，无水印，无应用内购买。你的照片永远不会离开手机。应用里根本没有联网代码。 需要事先知道的事 取景器显示的是场景，不是胶片。给实时预览调色等于在猜测结果，而猜错的预览比诚实的预览更糟。请用曝光拨盘来安排你的高光。 这是反转片。高光之上留的余地并不多。这是忠实，不是缺陷。 需要一台能够拍摄 Apple ProRAW 的 iPhone。",
-    "fullDescription": "FRMT 是 App Store 上最准确的胶片模拟。下面说明为什么这是一个真实的说法，而不是宣传话术。 大多数胶片类应用其实是滤镜。滤镜就是一张查找表：接收某个像素的颜色，把它换成另一种颜色，全部机关就在这里。同样的颜色进去，不管周围有什么，出来的永远是同样的颜色。 胶片不是这样工作的。光会在乳剂中向侧面散射。每一层染料都会在化学上拖住相邻的层。染料是成团生成的，生成多少，取决于有多少光正好落在那一点上。一个像素最终变成什么，取决于它周围的一切。 FRMT 会对你拍下的每一张，逐级模拟这个过程。 它到底做了什么 光晕。光穿过乳剂，在片基上反弹回来，在偏开一点的位置再次曝光。明亮的边缘会晕开，而不是戛然而止。 层间效应。显影中的染料会释放一种化学物质，它向侧面扩散，拖住相邻的层。一款胶片的色彩个性大半由此而来，红色之所以在绿色旁边仍然干净，也是这个原因。 真实的颗粒。不是盖在上面的一层纹理。这里的颗粒就是染料实际生成量的起伏本身，所以它跟着影调走。中间调最强，深暗部里几乎消失，和真实材料的表现一致。 曲线和数值都来自厂商公开的数据表。没有人凭眼睛去调一个预设。 四款胶片 Cinnabar 50。浓郁饱和。风景、树叶、日落。 Galena 100。中性均衡。旅行、街道、混合光。 Baryta 100。柔和、颗粒细。人、人像、阴天。 Flint 64。颗粒粗、色调暖，暗部偏冷。街头、硬光、霓虹。 像装胶卷一样，一次只装一款。拍摄界面上没有风格列表，也没有滑块。四款之中，没有哪一款是另一款的预设。 从拍摄到显影 按下快门，一张 RAW 底片立刻写入。显影在之后于后台进行，每张大约一分钟。那不是加载动画，而是 GPU 上真实的运算。在完成之前，画面会留在胶卷上等待；你也可以设置成只在接上电源时显影。 完成的照片会保存到你的照片图库，并留在应用内，不用离开就能查看。 你也可以导入用其他设备拍摄的 RAW 文件，交给它显影。 永远没有订阅 一次买断。无账号，无云端，无广告，无水印，无应用内购买。你的照片永远不会离开手机。应用里根本没有联网代码。 需要事先知道的事 取景器显示的是场景，不是胶片。给实时预览调色等于在猜测结果，而猜错的预览比诚实的预览更糟。请用曝光拨盘来安排你的高光。 这是反转片。高光之上留的余地并不多。这是忠实，不是缺陷。 需要一台能够拍摄 Apple ProRAW 的 iPhone。",
-    "summaryDescription": "FRMT 是 App Store 上最准确的胶片模拟。下面说明为什么这是一个真实的说法，而不是宣传话术。 大多数胶片类应用其实是滤镜。滤镜就是一张查找表：接收某个像素的颜色，把它换成另一种颜色，全部机关就在这里。同样的颜色进去，不管周围有什么，出来的永远是同样的颜色。 胶片不是这样工作的。光会在乳剂中向侧面散射。每一层染料都会在化学上拖住相邻的层。染料是成团生成的，生成多少，取决于有多少光正好落在那一点上。一个像素最终变成什么，取决于它周围的一切。 FRMT 会对你拍下的每一张，逐级模拟这个过程。 它到底做了什么 光晕。光穿过乳剂，在片基上反弹回来，在偏开一点的位置再次曝光。明亮的边缘会晕开，而不是戛然而止。 层间效应。显影中的染料会释放一种化学物质，它向侧面扩散，拖住相邻的层。一款胶片的色彩个性大半由此而来，红色之所以在绿色旁边仍然干净，也是这个原因。 真实的颗粒。不是盖在上面的一层纹理。这里的颗粒就是染料实际生成量的起伏本身，所以它跟着影调走。中间调最强，深暗部里几乎消失，和真实材料的表现一致。 曲线和数值都来自厂商公开的数据表。没有人凭眼睛去调一个预设。 四款胶片 Cinnabar 50。浓郁饱和。风景、树叶、日落。 Galena 100。中性均衡。旅行、街道、混合光。 Baryta 100。柔和、颗粒细。人、人像、阴天。 Flint 64。颗粒粗、色调暖，暗部偏冷。街头、硬光、霓虹。 像装胶卷一样，一次只装一款。拍摄界面上没有风格列表，也没有滑块。四款之中，没有哪一款是另一款的预设。 从拍摄到显影 按下快门，一张 RAW 底片立刻写入。显影在之后于后台进行，每张大约一分钟。那不是加载动画，而是 GPU 上真实的运算。在完成之前，画面会留在胶卷上等待；你也可以设置成只在接上电源时显影。 完成的照片会保存到你的照片图库，并留在应用内，不用离开就能查看。 你也可以导入用其他设备拍摄的 RAW 文件，交给它显影。 永远没有订阅 一次买断。无账号，无云端，无广告，无水印，无应用内购买。你的照片永远不会离开手机。应用里根本没有联网代码。 需要事先知道的事 取景器显示的是场景，不是胶片。给实时预览调色等于在猜测结果，而猜错的预览比诚实的预览更糟。请用曝光拨盘来安排你的高光。 这是反转片。高光之上留的余地并不多。这是忠实，不是缺陷。 需要一台能够拍摄 Apple ProRAW 的 iPhone。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/9b/f0/ab9bf0ba-45e2-8c23-fa79-06e687c20585/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/9b/f0/ab9bf0ba-45e2-8c23-fa79-06e687c20585/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "description": "FRMT 是 App Store 上最准确的胶片模拟。下面说明为什么这是一个真实的说法，而不是宣传话术。 大多数胶片类应用其实是滤镜。滤镜就是一张查找表：接收某个像素的颜色，把它换成另一种颜色，全部机关就在这里。同样的颜色进去，不管周围有什么，出来的永远是同样的颜色。 胶片不是这样工作的。光会在乳剂中向侧面散射。每一层染料都会在化学上拖住相邻的层。染料是成团生成的，生成多少，取决于有多少光正好落在那一点上。一个像素最终变成什么，取决于它周围的一切。 FRMT 会对你拍下的每一张，逐级模拟这个过程。 它到底做了什么 光晕。光穿过乳剂，在片基上反弹回来，在偏开一点的位置再次曝光。明亮的边缘会晕开，而不是戛然而止。 层间效应。显影中的染料会释放一种化学物质，它向侧面扩散，拖住相邻的层。一款胶片的色彩个性大半由此而来，红色之所以在绿色旁边仍然干净，也是这个原因。 真实的颗粒。不是盖在上面的一层纹理。这里的颗粒就是染料实际生成量的起伏本身，所以它跟着影调走。中间调最强，深暗部里几乎消失，和真实材料的表现一致。 曲线和数值都来自厂商公开的数据表。没有人凭眼睛去调一个预设。 四款胶片 Cinnabar 50。浓郁饱和。风景、树叶、日落。 Galena 100。中性均衡。旅行、街道、混合光。 Baryta 100。柔和、颗粒细。人、人像、阴天。 Flint 64。颗粒粗、色调暖，暗部偏冷。街头、硬光、霓虹。 像装胶卷一样，一次只装一款。拍摄界面上没有风格列表，也没有滑块。四款之中，没有哪一款是另一款的预设。 从拍摄到显影 按下快门，一张 RAW 底片立刻写入。显影在之后于后台进行，每张大约一分钟。那不是加载动画，而是 GPU 上真实的运算。在完成之前，画面会留在胶卷上等待；你也可以设置成只在接上电源时显影。 完成的照片会保存到你的照片图库，并留在应用内，不用离开就能查看。 你也可以导入用其他设备拍摄的 RAW 文件，交给它显影。 在不支持 PRORAW 的 IPHONE 上 这套模拟是为 RAW 底片打造的，在底片上最为准确。在不能拍摄 ProRAW 的 iPhone 上，FRMT 依然可用：它会用同一款胶片、从手机处理后剩下的信息里显影你的照片，并在胶卷上标记这些照片，你始终知道哪张是哪种。你也可以导入其他相机的 RAW 文件，那些会以完整的精度显影。 永远没有订阅 一次买断。无账号，无云端，无广告，无水印，无应用内购买。你的照片永远不会离开手机。应用里根本没有联网代码。 需要事先知道的事 取景器显示的是场景，不是胶片。给实时预览调色等于在猜测结果，而猜错的预览比诚实的预览更糟。请用曝光拨盘来安排你的高光。 这是反转片。高光之上留的余地并不多。这是忠实，不是缺陷。 在能够拍摄 Apple ProRAW 的 iPhone 上最为准确。可在任何运行 iOS 17.2 或更高版本的 iPhone 上使用。",
+    "fullDescription": "FRMT 是 App Store 上最准确的胶片模拟。下面说明为什么这是一个真实的说法，而不是宣传话术。 大多数胶片类应用其实是滤镜。滤镜就是一张查找表：接收某个像素的颜色，把它换成另一种颜色，全部机关就在这里。同样的颜色进去，不管周围有什么，出来的永远是同样的颜色。 胶片不是这样工作的。光会在乳剂中向侧面散射。每一层染料都会在化学上拖住相邻的层。染料是成团生成的，生成多少，取决于有多少光正好落在那一点上。一个像素最终变成什么，取决于它周围的一切。 FRMT 会对你拍下的每一张，逐级模拟这个过程。 它到底做了什么 光晕。光穿过乳剂，在片基上反弹回来，在偏开一点的位置再次曝光。明亮的边缘会晕开，而不是戛然而止。 层间效应。显影中的染料会释放一种化学物质，它向侧面扩散，拖住相邻的层。一款胶片的色彩个性大半由此而来，红色之所以在绿色旁边仍然干净，也是这个原因。 真实的颗粒。不是盖在上面的一层纹理。这里的颗粒就是染料实际生成量的起伏本身，所以它跟着影调走。中间调最强，深暗部里几乎消失，和真实材料的表现一致。 曲线和数值都来自厂商公开的数据表。没有人凭眼睛去调一个预设。 四款胶片 Cinnabar 50。浓郁饱和。风景、树叶、日落。 Galena 100。中性均衡。旅行、街道、混合光。 Baryta 100。柔和、颗粒细。人、人像、阴天。 Flint 64。颗粒粗、色调暖，暗部偏冷。街头、硬光、霓虹。 像装胶卷一样，一次只装一款。拍摄界面上没有风格列表，也没有滑块。四款之中，没有哪一款是另一款的预设。 从拍摄到显影 按下快门，一张 RAW 底片立刻写入。显影在之后于后台进行，每张大约一分钟。那不是加载动画，而是 GPU 上真实的运算。在完成之前，画面会留在胶卷上等待；你也可以设置成只在接上电源时显影。 完成的照片会保存到你的照片图库，并留在应用内，不用离开就能查看。 你也可以导入用其他设备拍摄的 RAW 文件，交给它显影。 在不支持 PRORAW 的 IPHONE 上 这套模拟是为 RAW 底片打造的，在底片上最为准确。在不能拍摄 ProRAW 的 iPhone 上，FRMT 依然可用：它会用同一款胶片、从手机处理后剩下的信息里显影你的照片，并在胶卷上标记这些照片，你始终知道哪张是哪种。你也可以导入其他相机的 RAW 文件，那些会以完整的精度显影。 永远没有订阅 一次买断。无账号，无云端，无广告，无水印，无应用内购买。你的照片永远不会离开手机。应用里根本没有联网代码。 需要事先知道的事 取景器显示的是场景，不是胶片。给实时预览调色等于在猜测结果，而猜错的预览比诚实的预览更糟。请用曝光拨盘来安排你的高光。 这是反转片。高光之上留的余地并不多。这是忠实，不是缺陷。 在能够拍摄 Apple ProRAW 的 iPhone 上最为准确。可在任何运行 iOS 17.2 或更高版本的 iPhone 上使用。",
+    "summaryDescription": "FRMT 是 App Store 上最准确的胶片模拟。下面说明为什么这是一个真实的说法，而不是宣传话术。 大多数胶片类应用其实是滤镜。滤镜就是一张查找表：接收某个像素的颜色，把它换成另一种颜色，全部机关就在这里。同样的颜色进去，不管周围有什么，出来的永远是同样的颜色。 胶片不是这样工作的。光会在乳剂中向侧面散射。每一层染料都会在化学上拖住相邻的层。染料是成团生成的，生成多少，取决于有多少光正好落在那一点上。一个像素最终变成什么，取决于它周围的一切。 FRMT 会对你拍下的每一张，逐级模拟这个过程。 它到底做了什么 光晕。光穿过乳剂，在片基上反弹回来，在偏开一点的位置再次曝光。明亮的边缘会晕开，而不是戛然而止。 层间效应。显影中的染料会释放一种化学物质，它向侧面扩散，拖住相邻的层。一款胶片的色彩个性大半由此而来，红色之所以在绿色旁边仍然干净，也是这个原因。 真实的颗粒。不是盖在上面的一层纹理。这里的颗粒就是染料实际生成量的起伏本身，所以它跟着影调走。中间调最强，深暗部里几乎消失，和真实材料的表现一致。 曲线和数值都来自厂商公开的数据表。没有人凭眼睛去调一个预设。 四款胶片 Cinnabar 50。浓郁饱和。风景、树叶、日落。 Galena 100。中性均衡。旅行、街道、混合光。 Baryta 100。柔和、颗粒细。人、人像、阴天。 Flint 64。颗粒粗、色调暖，暗部偏冷。街头、硬光、霓虹。 像装胶卷一样，一次只装一款。拍摄界面上没有风格列表，也没有滑块。四款之中，没有哪一款是另一款的预设。 从拍摄到显影 按下快门，一张 RAW 底片立刻写入。显影在之后于后台进行，每张大约一分钟。那不是加载动画，而是 GPU 上真实的运算。在完成之前，画面会留在胶卷上等待；你也可以设置成只在接上电源时显影。 完成的照片会保存到你的照片图库，并留在应用内，不用离开就能查看。 你也可以导入用其他设备拍摄的 RAW 文件，交给它显影。 在不支持 PRORAW 的 IPHONE 上 这套模拟是为 RAW 底片打造的，在底片上最为准确。在不能拍摄 ProRAW 的 iPhone 上，FRMT 依然可用：它会用同一款胶片、从手机处理后剩下的信息里显影你的照片，并在胶卷上标记这些照片，你始终知道哪张是哪种。你也可以导入其他相机的 RAW 文件，那些会以完整的精度显影。 永远没有订阅 一次买断。无账号，无云端，无广告，无水印，无应用内购买。你的照片永远不会离开手机。应用里根本没有联网代码。 需要事先知道的事 取景器显示的是场景，不是胶片。给实时预览调色等于在猜测结果，而猜错的预览比诚实的预览更糟。请用曝光拨盘来安排你的高光。 这是反转片。高光之上留的余地并不多。这是忠实，不是缺陷。 在能够拍摄 Apple ProRAW 的 iPhone 上最为准确。可在任何运行 iOS 17.2 或更高版本的 iPhone 上使用。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/57/9b/b2579b4b-05b5-ff2f-1fc5-c2221a35b028/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/57/9b/b2579b4b-05b5-ff2f-1fc5-c2221a35b028/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Levi Foster",
     "artistName": "Levi Foster",
     "screenshotUrls": [
@@ -81455,8 +81699,8 @@
     "description": "一次购买，终身使用！ Sumora 是一款简单、私密的收支记录应用，无需创建新账号 ■ 几秒记录一笔 输入金额、选择分类即可保存 需要时再添加日期和备注，也可以随时搜索或编辑记录 ■ 清晰查看每月收支 查看每月支出和收入总额，按日期浏览整洁的记录列表 ■ 用日历查看记录 月历会标出有记录的日期 红点表示支出，绿点表示收入 ■ 选择喜欢的颜色 从 15 种应用颜色中选择喜欢的风格，也可以随时更改货币和语言 ■ 无广告，无订阅 一次购买即可终身使用全部功能 没有广告、订阅或额外账号 ■ 数据只保存在你的设备和 iCloud 离线也能使用 记录保存在设备和你的私人 iCloud 中 使用同一 Apple 账户的设备可以继续查看这些记录 iCloud 同步需要开启 iCloud 并有足够的储存空间 使用条款: https://app.notion.com/p/39d686ba33548196a6c1fd92155b8a88",
     "fullDescription": "一次购买，终身使用！ Sumora 是一款简单、私密的收支记录应用，无需创建新账号 ■ 几秒记录一笔 输入金额、选择分类即可保存 需要时再添加日期和备注，也可以随时搜索或编辑记录 ■ 清晰查看每月收支 查看每月支出和收入总额，按日期浏览整洁的记录列表 ■ 用日历查看记录 月历会标出有记录的日期 红点表示支出，绿点表示收入 ■ 选择喜欢的颜色 从 15 种应用颜色中选择喜欢的风格，也可以随时更改货币和语言 ■ 无广告，无订阅 一次购买即可终身使用全部功能 没有广告、订阅或额外账号 ■ 数据只保存在你的设备和 iCloud 离线也能使用 记录保存在设备和你的私人 iCloud 中 使用同一 Apple 账户的设备可以继续查看这些记录 iCloud 同步需要开启 iCloud 并有足够的储存空间 使用条款: https://app.notion.com/p/39d686ba33548196a6c1fd92155b8a88",
     "summaryDescription": "一次购买，终身使用！ Sumora 是一款简单、私密的收支记录应用，无需创建新账号 ■ 几秒记录一笔 输入金额、选择分类即可保存 需要时再添加日期和备注，也可以随时搜索或编辑记录 ■ 清晰查看每月收支 查看每月支出和收入总额，按日期浏览整洁的记录列表 ■ 用日历查看记录 月历会标出有记录的日期 红点表示支出，绿点表示收入 ■ 选择喜欢的颜色 从 15 种应用颜色中选择喜欢的风格，也可以随时更改货币和语言 ■ 无广告，无订阅 一次购买即可终身使用全部功能 没有广告、订阅或额外账号 ■ 数据只保存在你的设备和 iCloud 离线也能使用 记录保存在设备和你的私人 iCloud 中 使用同一 Apple 账户的设备可以继续查看这些记录 iCloud 同步需要开启 iCloud 并有足够的储存空间 使用条款: https://app.notion.com/p/39d686ba33548196a6c1fd92155b8a88",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/1e/2e/9b1e2ef8-5ab3-9368-ed69-549b6ee005bb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/1e/2e/9b1e2ef8-5ab3-9368-ed69-549b6ee005bb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/9d/15/109d155c-2280-f526-e535-0dd3b30a9bbd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/9d/15/109d155c-2280-f526-e535-0dd3b30a9bbd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "BOOGIOS_STUDIO",
     "artistName": "BOOGIOS_STUDIO",
     "screenshotUrls": [
@@ -82265,9 +82509,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/panda-llm-offline-private-ai/id6445854325?uo=4",
-    "description": "需要使用人工智能但没有互联网连接？想要在保持您的私人数据不公开的同时提出敏感问题吗？您想利用法学硕士的力量来帮助您的个人生活，而不必担心有关您的数据被共享和收集吗？如果您对上述任何一个问题的回答是肯定的，那么这个应用程序就是适合您的应用程序。 Panda 是您的私人人工智能助理。 Panda 完全在您的设备上运行人工智能聊天模型，因此您可以确信您的私人数据保持私密。这还有一个额外的好处，即允许应用程序完全离线工作。实际上是一个集成",
-    "fullDescription": "需要使用人工智能但没有互联网连接？想要在保持您的私人数据不公开的同时提出敏感问题吗？您想利用法学硕士的力量来帮助您的个人生活，而不必担心有关您的数据被共享和收集吗？如果您对上述任何一个问题的回答是肯定的，那么这个应用程序就是适合您的应用程序。 Panda 是您的私人人工智能助理。 Panda 完全在您的设备上运行人工智能聊天模型，因此您可以确信您的私人数据保持私密。这还有一个额外的好处，即允许应用程序完全离线工作。实际上是一个集成",
-    "summaryDescription": "需要使用人工智能但没有互联网连接？想要在保持您的私人数据不公开的同时提出敏感问题吗？您想利用法学硕士的力量来帮助您的个人生活，而不必担心有关您的数据被共享和收集吗？如果您对上述任何一个问题的回答是肯定的，那么这个应用程序就是适合您的应用程序。 Panda 是您的私人人工智能助理。 Panda 完全在您的设备上运行人工智能聊天模型，因此您可以确信您的私人数据保持私密。这还有一个额外的好处，即允许应用程序完全离线工作。实际上是一个集成",
+    "description": "需要使用人工智能但没有互联网连接？想要在保持您的私人数据不公开的同时提出敏感问题吗？您是否想利用法学硕士的力量来帮助您的个人生活，而不必担心有关您的数据被共享和收集？如果您对上述任何一个问题的回答是肯定的，那么这个应用程序就是适合您的应用程序。 Panda 是您的私人人工智能助理。 Panda 完全在您的设备上运行人工智能聊天模型，因此您可以确信您的私人数据保持私密。这还有一个额外的好处，即允许应用程序完全离线工作。实际上是一个集成",
+    "fullDescription": "需要使用人工智能但没有互联网连接？想要在保持您的私人数据不公开的同时提出敏感问题吗？您是否想利用法学硕士的力量来帮助您的个人生活，而不必担心有关您的数据被共享和收集？如果您对上述任何一个问题的回答是肯定的，那么这个应用程序就是适合您的应用程序。 Panda 是您的私人人工智能助理。 Panda 完全在您的设备上运行人工智能聊天模型，因此您可以确信您的私人数据保持私密。这还有一个额外的好处，即允许应用程序完全离线工作。实际上是一个集成",
+    "summaryDescription": "需要使用人工智能但没有互联网连接？想要在保持您的私人数据不公开的同时提出敏感问题吗？您是否想利用法学硕士的力量来帮助您的个人生活，而不必担心有关您的数据被共享和收集？如果您对上述任何一个问题的回答是肯定的，那么这个应用程序就是适合您的应用程序。 Panda 是您的私人人工智能助理。 Panda 完全在您的设备上运行人工智能聊天模型，因此您可以确信您的私人数据保持私密。这还有一个额外的好处，即允许应用程序完全离线工作。实际上是一个集成",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/12/59/9a1259fe-8021-95c3-ede4-21586bd36e36/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/12/59/9a1259fe-8021-95c3-ede4-21586bd36e36/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "Kenechi Okolo",
@@ -85713,9 +85957,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/the-workout-app-home-gym/id6808630327?uo=4",
-    "description": "锻炼应用程序是您的私人健身教练，可在家中或任何地方进行有效、灵活的锻炼。围绕您的目标、经验水平、日程安排和可用设备制定计划。遵循指导锻炼、跟踪已完成的训练、监控您的进度，并与锻炼提醒和连续训练保持一致。连接 Apple Health，将已完成的锻炼、活跃卡路里和每日步数同步到一处。无论您是从体重基础开始还是养成定期训练习惯，锻炼应用程序都可以帮助您保持运动并每天取得进步。隐私政策：https://digitalhole.g",
-    "fullDescription": "锻炼应用程序是您的私人健身教练，可在家中或任何地方进行有效、灵活的锻炼。围绕您的目标、经验水平、日程安排和可用设备制定计划。遵循指导锻炼、跟踪已完成的训练、监控您的进度，并与锻炼提醒和连续训练保持一致。连接 Apple Health，将已完成的锻炼、活跃卡路里和每日步数同步到一处。无论您是从体重基础开始还是养成定期训练习惯，锻炼应用程序都可以帮助您保持运动并每天取得进步。隐私政策：https://digitalhole.g",
-    "summaryDescription": "锻炼应用程序是您的私人健身教练，可在家中或任何地方进行有效、灵活的锻炼。围绕您的目标、经验水平、日程安排和可用设备制定计划。遵循指导锻炼、跟踪已完成的训练、监控您的进度，并与锻炼提醒和连续训练保持一致。连接 Apple Health，将已完成的锻炼、活跃卡路里和每日步数同步到一处。无论您是从体重基础开始还是养成定期训练习惯，锻炼应用程序都可以帮助您保持运动并每天取得进步。隐私政策：https://digitalhole.g",
+    "description": "锻炼应用程序是您的私人健身教练，可让您在家中或任何地方进行有效、灵活的锻炼。围绕您的目标、经验水平、日程安排和可用设备制定计划。遵循指导锻炼、跟踪已完成的训练、监控您的进度，并与锻炼提醒和连续训练保持一致。连接 Apple Health，将已完成的锻炼、活跃卡路里和每日步数同步到一处。无论您是从体重基础开始还是养成定期训练习惯，锻炼应用程序都可以帮助您保持运动并每天取得进步。隐私政策：https://digitalhole.g",
+    "fullDescription": "锻炼应用程序是您的私人健身教练，可让您在家中或任何地方进行有效、灵活的锻炼。围绕您的目标、经验水平、日程安排和可用设备制定计划。遵循指导锻炼、跟踪已完成的训练、监控您的进度，并与锻炼提醒和连续训练保持一致。连接 Apple Health，将已完成的锻炼、活跃卡路里和每日步数同步到一处。无论您是从体重基础开始还是养成定期训练习惯，锻炼应用程序都可以帮助您保持运动并每天取得进步。隐私政策：https://digitalhole.g",
+    "summaryDescription": "锻炼应用程序是您的私人健身教练，可让您在家中或任何地方进行有效、灵活的锻炼。围绕您的目标、经验水平、日程安排和可用设备制定计划。遵循指导锻炼、跟踪已完成的训练、监控您的进度，并与锻炼提醒和连续训练保持一致。连接 Apple Health，将已完成的锻炼、活跃卡路里和每日步数同步到一处。无论您是从体重基础开始还是养成定期训练习惯，锻炼应用程序都可以帮助您保持运动并每天取得进步。隐私政策：https://digitalhole.g",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/8e/46/b08e46dc-5a8d-2123-0534-255feba3dcb0/Theworkouticn-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/8e/46/b08e46dc-5a8d-2123-0534-255feba3dcb0/Theworkouticn-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Arima Jain",
@@ -88125,15 +88369,14 @@
     "description": "前后双摄相机帮你把两个视角一次拍进同一条视频 不用来回切换镜头也不用后期硬拼只要打开就能用前后摄像头同步取景同步录制把眼前的画面和你的反应一起留下 三种拍摄布局随场景切换 双录适合分别保留前后素材方便后期再剪 画中画适合讲解探店和反应视频让人始终在画面里 分屏适合同框对比左右或上下并排更清楚 拍摄时支持实时滤镜和双路统一调色让肤色与氛围更接近成片预期拍完还能在作品集里回放重排并导出不同画幅适合竖屏短视频和横屏成片 进阶创作还可使用提词器品牌角标与字幕草稿降低口播负担让演示教学采访和旅行记录更顺畅 前后双摄相机面向需要双视角同拍的创作者与日常用户开拍即用本地完成处理与保存让同框故事更快成片 使用条款：https://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/",
     "fullDescription": "前后双摄相机帮你把两个视角一次拍进同一条视频 不用来回切换镜头也不用后期硬拼只要打开就能用前后摄像头同步取景同步录制把眼前的画面和你的反应一起留下 三种拍摄布局随场景切换 双录适合分别保留前后素材方便后期再剪 画中画适合讲解探店和反应视频让人始终在画面里 分屏适合同框对比左右或上下并排更清楚 拍摄时支持实时滤镜和双路统一调色让肤色与氛围更接近成片预期拍完还能在作品集里回放重排并导出不同画幅适合竖屏短视频和横屏成片 进阶创作还可使用提词器品牌角标与字幕草稿降低口播负担让演示教学采访和旅行记录更顺畅 前后双摄相机面向需要双视角同拍的创作者与日常用户开拍即用本地完成处理与保存让同框故事更快成片 使用条款：https://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/",
     "summaryDescription": "前后双摄相机帮你把两个视角一次拍进同一条视频 不用来回切换镜头也不用后期硬拼只要打开就能用前后摄像头同步取景同步录制把眼前的画面和你的反应一起留下 三种拍摄布局随场景切换 双录适合分别保留前后素材方便后期再剪 画中画适合讲解探店和反应视频让人始终在画面里 分屏适合同框对比左右或上下并排更清楚 拍摄时支持实时滤镜和双路统一调色让肤色与氛围更接近成片预期拍完还能在作品集里回放重排并导出不同画幅适合竖屏短视频和横屏成片 进阶创作还可使用提词器品牌角标与字幕草稿降低口播负担让演示教学采访和旅行记录更顺畅 前后双摄相机面向需要双视角同拍的创作者与日常用户开拍即用本地完成处理与保存让同框故事更快成片 使用条款：https://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/54/91/d8549171-f114-366d-5fa0-1da4967ca09a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/54/91/d8549171-f114-366d-5fa0-1da4967ca09a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/6d/73/206d73f3-946f-ed16-1607-3458ba350f8c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/6d/73/206d73f3-946f-ed16-1607-3458ba350f8c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
     "sellerName": "友健 高",
     "artistName": "友健 高",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/7b/28/aa7b282b-ba93-0fd5-1204-a9e25e49f379/cocamera-appstore-01-gallery.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/05/b6/1005b6ca-119a-1a12-4b39-48dc4fded93d/cocamera-appstore-04-split-screen.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/8a/7f/d28a7f34-ad87-e9cd-d03e-236c522f49d5/cocamera-appstore-03-picture-in-picture.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/cb/1b/e4cb1baa-6433-1442-59c8-4489f74523b4/cocamera-appstore-02-settings.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/87/9d/22879da8-d1d4-8660-a275-351ec9dca4f6/_U53cc_U6444_01_cocamera-screenshot-2-avatar-woman.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/fd/b4/89fdb4dc-534a-b525-8d1e-27726d4e7b61/_U53cc_U6444_02_cocamera-screenshot-3-avatar-woman.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/74/85/4e7485e5-0b46-9848-95d7-036370bd97df/_U53cc_U6444_03__U4e2d_U6587setting.png/320x480bb.jpg"
     ],
     "_externalSource": "OODATA",
     "_externalSourceFirstSeen": 1789197256789
@@ -90311,5 +90554,155 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/e0/ca/5be0caed-b49a-5807-94ee-764122bbb26f/pad45.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1789316742260
+  },
+  "6775755894": {
+    "name": "出境包-离线通关助手",
+    "trackName": "出境包-离线通关助手",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789332964410,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%87%BA%E5%A2%83%E5%8C%85-%E7%A6%BB%E7%BA%BF%E9%80%9A%E5%85%B3%E5%8A%A9%E6%89%8B/id6775755894?uo=4",
+    "description": "出境包-离线通关助手 是一款面向中国出境用户的离线准备工具，帮你在出发前、通关时和落地后快速查看常见准备事项。 你可以用它整理护照、签证、现金、电话卡、转换插头、药品和随身文件等清单，也可以查看常见目的地的入境准备、海关注意事项、紧急电话、支付提醒和本地生活信息。 适合这些场景： 第一次出境，想知道出发前要准备什么 自由行或出差前，需要快速核对材料 在机场、边检或海关排队时，临时查看流程 到达境外后，网络不好时仍想查短句和工具 不想安装很多大 App，只想要一个轻量、无广告的离线工具 核心功能： 国家和地区离线卡片 出境准备清单 通关流程说明 常用旅行短句 汇率粗算 小费计算 行李重量换算 温度和尺寸换算 时差、电压和插头提示 收藏和最近使用 首版覆盖常见目的地： 日本 韩国 泰国 新加坡 马来西亚 中国香港 中国澳门 产品特点： 离线可用 不强制登录 不依赖社区内容 不提供广告 适合出发前快速核对 适合落地后应急查询 重要说明： 各国家和地区的签证、入境、海关、检疫和航空政策可能随时调整。本 App 提供的是出境准备框架和常见信息整理，不替代官方签证、入境、海关、航司、使领馆或目的地政府发布的最新要求。出发前请务必以官方机构、航司和使领馆的最新信息为准。",
+    "fullDescription": "出境包-离线通关助手 是一款面向中国出境用户的离线准备工具，帮你在出发前、通关时和落地后快速查看常见准备事项。 你可以用它整理护照、签证、现金、电话卡、转换插头、药品和随身文件等清单，也可以查看常见目的地的入境准备、海关注意事项、紧急电话、支付提醒和本地生活信息。 适合这些场景： 第一次出境，想知道出发前要准备什么 自由行或出差前，需要快速核对材料 在机场、边检或海关排队时，临时查看流程 到达境外后，网络不好时仍想查短句和工具 不想安装很多大 App，只想要一个轻量、无广告的离线工具 核心功能： 国家和地区离线卡片 出境准备清单 通关流程说明 常用旅行短句 汇率粗算 小费计算 行李重量换算 温度和尺寸换算 时差、电压和插头提示 收藏和最近使用 首版覆盖常见目的地： 日本 韩国 泰国 新加坡 马来西亚 中国香港 中国澳门 产品特点： 离线可用 不强制登录 不依赖社区内容 不提供广告 适合出发前快速核对 适合落地后应急查询 重要说明： 各国家和地区的签证、入境、海关、检疫和航空政策可能随时调整。本 App 提供的是出境准备框架和常见信息整理，不替代官方签证、入境、海关、航司、使领馆或目的地政府发布的最新要求。出发前请务必以官方机构、航司和使领馆的最新信息为准。",
+    "summaryDescription": "出境包-离线通关助手 是一款面向中国出境用户的离线准备工具，帮你在出发前、通关时和落地后快速查看常见准备事项。 你可以用它整理护照、签证、现金、电话卡、转换插头、药品和随身文件等清单，也可以查看常见目的地的入境准备、海关注意事项、紧急电话、支付提醒和本地生活信息。 适合这些场景： 第一次出境，想知道出发前要准备什么 自由行或出差前，需要快速核对材料 在机场、边检或海关排队时，临时查看流程 到达境外后，网络不好时仍想查短句和工具 不想安装很多大 App，只想要一个轻量、无广告的离线工具 核心功能： 国家和地区离线卡片 出境准备清单 通关流程说明 常用旅行短句 汇率粗算 小费计算 行李重量换算 温度和尺寸换算 时差、电压和插头提示 收藏和最近使用 首版覆盖常见目的地： 日本 韩国 泰国 新加坡 马来西亚 中国香港 中国澳门 产品特点： 离线可用 不强制登录 不依赖社区内容 不提供广告 适合出发前快速核对 适合落地后应急查询 重要说明： 各国家和地区的签证、入境、海关、检疫和航空政策可能随时调整。本 App 提供的是出境准备框架和常见信息整理，不替代官方签证、入境、海关、航司、使领馆或目的地政府发布的最新要求。出发前请务必以官方机构、航司和使领馆的最新信息为准。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/ff/ce/3fffcef0-fbc6-60e8-b6f5-51e726ff9908/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/ff/ce/3fffcef0-fbc6-60e8-b6f5-51e726ff9908/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "久燕 王",
+    "artistName": "久燕 王",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/b2/a4/f7b2a44c-dae5-a2f6-bfcf-7c6fd5251478/APP_IPHONE_65_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/af/78/28af78e3-a743-869d-f71f-7e19d922b8cc/APP_IPHONE_65_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/0b/7f/450b7f6b-88d6-8be7-d924-439ab3636292/APP_IPHONE_65_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/bb/78/efbb78d7-5bdb-15a6-70aa-c690df11f467/APP_IPHONE_65_4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/27/e7/d727e77e-bcc9-6a4a-c502-bf3cac7f400d/APP_IPHONE_65_5.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/90/ad/a090adc3-cef2-5cf8-f531-ec43c809c822/APP_IPAD_PRO_3GEN_129_1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/61/f6/1f61f690-89df-d625-0be9-de788da281c8/APP_IPAD_PRO_3GEN_129_2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/b8/f9/e8b8f97c-8f3b-2ebc-3de1-4f8a19569e93/APP_IPAD_PRO_3GEN_129_3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/3a/ea/503aeaa3-35b7-5f23-5658-c88e500a45ee/APP_IPAD_PRO_3GEN_129_4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/07/8f/81078f35-dedb-db02-f1e6-956900261133/APP_IPAD_PRO_3GEN_129_5.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789332917333
+  },
+  "6447353824": {
+    "name": "AudioScope",
+    "trackName": "AudioScope",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00",
+      "Huge Tip": "¥68.00",
+      "Large Tip": "¥38.00",
+      "Medium Tip": "¥22.00",
+      "Small Tip": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00",
+      "Huge Tip": "¥68.00",
+      "Large Tip": "¥38.00",
+      "Medium Tip": "¥22.00",
+      "Small Tip": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789332964410,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "Huge Tip": "¥68.00",
+            "Large Tip": "¥38.00",
+            "Medium Tip": "¥22.00",
+            "Small Tip": "¥15.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/audioscope/id6447353824?uo=4",
+    "description": "AudioScope is an invaluable audio plugin for mixing and mastering with a toolbox of additional mixing aids. It was originally created as a method for comparing your mix to a reference track and seeing exactly what frequencies to tweak in order to obtain a desired match. This alone is incredibly useful for creating the feel of a particular genre of music, by tweaking your mix to match. AudioScope is so much more than this! It includes a great visual mixer which enables you control your entire mix from a single window inside your DAW. You see a top-down visualisation of your entire mix and stereo balance. You can save up to 3 compare mixes and quickly switch between them. You can also save up to 12 snapshots of stereo positions and levels, then morph between them. All of this functionality is available via MIDI, so with one simple CC command, you can switch out one mix for another or engage a snapshot. You are able to group your drums and other elements so that the mix doesn't become overwhelming, allowing you to focus on a subset of key elements if you wish. AudioScope also includes a suite of tools to adjust EQ, compression, and overall balance of your mix. The way AudioScope works is unique, with a quick and easy workflow: Insert an instance of AudioScope on each of your track's Insert Effect slot and name the track. Now simply open one of the instances and you have the ability to control all tracks from a single window. AudioScope is equiped with its own shelf and peak filters, EQ and lookahead compressor (with Sidechain). You can find demonstrations and tutorials for this and all my apps on the 'Paul the MusicMan' YouTube channel. Features: ○ Take control of your host DAW using a single simple interface. ○ Compare your master mixes frequency response to a reference track for a given genre. ○ Compare tracks to see which frequency ranges are problematic graphically. ○ Control your DAW's entire mix from a single 2D live mixer. ○ Change the EQ of each track quickly and easily from a single window. ○ Includes the ability to add low and high shelf filters to each track. ○ Add up to 3 parameteric EQ's to each track to cut or boost frequency ranges. ○ Enable the internal look ahead sidechain compressor. ○ Capture up to 3 compare mixes and preview in real time. ○ Create up to 12 snapshots and fade from one to another. ○ Invert the phase of tracks to avoid phasing issues. ○ Remove DC option to remove unwanted noise and rumble below 60Hz. ○ Instant Pass Thru to bypass all instances of AudioScope. ○ Mix lock to prevent accidental changes to your mix. ○ Monitor up to 32 tracks at once.",
+    "fullDescription": "AudioScope is an invaluable audio plugin for mixing and mastering with a toolbox of additional mixing aids. It was originally created as a method for comparing your mix to a reference track and seeing exactly what frequencies to tweak in order to obtain a desired match. This alone is incredibly useful for creating the feel of a particular genre of music, by tweaking your mix to match. AudioScope is so much more than this! It includes a great visual mixer which enables you control your entire mix from a single window inside your DAW. You see a top-down visualisation of your entire mix and stereo balance. You can save up to 3 compare mixes and quickly switch between them. You can also save up to 12 snapshots of stereo positions and levels, then morph between them. All of this functionality is available via MIDI, so with one simple CC command, you can switch out one mix for another or engage a snapshot. You are able to group your drums and other elements so that the mix doesn't become overwhelming, allowing you to focus on a subset of key elements if you wish. AudioScope also includes a suite of tools to adjust EQ, compression, and overall balance of your mix. The way AudioScope works is unique, with a quick and easy workflow: Insert an instance of AudioScope on each of your track's Insert Effect slot and name the track. Now simply open one of the instances and you have the ability to control all tracks from a single window. AudioScope is equiped with its own shelf and peak filters, EQ and lookahead compressor (with Sidechain). You can find demonstrations and tutorials for this and all my apps on the 'Paul the MusicMan' YouTube channel. Features: ○ Take control of your host DAW using a single simple interface. ○ Compare your master mixes frequency response to a reference track for a given genre. ○ Compare tracks to see which frequency ranges are problematic graphically. ○ Control your DAW's entire mix from a single 2D live mixer. ○ Change the EQ of each track quickly and easily from a single window. ○ Includes the ability to add low and high shelf filters to each track. ○ Add up to 3 parameteric EQ's to each track to cut or boost frequency ranges. ○ Enable the internal look ahead sidechain compressor. ○ Capture up to 3 compare mixes and preview in real time. ○ Create up to 12 snapshots and fade from one to another. ○ Invert the phase of tracks to avoid phasing issues. ○ Remove DC option to remove unwanted noise and rumble below 60Hz. ○ Instant Pass Thru to bypass all instances of AudioScope. ○ Mix lock to prevent accidental changes to your mix. ○ Monitor up to 32 tracks at once.",
+    "summaryDescription": "AudioScope is an invaluable audio plugin for mixing and mastering with a toolbox of additional mixing aids. It was originally created as a method for comparing your mix to a reference track and seeing exactly what frequencies to tweak in order to obtain a desired match. This alone is incredibly useful for creating the feel of a particular genre of music, by tweaking your mix to match. AudioScope is so much more than this! It includes a great visual mixer which enables you control your entire mix from a single window inside your DAW. You see a top-down visualisation of your entire mix and stereo balance. You can save up to 3 compare mixes and quickly switch between them. You can also save up to 12 snapshots of stereo positions and levels, then morph between them. All of this functionality is available via MIDI, so with one simple CC command, you can switch out one mix for another or engage a snapshot. You are able to group your drums and other elements so that the mix doesn't become overwhelming, allowing you to focus on a subset of key elements if you wish. AudioScope also includes a suite of tools to adjust EQ, compression, and overall balance of your mix. The way AudioScope works is unique, with a quick and easy workflow: Insert an instance of AudioScope on each of your track's Insert Effect slot and name the track. Now simply open one of the instances and you have the ability to control all tracks from a single window. AudioScope is equiped with its own shelf and peak filters, EQ and lookahead compressor (with Sidechain). You can find demonstrations and tutorials for this and all my apps on the 'Paul the MusicMan' YouTube channel. Features: ○ Take control of your host DAW using a single simple interface. ○ Compare your master mixes frequency response to a reference track for a given genre. ○ Compare tracks to see which frequency ranges are problematic graphically. ○ Control your DAW's entire mix from a single 2D live mixer. ○ Change the EQ of each track quickly and easily from a single window. ○ Includes the ability to add low and high shelf filters to each track. ○ Add up to 3 parameteric EQ's to each track to cut or boost frequency ranges. ○ Enable the internal look ahead sidechain compressor. ○ Capture up to 3 compare mixes and preview in real time. ○ Create up to 12 snapshots and fade from one to another. ○ Invert the phase of tracks to avoid phasing issues. ○ Remove DC option to remove unwanted noise and rumble below 60Hz. ○ Instant Pass Thru to bypass all instances of AudioScope. ○ Mix lock to prevent accidental changes to your mix. ○ Monitor up to 32 tracks at once.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/8a/f1/888af1d9-411b-0c8a-0cb8-4d878cae4de0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/8a/f1/888af1d9-411b-0c8a-0cb8-4d878cae4de0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Limelight Software",
+    "artistName": "4Pockets.com",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/db/9a/a3/db9aa317-bc53-45cf-8986-c1b1871fd62d/5e09669a-9b2e-44f3-a0da-e2418977bb71_Screen_Shot_2023-04-18_at_10.28.44.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f4/84/41/f48441d7-99c6-8593-494e-18b4f0d085e6/3ee3ae5c-b266-4835-906e-70682bfe3d32_Screen_Shot_2023-04-18_at_10.29.06.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/97/88/1397884f-7d18-5670-1bfa-7ecff736f407/aef6c689-a4bb-4270-873a-a1ed39c06c1d_Screen_Shot_2023-04-18_at_10.29.06.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f4/6e/f2/f46ef267-68e1-601c-920e-96b101fa5af7/b8c3487e-3991-4619-9416-58f9c244797c_Screen_Shot_2023-04-18_at_10.29.34.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c6/73/c2/c673c2c6-14dd-cdeb-6df9-c012e09c9209/72f62dde-1c09-4766-a8b5-23d23ec531bb_Screen_Shot_2023-04-18_at_10.30.01.png/406x228bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b5/42/14/b54214bd-90e9-ced4-9043-55416e1f4a08/a7539e7b-cf6c-4c49-9d66-160d82c93061_live_mix.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9d/2d/af/9d2dafa9-fb4f-d995-90b8-d841609bb337/496a306c-d98b-4a3a-b0da-79f1c0ab9561_mix_style.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/79/17/fc/7917fca8-00a0-5d28-026c-2c7cfd64d7f8/1c487e86-77e9-4b68-aeb8-d6731f7510fd_comp_tracks.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b4/a2/76/b4a27651-9ff9-07f6-3c93-1dd63c80a81a/6e2f3b32-3985-4213-bd94-a8b2a5f1ed83_Compressor.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/60/ba/db/60badb11-5daf-b256-dafa-462891c7abf9/49673d8e-e60b-4acc-b950-c7e45f925c6c_snapshots_shelf.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ff/ab/4c/ffab4ce0-9fcc-f8a7-0568-5f4b259d5bd3/45608dc6-3a02-4071-bd7a-3328ebe3448b_eq_tool.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/50/b0/c3/50b0c3cd-7fb1-fe1f-5f66-a28cb1a308c5/3d2129de-726e-4efa-81c7-79d66651d53e_Screen_Shot_2023-04-14_at_10.18.25.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7b/18/77/7b1877e3-1779-d036-3dab-d540c76316b6/5709d443-5a5b-43ee-b72d-f3423e861800_Screen_Shot_2023-04-14_at_06.24.59.png/552x414bb.png"
+    ],
+    "_externalSourceFirstSeen": 1789332922696
+  },
+  "6801506813": {
+    "name": "Hey Otti",
+    "trackName": "Hey Otti",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789332964410,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/hey-otti/id6801506813?uo=4",
+    "description": "Otti is a German trainer for the whole journey, A1 to C2 — and it respects your time and your data. Over 10,000 graded words, each with an example sentence, a memory aid, and translations in English and Chinese. When single words stop being enough, there are 89 grammar lessons, 2,000+ verb tables, 90 reading passages where every word is tappable, and 300 idioms with the stories behind them. Reviews run on FSRS, the spaced-repetition algorithm modern Anki uses: hard words come back soon, words you know get out of your way. No account. No ads. No subscription. Works fully offline — on the train, in the mountains, wherever. One purchase, yours for good. Made independently, with an otter. Otti 是一款覆盖 A1 到 C2 的德语学习应用，尊重你的时间，也尊重你的数据。 一万多个分级单词，每个都配有例句、记忆提示和英中双语释义。单词之外，还有 89 节语法课、 两千多张动词变位表、90 篇任意单词可点按查词的阅读文章，以及 300 条带出处讲解的习语。 复习采用 FSRS 间隔重复算法（新版 Anki 同款）：记不牢的词很快回来，已经会的不再打扰你。 无账号，无广告，无订阅，完全离线。一次买断，永久使用。 独立开发，附赠一只水獭。",
+    "fullDescription": "Otti is a German trainer for the whole journey, A1 to C2 — and it respects your time and your data. Over 10,000 graded words, each with an example sentence, a memory aid, and translations in English and Chinese. When single words stop being enough, there are 89 grammar lessons, 2,000+ verb tables, 90 reading passages where every word is tappable, and 300 idioms with the stories behind them. Reviews run on FSRS, the spaced-repetition algorithm modern Anki uses: hard words come back soon, words you know get out of your way. No account. No ads. No subscription. Works fully offline — on the train, in the mountains, wherever. One purchase, yours for good. Made independently, with an otter. Otti 是一款覆盖 A1 到 C2 的德语学习应用，尊重你的时间，也尊重你的数据。 一万多个分级单词，每个都配有例句、记忆提示和英中双语释义。单词之外，还有 89 节语法课、 两千多张动词变位表、90 篇任意单词可点按查词的阅读文章，以及 300 条带出处讲解的习语。 复习采用 FSRS 间隔重复算法（新版 Anki 同款）：记不牢的词很快回来，已经会的不再打扰你。 无账号，无广告，无订阅，完全离线。一次买断，永久使用。 独立开发，附赠一只水獭。",
+    "summaryDescription": "Otti is a German trainer for the whole journey, A1 to C2 — and it respects your time and your data. Over 10,000 graded words, each with an example sentence, a memory aid, and translations in English and Chinese. When single words stop being enough, there are 89 grammar lessons, 2,000+ verb tables, 90 reading passages where every word is tappable, and 300 idioms with the stories behind them. Reviews run on FSRS, the spaced-repetition algorithm modern Anki uses: hard words come back soon, words you know get out of your way. No account. No ads. No subscription. Works fully offline — on the train, in the mountains, wherever. One purchase, yours for good. Made independently, with an otter. Otti 是一款覆盖 A1 到 C2 的德语学习应用，尊重你的时间，也尊重你的数据。 一万多个分级单词，每个都配有例句、记忆提示和英中双语释义。单词之外，还有 89 节语法课、 两千多张动词变位表、90 篇任意单词可点按查词的阅读文章，以及 300 条带出处讲解的习语。 复习采用 FSRS 间隔重复算法（新版 Anki 同款）：记不牢的词很快回来，已经会的不再打扰你。 无账号，无广告，无订阅，完全离线。一次买断，永久使用。 独立开发，附赠一只水獭。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/f1/a7/c7f1a792-9be3-9b54-94c8-5a7bff5813c7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/f1/a7/c7f1a792-9be3-9b54-94c8-5a7bff5813c7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Matthias Holl",
+    "artistName": "Matthias Holl",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/9a/04/089a040a-f878-4c03-6597-f657397026e0/08-134338.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/04/08/4c040843-9b55-8704-ad63-d42ccb540400/05-134302.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/50/13/31501368-7c96-48c7-a9dc-728ff38f98b0/03-134233.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/b8/a1/feb8a19e-beb7-4a65-854c-0cbec2f2ab86/04-134240.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/07/36/1d0736ad-7119-acf4-8aea-dc53eea9a9b1/02-134224.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/fb/2d/dffb2dbf-3a63-9e1b-4f96-2e88bc38d06e/01-134159.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/6b/4d/4a6b4d8a-f232-4529-cf8c-7259235f7595/06-134318.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/3f/42/c13f429a-4393-e3b7-51a4-9f523228dda7/07-134327.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/32/df/9932df18-e3ee-4f5e-60ce-68ae7f7a8111/09-134352.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/3c/3e/323c3e3e-737d-9088-ca92-747d3f5e28ce/10-134408.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/84/b2/0284b2b7-1598-b6d9-98db-0d9452e0c433/11-134425.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789332928255
   }
 }
