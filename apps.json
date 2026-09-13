@@ -2,6 +2,163 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 921563114,
+      "name": {
+        "cn": "简单五笔"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789275341777,
+      "_discountType": "app"
+    },
+    {
+      "id": 1577779720,
+      "name": {
+        "cn": "Book Library by DACCAA"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789275404100,
+      "_discountType": "app"
+    },
+    {
+      "id": 6745443686,
+      "name": {
+        "cn": "Knitventory"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789275347504,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762013070,
+      "name": {
+        "cn": "PIPCam – see yourself in PiP"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789275347504,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780304134,
+      "name": {
+        "cn": "CTD Live Mobile"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789275347499,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760743309,
+      "name": {
+        "cn": "Decaf: Art Feed"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789275355603,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762471483,
+      "name": {
+        "cn": "轻剪视频播放器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789275404100,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763677140,
+      "name": {
+        "cn": "隐私打码大师-分享前图片打码本地马赛克模糊贴纸相册批量晒图"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789275404100,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6791188810,
+      "name": {
+        "cn": "今日单词-记忆复习阅读训练词汇测试错题巩固每日计划打卡版"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789275404100,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6799394946,
+      "name": {
+        "cn": "小纪念日-恋爱生日倒数"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789275404100,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6768325175,
+      "name": {
+        "cn": "ServeLog: Service Loan Archive"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789275404100,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763539084,
+      "name": {
+        "cn": "Ayla 经期管理·备孕怀孕·排卵预测"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789275404100,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6796591787,
+      "name": {
+        "cn": "NasScale"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789275404100,
+      "_discountType": "app"
+    },
+    {
+      "id": 6504616643,
+      "name": {
+        "cn": "Rotely - Digital Flashcards"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789275404100,
+      "_discountType": "app"
+    },
+    {
       "id": 1550734959,
       "name": {
         "cn": "Coffee Lover - café assistant"

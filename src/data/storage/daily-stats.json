@@ -1,5 +1,99 @@
 [
   {
+    "timestamp": 1789283482544,
+    "cn": {
+      "total": 14,
+      "price": 11,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6759209331,
+          "name": "FeelmCamera - Film Camera",
+          "type": "iap",
+          "detail": "Founder Lifetime Pass: ¥198.00 → ¥0.00"
+        },
+        {
+          "id": 6786129971,
+          "name": "十二誓言",
+          "type": "price",
+          "detail": "¥68.00 → ¥3.00"
+        },
+        {
+          "id": 6760823598,
+          "name": "ShopSuggest",
+          "type": "price",
+          "detail": "¥28.00 → ¥3.00"
+        },
+        {
+          "id": 6796486391,
+          "name": "BreakThree",
+          "type": "price",
+          "detail": "¥38.00 → ¥3.00"
+        },
+        {
+          "id": 6793336267,
+          "name": "Burner Mail: 临时邮箱助手",
+          "type": "iap",
+          "detail": "Lifetime: ¥328.00 → ¥0.00"
+        },
+        {
+          "id": 6757598452,
+          "name": "空气网球-AerTennis",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6778018148,
+          "name": "健康修仙传-随时随地的赛博“修仙”之旅",
+          "type": "iap",
+          "detail": "永久会员: ¥198.00 → ¥0.00"
+        },
+        {
+          "id": 6749310667,
+          "name": "冥想 FM -睡眠和放松电台",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6757626296,
+          "name": "血压记录助手-轻松记录血压血糖",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6744004849,
+          "name": "大师快拍",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1076258090,
+          "name": "视频剪辑合并(专业版)",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6796591787,
+          "name": "NasScale",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6504616643,
+          "name": "Rotely - Digital Flashcards",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 1577779720,
+          "name": "Book Library by DACCAA",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789244675003,
     "cn": {
       "total": 4,
@@ -3217,44 +3311,6 @@
           "name": "Axchange - ADB File Transfer",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788402669368,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6749027480,
-          "name": "Speed Pro Meter",
-          "type": "price",
-          "detail": "¥38.00 → ¥15.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788389646054,
-    "cn": {
-      "total": 2,
-      "price": 1,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6777138096,
-          "name": "ChordMaster: 学习与练习",
-          "type": "iap",
-          "detail": "ChordMaster Pro Yearly: ¥186.00 → ¥148.00"
-        },
-        {
-          "id": 6761775005,
-          "name": "GLPzy：GLP-1记录",
-          "type": "price",
-          "detail": "¥598.00 → 免费"
         }
       ]
     }
