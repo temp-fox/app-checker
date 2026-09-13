@@ -43268,8 +43268,8 @@
     "description": "List背单词，一款可离线使用，艾宾浩斯规划，支持PDF导出，简洁高效的背单词软件。 功能特性： 「内置词库」：包含四六级、考研、出国、大学、高中、初中、小学等各个阶段的词库，还有新概念英语、BEC、COCA、剑桥、朗文、牛津等其他词库。 「学习计划表」：根据艾宾浩斯记忆规律曲线，持续记忆和不断复习； 「自定义词库」：支持外部文件导入； 「生词本」：汇总重难词，集中强化记忆； 「熟词表」：移除熟词，词库越学越小； 「双语/单语」：快速切换双语/单语模式，方便自测自查； 「iPad分屏」：利用分屏功能，边听边写； 「词典查询」：内置英汉/英英词典和在线词典，支持“用户自行添加在线词典”； 「英式/美式」：支持英式/美式发音+音标； 「iCloud同步」：iPad/iPhone记录同步，学习进度不丢失； 「拼词模式」：从五个卡片中点选正确的字母，拼成完整的单词，同时还支持键盘输入。iPad上，还支持Pencil手写输入； 「听写模式」：可重复可间隔可循环可自动，英汉双语音频播放； 「英英模式」：通过英语释义、同义词和例句，加强记忆，扩展词汇量； 「滚动模式」：列表样式，自动循环滚动播放； 「定时关闭」：听写模式和拼词模式，支持多次循环后关闭，或固定时长后关闭； 「音频混合」：支持其他音频app混音，边听歌边记单词； 「批量导出」：支持批量导出词汇到「List生词本」App； 「桌面小组件」：iOS 14及其以上系统，支持快速查看学习进度和打卡情况； 「文字大小」：支持跟随系统文字大小变化； 「PDF导出」：支持内置词库、自定义词库和生词本的PDF文件导出。 背单词，是英语学习之路上必要的过程，词汇量不够，直接影响到英语的使用，单词记不住，是必须打败的拦路虎。人的遗忘速度随时间的流逝而先快后慢，在记忆的最初阶段遗忘的速度很快，后来就逐渐减慢了，到了相当长的时候后，几乎就不再遗忘，因此及时复习对于记忆单词是非常重要的，这就是艾宾浩斯记忆法的原理。 List背单词，根据艾宾浩斯的记忆规律来使用，第一个Day记忆单词，后续的复习间隔周期为：`1`个Day，`2`个Days，`4`个Days，`7`个Days和`15`个Days，假设把单词词库平均分为`15`个list，在`30`个Days的时间里持续记忆和不断复习，由此制作了一份学习计划表。 乱序版本：词库随机打乱分配到每个List 正序版本：词库按A-Z的顺序分配到每个List 原序版本：词库按数据源本身的排列顺序分配到每个List 学习计划表设置 --- 通过调整List总数，把单词词库进行平分，得到平均词汇量和总天数，选择乱序或正序(原序)版本，由此得到一份学习计划表。 自定义词汇 --- 支持两种导入方式：从生词本导入和从外部文件导入 英语口音支持 --- 美国，英国，澳大利亚，爱尔兰，南非，在线美式发音，在线英式发音，离线真人语音 背单词方式 --- 初始的排列，按字母升序排序，随机打乱排序，不会的词排在前面。 其中，关于初始的排列，在以下三种版本中的解释： 1.正序版：没有“初始的排列”，默认就是按字母升序排列； 2.乱序版：“初始的排列”，是指保持一个初始的打乱排列； 3.原序版：「自定义词汇」的词库专有，“初始的排列”，是指保持数据源本身的顺序。 单词显示设置 --- 双语显示，只显示英文，只显示中文 1. 只显示中文时，向左滑动单词行，可以看到英文单词； 2. 只显示英文时，向左滑动单词行，可以看到中文释义。 单词行点击设置 --- 1. 默认设置，点击单词行，有发音，蓝色标记颜色加深，‘不会程度’增加一； 2. 点击单词行的左半部分，只有发音，右半部分，保留默认设置； 3. 点击单词行的右半部分，只有发音，左半部分，保留默认设置； 4. 点击单词行，只有发音，蓝色标记颜色不加深，‘不会程度’不增加一。 音标显示设置 --- 隐藏音标，英式音标，美式音标 生词本 --- 1. 单词列表里，向右滑动单词行，点击星星按钮，收藏单词到生词本； 2. 手动修改单词； 3. 手动添加新单词； 4. 多种排序方式：从新到旧，从旧到新，从A到Z，从Z到A，随机乱序。 备注：生词本里修改中文释义，词库里的释义会跟着改变；从生词本删除单词，词库里的释义会恢复成原来的 熟词表 --- 1. 词列表里，向左滑动单词行，点击红色叉号按钮，添加到熟词表； 2.长按底部当前List，可以进入熟词表，进行恢复。 iCloud同步 --- 支持iCloud同步学习进度、生词本和自定义词汇 显示模式 --- 白天，夜间，纯黑，纸张白，纸张黑，支持跟随系统，在线词典支持深色外观 词典设置 --- 1.长按单词行，复制单词到剪切板，默认不开启； 2.长按单词行，使用词典查询更多释义和例子，包括查询关闭、内置词典和多种在线词典； 3.在线词典，支持调整顺序。 拼词模式 --- 1.从五个卡片中点选正确的字母，拼成完整的单词； 2.随机打乱； 3.快速定位； 4.支持键盘输入； 5.在iPad上，支持Pencil手写输入。 听写模式 --- 1.调整播放单词重复次数； 2.调整单词间隔时间； 3.设置是否自动播放下一个； 4.内容显示设置； 5.支持后台播放音频； 6.支持播放中文释义； 7.随机播放； 8.快速定位。 英英模式 --- 通过英语释义、同义词和例句，加强记忆，扩展词汇量 滚动模式 --- 1.列表样式，自动循环滚动播放； 2.更方便的生词本编辑、不会程度标记和词典查询等操作。 批量导出 --- 1.支持把当前List的词汇批量导出到「List生词本」App； 2.支持把生词本的词汇批量导出到「List生词本」App。 PDF导出 --- 1. 主页面点击右上角 - 学习计划页面 - PDF； 2. 支持导出单个List的PDF文件：主页面，长按底部List，会出现当前List的「导出PDF」入口; 3. 生词本点击右上角的PDF。 其他 --- 若对使用产生任何疑问，请联系shawn736_ios@163.com App icons by icons8，词库的背景图片来自Unsplash The Preview background photo by Joey Kyber on Unsplash Our preview images were created using 'Previewed' at previewed.app 具体信息请参考网址https://github.com/shawn736ios/Technical-support",
     "fullDescription": "List背单词，一款可离线使用，艾宾浩斯规划，支持PDF导出，简洁高效的背单词软件。 功能特性： 「内置词库」：包含四六级、考研、出国、大学、高中、初中、小学等各个阶段的词库，还有新概念英语、BEC、COCA、剑桥、朗文、牛津等其他词库。 「学习计划表」：根据艾宾浩斯记忆规律曲线，持续记忆和不断复习； 「自定义词库」：支持外部文件导入； 「生词本」：汇总重难词，集中强化记忆； 「熟词表」：移除熟词，词库越学越小； 「双语/单语」：快速切换双语/单语模式，方便自测自查； 「iPad分屏」：利用分屏功能，边听边写； 「词典查询」：内置英汉/英英词典和在线词典，支持“用户自行添加在线词典”； 「英式/美式」：支持英式/美式发音+音标； 「iCloud同步」：iPad/iPhone记录同步，学习进度不丢失； 「拼词模式」：从五个卡片中点选正确的字母，拼成完整的单词，同时还支持键盘输入。iPad上，还支持Pencil手写输入； 「听写模式」：可重复可间隔可循环可自动，英汉双语音频播放； 「英英模式」：通过英语释义、同义词和例句，加强记忆，扩展词汇量； 「滚动模式」：列表样式，自动循环滚动播放； 「定时关闭」：听写模式和拼词模式，支持多次循环后关闭，或固定时长后关闭； 「音频混合」：支持其他音频app混音，边听歌边记单词； 「批量导出」：支持批量导出词汇到「List生词本」App； 「桌面小组件」：iOS 14及其以上系统，支持快速查看学习进度和打卡情况； 「文字大小」：支持跟随系统文字大小变化； 「PDF导出」：支持内置词库、自定义词库和生词本的PDF文件导出。 背单词，是英语学习之路上必要的过程，词汇量不够，直接影响到英语的使用，单词记不住，是必须打败的拦路虎。人的遗忘速度随时间的流逝而先快后慢，在记忆的最初阶段遗忘的速度很快，后来就逐渐减慢了，到了相当长的时候后，几乎就不再遗忘，因此及时复习对于记忆单词是非常重要的，这就是艾宾浩斯记忆法的原理。 List背单词，根据艾宾浩斯的记忆规律来使用，第一个Day记忆单词，后续的复习间隔周期为：`1`个Day，`2`个Days，`4`个Days，`7`个Days和`15`个Days，假设把单词词库平均分为`15`个list，在`30`个Days的时间里持续记忆和不断复习，由此制作了一份学习计划表。 乱序版本：词库随机打乱分配到每个List 正序版本：词库按A-Z的顺序分配到每个List 原序版本：词库按数据源本身的排列顺序分配到每个List 学习计划表设置 --- 通过调整List总数，把单词词库进行平分，得到平均词汇量和总天数，选择乱序或正序(原序)版本，由此得到一份学习计划表。 自定义词汇 --- 支持两种导入方式：从生词本导入和从外部文件导入 英语口音支持 --- 美国，英国，澳大利亚，爱尔兰，南非，在线美式发音，在线英式发音，离线真人语音 背单词方式 --- 初始的排列，按字母升序排序，随机打乱排序，不会的词排在前面。 其中，关于初始的排列，在以下三种版本中的解释： 1.正序版：没有“初始的排列”，默认就是按字母升序排列； 2.乱序版：“初始的排列”，是指保持一个初始的打乱排列； 3.原序版：「自定义词汇」的词库专有，“初始的排列”，是指保持数据源本身的顺序。 单词显示设置 --- 双语显示，只显示英文，只显示中文 1. 只显示中文时，向左滑动单词行，可以看到英文单词； 2. 只显示英文时，向左滑动单词行，可以看到中文释义。 单词行点击设置 --- 1. 默认设置，点击单词行，有发音，蓝色标记颜色加深，‘不会程度’增加一； 2. 点击单词行的左半部分，只有发音，右半部分，保留默认设置； 3. 点击单词行的右半部分，只有发音，左半部分，保留默认设置； 4. 点击单词行，只有发音，蓝色标记颜色不加深，‘不会程度’不增加一。 音标显示设置 --- 隐藏音标，英式音标，美式音标 生词本 --- 1. 单词列表里，向右滑动单词行，点击星星按钮，收藏单词到生词本； 2. 手动修改单词； 3. 手动添加新单词； 4. 多种排序方式：从新到旧，从旧到新，从A到Z，从Z到A，随机乱序。 备注：生词本里修改中文释义，词库里的释义会跟着改变；从生词本删除单词，词库里的释义会恢复成原来的 熟词表 --- 1. 词列表里，向左滑动单词行，点击红色叉号按钮，添加到熟词表； 2.长按底部当前List，可以进入熟词表，进行恢复。 iCloud同步 --- 支持iCloud同步学习进度、生词本和自定义词汇 显示模式 --- 白天，夜间，纯黑，纸张白，纸张黑，支持跟随系统，在线词典支持深色外观 词典设置 --- 1.长按单词行，复制单词到剪切板，默认不开启； 2.长按单词行，使用词典查询更多释义和例子，包括查询关闭、内置词典和多种在线词典； 3.在线词典，支持调整顺序。 拼词模式 --- 1.从五个卡片中点选正确的字母，拼成完整的单词； 2.随机打乱； 3.快速定位； 4.支持键盘输入； 5.在iPad上，支持Pencil手写输入。 听写模式 --- 1.调整播放单词重复次数； 2.调整单词间隔时间； 3.设置是否自动播放下一个； 4.内容显示设置； 5.支持后台播放音频； 6.支持播放中文释义； 7.随机播放； 8.快速定位。 英英模式 --- 通过英语释义、同义词和例句，加强记忆，扩展词汇量 滚动模式 --- 1.列表样式，自动循环滚动播放； 2.更方便的生词本编辑、不会程度标记和词典查询等操作。 批量导出 --- 1.支持把当前List的词汇批量导出到「List生词本」App； 2.支持把生词本的词汇批量导出到「List生词本」App。 PDF导出 --- 1. 主页面点击右上角 - 学习计划页面 - PDF； 2. 支持导出单个List的PDF文件：主页面，长按底部List，会出现当前List的「导出PDF」入口; 3. 生词本点击右上角的PDF。 其他 --- 若对使用产生任何疑问，请联系shawn736_ios@163.com App icons by icons8，词库的背景图片来自Unsplash The Preview background photo by Joey Kyber on Unsplash Our preview images were created using 'Previewed' at previewed.app 具体信息请参考网址https://github.com/shawn736ios/Technical-support",
     "summaryDescription": "List背单词，一款可离线使用，艾宾浩斯规划，支持PDF导出，简洁高效的背单词软件。 功能特性： 「内置词库」：包含四六级、考研、出国、大学、高中、初中、小学等各个阶段的词库，还有新概念英语、BEC、COCA、剑桥、朗文、牛津等其他词库。 「学习计划表」：根据艾宾浩斯记忆规律曲线，持续记忆和不断复习； 「自定义词库」：支持外部文件导入； 「生词本」：汇总重难词，集中强化记忆； 「熟词表」：移除熟词，词库越学越小； 「双语/单语」：快速切换双语/单语模式，方便自测自查； 「iPad分屏」：利用分屏功能，边听边写； 「词典查询」：内置英汉/英英词典和在线词典，支持“用户自行添加在线词典”； 「英式/美式」：支持英式/美式发音+音标； 「iCloud同步」：iPad/iPhone记录同步，学习进度不丢失； 「拼词模式」：从五个卡片中点选正确的字母，拼成完整的单词，同时还支持键盘输入。iPad上，还支持Pencil手写输入； 「听写模式」：可重复可间隔可循环可自动，英汉双语音频播放； 「英英模式」：通过英语释义、同义词和例句，加强记忆，扩展词汇量； 「滚动模式」：列表样式，自动循环滚动播放； 「定时关闭」：听写模式和拼词模式，支持多次循环后关闭，或固定时长后关闭； 「音频混合」：支持其他音频app混音，边听歌边记单词； 「批量导出」：支持批量导出词汇到「List生词本」App； 「桌面小组件」：iOS 14及其以上系统，支持快速查看学习进度和打卡情况； 「文字大小」：支持跟随系统文字大小变化； 「PDF导出」：支持内置词库、自定义词库和生词本的PDF文件导出。 背单词，是英语学习之路上必要的过程，词汇量不够，直接影响到英语的使用，单词记不住，是必须打败的拦路虎。人的遗忘速度随时间的流逝而先快后慢，在记忆的最初阶段遗忘的速度很快，后来就逐渐减慢了，到了相当长的时候后，几乎就不再遗忘，因此及时复习对于记忆单词是非常重要的，这就是艾宾浩斯记忆法的原理。 List背单词，根据艾宾浩斯的记忆规律来使用，第一个Day记忆单词，后续的复习间隔周期为：`1`个Day，`2`个Days，`4`个Days，`7`个Days和`15`个Days，假设把单词词库平均分为`15`个list，在`30`个Days的时间里持续记忆和不断复习，由此制作了一份学习计划表。 乱序版本：词库随机打乱分配到每个List 正序版本：词库按A-Z的顺序分配到每个List 原序版本：词库按数据源本身的排列顺序分配到每个List 学习计划表设置 --- 通过调整List总数，把单词词库进行平分，得到平均词汇量和总天数，选择乱序或正序(原序)版本，由此得到一份学习计划表。 自定义词汇 --- 支持两种导入方式：从生词本导入和从外部文件导入 英语口音支持 --- 美国，英国，澳大利亚，爱尔兰，南非，在线美式发音，在线英式发音，离线真人语音 背单词方式 --- 初始的排列，按字母升序排序，随机打乱排序，不会的词排在前面。 其中，关于初始的排列，在以下三种版本中的解释： 1.正序版：没有“初始的排列”，默认就是按字母升序排列； 2.乱序版：“初始的排列”，是指保持一个初始的打乱排列； 3.原序版：「自定义词汇」的词库专有，“初始的排列”，是指保持数据源本身的顺序。 单词显示设置 --- 双语显示，只显示英文，只显示中文 1. 只显示中文时，向左滑动单词行，可以看到英文单词； 2. 只显示英文时，向左滑动单词行，可以看到中文释义。 单词行点击设置 --- 1. 默认设置，点击单词行，有发音，蓝色标记颜色加深，‘不会程度’增加一； 2. 点击单词行的左半部分，只有发音，右半部分，保留默认设置； 3. 点击单词行的右半部分，只有发音，左半部分，保留默认设置； 4. 点击单词行，只有发音，蓝色标记颜色不加深，‘不会程度’不增加一。 音标显示设置 --- 隐藏音标，英式音标，美式音标 生词本 --- 1. 单词列表里，向右滑动单词行，点击星星按钮，收藏单词到生词本； 2. 手动修改单词； 3. 手动添加新单词； 4. 多种排序方式：从新到旧，从旧到新，从A到Z，从Z到A，随机乱序。 备注：生词本里修改中文释义，词库里的释义会跟着改变；从生词本删除单词，词库里的释义会恢复成原来的 熟词表 --- 1. 词列表里，向左滑动单词行，点击红色叉号按钮，添加到熟词表； 2.长按底部当前List，可以进入熟词表，进行恢复。 iCloud同步 --- 支持iCloud同步学习进度、生词本和自定义词汇 显示模式 --- 白天，夜间，纯黑，纸张白，纸张黑，支持跟随系统，在线词典支持深色外观 词典设置 --- 1.长按单词行，复制单词到剪切板，默认不开启； 2.长按单词行，使用词典查询更多释义和例子，包括查询关闭、内置词典和多种在线词典； 3.在线词典，支持调整顺序。 拼词模式 --- 1.从五个卡片中点选正确的字母，拼成完整的单词； 2.随机打乱； 3.快速定位； 4.支持键盘输入； 5.在iPad上，支持Pencil手写输入。 听写模式 --- 1.调整播放单词重复次数； 2.调整单词间隔时间； 3.设置是否自动播放下一个； 4.内容显示设置； 5.支持后台播放音频； 6.支持播放中文释义； 7.随机播放； 8.快速定位。 英英模式 --- 通过英语释义、同义词和例句，加强记忆，扩展词汇量 滚动模式 --- 1.列表样式，自动循环滚动播放； 2.更方便的生词本编辑、不会程度标记和词典查询等操作。 批量导出 --- 1.支持把当前List的词汇批量导出到「List生词本」App； 2.支持把生词本的词汇批量导出到「List生词本」App。 PDF导出 --- 1. 主页面点击右上角 - 学习计划页面 - PDF； 2. 支持导出单个List的PDF文件：主页面，长按底部List，会出现当前List的「导出PDF」入口; 3. 生词本点击右上角的PDF。 其他 --- 若对使用产生任何疑问，请联系shawn736_ios@163.com App icons by icons8，词库的背景图片来自Unsplash The Preview background photo by Joey Kyber on Unsplash Our preview images were created using 'Previewed' at previewed.app 具体信息请参考网址https://github.com/shawn736ios/Technical-support",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/b1/ef/bbb1ef38-2822-234b-38cc-20f6a443f838/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/b1/ef/bbb1ef38-2822-234b-38cc-20f6a443f838/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/be/85/adbe8510-0106-42c3-259e-7bb02e360739/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/be/85/adbe8510-0106-42c3-259e-7bb02e360739/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "文华 肖",
     "artistName": "文华 肖",
     "screenshotUrls": [
@@ -71884,32 +71884,30 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/l-license-vic/id1490577494?uo=4",
-    "description": "L License VIC – Pass with Confidence Prepare for your Victorian Learner Permit Test with an app that closely mirrors the real VicRoads experience. Available in English, Vietnamese, Hindi, Chinese, and Thai. Designed to closely match the real VicRoads test Supports 5 languages If you pass 6 times in this app, we guarantee you will pass the real test Vietnamese L License VIC – Tự tin thi đậu bằng L Luyện thi bằng L của bang Victoria với ứng dụng mô phỏng gần giống đề thi thật. Hỗ trợ tiếng Việt, Anh, Ấn, Trung và Thái. Mô phỏng gần giống đề thi thật của VicRoads Hỗ trợ 5 ngôn ngữ Nếu bạn đậu 6 lần trong app, chúng tôi đảm bảo bạn sẽ đậu kỳ thi thật Hindi L License VIC – एल लाइसेंस पास करना अब आसान विक्टोरिया के Learner टेस्ट के लिए एक ऐसा ऐप जो असली VicRoads परीक्षा के बहुत करीब है। उपलब्ध है हिंदी, अंग्रेज़ी, वियतनामी, चीनी और थाई में। असली टेस्ट जैसी प्रैक्टिस 5 भाषाओं में उपलब्ध यदि आपने ऐप में 6 बार पास किया, तो हम गारंटी देते हैं कि आप असली टेस्ट भी पास करेंगे Chinese (Simplified) L License VIC – 真实考试模拟，轻松过关 专为维多利亚州Learner驾照考试设计，内容贴近VicRoads官方题库。支持中文、英文、越南语、印地语和泰语。 贴近真实VicRoads考试体验 支持5种语言 在应用中通过6次模拟考试，我们保证你能通过正式考试 Thai L License VIC – จำลองข้อสอบจริง สอบผ่านได้แน่นอน เตรียมสอบใบขับขี่ L รัฐวิกตอเรียด้วยแอปที่ออกแบบให้ใกล้เคียงกับข้อสอบจริงมากที่สุด พร้อมให้บริการใน 5 ภาษา จำลองข้อสอบใกล้เคียงของจริง รองรับ 5 ภาษา หากคุณสอบผ่านในแอป 6 ครั้ง เรารับประกันว่าคุณจะผ่านสอบจริง",
-    "fullDescription": "L License VIC – Pass with Confidence Prepare for your Victorian Learner Permit Test with an app that closely mirrors the real VicRoads experience. Available in English, Vietnamese, Hindi, Chinese, and Thai. Designed to closely match the real VicRoads test Supports 5 languages If you pass 6 times in this app, we guarantee you will pass the real test Vietnamese L License VIC – Tự tin thi đậu bằng L Luyện thi bằng L của bang Victoria với ứng dụng mô phỏng gần giống đề thi thật. Hỗ trợ tiếng Việt, Anh, Ấn, Trung và Thái. Mô phỏng gần giống đề thi thật của VicRoads Hỗ trợ 5 ngôn ngữ Nếu bạn đậu 6 lần trong app, chúng tôi đảm bảo bạn sẽ đậu kỳ thi thật Hindi L License VIC – एल लाइसेंस पास करना अब आसान विक्टोरिया के Learner टेस्ट के लिए एक ऐसा ऐप जो असली VicRoads परीक्षा के बहुत करीब है। उपलब्ध है हिंदी, अंग्रेज़ी, वियतनामी, चीनी और थाई में। असली टेस्ट जैसी प्रैक्टिस 5 भाषाओं में उपलब्ध यदि आपने ऐप में 6 बार पास किया, तो हम गारंटी देते हैं कि आप असली टेस्ट भी पास करेंगे Chinese (Simplified) L License VIC – 真实考试模拟，轻松过关 专为维多利亚州Learner驾照考试设计，内容贴近VicRoads官方题库。支持中文、英文、越南语、印地语和泰语。 贴近真实VicRoads考试体验 支持5种语言 在应用中通过6次模拟考试，我们保证你能通过正式考试 Thai L License VIC – จำลองข้อสอบจริง สอบผ่านได้แน่นอน เตรียมสอบใบขับขี่ L รัฐวิกตอเรียด้วยแอปที่ออกแบบให้ใกล้เคียงกับข้อสอบจริงมากที่สุด พร้อมให้บริการใน 5 ภาษา จำลองข้อสอบใกล้เคียงของจริง รองรับ 5 ภาษา หากคุณสอบผ่านในแอป 6 ครั้ง เรารับประกันว่าคุณจะผ่านสอบจริง",
-    "summaryDescription": "L License VIC – Pass with Confidence Prepare for your Victorian Learner Permit Test with an app that closely mirrors the real VicRoads experience. Available in English, Vietnamese, Hindi, Chinese, and Thai. Designed to closely match the real VicRoads test Supports 5 languages If you pass 6 times in this app, we guarantee you will pass the real test Vietnamese L License VIC – Tự tin thi đậu bằng L Luyện thi bằng L của bang Victoria với ứng dụng mô phỏng gần giống đề thi thật. Hỗ trợ tiếng Việt, Anh, Ấn, Trung và Thái. Mô phỏng gần giống đề thi thật của VicRoads Hỗ trợ 5 ngôn ngữ Nếu bạn đậu 6 lần trong app, chúng tôi đảm bảo bạn sẽ đậu kỳ thi thật Hindi L License VIC – एल लाइसेंस पास करना अब आसान विक्टोरिया के Learner टेस्ट के लिए एक ऐसा ऐप जो असली VicRoads परीक्षा के बहुत करीब है। उपलब्ध है हिंदी, अंग्रेज़ी, वियतनामी, चीनी और थाई में। असली टेस्ट जैसी प्रैक्टिस 5 भाषाओं में उपलब्ध यदि आपने ऐप में 6 बार पास किया, तो हम गारंटी देते हैं कि आप असली टेस्ट भी पास करेंगे Chinese (Simplified) L License VIC – 真实考试模拟，轻松过关 专为维多利亚州Learner驾照考试设计，内容贴近VicRoads官方题库。支持中文、英文、越南语、印地语和泰语。 贴近真实VicRoads考试体验 支持5种语言 在应用中通过6次模拟考试，我们保证你能通过正式考试 Thai L License VIC – จำลองข้อสอบจริง สอบผ่านได้แน่นอน เตรียมสอบใบขับขี่ L รัฐวิกตอเรียด้วยแอปที่ออกแบบให้ใกล้เคียงกับข้อสอบจริงมากที่สุด พร้อมให้บริการใน 5 ภาษา จำลองข้อสอบใกล้เคียงของจริง รองรับ 5 ภาษา หากคุณสอบผ่านในแอป 6 ครั้ง เรารับประกันว่าคุณจะผ่านสอบจริง",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/2f/d7/702fd701-91cf-d790-e08c-a0410c550fb9/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/2f/d7/702fd701-91cf-d790-e08c-a0410c550fb9/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
+    "description": "L License VIC – Pass with Confidence Prepare for your Victorian Learner Permit Test with an app that closely mirrors the real VicRoads experience. Available in English, Vietnamese, Hindi, Chinese, and Thai. Designed to closely match the real VicRoads test Supports 6 languages If you pass 6 times in this app, we guarantee you will pass the real test Vietnamese L License VIC – Tự tin thi đậu bằng L Luyện thi bằng L của bang Victoria với ứng dụng mô phỏng gần giống đề thi thật. Hỗ trợ tiếng Việt, Anh, Ấn, Trung và Thái. Mô phỏng gần giống đề thi thật của VicRoads Hỗ trợ 6 ngôn ngữ Nếu bạn đậu 6 lần trong app, chúng tôi đảm bảo bạn sẽ đậu kỳ thi thật Hindi L License VIC – एल लाइसेंस पास करना अब आसान विक्टोरिया के Learner टेस्ट के लिए एक ऐसा ऐप जो असली VicRoads परीक्षा के बहुत करीब है। उपलब्ध है हिंदी, अंग्रेज़ी, वियतनामी, चीनी और थाई में। असली टेस्ट जैसी प्रैक्टिस 6 भाषाओं में उपलब्ध यदि आपने ऐप में 6 बार पास किया, तो हम गारंटी देते हैं कि आप असली टेस्ट भी पास करेंगे Chinese (Simplified) L License VIC – 真实考试模拟，轻松过关 专为维多利亚州Learner驾照考试设计，内容贴近VicRoads官方题库。支持中文、英文、越南语、印地语和泰语。 贴近真实VicRoads考试体验 支持6种语言 在应用中通过6次模拟考试，我们保证你能通过正式考试 Thai L License VIC – จำลองข้อสอบจริง สอบผ่านได้แน่นอน เตรียมสอบใบขับขี่ L รัฐวิกตอเรียด้วยแอปที่ออกแบบให้ใกล้เคียงกับข้อสอบจริงมากที่สุด พร้อมให้บริการใน 5 ภาษา จำลองข้อสอบใกล้เคียงของจริง รองรับ 6 ภาษา หากคุณสอบผ่านในแอป 6 ครั้ง เรารับประกันว่าคุณจะผ่านสอบจริง",
+    "fullDescription": "L License VIC – Pass with Confidence Prepare for your Victorian Learner Permit Test with an app that closely mirrors the real VicRoads experience. Available in English, Vietnamese, Hindi, Chinese, and Thai. Designed to closely match the real VicRoads test Supports 6 languages If you pass 6 times in this app, we guarantee you will pass the real test Vietnamese L License VIC – Tự tin thi đậu bằng L Luyện thi bằng L của bang Victoria với ứng dụng mô phỏng gần giống đề thi thật. Hỗ trợ tiếng Việt, Anh, Ấn, Trung và Thái. Mô phỏng gần giống đề thi thật của VicRoads Hỗ trợ 6 ngôn ngữ Nếu bạn đậu 6 lần trong app, chúng tôi đảm bảo bạn sẽ đậu kỳ thi thật Hindi L License VIC – एल लाइसेंस पास करना अब आसान विक्टोरिया के Learner टेस्ट के लिए एक ऐसा ऐप जो असली VicRoads परीक्षा के बहुत करीब है। उपलब्ध है हिंदी, अंग्रेज़ी, वियतनामी, चीनी और थाई में। असली टेस्ट जैसी प्रैक्टिस 6 भाषाओं में उपलब्ध यदि आपने ऐप में 6 बार पास किया, तो हम गारंटी देते हैं कि आप असली टेस्ट भी पास करेंगे Chinese (Simplified) L License VIC – 真实考试模拟，轻松过关 专为维多利亚州Learner驾照考试设计，内容贴近VicRoads官方题库。支持中文、英文、越南语、印地语和泰语。 贴近真实VicRoads考试体验 支持6种语言 在应用中通过6次模拟考试，我们保证你能通过正式考试 Thai L License VIC – จำลองข้อสอบจริง สอบผ่านได้แน่นอน เตรียมสอบใบขับขี่ L รัฐวิกตอเรียด้วยแอปที่ออกแบบให้ใกล้เคียงกับข้อสอบจริงมากที่สุด พร้อมให้บริการใน 5 ภาษา จำลองข้อสอบใกล้เคียงของจริง รองรับ 6 ภาษา หากคุณสอบผ่านในแอป 6 ครั้ง เรารับประกันว่าคุณจะผ่านสอบจริง",
+    "summaryDescription": "L License VIC – Pass with Confidence Prepare for your Victorian Learner Permit Test with an app that closely mirrors the real VicRoads experience. Available in English, Vietnamese, Hindi, Chinese, and Thai. Designed to closely match the real VicRoads test Supports 6 languages If you pass 6 times in this app, we guarantee you will pass the real test Vietnamese L License VIC – Tự tin thi đậu bằng L Luyện thi bằng L của bang Victoria với ứng dụng mô phỏng gần giống đề thi thật. Hỗ trợ tiếng Việt, Anh, Ấn, Trung và Thái. Mô phỏng gần giống đề thi thật của VicRoads Hỗ trợ 6 ngôn ngữ Nếu bạn đậu 6 lần trong app, chúng tôi đảm bảo bạn sẽ đậu kỳ thi thật Hindi L License VIC – एल लाइसेंस पास करना अब आसान विक्टोरिया के Learner टेस्ट के लिए एक ऐसा ऐप जो असली VicRoads परीक्षा के बहुत करीब है। उपलब्ध है हिंदी, अंग्रेज़ी, वियतनामी, चीनी और थाई में। असली टेस्ट जैसी प्रैक्टिस 6 भाषाओं में उपलब्ध यदि आपने ऐप में 6 बार पास किया, तो हम गारंटी देते हैं कि आप असली टेस्ट भी पास करेंगे Chinese (Simplified) L License VIC – 真实考试模拟，轻松过关 专为维多利亚州Learner驾照考试设计，内容贴近VicRoads官方题库。支持中文、英文、越南语、印地语和泰语。 贴近真实VicRoads考试体验 支持6种语言 在应用中通过6次模拟考试，我们保证你能通过正式考试 Thai L License VIC – จำลองข้อสอบจริง สอบผ่านได้แน่นอน เตรียมสอบใบขับขี่ L รัฐวิกตอเรียด้วยแอปที่ออกแบบให้ใกล้เคียงกับข้อสอบจริงมากที่สุด พร้อมให้บริการใน 5 ภาษา จำลองข้อสอบใกล้เคียงของจริง รองรับ 6 ภาษา หากคุณสอบผ่านในแอป 6 ครั้ง เรารับประกันว่าคุณจะผ่านสอบจริง",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/a9/9c/d7a99cfb-d266-a2bb-ed75-66c324174051/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/a9/9c/d7a99cfb-d266-a2bb-ed75-66c324174051/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "The Anh",
     "artistName": "The Anh",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/46/32/bd4632b2-bc80-f83f-3a8a-661f3c3ddf34/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-06-25_at_21.22.43.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/8d/0a/608d0abd-7f81-27b4-d7ad-36a0bccd962e/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-06-24_at_23.23.34.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/21/c7/6521c7aa-8fb7-d4bf-69aa-49857edef80c/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-06-24_at_23.23.20.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/f2/0a/1bf20a4d-5723-79e0-4988-088eb42e4f1a/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-06-24_at_23.24.07.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/9f/3f/6b9f3f05-8576-ae6d-3ed1-9a8f1035b8bf/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-06-24_at_23.23.47.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/56/f4/7456f401-f150-096c-6352-c5684ec497be/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-06-24_at_23.23.02.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/26/84/67268456-31e6-6bfe-9e1e-9c6429ddeb0d/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-06-25_at_21.23.11.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/70/2f/88702f5c-f1c9-5ee7-8fc2-565cd53ec5d3/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-06-24_at_23.24.46.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/2a/0d/962a0d1f-fbd7-8ea1-436e-4c6b520403ec/01_languages.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/d3/5e/40d35e0e-ebc9-0cdd-df83-63c88cb78992/02_english.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/f1/87/dbf1877f-6c01-3090-050e-723ad2870f41/03_vietnamese.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/da/bc/8fdabc5f-8138-3e66-095c-8ce2bf88cae5/04_hindi.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/27/0f/c9270fbf-4856-9034-85a1-4d92cd93d52e/05_chinese.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/98/81/d19881b0-16bc-0c1e-5804-96321943d9a3/06_thai.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/72/dc/1672dc64-19f4-ecdb-8316-4b7fff26d925/07_french.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/19/37/17193739-b3a0-04bf-27fc-bc90939a5e8f/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-06-25_at_21.23.57.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/2c/e2/2f2ce22d-79b1-1295-c302-9288c3676333/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-06-24_at_23.30.26.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/2d/5c/d02d5c39-7802-e783-6fa2-36ff04ff068c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-06-24_at_23.30.12.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/56/28/315628b4-447c-07ef-97b0-00c54170d83b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-06-24_at_23.29.28.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/b6/26/23b62671-1786-acbe-f4dc-c3ba41152abb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-06-24_at_23.29.47.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/da/c12dda43-d7c2-1fb0-80dd-e13947f25357/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-06-24_at_23.28.40.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/ea/e2/eaeae290-9274-5539-9e17-1914dec96515/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-06-25_at_21.24.10.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/79/fa/4479fac9-47d3-7cb6-2bd6-53ccf2af8827/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-06-24_at_23.28.54.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/d9/4f/c1d94f38-09e8-bc31-7e54-4c30941b91d9/01_languages.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/d5/31/e1d5314c-8b09-fc29-b375-960cb4820db8/02_english.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/7e/9f/e97e9fb0-ec6c-2cf2-90e7-2c2ff61532a0/03_vietnamese.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/3f/7e/a63f7eb4-84d4-c3e2-7c00-77ced4632c13/04_hindi.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/ca/f7/21caf74f-bfe3-f07c-5bf0-8266493fe536/05_chinese.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/e2/ca/64e2ca5e-d756-bd78-51ad-43b1a49ef4e5/06_thai.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/e9/91/10e99159-7443-f746-b955-061a3685c3f2/07_french.png/360x480bb.jpg"
     ]
   },
   "1490607195": {
@@ -87320,9 +87318,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/anyscale-tunings-scales/id1513089417?uo=4",
-    "description": "Any Scale 是一款全面的吉他音阶和​​调音应用程序，适合任何希望充分利用其乐器的人。通过易于遵循的图表、简单、简约的美感、音阶和调音的音频预览以及可实现最大灵活性的可定制选项，使您的演奏多样化。它是如何运作的？ ◦ 从下拉列表中选择音阶、调音和调。 ◦ 聆听您选择的音阶和调音的音频预览。 ◦ 查看虚拟指板上显示的所选音阶。 ◦ 循环显示图表上的显示选项以适合您的演奏风格 - 音程、音符或只是简单的点。 ◦ 添加",
-    "fullDescription": "Any Scale 是一款全面的吉他音阶和​​调音应用程序，适合任何希望充分利用其乐器的人。通过易于遵循的图表、简单、简约的美感、音阶和调音的音频预览以及可实现最大灵活性的可定制选项，使您的演奏多样化。它是如何运作的？ ◦ 从下拉列表中选择音阶、调音和调。 ◦ 聆听您选择的音阶和调音的音频预览。 ◦ 查看虚拟指板上显示的所选音阶。 ◦ 循环显示图表上的显示选项以适合您的演奏风格 - 音程、音符或只是简单的点。 ◦ 添加",
-    "summaryDescription": "Any Scale 是一款全面的吉他音阶和​​调音应用程序，适合任何希望充分利用其乐器的人。通过易于遵循的图表、简单、简约的美感、音阶和调音的音频预览以及可实现最大灵活性的可定制选项，使您的演奏多样化。它是如何运作的？ ◦ 从下拉列表中选择音阶、调音和调。 ◦ 聆听您选择的音阶和调音的音频预览。 ◦ 查看虚拟指板上显示的所选音阶。 ◦ 循环显示图表上的显示选项以适合您的演奏风格 - 音程、音符或只是简单的点。 ◦ 添加",
+    "description": "Any Scale 是一款综合性的吉他音阶和​​调音应用程序，适合任何希望充分利用其乐器的人。通过易于遵循的图表、简单、简约的美感、音阶和调音的音频预览以及可实现最大灵活性的可定制选项，使您的演奏多样化。它是如何运作的？ ◦ 从下拉列表中选择音阶、调音和调。 ◦ 聆听您选择的音阶和调音的音频预览。 ◦ 查看虚拟指板上显示的所选音阶。 ◦ 循环显示图表上的显示选项以适合您的演奏风格 - 音程、音符或只是简单的点。 ◦ 添加",
+    "fullDescription": "Any Scale 是一款综合性的吉他音阶和​​调音应用程序，适合任何希望充分利用其乐器的人。通过易于遵循的图表、简单、简约的美感、音阶和调音的音频预览以及可实现最大灵活性的可定制选项，使您的演奏多样化。它是如何运作的？ ◦ 从下拉列表中选择音阶、调音和调。 ◦ 聆听您选择的音阶和调音的音频预览。 ◦ 查看虚拟指板上显示的所选音阶。 ◦ 循环显示图表上的显示选项以适合您的演奏风格 - 音程、音符或只是简单的点。 ◦ 添加",
+    "summaryDescription": "Any Scale 是一款综合性的吉他音阶和​​调音应用程序，适合任何希望充分利用其乐器的人。通过易于遵循的图表、简单、简约的美感、音阶和调音的音频预览以及可实现最大灵活性的可定制选项，使您的演奏多样化。它是如何运作的？ ◦ 从下拉列表中选择音阶、调音和调。 ◦ 聆听您选择的音阶和调音的音频预览。 ◦ 查看虚拟指板上显示的所选音阶。 ◦ 循环显示图表上的显示选项以适合您的演奏风格 - 音程、音符或只是简单的点。 ◦ 添加",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e7/27/45/e72745f9-2733-87d5-c97e-c011c288d69d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e7/27/45/e72745f9-2733-87d5-c97e-c011c288d69d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
     "sellerName": "Ian Johnson",
@@ -89729,8 +89727,8 @@
     "_externalSourceFirstSeen": 1772942683477
   },
   "1517339236": {
-    "name": "老狗英语阅读-英文原版小说和文章轻松阅读",
-    "trackName": "老狗英语阅读-英文原版小说和文章轻松阅读",
+    "name": "渐进阅读-轻松读英文原版书",
+    "trackName": "渐进阅读-轻松读英文原版书",
     "maxPriceInfo": {
       "price": 6,
       "formattedPrice": "¥6.00"
@@ -89749,33 +89747,25 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%80%81%E7%8B%97%E8%8B%B1%E8%AF%AD%E9%98%85%E8%AF%BB-%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88%E5%B0%8F%E8%AF%B4%E5%92%8C%E6%96%87%E7%AB%A0%E8%BD%BB%E6%9D%BE%E9%98%85%E8%AF%BB/id1517339236?uo=4",
-    "description": "老狗英语阅读，为您提供一种全新的英文读物的阅读方式，在读书读文章之前，先学习一遍自己不认识的单词，在知道每一个单词的意思之后，再去阅读后面的句子，做到轻松阅读，快乐阅读。把一本看起来高不可攀的万字名著，转换成一个又一个轻松的任务。 本应用专为阅读英文原版书籍、文章而设计，不仅内置知名名著如《小王子》、《傲慢与偏见》、《福尔摩斯》、《了不起的盖茨比》等，更可以方便地导入您自己的EPUB书籍或者英文文章，让您自己的英文读物也可以通过老狗英语的阅读模式轻松阅读。 假如您是没有读过英文原版书籍的新手，借助本应用也可以顺利读完一本英文小说，作者自己就用一周的上下班时间就读完了《小王子》的英文原版书籍。 假如您是中高级的英语学习者，也可以通过本应用大幅提高英文阅读速度，积累更多的冷门词汇，成为一个native reader。 功能介绍： 1. 先学单词再读书：自动提取您要阅读的内容的单词，学习一句话的单词，再读一句话，而且可以自动根据您单词的掌握情况动态调整接下来要一次性读多少内容。 2. 书城功能：内置FeedBooks、Gutenberg、Zlibrary等英文原著图书源，下载免费书籍阅读。 3. 书籍导入功能：支持通过AirDrop、文件APP中直接导入您自己的EPUb书籍。 4. 文章导入功能：支持直接从Safari、CNN、Fox News、CNBC等APP里直接把文章分享进来。 5. 词典功能：内置离线词典，没有网络也能畅快读，并可以一键查询必应、有道、谷歌、百度、搜狗、牛津等网络词典的单词释义。 6. 打卡功能：记录每天的阅读时间和读过的内容，坚持不懈。 7. 提醒功能：每日按时提醒自己该读书了。",
-    "fullDescription": "老狗英语阅读，为您提供一种全新的英文读物的阅读方式，在读书读文章之前，先学习一遍自己不认识的单词，在知道每一个单词的意思之后，再去阅读后面的句子，做到轻松阅读，快乐阅读。把一本看起来高不可攀的万字名著，转换成一个又一个轻松的任务。 本应用专为阅读英文原版书籍、文章而设计，不仅内置知名名著如《小王子》、《傲慢与偏见》、《福尔摩斯》、《了不起的盖茨比》等，更可以方便地导入您自己的EPUB书籍或者英文文章，让您自己的英文读物也可以通过老狗英语的阅读模式轻松阅读。 假如您是没有读过英文原版书籍的新手，借助本应用也可以顺利读完一本英文小说，作者自己就用一周的上下班时间就读完了《小王子》的英文原版书籍。 假如您是中高级的英语学习者，也可以通过本应用大幅提高英文阅读速度，积累更多的冷门词汇，成为一个native reader。 功能介绍： 1. 先学单词再读书：自动提取您要阅读的内容的单词，学习一句话的单词，再读一句话，而且可以自动根据您单词的掌握情况动态调整接下来要一次性读多少内容。 2. 书城功能：内置FeedBooks、Gutenberg、Zlibrary等英文原著图书源，下载免费书籍阅读。 3. 书籍导入功能：支持通过AirDrop、文件APP中直接导入您自己的EPUb书籍。 4. 文章导入功能：支持直接从Safari、CNN、Fox News、CNBC等APP里直接把文章分享进来。 5. 词典功能：内置离线词典，没有网络也能畅快读，并可以一键查询必应、有道、谷歌、百度、搜狗、牛津等网络词典的单词释义。 6. 打卡功能：记录每天的阅读时间和读过的内容，坚持不懈。 7. 提醒功能：每日按时提醒自己该读书了。",
-    "summaryDescription": "老狗英语阅读，为您提供一种全新的英文读物的阅读方式，在读书读文章之前，先学习一遍自己不认识的单词，在知道每一个单词的意思之后，再去阅读后面的句子，做到轻松阅读，快乐阅读。把一本看起来高不可攀的万字名著，转换成一个又一个轻松的任务。 本应用专为阅读英文原版书籍、文章而设计，不仅内置知名名著如《小王子》、《傲慢与偏见》、《福尔摩斯》、《了不起的盖茨比》等，更可以方便地导入您自己的EPUB书籍或者英文文章，让您自己的英文读物也可以通过老狗英语的阅读模式轻松阅读。 假如您是没有读过英文原版书籍的新手，借助本应用也可以顺利读完一本英文小说，作者自己就用一周的上下班时间就读完了《小王子》的英文原版书籍。 假如您是中高级的英语学习者，也可以通过本应用大幅提高英文阅读速度，积累更多的冷门词汇，成为一个native reader。 功能介绍： 1. 先学单词再读书：自动提取您要阅读的内容的单词，学习一句话的单词，再读一句话，而且可以自动根据您单词的掌握情况动态调整接下来要一次性读多少内容。 2. 书城功能：内置FeedBooks、Gutenberg、Zlibrary等英文原著图书源，下载免费书籍阅读。 3. 书籍导入功能：支持通过AirDrop、文件APP中直接导入您自己的EPUb书籍。 4. 文章导入功能：支持直接从Safari、CNN、Fox News、CNBC等APP里直接把文章分享进来。 5. 词典功能：内置离线词典，没有网络也能畅快读，并可以一键查询必应、有道、谷歌、百度、搜狗、牛津等网络词典的单词释义。 6. 打卡功能：记录每天的阅读时间和读过的内容，坚持不懈。 7. 提醒功能：每日按时提醒自己该读书了。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/20/52/ca2052c1-2c67-97c6-fe2b-aecd9191f002/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/20/52/ca2052c1-2c67-97c6-fe2b-aecd9191f002/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%B8%90%E8%BF%9B%E9%98%85%E8%AF%BB-%E8%BD%BB%E6%9D%BE%E8%AF%BB%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88%E4%B9%A6/id1517339236?uo=4",
+    "description": "渐进阅读 从一本完全读不懂的英文书开始，逐渐摆脱词典，直到你可以独立阅读英文原著。 ◆ 为什么需要渐进阅读？ 很多人都有过这样的经历。 买了一本英文原著，翻开第一页，满怀期待。 然后发现——几乎每个句子都有不认识的单词。 查一个词，读两三个单词，再查一个词。刚刚读懂的内容，转眼又忘了。 阅读一本书，变成了一次又一次查词典的过程。 最后，你放下了这本书。 渐进阅读，就是为了帮助你度过这段最困难的时期。 ◆ 我们认为，读英文原著的目的不是背单词 如果你已经可以很流畅地阅读英文原著，那么你并不需要一个英语学习 App。 你只需要一个舒服的阅读器。 Kindle、微信读书、掌阅，甚至一本纸质书，都可以。 渐进阅读只属于那个\"还没有办法流畅阅读英文原著\"的阶段。 我们希望陪你走过这段路，直到有一天，你不再需要我们。 ◆ 先预习单词，再阅读原文 渐进阅读采用一种很简单的方法： 先预习单词，再读原文。 阅读一句英文时，如果里面有很多陌生的单词，你的大脑不得不不断停下来： 查词 → 理解 → 回到原文 → 再查下一个词。 这种频繁的中断，会让阅读变得非常痛苦。 所以，在真正阅读正文之前，渐进阅读会先让你预习这一部分内容中的单词。 当你开始阅读原文时，这些单词已经不再陌生。 你可以把注意力放回真正重要的事情上：理解故事，理解人物，理解作者想表达的东西。 而不是一直盯着词典。 ◆ 你的目标不是记住所有单词 第一次阅读时，你可能需要预习很多单词。 没关系。 随着你读得越来越多，认识的单词越来越多，需要预习的单词越来越少，查词越来越少，阅读越来越流畅。 直到有一天，你可以打开一本英文原著，直接读下去。 这才是我们真正希望发生的事情。 ◆ 为英文原著阅读而设计 渐进阅读不是传统的背单词 App，也不是让你做大量练习题的英语课程。 它只有一个目标： 帮助你真正读完一本英文原著。 你可以导入自己的 EPUB 书籍，在阅读器中阅读。 单词预习与原文阅读交替进行： 预习单词 → 阅读原文 → 预习下一部分 → 继续阅读 让学习和阅读自然地结合在一起。 ◆ AI 帮你理解单词在句子里的意思 一个英文单词往往不只有一个意思。 单独看词典上的释义，有时候反而不知道它在当前句子里到底是什么意思。 渐进阅读希望让你看到的，不只是一个单词的中文释义，而是这个单词在这句话里，到底是什么意思。 让你真正理解原文，而不是机械地记住一个词义。 ◆ 我们希望有一天，你不再需要渐进阅读 这是一个有点特别的产品目标。 我们并不希望你永远依赖这个 App。 相反，我们希望你用得越来越少。 第一次读英文原著，你可能需要大量预习。 读完一本、两本、五本…… 你会发现，越来越多的单词已经认识，曾经需要查词典的地方，现在可以直接读懂。 最终，你可以像阅读中文书一样，拿起一本英文原著直接阅读。 到了那一天，你就毕业了。 而渐进阅读，也完成了它的使命。 ◆ 从一本完全读不懂的英文书开始 先预习单词，再阅读原文。 让需要查的词越来越少。 直到有一天，你可以独立阅读英文原著。 渐进阅读，陪伴你的英语阅读之路，直到你不再需要它。",
+    "fullDescription": "渐进阅读 从一本完全读不懂的英文书开始，逐渐摆脱词典，直到你可以独立阅读英文原著。 ◆ 为什么需要渐进阅读？ 很多人都有过这样的经历。 买了一本英文原著，翻开第一页，满怀期待。 然后发现——几乎每个句子都有不认识的单词。 查一个词，读两三个单词，再查一个词。刚刚读懂的内容，转眼又忘了。 阅读一本书，变成了一次又一次查词典的过程。 最后，你放下了这本书。 渐进阅读，就是为了帮助你度过这段最困难的时期。 ◆ 我们认为，读英文原著的目的不是背单词 如果你已经可以很流畅地阅读英文原著，那么你并不需要一个英语学习 App。 你只需要一个舒服的阅读器。 Kindle、微信读书、掌阅，甚至一本纸质书，都可以。 渐进阅读只属于那个\"还没有办法流畅阅读英文原著\"的阶段。 我们希望陪你走过这段路，直到有一天，你不再需要我们。 ◆ 先预习单词，再阅读原文 渐进阅读采用一种很简单的方法： 先预习单词，再读原文。 阅读一句英文时，如果里面有很多陌生的单词，你的大脑不得不不断停下来： 查词 → 理解 → 回到原文 → 再查下一个词。 这种频繁的中断，会让阅读变得非常痛苦。 所以，在真正阅读正文之前，渐进阅读会先让你预习这一部分内容中的单词。 当你开始阅读原文时，这些单词已经不再陌生。 你可以把注意力放回真正重要的事情上：理解故事，理解人物，理解作者想表达的东西。 而不是一直盯着词典。 ◆ 你的目标不是记住所有单词 第一次阅读时，你可能需要预习很多单词。 没关系。 随着你读得越来越多，认识的单词越来越多，需要预习的单词越来越少，查词越来越少，阅读越来越流畅。 直到有一天，你可以打开一本英文原著，直接读下去。 这才是我们真正希望发生的事情。 ◆ 为英文原著阅读而设计 渐进阅读不是传统的背单词 App，也不是让你做大量练习题的英语课程。 它只有一个目标： 帮助你真正读完一本英文原著。 你可以导入自己的 EPUB 书籍，在阅读器中阅读。 单词预习与原文阅读交替进行： 预习单词 → 阅读原文 → 预习下一部分 → 继续阅读 让学习和阅读自然地结合在一起。 ◆ AI 帮你理解单词在句子里的意思 一个英文单词往往不只有一个意思。 单独看词典上的释义，有时候反而不知道它在当前句子里到底是什么意思。 渐进阅读希望让你看到的，不只是一个单词的中文释义，而是这个单词在这句话里，到底是什么意思。 让你真正理解原文，而不是机械地记住一个词义。 ◆ 我们希望有一天，你不再需要渐进阅读 这是一个有点特别的产品目标。 我们并不希望你永远依赖这个 App。 相反，我们希望你用得越来越少。 第一次读英文原著，你可能需要大量预习。 读完一本、两本、五本…… 你会发现，越来越多的单词已经认识，曾经需要查词典的地方，现在可以直接读懂。 最终，你可以像阅读中文书一样，拿起一本英文原著直接阅读。 到了那一天，你就毕业了。 而渐进阅读，也完成了它的使命。 ◆ 从一本完全读不懂的英文书开始 先预习单词，再阅读原文。 让需要查的词越来越少。 直到有一天，你可以独立阅读英文原著。 渐进阅读，陪伴你的英语阅读之路，直到你不再需要它。",
+    "summaryDescription": "渐进阅读 从一本完全读不懂的英文书开始，逐渐摆脱词典，直到你可以独立阅读英文原著。 ◆ 为什么需要渐进阅读？ 很多人都有过这样的经历。 买了一本英文原著，翻开第一页，满怀期待。 然后发现——几乎每个句子都有不认识的单词。 查一个词，读两三个单词，再查一个词。刚刚读懂的内容，转眼又忘了。 阅读一本书，变成了一次又一次查词典的过程。 最后，你放下了这本书。 渐进阅读，就是为了帮助你度过这段最困难的时期。 ◆ 我们认为，读英文原著的目的不是背单词 如果你已经可以很流畅地阅读英文原著，那么你并不需要一个英语学习 App。 你只需要一个舒服的阅读器。 Kindle、微信读书、掌阅，甚至一本纸质书，都可以。 渐进阅读只属于那个\"还没有办法流畅阅读英文原著\"的阶段。 我们希望陪你走过这段路，直到有一天，你不再需要我们。 ◆ 先预习单词，再阅读原文 渐进阅读采用一种很简单的方法： 先预习单词，再读原文。 阅读一句英文时，如果里面有很多陌生的单词，你的大脑不得不不断停下来： 查词 → 理解 → 回到原文 → 再查下一个词。 这种频繁的中断，会让阅读变得非常痛苦。 所以，在真正阅读正文之前，渐进阅读会先让你预习这一部分内容中的单词。 当你开始阅读原文时，这些单词已经不再陌生。 你可以把注意力放回真正重要的事情上：理解故事，理解人物，理解作者想表达的东西。 而不是一直盯着词典。 ◆ 你的目标不是记住所有单词 第一次阅读时，你可能需要预习很多单词。 没关系。 随着你读得越来越多，认识的单词越来越多，需要预习的单词越来越少，查词越来越少，阅读越来越流畅。 直到有一天，你可以打开一本英文原著，直接读下去。 这才是我们真正希望发生的事情。 ◆ 为英文原著阅读而设计 渐进阅读不是传统的背单词 App，也不是让你做大量练习题的英语课程。 它只有一个目标： 帮助你真正读完一本英文原著。 你可以导入自己的 EPUB 书籍，在阅读器中阅读。 单词预习与原文阅读交替进行： 预习单词 → 阅读原文 → 预习下一部分 → 继续阅读 让学习和阅读自然地结合在一起。 ◆ AI 帮你理解单词在句子里的意思 一个英文单词往往不只有一个意思。 单独看词典上的释义，有时候反而不知道它在当前句子里到底是什么意思。 渐进阅读希望让你看到的，不只是一个单词的中文释义，而是这个单词在这句话里，到底是什么意思。 让你真正理解原文，而不是机械地记住一个词义。 ◆ 我们希望有一天，你不再需要渐进阅读 这是一个有点特别的产品目标。 我们并不希望你永远依赖这个 App。 相反，我们希望你用得越来越少。 第一次读英文原著，你可能需要大量预习。 读完一本、两本、五本…… 你会发现，越来越多的单词已经认识，曾经需要查词典的地方，现在可以直接读懂。 最终，你可以像阅读中文书一样，拿起一本英文原著直接阅读。 到了那一天，你就毕业了。 而渐进阅读，也完成了它的使命。 ◆ 从一本完全读不懂的英文书开始 先预习单词，再阅读原文。 让需要查的词越来越少。 直到有一天，你可以独立阅读英文原著。 渐进阅读，陪伴你的英语阅读之路，直到你不再需要它。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/1e/14/e31e149e-00ce-fe7d-fa0c-a776484f8b3d/expo-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/1e/14/e31e149e-00ce-fe7d-fa0c-a776484f8b3d/expo-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "诺 李",
     "artistName": "诺 李",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/53/f5/c9/53f5c9ae-b1df-6b7e-af4b-15dba359a3e2/352c9562-3c02-48dc-9b37-6dd89eac51e5_iPhone_8_Plus_1_booktab_framed.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/93/e9/7a/93e97a91-3d69-402f-0009-9719b7b305ae/2ee4a631-0ee5-44a6-866c-fd554e0b45ed_iPhone_8_Plus_2_readword_framed.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e1/7c/32/e17c3205-b5f1-beaa-bd12-abf13ffa01b3/90ba7d28-720c-4d4f-bbd6-0e1e8d719b3a_iPhone_8_Plus_3_readhtml_framed.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/51/35/c5/5135c5b2-771d-6d5f-7c14-a9d4a05ca2ff/f026e4d1-5f56-4d0d-a29b-0c46e56763ac_iPhone_8_Plus_4_import_framed.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c0/ef/1d/c0ef1d04-77ac-744d-6d70-d24494037494/5e14db9f-6dd5-4f03-be7c-f6e3ed39449a_iPhone_8_Plus_4_worddesc_framed.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/ca/57/50/ca5750da-6482-3503-a9e7-70bedece4736/ee098b59-ac77-458d-86cf-a51bbbfbde47_iPhone_8_Plus_5_ebooksite_framed.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/8e/22/55/8e225576-da07-19b8-db2e-79cd191adb90/1c6e665b-e011-4297-bba4-ee54fb532c27_iPhone_8_Plus_7_articlelist_framed.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/7e/c8/0b/7ec80b86-8121-a6a3-2300-4bc69746618e/6a338c66-ef3a-4344-8ea4-8c86a3b71520_iPhone_8_Plus_7_statistic_framed.png/392x696bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/4c/93/a14c9389-b650-357b-9b9e-7cdac3e6b8c7/zh-Hans_APP_IPHONE_67_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/5d/ef/0d5def3b-1509-da5f-ac9d-600495f83136/zh-Hans_APP_IPHONE_67_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/25/e8/5c25e895-02c2-a2ac-a438-f8892b433bd8/zh-Hans_APP_IPHONE_67_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/a4/53/f2a453bd-0fa2-1798-9970-8b38da5b3f13/zh-Hans_APP_IPHONE_67_4.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/39/37/7b/39377b8f-917d-a635-d9e7-1c721aaae9f9/5ad6aa94-6b94-4923-aeaa-fc9d6809c15b_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_1_booktab_framed.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e8/c6/8c/e8c68c18-ae70-d270-0215-053a658d5ab4/62cf4449-2434-41f1-8a52-b3a76b7bf9b7_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_2_readword_framed.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/40/c9/96/40c996ee-fbda-66ca-a2f6-6b3f2c509b85/fbf0dd7d-1f68-4dcf-8d62-4cc5d50a665c_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_3_readhtml_framed.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/2a/6b/37/2a6b37ce-5ffa-4738-6104-6afe814c0347/bca807f0-83bd-4088-ac09-d98e9dac9f3d_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_4_import_framed.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/60/52/ba/6052ba6d-7001-f528-fad5-80426e076108/ce452589-6802-4486-ae60-837698c62d58_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_4_worddesc_framed.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e2/1b/4f/e21b4f04-01e8-4724-fbf4-9a77e2782509/ff981c4d-5058-4593-8718-4138c6e1d882_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_5_ebooksite_framed.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/bd/a4/3e/bda43e9c-e7c0-60eb-3d54-b269d0e89618/eab5bdc2-3658-4a3b-b64b-bc21d30c76a4_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_7_articlelist_framed.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/b7/cf/cd/b7cfcdd9-c75d-5d46-9a62-63f45ef71c23/51a15b45-2de7-44dd-a1bd-3c18077e025a_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_7_statistic_framed.png/576x768bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f0/65/b2f065b2-b20b-9c2d-2e22-3512094ecddc/zh-Hans_APP_IPAD_PRO_3GEN_129_1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/3b/a2/a93ba2da-c7b0-7d2c-d721-6a611773a5ba/zh-Hans_APP_IPAD_PRO_3GEN_129_2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/86/19/a88619a4-28e5-4d01-c0ed-fafb47f3b2aa/zh-Hans_APP_IPAD_PRO_3GEN_129_3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/d5/6b/60d56b87-d8c0-decb-71e6-80a7c11c7f54/zh-Hans_APP_IPAD_PRO_3GEN_129_4.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1775355060012
   },
@@ -95566,8 +95556,8 @@
     "description": "Watch to 5K helps you build up to running 5K in just 9 weeks. It’s designed for absolute beginners and runs entirely on your Apple Watch, so you can leave your phone at home. The plan includes three runs per week with a rest day between, and a new schedule each week. By the end of the program, you’ll be able to run continuously for 30 minutes. BUILT FOR THE APPLE WATCH Runs independently without the need for your iPhone. Watch face complications are included allowing you to monitor your progress and quickly launch the app. PHONE COMPANION APP An iPhone companion app is included to allow you to track your progress. View a breakdown of your previous runs, including health data and run route. Achievements are awarded as you progress through the plan to celebrate milestones such as running continuously for 5 minutes or running for a certain distance. APPLE HEALTH INTEGRATION Sessions are stored in Apple Health and count towards your activity goals. Watch to 5K tracks your route, distance, calories, average speed and heart rate so you can easily track your progress. Supports outdoors or indoor runs. LISTEN TO YOUR MUSIC WHILE YOU RUN Works alongside your preferred music player or podcast watch app, automatically ‘dipping’ the volumes so you can hear the instructions and updates on your progress. Signals the halfway point, so you know when to head home! Easy to follow countdown timer that uses sounds and haptics, so you know how long you’ve got left of each run. GO AT YOUR OWN PACE Ability to repeat runs, allowing you to go at a pace that suits you. Start the plan from any week. Perfect if you are coming to Watch to 5K from a different plan/app. After completing the 5K plan, challenge yourself with the available 10K expansion plan. NO SUBSCRIPTION REQUIRED Watch to 5K is a one time purchase with no ongoing subscriptions. FEATURED ON TechRadar - Top Apple Watch app of 2024 * MacRumors - Apps to Check Out * Stuff.tv - 40 best Apple Watch apps * Coach - The Best Apple Watch Fitness apps * Wareable - The Best Apple Watch running apps * Watch to 5K integrates with Apple Health using HealthKit to store your run activity. If you have any questions, comments or ideas, you can get in touch at support@watchto5k.com",
     "fullDescription": "Watch to 5K helps you build up to running 5K in just 9 weeks. It’s designed for absolute beginners and runs entirely on your Apple Watch, so you can leave your phone at home. The plan includes three runs per week with a rest day between, and a new schedule each week. By the end of the program, you’ll be able to run continuously for 30 minutes. BUILT FOR THE APPLE WATCH Runs independently without the need for your iPhone. Watch face complications are included allowing you to monitor your progress and quickly launch the app. PHONE COMPANION APP An iPhone companion app is included to allow you to track your progress. View a breakdown of your previous runs, including health data and run route. Achievements are awarded as you progress through the plan to celebrate milestones such as running continuously for 5 minutes or running for a certain distance. APPLE HEALTH INTEGRATION Sessions are stored in Apple Health and count towards your activity goals. Watch to 5K tracks your route, distance, calories, average speed and heart rate so you can easily track your progress. Supports outdoors or indoor runs. LISTEN TO YOUR MUSIC WHILE YOU RUN Works alongside your preferred music player or podcast watch app, automatically ‘dipping’ the volumes so you can hear the instructions and updates on your progress. Signals the halfway point, so you know when to head home! Easy to follow countdown timer that uses sounds and haptics, so you know how long you’ve got left of each run. GO AT YOUR OWN PACE Ability to repeat runs, allowing you to go at a pace that suits you. Start the plan from any week. Perfect if you are coming to Watch to 5K from a different plan/app. After completing the 5K plan, challenge yourself with the available 10K expansion plan. NO SUBSCRIPTION REQUIRED Watch to 5K is a one time purchase with no ongoing subscriptions. FEATURED ON TechRadar - Top Apple Watch app of 2024 * MacRumors - Apps to Check Out * Stuff.tv - 40 best Apple Watch apps * Coach - The Best Apple Watch Fitness apps * Wareable - The Best Apple Watch running apps * Watch to 5K integrates with Apple Health using HealthKit to store your run activity. If you have any questions, comments or ideas, you can get in touch at support@watchto5k.com",
     "summaryDescription": "Watch to 5K helps you build up to running 5K in just 9 weeks. It’s designed for absolute beginners and runs entirely on your Apple Watch, so you can leave your phone at home. The plan includes three runs per week with a rest day between, and a new schedule each week. By the end of the program, you’ll be able to run continuously for 30 minutes. BUILT FOR THE APPLE WATCH Runs independently without the need for your iPhone. Watch face complications are included allowing you to monitor your progress and quickly launch the app. PHONE COMPANION APP An iPhone companion app is included to allow you to track your progress. View a breakdown of your previous runs, including health data and run route. Achievements are awarded as you progress through the plan to celebrate milestones such as running continuously for 5 minutes or running for a certain distance. APPLE HEALTH INTEGRATION Sessions are stored in Apple Health and count towards your activity goals. Watch to 5K tracks your route, distance, calories, average speed and heart rate so you can easily track your progress. Supports outdoors or indoor runs. LISTEN TO YOUR MUSIC WHILE YOU RUN Works alongside your preferred music player or podcast watch app, automatically ‘dipping’ the volumes so you can hear the instructions and updates on your progress. Signals the halfway point, so you know when to head home! Easy to follow countdown timer that uses sounds and haptics, so you know how long you’ve got left of each run. GO AT YOUR OWN PACE Ability to repeat runs, allowing you to go at a pace that suits you. Start the plan from any week. Perfect if you are coming to Watch to 5K from a different plan/app. After completing the 5K plan, challenge yourself with the available 10K expansion plan. NO SUBSCRIPTION REQUIRED Watch to 5K is a one time purchase with no ongoing subscriptions. FEATURED ON TechRadar - Top Apple Watch app of 2024 * MacRumors - Apps to Check Out * Stuff.tv - 40 best Apple Watch apps * Coach - The Best Apple Watch Fitness apps * Wareable - The Best Apple Watch running apps * Watch to 5K integrates with Apple Health using HealthKit to store your run activity. If you have any questions, comments or ideas, you can get in touch at support@watchto5k.com",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/ab/36/3fab3671-fa2c-dc5e-7aef-201023a083fc/AppIcon-White-0-0-1x_U007ephone-0-1-0-P3-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/ab/36/3fab3671-fa2c-dc5e-7aef-201023a083fc/AppIcon-White-0-0-1x_U007ephone-0-1-0-P3-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/d4/c9/1fd4c96b-40ec-e324-7c25-0bd25ab0507d/AppIcon-White-0-0-1x_U007ephone-0-1-0-P3-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/d4/c9/1fd4c96b-40ec-e324-7c25-0bd25ab0507d/AppIcon-White-0-0-1x_U007ephone-0-1-0-P3-85-220.png/100x100bb.jpg",
     "sellerName": "Spaceman Digital Ltd",
     "artistName": "Spaceman Digital Ltd",
     "screenshotUrls": [
@@ -124565,6 +124555,49 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1a/d8/c6/1ad8c6a1-dddd-0035-fe66-8413ae3701fa/def28771-3ca2-40c5-9d6f-7ef0ac5d613d__Uc911_Uad6d_Uc5b47_2_Uc138_Ub300_20482732__U2013_1.png/576x768bb.png"
     ]
   },
+  "1550734959": {
+    "name": "Coffee Lover - café assistant",
+    "trackName": "Coffee Lover - café assistant",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789251834039,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/coffee-lover-caf%C3%A9-assistant/id1550734959?uo=4",
+    "description": "If you ever had a problem when ordering the coffee in the coffeehouse and you didn't know what is hidden under this particular name, we have the solution! In our app, you can check 39 coffees from all around the world - ingredients, origin country, and a short description. We will continue adding more and more. If you want this app to be translated to your native language, you can contribute at http://powsty.oneskyapp.com/collaboration/project?id=175998",
+    "fullDescription": "If you ever had a problem when ordering the coffee in the coffeehouse and you didn't know what is hidden under this particular name, we have the solution! In our app, you can check 39 coffees from all around the world - ingredients, origin country, and a short description. We will continue adding more and more. If you want this app to be translated to your native language, you can contribute at http://powsty.oneskyapp.com/collaboration/project?id=175998",
+    "summaryDescription": "If you ever had a problem when ordering the coffee in the coffeehouse and you didn't know what is hidden under this particular name, we have the solution! In our app, you can check 39 coffees from all around the world - ingredients, origin country, and a short description. We will continue adding more and more. If you want this app to be translated to your native language, you can contribute at http://powsty.oneskyapp.com/collaboration/project?id=175998",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/25/ea/e825ea79-3777-c7df-7be6-cf991cbd6e1f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-GLES2_U002c0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/25/ea/e825ea79-3777-c7df-7be6-cf991cbd6e1f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-GLES2_U002c0-85-220.png/100x100bb.jpg",
+    "sellerName": "Wojciech Walczyszyn",
+    "artistName": "Wojciech Walczyszyn",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a2/28/50/a2285091-becf-5313-1534-3e8c1b16a31c/6fedce77-917f-4d3c-b62e-5c0ec8cc83a7_Apple_iPhone_8_Plus_Screenshot_0.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/52/0c/98/520c98a1-62f2-83e8-4721-25d3fda8de9c/e9545d6e-dbd9-468d-a838-b1f2d90b874b_Apple_iPhone_8_Plus_Screenshot_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c3/b4/18/c3b41884-7c59-dc39-9c14-39fe415ef9d9/7490771d-871b-4859-beac-0f45fdbc8857_Apple_iPhone_8_Plus_Screenshot_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/ab/bb/53/abbb536a-f010-ca61-9a6c-bc122f8989d8/f2782486-87da-4591-b367-e77424f012c0_Apple_iPhone_8_Plus_Screenshot_3.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2b/9d/2d/2b9d2d15-a603-469d-da52-630960aa47ad/e86d0e8d-3e7b-45bf-a626-f2576fee0b6b_Apple_iPad_Pro_13_Inch_Screenshot_0.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/87/76/73/877673fd-4734-9ef2-1cb8-de7cd11b672b/8387d05c-adbe-4f52-b922-b8ba077da682_Apple_iPad_Pro_13_Inch_Screenshot_1.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c7/ac/39/c7ac39d3-5976-e4c7-ca37-687fb6471224/f73870e8-23e4-4aae-898d-f9fe46fccd5d_Apple_iPad_Pro_13_Inch_Screenshot_2.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/ea/3e/32/ea3e322c-91e6-40cd-71b9-b083a598c5d3/3741cba1-ec38-4e7f-a7ed-18ad06f75fe7_Apple_iPad_Pro_13_Inch_Screenshot_3.png/576x768bb.png"
+    ],
+    "_externalSourceFirstSeen": 1789251811838
+  },
   "1550780323": {
     "name": "电力烟花",
     "trackName": "电力烟花",
@@ -148892,8 +148925,8 @@
     "_externalSourceFirstSeen": 1786825219165
   },
   "1579424168": {
-    "name": "昆虫记大全",
-    "trackName": "昆虫记大全",
+    "name": "菜鸟教程-Python速成昆虫记大全",
+    "trackName": "菜鸟教程-Python速成昆虫记大全",
     "maxPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00"
@@ -148912,12 +148945,12 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%98%86%E8%99%AB%E8%AE%B0%E5%A4%A7%E5%85%A8/id1579424168?uo=4",
-    "description": "《昆虫记》是法国昆虫学家、文学家让-亨利·卡西米尔·法布尔创作的长篇生物学著作，共十卷。1879年第一卷首次出版，1907年全书首次出版。1911年，法布尔因此书而被法国文学界推荐为诺贝尔文学奖候选人。此后《昆虫记》一版再版，《昆虫记》被选为中国人教版初一下学期学生必读课外书目。",
-    "fullDescription": "《昆虫记》是法国昆虫学家、文学家让-亨利·卡西米尔·法布尔创作的长篇生物学著作，共十卷。1879年第一卷首次出版，1907年全书首次出版。1911年，法布尔因此书而被法国文学界推荐为诺贝尔文学奖候选人。此后《昆虫记》一版再版，《昆虫记》被选为中国人教版初一下学期学生必读课外书目。",
-    "summaryDescription": "《昆虫记》是法国昆虫学家、文学家让-亨利·卡西米尔·法布尔创作的长篇生物学著作，共十卷。1879年第一卷首次出版，1907年全书首次出版。1911年，法布尔因此书而被法国文学界推荐为诺贝尔文学奖候选人。此后《昆虫记》一版再版，《昆虫记》被选为中国人教版初一下学期学生必读课外书目。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f4/fc/42f4fc7d-397b-526c-f3cf-d1f9cd43bab9/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f4/fc/42f4fc7d-397b-526c-f3cf-d1f9cd43bab9/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.jpg",
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B-python%E9%80%9F%E6%88%90%E6%98%86%E8%99%AB%E8%AE%B0%E5%A4%A7%E5%85%A8/id1579424168?uo=4",
+    "description": "《昆虫记》是法国昆虫学家、文学家让-亨利·卡西米尔·法布尔创作的长篇生物学著作，共十卷。1879年第一卷首次出版，1907年全书首次出版。1911年，法布尔因此书而被法国文学界推荐为诺贝尔文学奖候选人。此后《昆虫记》一版再版，《昆虫记》被选为中国人教版初一下学期学生必读课外书目。 昆虫记大全，初一必读课外名著。完整原著阅读搭配有声听书，包含章节解析读后感素材，方便学生课外学习与考前复习。 完整版（主体详情） 昆虫记大全，初中语文指定必读课外书目。 还在为阅读名著找不到完整文本发愁。 孩子读书时间有限，没有时间翻看纸质书籍。 写读后感没有参考素材，不知道如何梳理名著考点。 昆虫记大全专为中小学生打造，收录法布尔昆虫记完整原著，满足课内外阅读需求，利用碎片时间完成整本书阅读。 核心功能 原著全文阅读 完整收录昆虫记全部章节，排版清晰舒适，手机平板都可以流畅阅读，随时随地翻开就读。 有声听书模式 支持听书播放，走路通勤休息的时候也可以学习，解放双眼，多场景完成名著阅读。 章节内容划分 按照原著章节整理目录，定位阅读进度，想读哪一章直接跳转，方便分段完成阅读任务。 读后感参考素材 整理多篇昆虫记读后感范文，帮助学生打开写作思路，积累写作素材，解决读后感写作难题。 适合人群 初中初一初二学生，完成语文课外必读任务。 家长，给孩子准备便捷的名著阅读工具。 想要了解昆虫记科普故事的文学爱好者。 读昆虫记，感受法布尔笔下奇妙的昆虫世界，积累文学知识，助力语文学习。",
+    "fullDescription": "《昆虫记》是法国昆虫学家、文学家让-亨利·卡西米尔·法布尔创作的长篇生物学著作，共十卷。1879年第一卷首次出版，1907年全书首次出版。1911年，法布尔因此书而被法国文学界推荐为诺贝尔文学奖候选人。此后《昆虫记》一版再版，《昆虫记》被选为中国人教版初一下学期学生必读课外书目。 昆虫记大全，初一必读课外名著。完整原著阅读搭配有声听书，包含章节解析读后感素材，方便学生课外学习与考前复习。 完整版（主体详情） 昆虫记大全，初中语文指定必读课外书目。 还在为阅读名著找不到完整文本发愁。 孩子读书时间有限，没有时间翻看纸质书籍。 写读后感没有参考素材，不知道如何梳理名著考点。 昆虫记大全专为中小学生打造，收录法布尔昆虫记完整原著，满足课内外阅读需求，利用碎片时间完成整本书阅读。 核心功能 原著全文阅读 完整收录昆虫记全部章节，排版清晰舒适，手机平板都可以流畅阅读，随时随地翻开就读。 有声听书模式 支持听书播放，走路通勤休息的时候也可以学习，解放双眼，多场景完成名著阅读。 章节内容划分 按照原著章节整理目录，定位阅读进度，想读哪一章直接跳转，方便分段完成阅读任务。 读后感参考素材 整理多篇昆虫记读后感范文，帮助学生打开写作思路，积累写作素材，解决读后感写作难题。 适合人群 初中初一初二学生，完成语文课外必读任务。 家长，给孩子准备便捷的名著阅读工具。 想要了解昆虫记科普故事的文学爱好者。 读昆虫记，感受法布尔笔下奇妙的昆虫世界，积累文学知识，助力语文学习。",
+    "summaryDescription": "《昆虫记》是法国昆虫学家、文学家让-亨利·卡西米尔·法布尔创作的长篇生物学著作，共十卷。1879年第一卷首次出版，1907年全书首次出版。1911年，法布尔因此书而被法国文学界推荐为诺贝尔文学奖候选人。此后《昆虫记》一版再版，《昆虫记》被选为中国人教版初一下学期学生必读课外书目。 昆虫记大全，初一必读课外名著。完整原著阅读搭配有声听书，包含章节解析读后感素材，方便学生课外学习与考前复习。 完整版（主体详情） 昆虫记大全，初中语文指定必读课外书目。 还在为阅读名著找不到完整文本发愁。 孩子读书时间有限，没有时间翻看纸质书籍。 写读后感没有参考素材，不知道如何梳理名著考点。 昆虫记大全专为中小学生打造，收录法布尔昆虫记完整原著，满足课内外阅读需求，利用碎片时间完成整本书阅读。 核心功能 原著全文阅读 完整收录昆虫记全部章节，排版清晰舒适，手机平板都可以流畅阅读，随时随地翻开就读。 有声听书模式 支持听书播放，走路通勤休息的时候也可以学习，解放双眼，多场景完成名著阅读。 章节内容划分 按照原著章节整理目录，定位阅读进度，想读哪一章直接跳转，方便分段完成阅读任务。 读后感参考素材 整理多篇昆虫记读后感范文，帮助学生打开写作思路，积累写作素材，解决读后感写作难题。 适合人群 初中初一初二学生，完成语文课外必读任务。 家长，给孩子准备便捷的名著阅读工具。 想要了解昆虫记科普故事的文学爱好者。 读昆虫记，感受法布尔笔下奇妙的昆虫世界，积累文学知识，助力语文学习。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/1c/da/271cdaee-630c-6660-db71-349fb2f8f334/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/1c/da/271cdaee-630c-6660-db71-349fb2f8f334/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.jpg",
     "sellerName": "强 马",
     "artistName": "强 马",
     "screenshotUrls": [
@@ -208749,357 +208782,6 @@
           }
         }
       ]
-    ]
-  },
-  "6446614518": {
-    "name": "画中世界",
-    "trackName": "画中世界",
-    "maxPriceInfo": {
-      "price": 20,
-      "formattedPrice": "¥20.00"
-    },
-    "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1783693075085,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1781801751711,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1778162547825,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1776959501234,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1774622870678,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1773931532520,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1772125593157,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1770916023652,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1767717517530,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1766075949549,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1763051577831,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1761833521805,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1759932751693,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1758723020554,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1754662568344,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1753971333008,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1752156813775,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1750860787382,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1749218549598,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1748613743995,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1747231355788,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1746021743211,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1744293741935,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1743688946609,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1742565733524,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1741874540650,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1738681341798,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1737298935742,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1735830146109,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1734620559485,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1733410955241,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1732719744176,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1730991747140,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1730383341908,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1728309727446,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1727704942389,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1726668141596,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1726149740732,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1721960142187,
-          "price": 20,
-          "formattedPrice": "¥20.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E7%94%BB%E4%B8%AD%E4%B8%96%E7%95%8C/id6446614518?uo=4",
-    "description": "某一日，你看向窗外，一只五彩巨兽的无意经过，却让你决心追逐，付出一生... 利用图画的远近切换与交错连结，实现超越时间与空间的图像拼接 曾惊艳世人、获奖无数的解谜游戏神作 —— 《画中世界》终于来了！ 【解谜历史上绕不开的神作！教科书级的独立解谜游戏】 脑洞大开的谜题，天马行空的解法；游戏里，你将扮演一个追寻神兽的少年，通过堆叠、组合、探索每一张图画，开启新的世界。 【游戏大奖收割机，Steam 97% 好评如潮！】 数不清的奖项荣誉！2017年BAFTA最佳出道作品；2017年IGN最佳移动游戏、最佳解谜游戏、最具创新作品；2017年GDC最佳移动游戏；Polygon年度50佳游戏…斩获多个游戏届大奖，最不缺的就是口碑！ 【“第九艺术典范”，被包装成游戏的艺术品】 美到窒息的插画，每一幅都是开发者用心手绘；精妙的叙事和谜题，只花了游戏的钱结果买到了真正的艺术品！ 【游戏特色】 天马行空的解谜玩法，在图片的拼接重组间展开别样的奇遇 精美生动的手绘插画，独具特色的艺术风格 融入图画的故事叙述，一个少年穷尽一生的动人故事 【移动版优化】 特别增加竖屏支持，满足更多场景需求 新增界面调节功能，点击放大特定板块 布局优化，贴合不同尺寸的移动设备 【媒体评价】 「一款让人惊讶，美丽到令人窒息的游戏。」 —— PC Gamer 「有史以来最漂亮的手绘与插画电子游戏。」 —— Ars Technica 「每个解谜游戏玩家都不能错过。」 —— IGN 入股不亏的解谜神作，欢迎大家加入玩家讨论群：713976038 交流讨论，获取游戏的最新动态和福利哦~",
-    "fullDescription": "某一日，你看向窗外，一只五彩巨兽的无意经过，却让你决心追逐，付出一生... 利用图画的远近切换与交错连结，实现超越时间与空间的图像拼接 曾惊艳世人、获奖无数的解谜游戏神作 —— 《画中世界》终于来了！ 【解谜历史上绕不开的神作！教科书级的独立解谜游戏】 脑洞大开的谜题，天马行空的解法；游戏里，你将扮演一个追寻神兽的少年，通过堆叠、组合、探索每一张图画，开启新的世界。 【游戏大奖收割机，Steam 97% 好评如潮！】 数不清的奖项荣誉！2017年BAFTA最佳出道作品；2017年IGN最佳移动游戏、最佳解谜游戏、最具创新作品；2017年GDC最佳移动游戏；Polygon年度50佳游戏…斩获多个游戏届大奖，最不缺的就是口碑！ 【“第九艺术典范”，被包装成游戏的艺术品】 美到窒息的插画，每一幅都是开发者用心手绘；精妙的叙事和谜题，只花了游戏的钱结果买到了真正的艺术品！ 【游戏特色】 天马行空的解谜玩法，在图片的拼接重组间展开别样的奇遇 精美生动的手绘插画，独具特色的艺术风格 融入图画的故事叙述，一个少年穷尽一生的动人故事 【移动版优化】 特别增加竖屏支持，满足更多场景需求 新增界面调节功能，点击放大特定板块 布局优化，贴合不同尺寸的移动设备 【媒体评价】 「一款让人惊讶，美丽到令人窒息的游戏。」 —— PC Gamer 「有史以来最漂亮的手绘与插画电子游戏。」 —— Ars Technica 「每个解谜游戏玩家都不能错过。」 —— IGN 入股不亏的解谜神作，欢迎大家加入玩家讨论群：713976038 交流讨论，获取游戏的最新动态和福利哦~",
-    "summaryDescription": "某一日，你看向窗外，一只五彩巨兽的无意经过，却让你决心追逐，付出一生... 利用图画的远近切换与交错连结，实现超越时间与空间的图像拼接 曾惊艳世人、获奖无数的解谜游戏神作 —— 《画中世界》终于来了！ 【解谜历史上绕不开的神作！教科书级的独立解谜游戏】 脑洞大开的谜题，天马行空的解法；游戏里，你将扮演一个追寻神兽的少年，通过堆叠、组合、探索每一张图画，开启新的世界。 【游戏大奖收割机，Steam 97% 好评如潮！】 数不清的奖项荣誉！2017年BAFTA最佳出道作品；2017年IGN最佳移动游戏、最佳解谜游戏、最具创新作品；2017年GDC最佳移动游戏；Polygon年度50佳游戏…斩获多个游戏届大奖，最不缺的就是口碑！ 【“第九艺术典范”，被包装成游戏的艺术品】 美到窒息的插画，每一幅都是开发者用心手绘；精妙的叙事和谜题，只花了游戏的钱结果买到了真正的艺术品！ 【游戏特色】 天马行空的解谜玩法，在图片的拼接重组间展开别样的奇遇 精美生动的手绘插画，独具特色的艺术风格 融入图画的故事叙述，一个少年穷尽一生的动人故事 【移动版优化】 特别增加竖屏支持，满足更多场景需求 新增界面调节功能，点击放大特定板块 布局优化，贴合不同尺寸的移动设备 【媒体评价】 「一款让人惊讶，美丽到令人窒息的游戏。」 —— PC Gamer 「有史以来最漂亮的手绘与插画电子游戏。」 —— Ars Technica 「每个解谜游戏玩家都不能错过。」 —— IGN 入股不亏的解谜神作，欢迎大家加入玩家讨论群：713976038 交流讨论，获取游戏的最新动态和福利哦~",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/e4/eb/67e4eb6d-b72c-84dd-a301-3e7c71185679/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/e4/eb/67e4eb6d-b72c-84dd-a301-3e7c71185679/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-    "sellerName": "X.D. Network Inc.",
-    "artistName": "X.D. Network Inc.",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/85/03/33850347-c336-800d-0f0d-ebe194d7c7ea/b4e9c3fb-e5d7-40ef-9c7c-7bee35270e8d_Gorogoa-02_iPhone.png/406x228bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b4/47/7a/b4477a08-ec65-7591-9441-813694735dbd/cd04b471-fe83-4d2d-839e-ee40f2dbdcc8_Gorogoa-07_iPhone.png/406x228bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1a/f3/85/1af3855e-2985-3770-8e56-185620bc48cd/c8c212f3-5df1-4ee6-b3b3-efbb43399cff_Gorogoa-09_iPhone.png/406x228bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/62/d6/5962d650-c2ec-69d5-7641-9ae45711f634/9f8bb5f9-2eec-4d89-b566-b3e1a07994ac_Gorogoa-11_iPhone.png/406x228bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/6c/e3/de6ce371-d0a0-5b4c-658b-4f7ce02b81bf/91b61d7c-a52b-4b4b-8859-734803bc6433_Gorogoa-05-iPhone.png/406x228bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/be/9c/a1be9ce9-9579-1796-1c1f-342372236465/cc515b93-d0ce-470d-a88d-0709937296b7_Gorogoa-06-iPhone.png/406x228bb.png"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6d/4c/01/6d4c0168-2890-724a-7b62-8b470da95690/d1a1e490-d2d1-4e90-9f62-e9d3301109a5_Gorogoa-02_iPad.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a1/d5/d9/a1d5d9ad-0af0-a7ca-634a-aabf3a780b89/9eff8a3a-6b03-463c-a03a-4a119bdc2e28_Gorogoa-04_iPad.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/73/4b/69734bbc-983e-a90e-9a05-44bc31e0f4a2/da3002a9-fc66-48f8-90f9-2dfd7240c799_Gorogoa-05_iPad.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/f9/4c/cbf94c42-9950-e74c-c22d-7cdfc40b4e13/f2fada83-57be-4f77-8a3a-201219f6506b_Gorogoa-06_iPad.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/59/62/5d/59625d03-b459-a0af-065e-0b02cc227134/54994fd5-f011-4a07-9868-c718d877d810_Gorogoa-07_iPad.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3f/02/be/3f02beb0-f7dd-31bd-5b18-7daacdce4207/83f1dca2-3ad1-4715-8f09-5136d762abb7_Gorogoa-11_iPad.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/b3/a8/a1b3a8dc-3e2d-e3d9-5f48-c3f0af6f9e48/2ca70914-cb59-4cd6-b79e-47b01a2dc0e6_Gorogoa-12b_iPad.png/552x414bb.png"
     ]
   }
 }

@@ -2,6 +2,72 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1550734959,
+      "name": {
+        "cn": "Coffee Lover - café assistant"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789251811838,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810335156,
+      "name": {
+        "cn": "争分夺秒TodoList"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789251798248,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810067603,
+      "name": {
+        "cn": "葵葵补光灯"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789251798147,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804364541,
+      "name": {
+        "cn": "현상소 - 올드폰 디카 감성 카메라"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789251798147,
+      "_discountType": "app"
+    },
+    {
+      "id": 6738023813,
+      "name": {
+        "cn": "Punch Logger"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789251803622,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801857082,
+      "name": {
+        "cn": "存迹"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789251806258,
+      "_discountType": "app"
+    },
+    {
       "id": 318298330,
       "name": {
         "cn": "学习 拉丁美洲西班牙语 - EuroTalk"
