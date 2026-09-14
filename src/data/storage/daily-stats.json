@@ -1,5 +1,81 @@
 [
   {
+    "timestamp": 1789369939141,
+    "cn": {
+      "total": 11,
+      "price": 7,
+      "iap": 4,
+      "apps": [
+        {
+          "id": 6811020707,
+          "name": "DayTag - 极简生活标签与习惯记录",
+          "type": "price",
+          "detail": "¥3.00 → ¥1.00"
+        },
+        {
+          "id": 6806892588,
+          "name": "Period Tracker & Pregnancy App",
+          "type": "iap",
+          "detail": "Lifetime: ¥598.00 → ¥88.00"
+        },
+        {
+          "id": 6756336898,
+          "name": "三国英雄传奇-开局千抽自选SSR",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6788974302,
+          "name": "芒果加密-私人视频加密",
+          "type": "price",
+          "detail": "¥12.00 → ¥6.00"
+        },
+        {
+          "id": 6793336267,
+          "name": "Burner Mail: 临时邮箱助手",
+          "type": "iap",
+          "detail": "Lifetime: ¥328.00 → ¥88.00"
+        },
+        {
+          "id": 6788200034,
+          "name": "Itemia: 家庭物品收纳管理与箱子清单",
+          "type": "iap",
+          "detail": "Lifetime: ¥398.00 → ¥88.00"
+        },
+        {
+          "id": 6499437694,
+          "name": "Minigoal - 2026必备效率工具",
+          "type": "iap",
+          "detail": "永久会员: ¥68.00 → ¥38.00"
+        },
+        {
+          "id": 6783653484,
+          "name": "英雄战令-超强武将全新水墨三国卡牌",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6760351903,
+          "name": "MediaUtility",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6759942571,
+          "name": "百炼仙途-高爆率仙侠大世界渡劫飞升手游",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6758034339,
+          "name": "召唤三国:梦起江山",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789352158877,
     "cn": {
       "total": 2,
@@ -2991,130 +3067,6 @@
           "name": "Topo Maps & Trails Offline",
           "type": "iap",
           "detail": "Topo Maps Pro: ¥68.00 → ¥22.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788504564845,
-    "cn": {
-      "total": 19,
-      "price": 16,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6790637806,
-          "name": "Orbit（轨迹）",
-          "type": "iap",
-          "detail": "Orbit Pro 永久版: ¥298.00 → ¥0.00"
-        },
-        {
-          "id": 6788569032,
-          "name": "FaceIdent: AI照片相册",
-          "type": "iap",
-          "detail": "FaceIdent Pro Lifetime: ¥148.00 → ¥68.00"
-        },
-        {
-          "id": 1438199765,
-          "name": "Watchee",
-          "type": "price",
-          "detail": "¥38.00 → ¥22.00"
-        },
-        {
-          "id": 1619441235,
-          "name": "Steel Guitar PRO",
-          "type": "price",
-          "detail": "¥68.00 → ¥28.00"
-        },
-        {
-          "id": 6483687406,
-          "name": "KingB Organ",
-          "type": "price",
-          "detail": "¥168.00 → ¥68.00"
-        },
-        {
-          "id": 6771007097,
-          "name": "耳记—本地音频播放器",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 1644005057,
-          "name": "TROOPER Synthesizer",
-          "type": "price",
-          "detail": "¥98.00 → ¥38.00"
-        },
-        {
-          "id": 1529842791,
-          "name": "ToneStack PRO Guitar Amps & FX",
-          "type": "price",
-          "detail": "¥68.00 → ¥28.00"
-        },
-        {
-          "id": 1529842791,
-          "name": "ToneStack PRO Guitar Amps & FX",
-          "type": "iap",
-          "detail": "Pot o’ Gold: ¥398.00 → ¥168.00"
-        },
-        {
-          "id": 1169525771,
-          "name": "JPEG Jackal Lite",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6787014012,
-          "name": "PrepBatch: Bulk Image Tools",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6744582695,
-          "name": "Breathe Relief",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6796996962,
-          "name": "Pix World",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6775304785,
-          "name": "MyPlaces - Save & Organize",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6789805312,
-          "name": "ScanKit: Document Scanner",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6760205374,
-          "name": "Debra's Kitchen",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6760863263,
-          "name": "Habit Tracker Daily Routine+",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6796784687,
-          "name": "US Debt & World - EconoLive",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6807021022,
-          "name": "Turnos Shift Rotation Calendar",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
