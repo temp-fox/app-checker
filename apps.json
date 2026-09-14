@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 849056209,
+      "name": {
+        "cn": "Tzolk'in Maya"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789344991874,
+      "_discountType": "app"
+    },
+    {
       "id": 358733250,
       "name": {
         "cn": "Ear Trainer"
