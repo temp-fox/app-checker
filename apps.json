@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6802913361,
+      "name": {
+        "cn": "极简阅读量"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789414051110,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772214964,
+      "name": {
+        "cn": "照片搬家 — 超好用的照片迁移工具"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789414051110,
+      "_discountType": "app"
+    },
+    {
       "id": 1135218256,
       "name": {
         "cn": "Focus - Highlight front window"
@@ -1910,7 +1932,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1789025027299,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 1451570646,
@@ -30793,8 +30816,8 @@
       "name": {
         "cn": "Photo Exif Maker"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1783823342828,
