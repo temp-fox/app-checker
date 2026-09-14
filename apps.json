@@ -2,6 +2,282 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1135218256,
+      "name": {
+        "cn": "Focus - Highlight front window"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
+      "id": 1394039767,
+      "name": {
+        "cn": "Office Viewer for Safari"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
+      "id": 1397180934,
+      "name": {
+        "cn": "Dark Mode for Safari"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
+      "id": 1439667592,
+      "name": {
+        "cn": "爱庄子 - 庄子中英对照学习伴侣"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789390639184,
+      "_discountType": "app"
+    },
+    {
+      "id": 1445040281,
+      "name": {
+        "cn": "Translate for Safari"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780635611,
+      "name": {
+        "cn": "收料验收单-材料签收台账2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789390625559,
+      "_discountType": "app"
+    },
+    {
+      "id": 6769769359,
+      "name": {
+        "cn": "日月时间-观日月 知天时"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789390625569,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761933635,
+      "name": {
+        "cn": "Niraqua DjVu"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789390630940,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760112011,
+      "name": {
+        "cn": "ShareSafeWatermark（安全水印）"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789390631079,
+      "_discountType": "app"
+    },
+    {
+      "id": 6739579778,
+      "name": {
+        "cn": "魔力空间 Mooly - AI日记·目标管理·个人成长助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789390636659,
+      "_discountType": "app"
+    },
+    {
+      "id": 6778729860,
+      "name": {
+        "cn": "小钱仓"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789390639397,
+      "_discountType": "app"
+    },
+    {
+      "id": 6473090492,
+      "name": {
+        "cn": "sim2pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789390639184,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763426211,
+      "name": {
+        "cn": "FrameFuse长图拼接神器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6764061994,
+      "name": {
+        "cn": "小决定-聚会转盘帮你快速打破选择困难让每次决定都更有期待感"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6756235507,
+      "name": {
+        "cn": "JLIO: Ask, Share & Chat"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6762179530,
+      "name": {
+        "cn": "Loppo: Dual Camera Recorder"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6805366897,
+      "name": {
+        "cn": "力健身-LiftForge"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
+      "id": 6745005691,
+      "name": {
+        "cn": "提词大师-极简提词器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767709887,
+      "name": {
+        "cn": "华氏 摄氏 Dual Degree"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
+      "id": 6791566610,
+      "name": {
+        "cn": "Creative Canvas: Draw & Paint"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
+      "id": 6805509975,
+      "name": {
+        "cn": "Velo Workspaces"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
+      "id": 6446651812,
+      "name": {
+        "cn": "Sleevi"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
+      "id": 6451102287,
+      "name": {
+        "cn": "Orange and Teal, Preset Camera"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
+      "id": 6764038610,
+      "name": {
+        "cn": "Pocket Delver"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789390700581,
+      "_discountType": "app"
+    },
+    {
       "id": 849056209,
       "name": {
         "cn": "Tzolk'in Maya"
