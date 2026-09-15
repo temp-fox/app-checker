@@ -2,6 +2,72 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 381127666,
+      "name": {
+        "cn": "Reactable mobile"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789427528998,
+      "_discountType": "app"
+    },
+    {
+      "id": 394760437,
+      "name": {
+        "cn": "Scar Booth"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789427534839,
+      "_discountType": "app"
+    },
+    {
+      "id": 1460677822,
+      "name": {
+        "cn": "London Tour Map of Banksy"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789427522425,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789597367,
+      "name": {
+        "cn": "陽春鎖 PlainLock"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789427526326,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785749515,
+      "name": {
+        "cn": "人生清单与目标 : KICK"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789427526326,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758885071,
+      "name": {
+        "cn": "上坟"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789427531997,
+      "_discountType": "app"
+    },
+    {
       "id": 6802913361,
       "name": {
         "cn": "极简阅读量"
@@ -44850,8 +44916,8 @@
       "name": {
         "cn": "冥想 FM -睡眠和放松电台"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1781424878515,
