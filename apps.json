@@ -2,6 +2,263 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 312811399,
+      "name": {
+        "cn": "Moon Lunation"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789448436925,
+      "_discountType": "app"
+    },
+    {
+      "id": 459097411,
+      "name": {
+        "cn": "Stark Suspension"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789448447916,
+      "_discountType": "app"
+    },
+    {
+      "id": 957061844,
+      "name": {
+        "cn": "Night Camera: Low Light FX Cam"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494238,
+      "_discountType": "iap"
+    },
+    {
+      "id": 1466277089,
+      "name": {
+        "cn": "Times Tables Challenge - Quiz!"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494239,
+      "_discountType": "iap"
+    },
+    {
+      "id": 1527928239,
+      "name": {
+        "cn": "Memorization Made Easy"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494239,
+      "_discountType": "app"
+    },
+    {
+      "id": 1596392275,
+      "name": {
+        "cn": "Mark Your Parking Spot"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494239,
+      "_discountType": "app"
+    },
+    {
+      "id": 1621181726,
+      "name": {
+        "cn": "GPS Travel Journal"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494239,
+      "_discountType": "app"
+    },
+    {
+      "id": 6740665007,
+      "name": {
+        "cn": "颜色标记 Safari版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789448436645,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799056766,
+      "name": {
+        "cn": "中药方剂速查大全-中医方剂中草药识别软件"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789448442223,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795929119,
+      "name": {
+        "cn": "ImgMark"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789448442462,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809390560,
+      "name": {
+        "cn": "日常脑运动"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789448447916,
+      "_discountType": "app"
+    },
+    {
+      "id": 6806905350,
+      "name": {
+        "cn": "听力自测 - 测听力·听力图·耳朵自查"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789448453133,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809701303,
+      "name": {
+        "cn": "Matrix Alarm-A code rain alarm"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494238,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6768041035,
+      "name": {
+        "cn": "HostLog: Damage Records"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494238,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6802689983,
+      "name": {
+        "cn": "Playwall: Game Backlog Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494238,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6802579691,
+      "name": {
+        "cn": "EveryFirst - 成长记"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494238,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761124708,
+      "name": {
+        "cn": "清光相册照片整理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494238,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6771492676,
+      "name": {
+        "cn": "艾刻思：声音地图录音机"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494238,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6774924405,
+      "name": {
+        "cn": "Rekko : Recos films et séries"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494238,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6769756899,
+      "name": {
+        "cn": "Reliquum: Future Self Letters"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494238,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6808067686,
+      "name": {
+        "cn": "Blood Pressure App: VaraCare"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494239,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6800967318,
+      "name": {
+        "cn": "轻扫 - 快速生成扫描文档，导出pdf或markdown"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494239,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6760727724,
+      "name": {
+        "cn": "SpaceCrisis"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789448494239,
+      "_discountType": "app"
+    },
+    {
       "id": 381127666,
       "name": {
         "cn": "Reactable mobile"
