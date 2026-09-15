@@ -2,6 +2,204 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1236011411,
+      "name": {
+        "cn": "Sibley Birds 2nd Edition"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507612839,
+      "_discountType": "app"
+    },
+    {
+      "id": 1472113449,
+      "name": {
+        "cn": "Phazr"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507615719,
+      "_discountType": "app"
+    },
+    {
+      "id": 1474579808,
+      "name": {
+        "cn": "新标日语-初级篇"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507621418,
+      "_discountType": "app"
+    },
+    {
+      "id": 1480512339,
+      "name": {
+        "cn": "Science of Reading"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507621418,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795576354,
+      "name": {
+        "cn": "分手秘钥-二人私密聊天，不外泄"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507610077,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809714234,
+      "name": {
+        "cn": "Docfold: PDF Scanner & OCR"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507612824,
+      "_discountType": "app"
+    },
+    {
+      "id": 6451264159,
+      "name": {
+        "cn": "POLA - Disposable Cam"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507612957,
+      "_discountType": "app"
+    },
+    {
+      "id": 6479597521,
+      "name": {
+        "cn": "Perspective Crop Lens"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507612957,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794596051,
+      "name": {
+        "cn": "间隔相机 - 定点拍摄与自动连拍定时器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507612957,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762236318,
+      "name": {
+        "cn": "双摄相机 - 同时录制横屏和竖屏视频Dual Shot"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507612957,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759960908,
+      "name": {
+        "cn": "全能实况王-你的壁纸制作器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507612957,
+      "_discountType": "app"
+    },
+    {
+      "id": 6805923708,
+      "name": {
+        "cn": "如实相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507612957,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786817928,
+      "name": {
+        "cn": "Braindance - Glitch Effects"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507615719,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782184585,
+      "name": {
+        "cn": "Choral Lab"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507615719,
+      "_discountType": "app"
+    },
+    {
+      "id": 6444093932,
+      "name": {
+        "cn": "Goniometer - Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507618409,
+      "_discountType": "app"
+    },
+    {
+      "id": 6773878182,
+      "name": {
+        "cn": "Expeny：预算与记账"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507621113,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801110029,
+      "name": {
+        "cn": "机械狂欢"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507621011,
+      "_discountType": "app"
+    },
+    {
+      "id": 6778753671,
+      "name": {
+        "cn": "OptoReflex：眼科测试"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789507624029,
+      "_discountType": "app"
+    },
+    {
       "id": 312811399,
       "name": {
         "cn": "Moon Lunation"
@@ -531,8 +729,8 @@
       "name": {
         "cn": "力健身-LiftForge"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1789390700581,
