@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1249621266,
+      "name": {
+        "cn": "四化飞星"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789582530884,
+      "_discountType": "app"
+    },
+    {
+      "id": 1632735603,
+      "name": {
+        "cn": "Visio.AI - Photo Gallery Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789582521982,
+      "_discountType": "app"
+    },
+    {
+      "id": 6783994732,
+      "name": {
+        "cn": "QueText"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789582521208,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762621850,
+      "name": {
+        "cn": "Logora"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789582527504,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809059070,
+      "name": {
+        "cn": "诗童"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789582530884,
+      "_discountType": "app"
+    },
+    {
       "id": 1116411677,
       "name": {
         "cn": "C# Coder"
@@ -7590,7 +7645,8 @@
       "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSourceFirstSeen": 1788207034086,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6785182331,
