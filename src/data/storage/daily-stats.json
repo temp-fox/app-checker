@@ -1,5 +1,81 @@
 [
   {
+    "timestamp": 1789574730190,
+    "cn": {
+      "total": 11,
+      "price": 8,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6805923708,
+          "name": "如实相机",
+          "type": "price",
+          "detail": "¥8.00 → ¥1.00"
+        },
+        {
+          "id": 6797660418,
+          "name": "系统宝石学笔记",
+          "type": "price",
+          "detail": "¥18.00 → 免费"
+        },
+        {
+          "id": 6772931990,
+          "name": "ArMuse - 永不落幕的艺术展",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6771666690,
+          "name": "GIF Aura",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 1576118042,
+          "name": "Rhymelo",
+          "type": "iap",
+          "detail": "Unlock All Rhymes: ¥28.00 → ¥0.00"
+        },
+        {
+          "id": 1011979611,
+          "name": "Kompressor - Compress images",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 348543978,
+          "name": "Timetracks4D",
+          "type": "iap",
+          "detail": "Full Access: ¥38.00 → ¥28.00"
+        },
+        {
+          "id": 6759214507,
+          "name": "Augmatic GRE",
+          "type": "price",
+          "detail": "¥168.00 → ¥68.00"
+        },
+        {
+          "id": 6754461039,
+          "name": "Mihon Manga",
+          "type": "price",
+          "detail": "¥22.00 → ¥15.00"
+        },
+        {
+          "id": 6743021613,
+          "name": "电视直播-手机电视节目表、电视导航",
+          "type": "price",
+          "detail": "¥68.00 → ¥38.00"
+        },
+        {
+          "id": 1169525771,
+          "name": "JPEG Jackal Lite",
+          "type": "iap",
+          "detail": "Upgrade to Full Version: ¥28.00 → ¥15.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789556419539,
     "cn": {
       "total": 19,
@@ -2959,34 +3035,6 @@
           "name": "无处遁形：全网公敌",
           "type": "price",
           "detail": "¥30.00 → ¥15.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788699638749,
-    "cn": {
-      "total": 3,
-      "price": 2,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6804383248,
-          "name": "KeyJoy－Mechanical Keyboard App",
-          "type": "price",
-          "detail": "¥28.00 → ¥22.00"
-        },
-        {
-          "id": 6765901770,
-          "name": "GigLog·记票:演唱会音乐节Livehouse",
-          "type": "iap",
-          "detail": "解锁Premium: ¥58.00 → ¥18.00"
-        },
-        {
-          "id": 6748146382,
-          "name": "Text Scanner AI: OCR & Scan",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
         }
       ]
     }

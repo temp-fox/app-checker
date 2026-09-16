@@ -12690,14 +12690,22 @@
     "name": "French Dictionary + ©",
     "trackName": "French Dictionary + ©",
     "maxPriceInfo": {
-      "price": 68,
-      "formattedPrice": "¥68.00"
+      "price": 148,
+      "formattedPrice": "¥148.00"
     },
     "minPriceInfo": {
       "price": 68,
       "formattedPrice": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789565721224,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772375272895,
@@ -27768,9 +27776,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Full Access": "¥38.00"
+      "Full Access": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789565721224,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Full Access": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788184869523,
@@ -27799,9 +27817,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/timetracks4d/id348543978?uo=4",
-    "description": "Timetracks4D 是一款把时间当作空间来裁剪的相机。 可以把影像看作在横、纵、时间三个方向上堆叠而成的立方体。通常的播放，相当于沿着与时间垂直的方向把这个立方体切开，再一张一张地展示切面。Timetracks4D 会把这个切面倾斜。一旦倾斜，画面上的每个位置就会记录不同的时刻：静止的东西照旧呈现，只有动过的东西被扭曲。 ■ 两种拍摄方式 [Movie（视频）] 一边转动切面一边录制。每一帧的倾斜都在变化，所以画面持续流动。调整 Angle（角度）、Speed（速度）、Window Time（时间窗口）可以改变扭曲的方式。 [Still（静态图）] 把细长的条带一条一条地堆叠起来，合成一张图像。每条带子拍摄于不同的时刻，因此成品的上下方向本身就是时间的流动。这就是所谓的狭缝扫描，也是初代 Timetracks 一脉相承的拍法。保存时会把相机原始分辨率的一屏内容纵向拼接八份，成为一张长图。 两者都来自同一路相机画面，但对时间的处理方式不同，因此各自有各自的设置项。 ■ 主要设置 Camera（后置／前置）、Zoom (Lens)、Resolution（分辨率）、Frame Rate（帧率） Transform（Shear／Rotate）与时间流动的方向（Long Edge／Short Edge） Auto Rotate 的 Speed、Angle、Window Time 条带的运动方式（One-way／Palindrome／Wave／Fixed／Drift／Random） 生成条带的 Interval（从单帧到小时） Scan Width（条带的宽度） Full Screen、Show Buttons、Touch Gestures、Prevent Auto-Lock Add Location（记录拍摄地点） 有一个把设置随机改变的按钮。如果不知道该先动哪里，就先按它。 ■ 想拍得好看 请把设备固定住。设备一动，整个画面都会跟着动，就无法与被摄体的运动区分开来。放在三脚架或台面上最为可靠。 请拍摄会动的东西。用静止的设备拍摄静止的东西，无论读取哪个时刻都是同样的画面，什么也不会发生。行走的人、手的动作、水、车辆、随风摇曳的事物都很合适。 熟练之后，可以试着移动设备本身，能做出更复杂的形状。 ■ 价格 免费即可使用记录以外的全部功能。相机和设置都可以随意摆弄，将要生成的画面当场就显示在屏幕上。请先多试试看。 然后购买 Full Access（应用内购买・一次性买断），即可去除广告，并保存视频与静态图。 另外，此前已经购买过 Timetracks 的用户无需再次购买。更新应用后，Full Access 会自动生效。",
-    "fullDescription": "Timetracks4D 是一款把时间当作空间来裁剪的相机。 可以把影像看作在横、纵、时间三个方向上堆叠而成的立方体。通常的播放，相当于沿着与时间垂直的方向把这个立方体切开，再一张一张地展示切面。Timetracks4D 会把这个切面倾斜。一旦倾斜，画面上的每个位置就会记录不同的时刻：静止的东西照旧呈现，只有动过的东西被扭曲。 ■ 两种拍摄方式 [Movie（视频）] 一边转动切面一边录制。每一帧的倾斜都在变化，所以画面持续流动。调整 Angle（角度）、Speed（速度）、Window Time（时间窗口）可以改变扭曲的方式。 [Still（静态图）] 把细长的条带一条一条地堆叠起来，合成一张图像。每条带子拍摄于不同的时刻，因此成品的上下方向本身就是时间的流动。这就是所谓的狭缝扫描，也是初代 Timetracks 一脉相承的拍法。保存时会把相机原始分辨率的一屏内容纵向拼接八份，成为一张长图。 两者都来自同一路相机画面，但对时间的处理方式不同，因此各自有各自的设置项。 ■ 主要设置 Camera（后置／前置）、Zoom (Lens)、Resolution（分辨率）、Frame Rate（帧率） Transform（Shear／Rotate）与时间流动的方向（Long Edge／Short Edge） Auto Rotate 的 Speed、Angle、Window Time 条带的运动方式（One-way／Palindrome／Wave／Fixed／Drift／Random） 生成条带的 Interval（从单帧到小时） Scan Width（条带的宽度） Full Screen、Show Buttons、Touch Gestures、Prevent Auto-Lock Add Location（记录拍摄地点） 有一个把设置随机改变的按钮。如果不知道该先动哪里，就先按它。 ■ 想拍得好看 请把设备固定住。设备一动，整个画面都会跟着动，就无法与被摄体的运动区分开来。放在三脚架或台面上最为可靠。 请拍摄会动的东西。用静止的设备拍摄静止的东西，无论读取哪个时刻都是同样的画面，什么也不会发生。行走的人、手的动作、水、车辆、随风摇曳的事物都很合适。 熟练之后，可以试着移动设备本身，能做出更复杂的形状。 ■ 价格 免费即可使用记录以外的全部功能。相机和设置都可以随意摆弄，将要生成的画面当场就显示在屏幕上。请先多试试看。 然后购买 Full Access（应用内购买・一次性买断），即可去除广告，并保存视频与静态图。 另外，此前已经购买过 Timetracks 的用户无需再次购买。更新应用后，Full Access 会自动生效。",
-    "summaryDescription": "Timetracks4D 是一款把时间当作空间来裁剪的相机。 可以把影像看作在横、纵、时间三个方向上堆叠而成的立方体。通常的播放，相当于沿着与时间垂直的方向把这个立方体切开，再一张一张地展示切面。Timetracks4D 会把这个切面倾斜。一旦倾斜，画面上的每个位置就会记录不同的时刻：静止的东西照旧呈现，只有动过的东西被扭曲。 ■ 两种拍摄方式 [Movie（视频）] 一边转动切面一边录制。每一帧的倾斜都在变化，所以画面持续流动。调整 Angle（角度）、Speed（速度）、Window Time（时间窗口）可以改变扭曲的方式。 [Still（静态图）] 把细长的条带一条一条地堆叠起来，合成一张图像。每条带子拍摄于不同的时刻，因此成品的上下方向本身就是时间的流动。这就是所谓的狭缝扫描，也是初代 Timetracks 一脉相承的拍法。保存时会把相机原始分辨率的一屏内容纵向拼接八份，成为一张长图。 两者都来自同一路相机画面，但对时间的处理方式不同，因此各自有各自的设置项。 ■ 主要设置 Camera（后置／前置）、Zoom (Lens)、Resolution（分辨率）、Frame Rate（帧率） Transform（Shear／Rotate）与时间流动的方向（Long Edge／Short Edge） Auto Rotate 的 Speed、Angle、Window Time 条带的运动方式（One-way／Palindrome／Wave／Fixed／Drift／Random） 生成条带的 Interval（从单帧到小时） Scan Width（条带的宽度） Full Screen、Show Buttons、Touch Gestures、Prevent Auto-Lock Add Location（记录拍摄地点） 有一个把设置随机改变的按钮。如果不知道该先动哪里，就先按它。 ■ 想拍得好看 请把设备固定住。设备一动，整个画面都会跟着动，就无法与被摄体的运动区分开来。放在三脚架或台面上最为可靠。 请拍摄会动的东西。用静止的设备拍摄静止的东西，无论读取哪个时刻都是同样的画面，什么也不会发生。行走的人、手的动作、水、车辆、随风摇曳的事物都很合适。 熟练之后，可以试着移动设备本身，能做出更复杂的形状。 ■ 价格 免费即可使用记录以外的全部功能。相机和设置都可以随意摆弄，将要生成的画面当场就显示在屏幕上。请先多试试看。 然后购买 Full Access（应用内购买・一次性买断），即可去除广告，并保存视频与静态图。 另外，此前已经购买过 Timetracks 的用户无需再次购买。更新应用后，Full Access 会自动生效。",
+    "description": "Timetracks4D 是一款把时间当作空间来裁剪的相机。 可以把影像看作在横、纵、时间三个方向上堆叠而成的立方体。通常的播放，相当于沿着与时间垂直的方向把这个立方体切开，再一张一张地展示切面。Timetracks4D 会把这个切面倾斜。一旦倾斜，画面上的每个位置就会记录不同的时刻：静止的东西照旧呈现，只有动过的东西被扭曲。 ■ 两种拍摄方式 [Movie（视频）] 一边转动切面一边录制。每一帧的倾斜都在变化，所以画面持续流动。调整 Angle（角度）、Speed（速度）、Window Time（时间窗口）可以改变扭曲的方式。 [Still（静态图）] 把细长的条带一条一条地堆叠起来，合成一张图像。每条带子拍摄于不同的时刻，因此成品的上下方向本身就是时间的流动。这就是所谓的狭缝扫描，也是初代 Timetracks 一脉相承的拍法。保存时会把相机原始分辨率的一屏内容纵向拼接八份，成为一张长图。 两者都来自同一路相机画面，但对时间的处理方式不同，因此各自有各自的设置项。 ■ 主要设置 Camera（后置／前置）、Zoom (Lens)、Resolution（分辨率）、Frame Rate（帧率） Transform（Shear／Rotate）与时间流动的方向（Long Edge／Short Edge） Auto Rotate 的 Speed、Angle、Window Time 条带的",
+    "fullDescription": "Timetracks4D 是一款把时间当作空间来裁剪的相机。 可以把影像看作在横、纵、时间三个方向上堆叠而成的立方体。通常的播放，相当于沿着与时间垂直的方向把这个立方体切开，再一张一张地展示切面。Timetracks4D 会把这个切面倾斜。一旦倾斜，画面上的每个位置就会记录不同的时刻：静止的东西照旧呈现，只有动过的东西被扭曲。 ■ 两种拍摄方式 [Movie（视频）] 一边转动切面一边录制。每一帧的倾斜都在变化，所以画面持续流动。调整 Angle（角度）、Speed（速度）、Window Time（时间窗口）可以改变扭曲的方式。 [Still（静态图）] 把细长的条带一条一条地堆叠起来，合成一张图像。每条带子拍摄于不同的时刻，因此成品的上下方向本身就是时间的流动。这就是所谓的狭缝扫描，也是初代 Timetracks 一脉相承的拍法。保存时会把相机原始分辨率的一屏内容纵向拼接八份，成为一张长图。 两者都来自同一路相机画面，但对时间的处理方式不同，因此各自有各自的设置项。 ■ 主要设置 Camera（后置／前置）、Zoom (Lens)、Resolution（分辨率）、Frame Rate（帧率） Transform（Shear／Rotate）与时间流动的方向（Long Edge／Short Edge） Auto Rotate 的 Speed、Angle、Window Time 条带的",
+    "summaryDescription": "Timetracks4D 是一款把时间当作空间来裁剪的相机。 可以把影像看作在横、纵、时间三个方向上堆叠而成的立方体。通常的播放，相当于沿着与时间垂直的方向把这个立方体切开，再一张一张地展示切面。Timetracks4D 会把这个切面倾斜。一旦倾斜，画面上的每个位置就会记录不同的时刻：静止的东西照旧呈现，只有动过的东西被扭曲。 ■ 两种拍摄方式 [Movie（视频）] 一边转动切面一边录制。每一帧的倾斜都在变化，所以画面持续流动。调整 Angle（角度）、Speed（速度）、Window Time（时间窗口）可以改变扭曲的方式。 [Still（静态图）] 把细长的条带一条一条地堆叠起来，合成一张图像。每条带子拍摄于不同的时刻，因此成品的上下方向本身就是时间的流动。这就是所谓的狭缝扫描，也是初代 Timetracks 一脉相承的拍法。保存时会把相机原始分辨率的一屏内容纵向拼接八份，成为一张长图。 两者都来自同一路相机画面，但对时间的处理方式不同，因此各自有各自的设置项。 ■ 主要设置 Camera（后置／前置）、Zoom (Lens)、Resolution（分辨率）、Frame Rate（帧率） Transform（Shear／Rotate）与时间流动的方向（Long Edge／Short Edge） Auto Rotate 的 Speed、Angle、Window Time 条带的",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/7e/4b/cd7e4b6d-17d5-612c-e4b8-e4e8e1150d99/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/7e/4b/cd7e4b6d-17d5-612c-e4b8-e4e8e1150d99/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "正行 Akamatsu",
@@ -43174,8 +43192,8 @@
     "description": "这款交互式应用程序可以帮助你掌握萨尔萨舞的节奏和音乐技巧，你就是乐队的队长！ 倾情为舞者、音乐家和导师开发！ 重要功能： 根据你选择的速度，练习 On-1 和 On-2 舞蹈节奏！ 根据自己的喜好组合乐器，并可选择它们的模式！ 用作 Metronome，并可在乐团中练习 Groove！ 随时随地上舞蹈课！ 乐器：Clave、钢琴、康加鼓、天巴鼓、邦哥鼓、贝斯、沙锤、刮瓜、牛铃和一位导师 同时还提供： 20 种不同的钢琴模式，20 种贝斯模式，29 种打击乐器模式，包括 Tumbao、Guaguancó、Cáscara、Rumba、Caballo、Danzón 等 节拍显示 + 导师数 On-1 和 On-2 节拍的声音 控制各个乐器的速度 (BPM)、调和单独音量 支持 2/3 和 3/2 Clave 方向 使用英文、德文和西班牙文数节拍 如果你正在享受的应用程序，请留下评论。它有很大帮助！如果你不喜欢的应用程序，请给我发电子邮件。我无法给评论做出回应",
     "fullDescription": "这款交互式应用程序可以帮助你掌握萨尔萨舞的节奏和音乐技巧，你就是乐队的队长！ 倾情为舞者、音乐家和导师开发！ 重要功能： 根据你选择的速度，练习 On-1 和 On-2 舞蹈节奏！ 根据自己的喜好组合乐器，并可选择它们的模式！ 用作 Metronome，并可在乐团中练习 Groove！ 随时随地上舞蹈课！ 乐器：Clave、钢琴、康加鼓、天巴鼓、邦哥鼓、贝斯、沙锤、刮瓜、牛铃和一位导师 同时还提供： 20 种不同的钢琴模式，20 种贝斯模式，29 种打击乐器模式，包括 Tumbao、Guaguancó、Cáscara、Rumba、Caballo、Danzón 等 节拍显示 + 导师数 On-1 和 On-2 节拍的声音 控制各个乐器的速度 (BPM)、调和单独音量 支持 2/3 和 3/2 Clave 方向 使用英文、德文和西班牙文数节拍 如果你正在享受的应用程序，请留下评论。它有很大帮助！如果你不喜欢的应用程序，请给我发电子邮件。我无法给评论做出回应",
     "summaryDescription": "这款交互式应用程序可以帮助你掌握萨尔萨舞的节奏和音乐技巧，你就是乐队的队长！ 倾情为舞者、音乐家和导师开发！ 重要功能： 根据你选择的速度，练习 On-1 和 On-2 舞蹈节奏！ 根据自己的喜好组合乐器，并可选择它们的模式！ 用作 Metronome，并可在乐团中练习 Groove！ 随时随地上舞蹈课！ 乐器：Clave、钢琴、康加鼓、天巴鼓、邦哥鼓、贝斯、沙锤、刮瓜、牛铃和一位导师 同时还提供： 20 种不同的钢琴模式，20 种贝斯模式，29 种打击乐器模式，包括 Tumbao、Guaguancó、Cáscara、Rumba、Caballo、Danzón 等 节拍显示 + 导师数 On-1 和 On-2 节拍的声音 控制各个乐器的速度 (BPM)、调和单独音量 支持 2/3 和 3/2 Clave 方向 使用英文、德文和西班牙文数节拍 如果你正在享受的应用程序，请留下评论。它有很大帮助！如果你不喜欢的应用程序，请给我发电子邮件。我无法给评论做出回应",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/29/1c/08291cf3-8fba-8d84-5c2d-4727db080ac0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/29/1c/08291cf3-8fba-8d84-5c2d-4727db080ac0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/80/f3/1080f3f4-cee8-c7cd-814e-43d8eda6b92b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/80/f3/1080f3f4-cee8-c7cd-814e-43d8eda6b92b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "District One Mobile, LLC",
     "artistName": "District One Mobile, LLC",
     "screenshotUrls": [
@@ -97700,8 +97718,8 @@
     "description": "Boat Beacon is an internet AIS receiver and transmitter for your iPhone and iPad. It is the only AIS ship tracking app to provide Collision Warnings, share your boat’s position & use real-time AIS data. Connected to the largest network of AIS shore receivers world-wide covering most major ports, harbours and popular coastal areas. “An outstanding app, with great potential. Both interesting to use and very user friendly. This could be a life saver and especially of interest to small boat users. Everyone who goes on the water should have this on and use it!” ***** Sun Dream, App Store Review Boat Beacon is designed for boaters & provides continuous Bearing, Range & Closest Point of Approach (CPA) calculations and alarms in addition to standard AIS information even when in the background. Boat Beacon does not require any external AIS transponder or receiver equipment. Key Features Over-the-horizon collision avoidance (30 miles radius) using continuous CPA calculations - highlights boats that are on a potential collision course and alerts you with an alarm. Continually transmits and receives position information via the internet and calculates and alarms CPA even when the app is in the background. Shares your position with Internet AIS Systems & apps & other Boat Beacon users in real time. Real time ship map view with North up & Heading up modes so you can look in the direction of the ships on the map to locate them. Nav display showing own boat's speed, course, heading and position. SART Alarm Man Overboard tracking, Anchor watch & Theft alarms (IAP). Apple Watch App included Siri voice commands Export tracks Boat-to-Boat & Group Messaging. Local AIS & GPS via Wifi. Boat Beacon InApp Add-ons:- LiveView - Augmented Reality view with ships, compass & horizon overlaid. Works with FLIROne IR cameras as well to see ships & people in the dark & fog (IAP) \"AIS Sharing\" to other apps like Navionics & iNavX (IAP subscription) US, UK and IE Marine raster charts (IAP). MOB and Anchor Watch (IAP). Let Friends and Family see where you are and where you're headed to with our free Boat Watch app or on web-based AIS systems like MarineTraffic which have free web viewers available. Arm all the crews in a race with Boat Beacon and have real time updates on the race positions on the water and back in the club house. Keep a watch and in touch with other boats in your flotilla when sailing in a group. Boat Beacon requires internet access to work. Most popular coastal areas have cellular data access extending 12 or more miles out to sea. Subscriptions The \"AIS Sharing \" subscription is monthly ($5.99) or yearly ($16.49), and will automatically renew at the end of the subscription period unless auto-renew is turned off at least 24-hours before the end of the current period. Payment will be charged to your iTunes Account at confirmation of purchase, and will be charged for renewal within 24-hours prior to the end of the current period. Subscriptions may be managed by the iTunes account holder and auto-renewal may be turned off by going to Account Settings after purchase. No cancellation of the current subscription is allowed during active subscription period. Terms of Use: http://seanav.net/termsofuse.php Privacy Policy: http://seanav.net/privacy.php Support: help@pocketmariner.com Your position can be shared and seen on all our apps without using an MMSI number. To be seen on Global AIS systems like MarineTraffic you need an MMSI number. In the US you can obtain one by visiting http://www.boatus.com/mmsi or email us for a free internet MMSI number. Please note that continued use of GPS running in the background can dramatically decrease battery life. NOT FOR NAVIGATION Boat Beacon should only be used for basic navigation reference and should not be solely relied upon to determine precise locations, proximity, distance, or direction. You will not be visible to other ships on VHF only AIS systems.",
     "fullDescription": "Boat Beacon is an internet AIS receiver and transmitter for your iPhone and iPad. It is the only AIS ship tracking app to provide Collision Warnings, share your boat’s position & use real-time AIS data. Connected to the largest network of AIS shore receivers world-wide covering most major ports, harbours and popular coastal areas. “An outstanding app, with great potential. Both interesting to use and very user friendly. This could be a life saver and especially of interest to small boat users. Everyone who goes on the water should have this on and use it!” ***** Sun Dream, App Store Review Boat Beacon is designed for boaters & provides continuous Bearing, Range & Closest Point of Approach (CPA) calculations and alarms in addition to standard AIS information even when in the background. Boat Beacon does not require any external AIS transponder or receiver equipment. Key Features Over-the-horizon collision avoidance (30 miles radius) using continuous CPA calculations - highlights boats that are on a potential collision course and alerts you with an alarm. Continually transmits and receives position information via the internet and calculates and alarms CPA even when the app is in the background. Shares your position with Internet AIS Systems & apps & other Boat Beacon users in real time. Real time ship map view with North up & Heading up modes so you can look in the direction of the ships on the map to locate them. Nav display showing own boat's speed, course, heading and position. SART Alarm Man Overboard tracking, Anchor watch & Theft alarms (IAP). Apple Watch App included Siri voice commands Export tracks Boat-to-Boat & Group Messaging. Local AIS & GPS via Wifi. Boat Beacon InApp Add-ons:- LiveView - Augmented Reality view with ships, compass & horizon overlaid. Works with FLIROne IR cameras as well to see ships & people in the dark & fog (IAP) \"AIS Sharing\" to other apps like Navionics & iNavX (IAP subscription) US, UK and IE Marine raster charts (IAP). MOB and Anchor Watch (IAP). Let Friends and Family see where you are and where you're headed to with our free Boat Watch app or on web-based AIS systems like MarineTraffic which have free web viewers available. Arm all the crews in a race with Boat Beacon and have real time updates on the race positions on the water and back in the club house. Keep a watch and in touch with other boats in your flotilla when sailing in a group. Boat Beacon requires internet access to work. Most popular coastal areas have cellular data access extending 12 or more miles out to sea. Subscriptions The \"AIS Sharing \" subscription is monthly ($5.99) or yearly ($16.49), and will automatically renew at the end of the subscription period unless auto-renew is turned off at least 24-hours before the end of the current period. Payment will be charged to your iTunes Account at confirmation of purchase, and will be charged for renewal within 24-hours prior to the end of the current period. Subscriptions may be managed by the iTunes account holder and auto-renewal may be turned off by going to Account Settings after purchase. No cancellation of the current subscription is allowed during active subscription period. Terms of Use: http://seanav.net/termsofuse.php Privacy Policy: http://seanav.net/privacy.php Support: help@pocketmariner.com Your position can be shared and seen on all our apps without using an MMSI number. To be seen on Global AIS systems like MarineTraffic you need an MMSI number. In the US you can obtain one by visiting http://www.boatus.com/mmsi or email us for a free internet MMSI number. Please note that continued use of GPS running in the background can dramatically decrease battery life. NOT FOR NAVIGATION Boat Beacon should only be used for basic navigation reference and should not be solely relied upon to determine precise locations, proximity, distance, or direction. You will not be visible to other ships on VHF only AIS systems.",
     "summaryDescription": "Boat Beacon is an internet AIS receiver and transmitter for your iPhone and iPad. It is the only AIS ship tracking app to provide Collision Warnings, share your boat’s position & use real-time AIS data. Connected to the largest network of AIS shore receivers world-wide covering most major ports, harbours and popular coastal areas. “An outstanding app, with great potential. Both interesting to use and very user friendly. This could be a life saver and especially of interest to small boat users. Everyone who goes on the water should have this on and use it!” ***** Sun Dream, App Store Review Boat Beacon is designed for boaters & provides continuous Bearing, Range & Closest Point of Approach (CPA) calculations and alarms in addition to standard AIS information even when in the background. Boat Beacon does not require any external AIS transponder or receiver equipment. Key Features Over-the-horizon collision avoidance (30 miles radius) using continuous CPA calculations - highlights boats that are on a potential collision course and alerts you with an alarm. Continually transmits and receives position information via the internet and calculates and alarms CPA even when the app is in the background. Shares your position with Internet AIS Systems & apps & other Boat Beacon users in real time. Real time ship map view with North up & Heading up modes so you can look in the direction of the ships on the map to locate them. Nav display showing own boat's speed, course, heading and position. SART Alarm Man Overboard tracking, Anchor watch & Theft alarms (IAP). Apple Watch App included Siri voice commands Export tracks Boat-to-Boat & Group Messaging. Local AIS & GPS via Wifi. Boat Beacon InApp Add-ons:- LiveView - Augmented Reality view with ships, compass & horizon overlaid. Works with FLIROne IR cameras as well to see ships & people in the dark & fog (IAP) \"AIS Sharing\" to other apps like Navionics & iNavX (IAP subscription) US, UK and IE Marine raster charts (IAP). MOB and Anchor Watch (IAP). Let Friends and Family see where you are and where you're headed to with our free Boat Watch app or on web-based AIS systems like MarineTraffic which have free web viewers available. Arm all the crews in a race with Boat Beacon and have real time updates on the race positions on the water and back in the club house. Keep a watch and in touch with other boats in your flotilla when sailing in a group. Boat Beacon requires internet access to work. Most popular coastal areas have cellular data access extending 12 or more miles out to sea. Subscriptions The \"AIS Sharing \" subscription is monthly ($5.99) or yearly ($16.49), and will automatically renew at the end of the subscription period unless auto-renew is turned off at least 24-hours before the end of the current period. Payment will be charged to your iTunes Account at confirmation of purchase, and will be charged for renewal within 24-hours prior to the end of the current period. Subscriptions may be managed by the iTunes account holder and auto-renewal may be turned off by going to Account Settings after purchase. No cancellation of the current subscription is allowed during active subscription period. Terms of Use: http://seanav.net/termsofuse.php Privacy Policy: http://seanav.net/privacy.php Support: help@pocketmariner.com Your position can be shared and seen on all our apps without using an MMSI number. To be seen on Global AIS systems like MarineTraffic you need an MMSI number. In the US you can obtain one by visiting http://www.boatus.com/mmsi or email us for a free internet MMSI number. Please note that continued use of GPS running in the background can dramatically decrease battery life. NOT FOR NAVIGATION Boat Beacon should only be used for basic navigation reference and should not be solely relied upon to determine precise locations, proximity, distance, or direction. You will not be visible to other ships on VHF only AIS systems.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/3e/d3/b23ed363-32be-b75a-3ca8-83ae4080c2be/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/3e/d3/b23ed363-32be-b75a-3ca8-83ae4080c2be/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/54/76/7a5476c2-b5f2-7b8a-3235-b3d9429d4231/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/54/76/7a5476c2-b5f2-7b8a-3235-b3d9429d4231/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.jpg",
     "sellerName": "Pocket Mariner Ltd.",
     "artistName": "Pocket Mariner Ltd.",
     "screenshotUrls": [
@@ -98125,16 +98143,30 @@
       "price": 38,
       "formattedPrice": "¥38.00",
       "Nitrox EANX Mode": "¥22.00",
-      "Dive Plan Pro Lifetime": "¥498.00"
+      "Dive Plan Pro Lifetime": "¥498.00",
+      "Dive Plan Pro - Annual": "¥128.00",
+      "Dive Plan Pro - Monthly": "¥22.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
       "Nitrox EANX Mode": "¥22.00",
-      "Dive Plan Pro Lifetime": "¥328.00"
+      "Dive Plan Pro Lifetime": "¥328.00",
+      "Dive Plan Pro - Annual": "¥128.00",
+      "Dive Plan Pro - Monthly": "¥22.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1789565721224,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Dive Plan Pro Lifetime": "¥498.00",
+            "Dive Plan Pro - Annual": "¥128.00",
+            "Dive Plan Pro - Monthly": "¥22.00"
+          }
+        },
         {
           "timestamp": 1789544871039,
           "price": 0,
@@ -98190,8 +98222,8 @@
     "description": "Dive Plan 是一款专为休闲水肺潜水员设计的潜水计划和日志应用程序。计划单次和重复的免减压潜水、制定高氧混合液、保留完整的日志并检查潜水地点的天气和水温——所有这些都可以通过您的 iPhone 或 iPad 完成。计划您的潜水 使用标准休闲免减压表（压力组、免减压限制和水面间隔）计划首次潜水和重复潜水链 重复潜水将每个潜水的压力组转移到下一个潜水，并根据实际经过的时间预先填充水面间隔 明确的安全停留指导（",
     "fullDescription": "Dive Plan 是一款专为休闲水肺潜水员设计的潜水计划和日志应用程序。计划单次和重复的免减压潜水、制定高氧混合液、保留完整的日志并检查潜水地点的天气和水温——所有这些都可以通过您的 iPhone 或 iPad 完成。计划您的潜水 使用标准休闲免减压表（压力组、免减压限制和水面间隔）计划首次潜水和重复潜水链 重复潜水将每个潜水的压力组转移到下一个潜水，并根据实际经过的时间预先填充水面间隔 明确的安全停留指导（",
     "summaryDescription": "Dive Plan 是一款专为休闲水肺潜水员设计的潜水计划和日志应用程序。计划单次和重复的免减压潜水、制定高氧混合液、保留完整的日志并检查潜水地点的天气和水温——所有这些都可以通过您的 iPhone 或 iPad 完成。计划您的潜水 使用标准休闲免减压表（压力组、免减压限制和水面间隔）计划首次潜水和重复潜水链 重复潜水将每个潜水的压力组转移到下一个潜水，并根据实际经过的时间预先填充水面间隔 明确的安全停留指导（",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/2a/0f/1b2a0f67-7d58-2093-043f-b845eefe83ee/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/2a/0f/1b2a0f67-7d58-2093-043f-b845eefe83ee/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/f4/a0/eef4a0d8-d08f-1392-0d0b-30d1a75dadb0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/f4/a0/eef4a0d8-d08f-1392-0d0b-30d1a75dadb0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "AXIS",
     "artistName": "AXIS Productions",
     "screenshotUrls": [
@@ -148263,9 +148295,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/hash-calculator/id655753093?uo=4",
-    "description": "哈希计算器可让您使用各种流行算法为任何文本或文件生成哈希值。轻松将计算出的哈希值复制到剪贴板或通过电子邮件共享。对文本和文件进行快速哈希处​​理，包括大文件 (10+ GB)。支持的哈希算法（文本和文件）： MD2 MD4 MD5 SHA-1 SHA-224 SHA-224 SHA-256 SHA-384 SHA-512 CRC32 Adler-32 用于文本处理的其他工具： Whirlpool hash Base32 编码器/解码器 Base64 编码器/解码器 大小写转换器",
-    "fullDescription": "哈希计算器可让您使用各种流行算法为任何文本或文件生成哈希值。轻松将计算出的哈希值复制到剪贴板或通过电子邮件共享。对文本和文件进行快速哈希处​​理，包括大文件 (10+ GB)。支持的哈希算法（文本和文件）： MD2 MD4 MD5 SHA-1 SHA-224 SHA-224 SHA-256 SHA-384 SHA-512 CRC32 Adler-32 用于文本处理的其他工具： Whirlpool hash Base32 编码器/解码器 Base64 编码器/解码器 大小写转换器",
-    "summaryDescription": "哈希计算器可让您使用各种流行算法为任何文本或文件生成哈希值。轻松将计算出的哈希值复制到剪贴板或通过电子邮件共享。对文本和文件进行快速哈希处​​理，包括大文件 (10+ GB)。支持的哈希算法（文本和文件）： MD2 MD4 MD5 SHA-1 SHA-224 SHA-224 SHA-256 SHA-384 SHA-512 CRC32 Adler-32 用于文本处理的其他工具： Whirlpool hash Base32 编码器/解码器 Base64 编码器/解码器 大小写转换器",
+    "description": "哈希计算器可让您使用各种流行算法为任何文本或文件生成哈希值。轻松将计算出的哈希值复制到剪贴板或通过电子邮件共享。对文本和文件进行快速哈希处​​理，包括大文件 (10+ GB)。支持的哈希算法（文本和文件）： MD2 MD4 MD5 SHA-1 SHA-224 SHA-256 SHA-384 SHA-512 CRC32 Adler-32 用于文本处理的附加工具： Whirlpool hash Base32 编码器/解码器 Base64 编码器/解码器 大小写转换器",
+    "fullDescription": "哈希计算器可让您使用各种流行算法为任何文本或文件生成哈希值。轻松将计算出的哈希值复制到剪贴板或通过电子邮件共享。对文本和文件进行快速哈希处​​理，包括大文件 (10+ GB)。支持的哈希算法（文本和文件）： MD2 MD4 MD5 SHA-1 SHA-224 SHA-256 SHA-384 SHA-512 CRC32 Adler-32 用于文本处理的附加工具： Whirlpool hash Base32 编码器/解码器 Base64 编码器/解码器 大小写转换器",
+    "summaryDescription": "哈希计算器可让您使用各种流行算法为任何文本或文件生成哈希值。轻松将计算出的哈希值复制到剪贴板或通过电子邮件共享。对文本和文件进行快速哈希处​​理，包括大文件 (10+ GB)。支持的哈希算法（文本和文件）： MD2 MD4 MD5 SHA-1 SHA-224 SHA-256 SHA-384 SHA-512 CRC32 Adler-32 用于文本处理的附加工具： Whirlpool hash Base32 编码器/解码器 Base64 编码器/解码器 大小写转换器",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/67/fc/7e67fcd9-3f4f-3b7e-a0e2-534c28ee44c0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/67/fc/7e67fcd9-3f4f-3b7e-a0e2-534c28ee44c0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Leszek Szary",
