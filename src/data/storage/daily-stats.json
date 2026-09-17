@@ -1,9 +1,9 @@
 [
   {
-    "timestamp": 1789602910700,
+    "timestamp": 1789621889781,
     "cn": {
-      "total": 12,
-      "price": 5,
+      "total": 17,
+      "price": 10,
       "iap": 7,
       "apps": [
         {
@@ -31,28 +31,28 @@
           "detail": "Upgrade to premium: ¥5.80 → ¥0.00"
         },
         {
-          "id": 6799672617,
-          "name": "KL烘焙曲线",
-          "type": "iap",
-          "detail": "烘焙复盘: ¥9.90 → ¥8.80"
-        },
-        {
           "id": 6745030394,
           "name": "Chord Whisper Piano",
           "type": "price",
           "detail": "¥22.00 → 免费"
         },
         {
-          "id": 6745030394,
-          "name": "Chord Whisper Piano",
-          "type": "iap",
-          "detail": "Unlock: ¥38.00 → ¥22.00"
-        },
-        {
           "id": 573445641,
           "name": "Recorder Pro: Voice Recorder",
           "type": "iap",
           "detail": "Yearly Plan: ¥168.00 → ¥88.00"
+        },
+        {
+          "id": 1588868540,
+          "name": "电磁探测器豪华色",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6781486794,
+          "name": "小位扫描",
+          "type": "price",
+          "detail": "¥228.00 → 免费"
         },
         {
           "id": 1260154998,
@@ -67,10 +67,40 @@
           "detail": "¥8.00 → 免费"
         },
         {
+          "id": 6758871228,
+          "name": "Unsnooze: Alarm Clock",
+          "type": "iap",
+          "detail": "Unsooze Pro (Lifetime): ¥498.00 → ¥398.00"
+        },
+        {
           "id": 6761265775,
           "name": "English Dictionary Offline.",
           "type": "price",
           "detail": "¥68.00 → ¥3.00"
+        },
+        {
+          "id": 525160182,
+          "name": "Sweep Picking Guitar Arpeggios",
+          "type": "price",
+          "detail": "¥168.00 → ¥88.00"
+        },
+        {
+          "id": 924426908,
+          "name": "Slash Chords on Guitar",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 543001890,
+          "name": "Economy Picking Guitar School",
+          "type": "price",
+          "detail": "¥168.00 → ¥88.00"
+        },
+        {
+          "id": 6726997887,
+          "name": "TextVerified by Temphone",
+          "type": "iap",
+          "detail": "Premium: ¥148.00 → ¥15.00"
         },
         {
           "id": 897745149,
@@ -2979,22 +3009,6 @@
           "name": "壁酷",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788739014809,
-    "cn": {
-      "total": 1,
-      "price": 1,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 680700116,
-          "name": "And Today Is",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
         }
       ]
     }
