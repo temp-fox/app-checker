@@ -1,6 +1,334 @@
 [
   {
-    "timestamp": 1789656681767,
+    "timestamp": 1789664849603,
+    "cn": {
+      "total": 53,
+      "price": 29,
+      "iap": 24,
+      "apps": [
+        {
+          "id": 1632735603,
+          "name": "Visio.AI - Photo Gallery Pro",
+          "type": "price",
+          "detail": "¥22.00 → ¥15.00"
+        },
+        {
+          "id": 6773878182,
+          "name": "Expeny：预算与记账",
+          "type": "price",
+          "detail": "¥58.00 → 免费"
+        },
+        {
+          "id": 6810335156,
+          "name": "争分夺秒TodoList",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6764269797,
+          "name": "小巧工具箱-长图拼接",
+          "type": "iap",
+          "detail": "升级高级会员: ¥4.80 → ¥0.00"
+        },
+        {
+          "id": 6795239812,
+          "name": "ClipPro: Video & Photo Editor",
+          "type": "price",
+          "detail": "¥68.00 → 免费"
+        },
+        {
+          "id": 6754012888,
+          "name": "待办清单 - 子任务",
+          "type": "price",
+          "detail": "¥168.00 → 免费"
+        },
+        {
+          "id": 6799588989,
+          "name": "DaysCount-重要日子",
+          "type": "iap",
+          "detail": "升级高级会员: ¥4.80 → ¥0.00"
+        },
+        {
+          "id": 6478388488,
+          "name": "习惯清单 - 习惯打卡与目标",
+          "type": "iap",
+          "detail": "12 month: ¥98.00 → ¥68.00"
+        },
+        {
+          "id": 6786129971,
+          "name": "十二誓言",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6781131521,
+          "name": "Minpick",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6745030394,
+          "name": "Chord Whisper Piano",
+          "type": "iap",
+          "detail": "Unlock: ¥38.00 → ¥22.00"
+        },
+        {
+          "id": 6760823598,
+          "name": "ShopSuggest",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6796486391,
+          "name": "BreakThree",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 633008351,
+          "name": "Mortgage Payment Calculator",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1661093205,
+          "name": "SocialFocus: Hide Distractions",
+          "type": "iap",
+          "detail": "Yearly: ¥398.00 → ¥298.00"
+        },
+        {
+          "id": 1661093205,
+          "name": "SocialFocus: Hide Distractions",
+          "type": "iap",
+          "detail": "Monthly: ¥58.00 → ¥38.00"
+        },
+        {
+          "id": 6777342797,
+          "name": "NFC Studio",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6760091078,
+          "name": "MPP Viewer",
+          "type": "price",
+          "detail": "¥98.00 → ¥68.00"
+        },
+        {
+          "id": 1573144215,
+          "name": "StarNFC – NFC读写工具",
+          "type": "iap",
+          "detail": "StarNFC尊享终身会员: ¥68.00 → ¥18.00"
+        },
+        {
+          "id": 6758278999,
+          "name": "MIDIx - 物理MIDI生成器",
+          "type": "price",
+          "detail": "¥58.00 → ¥38.00"
+        },
+        {
+          "id": 6773620703,
+          "name": "安尼姆的无尽旅途",
+          "type": "price",
+          "detail": "¥18.00 → ¥12.00"
+        },
+        {
+          "id": 1372113110,
+          "name": "iplant - Plant identifier",
+          "type": "iap",
+          "detail": "remove ad: ¥28.00 → ¥0.00"
+        },
+        {
+          "id": 6742334227,
+          "name": "MarkdownSnap",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        },
+        {
+          "id": 982224575,
+          "name": "DM10 – 鼓机与合成器",
+          "type": "price",
+          "detail": "¥128.00 → ¥88.00"
+        },
+        {
+          "id": 6752490398,
+          "name": "Musyc2 - 物理音乐制作器",
+          "type": "price",
+          "detail": "¥88.00 → ¥68.00"
+        },
+        {
+          "id": 6756605595,
+          "name": "CliperX",
+          "type": "iap",
+          "detail": "CliperX Pro - Lifetime: ¥98.00 → ¥22.00"
+        },
+        {
+          "id": 1637438059,
+          "name": "UnTrap for YouTube",
+          "type": "iap",
+          "detail": "Yearly: ¥398.00 → ¥298.00"
+        },
+        {
+          "id": 1637438059,
+          "name": "UnTrap for YouTube",
+          "type": "iap",
+          "detail": "Monthly: ¥58.00 → ¥38.00"
+        },
+        {
+          "id": 6763619597,
+          "name": "Health Webhook",
+          "type": "price",
+          "detail": "¥98.00 → 免费"
+        },
+        {
+          "id": 1549511268,
+          "name": "BLEASS Omega",
+          "type": "iap",
+          "detail": "Red Sky Lullaby Preset Pack: ¥22.00 → ¥15.00"
+        },
+        {
+          "id": 1549511268,
+          "name": "BLEASS Omega",
+          "type": "iap",
+          "detail": "Flow Form Preset Pack: ¥28.00 → ¥15.00"
+        },
+        {
+          "id": 1549511268,
+          "name": "BLEASS Omega",
+          "type": "iap",
+          "detail": "Sound Of Izrael Preset Pack: ¥28.00 → ¥15.00"
+        },
+        {
+          "id": 1549511268,
+          "name": "BLEASS Omega",
+          "type": "iap",
+          "detail": "Torley Preset Pack: ¥28.00 → ¥15.00"
+        },
+        {
+          "id": 1549511268,
+          "name": "BLEASS Omega",
+          "type": "iap",
+          "detail": "The Sound Test Room Pack: ¥28.00 → ¥15.00"
+        },
+        {
+          "id": 1549511268,
+          "name": "BLEASS Omega",
+          "type": "iap",
+          "detail": "Back To The Eighties Pack: ¥28.00 → ¥15.00"
+        },
+        {
+          "id": 6763084120,
+          "name": "Afterbeat私密节奏",
+          "type": "price",
+          "detail": "¥6.00 → 免费"
+        },
+        {
+          "id": 6759893388,
+          "name": "Remote Control For Smart TV !",
+          "type": "iap",
+          "detail": "Unimote Pro - Lifetime: ¥328.00 → ¥168.00"
+        },
+        {
+          "id": 6758055077,
+          "name": "SharKNX - KNX & ETS Toolkit",
+          "type": "iap",
+          "detail": "SharKNX 月度订阅: ¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6758055077,
+          "name": "SharKNX - KNX & ETS Toolkit",
+          "type": "iap",
+          "detail": "SharKNX 包年: ¥128.00 → ¥58.00"
+        },
+        {
+          "id": 1036140929,
+          "name": "ClipBox: 剪贴板管理工具",
+          "type": "iap",
+          "detail": "Premium: ¥198.00 → ¥98.00"
+        },
+        {
+          "id": 6757632086,
+          "name": "WizNote: Brain Dump AI",
+          "type": "iap",
+          "detail": "Note Wiz AI Pro Yearly: ¥328.00 → ¥198.00"
+        },
+        {
+          "id": 1120591899,
+          "name": "指南针 Pro",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1114389016,
+          "name": "小时刻-时间线日记",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 431033044,
+          "name": "Phone Drive Pro - 云储存管理和文件共享",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 510249014,
+          "name": "水平仪 HD",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 572225713,
+          "name": "App Secret Pro",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        },
+        {
+          "id": 6757953508,
+          "name": "LRC歌词 - 歌词制作工具",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 526650611,
+          "name": "DM1 for iPhone",
+          "type": "price",
+          "detail": "¥38.00 → ¥22.00"
+        },
+        {
+          "id": 522349879,
+          "name": "DM1 - The Drum Machine",
+          "type": "price",
+          "detail": "¥68.00 → ¥48.00"
+        },
+        {
+          "id": 6754411174,
+          "name": "2Go - Invoice Maker & Estimate",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 866028711,
+          "name": "放炮罚计算器",
+          "type": "iap",
+          "detail": "月度会员[放炮罚]: ¥18.00 → ¥12.00"
+        },
+        {
+          "id": 866028711,
+          "name": "放炮罚计算器",
+          "type": "iap",
+          "detail": "年度会员[放炮罚]: ¥98.00 → ¥68.00"
+        },
+        {
+          "id": 1500126852,
+          "name": "Chord",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1789642524373,
     "cn": {
       "total": 23,
       "price": 18,
