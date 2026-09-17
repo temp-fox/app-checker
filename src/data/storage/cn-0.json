@@ -90433,7 +90433,7 @@
     "history": [
       [
         {
-          "timestamp": 1789603170031,
+          "timestamp": 1789622202033,
           "price": 28,
           "formattedPrice": "¥28.00",
           "inAppPurchases": {
@@ -107662,7 +107662,7 @@
     "history": [
       [
         {
-          "timestamp": 1789603170031,
+          "timestamp": 1789622202033,
           "price": 88,
           "formattedPrice": "¥88.00",
           "inAppPurchases": {}
@@ -113995,7 +113995,7 @@
     "history": [
       [
         {
-          "timestamp": 1789603170031,
+          "timestamp": 1789622202033,
           "price": 88,
           "formattedPrice": "¥88.00",
           "inAppPurchases": {}
@@ -177118,8 +177118,8 @@
       "premium": "¥898.00"
     },
     "minPriceInfo": {
-      "price": 98,
-      "formattedPrice": "¥98.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "所有功能": "¥22.00",
       "Annual": "¥298.00",
       "1 Month": "¥48.00",
@@ -177131,6 +177131,20 @@
       "premium": "¥898.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789622202033,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Annual": "¥818.00",
+            "1 Month": "¥68.00",
+            "12 Months": "¥328.00",
+            "premium": "¥898.00",
+            "6 Months": "¥343.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786647610863,

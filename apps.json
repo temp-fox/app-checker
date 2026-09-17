@@ -2,6 +2,173 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1526117535,
+      "name": {
+        "cn": "Super School Timetable"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789622139109,
+      "_discountType": "app"
+    },
+    {
+      "id": 6811006317,
+      "name": {
+        "cn": "音域测试仪 唱歌音调仪 测音高 声域检测器 音准"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789622141944,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760283330,
+      "name": {
+        "cn": "Pine Player Neo"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789622141944,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759488109,
+      "name": {
+        "cn": "kk每日记账"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789622144589,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787421650,
+      "name": {
+        "cn": "中医入门"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789622144671,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801135273,
+      "name": {
+        "cn": "人体解剖图谱-看图学解剖轻松记结构"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789622150006,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755234354,
+      "name": {
+        "cn": "BeanFlow：记账助手"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789622201941,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6789835309,
+      "name": {
+        "cn": "iCoffeeMan"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789622201941,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6799295769,
+      "name": {
+        "cn": "声轨工坊-音频合并剪辑"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789622201941,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6798826038,
+      "name": {
+        "cn": "Silex: 戒赌，守住你的钱"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789622201941,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6785549897,
+      "name": {
+        "cn": "Detune: Learn Music Production"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789622201941,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6796284317,
+      "name": {
+        "cn": "Karaoke Mic - Mic to Speaker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789622201941,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6767237476,
+      "name": {
+        "cn": "PutSpot: 物品查找器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789622201941,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6795282021,
+      "name": {
+        "cn": "DinePilot"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789622201941,
+      "_discountType": "app"
+    },
+    {
+      "id": 6773879185,
+      "name": {
+        "cn": "Henshu Edit"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789622201941,
+      "_discountType": "app"
+    },
+    {
       "id": 1249621266,
       "name": {
         "cn": "四化飞星"

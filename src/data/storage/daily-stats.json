@@ -1,6 +1,88 @@
 [
   {
-    "timestamp": 1789621889781,
+    "timestamp": 1789642524373,
+    "cn": {
+      "total": 12,
+      "price": 11,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6797875277,
+          "name": "羽刻 - 羽毛球高光自动剪辑·挥拍计数",
+          "type": "price",
+          "detail": "¥6.00 → 免费"
+        },
+        {
+          "id": 1588868540,
+          "name": "电磁探测器豪华色",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6781486794,
+          "name": "小位扫描",
+          "type": "price",
+          "detail": "¥228.00 → 免费"
+        },
+        {
+          "id": 6758871228,
+          "name": "Unsnooze: Alarm Clock",
+          "type": "iap",
+          "detail": "Unsooze Pro (Lifetime): ¥498.00 → ¥398.00"
+        },
+        {
+          "id": 6747103822,
+          "name": "三国英雄传奇-高颜值水墨国风大制作手游",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 838752522,
+          "name": "Binaural (β)",
+          "type": "price",
+          "detail": "¥98.00 → 免费"
+        },
+        {
+          "id": 525160182,
+          "name": "Sweep Picking Guitar Arpeggios",
+          "type": "price",
+          "detail": "¥168.00 → ¥88.00"
+        },
+        {
+          "id": 924426908,
+          "name": "Slash Chords on Guitar",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 543001890,
+          "name": "Economy Picking Guitar School",
+          "type": "price",
+          "detail": "¥168.00 → ¥88.00"
+        },
+        {
+          "id": 1436832183,
+          "name": "羽毛笔 - 今日待办",
+          "type": "price",
+          "detail": "¥68.00 → 免费"
+        },
+        {
+          "id": 6795282021,
+          "name": "DinePilot",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6773879185,
+          "name": "Henshu Edit",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1789602910700,
     "cn": {
       "total": 17,
       "price": 10,
@@ -2927,88 +3009,6 @@
           "name": "慢吞吞 - 细嚼慢咽养成App",
           "type": "price",
           "detail": "¥28.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788764982412,
-    "cn": {
-      "total": 12,
-      "price": 12,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6802252999,
-          "name": "帮我选｜随机选择助手",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 1607656777,
-          "name": "大象电耗-电车助手-新能源计算器",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6790672094,
-          "name": "Celvion Stack",
-          "type": "price",
-          "detail": "¥148.00 → ¥68.00"
-        },
-        {
-          "id": 939989434,
-          "name": "点一点 : 跳一跳",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6773661282,
-          "name": "CaptainRiver",
-          "type": "price",
-          "detail": "¥48.00 → ¥38.00"
-        },
-        {
-          "id": 6469054265,
-          "name": "JumpBoost",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 681045199,
-          "name": "我的画笔专业版MyBrushes Pro–支持中国画,水彩画,素描和书法艺术",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 797275229,
-          "name": "AudioTunes - FLAC, APE, WMA Converter",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 641454103,
-          "name": "My Splash Effects",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 571148040,
-          "name": "My PaintBrush: 绘画和照片编辑器",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 673906093,
-          "name": "歌曲音量调节器Audio Normalizer",
-          "type": "price",
-          "detail": "¥28.00 → ¥22.00"
-        },
-        {
-          "id": 1622157617,
-          "name": "壁酷",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
