@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6775718151,
+      "name": {
+        "cn": "巡检台账-设备检查记录2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789669166376,
+      "_discountType": "app"
+    },
+    {
+      "id": 6451071579,
+      "name": {
+        "cn": "月球捕捉相机 〜月球上的光与影〜"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789669166682,
+      "_discountType": "app"
+    },
+    {
+      "id": 6749821694,
+      "name": {
+        "cn": "Nav Diag"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789669169222,
+      "_discountType": "app"
+    },
+    {
       "id": 346169165,
       "name": {
         "cn": "Hindenburg Field Recorder"

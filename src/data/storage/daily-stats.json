@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": 1789682655608,
+    "cn": {
+      "total": 5,
+      "price": 1,
+      "iap": 4,
+      "apps": [
+        {
+          "id": 6763426211,
+          "name": "FrameFuse长图拼接神器",
+          "type": "iap",
+          "detail": "升级高级会员: ¥4.80 → ¥0.00"
+        },
+        {
+          "id": 6774842090,
+          "name": "AlarmCroc",
+          "type": "iap",
+          "detail": "Alarm Croc Yearly: ¥198.00 → ¥148.00"
+        },
+        {
+          "id": 6758871228,
+          "name": "Unsnooze: Alarm Clock",
+          "type": "iap",
+          "detail": "Unsooze Pro (Lifetime): ¥398.00 → ¥8.00"
+        },
+        {
+          "id": 1064360258,
+          "name": "iLockBox: 隐藏照片与加密视频相册",
+          "type": "iap",
+          "detail": "iLockBox Lifetime Access: ¥148.00 → ¥88.00"
+        },
+        {
+          "id": 1467348990,
+          "name": "疯狂单词-考研四六级智能背单词",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789664849603,
     "cn": {
       "total": 53,
@@ -3257,94 +3297,6 @@
           "name": "测量应用程式 My Measures PRO",
           "type": "iap",
           "detail": "Top App Cloud: ¥128.00 → ¥18.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788813745091,
-    "cn": {
-      "total": 13,
-      "price": 11,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6744582695,
-          "name": "Breathe Relief",
-          "type": "iap",
-          "detail": "Breathe Relief Plus 月订阅: ¥58.00 → ¥28.00"
-        },
-        {
-          "id": 6744582695,
-          "name": "Breathe Relief",
-          "type": "iap",
-          "detail": "Breathe Relief Plus 年订阅: ¥298.00 → ¥148.00"
-        },
-        {
-          "id": 6759823165,
-          "name": "情侣惩罚私密款",
-          "type": "price",
-          "detail": "¥4.80 → ¥2.80"
-        },
-        {
-          "id": 6761787638,
-          "name": "Fields - Audio Recorder",
-          "type": "price",
-          "detail": "¥68.00 → ¥58.00"
-        },
-        {
-          "id": 6760541982,
-          "name": "家庭打卡-帮助孩子养成好习惯",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 1271292023,
-          "name": "Get well Soon Greeting Wishes",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 6759224538,
-          "name": "ScreenDoctor PRO",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6449003064,
-          "name": "Goblin Tools",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 1025397368,
-          "name": "GK of the World - Quiz Answers",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 6757410893,
-          "name": "VinylVibes",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6472762578,
-          "name": "Passport Photo+",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 573801721,
-          "name": "Intelligent Scissors - Remove Unwanted Object from Photo and Resize Image",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 453389221,
-          "name": "Camcorder Video Converter",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
         }
       ]
     }

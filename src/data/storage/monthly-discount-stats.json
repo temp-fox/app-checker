@@ -513,10 +513,10 @@
       "inAppPurchase": {}
     },
     "1064360258": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "iLockBox Lifetime Access": 1
+        "iLockBox Lifetime Access": 2
       }
     },
     "1076258090": {
@@ -833,6 +833,11 @@
       "inAppPurchase": {}
     },
     "1457327380": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1467348990": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -2798,11 +2803,12 @@
       "inAppPurchase": {}
     },
     "6774842090": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
         "AlarmCroc Yearly": 1,
-        "Alarm Croc Monthly": 1
+        "Alarm Croc Monthly": 1,
+        "Alarm Croc Yearly": 1
       }
     },
     "6448680871": {
@@ -3039,10 +3045,10 @@
       }
     },
     "6758871228": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "Unsooze Pro (Lifetime)": 2
+        "Unsooze Pro (Lifetime)": 3
       }
     },
     "6811020707": {
@@ -3469,10 +3475,12 @@
         "SharKNX 包年": 1
       }
     },
-    "6757953508": {
+    "6763426211": {
       "all": 1,
-      "price": 1,
-      "inAppPurchase": {}
+      "price": 0,
+      "inAppPurchase": {
+        "升级高级会员": 1
+      }
     }
   }
 }
