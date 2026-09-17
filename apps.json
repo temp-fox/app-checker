@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 401454706,
+      "name": {
+        "cn": "Projectionist"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789642758930,
+      "_discountType": "app"
+    },
+    {
+      "id": 405918513,
+      "name": {
+        "cn": "Tarot & Runes: Wiccan Handbook"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789642775441,
+      "_discountType": "app"
+    },
+    {
+      "id": 507097008,
+      "name": {
+        "cn": "Stones in Magick"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789642775441,
+      "_discountType": "app"
+    },
+    {
+      "id": 1222417066,
+      "name": {
+        "cn": "通话计时器（高级版）—适合X分钟畅聊套餐"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789642758854,
+      "_discountType": "app"
+    },
+    {
+      "id": 1523628736,
+      "name": {
+        "cn": "名著歇后语"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789642772901,
+      "_discountType": "app"
+    },
+    {
       "id": 1526117535,
       "name": {
         "cn": "Super School Timetable"
@@ -9,18 +64,62 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789622139109,
+      "_externalSourceFirstSeen": 1789642764414,
       "_discountType": "app"
     },
     {
-      "id": 6811006317,
+      "id": 6806728882,
       "name": {
-        "cn": "音域测试仪 唱歌音调仪 测音高 声域检测器 音准"
+        "cn": "装柜宝 - 集装箱装柜方案"
       },
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789622141944,
+      "_externalSourceFirstSeen": 1789642758930,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760105071,
+      "name": {
+        "cn": "冰途"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789642761827,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775220048,
+      "name": {
+        "cn": "爱番茄 - 番茄钟·计时 · 任务 · iPomodoros"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789642764414,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795156017,
+      "name": {
+        "cn": "重复提醒 · 定时器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789642764414,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785842033,
+      "name": {
+        "cn": "Manual Camera Pro - DSLR Mode"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789642764448,
       "_discountType": "app"
     },
     {
@@ -31,7 +130,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789622141944,
+      "_externalSourceFirstSeen": 1789642767123,
       "_discountType": "app"
     },
     {
@@ -42,29 +141,51 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789622144589,
+      "_externalSourceFirstSeen": 1789642769668,
       "_discountType": "app"
     },
     {
-      "id": 6787421650,
+      "id": 6758582874,
       "name": {
-        "cn": "中医入门"
+        "cn": "Remain: Still Here"
       },
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789622144671,
+      "_externalSourceFirstSeen": 1789642772545,
       "_discountType": "app"
     },
     {
-      "id": 6801135273,
+      "id": 6738848702,
       "name": {
-        "cn": "人体解剖图谱-看图学解剖轻松记结构"
+        "cn": "Business German"
       },
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789622150006,
+      "_externalSourceFirstSeen": 1789642772901,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787700159,
+      "name": {
+        "cn": "成绩分数复盘-学生考试记录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789642772901,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804411647,
+      "name": {
+        "cn": "5X CNC Operator"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789642772901,
       "_discountType": "app"
     },
     {
@@ -75,7 +196,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789622201941,
+      "_externalSourceFirstSeen": 1789642815929,
       "_discountType": "iap"
     },
     {
@@ -86,7 +207,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789622201941,
+      "_externalSourceFirstSeen": 1789642815929,
       "_discountType": "iap"
     },
     {
@@ -97,7 +218,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789622201941,
+      "_externalSourceFirstSeen": 1789642815929,
       "_discountType": "iap"
     },
     {
@@ -108,7 +229,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789622201941,
+      "_externalSourceFirstSeen": 1789642815929,
       "_discountType": "iap"
     },
     {
@@ -119,7 +240,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789622201941,
+      "_externalSourceFirstSeen": 1789642815929,
       "_discountType": "iap"
     },
     {
@@ -130,7 +251,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789622201941,
+      "_externalSourceFirstSeen": 1789642815929,
       "_discountType": "iap"
     },
     {
@@ -141,7 +262,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789622201941,
+      "_externalSourceFirstSeen": 1789642815929,
       "_discountType": "iap"
     },
     {
@@ -153,7 +274,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789622201941,
+      "_externalSourceFirstSeen": 1789642815929,
       "_discountType": "app"
     },
     {
@@ -165,7 +286,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789622201941,
+      "_externalSourceFirstSeen": 1789642815929,
       "_discountType": "app"
     },
     {
@@ -21065,8 +21186,8 @@
       "name": {
         "cn": "DoubleIt Camera"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1785637992269,

@@ -1,11 +1,41 @@
 [
   {
-    "timestamp": 1789642524373,
+    "timestamp": 1789656681767,
     "cn": {
-      "total": 12,
-      "price": 11,
-      "iap": 1,
+      "total": 23,
+      "price": 18,
+      "iap": 5,
       "apps": [
+        {
+          "id": 1632735603,
+          "name": "Visio.AI - Photo Gallery Pro",
+          "type": "price",
+          "detail": "¥22.00 → ¥15.00"
+        },
+        {
+          "id": 6773878182,
+          "name": "Expeny：预算与记账",
+          "type": "price",
+          "detail": "¥58.00 → 免费"
+        },
+        {
+          "id": 6810335156,
+          "name": "争分夺秒TodoList",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6795239812,
+          "name": "ClipPro: Video & Photo Editor",
+          "type": "price",
+          "detail": "¥68.00 → 免费"
+        },
+        {
+          "id": 6745030394,
+          "name": "Chord Whisper Piano",
+          "type": "iap",
+          "detail": "Unlock: ¥38.00 → ¥22.00"
+        },
         {
           "id": 6797875277,
           "name": "羽刻 - 羽毛球高光自动剪辑·挥拍计数",
@@ -13,22 +43,46 @@
           "detail": "¥6.00 → 免费"
         },
         {
-          "id": 1588868540,
-          "name": "电磁探测器豪华色",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6781486794,
-          "name": "小位扫描",
-          "type": "price",
-          "detail": "¥228.00 → 免费"
-        },
-        {
-          "id": 6758871228,
-          "name": "Unsnooze: Alarm Clock",
+          "id": 1573144215,
+          "name": "StarNFC – NFC读写工具",
           "type": "iap",
-          "detail": "Unsooze Pro (Lifetime): ¥498.00 → ¥398.00"
+          "detail": "StarNFC尊享终身会员: ¥68.00 → ¥18.00"
+        },
+        {
+          "id": 6758278999,
+          "name": "MIDIx - 物理MIDI生成器",
+          "type": "price",
+          "detail": "¥58.00 → ¥38.00"
+        },
+        {
+          "id": 982224575,
+          "name": "DM10 – 鼓机与合成器",
+          "type": "price",
+          "detail": "¥128.00 → ¥88.00"
+        },
+        {
+          "id": 6752490398,
+          "name": "Musyc2 - 物理音乐制作器",
+          "type": "price",
+          "detail": "¥88.00 → ¥68.00"
+        },
+        {
+          "id": 6756605595,
+          "name": "CliperX",
+          "type": "iap",
+          "detail": "CliperX Pro - Lifetime: ¥98.00 → ¥22.00"
+        },
+        {
+          "id": 6763619597,
+          "name": "Health Webhook",
+          "type": "price",
+          "detail": "¥98.00 → 免费"
+        },
+        {
+          "id": 6759893388,
+          "name": "Remote Control For Smart TV !",
+          "type": "iap",
+          "detail": "Unimote Pro - Lifetime: ¥328.00 → ¥168.00"
         },
         {
           "id": 6747103822,
@@ -37,34 +91,46 @@
           "detail": "¥1.00 → 免费"
         },
         {
+          "id": 1036140929,
+          "name": "ClipBox: 剪贴板管理工具",
+          "type": "iap",
+          "detail": "Premium: ¥198.00 → ¥98.00"
+        },
+        {
           "id": 838752522,
           "name": "Binaural (β)",
           "type": "price",
           "detail": "¥98.00 → 免费"
         },
         {
-          "id": 525160182,
-          "name": "Sweep Picking Guitar Arpeggios",
+          "id": 6757953508,
+          "name": "LRC歌词 - 歌词制作工具",
           "type": "price",
-          "detail": "¥168.00 → ¥88.00"
+          "detail": "¥8.00 → 免费"
         },
         {
-          "id": 924426908,
-          "name": "Slash Chords on Guitar",
+          "id": 526650611,
+          "name": "DM1 for iPhone",
           "type": "price",
-          "detail": "¥15.00 → ¥8.00"
+          "detail": "¥38.00 → ¥22.00"
         },
         {
-          "id": 543001890,
-          "name": "Economy Picking Guitar School",
+          "id": 522349879,
+          "name": "DM1 - The Drum Machine",
           "type": "price",
-          "detail": "¥168.00 → ¥88.00"
+          "detail": "¥68.00 → ¥48.00"
         },
         {
           "id": 1436832183,
           "name": "羽毛笔 - 今日待办",
           "type": "price",
           "detail": "¥68.00 → 免费"
+        },
+        {
+          "id": 1500126852,
+          "name": "Chord",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
         },
         {
           "id": 6795282021,
@@ -82,7 +148,7 @@
     }
   },
   {
-    "timestamp": 1789602910700,
+    "timestamp": 1789621889781,
     "cn": {
       "total": 17,
       "price": 10,
@@ -2951,64 +3017,6 @@
           "name": "Camcorder Video Converter",
           "type": "price",
           "detail": "¥38.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788792504226,
-    "cn": {
-      "total": 8,
-      "price": 6,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6779038691,
-          "name": "笨整理",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 6744010131,
-          "name": "百斗导航-新版地图导航系统",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6800413702,
-          "name": "PDF文档管理：PDF扫描仪&编辑&图片转PDF转Word",
-          "type": "iap",
-          "detail": "Permanent: ¥68.00 → ¥58.00"
-        },
-        {
-          "id": 663835623,
-          "name": "Export Calendars Pro: iCal,CSV",
-          "type": "price",
-          "detail": "¥98.00 → ¥88.00"
-        },
-        {
-          "id": 6754816805,
-          "name": "声动提醒",
-          "type": "price",
-          "detail": "¥6.00 → 免费"
-        },
-        {
-          "id": 6755624768,
-          "name": "语音待办AI：智能任务清单",
-          "type": "iap",
-          "detail": "To-Do Speak AI Premium Yearly: ¥148.00 → ¥98.00"
-        },
-        {
-          "id": 1549630756,
-          "name": "围棋师傅S",
-          "type": "price",
-          "detail": "¥18.00 → ¥8.00"
-        },
-        {
-          "id": 6742094566,
-          "name": "慢吞吞 - 细嚼慢咽养成App",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
         }
       ]
     }

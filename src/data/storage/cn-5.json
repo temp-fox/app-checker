@@ -3399,14 +3399,22 @@
     "name": "Wojak Fun Animated",
     "trackName": "Wojak Fun Animated",
     "maxPriceInfo": {
-      "price": 1,
-      "formattedPrice": "¥1.00"
+      "price": 3,
+      "formattedPrice": "¥3.00"
     },
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784168512892,
@@ -7453,21 +7461,21 @@
     "description": "VoiceDrop 把你的口述变成文章。 打开就录，松手即存。剩下的全自动： 一键录音，后台也能继续 自动用时间 + 当前位置（城市/城区）命名，日后一眼认出 录音自动转写成字幕（SRT），并挖成一篇篇可读的文章 在 App 里直接听录音、看字幕、读挖出来的文章 极简界面，没有广告，没有第三方追踪 说出来，就有了。VoiceDrop 帮你把每一个一闪而过的念头接住、整理好。 — 包月算力订阅（可选）：¥19.9/月，每月自动充入 200 算力，按月自动续费，可随时在系统「订阅」设置中取消。 用户协议（Terms of Use / EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策：https://jianshuo.dev/voicedrop/privacy/",
     "fullDescription": "VoiceDrop 把你的口述变成文章。 打开就录，松手即存。剩下的全自动： 一键录音，后台也能继续 自动用时间 + 当前位置（城市/城区）命名，日后一眼认出 录音自动转写成字幕（SRT），并挖成一篇篇可读的文章 在 App 里直接听录音、看字幕、读挖出来的文章 极简界面，没有广告，没有第三方追踪 说出来，就有了。VoiceDrop 帮你把每一个一闪而过的念头接住、整理好。 — 包月算力订阅（可选）：¥19.9/月，每月自动充入 200 算力，按月自动续费，可随时在系统「订阅」设置中取消。 用户协议（Terms of Use / EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策：https://jianshuo.dev/voicedrop/privacy/",
     "summaryDescription": "VoiceDrop 把你的口述变成文章。 打开就录，松手即存。剩下的全自动： 一键录音，后台也能继续 自动用时间 + 当前位置（城市/城区）命名，日后一眼认出 录音自动转写成字幕（SRT），并挖成一篇篇可读的文章 在 App 里直接听录音、看字幕、读挖出来的文章 极简界面，没有广告，没有第三方追踪 说出来，就有了。VoiceDrop 帮你把每一个一闪而过的念头接住、整理好。 — 包月算力订阅（可选）：¥19.9/月，每月自动充入 200 算力，按月自动续费，可随时在系统「订阅」设置中取消。 用户协议（Terms of Use / EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策：https://jianshuo.dev/voicedrop/privacy/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/6d/d7/7f6dd770-3d82-be6e-a9f5-2b28e14b5d08/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/6d/d7/7f6dd770-3d82-be6e-a9f5-2b28e14b5d08/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/36/f8/c336f8fd-f389-f91a-c21a-20258c527114/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/36/f8/c336f8fd-f389-f91a-c21a-20258c527114/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Jian Shuo Wang",
     "artistName": "Jian Shuo Wang",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/9e/d3/439ed33c-ba22-bf5c-83e2-21e6440249b3/01_record.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/0a/02/bf0a02af-aa51-66cf-bb94-123c4ec98edd/01_record.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/d8/fd/aed8fd5d-cb91-d6a7-2230-bdd4cd4da461/02_articles.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/d1/6d/e2d16d7a-71c1-addb-ea31-548a531bc168/03_edit_real.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/00/a4/fc00a459-4dac-f223-65c4-916a41e2739f/04_followup.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/e6/33/c5e633d1-a69a-6905-8902-31741bd841ff/05_camera.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/a2/3b/41a23b15-f341-9b7c-7ede-5f0fccc83d35/06_record_real.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/bb/91/f4bb916e-0f99-1655-5e89-761dc608b7db/07_share.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/c8/fd/09c8fd9c-49e1-eb54-b3f8-c2e6a62441c7/08_home_real.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/0e/8e/170e8eb8-1750-6fdd-54f0-846b2f54569d/09_agents.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/6f/1f/346f1f1c-c7d0-7537-9985-7d564f117ff4/01_record.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/f5/ef/02f5ef81-3002-3c8c-cef9-fcfc16af288d/01_record.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/d4/f7/07d4f7af-dc12-1a38-e42e-3bcf3a587451/02_articles.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/bf/a4/17bfa449-eb05-572b-21e5-2d42ce8ca5ac/03_edit_real.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/44/a0/f244a01b-4467-43dc-29e5-0992c6180e61/04_followup.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/5d/c4/495dc4d3-3bfc-5907-b10a-5507174477ba/05_camera.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/fb/f1/f9fbf15b-1305-b3b2-e548-f6dab58796eb/06_record_real.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/86/a6/9986a626-3414-5dac-4da6-4f4b269082a2/07_share.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/04/c3/ef04c377-74e9-6e52-20ec-99925fb29f45/08_home_real.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/01/ec/fc01ecfd-64dd-554f-4ea0-7738b4dbab6c/09_agents.png/320x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1784386179673
   },
@@ -11000,8 +11008,8 @@
     "description": "Authenticator App Vault+为您的线上账号保驾护航，主要功能：一键添加，银行级加密，双重身份认证，支持所有主流应用和网站，安全云备份，跨设备自动同步。6位代码将每30秒更新一次。这个计时器可以让你永远不必多次使用相同的基于时间的一次性密码（TOTP），而且你不必记住这个数字，因为它会一直更改。一旦配置了我们的代码生成器应用程序，您就可以获得验证码，而无需网络或蜂窝连接。 主要功能： 1、银行级安全： 应用程序中存储的数据采用了端到端的加密技术，确保数据的安全性，杜绝了他人的窃取行为。 2、数据隐私保护： 即便数据同步到iCloud钥匙串，也不会被任何第三方获取。 3、同步与备份轻松搞定： 支持将数据同步到iCloud钥匙串，使其能够在所有苹果设备之间实现自动同步。即便在更换设备时，用户也能方便地还原所有数据。 4、方便易用： 用户可以通过扫描迅速添加账号，同时应用程序支持通过时间生成一次性验证码（即TOTP）。此外，用户还可选择手动输入账号信息。 5、离线使用：还在等待短信发送吗？您是否经常出差并无法访问您的帐户？ 我们的app可以在设备安全的情况下离线生成安全令牌，这样即使在飞行模式下您也可以安全地进行身份验证。 6、通用兼容性：无论是用于社交媒体、电子商务还是专业服务，Authenticator App Vault+都能在众多平台上完美集成，无论您走到哪里，都能提供全面的保护。 7、私密照片与视频云存储：将系统相册中的照片或视频导入应用，可选择将原文件从系统相册中删除。私密媒体加密存储于云端，仅您可见。 8、密码管理：端对端加密存储和自动填充密码，安全便捷。 9、隐私浏览器：浏览敏感网站不留痕迹，无历史记录、无Cookie、无追踪。 10、Face ID / PIN 保护：面容ID或密码守护所有功能，设备丢失数据依然安全。 使用协议：https://authenticator.hinexnet.com/user-agreement-en.html 隐私政策：https://authenticator.hinexnet.com/privacy-policy-en.html 若您有任何问题，请联系：evanbrook@tutamail.com",
     "fullDescription": "Authenticator App Vault+为您的线上账号保驾护航，主要功能：一键添加，银行级加密，双重身份认证，支持所有主流应用和网站，安全云备份，跨设备自动同步。6位代码将每30秒更新一次。这个计时器可以让你永远不必多次使用相同的基于时间的一次性密码（TOTP），而且你不必记住这个数字，因为它会一直更改。一旦配置了我们的代码生成器应用程序，您就可以获得验证码，而无需网络或蜂窝连接。 主要功能： 1、银行级安全： 应用程序中存储的数据采用了端到端的加密技术，确保数据的安全性，杜绝了他人的窃取行为。 2、数据隐私保护： 即便数据同步到iCloud钥匙串，也不会被任何第三方获取。 3、同步与备份轻松搞定： 支持将数据同步到iCloud钥匙串，使其能够在所有苹果设备之间实现自动同步。即便在更换设备时，用户也能方便地还原所有数据。 4、方便易用： 用户可以通过扫描迅速添加账号，同时应用程序支持通过时间生成一次性验证码（即TOTP）。此外，用户还可选择手动输入账号信息。 5、离线使用：还在等待短信发送吗？您是否经常出差并无法访问您的帐户？ 我们的app可以在设备安全的情况下离线生成安全令牌，这样即使在飞行模式下您也可以安全地进行身份验证。 6、通用兼容性：无论是用于社交媒体、电子商务还是专业服务，Authenticator App Vault+都能在众多平台上完美集成，无论您走到哪里，都能提供全面的保护。 7、私密照片与视频云存储：将系统相册中的照片或视频导入应用，可选择将原文件从系统相册中删除。私密媒体加密存储于云端，仅您可见。 8、密码管理：端对端加密存储和自动填充密码，安全便捷。 9、隐私浏览器：浏览敏感网站不留痕迹，无历史记录、无Cookie、无追踪。 10、Face ID / PIN 保护：面容ID或密码守护所有功能，设备丢失数据依然安全。 使用协议：https://authenticator.hinexnet.com/user-agreement-en.html 隐私政策：https://authenticator.hinexnet.com/privacy-policy-en.html 若您有任何问题，请联系：evanbrook@tutamail.com",
     "summaryDescription": "Authenticator App Vault+为您的线上账号保驾护航，主要功能：一键添加，银行级加密，双重身份认证，支持所有主流应用和网站，安全云备份，跨设备自动同步。6位代码将每30秒更新一次。这个计时器可以让你永远不必多次使用相同的基于时间的一次性密码（TOTP），而且你不必记住这个数字，因为它会一直更改。一旦配置了我们的代码生成器应用程序，您就可以获得验证码，而无需网络或蜂窝连接。 主要功能： 1、银行级安全： 应用程序中存储的数据采用了端到端的加密技术，确保数据的安全性，杜绝了他人的窃取行为。 2、数据隐私保护： 即便数据同步到iCloud钥匙串，也不会被任何第三方获取。 3、同步与备份轻松搞定： 支持将数据同步到iCloud钥匙串，使其能够在所有苹果设备之间实现自动同步。即便在更换设备时，用户也能方便地还原所有数据。 4、方便易用： 用户可以通过扫描迅速添加账号，同时应用程序支持通过时间生成一次性验证码（即TOTP）。此外，用户还可选择手动输入账号信息。 5、离线使用：还在等待短信发送吗？您是否经常出差并无法访问您的帐户？ 我们的app可以在设备安全的情况下离线生成安全令牌，这样即使在飞行模式下您也可以安全地进行身份验证。 6、通用兼容性：无论是用于社交媒体、电子商务还是专业服务，Authenticator App Vault+都能在众多平台上完美集成，无论您走到哪里，都能提供全面的保护。 7、私密照片与视频云存储：将系统相册中的照片或视频导入应用，可选择将原文件从系统相册中删除。私密媒体加密存储于云端，仅您可见。 8、密码管理：端对端加密存储和自动填充密码，安全便捷。 9、隐私浏览器：浏览敏感网站不留痕迹，无历史记录、无Cookie、无追踪。 10、Face ID / PIN 保护：面容ID或密码守护所有功能，设备丢失数据依然安全。 使用协议：https://authenticator.hinexnet.com/user-agreement-en.html 隐私政策：https://authenticator.hinexnet.com/privacy-policy-en.html 若您有任何问题，请联系：evanbrook@tutamail.com",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/b4/71/d0b47179-d5fe-3094-7841-609f396024e5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/b4/71/d0b47179-d5fe-3094-7841-609f396024e5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/20/37/3a20371b-8576-b84f-cb93-be5908975070/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/20/37/3a20371b-8576-b84f-cb93-be5908975070/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "NEUXMIND (HK) LIMITED",
     "artistName": "NEUXMIND (HK) LIMITED",
     "screenshotUrls": [
@@ -11238,8 +11246,8 @@
     "description": "复习卡片 · 记忆 · 考试准备 · PDF 笔记 — 一站式完成。 使用 RecallNote 更高效地学习，让所学内容记得更久。 RecallNote 是一款集学习、复习和笔记于一体的应用，帮助你记录所学内容、反复复习并为考试做好准备。 基于遗忘曲线的间隔重复 在忘记之前及时复习所学内容，通过间隔重复强化长期记忆。 随着学习的进行，你可以查看记忆保持率、复习次数和达成率。 复习卡片 · 记忆卡片 使用键入文字或手写内容创建复习卡片。 可用于词汇学习和记忆，即使不输入科目名称或标题，也能快速保存。 考试准备模式 在考试前快速复习重要内容。 你还可以与朋友分享考试准备卡片。 PDF 笔记 · 手写 · 备忘录 使用 PDF 学习，并添加手写或键入的笔记。 只需截取并保存，即可立即创建复习卡片和考试准备卡片。 复习通知 通过预定复习提醒，帮助你按计划坚持复习。 iPhone · iPad · Mac 同步 在 iPhone、iPad 和 Mac 之间同步复习卡片和 PDF 笔记，并可在任何设备上继续学习。 支持 50 多种语言 （英语、西班牙语、法语、德语、中文、日语、韩语、葡萄牙语、意大利语、印地语、阿拉伯语、乌尔都语、孟加拉语、俄语等） RecallNote 适用于资格认证考试、公务员考试、学校考试、语言学习、词汇学习以及日常学习。 RecallNote 不只是一款笔记或手写应用，它将学习、复习、记忆、间隔重复和考试准备整合在一个应用中。 RecallNote — 记录。复习。记住。 ※ 有关详细使用说明和最新更新，请查看应用内手册中的 TIP。",
     "fullDescription": "复习卡片 · 记忆 · 考试准备 · PDF 笔记 — 一站式完成。 使用 RecallNote 更高效地学习，让所学内容记得更久。 RecallNote 是一款集学习、复习和笔记于一体的应用，帮助你记录所学内容、反复复习并为考试做好准备。 基于遗忘曲线的间隔重复 在忘记之前及时复习所学内容，通过间隔重复强化长期记忆。 随着学习的进行，你可以查看记忆保持率、复习次数和达成率。 复习卡片 · 记忆卡片 使用键入文字或手写内容创建复习卡片。 可用于词汇学习和记忆，即使不输入科目名称或标题，也能快速保存。 考试准备模式 在考试前快速复习重要内容。 你还可以与朋友分享考试准备卡片。 PDF 笔记 · 手写 · 备忘录 使用 PDF 学习，并添加手写或键入的笔记。 只需截取并保存，即可立即创建复习卡片和考试准备卡片。 复习通知 通过预定复习提醒，帮助你按计划坚持复习。 iPhone · iPad · Mac 同步 在 iPhone、iPad 和 Mac 之间同步复习卡片和 PDF 笔记，并可在任何设备上继续学习。 支持 50 多种语言 （英语、西班牙语、法语、德语、中文、日语、韩语、葡萄牙语、意大利语、印地语、阿拉伯语、乌尔都语、孟加拉语、俄语等） RecallNote 适用于资格认证考试、公务员考试、学校考试、语言学习、词汇学习以及日常学习。 RecallNote 不只是一款笔记或手写应用，它将学习、复习、记忆、间隔重复和考试准备整合在一个应用中。 RecallNote — 记录。复习。记住。 ※ 有关详细使用说明和最新更新，请查看应用内手册中的 TIP。",
     "summaryDescription": "复习卡片 · 记忆 · 考试准备 · PDF 笔记 — 一站式完成。 使用 RecallNote 更高效地学习，让所学内容记得更久。 RecallNote 是一款集学习、复习和笔记于一体的应用，帮助你记录所学内容、反复复习并为考试做好准备。 基于遗忘曲线的间隔重复 在忘记之前及时复习所学内容，通过间隔重复强化长期记忆。 随着学习的进行，你可以查看记忆保持率、复习次数和达成率。 复习卡片 · 记忆卡片 使用键入文字或手写内容创建复习卡片。 可用于词汇学习和记忆，即使不输入科目名称或标题，也能快速保存。 考试准备模式 在考试前快速复习重要内容。 你还可以与朋友分享考试准备卡片。 PDF 笔记 · 手写 · 备忘录 使用 PDF 学习，并添加手写或键入的笔记。 只需截取并保存，即可立即创建复习卡片和考试准备卡片。 复习通知 通过预定复习提醒，帮助你按计划坚持复习。 iPhone · iPad · Mac 同步 在 iPhone、iPad 和 Mac 之间同步复习卡片和 PDF 笔记，并可在任何设备上继续学习。 支持 50 多种语言 （英语、西班牙语、法语、德语、中文、日语、韩语、葡萄牙语、意大利语、印地语、阿拉伯语、乌尔都语、孟加拉语、俄语等） RecallNote 适用于资格认证考试、公务员考试、学校考试、语言学习、词汇学习以及日常学习。 RecallNote 不只是一款笔记或手写应用，它将学习、复习、记忆、间隔重复和考试准备整合在一个应用中。 RecallNote — 记录。复习。记住。 ※ 有关详细使用说明和最新更新，请查看应用内手册中的 TIP。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/61/39/3e613978-8457-b973-d1d6-c2698a160d2e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/61/39/3e613978-8457-b973-d1d6-c2698a160d2e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/01/ca/9501cadb-315b-f8e2-1b68-67942323b011/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/01/ca/9501cadb-315b-f8e2-1b68-67942323b011/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "JAESIK YOUN",
     "artistName": "JAESIK YOUN",
     "screenshotUrls": [
@@ -24227,8 +24235,8 @@
     "description": "共享单车备案系统，面向城市运维管理人员打造，专为辖区共享电单车标准化备案业务提供全流程数字化支撑。系统支持车辆信息绑定、备案材料线上录入、备案状态实时查询、车辆档案统一管理，实现共享电单车备案流程线上化、数据可追溯，方便工作人员快速核验车辆备案资质，高效完成辖区共享单车规范化管控工作。",
     "fullDescription": "共享单车备案系统，面向城市运维管理人员打造，专为辖区共享电单车标准化备案业务提供全流程数字化支撑。系统支持车辆信息绑定、备案材料线上录入、备案状态实时查询、车辆档案统一管理，实现共享电单车备案流程线上化、数据可追溯，方便工作人员快速核验车辆备案资质，高效完成辖区共享单车规范化管控工作。",
     "summaryDescription": "共享单车备案系统，面向城市运维管理人员打造，专为辖区共享电单车标准化备案业务提供全流程数字化支撑。系统支持车辆信息绑定、备案材料线上录入、备案状态实时查询、车辆档案统一管理，实现共享电单车备案流程线上化、数据可追溯，方便工作人员快速核验车辆备案资质，高效完成辖区共享单车规范化管控工作。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/15/3a/0c153abd-daa4-24e9-bce2-80709759fdbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/15/3a/0c153abd-daa4-24e9-bce2-80709759fdbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/80/a2/8580a286-7794-328e-4e42-fb10fc69259f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/80/a2/8580a286-7794-328e-4e42-fb10fc69259f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Henan Xi Meng Nai Kang Network Technology Co.,Ltd.",
     "artistName": "Henan Xi Meng Nai Kang Network Technology Co.,Ltd.",
     "screenshotUrls": [
@@ -41275,8 +41283,8 @@
     "description": "EpubCraft is a complete ebook studio for iPad and Mac. Create EPUBs from scratch, polish imported books, or turn a scanned PDF into a clean, reflowable ebook — with no account, no subscription, no ads, and no tracking. Your books are saved locally on your device, and OCR runs entirely on-device using Apple Vision. A real editor, two ways to work Switch instantly between a visual editor and a raw-HTML source view, with live preview in edit, preview, or split layout. Everything you type round-trips losslessly, so power users get full control while everyone else just writes. Bring in anything Import EPUB, DOCX (Word), Markdown, plain text, and ZIP files. Merge several EPUBs into a single book with drag-to-reorder and automatic asset de-duplication — perfect for combining chapters, volumes, or serialized releases. Scan paper into ebooks (OCR Studio) Point EpubCraft at a scanned PDF and let on-device Apple Vision OCR do the rest. It filters running headers and footers, groups text back into proper paragraphs, detects chapter breaks, and stitches pages together — including smart handling for languages without spaces, like Thai. Turn an out-of-print scan into a tidy, searchable EPUB. Export everywhere readers are Standard EPUB for Apple Books and most readers KFX for Amazon Kindle KEPUB for Kobo Raw ZIP for inspection and debugging Format conversion (KFX, KEPUB) runs on-device. Make it look right Apply chapter templates, global CSS, and footnote styles. Embed custom fonts so your book looks identical on every device. Built-in templates include polished defaults plus first-class Thai typography. Powerful clean-up tools Book-wide search and replace, plus a library of saved regular-expression presets for the messy realities of imported text: split chapters on headings (English, Thai, Chinese, Japanese, Korean, and more), strip Word artifacts, collapse blank lines, normalize quotes and scene breaks, and remove page numbers from OCR output — all in a couple of taps. No account, no ads, no tracking EpubCraft has no sign-in and no advertising or analytics SDKs. Your books are saved locally on your device. A few features connect to online services to do their job — optional Thai word-spacing — so see our Privacy Policy for exactly what each one sends. Whether you're self-publishing a novel, archiving a scanned book, converting a manuscript for Kindle or Kobo, or just fixing a broken EPUB, EpubCraft gives you professional control without the complexity.",
     "fullDescription": "EpubCraft is a complete ebook studio for iPad and Mac. Create EPUBs from scratch, polish imported books, or turn a scanned PDF into a clean, reflowable ebook — with no account, no subscription, no ads, and no tracking. Your books are saved locally on your device, and OCR runs entirely on-device using Apple Vision. A real editor, two ways to work Switch instantly between a visual editor and a raw-HTML source view, with live preview in edit, preview, or split layout. Everything you type round-trips losslessly, so power users get full control while everyone else just writes. Bring in anything Import EPUB, DOCX (Word), Markdown, plain text, and ZIP files. Merge several EPUBs into a single book with drag-to-reorder and automatic asset de-duplication — perfect for combining chapters, volumes, or serialized releases. Scan paper into ebooks (OCR Studio) Point EpubCraft at a scanned PDF and let on-device Apple Vision OCR do the rest. It filters running headers and footers, groups text back into proper paragraphs, detects chapter breaks, and stitches pages together — including smart handling for languages without spaces, like Thai. Turn an out-of-print scan into a tidy, searchable EPUB. Export everywhere readers are Standard EPUB for Apple Books and most readers KFX for Amazon Kindle KEPUB for Kobo Raw ZIP for inspection and debugging Format conversion (KFX, KEPUB) runs on-device. Make it look right Apply chapter templates, global CSS, and footnote styles. Embed custom fonts so your book looks identical on every device. Built-in templates include polished defaults plus first-class Thai typography. Powerful clean-up tools Book-wide search and replace, plus a library of saved regular-expression presets for the messy realities of imported text: split chapters on headings (English, Thai, Chinese, Japanese, Korean, and more), strip Word artifacts, collapse blank lines, normalize quotes and scene breaks, and remove page numbers from OCR output — all in a couple of taps. No account, no ads, no tracking EpubCraft has no sign-in and no advertising or analytics SDKs. Your books are saved locally on your device. A few features connect to online services to do their job — optional Thai word-spacing — so see our Privacy Policy for exactly what each one sends. Whether you're self-publishing a novel, archiving a scanned book, converting a manuscript for Kindle or Kobo, or just fixing a broken EPUB, EpubCraft gives you professional control without the complexity.",
     "summaryDescription": "EpubCraft is a complete ebook studio for iPad and Mac. Create EPUBs from scratch, polish imported books, or turn a scanned PDF into a clean, reflowable ebook — with no account, no subscription, no ads, and no tracking. Your books are saved locally on your device, and OCR runs entirely on-device using Apple Vision. A real editor, two ways to work Switch instantly between a visual editor and a raw-HTML source view, with live preview in edit, preview, or split layout. Everything you type round-trips losslessly, so power users get full control while everyone else just writes. Bring in anything Import EPUB, DOCX (Word), Markdown, plain text, and ZIP files. Merge several EPUBs into a single book with drag-to-reorder and automatic asset de-duplication — perfect for combining chapters, volumes, or serialized releases. Scan paper into ebooks (OCR Studio) Point EpubCraft at a scanned PDF and let on-device Apple Vision OCR do the rest. It filters running headers and footers, groups text back into proper paragraphs, detects chapter breaks, and stitches pages together — including smart handling for languages without spaces, like Thai. Turn an out-of-print scan into a tidy, searchable EPUB. Export everywhere readers are Standard EPUB for Apple Books and most readers KFX for Amazon Kindle KEPUB for Kobo Raw ZIP for inspection and debugging Format conversion (KFX, KEPUB) runs on-device. Make it look right Apply chapter templates, global CSS, and footnote styles. Embed custom fonts so your book looks identical on every device. Built-in templates include polished defaults plus first-class Thai typography. Powerful clean-up tools Book-wide search and replace, plus a library of saved regular-expression presets for the messy realities of imported text: split chapters on headings (English, Thai, Chinese, Japanese, Korean, and more), strip Word artifacts, collapse blank lines, normalize quotes and scene breaks, and remove page numbers from OCR output — all in a couple of taps. No account, no ads, no tracking EpubCraft has no sign-in and no advertising or analytics SDKs. Your books are saved locally on your device. A few features connect to online services to do their job — optional Thai word-spacing — so see our Privacy Policy for exactly what each one sends. Whether you're self-publishing a novel, archiving a scanned book, converting a manuscript for Kindle or Kobo, or just fixing a broken EPUB, EpubCraft gives you professional control without the complexity.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/4e/e4/c94ee49c-c6cb-6cd8-5fe1-6092b2d7c424/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/4e/e4/c94ee49c-c6cb-6cd8-5fe1-6092b2d7c424/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/3f/19/d83f1936-4469-9eca-2247-b45a84aca03d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/3f/19/d83f1936-4469-9eca-2247-b45a84aca03d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Kasidech Tapang",
     "artistName": "Kasidech Tapang",
     "screenshotUrls": [
@@ -41466,11 +41474,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E7%8C%AB%E5%92%AA%E6%B5%B7%E7%9B%97%E5%9B%A2-%E7%95%AA%E8%8C%84%E9%92%9F%E4%B8%93%E6%B3%A8%E8%AE%A1%E6%97%B6%E5%99%A8/id6787769872?uo=4",
-    "description": "和一群猫咪海盗一起，用温馨的番茄钟专注。开始一轮专注，带上猫咪起航，计时结束就能拿到金币。分心的App在结束前一直锁着。 数据只留在手机本地，无需账号。 像游戏一样的计时器 自定义专注和休息时长，或直接用经典的25/5 每完成一轮就拿金币，不用等到周末 招募7只猫咪，190多套服装，还有船和营地装饰等你解锁 回到温馨的营地：吊床、篝火，还有在你工作时四处溜达的猫咪 专为容易分心的大脑设计 一个大按钮就开始。不用设置，也不用先整理待办 短轮次加可见的计时器，让时间不再\"隐形\" 连续记录从1天起步，糟糕的一周也不会让你前功尽弃 自己混合环境音：海浪、雨声、壁炉、Lo-fi，还有猫咪的呼噜声 让手机安静下来 可选的App和网站锁定，基于iOS屏幕使用时间。不用VPN，没有服务器 你来决定专注时锁哪些App。电话和短信随时可用 中途放弃会失去奖励。困难模式还要押上金币 船上还有 实时活动让计时器显示在锁屏和灵动岛上 每日任务，比如整理床铺、出门散步，可以赚额外金币 从水手到七海传奇，共11个海盗等级 航海日志记录每一分钟的专注 适合谁 想让学习不那么孤单、真正学完的学生 更适应短轮次和即时奖励的ADHD或容易分心的大脑 需要长时间深度专注的写作者、开发者和每一个人 价格 免费试用14天，之后选择简单的年度订阅，或一次性买断终身版。两种都能解锁完整App。永远没有广告。 隐私优先 一切都留在你的手机里。没有账号，没有追踪。锁定在本机运行，任何数据都不会离开设备。 使用条款：https://cachepapi.github.io/pirates-legal/terms/ 隐私政策：https://cachepapi.github.io/pirates-legal/privacy/ 和猫咪海盗团一起学习吧。船长，你的第一次航海已经准备好了！",
-    "fullDescription": "和一群猫咪海盗一起，用温馨的番茄钟专注。开始一轮专注，带上猫咪起航，计时结束就能拿到金币。分心的App在结束前一直锁着。 数据只留在手机本地，无需账号。 像游戏一样的计时器 自定义专注和休息时长，或直接用经典的25/5 每完成一轮就拿金币，不用等到周末 招募7只猫咪，190多套服装，还有船和营地装饰等你解锁 回到温馨的营地：吊床、篝火，还有在你工作时四处溜达的猫咪 专为容易分心的大脑设计 一个大按钮就开始。不用设置，也不用先整理待办 短轮次加可见的计时器，让时间不再\"隐形\" 连续记录从1天起步，糟糕的一周也不会让你前功尽弃 自己混合环境音：海浪、雨声、壁炉、Lo-fi，还有猫咪的呼噜声 让手机安静下来 可选的App和网站锁定，基于iOS屏幕使用时间。不用VPN，没有服务器 你来决定专注时锁哪些App。电话和短信随时可用 中途放弃会失去奖励。困难模式还要押上金币 船上还有 实时活动让计时器显示在锁屏和灵动岛上 每日任务，比如整理床铺、出门散步，可以赚额外金币 从水手到七海传奇，共11个海盗等级 航海日志记录每一分钟的专注 适合谁 想让学习不那么孤单、真正学完的学生 更适应短轮次和即时奖励的ADHD或容易分心的大脑 需要长时间深度专注的写作者、开发者和每一个人 价格 免费试用14天，之后选择简单的年度订阅，或一次性买断终身版。两种都能解锁完整App。永远没有广告。 隐私优先 一切都留在你的手机里。没有账号，没有追踪。锁定在本机运行，任何数据都不会离开设备。 使用条款：https://cachepapi.github.io/pirates-legal/terms/ 隐私政策：https://cachepapi.github.io/pirates-legal/privacy/ 和猫咪海盗团一起学习吧。船长，你的第一次航海已经准备好了！",
-    "summaryDescription": "和一群猫咪海盗一起，用温馨的番茄钟专注。开始一轮专注，带上猫咪起航，计时结束就能拿到金币。分心的App在结束前一直锁着。 数据只留在手机本地，无需账号。 像游戏一样的计时器 自定义专注和休息时长，或直接用经典的25/5 每完成一轮就拿金币，不用等到周末 招募7只猫咪，190多套服装，还有船和营地装饰等你解锁 回到温馨的营地：吊床、篝火，还有在你工作时四处溜达的猫咪 专为容易分心的大脑设计 一个大按钮就开始。不用设置，也不用先整理待办 短轮次加可见的计时器，让时间不再\"隐形\" 连续记录从1天起步，糟糕的一周也不会让你前功尽弃 自己混合环境音：海浪、雨声、壁炉、Lo-fi，还有猫咪的呼噜声 让手机安静下来 可选的App和网站锁定，基于iOS屏幕使用时间。不用VPN，没有服务器 你来决定专注时锁哪些App。电话和短信随时可用 中途放弃会失去奖励。困难模式还要押上金币 船上还有 实时活动让计时器显示在锁屏和灵动岛上 每日任务，比如整理床铺、出门散步，可以赚额外金币 从水手到七海传奇，共11个海盗等级 航海日志记录每一分钟的专注 适合谁 想让学习不那么孤单、真正学完的学生 更适应短轮次和即时奖励的ADHD或容易分心的大脑 需要长时间深度专注的写作者、开发者和每一个人 价格 免费试用14天，之后选择简单的年度订阅，或一次性买断终身版。两种都能解锁完整App。永远没有广告。 隐私优先 一切都留在你的手机里。没有账号，没有追踪。锁定在本机运行，任何数据都不会离开设备。 使用条款：https://cachepapi.github.io/pirates-legal/terms/ 隐私政策：https://cachepapi.github.io/pirates-legal/privacy/ 和猫咪海盗团一起学习吧。船长，你的第一次航海已经准备好了！",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/46/62/c14662d7-3519-d4b1-48ec-8c2648c7e0b4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/46/62/c14662d7-3519-d4b1-48ec-8c2648c7e0b4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "description": "和一群猫咪海盗一起，用温馨的番茄钟专注。开始一轮专注，带上猫咪起航，计时结束就能拿到金币。分心的App在结束前一直锁着。 数据只留在手机本地，无需账号。 像游戏一样的计时器 自定义专注和休息时长，或直接用经典的25/5 每完成一轮就拿金币，不用等到周末 招募7只猫咪，170多套服装，还有船和营地装饰等你解锁 回到温馨的营地：吊床、篝火，还有在你工作时四处溜达的猫咪 专为容易分心的大脑设计 一个大按钮就开始。不用设置，也不用先整理待办 短轮次加可见的计时器，让时间不再\"隐形\" 连续记录从1天起步，糟糕的一周也不会让你前功尽弃 自己混合环境音：海浪、雨声、壁炉、Lo-fi，还有猫咪的呼噜声 让手机安静下来 可选的App和网站锁定，基于iOS屏幕使用时间。不用VPN，没有服务器 你来决定专注时锁哪些App。电话和短信随时可用 中途放弃会失去奖励。困难模式下计时器无法提前结束 船上还有 实时活动让计时器显示在锁屏和灵动岛上 每天3个任务送到信箱，完成可赚额外金币 从水手到七海传奇，共11个海盗等级 航海日志记录每一分钟的专注 适合谁 想让学习不那么孤单、真正学完的学生 更适应短轮次和即时奖励的ADHD或容易分心的大脑 需要长时间深度专注的写作者、开发者和每一个人 价格 免费试用14天，之后选择简单的年度订阅，或一次性买断终身版。两种都能解锁完整App。永远没有广告。 隐私优先 一切都留在你的手机里。没有账号，没有追踪。锁定在本机运行，任何数据都不会离开设备。 使用条款：https://cachepapi.github.io/pirates-legal/terms/ 隐私政策：https://cachepapi.github.io/pirates-legal/privacy/ 和猫咪海盗团一起学习吧。船长，你的第一次航海已经准备好了！",
+    "fullDescription": "和一群猫咪海盗一起，用温馨的番茄钟专注。开始一轮专注，带上猫咪起航，计时结束就能拿到金币。分心的App在结束前一直锁着。 数据只留在手机本地，无需账号。 像游戏一样的计时器 自定义专注和休息时长，或直接用经典的25/5 每完成一轮就拿金币，不用等到周末 招募7只猫咪，170多套服装，还有船和营地装饰等你解锁 回到温馨的营地：吊床、篝火，还有在你工作时四处溜达的猫咪 专为容易分心的大脑设计 一个大按钮就开始。不用设置，也不用先整理待办 短轮次加可见的计时器，让时间不再\"隐形\" 连续记录从1天起步，糟糕的一周也不会让你前功尽弃 自己混合环境音：海浪、雨声、壁炉、Lo-fi，还有猫咪的呼噜声 让手机安静下来 可选的App和网站锁定，基于iOS屏幕使用时间。不用VPN，没有服务器 你来决定专注时锁哪些App。电话和短信随时可用 中途放弃会失去奖励。困难模式下计时器无法提前结束 船上还有 实时活动让计时器显示在锁屏和灵动岛上 每天3个任务送到信箱，完成可赚额外金币 从水手到七海传奇，共11个海盗等级 航海日志记录每一分钟的专注 适合谁 想让学习不那么孤单、真正学完的学生 更适应短轮次和即时奖励的ADHD或容易分心的大脑 需要长时间深度专注的写作者、开发者和每一个人 价格 免费试用14天，之后选择简单的年度订阅，或一次性买断终身版。两种都能解锁完整App。永远没有广告。 隐私优先 一切都留在你的手机里。没有账号，没有追踪。锁定在本机运行，任何数据都不会离开设备。 使用条款：https://cachepapi.github.io/pirates-legal/terms/ 隐私政策：https://cachepapi.github.io/pirates-legal/privacy/ 和猫咪海盗团一起学习吧。船长，你的第一次航海已经准备好了！",
+    "summaryDescription": "和一群猫咪海盗一起，用温馨的番茄钟专注。开始一轮专注，带上猫咪起航，计时结束就能拿到金币。分心的App在结束前一直锁着。 数据只留在手机本地，无需账号。 像游戏一样的计时器 自定义专注和休息时长，或直接用经典的25/5 每完成一轮就拿金币，不用等到周末 招募7只猫咪，170多套服装，还有船和营地装饰等你解锁 回到温馨的营地：吊床、篝火，还有在你工作时四处溜达的猫咪 专为容易分心的大脑设计 一个大按钮就开始。不用设置，也不用先整理待办 短轮次加可见的计时器，让时间不再\"隐形\" 连续记录从1天起步，糟糕的一周也不会让你前功尽弃 自己混合环境音：海浪、雨声、壁炉、Lo-fi，还有猫咪的呼噜声 让手机安静下来 可选的App和网站锁定，基于iOS屏幕使用时间。不用VPN，没有服务器 你来决定专注时锁哪些App。电话和短信随时可用 中途放弃会失去奖励。困难模式下计时器无法提前结束 船上还有 实时活动让计时器显示在锁屏和灵动岛上 每天3个任务送到信箱，完成可赚额外金币 从水手到七海传奇，共11个海盗等级 航海日志记录每一分钟的专注 适合谁 想让学习不那么孤单、真正学完的学生 更适应短轮次和即时奖励的ADHD或容易分心的大脑 需要长时间深度专注的写作者、开发者和每一个人 价格 免费试用14天，之后选择简单的年度订阅，或一次性买断终身版。两种都能解锁完整App。永远没有广告。 隐私优先 一切都留在你的手机里。没有账号，没有追踪。锁定在本机运行，任何数据都不会离开设备。 使用条款：https://cachepapi.github.io/pirates-legal/terms/ 隐私政策：https://cachepapi.github.io/pirates-legal/privacy/ 和猫咪海盗团一起学习吧。船长，你的第一次航海已经准备好了！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/ea/12/51ea1258-48a7-97f7-83bc-f722b0f1b6f6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/ea/12/51ea1258-48a7-97f7-83bc-f722b0f1b6f6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "John Jang",
     "artistName": "John Jang",
     "screenshotUrls": [
@@ -41626,8 +41634,8 @@
     "description": "SepiaPod 是一款在现代 iPhone 上重现经典便携音乐播放器操作手感的音乐应用。 欣赏专辑封面，挑选曲目，静静沉浸在音乐里。为你带来怀旧而舒适的体验。 【主要功能】 ・转盘・触控操作 ・专辑封面显示 / 列表显示切换 ・进度调整・音量调节・随机播放・重复播放 / 歌词显示 ・机身颜色・屏幕主题更改 ・横向显示 ・金属光泽 ・支持主屏幕小组件 (仅限 iOS 17 及以上) ・支持 iPhone 音乐资料库 怀旧。优雅。",
     "fullDescription": "SepiaPod 是一款在现代 iPhone 上重现经典便携音乐播放器操作手感的音乐应用。 欣赏专辑封面，挑选曲目，静静沉浸在音乐里。为你带来怀旧而舒适的体验。 【主要功能】 ・转盘・触控操作 ・专辑封面显示 / 列表显示切换 ・进度调整・音量调节・随机播放・重复播放 / 歌词显示 ・机身颜色・屏幕主题更改 ・横向显示 ・金属光泽 ・支持主屏幕小组件 (仅限 iOS 17 及以上) ・支持 iPhone 音乐资料库 怀旧。优雅。",
     "summaryDescription": "SepiaPod 是一款在现代 iPhone 上重现经典便携音乐播放器操作手感的音乐应用。 欣赏专辑封面，挑选曲目，静静沉浸在音乐里。为你带来怀旧而舒适的体验。 【主要功能】 ・转盘・触控操作 ・专辑封面显示 / 列表显示切换 ・进度调整・音量调节・随机播放・重复播放 / 歌词显示 ・机身颜色・屏幕主题更改 ・横向显示 ・金属光泽 ・支持主屏幕小组件 (仅限 iOS 17 及以上) ・支持 iPhone 音乐资料库 怀旧。优雅。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/c1/69/fcc169c7-90aa-8b8e-1f27-3043a5d4a264/app-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/c1/69/fcc169c7-90aa-8b8e-1f27-3043a5d4a264/app-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/8e/f0/698ef043-21f3-16ae-d2bc-7764624b999b/app-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/8e/f0/698ef043-21f3-16ae-d2bc-7764624b999b/app-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Kazuki Awasawa",
     "artistName": "Kazuki Awasawa",
     "screenshotUrls": [
@@ -44426,8 +44434,8 @@
     "description": "Control your devices with a simple remote right from your iPhone or iPad. Connect effortlessly to your smart TV or streaming device for an all-in-one, easy-to-use experience. Easy Navigation Swipe, scroll, and select using a responsive touchpad with zero delay. Simple Playback Play, pause, fast-forward, rewind, and adjust volume with intuitive controls. Works with Multiple Devices Manage several TVs or streaming devices effortlessly. Optimized for iOS A clean and minimal interface helps you access every control quickly. Take control of your entertainment with a smart, user-friendly remote designed for your everyday viewing. Note: Any references to third-party trademarks are used only to describe compatibility and functionality. This app is not affiliated with or endorsed by any trademark owner. Privacy Policy https://john-vicari.web.app/roku-remote-privacy.html Subscription Policy https://john-vicari.web.app/roku-remote-subscription-policy.html Terms of Use https://john-vicari.web.app/roku-remote-terms_of_use.html",
     "fullDescription": "Control your devices with a simple remote right from your iPhone or iPad. Connect effortlessly to your smart TV or streaming device for an all-in-one, easy-to-use experience. Easy Navigation Swipe, scroll, and select using a responsive touchpad with zero delay. Simple Playback Play, pause, fast-forward, rewind, and adjust volume with intuitive controls. Works with Multiple Devices Manage several TVs or streaming devices effortlessly. Optimized for iOS A clean and minimal interface helps you access every control quickly. Take control of your entertainment with a smart, user-friendly remote designed for your everyday viewing. Note: Any references to third-party trademarks are used only to describe compatibility and functionality. This app is not affiliated with or endorsed by any trademark owner. Privacy Policy https://john-vicari.web.app/roku-remote-privacy.html Subscription Policy https://john-vicari.web.app/roku-remote-subscription-policy.html Terms of Use https://john-vicari.web.app/roku-remote-terms_of_use.html",
     "summaryDescription": "Control your devices with a simple remote right from your iPhone or iPad. Connect effortlessly to your smart TV or streaming device for an all-in-one, easy-to-use experience. Easy Navigation Swipe, scroll, and select using a responsive touchpad with zero delay. Simple Playback Play, pause, fast-forward, rewind, and adjust volume with intuitive controls. Works with Multiple Devices Manage several TVs or streaming devices effortlessly. Optimized for iOS A clean and minimal interface helps you access every control quickly. Take control of your entertainment with a smart, user-friendly remote designed for your everyday viewing. Note: Any references to third-party trademarks are used only to describe compatibility and functionality. This app is not affiliated with or endorsed by any trademark owner. Privacy Policy https://john-vicari.web.app/roku-remote-privacy.html Subscription Policy https://john-vicari.web.app/roku-remote-subscription-policy.html Terms of Use https://john-vicari.web.app/roku-remote-terms_of_use.html",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/7a/9f/a77a9f68-ebfa-2cd9-abce-160197050208/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/7a/9f/a77a9f68-ebfa-2cd9-abce-160197050208/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/40/d1/2140d1a1-f179-619f-2d66-9f3683fe66d0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/40/d1/2140d1a1-f179-619f-2d66-9f3683fe66d0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "John,V Vicari",
     "artistName": "John,V Vicari",
     "screenshotUrls": [
@@ -45808,7 +45816,7 @@
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
           "inAppPurchases": {}
@@ -63776,8 +63784,8 @@
     "_externalSourceFirstSeen": 1787454071200
   },
   "6775503330": {
-    "name": "E Signature Creator・PDF Maker",
-    "trackName": "E Signature Creator・PDF Maker",
+    "name": "eSign PDF Expert Editor",
+    "trackName": "eSign PDF Expert Editor",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
@@ -63829,12 +63837,12 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/e-signature-creator-pdf-maker/id6775503330?mt=12&uo=4",
+    "trackViewUrl": "https://apps.apple.com/cn/app/esign-pdf-expert-editor/id6775503330?mt=12&uo=4",
     "description": "e Signature Creator PDF Maker PDF Editor is an all-in-one eSign and document signing app for Mac designed to help you Sign pdf documents, complete Pdf fill sign workflows, create an E sign, Signnow, manage Signing documents, use a Signature scanner, make a signature with Sign maker and Signature creator tools, Scan document files, create PDFs with Pdf maker, handle scans with Scanner pro and Document scanner features, and work with every Pdf reader, Pdf editor and Pdf scanner tool you need in one place. CREATE & ADD YOUR SIGNATURE Create a professional electronic signature in seconds. Draw your handwritten signature, type your name or initials, or import an existing signature and place it exactly where needed. Save signatures for faster repeat use across contracts, forms, invoices, agreements, applications and business documents. FILL & SIGN PDF DOCUMENTS Open a PDF, add your signature, insert text, fill forms, add dates, initials, notes and other details, then save, export, share or print the completed document. The streamlined PDF fill and sign workflow helps you handle approvals and paperwork without printing and rescanning. SIGNATURE SCANNER & DOCUMENT SCANNER Turn paper signatures and documents into digital files. Import photos or scanned pages, create clean PDFs, arrange pages and build documents ready for signing, editing or sharing. Use the app as a document scanner, PDF scanner and scan-to-PDF tool for receipts, forms, notes, bills and paperwork. PDF EDITOR & ANNOTATION TOOLS Edit PDF files with useful tools for adding text and images, highlighting content, underlining text, drawing, adding shapes, writing notes and annotating pages. Review contracts, reports, assignments, forms and office documents from one Mac workspace. PDF MAKER & PDF CONVERTER Create PDFs from images and popular file formats, or convert PDFs into other formats when needed. Supported workflows include JPG to PDF, PNG to PDF, image to PDF, Word to PDF, Excel to PDF, PowerPoint to PDF, PDF to JPG, PDF to PNG, PDF to Text, PDF to Word and PDF to Excel. MERGE, SPLIT, COMPRESS & ORGANIZE Combine multiple PDF files, split documents, rotate pages, reorder pages and organize your files. Compress PDFs to reduce file size for faster sharing, email and uploads. PDF READER, READ ALOUD & PRINT Open and review documents with a clean PDF reader. Use read-aloud support for reports, articles, study material and hands-free reading. When your document is ready, print directly from your Mac. BUILT FOR EVERYDAY SIGNING Whether you are signing a contract, filling a form, approving an invoice, creating a PDF, scanning paperwork or editing a document, e Signature Creator PDF Maker PDF Editor brings signature creation, document signing and PDF tools into one simple workflow. Your documents remain under your control while you choose when to open, edit, sign, save, convert, export, share or print them. Subscription Weekly with Free Trial - $7.99 Yearly - $29.99 Privacy Policy: https://pdfeditortoolpro.blogspot.com/2026/06/privacy-policy.html Terms of USE (EULA) - https://pdfeditortoolpro.blogspot.com/2026/08/terms-of-use.html",
     "fullDescription": "e Signature Creator PDF Maker PDF Editor is an all-in-one eSign and document signing app for Mac designed to help you Sign pdf documents, complete Pdf fill sign workflows, create an E sign, Signnow, manage Signing documents, use a Signature scanner, make a signature with Sign maker and Signature creator tools, Scan document files, create PDFs with Pdf maker, handle scans with Scanner pro and Document scanner features, and work with every Pdf reader, Pdf editor and Pdf scanner tool you need in one place. CREATE & ADD YOUR SIGNATURE Create a professional electronic signature in seconds. Draw your handwritten signature, type your name or initials, or import an existing signature and place it exactly where needed. Save signatures for faster repeat use across contracts, forms, invoices, agreements, applications and business documents. FILL & SIGN PDF DOCUMENTS Open a PDF, add your signature, insert text, fill forms, add dates, initials, notes and other details, then save, export, share or print the completed document. The streamlined PDF fill and sign workflow helps you handle approvals and paperwork without printing and rescanning. SIGNATURE SCANNER & DOCUMENT SCANNER Turn paper signatures and documents into digital files. Import photos or scanned pages, create clean PDFs, arrange pages and build documents ready for signing, editing or sharing. Use the app as a document scanner, PDF scanner and scan-to-PDF tool for receipts, forms, notes, bills and paperwork. PDF EDITOR & ANNOTATION TOOLS Edit PDF files with useful tools for adding text and images, highlighting content, underlining text, drawing, adding shapes, writing notes and annotating pages. Review contracts, reports, assignments, forms and office documents from one Mac workspace. PDF MAKER & PDF CONVERTER Create PDFs from images and popular file formats, or convert PDFs into other formats when needed. Supported workflows include JPG to PDF, PNG to PDF, image to PDF, Word to PDF, Excel to PDF, PowerPoint to PDF, PDF to JPG, PDF to PNG, PDF to Text, PDF to Word and PDF to Excel. MERGE, SPLIT, COMPRESS & ORGANIZE Combine multiple PDF files, split documents, rotate pages, reorder pages and organize your files. Compress PDFs to reduce file size for faster sharing, email and uploads. PDF READER, READ ALOUD & PRINT Open and review documents with a clean PDF reader. Use read-aloud support for reports, articles, study material and hands-free reading. When your document is ready, print directly from your Mac. BUILT FOR EVERYDAY SIGNING Whether you are signing a contract, filling a form, approving an invoice, creating a PDF, scanning paperwork or editing a document, e Signature Creator PDF Maker PDF Editor brings signature creation, document signing and PDF tools into one simple workflow. Your documents remain under your control while you choose when to open, edit, sign, save, convert, export, share or print them. Subscription Weekly with Free Trial - $7.99 Yearly - $29.99 Privacy Policy: https://pdfeditortoolpro.blogspot.com/2026/06/privacy-policy.html Terms of USE (EULA) - https://pdfeditortoolpro.blogspot.com/2026/08/terms-of-use.html",
     "summaryDescription": "e Signature Creator PDF Maker PDF Editor is an all-in-one eSign and document signing app for Mac designed to help you Sign pdf documents, complete Pdf fill sign workflows, create an E sign, Signnow, manage Signing documents, use a Signature scanner, make a signature with Sign maker and Signature creator tools, Scan document files, create PDFs with Pdf maker, handle scans with Scanner pro and Document scanner features, and work with every Pdf reader, Pdf editor and Pdf scanner tool you need in one place. CREATE & ADD YOUR SIGNATURE Create a professional electronic signature in seconds. Draw your handwritten signature, type your name or initials, or import an existing signature and place it exactly where needed. Save signatures for faster repeat use across contracts, forms, invoices, agreements, applications and business documents. FILL & SIGN PDF DOCUMENTS Open a PDF, add your signature, insert text, fill forms, add dates, initials, notes and other details, then save, export, share or print the completed document. The streamlined PDF fill and sign workflow helps you handle approvals and paperwork without printing and rescanning. SIGNATURE SCANNER & DOCUMENT SCANNER Turn paper signatures and documents into digital files. Import photos or scanned pages, create clean PDFs, arrange pages and build documents ready for signing, editing or sharing. Use the app as a document scanner, PDF scanner and scan-to-PDF tool for receipts, forms, notes, bills and paperwork. PDF EDITOR & ANNOTATION TOOLS Edit PDF files with useful tools for adding text and images, highlighting content, underlining text, drawing, adding shapes, writing notes and annotating pages. Review contracts, reports, assignments, forms and office documents from one Mac workspace. PDF MAKER & PDF CONVERTER Create PDFs from images and popular file formats, or convert PDFs into other formats when needed. Supported workflows include JPG to PDF, PNG to PDF, image to PDF, Word to PDF, Excel to PDF, PowerPoint to PDF, PDF to JPG, PDF to PNG, PDF to Text, PDF to Word and PDF to Excel. MERGE, SPLIT, COMPRESS & ORGANIZE Combine multiple PDF files, split documents, rotate pages, reorder pages and organize your files. Compress PDFs to reduce file size for faster sharing, email and uploads. PDF READER, READ ALOUD & PRINT Open and review documents with a clean PDF reader. Use read-aloud support for reports, articles, study material and hands-free reading. When your document is ready, print directly from your Mac. BUILT FOR EVERYDAY SIGNING Whether you are signing a contract, filling a form, approving an invoice, creating a PDF, scanning paperwork or editing a document, e Signature Creator PDF Maker PDF Editor brings signature creation, document signing and PDF tools into one simple workflow. Your documents remain under your control while you choose when to open, edit, sign, save, convert, export, share or print them. Subscription Weekly with Free Trial - $7.99 Yearly - $29.99 Privacy Policy: https://pdfeditortoolpro.blogspot.com/2026/06/privacy-policy.html Terms of USE (EULA) - https://pdfeditortoolpro.blogspot.com/2026/08/terms-of-use.html",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/24/a3/5a24a3ad-a144-0786-d9f9-793e5f3ff87a/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/24/a3/5a24a3ad-a144-0786-d9f9-793e5f3ff87a/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/39/a7/0439a70c-c03b-dbb1-229c-718f22cb71bf/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/39/a7/0439a70c-c03b-dbb1-229c-718f22cb71bf/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",
     "sellerName": "Sunita .",
     "artistName": "Sunita .",
     "screenshotUrls": [
@@ -65190,6 +65198,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789642816019,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Unlock": "¥22.00"
+          }
+        },
         {
           "timestamp": 1789603170031,
           "price": 0,
@@ -71413,6 +71429,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789642816019,
+          "price": 9.9,
+          "formattedPrice": "¥9.90",
+          "inAppPurchases": {
+            "风味目标": "¥9.90",
+            "烘焙复盘": "¥9.90"
+          }
+        },
         {
           "timestamp": 1789582569855,
           "price": 9.9,
@@ -84980,8 +85005,8 @@
     "description": "自然说话，dun 清晰书写。 dun 是一款 AI 语音键盘，能把你说的话变成润色好的、可直接发送的文字——在邮件、信息、Slack、WhatsApp、备忘录以及任何其他 App 中都适用。以思考的速度说话，dun 完全跟得上。 需要 Dun Pro。使用语音听写、dun 键盘、写作风格和翻译功能，需要有效的 Dun Pro 订阅或一次性终身购买。提供周付、月付和年付订阅方案；价格在购买前显示。 与纯云端听写应用不同，dun 在你的 iPhone 上运行语音识别。你的声音只留在设备上。只有在你听写时麦克风才会开启。不抓取屏幕获取「上下文」。不用你的语音训练模型。 为什么选择 dun 真正能听写的键盘——完整布局，顶部有状态和波形，可以改字、加表情，流畅不停顿 思绪说到一半可以暂停，无需结束会话 写作风格由你掌控：精确、轻度整理或更强润色（友好、专业、简短）。未经你同意，dun 绝不擅自「优化」语义 用一种语言说，用另一种语言粘贴。dun 会在文本框里自动翻译你的语音 隐私优先，全程本地处理！所有音频都在这台 iPhone 上转录；只有听写时麦克风才开启 听写时 Dynamic Island 显示 Live Activity 无需账号或登录。使用听写和高级功能需要 Dun Pro —— 有效订阅或一次性终身购买 适合这样的场景 散步时写长邮件 回 Slack 和 WhatsApp，语气像你自己 在想法消失前及时记下 不需要单独的翻译 App，也能双语写作 使用方法 1. 添加 dun 键盘并允许完全访问（这样键盘才能与 App 协同并插入文本） 2. 允许麦克风 3. 一次性下载设备端语音模型 4. 切换到 dun，点麦克风，开始说话。需要时暂停，停止后插入文字 隐私，一句话 音频在这台 iPhone 上转录。可选的风格润色和翻译在可用时使用 Apple 设备端 Foundation Models。我们不会用云端 STT 处理你的声音。 系统要求 iPhone，iOS 26 或更高版本。Apple Intelligence 功能（风格/翻译）需要兼容设备。 其他信息 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策：https://www.manuelfessen.de/dun/privacy",
     "fullDescription": "自然说话，dun 清晰书写。 dun 是一款 AI 语音键盘，能把你说的话变成润色好的、可直接发送的文字——在邮件、信息、Slack、WhatsApp、备忘录以及任何其他 App 中都适用。以思考的速度说话，dun 完全跟得上。 需要 Dun Pro。使用语音听写、dun 键盘、写作风格和翻译功能，需要有效的 Dun Pro 订阅或一次性终身购买。提供周付、月付和年付订阅方案；价格在购买前显示。 与纯云端听写应用不同，dun 在你的 iPhone 上运行语音识别。你的声音只留在设备上。只有在你听写时麦克风才会开启。不抓取屏幕获取「上下文」。不用你的语音训练模型。 为什么选择 dun 真正能听写的键盘——完整布局，顶部有状态和波形，可以改字、加表情，流畅不停顿 思绪说到一半可以暂停，无需结束会话 写作风格由你掌控：精确、轻度整理或更强润色（友好、专业、简短）。未经你同意，dun 绝不擅自「优化」语义 用一种语言说，用另一种语言粘贴。dun 会在文本框里自动翻译你的语音 隐私优先，全程本地处理！所有音频都在这台 iPhone 上转录；只有听写时麦克风才开启 听写时 Dynamic Island 显示 Live Activity 无需账号或登录。使用听写和高级功能需要 Dun Pro —— 有效订阅或一次性终身购买 适合这样的场景 散步时写长邮件 回 Slack 和 WhatsApp，语气像你自己 在想法消失前及时记下 不需要单独的翻译 App，也能双语写作 使用方法 1. 添加 dun 键盘并允许完全访问（这样键盘才能与 App 协同并插入文本） 2. 允许麦克风 3. 一次性下载设备端语音模型 4. 切换到 dun，点麦克风，开始说话。需要时暂停，停止后插入文字 隐私，一句话 音频在这台 iPhone 上转录。可选的风格润色和翻译在可用时使用 Apple 设备端 Foundation Models。我们不会用云端 STT 处理你的声音。 系统要求 iPhone，iOS 26 或更高版本。Apple Intelligence 功能（风格/翻译）需要兼容设备。 其他信息 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策：https://www.manuelfessen.de/dun/privacy",
     "summaryDescription": "自然说话，dun 清晰书写。 dun 是一款 AI 语音键盘，能把你说的话变成润色好的、可直接发送的文字——在邮件、信息、Slack、WhatsApp、备忘录以及任何其他 App 中都适用。以思考的速度说话，dun 完全跟得上。 需要 Dun Pro。使用语音听写、dun 键盘、写作风格和翻译功能，需要有效的 Dun Pro 订阅或一次性终身购买。提供周付、月付和年付订阅方案；价格在购买前显示。 与纯云端听写应用不同，dun 在你的 iPhone 上运行语音识别。你的声音只留在设备上。只有在你听写时麦克风才会开启。不抓取屏幕获取「上下文」。不用你的语音训练模型。 为什么选择 dun 真正能听写的键盘——完整布局，顶部有状态和波形，可以改字、加表情，流畅不停顿 思绪说到一半可以暂停，无需结束会话 写作风格由你掌控：精确、轻度整理或更强润色（友好、专业、简短）。未经你同意，dun 绝不擅自「优化」语义 用一种语言说，用另一种语言粘贴。dun 会在文本框里自动翻译你的语音 隐私优先，全程本地处理！所有音频都在这台 iPhone 上转录；只有听写时麦克风才开启 听写时 Dynamic Island 显示 Live Activity 无需账号或登录。使用听写和高级功能需要 Dun Pro —— 有效订阅或一次性终身购买 适合这样的场景 散步时写长邮件 回 Slack 和 WhatsApp，语气像你自己 在想法消失前及时记下 不需要单独的翻译 App，也能双语写作 使用方法 1. 添加 dun 键盘并允许完全访问（这样键盘才能与 App 协同并插入文本） 2. 允许麦克风 3. 一次性下载设备端语音模型 4. 切换到 dun，点麦克风，开始说话。需要时暂停，停止后插入文字 隐私，一句话 音频在这台 iPhone 上转录。可选的风格润色和翻译在可用时使用 Apple 设备端 Foundation Models。我们不会用云端 STT 处理你的声音。 系统要求 iPhone，iOS 26 或更高版本。Apple Intelligence 功能（风格/翻译）需要兼容设备。 其他信息 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私政策：https://www.manuelfessen.de/dun/privacy",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/d9/11/a6d91111-d0be-5088-524e-64d1fe7c1416/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/d9/11/a6d91111-d0be-5088-524e-64d1fe7c1416/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/8d/4d/9c8d4d24-3f9e-56e4-a673-d1478c5eda3b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/8d/4d/9c8d4d24-3f9e-56e4-a673-d1478c5eda3b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "Manuel Fessen",
     "artistName": "Manuel Fessen",
     "screenshotUrls": [
@@ -86137,8 +86162,8 @@
     "description": "情绪碎碎碎是一款轻量的情绪释放 App。对着屏幕大声喊出来，把烦人的文字一个个震碎，在 15 秒内获得你的本次爽值。 不管是工作、社交，还是日常生活里让你不开心、内耗的人和事，都可以在安全、私密的环境里用爽了么快速释放一下。应用只在本地检测声音强弱，不录音、不上传音频、不保存个人数据。",
     "fullDescription": "情绪碎碎碎是一款轻量的情绪释放 App。对着屏幕大声喊出来，把烦人的文字一个个震碎，在 15 秒内获得你的本次爽值。 不管是工作、社交，还是日常生活里让你不开心、内耗的人和事，都可以在安全、私密的环境里用爽了么快速释放一下。应用只在本地检测声音强弱，不录音、不上传音频、不保存个人数据。",
     "summaryDescription": "情绪碎碎碎是一款轻量的情绪释放 App。对着屏幕大声喊出来，把烦人的文字一个个震碎，在 15 秒内获得你的本次爽值。 不管是工作、社交，还是日常生活里让你不开心、内耗的人和事，都可以在安全、私密的环境里用爽了么快速释放一下。应用只在本地检测声音强弱，不录音、不上传音频、不保存个人数据。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/47/e9/8447e965-9f3c-e887-843c-466a0921de43/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/47/e9/8447e965-9f3c-e887-843c-466a0921de43/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/81/a7/5681a7c3-4d15-9f38-898c-a53336240e1a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/81/a7/5681a7c3-4d15-9f38-898c-a53336240e1a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "卓凡 张",
     "artistName": "卓凡 张",
     "screenshotUrls": [
@@ -90036,6 +90061,14 @@
     "history": [
       [
         {
+          "timestamp": 1789642816019,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789414087442,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -90060,9 +90093,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/clippro-video-photo-editor/id6795239812?uo=4",
-    "description": "A complete video, photo and collage editor that never leaves your device. Cut on a real timeline, grade with sixteen cinematic looks, add titles, stickers and music, brand it with your own watermark, and export up to 4K. No account, no ads, no subscription, and no internet connection required — ever. WHAT YOU SEE IS WHAT YOU EXPORT ClipPro previews and renders through one engine, so the grade, crop, title or transition you see while editing is exactly what lands in the finished file. No surprises after a long render. A REAL TIMELINE Multi-clip editing with frame thumbnails Split, merge, trim, duplicate and reorder Speed from 0.1x to 16x, with audio kept in sync Freeze frame from any point Interactive crop with aspect lock, rotate and flip Fifteen transitions: fade, dissolve, slides, wipes, iris, zoom, whip pan, flash and blur Undo and redo, plus autosave — there is no Save button to forget SIXTEEN CINEMATIC GRADES B&W, Warm, Cool, Vivid, Fade, Vintage, Cinema, HDR, Film, Retro, Vlog, Neon, Aesthetic, Portrait and Landscape — each with its own strength dial, and each previewed on your own footage rather than a stock thumbnail. TITLES, STICKERS AND DRAWING Seven typefaces, colour, outline, shadow, spacing and opacity Four caption background styles Eleven in and out animations, including typewriter Eighteen ready-made title presets Around 450 emoji stickers across eight groups Freehand drawing with pen, highlighter, arrow, line, rectangle and oval Drag anything on the preview; time it on its own timeline lane SOUND Add music from your files Extract a clip's own audio onto its own lane Record a voiceover against the picture Generate narration with on-device text to speech Built-in sound effects, synthesised rather than sampled Volume, fade in, fade out and a real noise reducer Waveforms drawn on the timeline so you can cut to the beat YOUR BRAND, EVERY VIDEO Save a template once — canvas shape, watermark, intro card and end card — and apply it in a tap. Cards arrive as real, editable clips, and every piece is addressable: tap the subscribe button to edit the button, tap the bell to edit the bell. Five creator presets included. PHOTO EDITOR The same crop, grades, text, stickers and drawing, exported as an image in JPEG, PNG or HEIC. COLLAGE Up to nine photos in one frame across twenty layouts. Pan, zoom, rotate, flip and grade each cell, choose from six frame shapes, adjust spacing, corners and margins, and finish with a flat or gradient background. EXPORT ON YOUR TERMS 720p, 1080p, 2K or 4K 24, 30 or 60 fps MP4, MOV or GIF Social presets for YouTube, Instagram, TikTok, Facebook and WhatsApp A live file-size estimate on every option, before you render IPHONE, IPAD AND MAC One app, designed for each. The iPad and Mac layouts use the extra room rather than stretching the phone interface, and full keyboard control is built in. PRIVATE BY DESIGN ClipPro contains no networking code at all. Your footage is never uploaded, there is no account to create, and nothing is tracked. It works in aeroplane mode because it has to — everything renders on your own device. Questions or ideas? Write to contact@dowble.com. We reply within a day.",
-    "fullDescription": "A complete video, photo and collage editor that never leaves your device. Cut on a real timeline, grade with sixteen cinematic looks, add titles, stickers and music, brand it with your own watermark, and export up to 4K. No account, no ads, no subscription, and no internet connection required — ever. WHAT YOU SEE IS WHAT YOU EXPORT ClipPro previews and renders through one engine, so the grade, crop, title or transition you see while editing is exactly what lands in the finished file. No surprises after a long render. A REAL TIMELINE Multi-clip editing with frame thumbnails Split, merge, trim, duplicate and reorder Speed from 0.1x to 16x, with audio kept in sync Freeze frame from any point Interactive crop with aspect lock, rotate and flip Fifteen transitions: fade, dissolve, slides, wipes, iris, zoom, whip pan, flash and blur Undo and redo, plus autosave — there is no Save button to forget SIXTEEN CINEMATIC GRADES B&W, Warm, Cool, Vivid, Fade, Vintage, Cinema, HDR, Film, Retro, Vlog, Neon, Aesthetic, Portrait and Landscape — each with its own strength dial, and each previewed on your own footage rather than a stock thumbnail. TITLES, STICKERS AND DRAWING Seven typefaces, colour, outline, shadow, spacing and opacity Four caption background styles Eleven in and out animations, including typewriter Eighteen ready-made title presets Around 450 emoji stickers across eight groups Freehand drawing with pen, highlighter, arrow, line, rectangle and oval Drag anything on the preview; time it on its own timeline lane SOUND Add music from your files Extract a clip's own audio onto its own lane Record a voiceover against the picture Generate narration with on-device text to speech Built-in sound effects, synthesised rather than sampled Volume, fade in, fade out and a real noise reducer Waveforms drawn on the timeline so you can cut to the beat YOUR BRAND, EVERY VIDEO Save a template once — canvas shape, watermark, intro card and end card — and apply it in a tap. Cards arrive as real, editable clips, and every piece is addressable: tap the subscribe button to edit the button, tap the bell to edit the bell. Five creator presets included. PHOTO EDITOR The same crop, grades, text, stickers and drawing, exported as an image in JPEG, PNG or HEIC. COLLAGE Up to nine photos in one frame across twenty layouts. Pan, zoom, rotate, flip and grade each cell, choose from six frame shapes, adjust spacing, corners and margins, and finish with a flat or gradient background. EXPORT ON YOUR TERMS 720p, 1080p, 2K or 4K 24, 30 or 60 fps MP4, MOV or GIF Social presets for YouTube, Instagram, TikTok, Facebook and WhatsApp A live file-size estimate on every option, before you render IPHONE, IPAD AND MAC One app, designed for each. The iPad and Mac layouts use the extra room rather than stretching the phone interface, and full keyboard control is built in. PRIVATE BY DESIGN ClipPro contains no networking code at all. Your footage is never uploaded, there is no account to create, and nothing is tracked. It works in aeroplane mode because it has to — everything renders on your own device. Questions or ideas? Write to contact@dowble.com. We reply within a day.",
-    "summaryDescription": "A complete video, photo and collage editor that never leaves your device. Cut on a real timeline, grade with sixteen cinematic looks, add titles, stickers and music, brand it with your own watermark, and export up to 4K. No account, no ads, no subscription, and no internet connection required — ever. WHAT YOU SEE IS WHAT YOU EXPORT ClipPro previews and renders through one engine, so the grade, crop, title or transition you see while editing is exactly what lands in the finished file. No surprises after a long render. A REAL TIMELINE Multi-clip editing with frame thumbnails Split, merge, trim, duplicate and reorder Speed from 0.1x to 16x, with audio kept in sync Freeze frame from any point Interactive crop with aspect lock, rotate and flip Fifteen transitions: fade, dissolve, slides, wipes, iris, zoom, whip pan, flash and blur Undo and redo, plus autosave — there is no Save button to forget SIXTEEN CINEMATIC GRADES B&W, Warm, Cool, Vivid, Fade, Vintage, Cinema, HDR, Film, Retro, Vlog, Neon, Aesthetic, Portrait and Landscape — each with its own strength dial, and each previewed on your own footage rather than a stock thumbnail. TITLES, STICKERS AND DRAWING Seven typefaces, colour, outline, shadow, spacing and opacity Four caption background styles Eleven in and out animations, including typewriter Eighteen ready-made title presets Around 450 emoji stickers across eight groups Freehand drawing with pen, highlighter, arrow, line, rectangle and oval Drag anything on the preview; time it on its own timeline lane SOUND Add music from your files Extract a clip's own audio onto its own lane Record a voiceover against the picture Generate narration with on-device text to speech Built-in sound effects, synthesised rather than sampled Volume, fade in, fade out and a real noise reducer Waveforms drawn on the timeline so you can cut to the beat YOUR BRAND, EVERY VIDEO Save a template once — canvas shape, watermark, intro card and end card — and apply it in a tap. Cards arrive as real, editable clips, and every piece is addressable: tap the subscribe button to edit the button, tap the bell to edit the bell. Five creator presets included. PHOTO EDITOR The same crop, grades, text, stickers and drawing, exported as an image in JPEG, PNG or HEIC. COLLAGE Up to nine photos in one frame across twenty layouts. Pan, zoom, rotate, flip and grade each cell, choose from six frame shapes, adjust spacing, corners and margins, and finish with a flat or gradient background. EXPORT ON YOUR TERMS 720p, 1080p, 2K or 4K 24, 30 or 60 fps MP4, MOV or GIF Social presets for YouTube, Instagram, TikTok, Facebook and WhatsApp A live file-size estimate on every option, before you render IPHONE, IPAD AND MAC One app, designed for each. The iPad and Mac layouts use the extra room rather than stretching the phone interface, and full keyboard control is built in. PRIVATE BY DESIGN ClipPro contains no networking code at all. Your footage is never uploaded, there is no account to create, and nothing is tracked. It works in aeroplane mode because it has to — everything renders on your own device. Questions or ideas? Write to contact@dowble.com. We reply within a day.",
+    "description": "一个完整的视频、照片和拼贴编辑器，永远不会离开您的设备。在真实的时间轴上进行剪辑，使用 16 种电影外观进行调色，添加标题、贴纸和音乐，使用您自己的水印进行标记，并导出高达 4K 的视频。永远不需要帐户、没有广告、不需要订阅、也不需要互联网连接。您所看到的就是您导出的 ClipPro 通过一个引擎进行预览和渲染，因此您在编辑时看到的等级、裁剪、标题或过渡正是最终文件中的内容。经过长时间的渲染后，没有什么惊喜。真实的时间轴 使用帧缩略图进行多剪辑编辑 分割、合并、修剪、",
+    "fullDescription": "一个完整的视频、照片和拼贴编辑器，永远不会离开您的设备。在真实的时间轴上进行剪辑，使用 16 种电影外观进行调色，添加标题、贴纸和音乐，使用您自己的水印进行标记，并导出高达 4K 的视频。永远不需要帐户、没有广告、不需要订阅、也不需要互联网连接。您所看到的就是您导出的 ClipPro 通过一个引擎进行预览和渲染，因此您在编辑时看到的等级、裁剪、标题或过渡正是最终文件中的内容。经过长时间的渲染后，没有什么惊喜。真实的时间轴 使用帧缩略图进行多剪辑编辑 分割、合并、修剪、",
+    "summaryDescription": "一个完整的视频、照片和拼贴编辑器，永远不会离开您的设备。在真实的时间轴上进行剪辑，使用 16 种电影外观进行调色，添加标题、贴纸和音乐，使用您自己的水印进行标记，并导出高达 4K 的视频。永远不需要帐户、没有广告、不需要订阅、也不需要互联网连接。您所看到的就是您导出的 ClipPro 通过一个引擎进行预览和渲染，因此您在编辑时看到的等级、裁剪、标题或过渡正是最终文件中的内容。经过长时间的渲染后，没有什么惊喜。真实的时间轴 使用帧缩略图进行多剪辑编辑 分割、合并、修剪、",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/93/78/eb937878-9ee0-f75c-4c70-204a924e2904/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/93/78/eb937878-9ee0-f75c-4c70-204a924e2904/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Ram Tulugu",
@@ -91667,7 +91700,7 @@
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
           "inAppPurchases": {
@@ -92259,10 +92292,18 @@
       "formattedPrice": "¥8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789251834039,
@@ -94550,9 +94591,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/pocket-delver/id6764038610?uo=4",
-    "description": "Pocket Delver 是一款紧凑的手工益智游戏，涉及挖掘、落下的岩石、闪闪发光的宝石，以及勉强活着出来。在泥土中挖洞，将松散的巨石撞到敌人身上，将他们从唯一的出口赶走，并收集足够的钻石来解锁出路——所有这些都在计时器耗尽之前完成。每个关卡都是一个独立的谜题盒：小到一眼就能掌握，大到足以在“显而易见”的路径将你活埋时咀嚼十分钟。主要特点 纯粹的单屏谜题设计 - 没有程序生成的填充物，每个级别都是由手工和溶胶放置的",
-    "fullDescription": "Pocket Delver 是一款紧凑的手工益智游戏，涉及挖掘、落下的岩石、闪闪发光的宝石，以及勉强活着出来。在泥土中挖洞，将松散的巨石撞到敌人身上，将他们从唯一的出口赶走，并收集足够的钻石来解锁出路——所有这些都在计时器耗尽之前完成。每个关卡都是一个独立的谜题盒：小到一眼就能掌握，大到足以在“显而易见”的路径将你活埋时咀嚼十分钟。主要特点 纯粹的单屏谜题设计 - 没有程序生成的填充物，每个级别都是由手工和溶胶放置的",
-    "summaryDescription": "Pocket Delver 是一款紧凑的手工益智游戏，涉及挖掘、落下的岩石、闪闪发光的宝石，以及勉强活着出来。在泥土中挖洞，将松散的巨石撞到敌人身上，将他们从唯一的出口赶走，并收集足够的钻石来解锁出路——所有这些都在计时器耗尽之前完成。每个关卡都是一个独立的谜题盒：小到一眼就能掌握，大到足以在“显而易见”的路径将你活埋时咀嚼十分钟。主要特点 纯粹的单屏谜题设计 - 没有程序生成的填充物，每个级别都是由手工和溶胶放置的",
+    "description": "Pocket Delver 是一款紧凑的手工益智游戏，涉及挖掘、落下的岩石、闪闪发光的宝石，以及勉强活着出来。在泥土中挖洞，将松散的巨石撞到敌人身上，将他们从唯一的出口赶走，并收集足够的钻石来解锁出口——所有这些都在计时器耗尽之前完成。每个关卡都是一个独立的谜题盒：小到一眼就能掌握，大到足以在“显而易见”的路径将你活埋时咀嚼十分钟。主要特点 纯粹的单屏谜题设计 - 没有程序生成的填充物，每个级别都是由手工和溶胶放置的",
+    "fullDescription": "Pocket Delver 是一款紧凑的手工益智游戏，涉及挖掘、落下的岩石、闪闪发光的宝石，以及勉强活着出来。在泥土中挖洞，将松散的巨石撞到敌人身上，将他们从唯一的出口赶走，并收集足够的钻石来解锁出口——所有这些都在计时器耗尽之前完成。每个关卡都是一个独立的谜题盒：小到一眼就能掌握，大到足以在“显而易见”的路径将你活埋时咀嚼十分钟。主要特点 纯粹的单屏谜题设计 - 没有程序生成的填充物，每个级别都是由手工和溶胶放置的",
+    "summaryDescription": "Pocket Delver 是一款紧凑的手工益智游戏，涉及挖掘、落下的岩石、闪闪发光的宝石，以及勉强活着出来。在泥土中挖洞，将松散的巨石撞到敌人身上，将他们从唯一的出口赶走，并收集足够的钻石来解锁出口——所有这些都在计时器耗尽之前完成。每个关卡都是一个独立的谜题盒：小到一眼就能掌握，大到足以在“显而易见”的路径将你活埋时咀嚼十分钟。主要特点 纯粹的单屏谜题设计 - 没有程序生成的填充物，每个级别都是由手工和溶胶放置的",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/72/14/b9721429-8796-1e75-c63e-d5e81e05bf14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/72/14/b9721429-8796-1e75-c63e-d5e81e05bf14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "SPECTADO, s.r.o.",
@@ -95089,7 +95130,7 @@
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
           "inAppPurchases": {
@@ -96153,14 +96194,24 @@
     "maxPriceInfo": {
       "price": 58,
       "formattedPrice": "¥58.00",
-      "Expeny Premium": "¥38.00"
+      "Expeny Premium": "¥58.00"
     },
     "minPriceInfo": {
-      "price": 58,
-      "formattedPrice": "¥58.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "Expeny Premium": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Expeny Premium": "¥58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789507641651,
@@ -96173,9 +96224,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/expeny-%E9%A2%84%E7%AE%97%E4%B8%8E%E8%AE%B0%E8%B4%A6/id6773878182?uo=4",
-    "description": "Expeny 是一款注重隐私的一体化记账应用，让您的完整财务生活尽在 iPhone 中掌握。无需注册账号，无需登录，所有数据始终保留在您的设备上，绝不会离开您的 iPhone。 大多数财务应用都要求您登录银行账户，并收取持续的订阅费用。Expeny 则完全不同：所有数据均在设备端处理，只需一次购买，即可终身使用。在一个简洁清晰的界面中，轻松管理支出、预算、账单、储蓄、投资和债务。 记录每一分钱 几秒钟即可记录支出和收入 使用 Apple Vision 在设备端扫描收据，文字仅在本地识别，绝不会上传 通过主屏幕小组件、控制中心、锁屏和 Siri 快速添加记录 支持全球任意货币 真正能坚持的预算管理 设置每月预算，并通过清晰的进度环实时查看预算使用情况 按分类设置预算，清楚了解每一笔钱的去向 查看消费趋势、分类分析及月底支出预测 不错过任何账单 跟踪到期日期，一键将账单标记为“已支付” 到期前智能提醒 每月自动添加固定收入 积累真正的财富 创建储蓄目标，见证资金稳步增长 跟踪投资、投资组合价值及收益 在一个地方管理贷款和债务 基于四项关键指标生成 0 至 100 的财务健康评分 免费使用，无需注册账号 无限记录支出和收入 每月预算及进度环 免费扫描 5 张收据 1 个储蓄目标、1 项投资、1 笔债务 账单管理、固定收入、小组件及任意货币支持 EXPENY PREMIUM —— 一次购买，永久拥有 无限储蓄目标、投资和债务 财务健康评分及完整分析 无限扫描收据 自定义分类及分类预算 账单提醒和价格提醒 完整统计数据：每周、每年及未来预测 家庭共享及 PDF 报告 Siri 快捷指令及锁屏小组件 无需订阅，无需续费。一次购买，永久拥有全部功能。 适合哪些人 希望在不关联银行账户的情况下管理预算的人 重视隐私、厌倦过度收集数据应用的用户 共同管理家庭预算的情侣和家庭 正在储蓄、偿还债务或建立投资组合的用户 隐私优先，生而如此 无需账号，无需服务器，不出售数据，没有广告。您的所有财务数据始终保留在您的设备中，这正是 Expeny 的核心理念。 为什么选择 EXPENY 一款安静、简洁的一体化财务管理应用，全面管理您的财务，同时尊重您的隐私，也尊重您的钱包。一次购买，永久拥有。 使用 Expeny，轻松、安心、全面掌控您的每一分钱。",
-    "fullDescription": "Expeny 是一款注重隐私的一体化记账应用，让您的完整财务生活尽在 iPhone 中掌握。无需注册账号，无需登录，所有数据始终保留在您的设备上，绝不会离开您的 iPhone。 大多数财务应用都要求您登录银行账户，并收取持续的订阅费用。Expeny 则完全不同：所有数据均在设备端处理，只需一次购买，即可终身使用。在一个简洁清晰的界面中，轻松管理支出、预算、账单、储蓄、投资和债务。 记录每一分钱 几秒钟即可记录支出和收入 使用 Apple Vision 在设备端扫描收据，文字仅在本地识别，绝不会上传 通过主屏幕小组件、控制中心、锁屏和 Siri 快速添加记录 支持全球任意货币 真正能坚持的预算管理 设置每月预算，并通过清晰的进度环实时查看预算使用情况 按分类设置预算，清楚了解每一笔钱的去向 查看消费趋势、分类分析及月底支出预测 不错过任何账单 跟踪到期日期，一键将账单标记为“已支付” 到期前智能提醒 每月自动添加固定收入 积累真正的财富 创建储蓄目标，见证资金稳步增长 跟踪投资、投资组合价值及收益 在一个地方管理贷款和债务 基于四项关键指标生成 0 至 100 的财务健康评分 免费使用，无需注册账号 无限记录支出和收入 每月预算及进度环 免费扫描 5 张收据 1 个储蓄目标、1 项投资、1 笔债务 账单管理、固定收入、小组件及任意货币支持 EXPENY PREMIUM —— 一次购买，永久拥有 无限储蓄目标、投资和债务 财务健康评分及完整分析 无限扫描收据 自定义分类及分类预算 账单提醒和价格提醒 完整统计数据：每周、每年及未来预测 家庭共享及 PDF 报告 Siri 快捷指令及锁屏小组件 无需订阅，无需续费。一次购买，永久拥有全部功能。 适合哪些人 希望在不关联银行账户的情况下管理预算的人 重视隐私、厌倦过度收集数据应用的用户 共同管理家庭预算的情侣和家庭 正在储蓄、偿还债务或建立投资组合的用户 隐私优先，生而如此 无需账号，无需服务器，不出售数据，没有广告。您的所有财务数据始终保留在您的设备中，这正是 Expeny 的核心理念。 为什么选择 EXPENY 一款安静、简洁的一体化财务管理应用，全面管理您的财务，同时尊重您的隐私，也尊重您的钱包。一次购买，永久拥有。 使用 Expeny，轻松、安心、全面掌控您的每一分钱。",
-    "summaryDescription": "Expeny 是一款注重隐私的一体化记账应用，让您的完整财务生活尽在 iPhone 中掌握。无需注册账号，无需登录，所有数据始终保留在您的设备上，绝不会离开您的 iPhone。 大多数财务应用都要求您登录银行账户，并收取持续的订阅费用。Expeny 则完全不同：所有数据均在设备端处理，只需一次购买，即可终身使用。在一个简洁清晰的界面中，轻松管理支出、预算、账单、储蓄、投资和债务。 记录每一分钱 几秒钟即可记录支出和收入 使用 Apple Vision 在设备端扫描收据，文字仅在本地识别，绝不会上传 通过主屏幕小组件、控制中心、锁屏和 Siri 快速添加记录 支持全球任意货币 真正能坚持的预算管理 设置每月预算，并通过清晰的进度环实时查看预算使用情况 按分类设置预算，清楚了解每一笔钱的去向 查看消费趋势、分类分析及月底支出预测 不错过任何账单 跟踪到期日期，一键将账单标记为“已支付” 到期前智能提醒 每月自动添加固定收入 积累真正的财富 创建储蓄目标，见证资金稳步增长 跟踪投资、投资组合价值及收益 在一个地方管理贷款和债务 基于四项关键指标生成 0 至 100 的财务健康评分 免费使用，无需注册账号 无限记录支出和收入 每月预算及进度环 免费扫描 5 张收据 1 个储蓄目标、1 项投资、1 笔债务 账单管理、固定收入、小组件及任意货币支持 EXPENY PREMIUM —— 一次购买，永久拥有 无限储蓄目标、投资和债务 财务健康评分及完整分析 无限扫描收据 自定义分类及分类预算 账单提醒和价格提醒 完整统计数据：每周、每年及未来预测 家庭共享及 PDF 报告 Siri 快捷指令及锁屏小组件 无需订阅，无需续费。一次购买，永久拥有全部功能。 适合哪些人 希望在不关联银行账户的情况下管理预算的人 重视隐私、厌倦过度收集数据应用的用户 共同管理家庭预算的情侣和家庭 正在储蓄、偿还债务或建立投资组合的用户 隐私优先，生而如此 无需账号，无需服务器，不出售数据，没有广告。您的所有财务数据始终保留在您的设备中，这正是 Expeny 的核心理念。 为什么选择 EXPENY 一款安静、简洁的一体化财务管理应用，全面管理您的财务，同时尊重您的隐私，也尊重您的钱包。一次购买，永久拥有。 使用 Expeny，轻松、安心、全面掌控您的每一分钱。",
+    "description": "Expeny 是一款注重隐私的一体化记账应用，让您的完整财务生活尽在 iPhone 中掌握。无需注册账号，无需登录，所有数据始终保留在您的设备上，绝不会离开您的 iPhone。 大多数财务应用都要求您登录银行账户，并收取持续的订阅费用。Expeny 则完全不同：所有数据均在设备端处理，只需一次购买，即可终身使用。在一个简洁清晰的界面中，轻松管理支出、预算、账单、储蓄、投资和债务。 记录每一分钱 几秒钟即可记录支出和收入 使用 Apple Vision 在设备端扫描收据，文字仅在本地识别，绝不会上传 通过主屏幕小组件、控制中心、锁屏和 Siri 快速添加记录 支持全球任意货币 真正能坚持的预算管理 设置每月预算，并通过清晰的进度环实时查看预算使用情况 按分类设置预算，清楚了解每一笔钱的去向 查看消费趋势、分类分析及月底支出预测 不错过任何账单 跟踪到期日期，一键将账单标记为“已支付” 到期前智能提醒 每月自动添加固定收入 积累真正的财富 创建储蓄目标，见证资金稳步增长 跟踪投资、投资组合价值及收益 在一个地方管理贷款和债务 基于四项关键指标生成 0 至 100 的财务健康评分 免费使用，无需注册账号 无限记录支出和收入 每月预算及进度环 免费扫描 5 张收据 1 个储蓄目标、1 项投资、1 笔债务 账单管理、固定收入、小组件及任意货币支持 EXPENY PREMIUM —— 一次购买",
+    "fullDescription": "Expeny 是一款注重隐私的一体化记账应用，让您的完整财务生活尽在 iPhone 中掌握。无需注册账号，无需登录，所有数据始终保留在您的设备上，绝不会离开您的 iPhone。 大多数财务应用都要求您登录银行账户，并收取持续的订阅费用。Expeny 则完全不同：所有数据均在设备端处理，只需一次购买，即可终身使用。在一个简洁清晰的界面中，轻松管理支出、预算、账单、储蓄、投资和债务。 记录每一分钱 几秒钟即可记录支出和收入 使用 Apple Vision 在设备端扫描收据，文字仅在本地识别，绝不会上传 通过主屏幕小组件、控制中心、锁屏和 Siri 快速添加记录 支持全球任意货币 真正能坚持的预算管理 设置每月预算，并通过清晰的进度环实时查看预算使用情况 按分类设置预算，清楚了解每一笔钱的去向 查看消费趋势、分类分析及月底支出预测 不错过任何账单 跟踪到期日期，一键将账单标记为“已支付” 到期前智能提醒 每月自动添加固定收入 积累真正的财富 创建储蓄目标，见证资金稳步增长 跟踪投资、投资组合价值及收益 在一个地方管理贷款和债务 基于四项关键指标生成 0 至 100 的财务健康评分 免费使用，无需注册账号 无限记录支出和收入 每月预算及进度环 免费扫描 5 张收据 1 个储蓄目标、1 项投资、1 笔债务 账单管理、固定收入、小组件及任意货币支持 EXPENY PREMIUM —— 一次购买",
+    "summaryDescription": "Expeny 是一款注重隐私的一体化记账应用，让您的完整财务生活尽在 iPhone 中掌握。无需注册账号，无需登录，所有数据始终保留在您的设备上，绝不会离开您的 iPhone。 大多数财务应用都要求您登录银行账户，并收取持续的订阅费用。Expeny 则完全不同：所有数据均在设备端处理，只需一次购买，即可终身使用。在一个简洁清晰的界面中，轻松管理支出、预算、账单、储蓄、投资和债务。 记录每一分钱 几秒钟即可记录支出和收入 使用 Apple Vision 在设备端扫描收据，文字仅在本地识别，绝不会上传 通过主屏幕小组件、控制中心、锁屏和 Siri 快速添加记录 支持全球任意货币 真正能坚持的预算管理 设置每月预算，并通过清晰的进度环实时查看预算使用情况 按分类设置预算，清楚了解每一笔钱的去向 查看消费趋势、分类分析及月底支出预测 不错过任何账单 跟踪到期日期，一键将账单标记为“已支付” 到期前智能提醒 每月自动添加固定收入 积累真正的财富 创建储蓄目标，见证资金稳步增长 跟踪投资、投资组合价值及收益 在一个地方管理贷款和债务 基于四项关键指标生成 0 至 100 的财务健康评分 免费使用，无需注册账号 无限记录支出和收入 每月预算及进度环 免费扫描 5 张收据 1 个储蓄目标、1 项投资、1 笔债务 账单管理、固定收入、小组件及任意货币支持 EXPENY PREMIUM —— 一次购买",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/e1/af/3ce1af1f-7f7c-17ff-7a40-9fa5a2b6e106/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/e1/af/3ce1af1f-7f7c-17ff-7a40-9fa5a2b6e106/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Rahul Singh",
@@ -96988,8 +97039,8 @@
     "description": "「走起」既是每天打开就能看的计步器，也是一部把路线、照片和回忆留在一起的行走日记。 连接 Apple 健康，今日步数和本周趋势一眼看见。想完整记录一次散步、Citywalk、徒步或旅行，点一下“计步”，路线、照片和随记，都在一起。走完还能挑个模板，把行程做成海报。 【每日计步 · 打开就看】 首页显示今日步数和本周趋势，历史记录可按周、月、年回看，也能打开某一天查看当天的步数和行程。日常步数从 Apple 健康读取，不用为了计步开始一次行程。 【点“计步” · 记录路线与照片】 适合饭后散步、Citywalk、户外徒步、聚会或旅行。照常走、照常拍，结束后，路线、照片和随记，都在一张行程卡里。步数、距离、爬升、停留等数据也会完整留存。走路、跑步、骑行、乘车和爬山还能按活动分段；不方便打字时，也可以用本机语音转写留下随记。 【行程海报 · 换模板再分享】 挑个模板，换照片、改文字，保存或分享。还可以调整构图、裁切、滤镜、路线和运动信息；多日旅行能按天组成左右翻看的画报，并在“我的海报”里继续编辑。 【相册找回 · 从旧照片整理行程】 几张旧照片，也能按时间和地点整理成完整行程和海报。多日旅行会按天排好；照片由你挑，留下哪些、怎么整理，始终由你决定。 【回忆与地图 · 点亮走过的城市】 有行程的日子会在时光格子里被照片和路线颜色点亮，“回忆”会带回往年今天。走过的城市也会在地图上一座座亮起来，随时回看当地的行程。这里没有连续打卡，也不催你补全每一天。 【永久 VIP · 一次开通】 永久享有 VIP 权益，包含后续新增的 VIP 功能。一次购买，无需续费。 【本地优先 · 隐私由你决定】 路线、照片内容、健康数据、语音转写和随记原声默认在设备本地处理或保存；走起无需账号，也不提供云同步。在你同意隐私政策后，走起可能发送设备关联的使用与诊断数据，以及城市级地点、日期、步数与路线摘要和应用内部标识；不会上传照片内容、详细地址或完整 GPS 点串。具体范围请查看隐私政策。",
     "fullDescription": "「走起」既是每天打开就能看的计步器，也是一部把路线、照片和回忆留在一起的行走日记。 连接 Apple 健康，今日步数和本周趋势一眼看见。想完整记录一次散步、Citywalk、徒步或旅行，点一下“计步”，路线、照片和随记，都在一起。走完还能挑个模板，把行程做成海报。 【每日计步 · 打开就看】 首页显示今日步数和本周趋势，历史记录可按周、月、年回看，也能打开某一天查看当天的步数和行程。日常步数从 Apple 健康读取，不用为了计步开始一次行程。 【点“计步” · 记录路线与照片】 适合饭后散步、Citywalk、户外徒步、聚会或旅行。照常走、照常拍，结束后，路线、照片和随记，都在一张行程卡里。步数、距离、爬升、停留等数据也会完整留存。走路、跑步、骑行、乘车和爬山还能按活动分段；不方便打字时，也可以用本机语音转写留下随记。 【行程海报 · 换模板再分享】 挑个模板，换照片、改文字，保存或分享。还可以调整构图、裁切、滤镜、路线和运动信息；多日旅行能按天组成左右翻看的画报，并在“我的海报”里继续编辑。 【相册找回 · 从旧照片整理行程】 几张旧照片，也能按时间和地点整理成完整行程和海报。多日旅行会按天排好；照片由你挑，留下哪些、怎么整理，始终由你决定。 【回忆与地图 · 点亮走过的城市】 有行程的日子会在时光格子里被照片和路线颜色点亮，“回忆”会带回往年今天。走过的城市也会在地图上一座座亮起来，随时回看当地的行程。这里没有连续打卡，也不催你补全每一天。 【永久 VIP · 一次开通】 永久享有 VIP 权益，包含后续新增的 VIP 功能。一次购买，无需续费。 【本地优先 · 隐私由你决定】 路线、照片内容、健康数据、语音转写和随记原声默认在设备本地处理或保存；走起无需账号，也不提供云同步。在你同意隐私政策后，走起可能发送设备关联的使用与诊断数据，以及城市级地点、日期、步数与路线摘要和应用内部标识；不会上传照片内容、详细地址或完整 GPS 点串。具体范围请查看隐私政策。",
     "summaryDescription": "「走起」既是每天打开就能看的计步器，也是一部把路线、照片和回忆留在一起的行走日记。 连接 Apple 健康，今日步数和本周趋势一眼看见。想完整记录一次散步、Citywalk、徒步或旅行，点一下“计步”，路线、照片和随记，都在一起。走完还能挑个模板，把行程做成海报。 【每日计步 · 打开就看】 首页显示今日步数和本周趋势，历史记录可按周、月、年回看，也能打开某一天查看当天的步数和行程。日常步数从 Apple 健康读取，不用为了计步开始一次行程。 【点“计步” · 记录路线与照片】 适合饭后散步、Citywalk、户外徒步、聚会或旅行。照常走、照常拍，结束后，路线、照片和随记，都在一张行程卡里。步数、距离、爬升、停留等数据也会完整留存。走路、跑步、骑行、乘车和爬山还能按活动分段；不方便打字时，也可以用本机语音转写留下随记。 【行程海报 · 换模板再分享】 挑个模板，换照片、改文字，保存或分享。还可以调整构图、裁切、滤镜、路线和运动信息；多日旅行能按天组成左右翻看的画报，并在“我的海报”里继续编辑。 【相册找回 · 从旧照片整理行程】 几张旧照片，也能按时间和地点整理成完整行程和海报。多日旅行会按天排好；照片由你挑，留下哪些、怎么整理，始终由你决定。 【回忆与地图 · 点亮走过的城市】 有行程的日子会在时光格子里被照片和路线颜色点亮，“回忆”会带回往年今天。走过的城市也会在地图上一座座亮起来，随时回看当地的行程。这里没有连续打卡，也不催你补全每一天。 【永久 VIP · 一次开通】 永久享有 VIP 权益，包含后续新增的 VIP 功能。一次购买，无需续费。 【本地优先 · 隐私由你决定】 路线、照片内容、健康数据、语音转写和随记原声默认在设备本地处理或保存；走起无需账号，也不提供云同步。在你同意隐私政策后，走起可能发送设备关联的使用与诊断数据，以及城市级地点、日期、步数与路线摘要和应用内部标识；不会上传照片内容、详细地址或完整 GPS 点串。具体范围请查看隐私政策。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/b6/07/14b607dd-cb93-b314-4870-e138289b231a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/b6/07/14b607dd-cb93-b314-4870-e138289b231a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/27/c1/fe27c11b-c5d1-617b-e24d-20a423809bba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/27/c1/fe27c11b-c5d1-617b-e24d-20a423809bba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
     "sellerName": "chaohua gao",
     "artistName": "chaohua gao",
     "screenshotUrls": [
@@ -97988,7 +98039,530 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/43/06/7443062c-6d0f-bc2e-8dc0-0d58f1a04f9e/3.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/6a/b5/f26ab5b2-c61d-9077-346e-a850cd55f7c7/5.png/320x480bb.jpg"
     ],
-    "_externalSourceFirstSeen": 1789622150006
+    "_externalSourceFirstSeen": 1789603135650
+  },
+  "6806728882": {
+    "name": "装柜宝 - 集装箱装柜方案",
+    "trackName": "装柜宝 - 集装箱装柜方案",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%A3%85%E6%9F%9C%E5%AE%9D-%E9%9B%86%E8%A3%85%E7%AE%B1%E8%A3%85%E6%9F%9C%E6%96%B9%E6%A1%88/id6806728882?uo=4",
+    "description": "装柜宝 —— 集装箱 / 货车装柜方案，一键生成，本机离线计算。 输入货物尺寸、重量和数量，选择柜型，装柜宝在手机上几秒内生成可执行的 3D 装柜方案：先装什么、怎么摆、放在哪，每一步都有依据，每一条约束都可验证。 【主要功能】 柜型齐全：20GP / 40GP / 40HQ / 45HQ 干货柜、9.6 m 货车车厢，也可自定义内尺寸与载重 1–6 种规格混装：方箱、圆桶都支持；数量填 0 即按整柜装满计算 10 项场景约束：重物在下、重心前后居中、左右平衡、最大堆叠层数、不可倒置、易碎置顶、急单优先、多点卸货、危险品隔离、圆桶蜂窝排列 3D 装 / 卸演示：逐步回放装载顺序，拖动旋转视角，透视内部；卸货演示按卸货点顺序反向播放 2D 分层俯视图与装载清单：每一块货的位置、层数、排列方式一目了然 逐条校验：装载率、总重、重心位置，以及每条约束的校验结果，方案可执行才输出 装柜作业说明单：装载分区、装载顺序、作业要点、校验结论，一键生成 PDF 或直接打印，现场签字 智能录入：用语音或文字描述整单（\"这批货走 40HQ，A 60×40×50 cm，300 箱……\"），本机模型自动解析为货物清单与装载要求 AR 量尺：用相机测量长宽高或直径 / 高度，一键填入表单（LiDAR 机型更精准） 装卸货记录：保存的方案可精确复现，仅存本机 【为什么选择装柜宝】 全程离线：求解、解析、渲染都在本机完成，无需网络，无需注册 数据仅存本机：不收集、不上传任何用户数据 可验证：方案由确定性约束求解器生成，17 项规则逐条校验，不是\"大概能装\" 面向一线：说明单按装柜员 / 复核签字流程设计，直接打印带到现场 适用人群：外贸业务与单证、货代 / 拼柜、仓库主管、装柜班组、车队调度、采购与供应链。 要求：iOS 26 及以上。AR 量尺需要真机相机；智能录入的语音听写使用系统端侧识别；在支持 Apple Intelligence 的设备上可使用 Apple 端侧模型解析订单。 界面语言：简体中文、English、日本語、한국어、Español、Deutsch、Français。",
+    "fullDescription": "装柜宝 —— 集装箱 / 货车装柜方案，一键生成，本机离线计算。 输入货物尺寸、重量和数量，选择柜型，装柜宝在手机上几秒内生成可执行的 3D 装柜方案：先装什么、怎么摆、放在哪，每一步都有依据，每一条约束都可验证。 【主要功能】 柜型齐全：20GP / 40GP / 40HQ / 45HQ 干货柜、9.6 m 货车车厢，也可自定义内尺寸与载重 1–6 种规格混装：方箱、圆桶都支持；数量填 0 即按整柜装满计算 10 项场景约束：重物在下、重心前后居中、左右平衡、最大堆叠层数、不可倒置、易碎置顶、急单优先、多点卸货、危险品隔离、圆桶蜂窝排列 3D 装 / 卸演示：逐步回放装载顺序，拖动旋转视角，透视内部；卸货演示按卸货点顺序反向播放 2D 分层俯视图与装载清单：每一块货的位置、层数、排列方式一目了然 逐条校验：装载率、总重、重心位置，以及每条约束的校验结果，方案可执行才输出 装柜作业说明单：装载分区、装载顺序、作业要点、校验结论，一键生成 PDF 或直接打印，现场签字 智能录入：用语音或文字描述整单（\"这批货走 40HQ，A 60×40×50 cm，300 箱……\"），本机模型自动解析为货物清单与装载要求 AR 量尺：用相机测量长宽高或直径 / 高度，一键填入表单（LiDAR 机型更精准） 装卸货记录：保存的方案可精确复现，仅存本机 【为什么选择装柜宝】 全程离线：求解、解析、渲染都在本机完成，无需网络，无需注册 数据仅存本机：不收集、不上传任何用户数据 可验证：方案由确定性约束求解器生成，17 项规则逐条校验，不是\"大概能装\" 面向一线：说明单按装柜员 / 复核签字流程设计，直接打印带到现场 适用人群：外贸业务与单证、货代 / 拼柜、仓库主管、装柜班组、车队调度、采购与供应链。 要求：iOS 26 及以上。AR 量尺需要真机相机；智能录入的语音听写使用系统端侧识别；在支持 Apple Intelligence 的设备上可使用 Apple 端侧模型解析订单。 界面语言：简体中文、English、日本語、한국어、Español、Deutsch、Français。",
+    "summaryDescription": "装柜宝 —— 集装箱 / 货车装柜方案，一键生成，本机离线计算。 输入货物尺寸、重量和数量，选择柜型，装柜宝在手机上几秒内生成可执行的 3D 装柜方案：先装什么、怎么摆、放在哪，每一步都有依据，每一条约束都可验证。 【主要功能】 柜型齐全：20GP / 40GP / 40HQ / 45HQ 干货柜、9.6 m 货车车厢，也可自定义内尺寸与载重 1–6 种规格混装：方箱、圆桶都支持；数量填 0 即按整柜装满计算 10 项场景约束：重物在下、重心前后居中、左右平衡、最大堆叠层数、不可倒置、易碎置顶、急单优先、多点卸货、危险品隔离、圆桶蜂窝排列 3D 装 / 卸演示：逐步回放装载顺序，拖动旋转视角，透视内部；卸货演示按卸货点顺序反向播放 2D 分层俯视图与装载清单：每一块货的位置、层数、排列方式一目了然 逐条校验：装载率、总重、重心位置，以及每条约束的校验结果，方案可执行才输出 装柜作业说明单：装载分区、装载顺序、作业要点、校验结论，一键生成 PDF 或直接打印，现场签字 智能录入：用语音或文字描述整单（\"这批货走 40HQ，A 60×40×50 cm，300 箱……\"），本机模型自动解析为货物清单与装载要求 AR 量尺：用相机测量长宽高或直径 / 高度，一键填入表单（LiDAR 机型更精准） 装卸货记录：保存的方案可精确复现，仅存本机 【为什么选择装柜宝】 全程离线：求解、解析、渲染都在本机完成，无需网络，无需注册 数据仅存本机：不收集、不上传任何用户数据 可验证：方案由确定性约束求解器生成，17 项规则逐条校验，不是\"大概能装\" 面向一线：说明单按装柜员 / 复核签字流程设计，直接打印带到现场 适用人群：外贸业务与单证、货代 / 拼柜、仓库主管、装柜班组、车队调度、采购与供应链。 要求：iOS 26 及以上。AR 量尺需要真机相机；智能录入的语音听写使用系统端侧识别；在支持 Apple Intelligence 的设备上可使用 Apple 端侧模型解析订单。 界面语言：简体中文、English、日本語、한국어、Español、Deutsch、Français。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/40/a4/7940a4a7-31a7-a581-02e7-4cb138465cdb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/40/a4/7940a4a7-31a7-a581-02e7-4cb138465cdb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "gong bin",
+    "artistName": "ideasky",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/c3/9a/4ac39a51-f47b-e6cc-01e3-e5a7a057a405/01_home.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/72/cf/8672cfb4-593f-e7d7-de34-3f821604bbbf/02_result3d.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/4c/53/d74c5318-25d6-0c43-7f70-309bb043a021/03_layers2d.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/30/11/a130111a-304b-cc6f-4f0c-62295721c436/04_unload.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/e7/33/f0e73374-c07b-a731-687c-b520a9c4ef6d/05_worksheet.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/a7/82/1ca7828d-3a13-870c-4546-6e1492caac9e/06_smart.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/8e/1b/aa8e1b29-d619-03b1-a5ef-9bddd4cca5fa/07_history.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789642758930
+  },
+  "6760105071": {
+    "name": "冰途",
+    "trackName": "冰途",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%86%B0%E9%80%94/id6760105071?uo=4",
+    "description": "在冰岛加错一次油，就多花出一顿饭钱。 同样一升 95#，雷克雅未克和维克镇能差 15%。环岛一圈 1300 公里，选对加油站，省下的钱够吃两顿龙虾汤。 冰途，把全岛 245 座加油站变成一张\"避坑地图\"： 【绿色 = 便宜，红色 = 别去】 每座加油站按实时价格染色，比周边贵还是便宜，一眼看穿，不用一家家点。数据每小时更新。 【50 公里内最便宜 Top 3】 自动排出你周边最便宜的 3 座站，第几名、几公里、多少钱，清清楚楚。往前开 5 分钟，可能省出一杯咖啡。 【汽油 / 柴油一键切换】 租的是柴油车？点一下，全地图按柴油价重新染色。 【极光预报】 今晚能不能看到极光？一个大数字告诉你概率，还告诉你全岛 6 个区域哪里云最少、最值得开过去。KP 指数、夜间云量、未来 3 天预报，全都有。 【天气 + 汇率】 6 大区域实时天气和 3 天预报，克朗汇率实时换算——加油付款前心里有数。 为冰岛自驾而生，中国人做的，懂中国自驾游客。 加错一次油的钱，就超过这个 App 的价格。 冰途——油不加贵，极光不错过。",
+    "fullDescription": "在冰岛加错一次油，就多花出一顿饭钱。 同样一升 95#，雷克雅未克和维克镇能差 15%。环岛一圈 1300 公里，选对加油站，省下的钱够吃两顿龙虾汤。 冰途，把全岛 245 座加油站变成一张\"避坑地图\"： 【绿色 = 便宜，红色 = 别去】 每座加油站按实时价格染色，比周边贵还是便宜，一眼看穿，不用一家家点。数据每小时更新。 【50 公里内最便宜 Top 3】 自动排出你周边最便宜的 3 座站，第几名、几公里、多少钱，清清楚楚。往前开 5 分钟，可能省出一杯咖啡。 【汽油 / 柴油一键切换】 租的是柴油车？点一下，全地图按柴油价重新染色。 【极光预报】 今晚能不能看到极光？一个大数字告诉你概率，还告诉你全岛 6 个区域哪里云最少、最值得开过去。KP 指数、夜间云量、未来 3 天预报，全都有。 【天气 + 汇率】 6 大区域实时天气和 3 天预报，克朗汇率实时换算——加油付款前心里有数。 为冰岛自驾而生，中国人做的，懂中国自驾游客。 加错一次油的钱，就超过这个 App 的价格。 冰途——油不加贵，极光不错过。",
+    "summaryDescription": "在冰岛加错一次油，就多花出一顿饭钱。 同样一升 95#，雷克雅未克和维克镇能差 15%。环岛一圈 1300 公里，选对加油站，省下的钱够吃两顿龙虾汤。 冰途，把全岛 245 座加油站变成一张\"避坑地图\"： 【绿色 = 便宜，红色 = 别去】 每座加油站按实时价格染色，比周边贵还是便宜，一眼看穿，不用一家家点。数据每小时更新。 【50 公里内最便宜 Top 3】 自动排出你周边最便宜的 3 座站，第几名、几公里、多少钱，清清楚楚。往前开 5 分钟，可能省出一杯咖啡。 【汽油 / 柴油一键切换】 租的是柴油车？点一下，全地图按柴油价重新染色。 【极光预报】 今晚能不能看到极光？一个大数字告诉你概率，还告诉你全岛 6 个区域哪里云最少、最值得开过去。KP 指数、夜间云量、未来 3 天预报，全都有。 【天气 + 汇率】 6 大区域实时天气和 3 天预报，克朗汇率实时换算——加油付款前心里有数。 为冰岛自驾而生，中国人做的，懂中国自驾游客。 加错一次油的钱，就超过这个 App 的价格。 冰途——油不加贵，极光不错过。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/11/64/2911644c-c61e-338e-cbe6-d36499e0607e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/11/64/2911644c-c61e-338e-cbe6-d36499e0607e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "臣 刘",
+    "artistName": "臣 刘",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/b2/d5/37b2d57f-77b5-fb23-7311-7baca96d7feb/4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/f8/ea/baf8ea0b-2e72-1c32-005c-a7376aca1bce/5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/3e/8c/993e8cad-4de4-b4a8-7a5c-3a5d6de5b3cb/6.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/d8/d1/49d8d145-2440-bd09-e1c1-145f65dfd1da/1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/ba/92/a4ba92b8-834d-9971-f0a8-0f0ff2019fee/2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/8a/9e/638a9eed-c9a0-32bc-91ae-aadd2bb91242/3.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789642761827
+  },
+  "6775220048": {
+    "name": "爱番茄 - 番茄钟·计时 · 任务 · iPomodoros",
+    "trackName": "爱番茄 - 番茄钟·计时 · 任务 · iPomodoros",
+    "maxPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00",
+      "打赏开发者": "¥3.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00",
+      "打赏开发者": "¥3.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "打赏开发者": "¥3.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E7%88%B1%E7%95%AA%E8%8C%84-%E7%95%AA%E8%8C%84%E9%92%9F-%E8%AE%A1%E6%97%B6-%E4%BB%BB%E5%8A%A1-ipomodoros/id6775220048?uo=4",
+    "description": "爱番茄，一款为专注而生的原生番茄钟 App。 在信息过载的时代，专注不该靠意志力硬撑，而需要一套看得见的系统。爱番茄把计时、任务、数据与激励整合进完整闭环：每一次专注都会被记录，自动聚合为图表与趋势，用目标与成就给你即时反馈，再用超过 1000 条励志语录与庆祝动画推你走得更远。无论你是备考冲刺的学生、需要深度工作的职场人，还是正在培养习惯的人，爱番茄都能帮你减少分心、告别拖延，让成长有迹可循。 四大核心功能，五 Tab 一站搞定 番茄钟：经典番茄工作法，专注、短休息、长休息自动循环，完成轮次清晰统计；可关联定任务；锁屏与灵动岛实时活动；App 被系统回收后仍可智能恢复会话 倒计时：自定义任意时长，与番茄钟完全独立，想学多久学多久，适合深度阅读、刷题、写作与创作 定任务：倒数日、置顶、拖拽自定义排序、9 色 accent 标签、到期提醒，可选 iCloud 同步；长按菜单或上下文菜单一键跳转番茄专注或计时专注并自动绑定 看数据：独立数据 Tab，图表与趋势汇总全部专注记录；专注报告、年度回顾与仪表盘长图一键分享 看数据：记录、聚合、反馈、激励的完整闭环 这是爱番茄区别于普通计时器的核心能力，帮你把努力变成可见的数据。 第一步，记录 每次番茄专注、倒计时学习、休息段落结束，自动写入本地 SQLite 数据库 支持关联任务标题，专注结束即知道时间归属；CSV 导出导入方便备份或迁移 数据保留策略从 30 天到永久保留，也可立即清理过期记录 计数规则可配置：放弃是否计入、最短记录时长、最近列表条数、是否展示休息汇总 第二步，聚合 今日概览：专注时长、番茄数、完成率、当前与最长连续 streak 月历热力图：按月展示每日专注强度，未来日期虚线边框预览；支持上下月切换、点月份标题快速跳转任意年月、一键回到本月 多维分析：星期分布、时段分布、按任务拆分（未关联单独分组）、专注趋势图、休息汇总、最近记录列表 灵活筛选：按番茄钟或倒计时范围，按今日、本周、本月、今年、全部或自定义日期段查看；记住上次筛选偏好 第三步，反馈 专注目标：日番茄数、日专注分钟、周专注分钟，进度卡片实时更新，可在看数据 Tab 直接展示 周对比：本周与上周专注时长变化，帮你看见进步或及时调整节奏 今日统计小组件：主屏与锁屏 Small、Medium、Large 多种尺寸，随时查看专注进度、目标与 streak 火焰标 第四步，激励 9 枚本地成就：首个番茄、连续 3 天与 7 天、累计 10 与 100 个番茄、专注 10、100、500 小时、达成日目标等 新解锁全屏庆祝：粒子动画与触觉反馈，升级后不会重复弹出历史徽章 分享激励：统计 Tab 工具栏分享当前筛选范围的仪表盘长图；报告页与年度回顾页生成精美卡片；成就列表或单枚徽章均可分享，含 App Store 二维码，配色跟随看数据 Tab 主题 可选 iCloud 同步学习统计：会话记录、目标配置、成就解锁与庆祝状态跨 iPhone 与 iPad 增量同步，change token 高效下载，与定任务 iCloud 独立开关 典型工作流，从计划到复盘 在定任务创建考试或项目 deadline，设置 accent 色与到期提醒 长按任务选择番茄专注或计时专注，计时页自动关联，专注结束写入看数据 查看看数据 Tab 的热力图与任务拆分，调整下周目标 解锁成就或达成 streak，生成分享图记录里程碑 定任务，让专注有归属 创建与编辑任务可选 9 种 accent 色，列表、编辑页与定任务 Widget 同步展示 番茄或计时屏通过关联按钮选择任务，看数据按任务拆分，清楚知道时间花在何处 定任务 Widget：Small 展示 1 条、Medium 3 条、Large 5 条，置顶任务优先，剩余天数清晰可读 到期提醒管理：按今天、明天、近 7 天与更晚分组，可取消单次推送或跳转编辑；编辑页支持删除任务 定任务 iCloud 同步：倒数日、置顶、排序与 accent 色多设备保持一致 五类小组件，效率延伸到主屏与锁屏 番茄钟、倒计时、定任务、今日统计、今日励志，各司其职，可同时添加互不干扰 番茄钟与倒计时 Widget 支持 Small、Medium 与锁屏 accessory；运行中由系统 timer 驱动，省电流畅 今日统计 Widget 支持 Small、Medium、Large 与锁屏 accessory，展示专注进度与周目标 主题同步：小组件背景与强调色跟随 App 全局主题，也可切换简洁白底风格 励志 Widget 在 iOS 17 支持刷新换一句；设置页提供完整小组件教程与应用指南 FAQ 实时活动、快捷入口与专注联动 番茄钟与倒计时各自独立 Live Activity，运行、暂停、完成三态清晰；后台显示当日励志 hint 系统级 countdown 驱动，运行中不频繁 push，流畅省电；各模式可独立开关 Live Activity 主屏 Quick Actions 最多启用 4 项并可拖拽排序，默认番茄、计时、定任务、看数据 Siri 与快捷指令：打开番茄 Tab、打开计时 Tab、打开看数据 Tab，或语音查询今日专注摘要而不必打开 App 专注模式联动：番茄或计时设置中可选，开始计时时引导开启系统 Focus，减少通知打扰 App 被杀后可从本地快照与 Live Activity 恢复会话；冷启动自动跳转活跃计时 Tab 1000 条以上励志语录，365 条每日通知语料 弹窗与每日语料中英文合计 1000 条以上；后台通知另备 365 条通用励志短句，与弹窗语料分离 语录语言可筛选全部、仅简体中文、仅繁体中文、仅英文；按钮文案智能匹配语录语言 字体随语录语言自动匹配：英文 Chakra Petch、简体马善政、繁体 Noto Sans TC 启动鼓励、全屏语录大全、完成与放弃反馈、Live Activity 提示、可选每日励志固定时间本地通知 计时体验，细节同样讲究 大字时分秒显示，经典比例布局，运行中读数稳定不跳动 番茄设置含短休息、长休息、长休息间隔说明，Stepper 微调或滚轮快速选择 滴答声丰富可选：白噪音、鸟鸣、篝火、海浪等，支持试听；闹钟提示音多样；后台计时结束推送 学习防息屏：计时进行中保持屏幕常亮；屏幕亮度可在设置中快速调节 丰富个性化 双层主题：全局浅色、深色或跟随系统；番茄、计时、任务、看数据各 Tab 独立标题栏与背景渐变色 多种预设主题色；看数据 Tab 拥有专属主题，分享图配色随之统一 设置页可分享应用推广卡，含 Logo、功能亮点与 App Store 二维码 数据安全与掌控权在你手中 统计设置支持 CSV 导出与导入，方便备份或迁移 数据保留策略灵活可选，最近记录列表支持左滑删除单条，统计图表即时更新 学习统计与定任务 iCloud 各自独立开关，按需启用，互不影响 多语言，真正本地化 简体中文、繁体中文与英文，应用名称随语言变化（爱番茄 / 愛番茄 / iPomodoro） 切换语言后 Tab 栏、设置页、小组件与励志语录即时刷新 适合谁使用 学生：备考、刷题、论文写作，用热力图看见坚持，用任务关联知道复习进度 职场人：深度工作、项目推进，用周对比优化节奏，用分享图记录阶段成果 自由职业者：灵活计时配合任务 deadline，看数据就是最有说服力的工作日志 从番茄钟到专注伙伴 爱番茄不只是又一个计时器。它把经典番茄工作法与现代 iOS 能力结合：Widget、Live Activity、CloudKit、Swift Charts、App Shortcuts，让专注可记录、可分析、可分享、可激励。当你想知道「这周比上周更专注了吗」「时间是否花在了对的任务上」「距离下一个成就还有多远」，打开看数据 Tab，答案就在那里。 为什么选择爱番茄 原生 SwiftUI 打造，五 Tab 架构清晰，完美适配 iPhone 与 iPad 历经多年打磨的经典番茄钟体验全面进化，深度集成 iOS 小组件、实时活动、iCloud、快捷指令与 Siri 不只做计时，更帮你记录每一轮、看见每一天、激励每一次坚持 下载爱番茄，从今天开始，把专注变成一种习惯。记录每一轮，看见每一天，让时间真正为你所用。",
+    "fullDescription": "爱番茄，一款为专注而生的原生番茄钟 App。 在信息过载的时代，专注不该靠意志力硬撑，而需要一套看得见的系统。爱番茄把计时、任务、数据与激励整合进完整闭环：每一次专注都会被记录，自动聚合为图表与趋势，用目标与成就给你即时反馈，再用超过 1000 条励志语录与庆祝动画推你走得更远。无论你是备考冲刺的学生、需要深度工作的职场人，还是正在培养习惯的人，爱番茄都能帮你减少分心、告别拖延，让成长有迹可循。 四大核心功能，五 Tab 一站搞定 番茄钟：经典番茄工作法，专注、短休息、长休息自动循环，完成轮次清晰统计；可关联定任务；锁屏与灵动岛实时活动；App 被系统回收后仍可智能恢复会话 倒计时：自定义任意时长，与番茄钟完全独立，想学多久学多久，适合深度阅读、刷题、写作与创作 定任务：倒数日、置顶、拖拽自定义排序、9 色 accent 标签、到期提醒，可选 iCloud 同步；长按菜单或上下文菜单一键跳转番茄专注或计时专注并自动绑定 看数据：独立数据 Tab，图表与趋势汇总全部专注记录；专注报告、年度回顾与仪表盘长图一键分享 看数据：记录、聚合、反馈、激励的完整闭环 这是爱番茄区别于普通计时器的核心能力，帮你把努力变成可见的数据。 第一步，记录 每次番茄专注、倒计时学习、休息段落结束，自动写入本地 SQLite 数据库 支持关联任务标题，专注结束即知道时间归属；CSV 导出导入方便备份或迁移 数据保留策略从 30 天到永久保留，也可立即清理过期记录 计数规则可配置：放弃是否计入、最短记录时长、最近列表条数、是否展示休息汇总 第二步，聚合 今日概览：专注时长、番茄数、完成率、当前与最长连续 streak 月历热力图：按月展示每日专注强度，未来日期虚线边框预览；支持上下月切换、点月份标题快速跳转任意年月、一键回到本月 多维分析：星期分布、时段分布、按任务拆分（未关联单独分组）、专注趋势图、休息汇总、最近记录列表 灵活筛选：按番茄钟或倒计时范围，按今日、本周、本月、今年、全部或自定义日期段查看；记住上次筛选偏好 第三步，反馈 专注目标：日番茄数、日专注分钟、周专注分钟，进度卡片实时更新，可在看数据 Tab 直接展示 周对比：本周与上周专注时长变化，帮你看见进步或及时调整节奏 今日统计小组件：主屏与锁屏 Small、Medium、Large 多种尺寸，随时查看专注进度、目标与 streak 火焰标 第四步，激励 9 枚本地成就：首个番茄、连续 3 天与 7 天、累计 10 与 100 个番茄、专注 10、100、500 小时、达成日目标等 新解锁全屏庆祝：粒子动画与触觉反馈，升级后不会重复弹出历史徽章 分享激励：统计 Tab 工具栏分享当前筛选范围的仪表盘长图；报告页与年度回顾页生成精美卡片；成就列表或单枚徽章均可分享，含 App Store 二维码，配色跟随看数据 Tab 主题 可选 iCloud 同步学习统计：会话记录、目标配置、成就解锁与庆祝状态跨 iPhone 与 iPad 增量同步，change token 高效下载，与定任务 iCloud 独立开关 典型工作流，从计划到复盘 在定任务创建考试或项目 deadline，设置 accent 色与到期提醒 长按任务选择番茄专注或计时专注，计时页自动关联，专注结束写入看数据 查看看数据 Tab 的热力图与任务拆分，调整下周目标 解锁成就或达成 streak，生成分享图记录里程碑 定任务，让专注有归属 创建与编辑任务可选 9 种 accent 色，列表、编辑页与定任务 Widget 同步展示 番茄或计时屏通过关联按钮选择任务，看数据按任务拆分，清楚知道时间花在何处 定任务 Widget：Small 展示 1 条、Medium 3 条、Large 5 条，置顶任务优先，剩余天数清晰可读 到期提醒管理：按今天、明天、近 7 天与更晚分组，可取消单次推送或跳转编辑；编辑页支持删除任务 定任务 iCloud 同步：倒数日、置顶、排序与 accent 色多设备保持一致 五类小组件，效率延伸到主屏与锁屏 番茄钟、倒计时、定任务、今日统计、今日励志，各司其职，可同时添加互不干扰 番茄钟与倒计时 Widget 支持 Small、Medium 与锁屏 accessory；运行中由系统 timer 驱动，省电流畅 今日统计 Widget 支持 Small、Medium、Large 与锁屏 accessory，展示专注进度与周目标 主题同步：小组件背景与强调色跟随 App 全局主题，也可切换简洁白底风格 励志 Widget 在 iOS 17 支持刷新换一句；设置页提供完整小组件教程与应用指南 FAQ 实时活动、快捷入口与专注联动 番茄钟与倒计时各自独立 Live Activity，运行、暂停、完成三态清晰；后台显示当日励志 hint 系统级 countdown 驱动，运行中不频繁 push，流畅省电；各模式可独立开关 Live Activity 主屏 Quick Actions 最多启用 4 项并可拖拽排序，默认番茄、计时、定任务、看数据 Siri 与快捷指令：打开番茄 Tab、打开计时 Tab、打开看数据 Tab，或语音查询今日专注摘要而不必打开 App 专注模式联动：番茄或计时设置中可选，开始计时时引导开启系统 Focus，减少通知打扰 App 被杀后可从本地快照与 Live Activity 恢复会话；冷启动自动跳转活跃计时 Tab 1000 条以上励志语录，365 条每日通知语料 弹窗与每日语料中英文合计 1000 条以上；后台通知另备 365 条通用励志短句，与弹窗语料分离 语录语言可筛选全部、仅简体中文、仅繁体中文、仅英文；按钮文案智能匹配语录语言 字体随语录语言自动匹配：英文 Chakra Petch、简体马善政、繁体 Noto Sans TC 启动鼓励、全屏语录大全、完成与放弃反馈、Live Activity 提示、可选每日励志固定时间本地通知 计时体验，细节同样讲究 大字时分秒显示，经典比例布局，运行中读数稳定不跳动 番茄设置含短休息、长休息、长休息间隔说明，Stepper 微调或滚轮快速选择 滴答声丰富可选：白噪音、鸟鸣、篝火、海浪等，支持试听；闹钟提示音多样；后台计时结束推送 学习防息屏：计时进行中保持屏幕常亮；屏幕亮度可在设置中快速调节 丰富个性化 双层主题：全局浅色、深色或跟随系统；番茄、计时、任务、看数据各 Tab 独立标题栏与背景渐变色 多种预设主题色；看数据 Tab 拥有专属主题，分享图配色随之统一 设置页可分享应用推广卡，含 Logo、功能亮点与 App Store 二维码 数据安全与掌控权在你手中 统计设置支持 CSV 导出与导入，方便备份或迁移 数据保留策略灵活可选，最近记录列表支持左滑删除单条，统计图表即时更新 学习统计与定任务 iCloud 各自独立开关，按需启用，互不影响 多语言，真正本地化 简体中文、繁体中文与英文，应用名称随语言变化（爱番茄 / 愛番茄 / iPomodoro） 切换语言后 Tab 栏、设置页、小组件与励志语录即时刷新 适合谁使用 学生：备考、刷题、论文写作，用热力图看见坚持，用任务关联知道复习进度 职场人：深度工作、项目推进，用周对比优化节奏，用分享图记录阶段成果 自由职业者：灵活计时配合任务 deadline，看数据就是最有说服力的工作日志 从番茄钟到专注伙伴 爱番茄不只是又一个计时器。它把经典番茄工作法与现代 iOS 能力结合：Widget、Live Activity、CloudKit、Swift Charts、App Shortcuts，让专注可记录、可分析、可分享、可激励。当你想知道「这周比上周更专注了吗」「时间是否花在了对的任务上」「距离下一个成就还有多远」，打开看数据 Tab，答案就在那里。 为什么选择爱番茄 原生 SwiftUI 打造，五 Tab 架构清晰，完美适配 iPhone 与 iPad 历经多年打磨的经典番茄钟体验全面进化，深度集成 iOS 小组件、实时活动、iCloud、快捷指令与 Siri 不只做计时，更帮你记录每一轮、看见每一天、激励每一次坚持 下载爱番茄，从今天开始，把专注变成一种习惯。记录每一轮，看见每一天，让时间真正为你所用。",
+    "summaryDescription": "爱番茄，一款为专注而生的原生番茄钟 App。 在信息过载的时代，专注不该靠意志力硬撑，而需要一套看得见的系统。爱番茄把计时、任务、数据与激励整合进完整闭环：每一次专注都会被记录，自动聚合为图表与趋势，用目标与成就给你即时反馈，再用超过 1000 条励志语录与庆祝动画推你走得更远。无论你是备考冲刺的学生、需要深度工作的职场人，还是正在培养习惯的人，爱番茄都能帮你减少分心、告别拖延，让成长有迹可循。 四大核心功能，五 Tab 一站搞定 番茄钟：经典番茄工作法，专注、短休息、长休息自动循环，完成轮次清晰统计；可关联定任务；锁屏与灵动岛实时活动；App 被系统回收后仍可智能恢复会话 倒计时：自定义任意时长，与番茄钟完全独立，想学多久学多久，适合深度阅读、刷题、写作与创作 定任务：倒数日、置顶、拖拽自定义排序、9 色 accent 标签、到期提醒，可选 iCloud 同步；长按菜单或上下文菜单一键跳转番茄专注或计时专注并自动绑定 看数据：独立数据 Tab，图表与趋势汇总全部专注记录；专注报告、年度回顾与仪表盘长图一键分享 看数据：记录、聚合、反馈、激励的完整闭环 这是爱番茄区别于普通计时器的核心能力，帮你把努力变成可见的数据。 第一步，记录 每次番茄专注、倒计时学习、休息段落结束，自动写入本地 SQLite 数据库 支持关联任务标题，专注结束即知道时间归属；CSV 导出导入方便备份或迁移 数据保留策略从 30 天到永久保留，也可立即清理过期记录 计数规则可配置：放弃是否计入、最短记录时长、最近列表条数、是否展示休息汇总 第二步，聚合 今日概览：专注时长、番茄数、完成率、当前与最长连续 streak 月历热力图：按月展示每日专注强度，未来日期虚线边框预览；支持上下月切换、点月份标题快速跳转任意年月、一键回到本月 多维分析：星期分布、时段分布、按任务拆分（未关联单独分组）、专注趋势图、休息汇总、最近记录列表 灵活筛选：按番茄钟或倒计时范围，按今日、本周、本月、今年、全部或自定义日期段查看；记住上次筛选偏好 第三步，反馈 专注目标：日番茄数、日专注分钟、周专注分钟，进度卡片实时更新，可在看数据 Tab 直接展示 周对比：本周与上周专注时长变化，帮你看见进步或及时调整节奏 今日统计小组件：主屏与锁屏 Small、Medium、Large 多种尺寸，随时查看专注进度、目标与 streak 火焰标 第四步，激励 9 枚本地成就：首个番茄、连续 3 天与 7 天、累计 10 与 100 个番茄、专注 10、100、500 小时、达成日目标等 新解锁全屏庆祝：粒子动画与触觉反馈，升级后不会重复弹出历史徽章 分享激励：统计 Tab 工具栏分享当前筛选范围的仪表盘长图；报告页与年度回顾页生成精美卡片；成就列表或单枚徽章均可分享，含 App Store 二维码，配色跟随看数据 Tab 主题 可选 iCloud 同步学习统计：会话记录、目标配置、成就解锁与庆祝状态跨 iPhone 与 iPad 增量同步，change token 高效下载，与定任务 iCloud 独立开关 典型工作流，从计划到复盘 在定任务创建考试或项目 deadline，设置 accent 色与到期提醒 长按任务选择番茄专注或计时专注，计时页自动关联，专注结束写入看数据 查看看数据 Tab 的热力图与任务拆分，调整下周目标 解锁成就或达成 streak，生成分享图记录里程碑 定任务，让专注有归属 创建与编辑任务可选 9 种 accent 色，列表、编辑页与定任务 Widget 同步展示 番茄或计时屏通过关联按钮选择任务，看数据按任务拆分，清楚知道时间花在何处 定任务 Widget：Small 展示 1 条、Medium 3 条、Large 5 条，置顶任务优先，剩余天数清晰可读 到期提醒管理：按今天、明天、近 7 天与更晚分组，可取消单次推送或跳转编辑；编辑页支持删除任务 定任务 iCloud 同步：倒数日、置顶、排序与 accent 色多设备保持一致 五类小组件，效率延伸到主屏与锁屏 番茄钟、倒计时、定任务、今日统计、今日励志，各司其职，可同时添加互不干扰 番茄钟与倒计时 Widget 支持 Small、Medium 与锁屏 accessory；运行中由系统 timer 驱动，省电流畅 今日统计 Widget 支持 Small、Medium、Large 与锁屏 accessory，展示专注进度与周目标 主题同步：小组件背景与强调色跟随 App 全局主题，也可切换简洁白底风格 励志 Widget 在 iOS 17 支持刷新换一句；设置页提供完整小组件教程与应用指南 FAQ 实时活动、快捷入口与专注联动 番茄钟与倒计时各自独立 Live Activity，运行、暂停、完成三态清晰；后台显示当日励志 hint 系统级 countdown 驱动，运行中不频繁 push，流畅省电；各模式可独立开关 Live Activity 主屏 Quick Actions 最多启用 4 项并可拖拽排序，默认番茄、计时、定任务、看数据 Siri 与快捷指令：打开番茄 Tab、打开计时 Tab、打开看数据 Tab，或语音查询今日专注摘要而不必打开 App 专注模式联动：番茄或计时设置中可选，开始计时时引导开启系统 Focus，减少通知打扰 App 被杀后可从本地快照与 Live Activity 恢复会话；冷启动自动跳转活跃计时 Tab 1000 条以上励志语录，365 条每日通知语料 弹窗与每日语料中英文合计 1000 条以上；后台通知另备 365 条通用励志短句，与弹窗语料分离 语录语言可筛选全部、仅简体中文、仅繁体中文、仅英文；按钮文案智能匹配语录语言 字体随语录语言自动匹配：英文 Chakra Petch、简体马善政、繁体 Noto Sans TC 启动鼓励、全屏语录大全、完成与放弃反馈、Live Activity 提示、可选每日励志固定时间本地通知 计时体验，细节同样讲究 大字时分秒显示，经典比例布局，运行中读数稳定不跳动 番茄设置含短休息、长休息、长休息间隔说明，Stepper 微调或滚轮快速选择 滴答声丰富可选：白噪音、鸟鸣、篝火、海浪等，支持试听；闹钟提示音多样；后台计时结束推送 学习防息屏：计时进行中保持屏幕常亮；屏幕亮度可在设置中快速调节 丰富个性化 双层主题：全局浅色、深色或跟随系统；番茄、计时、任务、看数据各 Tab 独立标题栏与背景渐变色 多种预设主题色；看数据 Tab 拥有专属主题，分享图配色随之统一 设置页可分享应用推广卡，含 Logo、功能亮点与 App Store 二维码 数据安全与掌控权在你手中 统计设置支持 CSV 导出与导入，方便备份或迁移 数据保留策略灵活可选，最近记录列表支持左滑删除单条，统计图表即时更新 学习统计与定任务 iCloud 各自独立开关，按需启用，互不影响 多语言，真正本地化 简体中文、繁体中文与英文，应用名称随语言变化（爱番茄 / 愛番茄 / iPomodoro） 切换语言后 Tab 栏、设置页、小组件与励志语录即时刷新 适合谁使用 学生：备考、刷题、论文写作，用热力图看见坚持，用任务关联知道复习进度 职场人：深度工作、项目推进，用周对比优化节奏，用分享图记录阶段成果 自由职业者：灵活计时配合任务 deadline，看数据就是最有说服力的工作日志 从番茄钟到专注伙伴 爱番茄不只是又一个计时器。它把经典番茄工作法与现代 iOS 能力结合：Widget、Live Activity、CloudKit、Swift Charts、App Shortcuts，让专注可记录、可分析、可分享、可激励。当你想知道「这周比上周更专注了吗」「时间是否花在了对的任务上」「距离下一个成就还有多远」，打开看数据 Tab，答案就在那里。 为什么选择爱番茄 原生 SwiftUI 打造，五 Tab 架构清晰，完美适配 iPhone 与 iPad 历经多年打磨的经典番茄钟体验全面进化，深度集成 iOS 小组件、实时活动、iCloud、快捷指令与 Siri 不只做计时，更帮你记录每一轮、看见每一天、激励每一次坚持 下载爱番茄，从今天开始，把专注变成一种习惯。记录每一轮，看见每一天，让时间真正为你所用。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/9b/fc/019bfcb7-0cf5-e458-ecf5-02e1e8865bcf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/9b/fc/019bfcb7-0cf5-e458-ecf5-02e1e8865bcf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.jpg",
+    "sellerName": "天从 何",
+    "artistName": "天从 何",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/92/f4/5f92f4fa-ca33-c7fc-27a8-f43237652ac0/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-07_at_02.15.50.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/61/a4/b061a4f8-d082-cde6-a118-c6118035af2c/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-07_at_21.03.14.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/03/16/0d031693-ccd9-9625-374c-f77fa82f13ab/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-07_at_21.02.22.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/e8/e0/92e8e0ce-514d-1fd0-d628-197f2d98090b/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-07_at_21.02.48.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/90/03/dd900329-85c0-2c70-89c5-d54121b33602/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-07_at_21.05.41.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/9e/53/b09e5336-c0dc-1fc9-d336-9bcfc2908e80/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-07_at_21.03.20.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/49/22/08492293-dc62-74eb-68d1-3210759e95aa/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-07_at_02.15.09.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/9d/62/109d626b-9aee-26c1-3d46-acad010ffc92/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-07_at_21.03.24.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/c6/85/32c685fe-743e-bb68-508d-c0716ea25e93/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-07_at_21.03.34.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/43/9f/24439fc3-7be0-743b-9dbf-92835aee64ac/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-07_at_21.03.54.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/31/94/783194bd-454b-4329-6587-e8a0c8dd4fc6/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-06-07_at_21.27.39.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/59/3f/4f593ff5-e925-b7ed-7b6a-c3d686fdca65/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-06-07_at_21.28.05.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/bd/e8/d0bde834-2df2-823e-f418-cbc04cba1b83/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-06-07_at_21.30.29.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e5/08/86e5082f-7520-d70d-d275-8983c128af0f/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-06-07_at_21.30.48.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/0c/3e/b50c3edf-6ca3-c853-cd16-808594f50f5b/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-06-07_at_21.30.59.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d5/cf/0bd5cfbd-47b0-0757-bc82-bbac39f0801c/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-06-07_at_21.31.04.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/57/60/925760ae-1f6a-7a9e-632d-736937fba78a/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-06-07_at_21.31.11.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/d7/11/81d71132-c2c9-9358-99d5-2d53a70f8e0a/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-06-07_at_21.31.19.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/19/e9/1619e904-0b9d-c3c5-441d-13e95d00385d/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-06-07_at_21.31.29.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/42/dc/3442dc29-f69b-1cae-9f5c-f45d1fd2882f/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-06-07_at_21.31.45.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789642764414
+  },
+  "6795156017": {
+    "name": "重复提醒 · 定时器",
+    "trackName": "重复提醒 · 定时器",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E9%87%8D%E5%A4%8D%E6%8F%90%E9%86%92-%E5%AE%9A%E6%97%B6%E5%99%A8/id6795156017?uo=4",
+    "description": "你是不是经常这样？ 设好提醒 → 响了 → 想着\"待会儿做\" → 然后就忘了。 账单逾期、忘吃药、错过重要任务……明明设了提醒，为什么还是会忘？ 因为系统\"提醒事项\"只响一次，你一关就没了。 本 App 不一样：**它会反复提醒你，直到你真的去做。** 工作原理 设置提醒 → 到点响 → 你关掉 → 5 分钟后又响 → 10 分钟后再响 → 直到标记完成或延后 你可以设置间隔（1/5/10/15/30/60 分钟）和次数（1~10 次或无限）。 再也不会\"待会儿做\"变成\"彻底忘了\"。 适用场景 吃药提醒 不会让你漏吃药，反复提醒直到吃掉。 账单缴费 不再逾期扣滞纳金，会一直提醒你去付款。 日常习惯 每天喝 8 杯水 每小时站起来活动 记录饮食、运动、冥想 工作任务 提交报告、跟进客户、完成方案。 家务琐事 浇花、倒垃圾、晾衣服、喂宠物。 烹饪计时 煮蛋、冲咖啡、发面，保存复用。 核心功能 自动贪睡（杀手级功能） 自动重复通知直到你处理。设好就不用管，它不会让你忘。 极速设定 12 个快捷预设：\"5 分钟后\"\"今晚 8 点\"\"明早 9 点\"，2 秒搞定。 循环规则 每天、每周、每月、每年——或\"每月第 2 个周二\"这种复杂规则。 倒计时定时器 保存自定义定时器，命名复用，后台也能响。 通知按钮 直接在通知上点\"完成\"或\"延后\"，不用打开 App。 完全离线 无账号、无追踪、无需联网，数据只在本地。 定价：付费下载 我们讨厌订阅。你应该也是。 在 App Store 一次付费下载，永久使用。无月费、无广告、无应用内购买。 所有功能都已包含： 提醒 + 可复用定时器 自动贪睡功能 循环规则 小组件与 Apple Watch 支持 数据备份/恢复 人性化设计 深色/浅色模式 中文 + 英文 VoiceOver 无障碍 动态字体 实话实说 本 App 基于 iOS 本地通知，可靠但非 100% 保证，受以下影响： 专注模式 / 勿扰 低电量模式 iOS 待处理通知上限（64 条） 这是效率工具，不是医疗设备。关键健康/安全任务请勿单独依赖本 App。 但话说回来，它比\"靠自己记\"靠谱多了。 支持与政策 隐私政策、使用条款和技术支持说明已在 App 内与产品网站提供。 立即下载，不再忘事。",
+    "fullDescription": "你是不是经常这样？ 设好提醒 → 响了 → 想着\"待会儿做\" → 然后就忘了。 账单逾期、忘吃药、错过重要任务……明明设了提醒，为什么还是会忘？ 因为系统\"提醒事项\"只响一次，你一关就没了。 本 App 不一样：**它会反复提醒你，直到你真的去做。** 工作原理 设置提醒 → 到点响 → 你关掉 → 5 分钟后又响 → 10 分钟后再响 → 直到标记完成或延后 你可以设置间隔（1/5/10/15/30/60 分钟）和次数（1~10 次或无限）。 再也不会\"待会儿做\"变成\"彻底忘了\"。 适用场景 吃药提醒 不会让你漏吃药，反复提醒直到吃掉。 账单缴费 不再逾期扣滞纳金，会一直提醒你去付款。 日常习惯 每天喝 8 杯水 每小时站起来活动 记录饮食、运动、冥想 工作任务 提交报告、跟进客户、完成方案。 家务琐事 浇花、倒垃圾、晾衣服、喂宠物。 烹饪计时 煮蛋、冲咖啡、发面，保存复用。 核心功能 自动贪睡（杀手级功能） 自动重复通知直到你处理。设好就不用管，它不会让你忘。 极速设定 12 个快捷预设：\"5 分钟后\"\"今晚 8 点\"\"明早 9 点\"，2 秒搞定。 循环规则 每天、每周、每月、每年——或\"每月第 2 个周二\"这种复杂规则。 倒计时定时器 保存自定义定时器，命名复用，后台也能响。 通知按钮 直接在通知上点\"完成\"或\"延后\"，不用打开 App。 完全离线 无账号、无追踪、无需联网，数据只在本地。 定价：付费下载 我们讨厌订阅。你应该也是。 在 App Store 一次付费下载，永久使用。无月费、无广告、无应用内购买。 所有功能都已包含： 提醒 + 可复用定时器 自动贪睡功能 循环规则 小组件与 Apple Watch 支持 数据备份/恢复 人性化设计 深色/浅色模式 中文 + 英文 VoiceOver 无障碍 动态字体 实话实说 本 App 基于 iOS 本地通知，可靠但非 100% 保证，受以下影响： 专注模式 / 勿扰 低电量模式 iOS 待处理通知上限（64 条） 这是效率工具，不是医疗设备。关键健康/安全任务请勿单独依赖本 App。 但话说回来，它比\"靠自己记\"靠谱多了。 支持与政策 隐私政策、使用条款和技术支持说明已在 App 内与产品网站提供。 立即下载，不再忘事。",
+    "summaryDescription": "你是不是经常这样？ 设好提醒 → 响了 → 想着\"待会儿做\" → 然后就忘了。 账单逾期、忘吃药、错过重要任务……明明设了提醒，为什么还是会忘？ 因为系统\"提醒事项\"只响一次，你一关就没了。 本 App 不一样：**它会反复提醒你，直到你真的去做。** 工作原理 设置提醒 → 到点响 → 你关掉 → 5 分钟后又响 → 10 分钟后再响 → 直到标记完成或延后 你可以设置间隔（1/5/10/15/30/60 分钟）和次数（1~10 次或无限）。 再也不会\"待会儿做\"变成\"彻底忘了\"。 适用场景 吃药提醒 不会让你漏吃药，反复提醒直到吃掉。 账单缴费 不再逾期扣滞纳金，会一直提醒你去付款。 日常习惯 每天喝 8 杯水 每小时站起来活动 记录饮食、运动、冥想 工作任务 提交报告、跟进客户、完成方案。 家务琐事 浇花、倒垃圾、晾衣服、喂宠物。 烹饪计时 煮蛋、冲咖啡、发面，保存复用。 核心功能 自动贪睡（杀手级功能） 自动重复通知直到你处理。设好就不用管，它不会让你忘。 极速设定 12 个快捷预设：\"5 分钟后\"\"今晚 8 点\"\"明早 9 点\"，2 秒搞定。 循环规则 每天、每周、每月、每年——或\"每月第 2 个周二\"这种复杂规则。 倒计时定时器 保存自定义定时器，命名复用，后台也能响。 通知按钮 直接在通知上点\"完成\"或\"延后\"，不用打开 App。 完全离线 无账号、无追踪、无需联网，数据只在本地。 定价：付费下载 我们讨厌订阅。你应该也是。 在 App Store 一次付费下载，永久使用。无月费、无广告、无应用内购买。 所有功能都已包含： 提醒 + 可复用定时器 自动贪睡功能 循环规则 小组件与 Apple Watch 支持 数据备份/恢复 人性化设计 深色/浅色模式 中文 + 英文 VoiceOver 无障碍 动态字体 实话实说 本 App 基于 iOS 本地通知，可靠但非 100% 保证，受以下影响： 专注模式 / 勿扰 低电量模式 iOS 待处理通知上限（64 条） 这是效率工具，不是医疗设备。关键健康/安全任务请勿单独依赖本 App。 但话说回来，它比\"靠自己记\"靠谱多了。 支持与政策 隐私政策、使用条款和技术支持说明已在 App 内与产品网站提供。 立即下载，不再忘事。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/c7/80/5ec780db-a612-8385-4698-cd1d8db78b05/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/c7/80/5ec780db-a612-8385-4698-cd1d8db78b05/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "润强 何",
+    "artistName": "润强 何",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/56/52/8b565299-c497-cd9e-330a-7b30d81b3db5/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/e7/c1/d7e7c1a1-27ec-b773-dd11-5c4019538218/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/73/50/3b73504a-e99a-49d6-b34a-48b393af117f/3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/3d/42/bc3d429c-888d-1bac-cc25-3658b9c0bf18/4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/83/bf/2183bf52-a99d-36b8-8d68-37b945236d4a/5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/7c/6b/487c6b43-a244-6b36-642c-579ad132e6c3/6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/92/21/5c922189-e5c3-f918-22e3-b1b56f3d960c/7.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/b4/1d/21b41ded-c0bc-6135-0659-04be591e1c2a/q1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/23/38/a823387c-7803-9643-282b-676eee0deaf5/q2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/94/6d/73946dde-1205-b3b5-c40c-62689e4969fa/q3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/63/77/78637701-97eb-f952-0bad-2f1bfc9fa15b/q4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/07/fd/9507fd6f-2c1f-85df-d657-26ca4989a850/q5.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/b0/cb/8bb0cb7a-d27c-50ff-e3ec-e5b93ff87336/q6.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/29/b2/1b29b205-20b8-255b-d3d4-3d459473684c/q7.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789642764414
+  },
+  "6785842033": {
+    "name": "Manual Camera Pro - DSLR Mode",
+    "trackName": "Manual Camera Pro - DSLR Mode",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/manual-camera-pro-dslr-mode/id6785842033?uo=4",
+    "description": "Manual Camera Pro 让你在 iPhone 和 iPad 上获得真正的单反式相机控制 — 没有功能堆砌类应用的杂乱。 取景器始终全屏。轻点一个控制项,它的调节滑块会像键盘一样从底部升起;点按 空白处,它便收起为一枚简洁的标签。一切一触即达,毫不碍事。 手动控制 快门速度、ISO、对焦、白平衡 — 锁定任意一项,其余保持自动。 每一次调整都在取景器中实时可见。 专业照片 RAW 与 Apple ProRAW 拍摄(受支持的设备),以及标准 HEIF。 专业视频 ProRes 与 Apple Log(受支持的设备),以及 HEVC/H.264。 自选分辨率与帧率;独立的慢动作与延时摄影模式。 为专注而生 基础模式让一切保持安静与自动。高级模式展示格式控制 — 有风险的设置在你主动选择之前始终保持安全。 构图辅助:网格(三分法 / 正方形 / 黄金比例)、陀螺仪水平仪、峰值对焦。 隐私即设计 完全在设备上运行。无账户、无广告、无跟踪。照片和视频直接存入你的照片图库, 绝不离开你的设备。 一个价格,全部解锁 一次付费,包含所有功能。永远没有内购。",
+    "fullDescription": "Manual Camera Pro 让你在 iPhone 和 iPad 上获得真正的单反式相机控制 — 没有功能堆砌类应用的杂乱。 取景器始终全屏。轻点一个控制项,它的调节滑块会像键盘一样从底部升起;点按 空白处,它便收起为一枚简洁的标签。一切一触即达,毫不碍事。 手动控制 快门速度、ISO、对焦、白平衡 — 锁定任意一项,其余保持自动。 每一次调整都在取景器中实时可见。 专业照片 RAW 与 Apple ProRAW 拍摄(受支持的设备),以及标准 HEIF。 专业视频 ProRes 与 Apple Log(受支持的设备),以及 HEVC/H.264。 自选分辨率与帧率;独立的慢动作与延时摄影模式。 为专注而生 基础模式让一切保持安静与自动。高级模式展示格式控制 — 有风险的设置在你主动选择之前始终保持安全。 构图辅助:网格(三分法 / 正方形 / 黄金比例)、陀螺仪水平仪、峰值对焦。 隐私即设计 完全在设备上运行。无账户、无广告、无跟踪。照片和视频直接存入你的照片图库, 绝不离开你的设备。 一个价格,全部解锁 一次付费,包含所有功能。永远没有内购。",
+    "summaryDescription": "Manual Camera Pro 让你在 iPhone 和 iPad 上获得真正的单反式相机控制 — 没有功能堆砌类应用的杂乱。 取景器始终全屏。轻点一个控制项,它的调节滑块会像键盘一样从底部升起;点按 空白处,它便收起为一枚简洁的标签。一切一触即达,毫不碍事。 手动控制 快门速度、ISO、对焦、白平衡 — 锁定任意一项,其余保持自动。 每一次调整都在取景器中实时可见。 专业照片 RAW 与 Apple ProRAW 拍摄(受支持的设备),以及标准 HEIF。 专业视频 ProRes 与 Apple Log(受支持的设备),以及 HEVC/H.264。 自选分辨率与帧率;独立的慢动作与延时摄影模式。 为专注而生 基础模式让一切保持安静与自动。高级模式展示格式控制 — 有风险的设置在你主动选择之前始终保持安全。 构图辅助:网格(三分法 / 正方形 / 黄金比例)、陀螺仪水平仪、峰值对焦。 隐私即设计 完全在设备上运行。无账户、无广告、无跟踪。照片和视频直接存入你的照片图库, 绝不离开你的设备。 一个价格,全部解锁 一次付费,包含所有功能。永远没有内购。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/5b/7d/875b7df9-c9bd-39f8-e4ed-c457c7663a83/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/5b/7d/875b7df9-c9bd-39f8-e4ed-c457c7663a83/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Murat Kul",
+    "artistName": "Murat Kul",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/24/77/21247701-c5c6-a3fb-4bba-17b1f77fa28f/frame-01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/3c/d5/f83cd546-d8eb-e412-4aa4-e64ae6f64280/frame-02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/ef/e7/31efe707-c4a2-bdf1-4cc9-e514720ebeaf/frame-03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/3f/7f/fe3f7f4f-7c71-267d-fc03-c678c2603fca/frame-04.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/8a/9b/5b8a9b4f-4a86-635a-bb66-4a4ad0a6bc2c/frame-05.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/1b/d5/131bd51f-5b15-3337-cae1-6022eb0abe04/frame-06.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/b3/29/17b329d3-3023-3462-91d9-9ed85fab8308/frame-07.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/a8/3e/7ca83ec6-5506-1add-d4b8-6c80b3480727/frame-08.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/ff/f4/f8fff406-1992-2e33-b153-b8db6beba501/frame-09.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/bc/87/08bc8760-5cd3-5751-c788-61325af08a36/frame-10.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/df/90/80df909e-920e-3166-b98e-7b8ee74d3727/frame-01.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/12/9c/39129c9e-fb15-5f60-6be9-5acdd51c95f3/frame-02.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/72/db/ec72db04-7797-6b79-3e17-bf8e4ef25655/frame-03.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/9c/34/cd9c34c9-fb02-9913-567f-6cccfb7128fd/frame-04.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/15/61/4815615b-8e4a-d224-8ec5-fe27ec28e932/frame-05.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/ba/35/60ba35ce-63b4-c408-0bbe-11854e1e3e18/frame-06.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/32/20/163220bf-6c1e-64bb-4f6a-cd97f5c027f7/frame-07.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/62/d6/dd62d6c7-09ea-802c-ca24-1bd808b1c3da/frame-08.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/9e/54/919e54d4-d0d9-88df-3d8b-f5b61503774a/frame-09.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/b8/f1/6fb8f152-0462-0cdd-d503-489018fdbeaf/frame-10.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789642764448
+  },
+  "6760283330": {
+    "name": "Pine Player Neo",
+    "trackName": "Pine Player Neo",
+    "maxPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00"
+    },
+    "minPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/pine-player-neo/id6760283330?uo=4",
+    "description": "Pine Player Neo — 一体化 Hi-Fi 音乐播放器 Pine Player Neo 将高解析度及 DSD 播放、强大的 EQ/DSP、DLNA 网络音频、CarPlay、NAS 与云端串流、下载管理、多房间投放以及 Pine Player 桌面版远程控制整合于一个 Hi-Fi 音乐播放器中。 高解析度音频播放 播放存储在 iPhone、iPad、外接 USB/SD 存储设备以及“文件”App 中的音乐。支持拖放导入文件和文件夹，也可通过“文件”App 使用“在 Pine Player 中打开”。 支持后台和锁屏播放，并可在锁定屏幕和灵动岛查看歌曲信息、专辑封面及播放时间。同时支持蓝牙耳机和 AVRCP 远程控制。 支持 MP3、FLAC、M4A、AAC、ALAC、WAV、AIFF、OGG Vorbis、Opus、WavPack、APE、MPC、TTA、WMA、CAF、AC3、DTS、DSF、DFF、DST 等多种音频格式。 DSD 与 DoP 播放 支持 DSF、DFF 文件以及 DSD over PCM（DoP）输出，同时支持 DST 压缩 DFF 解码和 Pine .dst 容器中的 ID3v2 标签。 提供针对 DSD 的输出采样率设置以及 DAC/EQ Off 模式下的 SoX 升采样，并支持本地文件和 HTTP 串流的精确定位。 强大的 EQ 与 DSP 提供 12 段软件 EQ，以及 Pre Gain、Bass Gain、Bass Frequency 和各频段 Q 值调节。通过左右声道实时电平表可随时监控输出状态。 内置丰富的标准及 Extreme 预设，并提供分类、说明和迷你 EQ 曲线预览。您还可以基于现有预设创建自定义 EQ，自动保存或导出为 JSON 文件。 DLNA、AirPlay 2 与 Chromecast 自动发现附近的 DLNA 媒体服务器和渲染器。浏览和搜索 DLNA 音乐库，通过 HTTP 串流播放，或下载文件和文件夹。 可将本地或 DLNA 音乐投放至 DLNA 渲染器，并远程控制播放、暂停、进度和音量。内置 DLNA 媒体服务器还可以将设备中的本地音乐共享给其他兼容设备。 支持 AirPlay 2、Chromecast/Google Cast、DLNA 渲染器及 Pine Player 桌面版作为输出设备，并可快速查看和切换当前音乐来源与输出设备。 Apple Music 与 CarPlay 浏览和搜索 Apple Music 音乐库及播放列表，并显示专辑封面进行播放。 CarPlay 支持浏览本地音乐、当前播放队列、最近播放、收藏以及自定义播放列表。您还可以在“正在播放”界面控制播放模式和收藏，并在车载显示屏上查看高解析度专辑封面。 CUE 文件支持 像浏览文件夹一样打开 CUE 文件，查看其中的独立曲目并按曲目播放或定位。同时支持本地以及 SMB、FTP、SFTP 服务器中的 CUE 文件。 NAS 与云端串流 通过统一界面访问不同位置的音乐： iPhone、iPad 和外接存储设备 Apple Music iCloud Drive Google Drive、Dropbox 等“文件”App 云端服务 HTTPS 音频和 Google Drive 共享链接 DLNA 媒体服务器 SMB/Samba 网络驱动器 FTP 与 SFTP/SSH Pine Player 桌面版 可直接浏览 SMB、FTP 和 SFTP 服务器文件夹并串流音乐，将网络文件夹创建为播放队列，为每个服务器保存起始文件夹，并在连接中断或从后台返回后自动重新连接。 可靠的下载管理 支持从单个文件到完整文件夹层级的下载，并提供多选、批量下载、总进度显示、取消、失败重试及断点续传功能。 应用重新启动后可恢复下载队列，并支持从 SMB、FTP、SFTP、DLNA 和云端来源下载。 播放列表与流畅的曲目切换 管理当前播放队列、最近播放、收藏和自定义播放列表。支持调整曲目顺序、下一首播放、多选、复制、剪切、粘贴、移动文件以及刷新元数据。 支持随机播放、单曲循环、全部循环、无缝播放，以及 0–10 秒等功率交叉淡化。 Pine Player 桌面版远程控制 自动发现同一网络中的 Pine Player 桌面版，并远程控制播放/暂停、上一首/下一首、播放位置以及播放模式。 还可以查看当前歌曲信息和专辑封面，并远程选择桌面版播放列表和 EQ 预设。 更精致的音乐体验 LRC 歌词及专辑封面歌词叠加 内嵌及 Apple Music 专辑封面 歌曲、专辑和艺术家搜索 格式、位深、采样率、声道及码率信息 按文件格式显示彩色标识 迷你播放器及当前播放队列 触觉反馈 深色模式及横竖屏优化 支持 iPhone、iPad 及 Mac 上的 Designed for iPad 环境 支持包括韩语在内的 9 种语言 无论音乐存在哪里，都能在您选择的设备上，以您想要的声音聆听。 Pine Player Neo 将本地文件与网络音频连接成完整统一的 Hi-Fi 音乐体验。",
+    "fullDescription": "Pine Player Neo — 一体化 Hi-Fi 音乐播放器 Pine Player Neo 将高解析度及 DSD 播放、强大的 EQ/DSP、DLNA 网络音频、CarPlay、NAS 与云端串流、下载管理、多房间投放以及 Pine Player 桌面版远程控制整合于一个 Hi-Fi 音乐播放器中。 高解析度音频播放 播放存储在 iPhone、iPad、外接 USB/SD 存储设备以及“文件”App 中的音乐。支持拖放导入文件和文件夹，也可通过“文件”App 使用“在 Pine Player 中打开”。 支持后台和锁屏播放，并可在锁定屏幕和灵动岛查看歌曲信息、专辑封面及播放时间。同时支持蓝牙耳机和 AVRCP 远程控制。 支持 MP3、FLAC、M4A、AAC、ALAC、WAV、AIFF、OGG Vorbis、Opus、WavPack、APE、MPC、TTA、WMA、CAF、AC3、DTS、DSF、DFF、DST 等多种音频格式。 DSD 与 DoP 播放 支持 DSF、DFF 文件以及 DSD over PCM（DoP）输出，同时支持 DST 压缩 DFF 解码和 Pine .dst 容器中的 ID3v2 标签。 提供针对 DSD 的输出采样率设置以及 DAC/EQ Off 模式下的 SoX 升采样，并支持本地文件和 HTTP 串流的精确定位。 强大的 EQ 与 DSP 提供 12 段软件 EQ，以及 Pre Gain、Bass Gain、Bass Frequency 和各频段 Q 值调节。通过左右声道实时电平表可随时监控输出状态。 内置丰富的标准及 Extreme 预设，并提供分类、说明和迷你 EQ 曲线预览。您还可以基于现有预设创建自定义 EQ，自动保存或导出为 JSON 文件。 DLNA、AirPlay 2 与 Chromecast 自动发现附近的 DLNA 媒体服务器和渲染器。浏览和搜索 DLNA 音乐库，通过 HTTP 串流播放，或下载文件和文件夹。 可将本地或 DLNA 音乐投放至 DLNA 渲染器，并远程控制播放、暂停、进度和音量。内置 DLNA 媒体服务器还可以将设备中的本地音乐共享给其他兼容设备。 支持 AirPlay 2、Chromecast/Google Cast、DLNA 渲染器及 Pine Player 桌面版作为输出设备，并可快速查看和切换当前音乐来源与输出设备。 Apple Music 与 CarPlay 浏览和搜索 Apple Music 音乐库及播放列表，并显示专辑封面进行播放。 CarPlay 支持浏览本地音乐、当前播放队列、最近播放、收藏以及自定义播放列表。您还可以在“正在播放”界面控制播放模式和收藏，并在车载显示屏上查看高解析度专辑封面。 CUE 文件支持 像浏览文件夹一样打开 CUE 文件，查看其中的独立曲目并按曲目播放或定位。同时支持本地以及 SMB、FTP、SFTP 服务器中的 CUE 文件。 NAS 与云端串流 通过统一界面访问不同位置的音乐： iPhone、iPad 和外接存储设备 Apple Music iCloud Drive Google Drive、Dropbox 等“文件”App 云端服务 HTTPS 音频和 Google Drive 共享链接 DLNA 媒体服务器 SMB/Samba 网络驱动器 FTP 与 SFTP/SSH Pine Player 桌面版 可直接浏览 SMB、FTP 和 SFTP 服务器文件夹并串流音乐，将网络文件夹创建为播放队列，为每个服务器保存起始文件夹，并在连接中断或从后台返回后自动重新连接。 可靠的下载管理 支持从单个文件到完整文件夹层级的下载，并提供多选、批量下载、总进度显示、取消、失败重试及断点续传功能。 应用重新启动后可恢复下载队列，并支持从 SMB、FTP、SFTP、DLNA 和云端来源下载。 播放列表与流畅的曲目切换 管理当前播放队列、最近播放、收藏和自定义播放列表。支持调整曲目顺序、下一首播放、多选、复制、剪切、粘贴、移动文件以及刷新元数据。 支持随机播放、单曲循环、全部循环、无缝播放，以及 0–10 秒等功率交叉淡化。 Pine Player 桌面版远程控制 自动发现同一网络中的 Pine Player 桌面版，并远程控制播放/暂停、上一首/下一首、播放位置以及播放模式。 还可以查看当前歌曲信息和专辑封面，并远程选择桌面版播放列表和 EQ 预设。 更精致的音乐体验 LRC 歌词及专辑封面歌词叠加 内嵌及 Apple Music 专辑封面 歌曲、专辑和艺术家搜索 格式、位深、采样率、声道及码率信息 按文件格式显示彩色标识 迷你播放器及当前播放队列 触觉反馈 深色模式及横竖屏优化 支持 iPhone、iPad 及 Mac 上的 Designed for iPad 环境 支持包括韩语在内的 9 种语言 无论音乐存在哪里，都能在您选择的设备上，以您想要的声音聆听。 Pine Player Neo 将本地文件与网络音频连接成完整统一的 Hi-Fi 音乐体验。",
+    "summaryDescription": "Pine Player Neo — 一体化 Hi-Fi 音乐播放器 Pine Player Neo 将高解析度及 DSD 播放、强大的 EQ/DSP、DLNA 网络音频、CarPlay、NAS 与云端串流、下载管理、多房间投放以及 Pine Player 桌面版远程控制整合于一个 Hi-Fi 音乐播放器中。 高解析度音频播放 播放存储在 iPhone、iPad、外接 USB/SD 存储设备以及“文件”App 中的音乐。支持拖放导入文件和文件夹，也可通过“文件”App 使用“在 Pine Player 中打开”。 支持后台和锁屏播放，并可在锁定屏幕和灵动岛查看歌曲信息、专辑封面及播放时间。同时支持蓝牙耳机和 AVRCP 远程控制。 支持 MP3、FLAC、M4A、AAC、ALAC、WAV、AIFF、OGG Vorbis、Opus、WavPack、APE、MPC、TTA、WMA、CAF、AC3、DTS、DSF、DFF、DST 等多种音频格式。 DSD 与 DoP 播放 支持 DSF、DFF 文件以及 DSD over PCM（DoP）输出，同时支持 DST 压缩 DFF 解码和 Pine .dst 容器中的 ID3v2 标签。 提供针对 DSD 的输出采样率设置以及 DAC/EQ Off 模式下的 SoX 升采样，并支持本地文件和 HTTP 串流的精确定位。 强大的 EQ 与 DSP 提供 12 段软件 EQ，以及 Pre Gain、Bass Gain、Bass Frequency 和各频段 Q 值调节。通过左右声道实时电平表可随时监控输出状态。 内置丰富的标准及 Extreme 预设，并提供分类、说明和迷你 EQ 曲线预览。您还可以基于现有预设创建自定义 EQ，自动保存或导出为 JSON 文件。 DLNA、AirPlay 2 与 Chromecast 自动发现附近的 DLNA 媒体服务器和渲染器。浏览和搜索 DLNA 音乐库，通过 HTTP 串流播放，或下载文件和文件夹。 可将本地或 DLNA 音乐投放至 DLNA 渲染器，并远程控制播放、暂停、进度和音量。内置 DLNA 媒体服务器还可以将设备中的本地音乐共享给其他兼容设备。 支持 AirPlay 2、Chromecast/Google Cast、DLNA 渲染器及 Pine Player 桌面版作为输出设备，并可快速查看和切换当前音乐来源与输出设备。 Apple Music 与 CarPlay 浏览和搜索 Apple Music 音乐库及播放列表，并显示专辑封面进行播放。 CarPlay 支持浏览本地音乐、当前播放队列、最近播放、收藏以及自定义播放列表。您还可以在“正在播放”界面控制播放模式和收藏，并在车载显示屏上查看高解析度专辑封面。 CUE 文件支持 像浏览文件夹一样打开 CUE 文件，查看其中的独立曲目并按曲目播放或定位。同时支持本地以及 SMB、FTP、SFTP 服务器中的 CUE 文件。 NAS 与云端串流 通过统一界面访问不同位置的音乐： iPhone、iPad 和外接存储设备 Apple Music iCloud Drive Google Drive、Dropbox 等“文件”App 云端服务 HTTPS 音频和 Google Drive 共享链接 DLNA 媒体服务器 SMB/Samba 网络驱动器 FTP 与 SFTP/SSH Pine Player 桌面版 可直接浏览 SMB、FTP 和 SFTP 服务器文件夹并串流音乐，将网络文件夹创建为播放队列，为每个服务器保存起始文件夹，并在连接中断或从后台返回后自动重新连接。 可靠的下载管理 支持从单个文件到完整文件夹层级的下载，并提供多选、批量下载、总进度显示、取消、失败重试及断点续传功能。 应用重新启动后可恢复下载队列，并支持从 SMB、FTP、SFTP、DLNA 和云端来源下载。 播放列表与流畅的曲目切换 管理当前播放队列、最近播放、收藏和自定义播放列表。支持调整曲目顺序、下一首播放、多选、复制、剪切、粘贴、移动文件以及刷新元数据。 支持随机播放、单曲循环、全部循环、无缝播放，以及 0–10 秒等功率交叉淡化。 Pine Player 桌面版远程控制 自动发现同一网络中的 Pine Player 桌面版，并远程控制播放/暂停、上一首/下一首、播放位置以及播放模式。 还可以查看当前歌曲信息和专辑封面，并远程选择桌面版播放列表和 EQ 预设。 更精致的音乐体验 LRC 歌词及专辑封面歌词叠加 内嵌及 Apple Music 专辑封面 歌曲、专辑和艺术家搜索 格式、位深、采样率、声道及码率信息 按文件格式显示彩色标识 迷你播放器及当前播放队列 触觉反馈 深色模式及横竖屏优化 支持 iPhone、iPad 及 Mac 上的 Designed for iPad 环境 支持包括韩语在内的 9 种语言 无论音乐存在哪里，都能在您选择的设备上，以您想要的声音聆听。 Pine Player Neo 将本地文件与网络音频连接成完整统一的 Hi-Fi 音乐体验。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/ce/e0/23cee0db-20bd-aee4-1bbf-75b5357914b5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/ce/e0/23cee0db-20bd-aee4-1bbf-75b5357914b5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Siseong Ahn",
+    "artistName": "Siseong Ahn",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/ba/43/3aba43fb-bc68-a5e8-6b14-5215ba077384/PinePlayerStoreImage1-1_cs.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/f7/7f/4bf77f84-998e-ee9c-6a7f-ef0dbab68513/PinePlayerStoreImage1-2_cs.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/8a/9b/c18a9b01-33da-519d-92ba-9801dd680f31/PinePlayerStoreImage1-3_cs.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/b1/37/58b13767-1649-a812-2cd8-198c3d5071fa/PinePlayerStoreImage_2_ct-1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/ed/d2/3cedd244-1c6e-5532-65c5-559fca08760d/PinePlayerStoreImage_2_cs-2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/86/38/968638e1-56e0-c571-d33b-9a23bbf6dc0b/PinePlayerStoreImage_3_cs-1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/84/f0/e784f07a-f92a-ab67-b07f-6ee46895916d/PinePlayerStoreImage_3_cs-2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/d7/b5/b3d7b513-d0e3-4318-17c5-a64332aae6d0/PinePlayerStoreImage_4_cs-1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/3f/a6/bf3fa6e4-b8dc-6753-1660-8d9b3429c376/PinePlayerStoreImage_4_cs-2.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/52/ec/1a52ec54-0e4b-7786-724f-74c9ac67c9e5/PinePlayerStoreImage_pad_1-1_cs.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/dc/2b/86dc2b26-1a99-e074-5ac2-7f8c69014881/PinePlayerStoreImage_pad_4_cs.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/e8/3c/efe83c7f-b51b-01e8-e926-62cd1a732992/PinePlayerStoreImage_pad_2_cs.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/9c/15/359c1585-5a49-c457-f7b0-b888be17dcbd/PinePlayerStoreImage_pad_3_cs.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789642767123
+  },
+  "6759488109": {
+    "name": "kk每日记账",
+    "trackName": "kk每日记账",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/kk%E6%AF%8F%E6%97%A5%E8%AE%B0%E8%B4%A6/id6759488109?uo=4",
+    "description": "一目了然的消费看板: 打开App，顶部实时显示当月总消费和每个大类的消费总额,大类名称支持自定义,根据你的习惯来! 一眼看清,不用翻页，不用计算，打开就知道今月的消费状况。 手写式快捷记账 像记手账一样自然，几秒钟完成一笔记录。没有复杂操作，记账回归它本该有的样子——简单、轻松。 收入也要清清楚楚 工资到账、兼职收入、红包礼金……收入按大类区分，让你不仅知道钱花在哪，更清楚钱从哪来。全面掌握财务状况，更好规划未来。 智能总结，随时回顾 想查某一天的花销？想看这个月花了多少？或者来一份年度消费报告？一键生成，清清楚楚。 记账从来不是目的，掌握生活的主动权才是。当你清楚每一笔消费的去向，你就能做出更明智的选择；当你看见收入如何积累，你就能离想要的生活更近一步。 这不是一个冰冷的记账本，而是一个帮你理清生活、拿回主动权的工具。 适合这样的你： 想要控制预算，却不知道钱花在哪 渴望简单直观的记账体验 希望收入和支出都清晰可查 相信“看见，就是改变的开始” 掌握消费，从下载这个App开始。",
+    "fullDescription": "一目了然的消费看板: 打开App，顶部实时显示当月总消费和每个大类的消费总额,大类名称支持自定义,根据你的习惯来! 一眼看清,不用翻页，不用计算，打开就知道今月的消费状况。 手写式快捷记账 像记手账一样自然，几秒钟完成一笔记录。没有复杂操作，记账回归它本该有的样子——简单、轻松。 收入也要清清楚楚 工资到账、兼职收入、红包礼金……收入按大类区分，让你不仅知道钱花在哪，更清楚钱从哪来。全面掌握财务状况，更好规划未来。 智能总结，随时回顾 想查某一天的花销？想看这个月花了多少？或者来一份年度消费报告？一键生成，清清楚楚。 记账从来不是目的，掌握生活的主动权才是。当你清楚每一笔消费的去向，你就能做出更明智的选择；当你看见收入如何积累，你就能离想要的生活更近一步。 这不是一个冰冷的记账本，而是一个帮你理清生活、拿回主动权的工具。 适合这样的你： 想要控制预算，却不知道钱花在哪 渴望简单直观的记账体验 希望收入和支出都清晰可查 相信“看见，就是改变的开始” 掌握消费，从下载这个App开始。",
+    "summaryDescription": "一目了然的消费看板: 打开App，顶部实时显示当月总消费和每个大类的消费总额,大类名称支持自定义,根据你的习惯来! 一眼看清,不用翻页，不用计算，打开就知道今月的消费状况。 手写式快捷记账 像记手账一样自然，几秒钟完成一笔记录。没有复杂操作，记账回归它本该有的样子——简单、轻松。 收入也要清清楚楚 工资到账、兼职收入、红包礼金……收入按大类区分，让你不仅知道钱花在哪，更清楚钱从哪来。全面掌握财务状况，更好规划未来。 智能总结，随时回顾 想查某一天的花销？想看这个月花了多少？或者来一份年度消费报告？一键生成，清清楚楚。 记账从来不是目的，掌握生活的主动权才是。当你清楚每一笔消费的去向，你就能做出更明智的选择；当你看见收入如何积累，你就能离想要的生活更近一步。 这不是一个冰冷的记账本，而是一个帮你理清生活、拿回主动权的工具。 适合这样的你： 想要控制预算，却不知道钱花在哪 渴望简单直观的记账体验 希望收入和支出都清晰可查 相信“看见，就是改变的开始” 掌握消费，从下载这个App开始。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/04/f4/c204f47f-f124-512a-628b-1ebaee054e62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/04/f4/c204f47f-f124-512a-628b-1ebaee054e62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "静 柯",
+    "artistName": "静 柯",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/f5/cc/aff5cc24-e1d6-b3b5-9a87-f837f92e9ff1/appstore-iphone65-portrait-1242x2688-2026-02-21T12-24-00-419Z.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/43/17/c94317dc-46d1-fd5f-181f-e04fe8bc1bcd/appstore-iphone65-portrait-1242x2688-2026-02-21T12-25-33-748Z.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/05/d9/d705d951-ea2e-591d-ca84-b9991762a72b/appstore-iphone65-portrait-1242x2688-2026-02-21T12-24-16-752Z.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/a0/8d/85a08d20-cac1-f3c1-f07f-ee97f9356fec/appstore-iphone65-portrait-1242x2688-2026-02-21T12-24-24-330Z.jpg/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789642769668
+  },
+  "6758582874": {
+    "name": "Remain: Still Here",
+    "trackName": "Remain: Still Here",
+    "maxPriceInfo": {
+      "price": 10,
+      "formattedPrice": "¥10.00",
+      "Annual Subscription": "¥328.00",
+      "Monthly Subscription": "¥68.00",
+      "Weekly Subscription": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 10,
+      "formattedPrice": "¥10.00",
+      "Annual Subscription": "¥328.00",
+      "Monthly Subscription": "¥68.00",
+      "Weekly Subscription": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 10,
+          "formattedPrice": "¥10.00",
+          "inAppPurchases": {
+            "Annual Subscription": "¥328.00",
+            "Monthly Subscription": "¥68.00",
+            "Weekly Subscription": "¥38.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/remain-still-here/id6758582874?uo=4",
+    "description": "What if your favorite conversations never had to end? Remain turns your real chat histories into AI characters that talk just like the people you know. Import conversations from WhatsApp, Telegram, iMessage, or any messaging app — and our AI learns their unique voice, humor, and personality. HOW IT WORKS Import a conversation from any messaging app Choose who becomes your AI character Our AI analyzes their writing style and personality Start chatting — they respond just like the real person FEATURES Import from WhatsApp, Telegram, iMessage & more AI that captures real speech patterns & personality Private & secure — your data stays on your device Persistent memory — your AI remembers past conversations Beautiful dark mode interface PREMIUM Unlimited characters Unlimited daily messages Advanced memory features Remain is not just another AI chatbot. It's a way to preserve the conversations that matter most to you. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula Subscription Plans Remain offers weekly, monthly, yearly and lifetime subscription plans. Subscription Details Subscription includes unlimited AI characters, unlimited daily messages, and advanced memory features. Membership periods are 1 week, 1 month, 1 year. Membership renewals are made on a weekly, monthly and annual basis. Payment will be credited to your iTunes account once you confirm the subscription purchase. Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Renewal will be charged to your account within 24 hours prior to the end of the current period. You can manage or cancel your subscription at any time through your Apple ID account settings. Any unused portion of a free trial period, if offered, will be forfeited when purchasing a subscription. Terms of Service: https://remainapp.net/terms.html Privacy Policy: https://remainapp.net/privacy.html",
+    "fullDescription": "What if your favorite conversations never had to end? Remain turns your real chat histories into AI characters that talk just like the people you know. Import conversations from WhatsApp, Telegram, iMessage, or any messaging app — and our AI learns their unique voice, humor, and personality. HOW IT WORKS Import a conversation from any messaging app Choose who becomes your AI character Our AI analyzes their writing style and personality Start chatting — they respond just like the real person FEATURES Import from WhatsApp, Telegram, iMessage & more AI that captures real speech patterns & personality Private & secure — your data stays on your device Persistent memory — your AI remembers past conversations Beautiful dark mode interface PREMIUM Unlimited characters Unlimited daily messages Advanced memory features Remain is not just another AI chatbot. It's a way to preserve the conversations that matter most to you. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula Subscription Plans Remain offers weekly, monthly, yearly and lifetime subscription plans. Subscription Details Subscription includes unlimited AI characters, unlimited daily messages, and advanced memory features. Membership periods are 1 week, 1 month, 1 year. Membership renewals are made on a weekly, monthly and annual basis. Payment will be credited to your iTunes account once you confirm the subscription purchase. Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Renewal will be charged to your account within 24 hours prior to the end of the current period. You can manage or cancel your subscription at any time through your Apple ID account settings. Any unused portion of a free trial period, if offered, will be forfeited when purchasing a subscription. Terms of Service: https://remainapp.net/terms.html Privacy Policy: https://remainapp.net/privacy.html",
+    "summaryDescription": "What if your favorite conversations never had to end? Remain turns your real chat histories into AI characters that talk just like the people you know. Import conversations from WhatsApp, Telegram, iMessage, or any messaging app — and our AI learns their unique voice, humor, and personality. HOW IT WORKS Import a conversation from any messaging app Choose who becomes your AI character Our AI analyzes their writing style and personality Start chatting — they respond just like the real person FEATURES Import from WhatsApp, Telegram, iMessage & more AI that captures real speech patterns & personality Private & secure — your data stays on your device Persistent memory — your AI remembers past conversations Beautiful dark mode interface PREMIUM Unlimited characters Unlimited daily messages Advanced memory features Remain is not just another AI chatbot. It's a way to preserve the conversations that matter most to you. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula Subscription Plans Remain offers weekly, monthly, yearly and lifetime subscription plans. Subscription Details Subscription includes unlimited AI characters, unlimited daily messages, and advanced memory features. Membership periods are 1 week, 1 month, 1 year. Membership renewals are made on a weekly, monthly and annual basis. Payment will be credited to your iTunes account once you confirm the subscription purchase. Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Renewal will be charged to your account within 24 hours prior to the end of the current period. You can manage or cancel your subscription at any time through your Apple ID account settings. Any unused portion of a free trial period, if offered, will be forfeited when purchasing a subscription. Terms of Service: https://remainapp.net/terms.html Privacy Policy: https://remainapp.net/privacy.html",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/5d/f7/3c5df795-b444-18a2-1c45-6faa27a8a8bd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/5d/f7/3c5df795-b444-18a2-1c45-6faa27a8a8bd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Vedat Suat Kavgaci",
+    "artistName": "Vedat Suat Kavgaci",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/61/9b/9a619b1d-6d51-6a74-5c06-d363702b69d7/conversations_that_remember.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/93/7e/f6937e60-f86c-9c94-07ff-bc48d0f3138d/add_memories__improve_replies_.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/c3/48/d6c34839-2943-9f04-e9d0-81a2c9080ca2/start_creating_today.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789642772545
+  },
+  "6738848702": {
+    "name": "Business German",
+    "trackName": "Business German",
+    "maxPriceInfo": {
+      "price": 58,
+      "formattedPrice": "¥58.00"
+    },
+    "minPriceInfo": {
+      "price": 58,
+      "formattedPrice": "¥58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 58,
+          "formattedPrice": "¥58.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/business-german/id6738848702?uo=4",
+    "description": "商务德语：职场专业德语 为商务专业人士提供的全面德语学习解决方案 商务德语是一款专为企业专业人士、商科学生和国际管理者精心设计的高级语言学习应用。通过系统化的内容结构和实用的场景练习，本应用助您在德语商务环境中自信交流。 专业结构化内容 核心商务领域（10个主要单元） 每个单元包含5个商务场景，每个场景有70个专业短语，总计7000个德英句对： 交易谈判 - 掌握成功商务交易的谈判技巧 商务电子邮件沟通 - 学习专业的电子邮件写作和回复策略 主持高效会议 - 主持、参与和总结商务会议 向客户展示产品 - 创建引人注目的产品演示 提供卓越客户服务 - 建立优质客户关系的关键词汇 财务业绩报告 - 理解和讨论财务数据和报告 面试和招聘人才 - 面试、招聘和管理人力资源 成功管理项目 - 规划、执行和评估项目进度 营销策略和活动 - 制定和实施有效的营销计划 员工培训和发展 - 设计和实施专业发展项目 额外专业模块 商务德语会话（100个场景）- 参与多样化的商务对话 商务德语行业术语（7课）- 特定行业的专业词汇 商务德语沟通模板（8课）- 即用型专业沟通模板 商务德语情景对话（8课）- 真实场景中的互动对话练习 学习功能与优势 全面的词汇系统 7000+商务德语专业术语 场景特定的词汇分类 专业短语集合 离线德语发音与对话音频，包含多样男女声 互动学习体验 单词匹配练习 - 通过互动活动掌握核心商务词汇 情境学习 - 在商务环境中应用知识 技术优势 离线访问 - 随时随地学习，无需互联网连接 内容更新 - 包含错误修复和框架兼容性更新 简单明了的定价模式 一次购买，终身访问 无广告 无应用内购买 无订阅费用 所有功能完全可用 今天就开始您的商务德语卓越之旅！",
+    "fullDescription": "商务德语：职场专业德语 为商务专业人士提供的全面德语学习解决方案 商务德语是一款专为企业专业人士、商科学生和国际管理者精心设计的高级语言学习应用。通过系统化的内容结构和实用的场景练习，本应用助您在德语商务环境中自信交流。 专业结构化内容 核心商务领域（10个主要单元） 每个单元包含5个商务场景，每个场景有70个专业短语，总计7000个德英句对： 交易谈判 - 掌握成功商务交易的谈判技巧 商务电子邮件沟通 - 学习专业的电子邮件写作和回复策略 主持高效会议 - 主持、参与和总结商务会议 向客户展示产品 - 创建引人注目的产品演示 提供卓越客户服务 - 建立优质客户关系的关键词汇 财务业绩报告 - 理解和讨论财务数据和报告 面试和招聘人才 - 面试、招聘和管理人力资源 成功管理项目 - 规划、执行和评估项目进度 营销策略和活动 - 制定和实施有效的营销计划 员工培训和发展 - 设计和实施专业发展项目 额外专业模块 商务德语会话（100个场景）- 参与多样化的商务对话 商务德语行业术语（7课）- 特定行业的专业词汇 商务德语沟通模板（8课）- 即用型专业沟通模板 商务德语情景对话（8课）- 真实场景中的互动对话练习 学习功能与优势 全面的词汇系统 7000+商务德语专业术语 场景特定的词汇分类 专业短语集合 离线德语发音与对话音频，包含多样男女声 互动学习体验 单词匹配练习 - 通过互动活动掌握核心商务词汇 情境学习 - 在商务环境中应用知识 技术优势 离线访问 - 随时随地学习，无需互联网连接 内容更新 - 包含错误修复和框架兼容性更新 简单明了的定价模式 一次购买，终身访问 无广告 无应用内购买 无订阅费用 所有功能完全可用 今天就开始您的商务德语卓越之旅！",
+    "summaryDescription": "商务德语：职场专业德语 为商务专业人士提供的全面德语学习解决方案 商务德语是一款专为企业专业人士、商科学生和国际管理者精心设计的高级语言学习应用。通过系统化的内容结构和实用的场景练习，本应用助您在德语商务环境中自信交流。 专业结构化内容 核心商务领域（10个主要单元） 每个单元包含5个商务场景，每个场景有70个专业短语，总计7000个德英句对： 交易谈判 - 掌握成功商务交易的谈判技巧 商务电子邮件沟通 - 学习专业的电子邮件写作和回复策略 主持高效会议 - 主持、参与和总结商务会议 向客户展示产品 - 创建引人注目的产品演示 提供卓越客户服务 - 建立优质客户关系的关键词汇 财务业绩报告 - 理解和讨论财务数据和报告 面试和招聘人才 - 面试、招聘和管理人力资源 成功管理项目 - 规划、执行和评估项目进度 营销策略和活动 - 制定和实施有效的营销计划 员工培训和发展 - 设计和实施专业发展项目 额外专业模块 商务德语会话（100个场景）- 参与多样化的商务对话 商务德语行业术语（7课）- 特定行业的专业词汇 商务德语沟通模板（8课）- 即用型专业沟通模板 商务德语情景对话（8课）- 真实场景中的互动对话练习 学习功能与优势 全面的词汇系统 7000+商务德语专业术语 场景特定的词汇分类 专业短语集合 离线德语发音与对话音频，包含多样男女声 互动学习体验 单词匹配练习 - 通过互动活动掌握核心商务词汇 情境学习 - 在商务环境中应用知识 技术优势 离线访问 - 随时随地学习，无需互联网连接 内容更新 - 包含错误修复和框架兼容性更新 简单明了的定价模式 一次购买，终身访问 无广告 无应用内购买 无订阅费用 所有功能完全可用 今天就开始您的商务德语卓越之旅！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/f9/5a/6ef95a12-cb3f-cfc5-31fc-11334c7d4533/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/f9/5a/6ef95a12-cb3f-cfc5-31fc-11334c7d4533/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "SimTeCon GmbH",
+    "artistName": "SimTeCon GmbH",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/4a/b0/e24ab019-efc2-616a-4201-cf2043a955e8/01-workplace-german.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/51/3e/a2513ee1-df47-bae0-f32d-527642321106/02-example-sentence.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/07/c2/0507c2f0-9a7d-8609-3312-e391b6de159e/03-email-courseware.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/c7/51/7cc751ed-a92c-0810-595f-d29192eddccf/04-business-vocabulary.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/8b/6c/de8b6ca9-2026-6f4f-5f05-9f58e50c4763/05-flashcards.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/ea/dd/32eaddc4-6c84-077c-9e59-6459af6746d4/06-conversation-levels.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/16/f5/1016f58e-b534-a7e3-856c-81a768951c08/07-writing-guides.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/13/d6/5713d607-2e4d-e2a1-b4a3-f52647e6cd40/08-grammar-topics.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/87/37/b4873769-d761-9c81-ddee-80162314f700/09-negotiation-courseware.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/c8/6d/40c86dfa-8518-deb8-1012-0aaceb823d81/10-industry-terminology.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/1d/07/c41d076b-38dd-4347-143b-c743f19416a2/01-german-for-work.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/bd/db/95bddbdb-b135-a2d2-28da-1dbbb0da0d29/02-example-sentence.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/2d/97/462d97e9-200b-2196-a704-9278de833a5f/03-meeting-courseware.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/29/6b/76296b22-1bc0-ae8e-b4f2-df22bac9ddcf/04-flashcards.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/dd/d8/d9ddd817-1fa6-bba8-9022-99c6d1a90e3f/05-conversation-levels.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/d3/c5/80d3c50e-544d-3038-9e28-7d6419f40300/06-situational-dialogues.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/59/14/bb591482-796f-6811-4b81-a9d2954a7b08/07-business-documents.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/c8/a0/61c8a06d-a977-9639-b06d-e7640e436232/08-industry-terminology.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/e0/37/d7e03710-9abc-0a12-82a5-1e4470d25420/09-german-grammar.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/65/ab/c265ab12-f569-17d9-dbd1-f180b3ed730f/10-teaching-language.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789642772901
+  },
+  "6787700159": {
+    "name": "成绩分数复盘-学生考试记录",
+    "trackName": "成绩分数复盘-学生考试记录",
+    "maxPriceInfo": {
+      "price": 128,
+      "formattedPrice": "¥128.00",
+      "年会员": "¥88.00",
+      "月会员": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 128,
+      "formattedPrice": "¥128.00",
+      "年会员": "¥88.00",
+      "月会员": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 128,
+          "formattedPrice": "¥128.00",
+          "inAppPurchases": {
+            "年会员": "¥88.00",
+            "月会员": "¥8.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%88%90%E7%BB%A9%E5%88%86%E6%95%B0%E5%A4%8D%E7%9B%98-%E5%AD%A6%E7%94%9F%E8%80%83%E8%AF%95%E8%AE%B0%E5%BD%95/id6787700159?uo=4",
+    "description": "成绩分数复盘是一款为小学、初中、高中学生家长设计的考试成绩记录与考后复盘工具。 很多家长都会记录孩子每次考试成绩，但时间一长，分数、排名、科目变化和退步原因很容易散落在聊天记录、纸质试卷、Excel 或备忘录里。 成绩分数复盘希望帮助家长把每一次考试变成一次清晰的成长记录：这次考得怎么样？比上次进步还是退步？哪些科目变化最大？原因是什么？下一步应该怎么调整？ 【核心功能】 1. 记录每一次考试成绩 支持记录考试名称、考试日期、学期、考试类型、总分、班级排名、年级排名以及各科成绩。 2. 自动对比上一次考试 录入成绩后，自动对比上一次考试，快速看清总分、班级排名、年级排名是提升还是下降。 3. 找出进步和退步科目 不用手动计算差值，系统会帮你整理哪些科目进步了，哪些科目退步了，让家长第一时间发现问题。 4. 查看成绩趋势 通过趋势图查看总分、单科分数、班级排名、年级排名的变化，帮助家长判断孩子近期学习状态。 5. 记录错因和复盘原因 支持为退步科目添加原因标签，例如粗心、知识点不牢、审题不清、时间不足、状态不佳等。 6. 制定下一步提分计划 每次考试后记录改进方向，让下一次考试前可以回看上次复盘，不再只是“考完就忘”。 7. 多学生管理 适合有多个孩子的家庭，支持为不同孩子分别记录成绩、查看趋势和保存复盘记录。 【适合谁使用】 小学生家长：记录语文、数学、英语等基础科目变化 初中生家长：跟踪月考、期中、期末等多科成绩 高中生家长：关注总分、排名、单科趋势和阶段性复盘 希望长期观察孩子学习变化的家长 成绩分数复盘不是简单的分数记录本，而是帮助家长看清： 这次哪里进步了； 哪里退步了； 为什么会变化； 下一步应该怎么做。 让每一次考试，都成为下一次进步的起点。 1. 该服务是订阅制的收费服务，这意味着您将为未来的订阅使用而提前预支费用。当前您可以选择以按年的方式来使用该服务。在每个订阅周期即将结束时，您的订阅默认将自动续费，除非您自行取消自动续费，或者由我们取消该服务。 2. 取消订阅:如需取消续订，请至少提前24小时操作取消。您可以通过如下方法取消：打开系统设置 - 点击Apple ID - 点击订阅 - 选择iCost高级版，取消订阅即可。 3. 恢复购买:如果在支付过程中，收到提示 “您目前已经订阅该项目”，并且确定之前完成了购买，可以点击右上角 “恢复购买” 进行购买恢复。 会员服务协议及自动续费协议： https://gcn1s2rmayw3.feishu.cn/wiki/SGBIwmUWCiPWoWktE5sclLRgnol?from=from_copylink 隐私政策： https://gcn1s2rmayw3.feishu.cn/wiki/SGBIwmUWCiPWoWktE5sclLRgnol?from=from_copylink",
+    "fullDescription": "成绩分数复盘是一款为小学、初中、高中学生家长设计的考试成绩记录与考后复盘工具。 很多家长都会记录孩子每次考试成绩，但时间一长，分数、排名、科目变化和退步原因很容易散落在聊天记录、纸质试卷、Excel 或备忘录里。 成绩分数复盘希望帮助家长把每一次考试变成一次清晰的成长记录：这次考得怎么样？比上次进步还是退步？哪些科目变化最大？原因是什么？下一步应该怎么调整？ 【核心功能】 1. 记录每一次考试成绩 支持记录考试名称、考试日期、学期、考试类型、总分、班级排名、年级排名以及各科成绩。 2. 自动对比上一次考试 录入成绩后，自动对比上一次考试，快速看清总分、班级排名、年级排名是提升还是下降。 3. 找出进步和退步科目 不用手动计算差值，系统会帮你整理哪些科目进步了，哪些科目退步了，让家长第一时间发现问题。 4. 查看成绩趋势 通过趋势图查看总分、单科分数、班级排名、年级排名的变化，帮助家长判断孩子近期学习状态。 5. 记录错因和复盘原因 支持为退步科目添加原因标签，例如粗心、知识点不牢、审题不清、时间不足、状态不佳等。 6. 制定下一步提分计划 每次考试后记录改进方向，让下一次考试前可以回看上次复盘，不再只是“考完就忘”。 7. 多学生管理 适合有多个孩子的家庭，支持为不同孩子分别记录成绩、查看趋势和保存复盘记录。 【适合谁使用】 小学生家长：记录语文、数学、英语等基础科目变化 初中生家长：跟踪月考、期中、期末等多科成绩 高中生家长：关注总分、排名、单科趋势和阶段性复盘 希望长期观察孩子学习变化的家长 成绩分数复盘不是简单的分数记录本，而是帮助家长看清： 这次哪里进步了； 哪里退步了； 为什么会变化； 下一步应该怎么做。 让每一次考试，都成为下一次进步的起点。 1. 该服务是订阅制的收费服务，这意味着您将为未来的订阅使用而提前预支费用。当前您可以选择以按年的方式来使用该服务。在每个订阅周期即将结束时，您的订阅默认将自动续费，除非您自行取消自动续费，或者由我们取消该服务。 2. 取消订阅:如需取消续订，请至少提前24小时操作取消。您可以通过如下方法取消：打开系统设置 - 点击Apple ID - 点击订阅 - 选择iCost高级版，取消订阅即可。 3. 恢复购买:如果在支付过程中，收到提示 “您目前已经订阅该项目”，并且确定之前完成了购买，可以点击右上角 “恢复购买” 进行购买恢复。 会员服务协议及自动续费协议： https://gcn1s2rmayw3.feishu.cn/wiki/SGBIwmUWCiPWoWktE5sclLRgnol?from=from_copylink 隐私政策： https://gcn1s2rmayw3.feishu.cn/wiki/SGBIwmUWCiPWoWktE5sclLRgnol?from=from_copylink",
+    "summaryDescription": "成绩分数复盘是一款为小学、初中、高中学生家长设计的考试成绩记录与考后复盘工具。 很多家长都会记录孩子每次考试成绩，但时间一长，分数、排名、科目变化和退步原因很容易散落在聊天记录、纸质试卷、Excel 或备忘录里。 成绩分数复盘希望帮助家长把每一次考试变成一次清晰的成长记录：这次考得怎么样？比上次进步还是退步？哪些科目变化最大？原因是什么？下一步应该怎么调整？ 【核心功能】 1. 记录每一次考试成绩 支持记录考试名称、考试日期、学期、考试类型、总分、班级排名、年级排名以及各科成绩。 2. 自动对比上一次考试 录入成绩后，自动对比上一次考试，快速看清总分、班级排名、年级排名是提升还是下降。 3. 找出进步和退步科目 不用手动计算差值，系统会帮你整理哪些科目进步了，哪些科目退步了，让家长第一时间发现问题。 4. 查看成绩趋势 通过趋势图查看总分、单科分数、班级排名、年级排名的变化，帮助家长判断孩子近期学习状态。 5. 记录错因和复盘原因 支持为退步科目添加原因标签，例如粗心、知识点不牢、审题不清、时间不足、状态不佳等。 6. 制定下一步提分计划 每次考试后记录改进方向，让下一次考试前可以回看上次复盘，不再只是“考完就忘”。 7. 多学生管理 适合有多个孩子的家庭，支持为不同孩子分别记录成绩、查看趋势和保存复盘记录。 【适合谁使用】 小学生家长：记录语文、数学、英语等基础科目变化 初中生家长：跟踪月考、期中、期末等多科成绩 高中生家长：关注总分、排名、单科趋势和阶段性复盘 希望长期观察孩子学习变化的家长 成绩分数复盘不是简单的分数记录本，而是帮助家长看清： 这次哪里进步了； 哪里退步了； 为什么会变化； 下一步应该怎么做。 让每一次考试，都成为下一次进步的起点。 1. 该服务是订阅制的收费服务，这意味着您将为未来的订阅使用而提前预支费用。当前您可以选择以按年的方式来使用该服务。在每个订阅周期即将结束时，您的订阅默认将自动续费，除非您自行取消自动续费，或者由我们取消该服务。 2. 取消订阅:如需取消续订，请至少提前24小时操作取消。您可以通过如下方法取消：打开系统设置 - 点击Apple ID - 点击订阅 - 选择iCost高级版，取消订阅即可。 3. 恢复购买:如果在支付过程中，收到提示 “您目前已经订阅该项目”，并且确定之前完成了购买，可以点击右上角 “恢复购买” 进行购买恢复。 会员服务协议及自动续费协议： https://gcn1s2rmayw3.feishu.cn/wiki/SGBIwmUWCiPWoWktE5sclLRgnol?from=from_copylink 隐私政策： https://gcn1s2rmayw3.feishu.cn/wiki/SGBIwmUWCiPWoWktE5sclLRgnol?from=from_copylink",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/a1/f4/16a1f4d6-baea-37ea-cb21-b81ff72cede7/AppIcon-1x_U007ephone-0-1-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/a1/f4/16a1f4d6-baea-37ea-cb21-b81ff72cede7/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.jpg",
+    "sellerName": "春城 贾",
+    "artistName": "春城 贾",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/d2/12/e6d21279-5c7b-9f10-2c3a-5680b86fef7b/ChatGPT_Image_2026_U5e747_U67085_U65e5_22_53_48__U00281_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/94/e7/4894e753-2580-2c7a-5759-2899d37ba417/ChatGPT_Image_2026_U5e747_U67085_U65e5_22_53_49__U00282_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/7a/95/5e7a9518-7045-321f-0fb3-7510ffea1ab3/ChatGPT_Image_2026_U5e747_U67085_U65e5_22_53_52__U00284_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/66/f2/6266f23f-fc1d-dde6-d771-feb8b858f8b2/ChatGPT_Image_2026_U5e747_U67085_U65e5_22_53_51__U00283_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/ba/66/b4ba66e8-e2b1-f858-cda7-372b2a6a188c/ChatGPT_Image_2026_U5e747_U67085_U65e5_22_53_54__U00285_U0029.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1789642772901
+  },
+  "6804411647": {
+    "name": "5X CNC Operator",
+    "trackName": "5X CNC Operator",
+    "maxPriceInfo": {
+      "price": 58,
+      "formattedPrice": "¥58.00"
+    },
+    "minPriceInfo": {
+      "price": 58,
+      "formattedPrice": "¥58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642816019,
+          "price": 58,
+          "formattedPrice": "¥58.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/5x-cnc-operator/id6804411647?uo=4",
+    "description": "X CNC Operator puts a full 5-axis machining center control panel in your hands: industrial MDI keyboard, electronic handwheel (MPG), emergency stop, feed/spindle overrides, tool offsets and a faithful control state machine with alarms and M-code PLC logic. Whether you are a CNC student, a trainee preparing for your first real machine, or an operator refreshing G-code skills, this simulator gives you the muscle memory of a real panel — anywhere, offline, with no subscription. WHAT YOU TRAIN ON Full-size horizontal control panel with MDI keyboard Electronic handwheel (MPG) with axis selection and step control Real control state machine: EDIT / MEM / MDI / HANDLE / JOG modes 5-axis coordinate display: X Y Z A C with machine and absolute views G-code interpreter with canned cycles, tool compensation and canned logic Alarms and diagnostics system, PLC M-code simulation Tool magazine T1–T10, spindle control with gear ranges Graphic tool-path display on the built-in CNC screen WHY OPERATORS CHOOSE IT Realistic panel behavior — buttons, modes and alarms respond like real hardware 100% offline — perfect for classrooms, workshops and travel One-time purchase. No ads. No subscription. No tracking. English and Chinese interface Privacy Policy URL: https://sunspire.site/mobile-applications-security-policy/ Terms of Service URL: https://sunspire.site/terms_of_service.html",
+    "fullDescription": "X CNC Operator puts a full 5-axis machining center control panel in your hands: industrial MDI keyboard, electronic handwheel (MPG), emergency stop, feed/spindle overrides, tool offsets and a faithful control state machine with alarms and M-code PLC logic. Whether you are a CNC student, a trainee preparing for your first real machine, or an operator refreshing G-code skills, this simulator gives you the muscle memory of a real panel — anywhere, offline, with no subscription. WHAT YOU TRAIN ON Full-size horizontal control panel with MDI keyboard Electronic handwheel (MPG) with axis selection and step control Real control state machine: EDIT / MEM / MDI / HANDLE / JOG modes 5-axis coordinate display: X Y Z A C with machine and absolute views G-code interpreter with canned cycles, tool compensation and canned logic Alarms and diagnostics system, PLC M-code simulation Tool magazine T1–T10, spindle control with gear ranges Graphic tool-path display on the built-in CNC screen WHY OPERATORS CHOOSE IT Realistic panel behavior — buttons, modes and alarms respond like real hardware 100% offline — perfect for classrooms, workshops and travel One-time purchase. No ads. No subscription. No tracking. English and Chinese interface Privacy Policy URL: https://sunspire.site/mobile-applications-security-policy/ Terms of Service URL: https://sunspire.site/terms_of_service.html",
+    "summaryDescription": "X CNC Operator puts a full 5-axis machining center control panel in your hands: industrial MDI keyboard, electronic handwheel (MPG), emergency stop, feed/spindle overrides, tool offsets and a faithful control state machine with alarms and M-code PLC logic. Whether you are a CNC student, a trainee preparing for your first real machine, or an operator refreshing G-code skills, this simulator gives you the muscle memory of a real panel — anywhere, offline, with no subscription. WHAT YOU TRAIN ON Full-size horizontal control panel with MDI keyboard Electronic handwheel (MPG) with axis selection and step control Real control state machine: EDIT / MEM / MDI / HANDLE / JOG modes 5-axis coordinate display: X Y Z A C with machine and absolute views G-code interpreter with canned cycles, tool compensation and canned logic Alarms and diagnostics system, PLC M-code simulation Tool magazine T1–T10, spindle control with gear ranges Graphic tool-path display on the built-in CNC screen WHY OPERATORS CHOOSE IT Realistic panel behavior — buttons, modes and alarms respond like real hardware 100% offline — perfect for classrooms, workshops and travel One-time purchase. No ads. No subscription. No tracking. English and Chinese interface Privacy Policy URL: https://sunspire.site/mobile-applications-security-policy/ Terms of Service URL: https://sunspire.site/terms_of_service.html",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/7f/27/f77f2706-8353-fcbb-9b9a-179456dbe8ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/7f/27/f77f2706-8353-fcbb-9b9a-179456dbe8ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "旭 陈",
+    "artistName": "旭 陈",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/c5/5a/eec55afc-60fa-f02b-726e-aadd5572a980/IMG_1706.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/37/9c/25379c49-81c0-578a-1bef-e2b533f19a97/IMG_1705.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/b9/49/4fb9497e-bf2a-f80b-12c3-154f9b1cea22/IMG_1702.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/b1/a5/c3b1a5aa-2590-0abb-1934-96f7dee0a94f/IMG_1701.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/28/0e/44280e78-444f-617c-8854-fd5a6ac338e3/IMG_1694.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/73/e6/cc73e6c6-6936-1d70-896f-bcc309c7a050/IMG_1698.PNG/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/df/2a/d6df2ae2-2242-ed6a-a0c8-f4692181a93d/IMG_1699.PNG/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/f6/9a/f7f69af6-6118-992b-05bd-ea219f56b90b/IMG_0134.PNG/480x360bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/ad/a8/8dada8c7-32a5-3d25-cd4a-592a11966f83/IMG_0126.PNG/480x360bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/e1/2c/04e12ceb-1365-ba40-5689-65b55a5085e6/IMG_0132.PNG/480x360bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/c1/b1/90c1b197-891f-ec50-5068-3f4d00b2c34f/IMG_0133.PNG/480x360bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/c4/6c/b4c46cc8-33ec-1f65-064d-747a9c3f68bb/IMG_0134.PNG/480x360bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/e3/64/3be364f8-957e-c5a5-ad72-86b426cf23f3/IMG_0135.PNG/480x360bb.png"
+    ],
+    "_externalSourceFirstSeen": 1789642772901
   },
   "6755234354": {
     "name": "BeanFlow：记账助手",
@@ -98006,7 +98580,7 @@
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
           "inAppPurchases": {
@@ -98042,7 +98616,7 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/23/42/8a2342c5-4b24-acec-1774-5425aeaf2f26/07-your-money-your-way.png/360x480bb.jpg"
     ],
     "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1789622201941
+    "_externalSourceFirstSeen": 1789642815929
   },
   "6789835309": {
     "name": "iCoffeeMan",
@@ -98064,7 +98638,7 @@
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
           "inAppPurchases": {
@@ -98093,7 +98667,7 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/66/05/5c6605a1-1d97-86ce-5e98-91187b82c89a/06-level-up-your-story-1320x2868.png/320x480bb.jpg"
     ],
     "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1789622201941
+    "_externalSourceFirstSeen": 1789642815929
   },
   "6799295769": {
     "name": "声轨工坊-音频合并剪辑",
@@ -98101,21 +98675,21 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "升级高级会员": "¥0.00"
+      "升级高级会员": "¥4.80"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "升级高级会员": "¥0.00"
+      "升级高级会员": "¥4.80"
     },
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
           "inAppPurchases": {
-            "升级高级会员": "¥0.00"
+            "升级高级会员": "¥4.80"
           }
         }
       ]
@@ -98135,7 +98709,7 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/a2/c3/a4a2c390-3e34-6adb-4aa6-3c576a33f932/_U97f3_U9891_04_screen-4.png/320x480bb.jpg"
     ],
     "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1789622201941
+    "_externalSourceFirstSeen": 1789642815929
   },
   "6798826038": {
     "name": "Silex: 戒赌，守住你的钱",
@@ -98157,7 +98731,7 @@
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
           "inAppPurchases": {
@@ -98185,7 +98759,7 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/0c/e8/8a0ce842-0279-b288-688c-5de6d543eb67/06_trophies.png/320x480bb.jpg"
     ],
     "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1789622201941
+    "_externalSourceFirstSeen": 1789642815929
   },
   "6785549897": {
     "name": "Detune: Learn Music Production",
@@ -98207,7 +98781,7 @@
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
           "inAppPurchases": {
@@ -98236,7 +98810,7 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/f4/44/5cf444af-5b06-312b-ca07-e91fd1592409/07-progress.png/320x480bb.jpg"
     ],
     "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1789622201941
+    "_externalSourceFirstSeen": 1789642815929
   },
   "6796284317": {
     "name": "Karaoke Mic - Mic to Speaker",
@@ -98258,7 +98832,7 @@
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
           "inAppPurchases": {
@@ -98283,7 +98857,7 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/d8/83/09d883a9-83dc-fa61-f53c-b3b12d219bfe/03-voices_1.jpg/320x480bb.jpg"
     ],
     "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1789622201941
+    "_externalSourceFirstSeen": 1789642815929
   },
   "6767237476": {
     "name": "PutSpot: 物品查找器",
@@ -98303,7 +98877,7 @@
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
           "inAppPurchases": {
@@ -98338,26 +98912,30 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a0/15/6ca015d1-e7e3-f42a-7c58-2487f90c7e2e/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-02_at_20.22.08.png/360x480bb.jpg"
     ],
     "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1789622201941
+    "_externalSourceFirstSeen": 1789642815929
   },
   "6795282021": {
     "name": "DinePilot",
     "trackName": "DinePilot",
     "maxPriceInfo": {
       "price": 0,
-      "formattedPrice": "免费"
+      "formattedPrice": "免费",
+      "Remove Ads": "¥8.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免费"
+      "formattedPrice": "免费",
+      "Remove Ads": "¥8.00"
     },
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
-          "inAppPurchases": {}
+          "inAppPurchases": {
+            "Remove Ads": "¥8.00"
+          }
         }
       ]
     ],
@@ -98365,8 +98943,8 @@
     "description": "别再争论去哪里吃饭了。 DinePilot转身：“我不知道，你想去哪里？”在几分钟内做出决定。添加您最喜欢的地点 - 使用 Google 助理搜索附近的餐馆或手动添加您自己的餐馆。设定您的规则：禁止快餐、预算限制、距离或您定义的自定义限制。观看维恩图，准确显示每条规则如何实时缩小您的选择范围。当您准备好后，今晚的选择会循环播放您的比赛并锁定获胜者 - 不再有关于去哪里的循环争论。一起决定？使用简单的代码与您的合作伙伴分享您的地点和规则，或者我",
     "fullDescription": "别再争论去哪里吃饭了。 DinePilot转身：“我不知道，你想去哪里？”在几分钟内做出决定。添加您最喜欢的地点 - 使用 Google 助理搜索附近的餐馆或手动添加您自己的餐馆。设定您的规则：禁止快餐、预算限制、距离或您定义的自定义限制。观看维恩图，准确显示每条规则如何实时缩小您的选择范围。当您准备好后，今晚的选择会循环播放您的比赛并锁定获胜者 - 不再有关于去哪里的循环争论。一起决定？使用简单的代码与您的合作伙伴分享您的地点和规则，或者我",
     "summaryDescription": "别再争论去哪里吃饭了。 DinePilot转身：“我不知道，你想去哪里？”在几分钟内做出决定。添加您最喜欢的地点 - 使用 Google 助理搜索附近的餐馆或手动添加您自己的餐馆。设定您的规则：禁止快餐、预算限制、距离或您定义的自定义限制。观看维恩图，准确显示每条规则如何实时缩小您的选择范围。当您准备好后，今晚的选择会循环播放您的比赛并锁定获胜者 - 不再有关于去哪里的循环争论。一起决定？使用简单的代码与您的合作伙伴分享您的地点和规则，或者我",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/af/7d/aaaf7db3-1c3e-7d1d-b66e-1cb16dfff15f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/af/7d/aaaf7db3-1c3e-7d1d-b66e-1cb16dfff15f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/4f/1a/ca4f1aa5-9c13-eed3-168f-45a4fc57df4a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/4f/1a/ca4f1aa5-9c13-eed3-168f-45a4fc57df4a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
     "sellerName": "Mark Mangieri",
     "artistName": "Mark Mangieri",
     "screenshotUrls": [
@@ -98381,7 +98959,7 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/fc/10/3ffc101a-bfc0-0968-60aa-09461a9ff349/06_HelpAbout.jpg/320x480bb.jpg"
     ],
     "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1789622201941
+    "_externalSourceFirstSeen": 1789642815929
   },
   "6773879185": {
     "name": "Henshu Edit",
@@ -98397,7 +98975,7 @@
     "history": [
       [
         {
-          "timestamp": 1789622202033,
+          "timestamp": 1789642816019,
           "price": 0,
           "formattedPrice": "免费",
           "inAppPurchases": {}
@@ -98419,6 +98997,6 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/c6/8a/90c68ad4-a722-47f3-d459-fd0843303657/ipad-04-bw.png/360x480bb.jpg"
     ],
     "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1789622201941
+    "_externalSourceFirstSeen": 1789642815929
   }
 }
