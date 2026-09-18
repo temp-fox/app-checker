@@ -1,4 +1,541 @@
 {
+  "1664361663": {
+    "name": "寻隐-离线AI相册搜索App",
+    "trackName": "寻隐-离线AI相册搜索App",
+    "maxPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1783325885572,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1772375272895,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%AF%BB%E9%9A%90-%E7%A6%BB%E7%BA%BFai%E7%9B%B8%E5%86%8C%E6%90%9C%E7%B4%A2app/id1664361663?uo=4",
+    "description": "获得 差评公众号、少数派首页、苹果本周编辑推荐，英文版(Queryable)曾进入 HackerNews 首页、并在当日欧洲所有国家付费工具榜#1、美国#2。 寻隐：你从未见过的相册搜索方式。 它是一个完全运行在本地的 AI 语义模型，让你用句子描述寻找相册里的照片。我训练了超过1500万条数据，让它成为当前参数量下理解能力最强的模型。你可以用任何你能想到的文字描述来寻找某张照片，它可以是一个场景(如：\"雨中漫步\")、一种色彩(\"漆黑房间里的橘色台灯\")、一个物体的动作(\"小狗张嘴巴\")，甚至是照片中传达的情感(\"我们恋爱啦\")。 如果你记得曾经拍过某张照片：和朋友去露营、和恋人在海边合影，但相册照片实在太多翻不过来，你可以在寻隐用「一群人在森林露营」，或「男孩和女孩手牵手在海边」快速找到它。 而这一切，完全离线(无网络连接)进行，寻隐在乎你的相册隐私。 【2.1 大版本更新】 以图搜图：拍一张照片或从图库选一张，立即找到相似照片 按时间筛选：最近一周、一个月、3 个月、6 个月、一年或指定年份 批量选择与分享：滑动多选、一键全选，批量分享或导出原图 重复照片清理：自动分组重复和相似照片，逐张勾选保留或删除，释放存储空间 Live Photo 与视频：完整播放，并可分享完整分辨率原图 全新界面：Apple 照片风格网格、流畅缩放转场、悬浮玻璃搜索栏 更快：索引与搜索全面提速，A13 及以上芯片自动启用神经引擎与 GPU 加速 一次买断，永久使用。 一. 我该如何使用它？ 第一次运行时，寻隐需要为你的相册构建索引(记得授权它能访问全部相册)，这通常需要花费几分钟(取决于你的照片数量)。 构建索引仅需一次。完成后，你可以用任何你喜欢的描述来寻找照片。当你有新照片时，可以随时手动更新索引把它们加入搜索范围。 二. 我的相册隐私怎么办？ 寻隐被设计成可以运行在无网络环境，你甚至可以关闭它的网络权限，这意味着它毫无可能将你的照片上传到任何设备以外的地方。此外，寻隐只会在你实际搜索时请求照片权限，在你选择之前不会读取照片库。 三. 有设备和系统要求吗？ 有。寻隐在本地运行 CoreML 模型： iOS 16.0 以上系统 推荐 iPhone 11(A13 芯片)及以上机型——可启用神经引擎与 GPU 加速；更早的设备会以 CPU 模式运行，速度较慢 只支持 M1 芯片及以上的 Mac 或 iPad(请尽量不要下载 Mac 版，已经不维护) 四. 存储在 iCloud 上的照片 寻隐试图在无任何网络连接的情形下运行。如果你的照片完全存储在本地，你不会遇到任何问题。当部分照片仅存储在 iCloud 上(本地只有低清缓存)时，你可以选择允许寻隐访问网络，从 iCloud 下载原始照片；查看模糊的 iCloud 照片时，橙色横幅也会引导你下载完整分辨率版本。 五. 构建索引时崩溃怎么办？ 请关闭低电量模式，并从后台移除内存占用量大的程序(如：微信)，然后重新构建索引。 六. 仍然遇到问题，或有反馈意见？ 请邮件联系: myfancoo@gmail.com",
+    "fullDescription": "获得 差评公众号、少数派首页、苹果本周编辑推荐，英文版(Queryable)曾进入 HackerNews 首页、并在当日欧洲所有国家付费工具榜#1、美国#2。 寻隐：你从未见过的相册搜索方式。 它是一个完全运行在本地的 AI 语义模型，让你用句子描述寻找相册里的照片。我训练了超过1500万条数据，让它成为当前参数量下理解能力最强的模型。你可以用任何你能想到的文字描述来寻找某张照片，它可以是一个场景(如：\"雨中漫步\")、一种色彩(\"漆黑房间里的橘色台灯\")、一个物体的动作(\"小狗张嘴巴\")，甚至是照片中传达的情感(\"我们恋爱啦\")。 如果你记得曾经拍过某张照片：和朋友去露营、和恋人在海边合影，但相册照片实在太多翻不过来，你可以在寻隐用「一群人在森林露营」，或「男孩和女孩手牵手在海边」快速找到它。 而这一切，完全离线(无网络连接)进行，寻隐在乎你的相册隐私。 【2.1 大版本更新】 以图搜图：拍一张照片或从图库选一张，立即找到相似照片 按时间筛选：最近一周、一个月、3 个月、6 个月、一年或指定年份 批量选择与分享：滑动多选、一键全选，批量分享或导出原图 重复照片清理：自动分组重复和相似照片，逐张勾选保留或删除，释放存储空间 Live Photo 与视频：完整播放，并可分享完整分辨率原图 全新界面：Apple 照片风格网格、流畅缩放转场、悬浮玻璃搜索栏 更快：索引与搜索全面提速，A13 及以上芯片自动启用神经引擎与 GPU 加速 一次买断，永久使用。 一. 我该如何使用它？ 第一次运行时，寻隐需要为你的相册构建索引(记得授权它能访问全部相册)，这通常需要花费几分钟(取决于你的照片数量)。 构建索引仅需一次。完成后，你可以用任何你喜欢的描述来寻找照片。当你有新照片时，可以随时手动更新索引把它们加入搜索范围。 二. 我的相册隐私怎么办？ 寻隐被设计成可以运行在无网络环境，你甚至可以关闭它的网络权限，这意味着它毫无可能将你的照片上传到任何设备以外的地方。此外，寻隐只会在你实际搜索时请求照片权限，在你选择之前不会读取照片库。 三. 有设备和系统要求吗？ 有。寻隐在本地运行 CoreML 模型： iOS 16.0 以上系统 推荐 iPhone 11(A13 芯片)及以上机型——可启用神经引擎与 GPU 加速；更早的设备会以 CPU 模式运行，速度较慢 只支持 M1 芯片及以上的 Mac 或 iPad(请尽量不要下载 Mac 版，已经不维护) 四. 存储在 iCloud 上的照片 寻隐试图在无任何网络连接的情形下运行。如果你的照片完全存储在本地，你不会遇到任何问题。当部分照片仅存储在 iCloud 上(本地只有低清缓存)时，你可以选择允许寻隐访问网络，从 iCloud 下载原始照片；查看模糊的 iCloud 照片时，橙色横幅也会引导你下载完整分辨率版本。 五. 构建索引时崩溃怎么办？ 请关闭低电量模式，并从后台移除内存占用量大的程序(如：微信)，然后重新构建索引。 六. 仍然遇到问题，或有反馈意见？ 请邮件联系: myfancoo@gmail.com",
+    "summaryDescription": "获得 差评公众号、少数派首页、苹果本周编辑推荐，英文版(Queryable)曾进入 HackerNews 首页、并在当日欧洲所有国家付费工具榜#1、美国#2。 寻隐：你从未见过的相册搜索方式。 它是一个完全运行在本地的 AI 语义模型，让你用句子描述寻找相册里的照片。我训练了超过1500万条数据，让它成为当前参数量下理解能力最强的模型。你可以用任何你能想到的文字描述来寻找某张照片，它可以是一个场景(如：\"雨中漫步\")、一种色彩(\"漆黑房间里的橘色台灯\")、一个物体的动作(\"小狗张嘴巴\")，甚至是照片中传达的情感(\"我们恋爱啦\")。 如果你记得曾经拍过某张照片：和朋友去露营、和恋人在海边合影，但相册照片实在太多翻不过来，你可以在寻隐用「一群人在森林露营」，或「男孩和女孩手牵手在海边」快速找到它。 而这一切，完全离线(无网络连接)进行，寻隐在乎你的相册隐私。 【2.1 大版本更新】 以图搜图：拍一张照片或从图库选一张，立即找到相似照片 按时间筛选：最近一周、一个月、3 个月、6 个月、一年或指定年份 批量选择与分享：滑动多选、一键全选，批量分享或导出原图 重复照片清理：自动分组重复和相似照片，逐张勾选保留或删除，释放存储空间 Live Photo 与视频：完整播放，并可分享完整分辨率原图 全新界面：Apple 照片风格网格、流畅缩放转场、悬浮玻璃搜索栏 更快：索引与搜索全面提速，A13 及以上芯片自动启用神经引擎与 GPU 加速 一次买断，永久使用。 一. 我该如何使用它？ 第一次运行时，寻隐需要为你的相册构建索引(记得授权它能访问全部相册)，这通常需要花费几分钟(取决于你的照片数量)。 构建索引仅需一次。完成后，你可以用任何你喜欢的描述来寻找照片。当你有新照片时，可以随时手动更新索引把它们加入搜索范围。 二. 我的相册隐私怎么办？ 寻隐被设计成可以运行在无网络环境，你甚至可以关闭它的网络权限，这意味着它毫无可能将你的照片上传到任何设备以外的地方。此外，寻隐只会在你实际搜索时请求照片权限，在你选择之前不会读取照片库。 三. 有设备和系统要求吗？ 有。寻隐在本地运行 CoreML 模型： iOS 16.0 以上系统 推荐 iPhone 11(A13 芯片)及以上机型——可启用神经引擎与 GPU 加速；更早的设备会以 CPU 模式运行，速度较慢 只支持 M1 芯片及以上的 Mac 或 iPad(请尽量不要下载 Mac 版，已经不维护) 四. 存储在 iCloud 上的照片 寻隐试图在无任何网络连接的情形下运行。如果你的照片完全存储在本地，你不会遇到任何问题。当部分照片仅存储在 iCloud 上(本地只有低清缓存)时，你可以选择允许寻隐访问网络，从 iCloud 下载原始照片；查看模糊的 iCloud 照片时，橙色横幅也会引导你下载完整分辨率版本。 五. 构建索引时崩溃怎么办？ 请关闭低电量模式，并从后台移除内存占用量大的程序(如：微信)，然后重新构建索引。 六. 仍然遇到问题，或有反馈意见？ 请邮件联系: myfancoo@gmail.com",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/74/80/90748092-0e17-3ea1-701a-a53e99dbd2e8/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/74/80/90748092-0e17-3ea1-701a-a53e99dbd2e8/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+    "sellerName": "SmashMelon LLC",
+    "artistName": "SmashMelon LLC",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/88/7f/06887fc8-279d-1f22-c0e8-cbe8a8ee1739/998d81fd-210c-4515-b1bc-3dcbe44b94fb_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/1e/20/651e2098-37d3-924d-ba40-c06edcb88113/d1ab5ac8-7613-4db4-b2cd-c7e26def8e1a_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/53/93/565393e1-74f9-cc8d-885b-df4bc6d01bd2/654651cb-b3d2-41a9-826d-64853fb38cf4_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/48/4a/91484aaa-363a-2c4d-b0dc-14b0f3095892/b9740d0c-3f27-4544-a92f-e9e524480070_4.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/15/b1/5315b14a-f4b8-211c-14c0-3b3f75ca0e1b/b631fde5-3c8b-45b5-99bb-7eb7ee4c39d1_5.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/9b/85/679b85c5-4f03-b331-cb7b-9e73aa9743a9/fb95a85f-2293-438e-a670-d57685837db8_6.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/d2/bc/b6d2bcb3-cadf-47df-d295-04171e029ed5/4e57ac66-a0cf-49be-88a0-10513aef041b_7.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/42/3a/bb423a94-0cff-5295-9362-9fe041122142/5ab39b59-0bea-4664-b988-44c3b8f8b65f_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-01-12_at_10.56.44.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/72/78/6872784a-713e-82ef-0527-bfa7480569cb/ab9023d8-8df9-4321-8374-02493de03594_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-01-12_at_10.56.51.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/00/76/14007689-9338-a53a-805a-61479af082e7/b7e95276-4712-4a89-ad0a-b0ecbea89aa0_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-01-12_at_10.56.59.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/c6/de/e3c6de5f-612b-2fe0-e41a-3c5d066ea9dc/281d7301-e124-4454-b096-df7b1ddbd475_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-01-12_at_10.57.02.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/a3/ca/4fa3ca88-e7ab-c90e-c4bb-5c382dc65814/b8c5f231-a4b8-4928-b71d-ceef7f995112_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-01-12_at_10.57.24.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/83/78/cd8378cd-59cd-2bf8-ad11-455b91797111/c4728673-4129-4fa6-a14b-15131a108344_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-01-12_at_10.57.30.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/44/e3/aa44e327-2735-da6f-0682-7122ef984114/5d72f9e2-c0d4-4ba9-a0b1-aa475b491609_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-01-12_at_10.57.35.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/c7/f1/bec7f16e-7dd0-e32a-fd10-a9d12603f09a/9a83851f-048e-4f8f-b9c5-47f7c31cf5ce_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-01-12_at_10.57.41.png/576x768bb.png"
+    ]
+  },
+  "1664414521": {
+    "name": "Vocal Tune Studio",
+    "trackName": "Vocal Tune Studio",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773744643807,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/vocal-tune-studio/id1664414521?uo=4",
+    "description": "With Vocal Tune Studio, pitch and time correction of vocal recordings is now finally possible on your iPhone or iPad! Use it as an Audio Unit effect inside your favourite DAW or in standalone mode. From popular effects to subtile correction: Retune notes to achieve the popular auto tune effect or apply a more subtile correction. Besides pitch correction, notes can be corrected for timing and volume level as well. Deep editing: Each individual note can be adjusted for retune time, retune amount, volume and the amount of formant correction. Artificial vibrato can also be added and adjusted to taste using the vibrato depth and rate controls and settings to adjust the time when the vibrato kicks in and the time in which it reaches the full vibrato depth to obtain a natural sounding vibrato. Key and scale detection: Vocal Tune Studio can detect the key and scale of a vocal recording automatically or a key and scale can be manually chosen. Two workflows: Choose between two workflows similar to popular desktop vocal tune software: start with either all notes quantised (corrected) or non-quantised. When choosing non-quantised, an additional Pitch Quantisation slider lets you move notes between their original sung pitch and the target pitch within the selected key and scale. Time correction as a bonus for all audio material: Aside from vocal pitch correction, Vocal Tune Studio also features a generic time correction/stretching mode which works on any type of audio material (not only vocals, but also guitars etc.). In this mode, any part of a recording that was played off-beat can be time corrected without affecting parts that were recorded in time. Export MIDI: Besides the host's ability to render the effect to an audio file, the identified notes can also be exported as standard MIDI file. Standalone mode: Besides being a AUv3 plug-in, you can also run the app standalone. Record audio directly, import an audio file or paste an audio file from the iOS clipboard. Auto or manually tune your vocals and correct them for timing errors or apply time correction for any audio material. When finished, export the result to a WAV file. Note: Vocal Tune Studio is also available within our DAW, Audio Evolution Mobile Studio and offers much higher integration there, not requiring to 'record' the audio first into Vocal Tune Studio. User manual: You can find the user manual in PDF and HTML formats here: https://www.audio-evolution.com/manual/vtsau/index.html Tutorial video: Vocal Tune Studio being used inside Audio Evolution Mobile Studio https://www.youtube.com/watch?v=st75zBB4lds PLEASE NOTE: due to a bug in Auria, Vocal Tune Studio stops working when mixing down or freezing tracks. A work-around is to create a new audio track and select the master bus as input to perform bouncing.",
+    "fullDescription": "With Vocal Tune Studio, pitch and time correction of vocal recordings is now finally possible on your iPhone or iPad! Use it as an Audio Unit effect inside your favourite DAW or in standalone mode. From popular effects to subtile correction: Retune notes to achieve the popular auto tune effect or apply a more subtile correction. Besides pitch correction, notes can be corrected for timing and volume level as well. Deep editing: Each individual note can be adjusted for retune time, retune amount, volume and the amount of formant correction. Artificial vibrato can also be added and adjusted to taste using the vibrato depth and rate controls and settings to adjust the time when the vibrato kicks in and the time in which it reaches the full vibrato depth to obtain a natural sounding vibrato. Key and scale detection: Vocal Tune Studio can detect the key and scale of a vocal recording automatically or a key and scale can be manually chosen. Two workflows: Choose between two workflows similar to popular desktop vocal tune software: start with either all notes quantised (corrected) or non-quantised. When choosing non-quantised, an additional Pitch Quantisation slider lets you move notes between their original sung pitch and the target pitch within the selected key and scale. Time correction as a bonus for all audio material: Aside from vocal pitch correction, Vocal Tune Studio also features a generic time correction/stretching mode which works on any type of audio material (not only vocals, but also guitars etc.). In this mode, any part of a recording that was played off-beat can be time corrected without affecting parts that were recorded in time. Export MIDI: Besides the host's ability to render the effect to an audio file, the identified notes can also be exported as standard MIDI file. Standalone mode: Besides being a AUv3 plug-in, you can also run the app standalone. Record audio directly, import an audio file or paste an audio file from the iOS clipboard. Auto or manually tune your vocals and correct them for timing errors or apply time correction for any audio material. When finished, export the result to a WAV file. Note: Vocal Tune Studio is also available within our DAW, Audio Evolution Mobile Studio and offers much higher integration there, not requiring to 'record' the audio first into Vocal Tune Studio. User manual: You can find the user manual in PDF and HTML formats here: https://www.audio-evolution.com/manual/vtsau/index.html Tutorial video: Vocal Tune Studio being used inside Audio Evolution Mobile Studio https://www.youtube.com/watch?v=st75zBB4lds PLEASE NOTE: due to a bug in Auria, Vocal Tune Studio stops working when mixing down or freezing tracks. A work-around is to create a new audio track and select the master bus as input to perform bouncing.",
+    "summaryDescription": "With Vocal Tune Studio, pitch and time correction of vocal recordings is now finally possible on your iPhone or iPad! Use it as an Audio Unit effect inside your favourite DAW or in standalone mode. From popular effects to subtile correction: Retune notes to achieve the popular auto tune effect or apply a more subtile correction. Besides pitch correction, notes can be corrected for timing and volume level as well. Deep editing: Each individual note can be adjusted for retune time, retune amount, volume and the amount of formant correction. Artificial vibrato can also be added and adjusted to taste using the vibrato depth and rate controls and settings to adjust the time when the vibrato kicks in and the time in which it reaches the full vibrato depth to obtain a natural sounding vibrato. Key and scale detection: Vocal Tune Studio can detect the key and scale of a vocal recording automatically or a key and scale can be manually chosen. Two workflows: Choose between two workflows similar to popular desktop vocal tune software: start with either all notes quantised (corrected) or non-quantised. When choosing non-quantised, an additional Pitch Quantisation slider lets you move notes between their original sung pitch and the target pitch within the selected key and scale. Time correction as a bonus for all audio material: Aside from vocal pitch correction, Vocal Tune Studio also features a generic time correction/stretching mode which works on any type of audio material (not only vocals, but also guitars etc.). In this mode, any part of a recording that was played off-beat can be time corrected without affecting parts that were recorded in time. Export MIDI: Besides the host's ability to render the effect to an audio file, the identified notes can also be exported as standard MIDI file. Standalone mode: Besides being a AUv3 plug-in, you can also run the app standalone. Record audio directly, import an audio file or paste an audio file from the iOS clipboard. Auto or manually tune your vocals and correct them for timing errors or apply time correction for any audio material. When finished, export the result to a WAV file. Note: Vocal Tune Studio is also available within our DAW, Audio Evolution Mobile Studio and offers much higher integration there, not requiring to 'record' the audio first into Vocal Tune Studio. User manual: You can find the user manual in PDF and HTML formats here: https://www.audio-evolution.com/manual/vtsau/index.html Tutorial video: Vocal Tune Studio being used inside Audio Evolution Mobile Studio https://www.youtube.com/watch?v=st75zBB4lds PLEASE NOTE: due to a bug in Auria, Vocal Tune Studio stops working when mixing down or freezing tracks. A work-around is to create a new audio track and select the master bus as input to perform bouncing.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/3e/6d/8e3e6df2-1c02-879e-9333-40eeb5941f0e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/3e/6d/8e3e6df2-1c02-879e-9333-40eeb5941f0e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Davy Wentzler",
+    "artistName": "Davy Wentzler",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/41/10/4b4110ba-261d-489f-c60c-845ddc893a8e/d79d3564-60cd-4754-8dba-df752b3dcf9f_Standalone.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/e1/f2/69e1f28d-19ac-1dae-9587-a817d5cf147f/9bba2382-532a-498d-a27a-79cee4622f5f_InsideAEMS.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/6f/cf/a16fcf15-453a-0c05-b1a9-9f44339605fe/ef0e6d72-c841-47e7-aac0-5a9890029768_InsideAEMS_TS.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/63/48/9c6348a8-5305-1b03-a781-71a606aa86c7/a0c49e89-c4c6-4011-aadc-fbd445357326_InsideGarageBand.png/406x228bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/af/84/2eaf84fc-0a0e-4f5d-9773-b456cf9c3085/4b04ed14-7d91-4c2a-b38c-83c0687ab2bb_Standalone.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/cb/90/9ecb9059-6c67-d4c2-52f1-861484db0e72/319039a8-b40c-4e03-b68a-caf10f9c7bab_InsideCubasis.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/f3/85/a8f3859f-51cf-f07a-7597-95511c6aaae3/e21ba83f-4cbc-47af-af44-1afb9bfe972a_InsideAuria.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/9b/20/6a9b20a9-03ac-b107-0767-2b33d91ac708/533858a1-5c1a-4d25-ad36-b65704059018_InsideGarageBand.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/3a/29/de3a29e5-64bc-bbd5-9a97-c43f1953301d/4bd789e5-26fb-47fe-b99c-d483e32f4da2_InsideAEMS_TS.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/82/7e/83827ed6-172f-98c4-f0a9-e924eb8b438a/3960616c-2b0b-4f12-ad1e-ee5cf2ea124d_InsideAEMS.png/552x414bb.png"
+    ],
+    "_externalSourceFirstSeen": 1773744618058
+  },
+  "1664999484": {
+    "name": "Map My Food",
+    "trackName": "Map My Food",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789749089946,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/map-my-food/id1664999484?uo=4",
+    "description": "绘制我的食物地图：美味的食物以及在哪里可以找到它们 再也不会忘记美味的一餐！ Map my Food 是终极美食日记，可帮助您发现、记住和重温您最喜欢的烹饪体验。地图我的食物的特别之处： 记录并记住：用照片、笔记和评分记录每一个美味时刻 地图显示您的发现：将每次美食体验固定到其确切位置，以便于导航 智能标签：使用“辣味”、“约会之夜”、“预算友好”或“必须再试一次”等自定义标签进行组织 可视化地图视图：在交互式地图上查看您所有的美食冒险并发现",
+    "fullDescription": "绘制我的食物地图：美味的食物以及在哪里可以找到它们 再也不会忘记美味的一餐！ Map my Food 是终极美食日记，可帮助您发现、记住和重温您最喜欢的烹饪体验。地图我的食物的特别之处： 记录并记住：用照片、笔记和评分记录每一个美味时刻 地图显示您的发现：将每次美食体验固定到其确切位置，以便于导航 智能标签：使用“辣味”、“约会之夜”、“预算友好”或“必须再试一次”等自定义标签进行组织 可视化地图视图：在交互式地图上查看您所有的美食冒险并发现",
+    "summaryDescription": "绘制我的食物地图：美味的食物以及在哪里可以找到它们 再也不会忘记美味的一餐！ Map my Food 是终极美食日记，可帮助您发现、记住和重温您最喜欢的烹饪体验。地图我的食物的特别之处： 记录并记住：用照片、笔记和评分记录每一个美味时刻 地图显示您的发现：将每次美食体验固定到其确切位置，以便于导航 智能标签：使用“辣味”、“约会之夜”、“预算友好”或“必须再试一次”等自定义标签进行组织 可视化地图视图：在交互式地图上查看您所有的美食冒险并发现",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/cd/b3/86cdb3eb-eddc-b67e-ae53-a202636b41e1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/cd/b3/86cdb3eb-eddc-b67e-ae53-a202636b41e1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Anand Raj R",
+    "artistName": "Anand Raj R",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/85/78/a68578c0-9cf7-67bb-8a01-06b8d1b75a01/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/e1/97/8ce19782-d6f5-c2aa-6d29-4ec86c4fa6bc/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/70/6f/45706fcd-3e09-070f-fe8d-decdd6191b25/3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/71/c2/3f71c219-25d8-2e65-afde-e2f2c8a7e1bd/4.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/04/f6/b504f63c-1ae3-ae20-c120-d5a67c3326e9/1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/33/5b/b2335b8a-f25a-0d6c-491b-1e25a5a35cb2/2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/32/40/d93240f0-a157-2069-5e8e-d3eeb21096ae/3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/63/e4/0863e4b8-9bcd-e8ce-d234-e4abbe011314/1.png/360x480bb.jpg"
+    ],
+    "_externalSource": "OODATA",
+    "_externalSourceFirstSeen": 1789749089865
+  },
+  "1665000520": {
+    "name": "学位英语聚题库-成人本科学士学位英语考试",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "做题-月卡": "¥29.80",
+      "90天畅学卡": "¥39.80",
+      "365天畅学卡": "¥79.80",
+      "做题-季卡": "¥39.80",
+      "学位英语VIP基础班": "¥198.00",
+      "专升本学位英语精讲班": "¥98.00",
+      "专升本学位英语真题解析班": "¥98.00",
+      "专升本学位英语习题精析班": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "做题-月卡": "¥29.80",
+      "90天畅学卡": "¥39.80",
+      "365天畅学卡": "¥79.80",
+      "做题-季卡": "¥39.80",
+      "学位英语VIP基础班": "¥198.00",
+      "专升本学位英语精讲班": "¥98.00",
+      "专升本学位英语真题解析班": "¥98.00",
+      "专升本学位英语习题精析班": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772865008630,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "做题-月卡": "¥29.80",
+            "90天畅学卡": "¥39.80",
+            "365天畅学卡": "¥79.80",
+            "做题-季卡": "¥39.80",
+            "学位英语VIP基础班": "¥198.00",
+            "专升本学位英语精讲班": "¥98.00",
+            "专升本学位英语真题解析班": "¥98.00",
+            "专升本学位英语习题精析班": "¥98.00"
+          }
+        }
+      ]
+    ],
+    "_externalSourceFirstSeen": 1772864989195
+  },
+  "1665280809": {
+    "name": "re:timer – a modern timer",
+    "trackName": "re:timer – a modern timer",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781638333256,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1781452161231,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1780991089531,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/re-timer-a-modern-timer/id1665280809?uo=4",
+    "description": "re:timer is a beautiful and elegant timer app built on Apple Reminders. Set timers quickly, stay in sync across devices, and keep track of time with a clean, minimal interface. Features Swipe to create timers Apple Reminders sync - your timers on all platforms at once, powered by Apple NEW: Live Activities - see your timers on the lock screen or in the Dynamic Island NEW: Timers with Alarms (iOS 26) - full-screen take over, even if the app is closed or your phone is in Silent Mode! Import Calendar events as timers Multiple timers - with time between timers Favorite and edit timers Early reminders Infinite timer history Gestimer support / custom lists URL scheme support - create timers from other apps Minimal mode And more coming!",
+    "fullDescription": "re:timer is a beautiful and elegant timer app built on Apple Reminders. Set timers quickly, stay in sync across devices, and keep track of time with a clean, minimal interface. Features Swipe to create timers Apple Reminders sync - your timers on all platforms at once, powered by Apple NEW: Live Activities - see your timers on the lock screen or in the Dynamic Island NEW: Timers with Alarms (iOS 26) - full-screen take over, even if the app is closed or your phone is in Silent Mode! Import Calendar events as timers Multiple timers - with time between timers Favorite and edit timers Early reminders Infinite timer history Gestimer support / custom lists URL scheme support - create timers from other apps Minimal mode And more coming!",
+    "summaryDescription": "re:timer is a beautiful and elegant timer app built on Apple Reminders. Set timers quickly, stay in sync across devices, and keep track of time with a clean, minimal interface. Features Swipe to create timers Apple Reminders sync - your timers on all platforms at once, powered by Apple NEW: Live Activities - see your timers on the lock screen or in the Dynamic Island NEW: Timers with Alarms (iOS 26) - full-screen take over, even if the app is closed or your phone is in Silent Mode! Import Calendar events as timers Multiple timers - with time between timers Favorite and edit timers Early reminders Infinite timer history Gestimer support / custom lists URL scheme support - create timers from other apps Minimal mode And more coming!",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/60/c3/eb60c3e9-ce53-12c6-fae0-6451d9cbe71f/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/60/c3/eb60c3e9-ce53-12c6-fae0-6451d9cbe71f/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Josh Angelsberg",
+    "artistName": "Josh Angelsberg",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/8f/dc/228fdc97-7723-6765-ff1b-6574b915e88c/13PM_Screen_1@3x.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/17/6e/b1176ed2-3729-a0a5-3a16-3feeb7e88c20/13PM_Screen_6@3x.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/1c/94/b81c9493-1d37-9b4a-6c0c-3cab2831d833/13PM_Screen_2@3x.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/c7/f6/a4c7f62f-c512-87a3-944e-b5e5b4ed4e39/13PM_Screen_8@3x.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/0c/be/ef0cbe83-ed58-cf79-5fff-c228be433b66/13PM_Screen_5@3x.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/0b/37/6a0b377d-5a20-9457-d283-cb0eb7c69dc1/13PM_Screen_7@3x.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/1f/f9/481ff9e0-ce27-b680-efb3-687e70f721a0/13PM_Screen_4@3x.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/38/b2/4038b2ca-e54a-a005-958c-03d10eb237f0/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-02-10_at_00.00.40.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/3e/fd/963efd99-fcd6-f0f5-a093-510a180bab1b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-02-09_at_23.16.40.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/dd/6c/04dd6c0f-5e33-2a41-d4b6-f75e3617eb27/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-23_at_16.03.18.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/08/ca/7308cac5-149e-12aa-0f5d-00dca74fa54f/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-23_at_16.02.57.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/e5/f4/82e5f402-fd1a-7303-c752-d970bc1d8047/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-02-09_at_23.18.44.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/a5/22/c8a5227e-73d4-7555-a3e6-7404f4bddde3/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-02-09_at_23.18.55.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/c7/df/4cc7df23-7d00-f956-8ad6-8180d709fe3a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-02-09_at_23.18.32.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1780991055902
+  },
+  "1665291391": {
+    "name": "Watch PDF Reader",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1765312080684,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1665337957": {
+    "name": "鱼乐达人-千炮捕鱼游戏",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "6点券": "¥6.00",
+      "28点券": "¥28.00",
+      "50点券": "¥50.00",
+      "98点券": "¥98.00",
+      "12点券": "¥12.00",
+      "198点券": "¥198.00",
+      "328点券": "¥328.00",
+      "618点券": "¥618.00",
+      "68点券": "¥68.00",
+      "188点券": "¥188.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "6点券": "¥6.00",
+      "28点券": "¥28.00",
+      "50点券": "¥50.00",
+      "98点券": "¥98.00",
+      "12点券": "¥12.00",
+      "198点券": "¥198.00",
+      "328点券": "¥328.00",
+      "618点券": "¥618.00",
+      "68点券": "¥68.00",
+      "188点券": "¥188.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772865008630,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "6点券": "¥6.00",
+            "28点券": "¥28.00",
+            "50点券": "¥50.00",
+            "98点券": "¥98.00",
+            "12点券": "¥12.00",
+            "198点券": "¥198.00",
+            "328点券": "¥328.00",
+            "618点券": "¥618.00",
+            "68点券": "¥68.00",
+            "188点券": "¥188.00"
+          }
+        }
+      ]
+    ],
+    "_externalSourceFirstSeen": 1772864980586
+  },
+  "1665407735": {
+    "name": "SpaceY登月计划 - 爬楼减脂",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "登月会员订阅": "¥58.00",
+      "登月永久会员": "¥68.00",
+      "登月会员「永久」": "¥88.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "登月会员订阅": "¥58.00",
+      "登月永久会员": "¥68.00",
+      "登月会员「永久」": "¥88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772865008630,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "登月会员订阅": "¥58.00",
+            "登月永久会员": "¥68.00",
+            "登月会员「永久」": "¥88.00"
+          }
+        }
+      ]
+    ],
+    "_externalSourceFirstSeen": 1772864994853
+  },
+  "1665439223": {
+    "name": "思故渊",
+    "trackName": "思故渊",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774708266714,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1772379940478,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%80%9D%E6%95%85%E6%B8%8A/id1665439223?uo=4",
+    "description": "这是一款为您提供线上倾诉与拜祭服务的应用。在这里，您可以跨越时空的阻隔，向已故的亲友、挚爱之人传递思念与祝福。我们致力于为您打造一个温馨、私密的精神空间，让您随时随地都能表达内心的情感。清明到了，也可以在线送祭品，传达思念。 核心功能： 文字倾诉： 通过文字，您可以尽情地向故人诉说心中的思念、遗憾、祝福或日常琐事。仿佛他们从未离开，依旧在倾听您的心声。 照片追忆： 上传故人的照片，发送最新拍摄的照片，与故人交流。 点烛祈福： 点燃一支电子蜡烛，寄托您的哀思与祝福。烛光虽小，却能照亮您与故人之间的思念之桥。 祭品敬献： 精心挑选各种虚拟祭品，表达您的敬意与怀念。",
+    "fullDescription": "这是一款为您提供线上倾诉与拜祭服务的应用。在这里，您可以跨越时空的阻隔，向已故的亲友、挚爱之人传递思念与祝福。我们致力于为您打造一个温馨、私密的精神空间，让您随时随地都能表达内心的情感。清明到了，也可以在线送祭品，传达思念。 核心功能： 文字倾诉： 通过文字，您可以尽情地向故人诉说心中的思念、遗憾、祝福或日常琐事。仿佛他们从未离开，依旧在倾听您的心声。 照片追忆： 上传故人的照片，发送最新拍摄的照片，与故人交流。 点烛祈福： 点燃一支电子蜡烛，寄托您的哀思与祝福。烛光虽小，却能照亮您与故人之间的思念之桥。 祭品敬献： 精心挑选各种虚拟祭品，表达您的敬意与怀念。",
+    "summaryDescription": "这是一款为您提供线上倾诉与拜祭服务的应用。在这里，您可以跨越时空的阻隔，向已故的亲友、挚爱之人传递思念与祝福。我们致力于为您打造一个温馨、私密的精神空间，让您随时随地都能表达内心的情感。清明到了，也可以在线送祭品，传达思念。 核心功能： 文字倾诉： 通过文字，您可以尽情地向故人诉说心中的思念、遗憾、祝福或日常琐事。仿佛他们从未离开，依旧在倾听您的心声。 照片追忆： 上传故人的照片，发送最新拍摄的照片，与故人交流。 点烛祈福： 点燃一支电子蜡烛，寄托您的哀思与祝福。烛光虽小，却能照亮您与故人之间的思念之桥。 祭品敬献： 精心挑选各种虚拟祭品，表达您的敬意与怀念。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/13/4c/97134c52-f498-7c66-154f-c8cb6d4f5f4c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/13/4c/97134c52-f498-7c66-154f-c8cb6d4f5f4c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Shanghai Liaoxiang Technology Co., Ltd",
+    "artistName": "Shanghai Liaoxiang Technology Co., Ltd.",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/27/23/2127236c-ae06-cddd-9998-3818af69aeba/61f23d07-bfb9-4b3c-8cb6-788c18a9437a__U5e94_U7528_U5e02_U573a_U9884_U89c8_U56fe5.5-_U75c5_U5386_U7ba1_U7406-.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/0e/77/5d0e776d-c896-682d-d771-4da65e125f12/716b026a-07a7-46ea-95f5-437d480baaae__U5e94_U7528_U5e02_U573a_U9884_U89c8_U56fe5.5-_U5e72_U9884_U5de5_U5177.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/6b/f6/df6bf66a-2ebb-b78a-de39-135e5e9b831c/8e5bad0d-cf59-4ce5-94a3-d8872bd98eb3__U5e94_U7528_U5e02_U573a_U9884_U89c8_U56fe5.5-_U4e13_U4e1a_U673a_U6784.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/77/eb/4577ebc8-dfb1-e1ab-4b9b-c8f8021debe2/cfd6801a-6db0-43a3-91dc-c9862898740b__U5e94_U7528_U5e02_U573a_U9884_U89c8_U56fe12.9ipad-_U75c5_U5386_U7ba1_U7406.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/1d/eb/771debcf-d3b6-da5d-f841-b98dd2b1fd63/eb38b3fb-9a30-4f46-933d-0f05075514a8__U5e94_U7528_U5e02_U573a_U9884_U89c8_U56fe12.9ipad-_U5e72_U9884_U5de5_U5177.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/13/ba/ce13bae2-4841-7c55-7395-dee0740fb99a/f0110b56-ddfc-43e0-9d4c-5471150e19b4__U5e94_U7528_U5e02_U573a_U9884_U89c8_U56fe12.9ipad-_U4e13_U4e1a_U673a_U6784.png/576x768bb.png"
+    ]
+  },
+  "1665510956": {
+    "name": "芯片模拟器",
+    "trackName": "芯片模拟器",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774897059416,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%8A%AF%E7%89%87%E6%A8%A1%E6%8B%9F%E5%99%A8/id1665510956?uo=4",
+    "description": "我们的芯片模拟器是任何人学习和实验基本数字逻辑的理想工具。具有直观的用户界面，它允许您在几分钟内轻松设计，测试和调试自己的芯片。无论您是学生，还是业余爱好者，此应用程序都是学习和理解数字逻辑和芯片设计基础知识的基本工具。通过模拟各种数字逻辑电路并实时测试它们，您可以学习和实验不同的电路配置，并调试设计以确保它们按预期工作。现在就试试吧，释放你的技术潜能！",
+    "fullDescription": "我们的芯片模拟器是任何人学习和实验基本数字逻辑的理想工具。具有直观的用户界面，它允许您在几分钟内轻松设计，测试和调试自己的芯片。无论您是学生，还是业余爱好者，此应用程序都是学习和理解数字逻辑和芯片设计基础知识的基本工具。通过模拟各种数字逻辑电路并实时测试它们，您可以学习和实验不同的电路配置，并调试设计以确保它们按预期工作。现在就试试吧，释放你的技术潜能！",
+    "summaryDescription": "我们的芯片模拟器是任何人学习和实验基本数字逻辑的理想工具。具有直观的用户界面，它允许您在几分钟内轻松设计，测试和调试自己的芯片。无论您是学生，还是业余爱好者，此应用程序都是学习和理解数字逻辑和芯片设计基础知识的基本工具。通过模拟各种数字逻辑电路并实时测试它们，您可以学习和实验不同的电路配置，并调试设计以确保它们按预期工作。现在就试试吧，释放你的技术潜能！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/d9/11/03d91139-6ddc-50f2-6b47-6618741b8c56/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/d9/11/03d91139-6ddc-50f2-6b47-6618741b8c56/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+    "sellerName": "博 彭",
+    "artistName": "博 彭",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/99/4a/39/994a3949-53b3-e933-d6dc-2855733a7367/13ce07b6-f43f-4d08-8e95-3e61553125e4_image_014_0023.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/0a/ec/25/0aec2557-4341-f974-ff9c-5543efd74ce1/e4981532-493e-40fd-b434-408adb626760_image_014_0106.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/53/1c/2c/531c2c5b-7fae-f58d-2a6c-c9a3af1173fd/25d2245b-bf01-4002-aa3a-95a151463075_image_012_0018.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b0/de/38/b0de384d-1a4e-ba3a-8b7a-12bb76bdb3c9/2036dff6-9b34-405b-b342-df0552033274_image_015_0017.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1c/87/e7/1c87e758-a579-81a5-c6fd-443f07efd1b2/14c13926-551e-4ae1-a4c8-2fb85f773d55_image_012_0078.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/20/9f/54/209f546f-df9c-fd2a-823f-673a5578b51e/3f047191-bfe5-444f-a82a-8a55dc2893c6_image_014_0227.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/55/d1/db/55d1dbbd-5c8b-099b-d380-0c885eecc791/0600d374-463f-40c3-9811-8b51fa73c5bb_image_014_0159.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9c/7a/ca/9c7aca07-0860-4a13-aa08-823cb663ef17/bac395fe-23ef-4a9a-921d-616e2e1642a9_image_012_0126.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a6/9f/6c/a69f6cf3-8b17-2ab4-6bdd-45198205d19c/74bc399a-881f-4a97-8f33-d178636a4ec1_image_014_0054.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/09/0e/d3/090ed338-8274-cab2-e212-4712f416ef2a/eca4f0c8-d8b5-4b96-8cfb-fb28ca44cd82_image_012_0151.jpg/406x228bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ab/89/25/ab89258b-aecf-6803-f712-946fe09ea861/eebdbca1-5777-4c8a-8448-ffc89dfbfb64_image_008_0001.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/74/e5/a7/74e5a723-c28f-1ab3-b0b2-85d91f214689/9fcfeaee-949c-42de-bb3e-9f745328d7d1_image_009_0004.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/dd/fd/9a/ddfd9a49-b775-525e-b18f-b9df237ad4f7/cdcc60c4-704a-4de3-8f0a-904850cd8b72_image_009_0052.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3b/cc/63/3bcc6376-c7c4-de96-5b1e-549134a12adf/5aebb487-b15d-4342-90c7-c682dc298ae9_image_009_0074.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8a/61/c7/8a61c75a-e7e4-4d7d-bfea-8480fe66adfe/f5d6d04e-eaf9-4fb5-a801-6cd8a9a34734_image_009_0109.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c3/63/ce/c363ce5a-3fb4-c200-4224-e21cc4faf650/b3cf4d7b-b4e1-446c-896b-2f86f5c6a5b2_image_010_0038.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/44/00/40/44004011-759c-48d7-4f6b-642b06f53608/2677d877-87cd-4fb4-b3b8-5d872fabd257_image_010_0072.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1d/0c/c1/1d0cc13f-774a-9805-bbb5-57bba65c2b34/43bad4b3-2ecc-4292-b56e-36220637d3cf_image_010_0106.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/11/e7/92/11e7927c-024f-200d-a869-57d584103c85/d086342e-335c-4a21-9959-79e8bbaac4e5_image_010_0133.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/04/6d/8e/046d8e13-b4a5-07a3-8846-f81d5a739eb0/77a75325-8454-4467-ad06-2b3323a45356_image_011_0004.jpg/552x414bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1774897037991
+  },
+  "1665624645": {
+    "name": "问真八字排盘宝算命占卜周易工具",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "3个月黄金体验会员": "¥98.00",
+      "1年黄金会员": "¥258.00",
+      "5年钻石会员": "¥898.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "3个月黄金体验会员": "¥98.00",
+      "1年黄金会员": "¥258.00",
+      "5年钻石会员": "¥898.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772865008630,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "3个月黄金体验会员": "¥98.00",
+            "1年黄金会员": "¥258.00",
+            "5年钻石会员": "¥898.00"
+          }
+        }
+      ]
+    ],
+    "_externalSourceFirstSeen": 1772864983166
+  },
+  "1665738774": {
+    "name": "万能遥控器-电视遥控",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "MyRemote Weekly Access": "¥58.00",
+      "MyRemote PRO": "¥198.00",
+      "Lifetime": "¥228.00",
+      "Annual subsription for 14.99": "¥100.00",
+      "MyRemote Monthly Access": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "MyRemote Weekly Access": "¥58.00",
+      "MyRemote PRO": "¥198.00",
+      "Lifetime": "¥228.00",
+      "Annual subsription for 14.99": "¥100.00",
+      "MyRemote Monthly Access": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772865008630,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "MyRemote Weekly Access": "¥58.00",
+            "MyRemote PRO": "¥198.00",
+            "Lifetime": "¥228.00",
+            "Annual subsription for 14.99": "¥100.00",
+            "MyRemote Monthly Access": "¥98.00"
+          }
+        }
+      ]
+    ],
+    "_externalSourceFirstSeen": 1772864983166
+  },
   "1665759338": {
     "name": "坐在罐子里的人",
     "trackName": "坐在罐子里的人",
@@ -23959,6 +24496,25 @@
       "地图存档": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789749089946,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "终身版": "¥45.00",
+            "冠绝天下": "¥36.00",
+            "重振汉室": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789656956215,
@@ -60122,9 +60678,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/mihon-manga/id6754461039?uo=4",
-    "description": "Mihon漫画是您的创意漫画伴侣。Mihon漫画专为作家、艺术家和漫画爱好者设计，借助智能AI帮助您想象、起草和完善故事。使用Mihon漫画：创建原创漫画情节、对话和弧线发展独特的人物和关系探索创意故事创意和灵感询问有关漫画流派、比喻和讲故事技巧的问题保持您的创作过程私密性您的内容始终属于您",
-    "fullDescription": "Mihon漫画是您的创意漫画伴侣。Mihon漫画专为作家、艺术家和漫画爱好者设计，借助智能AI帮助您想象、起草和完善故事。使用Mihon漫画：创建原创漫画情节、对话和弧线发展独特的人物和关系探索创意故事创意和灵感询问有关漫画流派、比喻和讲故事技巧的问题保持您的创作过程私密性您的内容始终属于您",
-    "summaryDescription": "Mihon漫画是您的创意漫画伴侣。Mihon漫画专为作家、艺术家和漫画爱好者设计，借助智能AI帮助您想象、起草和完善故事。使用Mihon漫画：创建原创漫画情节、对话和弧线发展独特的人物和关系探索创意故事创意和灵感询问有关漫画流派、比喻和讲故事技巧的问题保持您的创作过程私密性您的内容始终属于您",
+    "description": "Mihon Manga 是您的创意漫画伴侣。 Mihon Manga 专为作家、艺术家和漫画爱好者设计，可帮助您在智能 AI 的帮助下想象、起草和完善故事。使用 Mihon Manga 可以： 创建原创漫画情节、对话和弧线 发展独特的角色和关系 探索创意故事创意和灵感 提出有关漫画流派、比喻和讲故事技巧的问题 保持创作过程的私密性，您的内容属于您自己 无论您是从头开始创作漫画还是寻求创意指导，Mihon Manga 都可以帮助您将想象力变成现实",
+    "fullDescription": "Mihon Manga 是您的创意漫画伴侣。 Mihon Manga 专为作家、艺术家和漫画爱好者设计，可帮助您在智能 AI 的帮助下想象、起草和完善故事。使用 Mihon Manga 可以： 创建原创漫画情节、对话和弧线 发展独特的角色和关系 探索创意故事创意和灵感 提出有关漫画流派、比喻和讲故事技巧的问题 保持创作过程的私密性，您的内容属于您自己 无论您是从头开始创作漫画还是寻求创意指导，Mihon Manga 都可以帮助您将想象力变成现实",
+    "summaryDescription": "Mihon Manga 是您的创意漫画伴侣。 Mihon Manga 专为作家、艺术家和漫画爱好者设计，可帮助您在智能 AI 的帮助下想象、起草和完善故事。使用 Mihon Manga 可以： 创建原创漫画情节、对话和弧线 发展独特的角色和关系 探索创意故事创意和灵感 提出有关漫画流派、比喻和讲故事技巧的问题 保持创作过程的私密性，您的内容属于您自己 无论您是从头开始创作漫画还是寻求创意指导，Mihon Manga 都可以帮助您将想象力变成现实",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/7b/99/ed7b9948-ee00-1ffd-a764-06ee5a0a203b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/7b/99/ed7b9948-ee00-1ffd-a764-06ee5a0a203b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Soufiane El hamzi",
@@ -66298,8 +66854,8 @@
     "description": "MedNotes App: The Ultimate Resource for Medical Students The MedNotes app is your all-in-one solution for comprehensive medical learning. Designed for MBBS, NEET PG, and USMLE aspirants, it offers over 2,500 detailed medical notes across a wide range of subjects. With more than 10 million users—including medical students and professionals—MedNotes is the trusted resource for daily learning. Why MedNotes? Comprehensive Coverage: Over 2,500 medical notes spanning essential topics like Anatomy, Physiology, Pathology, and more. Rich Visuals: Access 50,000+ images, charts, diagrams, and tables to enhance your learning. Concise and Structured: Notes are point-wise, to the point, and tailored for quick understanding. Clinical Focus: Includes clinical notes, diagrams, and practicals for a hands-on approach to learning. What’s Included? 2500+ MedNotes 50+ Disorders 100+ Question Papers 150+ Histology Slides 350+ Cadaveric Images Practical Resources ...and much more. Subjects Covered: (Free Notes from our paid Ebooks) Anatomy Physiology Biochemistry Neuroanatomy Embryology Pharmacology Pathology Microbiology ENT FMT PSM Medicine Radiology Disease Section Ongoing Updates -- We’re committed to providing you with continuous updates. With your one-time purchase, you will receive access to all future updates—including new notes and materials as they are added to the app. Why Choose MedNotes? The only app you need for all your medical learning materials. An expansive library designed for students preparing for MBBS, NEET PG, and USMLE exams. No subscriptions—enjoy lifetime access with a single purchase. For any questions or support, please reach out to us at: mednotes.in@gmail.com Made with Love, The MedNotes Team",
     "fullDescription": "MedNotes App: The Ultimate Resource for Medical Students The MedNotes app is your all-in-one solution for comprehensive medical learning. Designed for MBBS, NEET PG, and USMLE aspirants, it offers over 2,500 detailed medical notes across a wide range of subjects. With more than 10 million users—including medical students and professionals—MedNotes is the trusted resource for daily learning. Why MedNotes? Comprehensive Coverage: Over 2,500 medical notes spanning essential topics like Anatomy, Physiology, Pathology, and more. Rich Visuals: Access 50,000+ images, charts, diagrams, and tables to enhance your learning. Concise and Structured: Notes are point-wise, to the point, and tailored for quick understanding. Clinical Focus: Includes clinical notes, diagrams, and practicals for a hands-on approach to learning. What’s Included? 2500+ MedNotes 50+ Disorders 100+ Question Papers 150+ Histology Slides 350+ Cadaveric Images Practical Resources ...and much more. Subjects Covered: (Free Notes from our paid Ebooks) Anatomy Physiology Biochemistry Neuroanatomy Embryology Pharmacology Pathology Microbiology ENT FMT PSM Medicine Radiology Disease Section Ongoing Updates -- We’re committed to providing you with continuous updates. With your one-time purchase, you will receive access to all future updates—including new notes and materials as they are added to the app. Why Choose MedNotes? The only app you need for all your medical learning materials. An expansive library designed for students preparing for MBBS, NEET PG, and USMLE exams. No subscriptions—enjoy lifetime access with a single purchase. For any questions or support, please reach out to us at: mednotes.in@gmail.com Made with Love, The MedNotes Team",
     "summaryDescription": "MedNotes App: The Ultimate Resource for Medical Students The MedNotes app is your all-in-one solution for comprehensive medical learning. Designed for MBBS, NEET PG, and USMLE aspirants, it offers over 2,500 detailed medical notes across a wide range of subjects. With more than 10 million users—including medical students and professionals—MedNotes is the trusted resource for daily learning. Why MedNotes? Comprehensive Coverage: Over 2,500 medical notes spanning essential topics like Anatomy, Physiology, Pathology, and more. Rich Visuals: Access 50,000+ images, charts, diagrams, and tables to enhance your learning. Concise and Structured: Notes are point-wise, to the point, and tailored for quick understanding. Clinical Focus: Includes clinical notes, diagrams, and practicals for a hands-on approach to learning. What’s Included? 2500+ MedNotes 50+ Disorders 100+ Question Papers 150+ Histology Slides 350+ Cadaveric Images Practical Resources ...and much more. Subjects Covered: (Free Notes from our paid Ebooks) Anatomy Physiology Biochemistry Neuroanatomy Embryology Pharmacology Pathology Microbiology ENT FMT PSM Medicine Radiology Disease Section Ongoing Updates -- We’re committed to providing you with continuous updates. With your one-time purchase, you will receive access to all future updates—including new notes and materials as they are added to the app. Why Choose MedNotes? The only app you need for all your medical learning materials. An expansive library designed for students preparing for MBBS, NEET PG, and USMLE exams. No subscriptions—enjoy lifetime access with a single purchase. For any questions or support, please reach out to us at: mednotes.in@gmail.com Made with Love, The MedNotes Team",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/0a/83/d00a8325-7408-b69a-642b-632ad9d45b94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/0a/83/d00a8325-7408-b69a-642b-632ad9d45b94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/fd/59/cdfd59ea-c16b-c87b-095e-2aeef5c1d8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/fd/59/cdfd59ea-c16b-c87b-095e-2aeef5c1d8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Yash Yash",
     "artistName": "Yash Yash",
     "screenshotUrls": [
@@ -87784,8 +88340,8 @@
     "description": "功能如下： 1、软件整体设计简洁、无广告。 2、对排版支持完善，支持各种EPUB内排版样式。 3、支持主流的电子书格式EPUB、MOBI、AZW3、AZW4、CBZ、TXT、ZIP、PDF、7Z格式。 4、阅读时能够对样式进行多样的自定义。 5、对于同一系列的书籍，能够创建书籍系列，方便查找和整理。 6、可以通过标签来对书籍进行分类整理。 7、可以自定义书籍的标题、作者、封面等元数据。 8、详细的统计信息，记录阅读情况。 9、支持云同步功能，多端同步阅读进度。",
     "fullDescription": "功能如下： 1、软件整体设计简洁、无广告。 2、对排版支持完善，支持各种EPUB内排版样式。 3、支持主流的电子书格式EPUB、MOBI、AZW3、AZW4、CBZ、TXT、ZIP、PDF、7Z格式。 4、阅读时能够对样式进行多样的自定义。 5、对于同一系列的书籍，能够创建书籍系列，方便查找和整理。 6、可以通过标签来对书籍进行分类整理。 7、可以自定义书籍的标题、作者、封面等元数据。 8、详细的统计信息，记录阅读情况。 9、支持云同步功能，多端同步阅读进度。",
     "summaryDescription": "功能如下： 1、软件整体设计简洁、无广告。 2、对排版支持完善，支持各种EPUB内排版样式。 3、支持主流的电子书格式EPUB、MOBI、AZW3、AZW4、CBZ、TXT、ZIP、PDF、7Z格式。 4、阅读时能够对样式进行多样的自定义。 5、对于同一系列的书籍，能够创建书籍系列，方便查找和整理。 6、可以通过标签来对书籍进行分类整理。 7、可以自定义书籍的标题、作者、封面等元数据。 8、详细的统计信息，记录阅读情况。 9、支持云同步功能，多端同步阅读进度。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/d5/7e/a9d57ec0-d327-fccd-6392-698033e4eda2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/d5/7e/a9d57ec0-d327-fccd-6392-698033e4eda2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/df/01/17df01a7-082e-298d-0def-590f99549ca9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/df/01/17df01a7-082e-298d-0def-590f99549ca9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "韦同 朱",
     "artistName": "韦同 朱",
     "screenshotUrls": [
@@ -89200,27 +89756,24 @@
     "description": "馋香鸡不是一个菜谱大全。 它是一款专注于“做饭过程”的极简工具， 帮助你更轻松地完成一次烹饪，而不是在大量内容中反复浏览。 【核心功能】 精选菜单结构 以清晰的分类与简洁结构呈现内容，减少决策负担。 标准化步骤流程 每道菜采用统一的步骤排布，方便逐步跟做。 专注式烹饪界面 大字号步骤展示，滑动查看下一步，适合在厨房环境中使用。 轻量化设计 界面简洁，无多余功能干扰。 【设计理念】 无社交、无广告 不追求内容流量，只关注烹饪体验本身。 原生 SwiftUI 开发 基于 Apple Human Interface Guidelines 设计， 采用清新健康风格与 Liquid Glass 视觉层次。 馋香鸡关注的不是“菜有多少”， 而是“做饭是否更轻松”。",
     "fullDescription": "馋香鸡不是一个菜谱大全。 它是一款专注于“做饭过程”的极简工具， 帮助你更轻松地完成一次烹饪，而不是在大量内容中反复浏览。 【核心功能】 精选菜单结构 以清晰的分类与简洁结构呈现内容，减少决策负担。 标准化步骤流程 每道菜采用统一的步骤排布，方便逐步跟做。 专注式烹饪界面 大字号步骤展示，滑动查看下一步，适合在厨房环境中使用。 轻量化设计 界面简洁，无多余功能干扰。 【设计理念】 无社交、无广告 不追求内容流量，只关注烹饪体验本身。 原生 SwiftUI 开发 基于 Apple Human Interface Guidelines 设计， 采用清新健康风格与 Liquid Glass 视觉层次。 馋香鸡关注的不是“菜有多少”， 而是“做饭是否更轻松”。",
     "summaryDescription": "馋香鸡不是一个菜谱大全。 它是一款专注于“做饭过程”的极简工具， 帮助你更轻松地完成一次烹饪，而不是在大量内容中反复浏览。 【核心功能】 精选菜单结构 以清晰的分类与简洁结构呈现内容，减少决策负担。 标准化步骤流程 每道菜采用统一的步骤排布，方便逐步跟做。 专注式烹饪界面 大字号步骤展示，滑动查看下一步，适合在厨房环境中使用。 轻量化设计 界面简洁，无多余功能干扰。 【设计理念】 无社交、无广告 不追求内容流量，只关注烹饪体验本身。 原生 SwiftUI 开发 基于 Apple Human Interface Guidelines 设计， 采用清新健康风格与 Liquid Glass 视觉层次。 馋香鸡关注的不是“菜有多少”， 而是“做饭是否更轻松”。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/be/8d/8ebe8d68-ddfc-fd0e-b0c4-2efc879bd9cd/YumChick-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/be/8d/8ebe8d68-ddfc-fd0e-b0c4-2efc879bd9cd/YumChick-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/99/64/1599641a-38f9-c799-e0ac-3f70318456d3/YumChick-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/99/64/1599641a-38f9-c799-e0ac-3f70318456d3/YumChick-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "嘉明 李",
     "artistName": "嘉明 李",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/4c/61/8e4c61b6-cef2-322b-7229-2678ba223f84/_U6bcf_U65e5_U63a8_U8350__U5ba3_U4f20_U56fe.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/63/9b/d8639b90-b8e7-3300-43b0-caefe5df4c1e/_U83dc_U8c31__U5ba3_U4f20_U56fe.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/a7/34/9ba7348f-46e5-e09d-f925-d5fa2b36f067/_U83dc_U8c31_U8be6_U60c5__U5ba3_U4f20_U56fe.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/e4/ac/3ce4aca9-28a3-8a54-aa69-26fd2c671d41/_U70f9_U996a_U8ddf_U968f__U5ba3_U4f20_U56fe.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/71/48/ce7148ee-190a-896a-934e-6912a80e5e2d/_U968f_U70f9.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/73/5c/0f735c9f-ef0e-b460-1d63-b5fca6554265/_U6536_U85cf__U5ba3_U4f20_U56fe.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/b4/2a/6eb42a9f-ce9b-ed45-8997-6478d2e08df2/_U641c_U7d22.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/89/52/46895245-b1f5-30ef-2470-a3399a8bcefe/_U6bcf_U65e5_U63a8_U8350__U5ba3_U4f20_U56fe.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/53/74/8c537498-5059-3846-1834-bad32305cfda/_U83dc_U8c31__U5ba3_U4f20_U56fe.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/13/5d/cf135d05-1ab1-089b-cba7-524945460265/_U83dc_U8c31_U8be6_U60c5__U5ba3_U4f20_U56fe.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/e3/b6/1ee3b640-f8e2-6605-94b3-f58367fae0f6/_U70f9_U996a_U8ddf_U968f__U5ba3_U4f20_U56fe.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/98/9b/22989b35-0a6b-a80a-15da-7be79c5fdc5d/_U968f_U70f9.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/63/77/e663771d-d20b-5262-31ca-0ae4ce609308/_U5206_U4eab__U5ba3_U4f20_U56fe.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/ec/12/78ec122b-c0d3-5725-5a71-7833f0788e41/_U63a8_U8350.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/f5/a6/a8f5a674-3ea6-76b9-420d-c740e7e03bcd/_U83dc_U8c31.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/4f/93/054f93ec-1f94-d573-6852-46878b96d155/_U8be6_U60c5.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/87/f2/e987f2b3-4473-c7f8-304d-541cb5d1deff/_U70f9_U996a_U8ddf_U968f.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/a1/1e/e9a11e5c-a2d7-04c6-578e-fcb72f035359/_U968f_U70f9.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/8e/23/928e23eb-7a4e-7581-ffbd-b62599183c2a/_U6536_U85cf.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/29/03/72290342-7205-bca5-5563-46fd08aa15de/_U641c_U7d22.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/43/48/554348fc-f702-04dc-4320-2a2d2f03c0d0/_U63a8_U8350.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/c7/b9/e7c7b932-007d-ce53-60cc-aa33a96daa6e/_U83dc_U8c31.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/af/a9/96afa960-a2c7-7723-0bfa-dd515e4f0f73/_U8be6_U60c5.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/0b/b0/870bb041-8a95-ced7-de30-ebf4a4674f4f/_U70f9_U996a_U8ddf_U968f.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/77/08/6877080a-33cf-0f21-f256-7c5ee960e9f7/_U968f_U70f9.png/360x480bb.jpg"
     ]
   },
   "6502596967": {
@@ -91207,8 +91760,8 @@
     "description": "Netutilus 是 Mac 上的完整网络工具箱:18 款工具集于一款快速的原生应用。诊断连接、测试网速、扫描网络、监控服务器,给你的是清晰的结论,而不是一堆原始数字。 网络体检 一键回答经典问题:是 Wi-Fi 的问题,还是运营商的问题?Netutilus 会探测路由器、计时 DNS、测试直连 IP 锚点和网页可达性,然后用通俗的语言告诉你问题出在哪里。报告(PNG、CSV、JSON、文本)可导出,附在给运营商的投诉里。 带缓冲膨胀评级的测速 下载、上传、延迟、抖动,外加 A+ 到 F 的缓冲膨胀评级。测试会测量线路满载时延迟上升的幅度。这正是视频通话和游戏卡顿的头号原因,而大多数测速工具根本不显示它。 网络卫士(Pro) 有新设备加入 Wi-Fi 时第一时间知道。局域网扫描器会学习你的受信任设备,发现未知设备立即发出通知,直接在通知里选择信任或忽略。无订阅、无云端、无需额外硬件。 全部 18 款工具 网络体检、Ping、Traceroute、MTR、可视化 Traceroute、测速 DNS 查询、DNS 传播、Whois、GeoIP、SSL 证书 端口扫描、路径检查、子网计算器 网络监视器、带提醒和菜单栏状态的在线监控、局域网扫描器、Wi-Fi 分析器 每款工具都支持导出 CSV、JSON 或文本,每款工具都有键盘快捷键。 NETUTILUS PRO 一次性买断即可解锁可视化 Traceroute、MTR、在线监控、带网络卫士的局域网扫描器、Wi-Fi 分析器和自定义应用图标。付一次,永久使用,没有订阅。 隐私优先 完全沙盒化,无账号,无跟踪,不收集数据。所有测量结果都留在你的 Mac 上。 已本地化为 12 种语言。",
     "fullDescription": "Netutilus 是 Mac 上的完整网络工具箱:18 款工具集于一款快速的原生应用。诊断连接、测试网速、扫描网络、监控服务器,给你的是清晰的结论,而不是一堆原始数字。 网络体检 一键回答经典问题:是 Wi-Fi 的问题,还是运营商的问题?Netutilus 会探测路由器、计时 DNS、测试直连 IP 锚点和网页可达性,然后用通俗的语言告诉你问题出在哪里。报告(PNG、CSV、JSON、文本)可导出,附在给运营商的投诉里。 带缓冲膨胀评级的测速 下载、上传、延迟、抖动,外加 A+ 到 F 的缓冲膨胀评级。测试会测量线路满载时延迟上升的幅度。这正是视频通话和游戏卡顿的头号原因,而大多数测速工具根本不显示它。 网络卫士(Pro) 有新设备加入 Wi-Fi 时第一时间知道。局域网扫描器会学习你的受信任设备,发现未知设备立即发出通知,直接在通知里选择信任或忽略。无订阅、无云端、无需额外硬件。 全部 18 款工具 网络体检、Ping、Traceroute、MTR、可视化 Traceroute、测速 DNS 查询、DNS 传播、Whois、GeoIP、SSL 证书 端口扫描、路径检查、子网计算器 网络监视器、带提醒和菜单栏状态的在线监控、局域网扫描器、Wi-Fi 分析器 每款工具都支持导出 CSV、JSON 或文本,每款工具都有键盘快捷键。 NETUTILUS PRO 一次性买断即可解锁可视化 Traceroute、MTR、在线监控、带网络卫士的局域网扫描器、Wi-Fi 分析器和自定义应用图标。付一次,永久使用,没有订阅。 隐私优先 完全沙盒化,无账号,无跟踪,不收集数据。所有测量结果都留在你的 Mac 上。 已本地化为 12 种语言。",
     "summaryDescription": "Netutilus 是 Mac 上的完整网络工具箱:18 款工具集于一款快速的原生应用。诊断连接、测试网速、扫描网络、监控服务器,给你的是清晰的结论,而不是一堆原始数字。 网络体检 一键回答经典问题:是 Wi-Fi 的问题,还是运营商的问题?Netutilus 会探测路由器、计时 DNS、测试直连 IP 锚点和网页可达性,然后用通俗的语言告诉你问题出在哪里。报告(PNG、CSV、JSON、文本)可导出,附在给运营商的投诉里。 带缓冲膨胀评级的测速 下载、上传、延迟、抖动,外加 A+ 到 F 的缓冲膨胀评级。测试会测量线路满载时延迟上升的幅度。这正是视频通话和游戏卡顿的头号原因,而大多数测速工具根本不显示它。 网络卫士(Pro) 有新设备加入 Wi-Fi 时第一时间知道。局域网扫描器会学习你的受信任设备,发现未知设备立即发出通知,直接在通知里选择信任或忽略。无订阅、无云端、无需额外硬件。 全部 18 款工具 网络体检、Ping、Traceroute、MTR、可视化 Traceroute、测速 DNS 查询、DNS 传播、Whois、GeoIP、SSL 证书 端口扫描、路径检查、子网计算器 网络监视器、带提醒和菜单栏状态的在线监控、局域网扫描器、Wi-Fi 分析器 每款工具都支持导出 CSV、JSON 或文本,每款工具都有键盘快捷键。 NETUTILUS PRO 一次性买断即可解锁可视化 Traceroute、MTR、在线监控、带网络卫士的局域网扫描器、Wi-Fi 分析器和自定义应用图标。付一次,永久使用,没有订阅。 隐私优先 完全沙盒化,无账号,无跟踪,不收集数据。所有测量结果都留在你的 Mac 上。 已本地化为 12 种语言。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/c9/35/77c93546-7b8d-56b5-e77e-fc7308cdf0a9/AppIcon-0-0-85-220-0-6-0-2x.png/60x60bb.png",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/c9/35/77c93546-7b8d-56b5-e77e-fc7308cdf0a9/AppIcon-0-0-85-220-0-6-0-2x.png/100x100bb.png",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/5c/7a/715c7a47-c9bc-b9b6-125e-3bdf34dacfe9/AppIcon-0-0-85-220-0-6-0-2x.png/60x60bb.png",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/5c/7a/715c7a47-c9bc-b9b6-125e-3bdf34dacfe9/AppIcon-0-0-85-220-0-6-0-2x.png/100x100bb.png",
     "sellerName": "Oleksandr Kozlovskyi",
     "artistName": "Oleksandr Kozlovskyi",
     "screenshotUrls": [
@@ -92435,8 +92988,8 @@
     "name": "语宙单词 - 四六级考研英语词汇学习",
     "trackName": "语宙单词 - 四六级考研英语词汇学习",
     "maxPriceInfo": {
-      "price": 1,
-      "formattedPrice": "¥1.00",
+      "price": 35,
+      "formattedPrice": "¥35.00",
       "限时促销终身会员": "¥38.00",
       "促销年度会员卡": "¥68.00",
       "30天付费会员卡": "¥8.00",
@@ -92455,6 +93008,14 @@
       "终身会员": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789749089946,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1776146418333,
@@ -92830,8 +93391,8 @@
     "description": "别再靠猜了，用数据说话。健身故事将你的 Apple 健康数据转化为 iOS 上最强大、最精细的运动分析工具。无需注册，不经任何服务器，你的全部健身旅程，尽在眼前。 无论你在追踪睡眠阶段、分析跑步步频，还是冲击马拉松 PR，这就是你的汗水配得上的全能仪表盘。 支持任何会同步到 Apple 健康的设备或应用——Apple Watch、Garmin、Polar、Suunto、Zwift 等。 专业级分析 趋势与基准图表：通过箱线图查看每种运动类型的中位数、四分位数与异常值。 精细筛选：按时段、距离范围、时长、配速区间、爬升高度、步频和步幅筛选历史记录。 一键排名：轻触一下，将今日指标（距离、配速、心率等）与全部历史进行比较。立刻知道自己是否达到了「前 15%」的水平！ 贡献图表：GitHub 风格的热力图，完整展现你的运动历史。翻转即可查看每日详细数据。 训练细节全面升级 智能地图：按速度、海拔或心率区间为户外路线着色。（支持中国地图纠偏）。 深度分段分析：查看每一圈的公里或英里分段数据，包含配速、海拔、心率与步频。 心率区间：根据你的年龄与静息心率，可视化在自定义区间 1–5 的停留时间。 丰富记录：为每次训练添加照片、富文本笔记、费力程度评分（1–10）及自定义标签。 全方位健康指挥中心 Apple Watch 测量的所有数据，在同一页面以日、周、年趋势呈现： 心血管健康：静息心率、VO2 Max（年龄校正）、血氧饱和度与呼吸频率。 身体成分：体重、体脂率、去脂体重与 BMI，附趋势指标。 活动与恢复：步数（含每小时分布）、主动 vs. 基础代谢卡路里、腕温偏差。 进阶睡眠追踪：深度、核心、REM 与清醒阶段，逐夜可视化。 关联叠加：叠加多项健康指标，看看睡眠如何影响心率，体重如何影响 VO2 Max。 比较与竞争 训练比较：选取最多 10 次训练并排比较。查看每项指标、每个分段的差异百分比（例如「+1.5% 更快」）！ 比较导出：想用其他工具分析？导出你的训练比较数据！ 个人记录：自动追踪 1K、5K、10K、半马、全马及自定义距离。赢得金、银、铜奖杯。 故事时间线：按时间顺序展示你完成的每一个里程碑、记录和训练。 你的数据，随处可及 全球地图：在交互式聚合世界地图上，查看你曾运动过的每一个地点。 强大导出：将完整历史（或自定义范围）导出为 CSV 或 JSON，包含完整分段数据、身体指标与元数据。 iCloud 同步：你的收藏、标签、笔记与评分，即时同步至所有设备。 隐私至上：没有隐藏服务器。你的数据只存在于你的设备和私人 iCloud 中。 你的每一滴汗水都有故事。是时候翻开它了。立即下载健身故事。 下载健身故事，解锁你的运动洞察！ Privacy Policy: https://masawata.net/privacy-policy.html Terms Of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "别再靠猜了，用数据说话。健身故事将你的 Apple 健康数据转化为 iOS 上最强大、最精细的运动分析工具。无需注册，不经任何服务器，你的全部健身旅程，尽在眼前。 无论你在追踪睡眠阶段、分析跑步步频，还是冲击马拉松 PR，这就是你的汗水配得上的全能仪表盘。 支持任何会同步到 Apple 健康的设备或应用——Apple Watch、Garmin、Polar、Suunto、Zwift 等。 专业级分析 趋势与基准图表：通过箱线图查看每种运动类型的中位数、四分位数与异常值。 精细筛选：按时段、距离范围、时长、配速区间、爬升高度、步频和步幅筛选历史记录。 一键排名：轻触一下，将今日指标（距离、配速、心率等）与全部历史进行比较。立刻知道自己是否达到了「前 15%」的水平！ 贡献图表：GitHub 风格的热力图，完整展现你的运动历史。翻转即可查看每日详细数据。 训练细节全面升级 智能地图：按速度、海拔或心率区间为户外路线着色。（支持中国地图纠偏）。 深度分段分析：查看每一圈的公里或英里分段数据，包含配速、海拔、心率与步频。 心率区间：根据你的年龄与静息心率，可视化在自定义区间 1–5 的停留时间。 丰富记录：为每次训练添加照片、富文本笔记、费力程度评分（1–10）及自定义标签。 全方位健康指挥中心 Apple Watch 测量的所有数据，在同一页面以日、周、年趋势呈现： 心血管健康：静息心率、VO2 Max（年龄校正）、血氧饱和度与呼吸频率。 身体成分：体重、体脂率、去脂体重与 BMI，附趋势指标。 活动与恢复：步数（含每小时分布）、主动 vs. 基础代谢卡路里、腕温偏差。 进阶睡眠追踪：深度、核心、REM 与清醒阶段，逐夜可视化。 关联叠加：叠加多项健康指标，看看睡眠如何影响心率，体重如何影响 VO2 Max。 比较与竞争 训练比较：选取最多 10 次训练并排比较。查看每项指标、每个分段的差异百分比（例如「+1.5% 更快」）！ 比较导出：想用其他工具分析？导出你的训练比较数据！ 个人记录：自动追踪 1K、5K、10K、半马、全马及自定义距离。赢得金、银、铜奖杯。 故事时间线：按时间顺序展示你完成的每一个里程碑、记录和训练。 你的数据，随处可及 全球地图：在交互式聚合世界地图上，查看你曾运动过的每一个地点。 强大导出：将完整历史（或自定义范围）导出为 CSV 或 JSON，包含完整分段数据、身体指标与元数据。 iCloud 同步：你的收藏、标签、笔记与评分，即时同步至所有设备。 隐私至上：没有隐藏服务器。你的数据只存在于你的设备和私人 iCloud 中。 你的每一滴汗水都有故事。是时候翻开它了。立即下载健身故事。 下载健身故事，解锁你的运动洞察！ Privacy Policy: https://masawata.net/privacy-policy.html Terms Of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "别再靠猜了，用数据说话。健身故事将你的 Apple 健康数据转化为 iOS 上最强大、最精细的运动分析工具。无需注册，不经任何服务器，你的全部健身旅程，尽在眼前。 无论你在追踪睡眠阶段、分析跑步步频，还是冲击马拉松 PR，这就是你的汗水配得上的全能仪表盘。 支持任何会同步到 Apple 健康的设备或应用——Apple Watch、Garmin、Polar、Suunto、Zwift 等。 专业级分析 趋势与基准图表：通过箱线图查看每种运动类型的中位数、四分位数与异常值。 精细筛选：按时段、距离范围、时长、配速区间、爬升高度、步频和步幅筛选历史记录。 一键排名：轻触一下，将今日指标（距离、配速、心率等）与全部历史进行比较。立刻知道自己是否达到了「前 15%」的水平！ 贡献图表：GitHub 风格的热力图，完整展现你的运动历史。翻转即可查看每日详细数据。 训练细节全面升级 智能地图：按速度、海拔或心率区间为户外路线着色。（支持中国地图纠偏）。 深度分段分析：查看每一圈的公里或英里分段数据，包含配速、海拔、心率与步频。 心率区间：根据你的年龄与静息心率，可视化在自定义区间 1–5 的停留时间。 丰富记录：为每次训练添加照片、富文本笔记、费力程度评分（1–10）及自定义标签。 全方位健康指挥中心 Apple Watch 测量的所有数据，在同一页面以日、周、年趋势呈现： 心血管健康：静息心率、VO2 Max（年龄校正）、血氧饱和度与呼吸频率。 身体成分：体重、体脂率、去脂体重与 BMI，附趋势指标。 活动与恢复：步数（含每小时分布）、主动 vs. 基础代谢卡路里、腕温偏差。 进阶睡眠追踪：深度、核心、REM 与清醒阶段，逐夜可视化。 关联叠加：叠加多项健康指标，看看睡眠如何影响心率，体重如何影响 VO2 Max。 比较与竞争 训练比较：选取最多 10 次训练并排比较。查看每项指标、每个分段的差异百分比（例如「+1.5% 更快」）！ 比较导出：想用其他工具分析？导出你的训练比较数据！ 个人记录：自动追踪 1K、5K、10K、半马、全马及自定义距离。赢得金、银、铜奖杯。 故事时间线：按时间顺序展示你完成的每一个里程碑、记录和训练。 你的数据，随处可及 全球地图：在交互式聚合世界地图上，查看你曾运动过的每一个地点。 强大导出：将完整历史（或自定义范围）导出为 CSV 或 JSON，包含完整分段数据、身体指标与元数据。 iCloud 同步：你的收藏、标签、笔记与评分，即时同步至所有设备。 隐私至上：没有隐藏服务器。你的数据只存在于你的设备和私人 iCloud 中。 你的每一滴汗水都有故事。是时候翻开它了。立即下载健身故事。 下载健身故事，解锁你的运动洞察！ Privacy Policy: https://masawata.net/privacy-policy.html Terms Of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5c/4a/ed5c4a5b-85e2-e099-4788-cde36735c82c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5c/4a/ed5c4a5b-85e2-e099-4788-cde36735c82c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/72/f0/0172f0d1-fd88-21c1-ef12-a6762049b626/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/72/f0/0172f0d1-fd88-21c1-ef12-a6762049b626/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Weiren Hsiao",
     "artistName": "Weiren Hsiao",
     "screenshotUrls": [
@@ -103515,9 +104076,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/2go-invoice-maker-estimate/id6754411174?uo=4",
-    "description": "无需文书工作即可完成专业文书工作。2Go Invoice Maker可帮助自由职业者、承包商、杂工、店主、服务提供商和小型团队快速将工作转化为精美的文件。创建您需要的文档制作专业发票、估价单和收据从30多种精美布局中选择添加您的业务详细信息和品牌自定义文档编号和货币保存详细信息。更快地移动。重复使用保存的客户和项目添加税费、折扣、运费和备注保持总计清晰",
-    "fullDescription": "无需文书工作即可完成专业文书工作。2Go Invoice Maker可帮助自由职业者、承包商、杂工、店主、服务提供商和小型团队快速将工作转化为精美的文件。创建您需要的文档制作专业发票、估价单和收据从30多种精美布局中选择添加您的业务详细信息和品牌自定义文档编号和货币保存详细信息。更快地移动。重复使用保存的客户和项目添加税费、折扣、运费和备注保持总计清晰",
-    "summaryDescription": "无需文书工作即可完成专业文书工作。2Go Invoice Maker可帮助自由职业者、承包商、杂工、店主、服务提供商和小型团队快速将工作转化为精美的文件。创建您需要的文档制作专业发票、估价单和收据从30多种精美布局中选择添加您的业务详细信息和品牌自定义文档编号和货币保存详细信息。更快地移动。重复使用保存的客户和项目添加税费、折扣、运费和备注保持总计清晰",
+    "description": "无需文书工作的专业文书工作。 2Go Invoice Maker 帮助自由职业者、承包商、勤杂工、店主、服务提供商和小型团队快速将工作变成精美的文档。创建您需要的文档 制作专业的发票、估算和收据 从 30 多种精美布局中进行选择 添加您的业务详细信息和品牌 自定义文档编号和货币 保存详细信息。动作更快。重复使用保存的客户和项目 添加税费、折扣、运费和注释 保持总计清晰并自动计算 查找和组织文档，无需翻阅文书工作 发送 I",
+    "fullDescription": "无需文书工作的专业文书工作。 2Go Invoice Maker 帮助自由职业者、承包商、勤杂工、店主、服务提供商和小型团队快速将工作变成精美的文档。创建您需要的文档 制作专业的发票、估算和收据 从 30 多种精美布局中进行选择 添加您的业务详细信息和品牌 自定义文档编号和货币 保存详细信息。动作更快。重复使用保存的客户和项目 添加税费、折扣、运费和注释 保持总计清晰并自动计算 查找和组织文档，无需翻阅文书工作 发送 I",
+    "summaryDescription": "无需文书工作的专业文书工作。 2Go Invoice Maker 帮助自由职业者、承包商、勤杂工、店主、服务提供商和小型团队快速将工作变成精美的文档。创建您需要的文档 制作专业的发票、估算和收据 从 30 多种精美布局中进行选择 添加您的业务详细信息和品牌 自定义文档编号和货币 保存详细信息。动作更快。重复使用保存的客户和项目 添加税费、折扣、运费和注释 保持总计清晰并自动计算 查找和组织文档，无需翻阅文书工作 发送 I",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/62/2f/4f622f0e-e27e-2ffa-d5f1-59165e70cb3f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/62/2f/4f622f0e-e27e-2ffa-d5f1-59165e70cb3f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Tech Box d.o.o.",
@@ -104682,11 +105243,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E8%BF%B9%E8%A1%8C/id6751270329?uo=4",
-    "description": "旅程如诗，铭记每一段旅程的喜悦。 Travely 是一个可以帮你记录每一段旅程的工具，无论是乘坐火车还是飞机旅行。你可以手动录入，也可以将电子登机牌、报销凭证、行程单导入到 Travely。",
-    "fullDescription": "旅程如诗，铭记每一段旅程的喜悦。 Travely 是一个可以帮你记录每一段旅程的工具，无论是乘坐火车还是飞机旅行。你可以手动录入，也可以将电子登机牌、报销凭证、行程单导入到 Travely。",
-    "summaryDescription": "旅程如诗，铭记每一段旅程的喜悦。 Travely 是一个可以帮你记录每一段旅程的工具，无论是乘坐火车还是飞机旅行。你可以手动录入，也可以将电子登机牌、报销凭证、行程单导入到 Travely。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/5e/22/b35e2253-8ffa-79a2-6ae2-e9fc499af4ff/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/5e/22/b35e2253-8ffa-79a2-6ae2-e9fc499af4ff/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "description": "旅程如诗，铭记每一段旅程的喜悦。 Travely 是一个可以帮你记录每一段旅程的工具，无论是乘坐火车还是飞机旅行。你可以手动录入，也可以将电子登机牌、报销凭证、行程单导入到 Travely。 使用本 App 即表示您同意 Apple 的标准服务条款：[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]",
+    "fullDescription": "旅程如诗，铭记每一段旅程的喜悦。 Travely 是一个可以帮你记录每一段旅程的工具，无论是乘坐火车还是飞机旅行。你可以手动录入，也可以将电子登机牌、报销凭证、行程单导入到 Travely。 使用本 App 即表示您同意 Apple 的标准服务条款：[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]",
+    "summaryDescription": "旅程如诗，铭记每一段旅程的喜悦。 Travely 是一个可以帮你记录每一段旅程的工具，无论是乘坐火车还是飞机旅行。你可以手动录入，也可以将电子登机牌、报销凭证、行程单导入到 Travely。 使用本 App 即表示您同意 Apple 的标准服务条款：[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/83/64/878364df-32a9-268e-3ded-68e1046049f7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/83/64/878364df-32a9-268e-3ded-68e1046049f7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "天浩 谭",
     "artistName": "天浩 谭",
     "screenshotUrls": [
@@ -112172,11 +112733,11 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/aurader-%E5%B8%A6%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90%E7%9A%84%E9%98%85%E8%AF%BB%E5%99%A8%E5%90%AC%E4%B9%A6%E8%BD%AF%E4%BB%B6/id6758951184?uo=4",
-    "description": "Aurader 可将 EPUB、PDF、TXT 文件转换为语音播放。 Aurader 提供 文字转语音播放 支持在聆听时开启背景音乐播放（普通用户每天 20 分钟，高级用户不限时使用） 支持语速与音色调节 语音播放时可高亮当前语句 功能范围说明 高级神经语音仅支持英文（Premium Neural TTS Voices (English Only)） 其他语音能力取决于系统语音支持 购买与账户说明 提供一次性终身购买（非自动续费）和周订阅（自动续费） 已有订阅用户可在 Apple 账户设置中管理或取消订阅 支持格式 EPUB PDF TXT 隐私政策: https://aurader.com/static/aurader-privacy-policy-en.html 使用条款: https://aurader.com/static/aurader-terms-of-service-en.html",
-    "fullDescription": "Aurader 可将 EPUB、PDF、TXT 文件转换为语音播放。 Aurader 提供 文字转语音播放 支持在聆听时开启背景音乐播放（普通用户每天 20 分钟，高级用户不限时使用） 支持语速与音色调节 语音播放时可高亮当前语句 功能范围说明 高级神经语音仅支持英文（Premium Neural TTS Voices (English Only)） 其他语音能力取决于系统语音支持 购买与账户说明 提供一次性终身购买（非自动续费）和周订阅（自动续费） 已有订阅用户可在 Apple 账户设置中管理或取消订阅 支持格式 EPUB PDF TXT 隐私政策: https://aurader.com/static/aurader-privacy-policy-en.html 使用条款: https://aurader.com/static/aurader-terms-of-service-en.html",
-    "summaryDescription": "Aurader 可将 EPUB、PDF、TXT 文件转换为语音播放。 Aurader 提供 文字转语音播放 支持在聆听时开启背景音乐播放（普通用户每天 20 分钟，高级用户不限时使用） 支持语速与音色调节 语音播放时可高亮当前语句 功能范围说明 高级神经语音仅支持英文（Premium Neural TTS Voices (English Only)） 其他语音能力取决于系统语音支持 购买与账户说明 提供一次性终身购买（非自动续费）和周订阅（自动续费） 已有订阅用户可在 Apple 账户设置中管理或取消订阅 支持格式 EPUB PDF TXT 隐私政策: https://aurader.com/static/aurader-privacy-policy-en.html 使用条款: https://aurader.com/static/aurader-terms-of-service-en.html",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/1f/e3/5c1fe336-31b2-3057-07e7-f622201d7921/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/1f/e3/5c1fe336-31b2-3057-07e7-f622201d7921/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "description": "Aurader 阅读并听读你自己的书和文章：句级高亮、可选氛围听读，声音由你选。 把 EPUB、PDF、TXT 放到书架；短篇放进文章——手写或粘贴、导入文件、扫描纸页、保存网页，或订阅 RSS/Atom。听读会记住位置，并高亮当前句子，停下后可以从上次听到的句子继续。 你可以做什么 读和听在同一个地方 屏幕阅读，或点听读。语速和声音可调。听读进度和阅读进度分开保存，当前句保持高亮。 听读时的氛围 可叠加背景音乐、环境声和画面。免费用户背景音乐每天 20 分钟；Premium 不限时长。 书和文章分开放 书架放长篇：EPUB、PDF、TXT 和有声书。文章放短篇。文章同样可以朗读，并支持双语对照和跟读。 在阅读页学习 划线、笔记、查词、翻译。收藏进单词本，句子可做成卡片。 声音怎么选 标准引擎用设备上的系统声音；离线神经语音目前为英语。也可用内置云端引擎，或接入自己的 TTS API。能听哪些语言，取决于你选的引擎和设备上可用的声音。 主题和进度 内置主题，也可自建。可调字体和间距。统计页记录近期阅读和听读。支持继续阅读小组件，以及 CarPlay 播放书籍或文章队列。 功能说明 离线神经语音目前为英语 其他语言使用系统声音、云端声音，或你配置的 TTS API 免费可保存最多 10 本书和 10 篇文章 背景音乐：免费每天 20 分钟，Premium 不限 iCloud 同步、音频导出、部分本地模型等需要 Premium 购买与订阅 提供一次买断的终身会员（不会自动续费），以及按周自动续费的订阅 已订阅用户可在 Apple 账户设置中管理或取消 转为终身会员时，剩余订阅时长不退款、不折算 支持的格式 书架：EPUB、PDF、TXT、有声书 文章：手写/粘贴、导入文件（在支持的情况下包括 DOC/DOCX）、扫描、网页、RSS/Atom 隐私政策: https://aurader.com/static/aurader-privacy-policy-en.html 使用条款: https://aurader.com/static/aurader-terms-of-service-en.html",
+    "fullDescription": "Aurader 阅读并听读你自己的书和文章：句级高亮、可选氛围听读，声音由你选。 把 EPUB、PDF、TXT 放到书架；短篇放进文章——手写或粘贴、导入文件、扫描纸页、保存网页，或订阅 RSS/Atom。听读会记住位置，并高亮当前句子，停下后可以从上次听到的句子继续。 你可以做什么 读和听在同一个地方 屏幕阅读，或点听读。语速和声音可调。听读进度和阅读进度分开保存，当前句保持高亮。 听读时的氛围 可叠加背景音乐、环境声和画面。免费用户背景音乐每天 20 分钟；Premium 不限时长。 书和文章分开放 书架放长篇：EPUB、PDF、TXT 和有声书。文章放短篇。文章同样可以朗读，并支持双语对照和跟读。 在阅读页学习 划线、笔记、查词、翻译。收藏进单词本，句子可做成卡片。 声音怎么选 标准引擎用设备上的系统声音；离线神经语音目前为英语。也可用内置云端引擎，或接入自己的 TTS API。能听哪些语言，取决于你选的引擎和设备上可用的声音。 主题和进度 内置主题，也可自建。可调字体和间距。统计页记录近期阅读和听读。支持继续阅读小组件，以及 CarPlay 播放书籍或文章队列。 功能说明 离线神经语音目前为英语 其他语言使用系统声音、云端声音，或你配置的 TTS API 免费可保存最多 10 本书和 10 篇文章 背景音乐：免费每天 20 分钟，Premium 不限 iCloud 同步、音频导出、部分本地模型等需要 Premium 购买与订阅 提供一次买断的终身会员（不会自动续费），以及按周自动续费的订阅 已订阅用户可在 Apple 账户设置中管理或取消 转为终身会员时，剩余订阅时长不退款、不折算 支持的格式 书架：EPUB、PDF、TXT、有声书 文章：手写/粘贴、导入文件（在支持的情况下包括 DOC/DOCX）、扫描、网页、RSS/Atom 隐私政策: https://aurader.com/static/aurader-privacy-policy-en.html 使用条款: https://aurader.com/static/aurader-terms-of-service-en.html",
+    "summaryDescription": "Aurader 阅读并听读你自己的书和文章：句级高亮、可选氛围听读，声音由你选。 把 EPUB、PDF、TXT 放到书架；短篇放进文章——手写或粘贴、导入文件、扫描纸页、保存网页，或订阅 RSS/Atom。听读会记住位置，并高亮当前句子，停下后可以从上次听到的句子继续。 你可以做什么 读和听在同一个地方 屏幕阅读，或点听读。语速和声音可调。听读进度和阅读进度分开保存，当前句保持高亮。 听读时的氛围 可叠加背景音乐、环境声和画面。免费用户背景音乐每天 20 分钟；Premium 不限时长。 书和文章分开放 书架放长篇：EPUB、PDF、TXT 和有声书。文章放短篇。文章同样可以朗读，并支持双语对照和跟读。 在阅读页学习 划线、笔记、查词、翻译。收藏进单词本，句子可做成卡片。 声音怎么选 标准引擎用设备上的系统声音；离线神经语音目前为英语。也可用内置云端引擎，或接入自己的 TTS API。能听哪些语言，取决于你选的引擎和设备上可用的声音。 主题和进度 内置主题，也可自建。可调字体和间距。统计页记录近期阅读和听读。支持继续阅读小组件，以及 CarPlay 播放书籍或文章队列。 功能说明 离线神经语音目前为英语 其他语言使用系统声音、云端声音，或你配置的 TTS API 免费可保存最多 10 本书和 10 篇文章 背景音乐：免费每天 20 分钟，Premium 不限 iCloud 同步、音频导出、部分本地模型等需要 Premium 购买与订阅 提供一次买断的终身会员（不会自动续费），以及按周自动续费的订阅 已订阅用户可在 Apple 账户设置中管理或取消 转为终身会员时，剩余订阅时长不退款、不折算 支持的格式 书架：EPUB、PDF、TXT、有声书 文章：手写/粘贴、导入文件（在支持的情况下包括 DOC/DOCX）、扫描、网页、RSS/Atom 隐私政策: https://aurader.com/static/aurader-privacy-policy-en.html 使用条款: https://aurader.com/static/aurader-terms-of-service-en.html",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/56/01/76560125-eb98-6d31-0d3b-d9d94c3f10a6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/56/01/76560125-eb98-6d31-0d3b-d9d94c3f10a6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
     "sellerName": "Static Fire Technology Co., Ltd.",
     "artistName": "Static Fire Technology Co., Ltd.",
     "screenshotUrls": [
@@ -114585,8 +115146,8 @@
     "description": "Health.md 将你的 Apple 健康数据转化为精美、可搜索的 Markdown 健身日记，自动同步到 Obsidian 或你选择的任意文件夹。 使用方法 只需连接一次 Apple 健康 从涵盖 21 个类别的 225 多项健康数据中选择要追踪和导出的项目，包括睡眠、HRV、步数和心率 Health.md 按照你想要的格式，每天自动生成一篇 Markdown 笔记 笔记保存到你的 Obsidian 库、iCloud 云盘或本地文件夹 可导出的数据 睡眠 — 总时长、深度睡眠、REM 睡眠、核心睡眠、清醒、卧床时间 心脏 — HRV（日均值）、静息心率、步行心率、平均/最低/最高心率、心率恢复 活动 — 步数、距离、活动能量、锻炼时长、VO2 Max、站立时间 身体 — 体重、BMI、体脂率、去脂体重、腰围 生命体征 — 呼吸频率、血氧、体温、腕温、血压、血糖 营养 — 卡路里、蛋白质、碳水化合物、脂肪、膳食纤维、糖、钠、胆固醇等 正念、症状、生殖健康等数十个额外类别 Obsidian 原生支持 Health.md 专为 Obsidian 用户打造。每日笔记使用你现有的模板，插入到正确的文件夹，并支持 Obsidian Bases（YAML 前置属性），让你的健康数据可以在 Obsidian 数据库视图中查询。 灵活的格式 自定义指标名称和单位 选择每日、每周或手动导出计划 在文件夹路径中使用日期占位符（{year}、{month}、{quarter}、{week}） 支持导出为 Markdown、CSV、JSON 或 Obsidian Bases YAML 隐私保护 Health.md 不会将你的健康数据存储在 Health.md 服务器上。处理在你的设备上进行，导出内容只会发送到你选择的目标位置。Health.md 使用随机应用安装 ID 自动收集有限的假名化产品事件，用于了解新手引导和购买流程。这些事件绝不包含健康数值、指标名称、健康日期或导出文件，也不会用于广告或跨应用跟踪。 全方位健康管理 无论你是通过手表或手环追踪运动和计步数据，还是为了减肥、养生而进行健康管理，Health.md 都能将你的每一条健康记录整理成精美的 Markdown 笔记。 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "Health.md 将你的 Apple 健康数据转化为精美、可搜索的 Markdown 健身日记，自动同步到 Obsidian 或你选择的任意文件夹。 使用方法 只需连接一次 Apple 健康 从涵盖 21 个类别的 225 多项健康数据中选择要追踪和导出的项目，包括睡眠、HRV、步数和心率 Health.md 按照你想要的格式，每天自动生成一篇 Markdown 笔记 笔记保存到你的 Obsidian 库、iCloud 云盘或本地文件夹 可导出的数据 睡眠 — 总时长、深度睡眠、REM 睡眠、核心睡眠、清醒、卧床时间 心脏 — HRV（日均值）、静息心率、步行心率、平均/最低/最高心率、心率恢复 活动 — 步数、距离、活动能量、锻炼时长、VO2 Max、站立时间 身体 — 体重、BMI、体脂率、去脂体重、腰围 生命体征 — 呼吸频率、血氧、体温、腕温、血压、血糖 营养 — 卡路里、蛋白质、碳水化合物、脂肪、膳食纤维、糖、钠、胆固醇等 正念、症状、生殖健康等数十个额外类别 Obsidian 原生支持 Health.md 专为 Obsidian 用户打造。每日笔记使用你现有的模板，插入到正确的文件夹，并支持 Obsidian Bases（YAML 前置属性），让你的健康数据可以在 Obsidian 数据库视图中查询。 灵活的格式 自定义指标名称和单位 选择每日、每周或手动导出计划 在文件夹路径中使用日期占位符（{year}、{month}、{quarter}、{week}） 支持导出为 Markdown、CSV、JSON 或 Obsidian Bases YAML 隐私保护 Health.md 不会将你的健康数据存储在 Health.md 服务器上。处理在你的设备上进行，导出内容只会发送到你选择的目标位置。Health.md 使用随机应用安装 ID 自动收集有限的假名化产品事件，用于了解新手引导和购买流程。这些事件绝不包含健康数值、指标名称、健康日期或导出文件，也不会用于广告或跨应用跟踪。 全方位健康管理 无论你是通过手表或手环追踪运动和计步数据，还是为了减肥、养生而进行健康管理，Health.md 都能将你的每一条健康记录整理成精美的 Markdown 笔记。 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "Health.md 将你的 Apple 健康数据转化为精美、可搜索的 Markdown 健身日记，自动同步到 Obsidian 或你选择的任意文件夹。 使用方法 只需连接一次 Apple 健康 从涵盖 21 个类别的 225 多项健康数据中选择要追踪和导出的项目，包括睡眠、HRV、步数和心率 Health.md 按照你想要的格式，每天自动生成一篇 Markdown 笔记 笔记保存到你的 Obsidian 库、iCloud 云盘或本地文件夹 可导出的数据 睡眠 — 总时长、深度睡眠、REM 睡眠、核心睡眠、清醒、卧床时间 心脏 — HRV（日均值）、静息心率、步行心率、平均/最低/最高心率、心率恢复 活动 — 步数、距离、活动能量、锻炼时长、VO2 Max、站立时间 身体 — 体重、BMI、体脂率、去脂体重、腰围 生命体征 — 呼吸频率、血氧、体温、腕温、血压、血糖 营养 — 卡路里、蛋白质、碳水化合物、脂肪、膳食纤维、糖、钠、胆固醇等 正念、症状、生殖健康等数十个额外类别 Obsidian 原生支持 Health.md 专为 Obsidian 用户打造。每日笔记使用你现有的模板，插入到正确的文件夹，并支持 Obsidian Bases（YAML 前置属性），让你的健康数据可以在 Obsidian 数据库视图中查询。 灵活的格式 自定义指标名称和单位 选择每日、每周或手动导出计划 在文件夹路径中使用日期占位符（{year}、{month}、{quarter}、{week}） 支持导出为 Markdown、CSV、JSON 或 Obsidian Bases YAML 隐私保护 Health.md 不会将你的健康数据存储在 Health.md 服务器上。处理在你的设备上进行，导出内容只会发送到你选择的目标位置。Health.md 使用随机应用安装 ID 自动收集有限的假名化产品事件，用于了解新手引导和购买流程。这些事件绝不包含健康数值、指标名称、健康日期或导出文件，也不会用于广告或跨应用跟踪。 全方位健康管理 无论你是通过手表或手环追踪运动和计步数据，还是为了减肥、养生而进行健康管理，Health.md 都能将你的每一条健康记录整理成精美的 Markdown 笔记。 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/74/74/587474f1-cffe-a9c0-e3b6-b5a998e83d0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/74/74/587474f1-cffe-a9c0-e3b6-b5a998e83d0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/b1/b6/03b1b6c3-d1e2-6aac-ce70-271fc0fd469f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/b1/b6/03b1b6c3-d1e2-6aac-ce70-271fc0fd469f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Cody Russell Bontecou",
     "artistName": "Cody Russell Bontecou",
     "screenshotUrls": [
@@ -153540,6 +154101,14 @@
     "history": [
       [
         {
+          "timestamp": 1789749089946,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788263147497,
           "price": 0,
           "formattedPrice": "免费",
@@ -159984,6 +160553,18 @@
       "月费VIP": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789749089946,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久VIP": "¥0.00",
+            "年费VIP": "¥6.00",
+            "月费VIP": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788621632764,
@@ -171182,7 +171763,7 @@
       "price": 0,
       "formattedPrice": "免费",
       "Jinx永久VIP": "¥29.80",
-      "Jinx订阅VIP": "¥3.00"
+      "Jinx订阅VIP": "¥4.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -171191,6 +171772,17 @@
       "Jinx订阅VIP": "¥2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789749089946,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Jinx永久VIP": "¥28.00",
+            "Jinx订阅VIP": "¥4.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780234859093,
@@ -176474,10 +177066,18 @@
       "formattedPrice": "¥3.00"
     },
     "minPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789749089946,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773498454133,
@@ -176488,9 +177088,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8B%BE%E5%85%89-%E6%AF%8F%E6%97%A5%E5%90%8D%E8%A8%80/id6755927582?uo=4",
-    "description": "拾光 Shiguang —— 你的精神栖息地 】 在信息过载的时代，我们每天被无数琐碎的消息裹挟。拾光希望为你保留一片纯净的空间，用文字的力量，温暖你的每一天。 这是一个极简主义的名言语录 App，没有繁杂的社交，没有算法的干扰，只有你和触动心灵的文字。 核心功能： 每日灵感推送 每天早晚，准时为你送达一句精选金句。或是哲学思考，或是文学经典，让美好的文字成为你生活的注脚。 桌面美学组件 (Widgets) 提供多款精心设计的 iOS 桌面小组件。无需打开 App，点亮屏幕即可看见灵感，让你的手机桌面变成私人画廊。 唯美卡片制作 遇到喜欢的句子，一键生成精美语录卡片。内置多种高级感字体与极简模版，支持自定义背景，朋友圈分享更有格调。 个性化图标 内置 10+ 款不同风格的 App 图标（复古、黑白、磨砂等），随心切换，完美融入你的手机界面风格。 纯净阅读模式 沉浸式的阅读体验，支持按分类（电影、书籍、情感、哲思）探索语录库，发现跨越时空的共鸣。 我们的承诺： 隐私至上： 采用完全本地化存储技术，您的收藏、创作与偏好仅保存在您的设备中，我们无法获取。 买断制： 拒绝无休止的订阅。一杯饮料的价格，即可永久解锁所有功能与未来更新。 零广告： 我们珍惜您的注意力，应用内绝无任何广告打扰。 如果你也在寻找内心的平静，欢迎下载拾光，与有趣的灵魂相遇。 如果您有任何建议或反馈，欢迎联系我们： 邮箱：2672939542@qq.com",
-    "fullDescription": "拾光 Shiguang —— 你的精神栖息地 】 在信息过载的时代，我们每天被无数琐碎的消息裹挟。拾光希望为你保留一片纯净的空间，用文字的力量，温暖你的每一天。 这是一个极简主义的名言语录 App，没有繁杂的社交，没有算法的干扰，只有你和触动心灵的文字。 核心功能： 每日灵感推送 每天早晚，准时为你送达一句精选金句。或是哲学思考，或是文学经典，让美好的文字成为你生活的注脚。 桌面美学组件 (Widgets) 提供多款精心设计的 iOS 桌面小组件。无需打开 App，点亮屏幕即可看见灵感，让你的手机桌面变成私人画廊。 唯美卡片制作 遇到喜欢的句子，一键生成精美语录卡片。内置多种高级感字体与极简模版，支持自定义背景，朋友圈分享更有格调。 个性化图标 内置 10+ 款不同风格的 App 图标（复古、黑白、磨砂等），随心切换，完美融入你的手机界面风格。 纯净阅读模式 沉浸式的阅读体验，支持按分类（电影、书籍、情感、哲思）探索语录库，发现跨越时空的共鸣。 我们的承诺： 隐私至上： 采用完全本地化存储技术，您的收藏、创作与偏好仅保存在您的设备中，我们无法获取。 买断制： 拒绝无休止的订阅。一杯饮料的价格，即可永久解锁所有功能与未来更新。 零广告： 我们珍惜您的注意力，应用内绝无任何广告打扰。 如果你也在寻找内心的平静，欢迎下载拾光，与有趣的灵魂相遇。 如果您有任何建议或反馈，欢迎联系我们： 邮箱：2672939542@qq.com",
-    "summaryDescription": "拾光 Shiguang —— 你的精神栖息地 】 在信息过载的时代，我们每天被无数琐碎的消息裹挟。拾光希望为你保留一片纯净的空间，用文字的力量，温暖你的每一天。 这是一个极简主义的名言语录 App，没有繁杂的社交，没有算法的干扰，只有你和触动心灵的文字。 核心功能： 每日灵感推送 每天早晚，准时为你送达一句精选金句。或是哲学思考，或是文学经典，让美好的文字成为你生活的注脚。 桌面美学组件 (Widgets) 提供多款精心设计的 iOS 桌面小组件。无需打开 App，点亮屏幕即可看见灵感，让你的手机桌面变成私人画廊。 唯美卡片制作 遇到喜欢的句子，一键生成精美语录卡片。内置多种高级感字体与极简模版，支持自定义背景，朋友圈分享更有格调。 个性化图标 内置 10+ 款不同风格的 App 图标（复古、黑白、磨砂等），随心切换，完美融入你的手机界面风格。 纯净阅读模式 沉浸式的阅读体验，支持按分类（电影、书籍、情感、哲思）探索语录库，发现跨越时空的共鸣。 我们的承诺： 隐私至上： 采用完全本地化存储技术，您的收藏、创作与偏好仅保存在您的设备中，我们无法获取。 买断制： 拒绝无休止的订阅。一杯饮料的价格，即可永久解锁所有功能与未来更新。 零广告： 我们珍惜您的注意力，应用内绝无任何广告打扰。 如果你也在寻找内心的平静，欢迎下载拾光，与有趣的灵魂相遇。 如果您有任何建议或反馈，欢迎联系我们： 邮箱：2672939542@qq.com",
+    "description": "拾光 Shiguang —— 你的精神栖息地 】 在信息过载的时代，我们每天被无数琐碎的消息裹挟。拾光希望为你保留一片纯净的空间，用文字的力量，温暖你的每一天。 这是一个极简主义的名言语录 App，没有繁杂的社交，没有算法的干扰，只有你和触动心灵的文字。 核心功能： 每日灵感推送 每天早晚，准时为你送达一句精选金句。或是哲学思考，或是文学经典，让美好的文字成为你生活的注脚。 桌面美学组件 (Widgets) 提供多款精心设计的 iOS 桌面小组件。无需打开 App，点亮屏幕即可看见灵感，让你的手机桌面变成私人画廊。 唯美卡片制作 遇到喜欢的句子，一键生成精美语录卡片。内置多种高级感字体与极简模版，支持自定义背景，朋友圈分享更有格调。 个性化图标 内置 10+ 款不同风格的 App 图标（复古、黑白、磨砂等），随心切换，完美融入你的手机界面风格。 纯净阅读模式 沉浸式的阅读体验，支持按分类（电影、书籍、情感、哲思）探索语录库，发现跨越时空的共鸣。 我们的承诺： 隐私至上： 采用完全本地化存储技术，您的收藏、创作与偏好仅保存在您的设备中，我们无法获取。 买断制： 拒绝无休止的订阅。一杯饮料的价格，即可永久解锁所有功能与未来更新。 零广告： 我们珍惜您的注意力，应用内绝无任何广告打扰。 如果你也在寻找内心的平静，欢迎下载拾光，与有趣的灵魂相遇。 如果您有任何建议或反馈，欢迎联系我们： 邮",
+    "fullDescription": "拾光 Shiguang —— 你的精神栖息地 】 在信息过载的时代，我们每天被无数琐碎的消息裹挟。拾光希望为你保留一片纯净的空间，用文字的力量，温暖你的每一天。 这是一个极简主义的名言语录 App，没有繁杂的社交，没有算法的干扰，只有你和触动心灵的文字。 核心功能： 每日灵感推送 每天早晚，准时为你送达一句精选金句。或是哲学思考，或是文学经典，让美好的文字成为你生活的注脚。 桌面美学组件 (Widgets) 提供多款精心设计的 iOS 桌面小组件。无需打开 App，点亮屏幕即可看见灵感，让你的手机桌面变成私人画廊。 唯美卡片制作 遇到喜欢的句子，一键生成精美语录卡片。内置多种高级感字体与极简模版，支持自定义背景，朋友圈分享更有格调。 个性化图标 内置 10+ 款不同风格的 App 图标（复古、黑白、磨砂等），随心切换，完美融入你的手机界面风格。 纯净阅读模式 沉浸式的阅读体验，支持按分类（电影、书籍、情感、哲思）探索语录库，发现跨越时空的共鸣。 我们的承诺： 隐私至上： 采用完全本地化存储技术，您的收藏、创作与偏好仅保存在您的设备中，我们无法获取。 买断制： 拒绝无休止的订阅。一杯饮料的价格，即可永久解锁所有功能与未来更新。 零广告： 我们珍惜您的注意力，应用内绝无任何广告打扰。 如果你也在寻找内心的平静，欢迎下载拾光，与有趣的灵魂相遇。 如果您有任何建议或反馈，欢迎联系我们： 邮",
+    "summaryDescription": "拾光 Shiguang —— 你的精神栖息地 】 在信息过载的时代，我们每天被无数琐碎的消息裹挟。拾光希望为你保留一片纯净的空间，用文字的力量，温暖你的每一天。 这是一个极简主义的名言语录 App，没有繁杂的社交，没有算法的干扰，只有你和触动心灵的文字。 核心功能： 每日灵感推送 每天早晚，准时为你送达一句精选金句。或是哲学思考，或是文学经典，让美好的文字成为你生活的注脚。 桌面美学组件 (Widgets) 提供多款精心设计的 iOS 桌面小组件。无需打开 App，点亮屏幕即可看见灵感，让你的手机桌面变成私人画廊。 唯美卡片制作 遇到喜欢的句子，一键生成精美语录卡片。内置多种高级感字体与极简模版，支持自定义背景，朋友圈分享更有格调。 个性化图标 内置 10+ 款不同风格的 App 图标（复古、黑白、磨砂等），随心切换，完美融入你的手机界面风格。 纯净阅读模式 沉浸式的阅读体验，支持按分类（电影、书籍、情感、哲思）探索语录库，发现跨越时空的共鸣。 我们的承诺： 隐私至上： 采用完全本地化存储技术，您的收藏、创作与偏好仅保存在您的设备中，我们无法获取。 买断制： 拒绝无休止的订阅。一杯饮料的价格，即可永久解锁所有功能与未来更新。 零广告： 我们珍惜您的注意力，应用内绝无任何广告打扰。 如果你也在寻找内心的平静，欢迎下载拾光，与有趣的灵魂相遇。 如果您有任何建议或反馈，欢迎联系我们： 邮",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/12/ae/4112ae18-10ea-8bd0-5f6a-f0a6e98b2c2d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/12/ae/4112ae18-10ea-8bd0-5f6a-f0a6e98b2c2d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "振淋 郝",
@@ -180333,8 +180933,8 @@
     "_externalSourceFirstSeen": 1773640163625
   },
   "6726997887": {
-    "name": "TextVerified by Temphone",
-    "trackName": "TextVerified by Temphone",
+    "name": "Temp Number - Text Verified",
+    "trackName": "Temp Number - Text Verified",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
@@ -180671,12 +181271,12 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/textverified-by-temphone/id6726997887?uo=4",
-    "description": "您正在寻找一个无需透露真实号码即可使用的电话号码吗？我们的应用程序为您提供临时的一次性号码和可再生的人工智能电话线，您可以使用它来拨打电话、发短信、处理业务、约会或任何您需要的内容。它专为普通人、个体企业家和服务专业人员（如房地产经纪人、电工、水管工、自由职业者）以及任何想要更智能的沟通方式的人而设计。哦，是的，我们还销售旅行数据 eSIM，这样您就可以在世界任何地方保持联系，而无需支付巨额漫游费。两种类型的号码： 1. 最佳临时/一次性电话号码服务",
-    "fullDescription": "您正在寻找一个无需透露真实号码即可使用的电话号码吗？我们的应用程序为您提供临时的一次性号码和可再生的人工智能电话线，您可以使用它来拨打电话、发短信、处理业务、约会或任何您需要的内容。它专为普通人、个体企业家和服务专业人员（如房地产经纪人、电工、水管工、自由职业者）以及任何想要更智能的沟通方式的人而设计。哦，是的，我们还销售旅行数据 eSIM，这样您就可以在世界任何地方保持联系，而无需支付巨额漫游费。两种类型的号码： 1. 最佳临时/一次性电话号码服务",
-    "summaryDescription": "您正在寻找一个无需透露真实号码即可使用的电话号码吗？我们的应用程序为您提供临时的一次性号码和可再生的人工智能电话线，您可以使用它来拨打电话、发短信、处理业务、约会或任何您需要的内容。它专为普通人、个体企业家和服务专业人员（如房地产经纪人、电工、水管工、自由职业者）以及任何想要更智能的沟通方式的人而设计。哦，是的，我们还销售旅行数据 eSIM，这样您就可以在世界任何地方保持联系，而无需支付巨额漫游费。两种类型的号码： 1. 最佳临时/一次性电话号码服务",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/40/c4/9b40c4ff-1d73-0068-a311-1da4a03e8a50/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/40/c4/9b40c4ff-1d73-0068-a311-1da4a03e8a50/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/100x100bb.jpg",
+    "trackViewUrl": "https://apps.apple.com/cn/app/temp-number-text-verified/id6726997887?uo=4",
+    "description": "您正在寻找一个无需透露真实号码即可使用的电话号码吗？我们的应用程序为您提供临时的一次性号码和可再生的人工智能电话线，您可以使用它来拨打电话、发短信、处理业务、约会或任何您需要的内容。它专为普通人、个体企业家和服务专业人员（如房地产经纪人、电工、水管工、自由职业者）以及任何想要更智能的沟通方式的人而构建。哦，是的，我们还销售旅行数据 eSIM，这样您就可以在世界任何地方保持联系，而无需支付高额漫游费。两种类型的号码： 1. 最佳临时/一次性电话号码服务",
+    "fullDescription": "您正在寻找一个无需透露真实号码即可使用的电话号码吗？我们的应用程序为您提供临时的一次性号码和可再生的人工智能电话线，您可以使用它来拨打电话、发短信、处理业务、约会或任何您需要的内容。它专为普通人、个体企业家和服务专业人员（如房地产经纪人、电工、水管工、自由职业者）以及任何想要更智能的沟通方式的人而构建。哦，是的，我们还销售旅行数据 eSIM，这样您就可以在世界任何地方保持联系，而无需支付高额漫游费。两种类型的号码： 1. 最佳临时/一次性电话号码服务",
+    "summaryDescription": "您正在寻找一个无需透露真实号码即可使用的电话号码吗？我们的应用程序为您提供临时的一次性号码和可再生的人工智能电话线，您可以使用它来拨打电话、发短信、处理业务、约会或任何您需要的内容。它专为普通人、个体企业家和服务专业人员（如房地产经纪人、电工、水管工、自由职业者）以及任何想要更智能的沟通方式的人而构建。哦，是的，我们还销售旅行数据 eSIM，这样您就可以在世界任何地方保持联系，而无需支付高额漫游费。两种类型的号码： 1. 最佳临时/一次性电话号码服务",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/17/af/7e17af91-0b47-370d-c5f6-bb6b2dcf9a76/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/17/af/7e17af91-0b47-370d-c5f6-bb6b2dcf9a76/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/100x100bb.jpg",
     "sellerName": "Techook LLC",
     "artistName": "TECHOOK, LLC",
     "screenshotUrls": [
@@ -190508,8 +191108,8 @@
     "description": "For scattered minds and busy days. To do cards by Frido is a calmer way to manage your tasks. Instead of putting everything into one long list, it helps you sort what matters, plan a day you can actually follow, and focus on one thing at a time. SORT OUT WHAT MATTERS Move through your tasks one card at a time. Swipe to decide what belongs in your day, what can wait, and what deserves your attention now. PLAN A DAY YOU CAN FOLLOW Organize tasks into morning, afternoon, and evening. See what you have planned for each part of the day without turning your schedule into another complicated system. FOCUS ON ONE THING Start a focus session directly from any task. A built-in timer keeps the task in front of you and tracks the time you spend on it. KEEP EVERYTHING ORGANIZED Use categories to separate work, errands, personal tasks, routines, or anything else you have going on. Add Task Moods when something is quick, urgent, or simply more fun to do. KEEP ROUTINES MOVING Set tasks to repeat automatically and let important routines come back when you need them. Gentle notifications also help unfinished and important tasks find their way back to you. SEE WHAT YOU GOT DONE Presence keeps a quiet history of completed tasks and focus time, so you can look back at your progress without turning productivity into a competition. YOUR TASKS STAY YOURS We never see your data. Your tasks sync privately through iCloud, so everything stays up to date across your Apple devices. FEATURES Swipeable task cards that make a long to-do list easier to sort and plan A daily planner that lets you organize tasks around different parts of your day A built-in focus timer for working on one task at a time Custom categories for keeping work, errands, routines, and personal tasks organized Task Moods that adapt how a task looks and behaves when it is quick, fun, or urgent Recurring tasks for things you need to do regularly Gentle reminders that bring important and unfinished tasks back at the right time Home Screen widgets that surface the task you should tackle next Presence, a quiet record of what you completed and how much time you spent focused Private iCloud sync across iPhone, iPad, and Mac Yours to keep. No subscriptions. No locked features.",
     "fullDescription": "For scattered minds and busy days. To do cards by Frido is a calmer way to manage your tasks. Instead of putting everything into one long list, it helps you sort what matters, plan a day you can actually follow, and focus on one thing at a time. SORT OUT WHAT MATTERS Move through your tasks one card at a time. Swipe to decide what belongs in your day, what can wait, and what deserves your attention now. PLAN A DAY YOU CAN FOLLOW Organize tasks into morning, afternoon, and evening. See what you have planned for each part of the day without turning your schedule into another complicated system. FOCUS ON ONE THING Start a focus session directly from any task. A built-in timer keeps the task in front of you and tracks the time you spend on it. KEEP EVERYTHING ORGANIZED Use categories to separate work, errands, personal tasks, routines, or anything else you have going on. Add Task Moods when something is quick, urgent, or simply more fun to do. KEEP ROUTINES MOVING Set tasks to repeat automatically and let important routines come back when you need them. Gentle notifications also help unfinished and important tasks find their way back to you. SEE WHAT YOU GOT DONE Presence keeps a quiet history of completed tasks and focus time, so you can look back at your progress without turning productivity into a competition. YOUR TASKS STAY YOURS We never see your data. Your tasks sync privately through iCloud, so everything stays up to date across your Apple devices. FEATURES Swipeable task cards that make a long to-do list easier to sort and plan A daily planner that lets you organize tasks around different parts of your day A built-in focus timer for working on one task at a time Custom categories for keeping work, errands, routines, and personal tasks organized Task Moods that adapt how a task looks and behaves when it is quick, fun, or urgent Recurring tasks for things you need to do regularly Gentle reminders that bring important and unfinished tasks back at the right time Home Screen widgets that surface the task you should tackle next Presence, a quiet record of what you completed and how much time you spent focused Private iCloud sync across iPhone, iPad, and Mac Yours to keep. No subscriptions. No locked features.",
     "summaryDescription": "For scattered minds and busy days. To do cards by Frido is a calmer way to manage your tasks. Instead of putting everything into one long list, it helps you sort what matters, plan a day you can actually follow, and focus on one thing at a time. SORT OUT WHAT MATTERS Move through your tasks one card at a time. Swipe to decide what belongs in your day, what can wait, and what deserves your attention now. PLAN A DAY YOU CAN FOLLOW Organize tasks into morning, afternoon, and evening. See what you have planned for each part of the day without turning your schedule into another complicated system. FOCUS ON ONE THING Start a focus session directly from any task. A built-in timer keeps the task in front of you and tracks the time you spend on it. KEEP EVERYTHING ORGANIZED Use categories to separate work, errands, personal tasks, routines, or anything else you have going on. Add Task Moods when something is quick, urgent, or simply more fun to do. KEEP ROUTINES MOVING Set tasks to repeat automatically and let important routines come back when you need them. Gentle notifications also help unfinished and important tasks find their way back to you. SEE WHAT YOU GOT DONE Presence keeps a quiet history of completed tasks and focus time, so you can look back at your progress without turning productivity into a competition. YOUR TASKS STAY YOURS We never see your data. Your tasks sync privately through iCloud, so everything stays up to date across your Apple devices. FEATURES Swipeable task cards that make a long to-do list easier to sort and plan A daily planner that lets you organize tasks around different parts of your day A built-in focus timer for working on one task at a time Custom categories for keeping work, errands, routines, and personal tasks organized Task Moods that adapt how a task looks and behaves when it is quick, fun, or urgent Recurring tasks for things you need to do regularly Gentle reminders that bring important and unfinished tasks back at the right time Home Screen widgets that surface the task you should tackle next Presence, a quiet record of what you completed and how much time you spent focused Private iCloud sync across iPhone, iPad, and Mac Yours to keep. No subscriptions. No locked features.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/7d/52/987d52b8-c86f-f5f9-9575-871e108def03/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/7d/52/987d52b8-c86f-f5f9-9575-871e108def03/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/a4/44/f6a44415-af43-3693-29c0-a4289d2ae343/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/a4/44/f6a44415-af43-3693-29c0-a4289d2ae343/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
     "sellerName": "Madsen Vale",
     "artistName": "Madsen Vale",
     "screenshotUrls": [
@@ -190810,6 +191410,18 @@
       "月度订阅": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789749089946,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "年度会员": "¥57.00",
+            "永久会员": "¥99.00",
+            "月度订阅": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788155076538,
@@ -202617,9 +203229,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/wiznote-brain-dump-ai/id6757632086?uo=4",
-    "description": "Wiz Note AI 帮你把零散想法变成清晰的“第二大脑”。随手记录一句话、一段语音或一张照片 ，应用会自动理解内容、完成分类 ，并用专属卡片式界面呈现你真正需要的信息。 核心体验 多种输入：文字/语音/图片 自动分类无需手动整理 智能卡片：不同类型笔记 ，自动出现不同的结构与信息 从想法到行动：提炼要点、生成下一步、梳理计划与框架 高度可定制 自由调整每个类别的 AI 提示词（提示） 自定义类别与区块（部分） ，打造完全属于你的笔记系统 适用场景 商业点子、创业想法：整理问题、方案、计划 会议纪要：自动提炼结论与行动项 学习笔记：结构化复习与要点整理 日常灵感与“脑洞” ：随记随归档 用 Wiz Note AI ，让笔记不止被保存 ，而是真正帮你思考与前进。 Fastemy -快速有趣的教育使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "fullDescription": "Wiz Note AI 帮你把零散想法变成清晰的“第二大脑”。随手记录一句话、一段语音或一张照片 ，应用会自动理解内容、完成分类 ，并用专属卡片式界面呈现你真正需要的信息。 核心体验 多种输入：文字/语音/图片 自动分类无需手动整理 智能卡片：不同类型笔记 ，自动出现不同的结构与信息 从想法到行动：提炼要点、生成下一步、梳理计划与框架 高度可定制 自由调整每个类别的 AI 提示词（提示） 自定义类别与区块（部分） ，打造完全属于你的笔记系统 适用场景 商业点子、创业想法：整理问题、方案、计划 会议纪要：自动提炼结论与行动项 学习笔记：结构化复习与要点整理 日常灵感与“脑洞” ：随记随归档 用 Wiz Note AI ，让笔记不止被保存 ，而是真正帮你思考与前进。 Fastemy -快速有趣的教育使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "summaryDescription": "Wiz Note AI 帮你把零散想法变成清晰的“第二大脑”。随手记录一句话、一段语音或一张照片 ，应用会自动理解内容、完成分类 ，并用专属卡片式界面呈现你真正需要的信息。 核心体验 多种输入：文字/语音/图片 自动分类无需手动整理 智能卡片：不同类型笔记 ，自动出现不同的结构与信息 从想法到行动：提炼要点、生成下一步、梳理计划与框架 高度可定制 自由调整每个类别的 AI 提示词（提示） 自定义类别与区块（部分） ，打造完全属于你的笔记系统 适用场景 商业点子、创业想法：整理问题、方案、计划 会议纪要：自动提炼结论与行动项 学习笔记：结构化复习与要点整理 日常灵感与“脑洞” ：随记随归档 用 Wiz Note AI ，让笔记不止被保存 ，而是真正帮你思考与前进。 Fastemy -快速有趣的教育使用条款： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "description": "Wiz Note AI 帮你把零散想法变成清晰的“第二大脑”。随手记录一句话、一段语音或一张照片，应用会自动理解内容、完成分类，并用专属卡片式界面呈现你真正需要的信息。 核心体验 多种输入：文字 / 语音 / 图片 自动分类：无需手动整理 智能卡片：不同类型笔记，自动出现不同的结构与信息 从想法到行动：提炼要点、生成下一步、梳理计划与框架 高度可定制 自由调整每个类别的 AI 提示词（Prompt） 自定义类别与区块（Sections），打造完全属于你的笔记系统 适用场景 商业点子、创业想法：整理问题、方案、计划 会议纪要：自动提炼结论与行动项 学习笔记：结构化复习与要点整理 日常灵感与“脑洞”：随记随归档 用 Wiz Note AI，让笔记不止被保存，而是真正帮你思考与前进。 Fastemy - Fast and Fun Education Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "fullDescription": "Wiz Note AI 帮你把零散想法变成清晰的“第二大脑”。随手记录一句话、一段语音或一张照片，应用会自动理解内容、完成分类，并用专属卡片式界面呈现你真正需要的信息。 核心体验 多种输入：文字 / 语音 / 图片 自动分类：无需手动整理 智能卡片：不同类型笔记，自动出现不同的结构与信息 从想法到行动：提炼要点、生成下一步、梳理计划与框架 高度可定制 自由调整每个类别的 AI 提示词（Prompt） 自定义类别与区块（Sections），打造完全属于你的笔记系统 适用场景 商业点子、创业想法：整理问题、方案、计划 会议纪要：自动提炼结论与行动项 学习笔记：结构化复习与要点整理 日常灵感与“脑洞”：随记随归档 用 Wiz Note AI，让笔记不止被保存，而是真正帮你思考与前进。 Fastemy - Fast and Fun Education Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "summaryDescription": "Wiz Note AI 帮你把零散想法变成清晰的“第二大脑”。随手记录一句话、一段语音或一张照片，应用会自动理解内容、完成分类，并用专属卡片式界面呈现你真正需要的信息。 核心体验 多种输入：文字 / 语音 / 图片 自动分类：无需手动整理 智能卡片：不同类型笔记，自动出现不同的结构与信息 从想法到行动：提炼要点、生成下一步、梳理计划与框架 高度可定制 自由调整每个类别的 AI 提示词（Prompt） 自定义类别与区块（Sections），打造完全属于你的笔记系统 适用场景 商业点子、创业想法：整理问题、方案、计划 会议纪要：自动提炼结论与行动项 学习笔记：结构化复习与要点整理 日常灵感与“脑洞”：随记随归档 用 Wiz Note AI，让笔记不止被保存，而是真正帮你思考与前进。 Fastemy - Fast and Fun Education Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/d0/d4/41d0d4e3-ce82-1a69-1ce0-1c767d3a429b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/d0/d4/41d0d4e3-ce82-1a69-1ce0-1c767d3a429b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Abdullah YILMAZ",
@@ -204875,8 +205487,8 @@
     "description": "用 Luna 为睡前、专注和休息营造更安静的声音空间。 选择白噪音、棕噪音、绿噪音、粉噪音，以及暴风雨、风扇、海浪、自然环境声和其他舒缓声音。可以从一个声音开始，也可以叠加多个声音，并分别调整每一层音量，打造适合当下的组合。 打造自己的声音组合 同时混合多个声音 分别调整每一层音量 播放时随时开启或关闭声音 保存喜欢的组合 重命名已保存的组合 为夜晚做好准备 设置睡眠计时 使用渐弱淡出，让声音平缓结束 支持后台音频播放 在不同使用时段恢复最近的播放组合 长时间播放时可使用省电设置 Luna 不只适合睡前，也可以作为阅读、学习、工作、冥想、旅行或需要稳定背景声时的声音工具。选择声音、调整平衡、设定计时，然后让声音继续在后台播放。 不需要复杂步骤。找到喜欢的声音，调出适合自己的组合，并随时回到已经保存的内容。 部分内容或功能可能需要订阅。 支持 [luna.app.team@gmail.com](mailto:luna.app.team@gmail.com) 隐私政策 https://islapixelstudio.github.io/luna-legal/privacy 使用条款（Apple 标准 EULA） https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
     "fullDescription": "用 Luna 为睡前、专注和休息营造更安静的声音空间。 选择白噪音、棕噪音、绿噪音、粉噪音，以及暴风雨、风扇、海浪、自然环境声和其他舒缓声音。可以从一个声音开始，也可以叠加多个声音，并分别调整每一层音量，打造适合当下的组合。 打造自己的声音组合 同时混合多个声音 分别调整每一层音量 播放时随时开启或关闭声音 保存喜欢的组合 重命名已保存的组合 为夜晚做好准备 设置睡眠计时 使用渐弱淡出，让声音平缓结束 支持后台音频播放 在不同使用时段恢复最近的播放组合 长时间播放时可使用省电设置 Luna 不只适合睡前，也可以作为阅读、学习、工作、冥想、旅行或需要稳定背景声时的声音工具。选择声音、调整平衡、设定计时，然后让声音继续在后台播放。 不需要复杂步骤。找到喜欢的声音，调出适合自己的组合，并随时回到已经保存的内容。 部分内容或功能可能需要订阅。 支持 [luna.app.team@gmail.com](mailto:luna.app.team@gmail.com) 隐私政策 https://islapixelstudio.github.io/luna-legal/privacy 使用条款（Apple 标准 EULA） https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
     "summaryDescription": "用 Luna 为睡前、专注和休息营造更安静的声音空间。 选择白噪音、棕噪音、绿噪音、粉噪音，以及暴风雨、风扇、海浪、自然环境声和其他舒缓声音。可以从一个声音开始，也可以叠加多个声音，并分别调整每一层音量，打造适合当下的组合。 打造自己的声音组合 同时混合多个声音 分别调整每一层音量 播放时随时开启或关闭声音 保存喜欢的组合 重命名已保存的组合 为夜晚做好准备 设置睡眠计时 使用渐弱淡出，让声音平缓结束 支持后台音频播放 在不同使用时段恢复最近的播放组合 长时间播放时可使用省电设置 Luna 不只适合睡前，也可以作为阅读、学习、工作、冥想、旅行或需要稳定背景声时的声音工具。选择声音、调整平衡、设定计时，然后让声音继续在后台播放。 不需要复杂步骤。找到喜欢的声音，调出适合自己的组合，并随时回到已经保存的内容。 部分内容或功能可能需要订阅。 支持 [luna.app.team@gmail.com](mailto:luna.app.team@gmail.com) 隐私政策 https://islapixelstudio.github.io/luna-legal/privacy 使用条款（Apple 标准 EULA） https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/1d/71/891d71e8-baff-0bc1-61f8-7b0fcfc39647/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/1d/71/891d71e8-baff-0bc1-61f8-7b0fcfc39647/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/bb/77/3fbb7778-7242-e517-b7dd-382b61448d94/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/bb/77/3fbb7778-7242-e517-b7dd-382b61448d94/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Nataliia Litvinova",
     "artistName": "Nataliia Litvinova",
     "screenshotUrls": [
@@ -211023,8 +211635,8 @@
     "description": "Breastfeeding Tracker & Log is a simple, focused app designed to make tracking feeds effortless — especially during those tired, early-morning, one-handed moments. I designed the app alongside my wife while she was breastfeeding, focusing on what genuinely helped during those early weeks: speed, simplicity, and not having to think too hard at 3am. As our own feeding journey changed, the app changed with it. You can now track breastfeeding, bottle feeds, pumping, and combi feeds together in one clear timeline. No cluttered dashboards. No barrage of questions. Just the practical details you want to remember: when your baby fed, which side you used, how long the feed lasted, and how much milk they had. The interface is designed for quick, one-handed use, with large controls at the top and your recent feeding history close by. Start a timer, stop when you’re done, and the session is logged automatically. When a breastfeed is followed by a bottle top-up, you can record them together as one Combined Feed. Bottles can contain expressed milk, formula, or a mixture of both, so the log reflects how you actually feed rather than forcing everything into one method. Whether you’re feeding late at night, checking the last side used, or trying to remember how much expressed milk is available, everything is built to be fast, clear, and reliable. Key Features Breastfeeding timers Start a feed with one tap, choose the left or right side, and let the app record the duration. Bottle feeding Quickly log bottles of expressed milk, formula, or a mixture of both. Combi feeding Add a bottle top-up after breastfeeding and keep both parts together as one Combined Feed. Pumping sessions Time pumping sessions for the left side, right side, or both, with optional expressed-milk amounts. Expressed milk balance See an automatic balance based on milk expressed and used in bottles, with simple adjustments when needed. Clear feeding history See breastfeeding sessions, bottles, pumping, and combined feeds together in a chronological timeline. Last side tracking Quickly see which side was used last and remove the guesswork from the next feed. Live Activities & Dynamic Island Follow an active breastfeeding or pumping timer from the Lock Screen or Dynamic Island without reopening the app. Apple Watch companion app Start and stop breastfeeding or pumping sessions from your watch when your phone isn’t within reach. Sessions sync automatically with your iPhone. Breastfeeding Tracker keeps the practical parts of feeding in one place, so you can spend less time navigating an app and more time focusing on your baby.",
     "fullDescription": "Breastfeeding Tracker & Log is a simple, focused app designed to make tracking feeds effortless — especially during those tired, early-morning, one-handed moments. I designed the app alongside my wife while she was breastfeeding, focusing on what genuinely helped during those early weeks: speed, simplicity, and not having to think too hard at 3am. As our own feeding journey changed, the app changed with it. You can now track breastfeeding, bottle feeds, pumping, and combi feeds together in one clear timeline. No cluttered dashboards. No barrage of questions. Just the practical details you want to remember: when your baby fed, which side you used, how long the feed lasted, and how much milk they had. The interface is designed for quick, one-handed use, with large controls at the top and your recent feeding history close by. Start a timer, stop when you’re done, and the session is logged automatically. When a breastfeed is followed by a bottle top-up, you can record them together as one Combined Feed. Bottles can contain expressed milk, formula, or a mixture of both, so the log reflects how you actually feed rather than forcing everything into one method. Whether you’re feeding late at night, checking the last side used, or trying to remember how much expressed milk is available, everything is built to be fast, clear, and reliable. Key Features Breastfeeding timers Start a feed with one tap, choose the left or right side, and let the app record the duration. Bottle feeding Quickly log bottles of expressed milk, formula, or a mixture of both. Combi feeding Add a bottle top-up after breastfeeding and keep both parts together as one Combined Feed. Pumping sessions Time pumping sessions for the left side, right side, or both, with optional expressed-milk amounts. Expressed milk balance See an automatic balance based on milk expressed and used in bottles, with simple adjustments when needed. Clear feeding history See breastfeeding sessions, bottles, pumping, and combined feeds together in a chronological timeline. Last side tracking Quickly see which side was used last and remove the guesswork from the next feed. Live Activities & Dynamic Island Follow an active breastfeeding or pumping timer from the Lock Screen or Dynamic Island without reopening the app. Apple Watch companion app Start and stop breastfeeding or pumping sessions from your watch when your phone isn’t within reach. Sessions sync automatically with your iPhone. Breastfeeding Tracker keeps the practical parts of feeding in one place, so you can spend less time navigating an app and more time focusing on your baby.",
     "summaryDescription": "Breastfeeding Tracker & Log is a simple, focused app designed to make tracking feeds effortless — especially during those tired, early-morning, one-handed moments. I designed the app alongside my wife while she was breastfeeding, focusing on what genuinely helped during those early weeks: speed, simplicity, and not having to think too hard at 3am. As our own feeding journey changed, the app changed with it. You can now track breastfeeding, bottle feeds, pumping, and combi feeds together in one clear timeline. No cluttered dashboards. No barrage of questions. Just the practical details you want to remember: when your baby fed, which side you used, how long the feed lasted, and how much milk they had. The interface is designed for quick, one-handed use, with large controls at the top and your recent feeding history close by. Start a timer, stop when you’re done, and the session is logged automatically. When a breastfeed is followed by a bottle top-up, you can record them together as one Combined Feed. Bottles can contain expressed milk, formula, or a mixture of both, so the log reflects how you actually feed rather than forcing everything into one method. Whether you’re feeding late at night, checking the last side used, or trying to remember how much expressed milk is available, everything is built to be fast, clear, and reliable. Key Features Breastfeeding timers Start a feed with one tap, choose the left or right side, and let the app record the duration. Bottle feeding Quickly log bottles of expressed milk, formula, or a mixture of both. Combi feeding Add a bottle top-up after breastfeeding and keep both parts together as one Combined Feed. Pumping sessions Time pumping sessions for the left side, right side, or both, with optional expressed-milk amounts. Expressed milk balance See an automatic balance based on milk expressed and used in bottles, with simple adjustments when needed. Clear feeding history See breastfeeding sessions, bottles, pumping, and combined feeds together in a chronological timeline. Last side tracking Quickly see which side was used last and remove the guesswork from the next feed. Live Activities & Dynamic Island Follow an active breastfeeding or pumping timer from the Lock Screen or Dynamic Island without reopening the app. Apple Watch companion app Start and stop breastfeeding or pumping sessions from your watch when your phone isn’t within reach. Sessions sync automatically with your iPhone. Breastfeeding Tracker keeps the practical parts of feeding in one place, so you can spend less time navigating an app and more time focusing on your baby.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/60/93/ce609375-422d-ca5e-def9-e79d2ea91f8a/BreastFeedingIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/60/93/ce609375-422d-ca5e-def9-e79d2ea91f8a/BreastFeedingIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/32/b1/5732b1aa-2e67-185c-360c-a1d6d3d1795d/BreastFeedingIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/32/b1/5732b1aa-2e67-185c-360c-a1d6d3d1795d/BreastFeedingIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Scruffy Hipster Ltd",
     "artistName": "Scruffy Hipster Ltd",
     "screenshotUrls": [
@@ -215333,8 +215945,8 @@
     "description": "道友交流/道藏典籍/道观导航/道历节日",
     "fullDescription": "道友交流/道藏典籍/道观导航/道历节日",
     "summaryDescription": "道友交流/道藏典籍/道观导航/道历节日",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/e6/4f/a1e64fec-9e04-7bd1-334e-f6f3561a5631/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/e6/4f/a1e64fec-9e04-7bd1-334e-f6f3561a5631/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/6c/e7/446ce70a-9948-f688-edeb-36e6bafab43e/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/6c/e7/446ce70a-9948-f688-edeb-36e6bafab43e/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/100x100bb.jpg",
     "sellerName": "昉 李",
     "artistName": "昉 李",
     "screenshotUrls": [
@@ -218330,8 +218942,8 @@
     "description": "Pinlist 帮助你探索全球应用，并随时掌握最新变化。 你可以浏览不同地区的应用，跟踪更新，并将喜欢的应用收藏在一起。 主要功能： 探索全球应用 通过名称、开发者或 App Store ID 搜索应用。 实时更新 跟踪应用发布与更新动态。 收藏管理 保存你关注的应用，随时查看。 简洁体验 界面简洁，使用流畅。 Pinlist 适合希望更高效管理和探索应用的用户。 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "Pinlist 帮助你探索全球应用，并随时掌握最新变化。 你可以浏览不同地区的应用，跟踪更新，并将喜欢的应用收藏在一起。 主要功能： 探索全球应用 通过名称、开发者或 App Store ID 搜索应用。 实时更新 跟踪应用发布与更新动态。 收藏管理 保存你关注的应用，随时查看。 简洁体验 界面简洁，使用流畅。 Pinlist 适合希望更高效管理和探索应用的用户。 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "Pinlist 帮助你探索全球应用，并随时掌握最新变化。 你可以浏览不同地区的应用，跟踪更新，并将喜欢的应用收藏在一起。 主要功能： 探索全球应用 通过名称、开发者或 App Store ID 搜索应用。 实时更新 跟踪应用发布与更新动态。 收藏管理 保存你关注的应用，随时查看。 简洁体验 界面简洁，使用流畅。 Pinlist 适合希望更高效管理和探索应用的用户。 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/e0/57/e6e0578d-2a49-92e7-48fc-303a08838fdd/AppIconGlassBlue-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/e0/57/e6e0578d-2a49-92e7-48fc-303a08838fdd/AppIconGlassBlue-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/3f/a7/9d3fa72c-8302-1158-15e4-e815445166c7/AppIconGlassBlue-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/3f/a7/9d3fa72c-8302-1158-15e4-e815445166c7/AppIconGlassBlue-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Hangzhou FrameFlow Information Technology Services Co., Ltd.",
     "artistName": "FrameFlow Technology Co., Ltd.",
     "screenshotUrls": [
@@ -225064,10 +225676,18 @@
       "formattedPrice": "¥57.00"
     },
     "minPriceInfo": {
-      "price": 57,
-      "formattedPrice": "¥57.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789749089946,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1775049451974,
@@ -225078,9 +225698,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/confluent-ccaak-kafka-admin/id6758738495?uo=4",
-    "description": "PASS YOUR CONFLUENT CERTIFIED ADMINISTRATOR FOR APACHE KAFKA EXAM Master data streaming infrastructure with 500+ practice questions covering broker management, security, and cluster operations. 500+ practice questions 5-minute study sessions Track your progress Remove mastered questions Text-to-speech support Dark mode available WHY GET CERTIFIED? Kafka administrators earn up to $165K annually with demand growing 47% year-over-year. Validate your expertise in the streaming platform powering Netflix, LinkedIn, and Uber. WHAT YOU'LL MASTER: Apache Kafka architecture with brokers, partitions, and consumer groups Broker configuration including log retention, segment management, and replication factors Topic management with partition assignment and replica distribution Replication mechanics with ISR, leader election, and unclean leader election SSL/TLS encryption for data in transit with certificate management SASL authentication mechanisms including PLAIN, SCRAM, and GSSAPI ACLs and RBAC for granular authorization and security policies ZooKeeper vs KRaft consensus protocols and migration strategies Kafka Connect distributed mode with connector configuration and transforms Log compaction for maintaining latest state per key JMX metrics and monitoring with under-replicated partitions and lag tracking Cluster troubleshooting including broker failures and network partitions Producer configuration with acks, retries, and idempotence settings Consumer configuration with offset management and rebalancing strategies High availability design with rack awareness and min.insync.replicas STUDY ANYWHERE: Coffee breaks. Commutes. Lunch hours. Turn dead time into data streaming expertise. Download now. Pass your exam. Master Kafka administration.",
-    "fullDescription": "PASS YOUR CONFLUENT CERTIFIED ADMINISTRATOR FOR APACHE KAFKA EXAM Master data streaming infrastructure with 500+ practice questions covering broker management, security, and cluster operations. 500+ practice questions 5-minute study sessions Track your progress Remove mastered questions Text-to-speech support Dark mode available WHY GET CERTIFIED? Kafka administrators earn up to $165K annually with demand growing 47% year-over-year. Validate your expertise in the streaming platform powering Netflix, LinkedIn, and Uber. WHAT YOU'LL MASTER: Apache Kafka architecture with brokers, partitions, and consumer groups Broker configuration including log retention, segment management, and replication factors Topic management with partition assignment and replica distribution Replication mechanics with ISR, leader election, and unclean leader election SSL/TLS encryption for data in transit with certificate management SASL authentication mechanisms including PLAIN, SCRAM, and GSSAPI ACLs and RBAC for granular authorization and security policies ZooKeeper vs KRaft consensus protocols and migration strategies Kafka Connect distributed mode with connector configuration and transforms Log compaction for maintaining latest state per key JMX metrics and monitoring with under-replicated partitions and lag tracking Cluster troubleshooting including broker failures and network partitions Producer configuration with acks, retries, and idempotence settings Consumer configuration with offset management and rebalancing strategies High availability design with rack awareness and min.insync.replicas STUDY ANYWHERE: Coffee breaks. Commutes. Lunch hours. Turn dead time into data streaming expertise. Download now. Pass your exam. Master Kafka administration.",
-    "summaryDescription": "PASS YOUR CONFLUENT CERTIFIED ADMINISTRATOR FOR APACHE KAFKA EXAM Master data streaming infrastructure with 500+ practice questions covering broker management, security, and cluster operations. 500+ practice questions 5-minute study sessions Track your progress Remove mastered questions Text-to-speech support Dark mode available WHY GET CERTIFIED? Kafka administrators earn up to $165K annually with demand growing 47% year-over-year. Validate your expertise in the streaming platform powering Netflix, LinkedIn, and Uber. WHAT YOU'LL MASTER: Apache Kafka architecture with brokers, partitions, and consumer groups Broker configuration including log retention, segment management, and replication factors Topic management with partition assignment and replica distribution Replication mechanics with ISR, leader election, and unclean leader election SSL/TLS encryption for data in transit with certificate management SASL authentication mechanisms including PLAIN, SCRAM, and GSSAPI ACLs and RBAC for granular authorization and security policies ZooKeeper vs KRaft consensus protocols and migration strategies Kafka Connect distributed mode with connector configuration and transforms Log compaction for maintaining latest state per key JMX metrics and monitoring with under-replicated partitions and lag tracking Cluster troubleshooting including broker failures and network partitions Producer configuration with acks, retries, and idempotence settings Consumer configuration with offset management and rebalancing strategies High availability design with rack awareness and min.insync.replicas STUDY ANYWHERE: Coffee breaks. Commutes. Lunch hours. Turn dead time into data streaming expertise. Download now. Pass your exam. Master Kafka administration.",
+    "description": "通过 APACHE KAFKA 的 CONFLUENT 认证管理员考试 掌握数据流基础架构，包含 500 多个练习题，涵盖代理管理、安全性和集群操作。 500 多个练习题 5 分钟学习课程 跟踪您的进度 删除已掌握的问题 文本转语音支持 提供深色模式 为什么要获得认证？ Kafka 管理员的年收入高达 16.5 万美元，需求同比增长 47%。验证您在为 Netflix、LinkedIn 和 Uber 提供支持的流媒体平台方面的专业知识。您将掌握什么：Apache Kafka 架构，包含代理、分区和",
+    "fullDescription": "通过 APACHE KAFKA 的 CONFLUENT 认证管理员考试 掌握数据流基础架构，包含 500 多个练习题，涵盖代理管理、安全性和集群操作。 500 多个练习题 5 分钟学习课程 跟踪您的进度 删除已掌握的问题 文本转语音支持 提供深色模式 为什么要获得认证？ Kafka 管理员的年收入高达 16.5 万美元，需求同比增长 47%。验证您在为 Netflix、LinkedIn 和 Uber 提供支持的流媒体平台方面的专业知识。您将掌握什么：Apache Kafka 架构，包含代理、分区和",
+    "summaryDescription": "通过 APACHE KAFKA 的 CONFLUENT 认证管理员考试 掌握数据流基础架构，包含 500 多个练习题，涵盖代理管理、安全性和集群操作。 500 多个练习题 5 分钟学习课程 跟踪您的进度 删除已掌握的问题 文本转语音支持 提供深色模式 为什么要获得认证？ Kafka 管理员的年收入高达 16.5 万美元，需求同比增长 47%。验证您在为 Netflix、LinkedIn 和 Uber 提供支持的流媒体平台方面的专业知识。您将掌握什么：Apache Kafka 架构，包含代理、分区和",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/83/1a/01831a77-6f9f-7567-9531-a25e6edd852a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/83/1a/01831a77-6f9f-7567-9531-a25e6edd852a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "Davy Raitt",
@@ -231368,8 +231988,8 @@
     "description": "Device Status⁺ 是一款强大的 Apple 设备信息与系统性能监控工具。实时查看 CPU、内存、存储、电池健康、网络速度、温度、传感器、小组件、灵动岛实时活动和屏幕检测，并通过画中画悬浮窗在使用其他 App 时持续掌握设备状态。 支持 iPhone、iPad、Mac 和 Apple Watch，提供 13+ 款桌面小组件、7 种灵动岛实时活动，以及 iOS 18 控制中心集成。 实时监控 画中画悬浮窗：使用其他 App 时也能监控 CPU、网速和温度 CPU 逐核监控：独立追踪 P 核与 E 核的使用率，配有实时图表 内存与存储：实时使用情况及历史趋势 电池健康：电池容量（mAh）、充电状态、低电量模式、充电功率估算 网络测速：实时上传/下载速度追踪，配有实时曲线图 温度监控：设备温度实时监测 小组件与灵动岛 13+ 款桌面小组件：CPU、内存、存储、电池、网速、蜂窝数据、运行时间、时钟、温度及设备概览 7 种灵动岛实时活动：网速、CPU、逐核 CPU、时钟、温度、GPS 地址和速度计 iOS 18 控制中心小组件：快速查看设备信息和存储状态 屏幕与显示测试 HDR 屏幕测试：纯白场、灰阶渐变、高光对比度、SDR 与 HDR 对比 屏幕技术检测：识别 OLED、LTPO、mini-LED 或 LCD 面板 显示参数：分辨率、像素密度、刷新率、色域、Dolby Vision、ProMotion、原彩显示、亮度（尼特）、对比度、色深及屏幕厂商 网络工具 局域网浏览器：通过 Bonjour 发现网络中的设备（AirPlay、HomeKit、打印机等） DNS 查询、Ping、Whois：完整的网络诊断工具集 蜂窝数据追踪：计费周期监控、每日/每周使用统计、套餐额度及自动重置 诊断日志分析 诊断日志分析器：导入 sysdiagnose 压缩包，浏览硬件组件、芯片详情、电池化学数据、循环次数、存储控制器、内存、网络与崩溃报告 电池日志分析器：导入电池分析日志，查看容量、电芯一致性、续航评分、亮屏时长、电压与温度 全程在设备端完成：日志解析完全离线，不上传任何数据 30+ 传感器检测 检测 LiDAR、UWB、MagSafe、操作按钮、相机控制、全天候显示、卫星 SOS、NFC、双 SIM、Face ID、Touch ID、3D Touch、加速计、陀螺仪、磁力计、气压计、高度计、GPS 和计步器的可用性。 更多工具 PDF 报告导出：生成完整的设备状态报告 GPS 速度计：实时速度显示，配仪表盘界面 多点触控测试：验证屏幕多点触控功能 摄像头与麦克风测试：完整的硬件测试套件 设备运行时间：详细的运行时长信息与分类统计 SIM 卡信息：运营商和 SIM 卡详情 WebView 指纹：浏览器指纹检测 已安装字体：列出所有可用字体 Apple 服务链接：快速访问 Apple 服务页面 隐私至上 所有监控数据与诊断日志仅保存在你的设备上——日志分析完全在本地离线完成，不会上传任何内容。 反馈: makerneo.lab@gmail.com 隐私协议: https://www.joyk.com/en/doc/device-status-privacy.html 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "Device Status⁺ 是一款强大的 Apple 设备信息与系统性能监控工具。实时查看 CPU、内存、存储、电池健康、网络速度、温度、传感器、小组件、灵动岛实时活动和屏幕检测，并通过画中画悬浮窗在使用其他 App 时持续掌握设备状态。 支持 iPhone、iPad、Mac 和 Apple Watch，提供 13+ 款桌面小组件、7 种灵动岛实时活动，以及 iOS 18 控制中心集成。 实时监控 画中画悬浮窗：使用其他 App 时也能监控 CPU、网速和温度 CPU 逐核监控：独立追踪 P 核与 E 核的使用率，配有实时图表 内存与存储：实时使用情况及历史趋势 电池健康：电池容量（mAh）、充电状态、低电量模式、充电功率估算 网络测速：实时上传/下载速度追踪，配有实时曲线图 温度监控：设备温度实时监测 小组件与灵动岛 13+ 款桌面小组件：CPU、内存、存储、电池、网速、蜂窝数据、运行时间、时钟、温度及设备概览 7 种灵动岛实时活动：网速、CPU、逐核 CPU、时钟、温度、GPS 地址和速度计 iOS 18 控制中心小组件：快速查看设备信息和存储状态 屏幕与显示测试 HDR 屏幕测试：纯白场、灰阶渐变、高光对比度、SDR 与 HDR 对比 屏幕技术检测：识别 OLED、LTPO、mini-LED 或 LCD 面板 显示参数：分辨率、像素密度、刷新率、色域、Dolby Vision、ProMotion、原彩显示、亮度（尼特）、对比度、色深及屏幕厂商 网络工具 局域网浏览器：通过 Bonjour 发现网络中的设备（AirPlay、HomeKit、打印机等） DNS 查询、Ping、Whois：完整的网络诊断工具集 蜂窝数据追踪：计费周期监控、每日/每周使用统计、套餐额度及自动重置 诊断日志分析 诊断日志分析器：导入 sysdiagnose 压缩包，浏览硬件组件、芯片详情、电池化学数据、循环次数、存储控制器、内存、网络与崩溃报告 电池日志分析器：导入电池分析日志，查看容量、电芯一致性、续航评分、亮屏时长、电压与温度 全程在设备端完成：日志解析完全离线，不上传任何数据 30+ 传感器检测 检测 LiDAR、UWB、MagSafe、操作按钮、相机控制、全天候显示、卫星 SOS、NFC、双 SIM、Face ID、Touch ID、3D Touch、加速计、陀螺仪、磁力计、气压计、高度计、GPS 和计步器的可用性。 更多工具 PDF 报告导出：生成完整的设备状态报告 GPS 速度计：实时速度显示，配仪表盘界面 多点触控测试：验证屏幕多点触控功能 摄像头与麦克风测试：完整的硬件测试套件 设备运行时间：详细的运行时长信息与分类统计 SIM 卡信息：运营商和 SIM 卡详情 WebView 指纹：浏览器指纹检测 已安装字体：列出所有可用字体 Apple 服务链接：快速访问 Apple 服务页面 隐私至上 所有监控数据与诊断日志仅保存在你的设备上——日志分析完全在本地离线完成，不会上传任何内容。 反馈: makerneo.lab@gmail.com 隐私协议: https://www.joyk.com/en/doc/device-status-privacy.html 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "Device Status⁺ 是一款强大的 Apple 设备信息与系统性能监控工具。实时查看 CPU、内存、存储、电池健康、网络速度、温度、传感器、小组件、灵动岛实时活动和屏幕检测，并通过画中画悬浮窗在使用其他 App 时持续掌握设备状态。 支持 iPhone、iPad、Mac 和 Apple Watch，提供 13+ 款桌面小组件、7 种灵动岛实时活动，以及 iOS 18 控制中心集成。 实时监控 画中画悬浮窗：使用其他 App 时也能监控 CPU、网速和温度 CPU 逐核监控：独立追踪 P 核与 E 核的使用率，配有实时图表 内存与存储：实时使用情况及历史趋势 电池健康：电池容量（mAh）、充电状态、低电量模式、充电功率估算 网络测速：实时上传/下载速度追踪，配有实时曲线图 温度监控：设备温度实时监测 小组件与灵动岛 13+ 款桌面小组件：CPU、内存、存储、电池、网速、蜂窝数据、运行时间、时钟、温度及设备概览 7 种灵动岛实时活动：网速、CPU、逐核 CPU、时钟、温度、GPS 地址和速度计 iOS 18 控制中心小组件：快速查看设备信息和存储状态 屏幕与显示测试 HDR 屏幕测试：纯白场、灰阶渐变、高光对比度、SDR 与 HDR 对比 屏幕技术检测：识别 OLED、LTPO、mini-LED 或 LCD 面板 显示参数：分辨率、像素密度、刷新率、色域、Dolby Vision、ProMotion、原彩显示、亮度（尼特）、对比度、色深及屏幕厂商 网络工具 局域网浏览器：通过 Bonjour 发现网络中的设备（AirPlay、HomeKit、打印机等） DNS 查询、Ping、Whois：完整的网络诊断工具集 蜂窝数据追踪：计费周期监控、每日/每周使用统计、套餐额度及自动重置 诊断日志分析 诊断日志分析器：导入 sysdiagnose 压缩包，浏览硬件组件、芯片详情、电池化学数据、循环次数、存储控制器、内存、网络与崩溃报告 电池日志分析器：导入电池分析日志，查看容量、电芯一致性、续航评分、亮屏时长、电压与温度 全程在设备端完成：日志解析完全离线，不上传任何数据 30+ 传感器检测 检测 LiDAR、UWB、MagSafe、操作按钮、相机控制、全天候显示、卫星 SOS、NFC、双 SIM、Face ID、Touch ID、3D Touch、加速计、陀螺仪、磁力计、气压计、高度计、GPS 和计步器的可用性。 更多工具 PDF 报告导出：生成完整的设备状态报告 GPS 速度计：实时速度显示，配仪表盘界面 多点触控测试：验证屏幕多点触控功能 摄像头与麦克风测试：完整的硬件测试套件 设备运行时间：详细的运行时长信息与分类统计 SIM 卡信息：运营商和 SIM 卡详情 WebView 指纹：浏览器指纹检测 已安装字体：列出所有可用字体 Apple 服务链接：快速访问 Apple 服务页面 隐私至上 所有监控数据与诊断日志仅保存在你的设备上——日志分析完全在本地离线完成，不会上传任何内容。 反馈: makerneo.lab@gmail.com 隐私协议: https://www.joyk.com/en/doc/device-status-privacy.html 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/fa/49/40fa4937-fcf1-124a-ec4a-7cacf41a33fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/fa/49/40fa4937-fcf1-124a-ec4a-7cacf41a33fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/7a/34/cf7a3427-9b59-8327-c76a-a5874a3dfc8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/7a/34/cf7a3427-9b59-8327-c76a-a5874a3dfc8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Space-Time Transformation Technology Co., Ltd.",
     "artistName": "Space-Time Transformation Technology Co., Ltd.",
     "screenshotUrls": [
@@ -236123,8 +236743,8 @@
     "summaryDescription": "CityVoice – The Ultimate Offline Urban Ambience App Experience the sound of the city — anytime, anywhere. No ads, no internet, just pure atmosphere. Features Fully Offline – Enjoy every sound without an internet connection. No Ads or In-App Purchases – Focus on relaxation without distractions. Simple & Intuitive – Designed for everyone, from kids to seniors. Sound Collection We’ve carefully captured the essence of everyday city life — not too noisy, not too quiet, just the perfect balance of human presence and calm. Café – The gentle clatter of dishes, soft chatter, and cozy café ambience. City Streets – Footsteps, conversations, and the pulse of urban rhythm. Highway – Smooth car sounds, perfect for focus or late-night drives. Office – Subtle keyboard clicks and business chatter to sharpen your concentration. School – Nostalgic after-school sounds filled with youthful energy. Perfect For Focusing on study or work Relaxing and clearing your mind Unwinding before sleep Whether you’re on a plane, underground, or offline — CityVoice brings the comforting soundscape of the city wherever you go. Download now and experience your own pocket-sized urban tranquility. Try it on YouTube: https://www.youtube.com/@SceneVoice",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/93/41/71934181-d593-1bd3-8425-4374f146d9b0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/93/41/71934181-d593-1bd3-8425-4374f146d9b0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-    "sellerName": "SINN MIRAI, K.K.",
-    "artistName": "SINN MIRAI, K.K.",
+    "sellerName": "SINN Co,.Ltd",
+    "artistName": "SINN Co.,Ltd",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/f5/d5/ccf5d598-4ceb-2656-6baa-8364b086ed6e/Frame_626192en.jpg/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/75/d5/e675d554-d4ae-37ae-640d-692db86b38f6/Frame_626193en.jpg/320x480bb.jpg",
@@ -240207,6 +240827,14 @@
     "history": [
       [
         {
+          "timestamp": 1789749089946,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789603170031,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -240333,9 +240961,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/english-dictionary-offline/id6761265775?uo=4",
-    "description": "款快速、可靠的离线英语词典同义词专为注重专注、隐私和随时随地完全访问的用户而设计。无广告、无追踪、无干扰。只有纯粹的单词知识。 完整的离线语言工具包库离线完全访问词典与同义词库（ Thesaurus ） 丰富的释义、同义词及词汇关联 真实例句，同义词库轻松掌握单词实际用法 真人音频发音助你准确练习口语 无需依赖网络或外部服务。无论是为了英语考试、扩大词汇量还是日常查词，同义词这都是您最私密、高效的英语学习助手。",
-    "fullDescription": "款快速、可靠的离线英语词典同义词专为注重专注、隐私和随时随地完全访问的用户而设计。无广告、无追踪、无干扰。只有纯粹的单词知识。 完整的离线语言工具包库离线完全访问词典与同义词库（ Thesaurus ） 丰富的释义、同义词及词汇关联 真实例句，同义词库轻松掌握单词实际用法 真人音频发音助你准确练习口语 无需依赖网络或外部服务。无论是为了英语考试、扩大词汇量还是日常查词，同义词这都是您最私密、高效的英语学习助手。",
-    "summaryDescription": "款快速、可靠的离线英语词典同义词专为注重专注、隐私和随时随地完全访问的用户而设计。无广告、无追踪、无干扰。只有纯粹的单词知识。 完整的离线语言工具包库离线完全访问词典与同义词库（ Thesaurus ） 丰富的释义、同义词及词汇关联 真实例句，同义词库轻松掌握单词实际用法 真人音频发音助你准确练习口语 无需依赖网络或外部服务。无论是为了英语考试、扩大词汇量还是日常查词，同义词这都是您最私密、高效的英语学习助手。",
+    "description": "款快速、可靠的离线英语词典，专为注重专注、隐私和随时随地完全访问的用户而设计。无广告、无追踪、无干扰。只有纯粹的单词知识。 完整的离线语言工具包： 离线完全访问词典与同义词库 (Thesaurus) 丰富的释义、同义词及词汇关联 真实例句，轻松掌握单词实际用法 真人音频发音，助你准确练习口语 无需依赖网络或外部服务。无论是为了英语考试、扩大词汇量还是日常查词，这都是您最私密、高效的英语学习助手。",
+    "fullDescription": "款快速、可靠的离线英语词典，专为注重专注、隐私和随时随地完全访问的用户而设计。无广告、无追踪、无干扰。只有纯粹的单词知识。 完整的离线语言工具包： 离线完全访问词典与同义词库 (Thesaurus) 丰富的释义、同义词及词汇关联 真实例句，轻松掌握单词实际用法 真人音频发音，助你准确练习口语 无需依赖网络或外部服务。无论是为了英语考试、扩大词汇量还是日常查词，这都是您最私密、高效的英语学习助手。",
+    "summaryDescription": "款快速、可靠的离线英语词典，专为注重专注、隐私和随时随地完全访问的用户而设计。无广告、无追踪、无干扰。只有纯粹的单词知识。 完整的离线语言工具包： 离线完全访问词典与同义词库 (Thesaurus) 丰富的释义、同义词及词汇关联 真实例句，轻松掌握单词实际用法 真人音频发音，助你准确练习口语 无需依赖网络或外部服务。无论是为了英语考试、扩大词汇量还是日常查词，这都是您最私密、高效的英语学习助手。",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/7c/da/d57cdada-62dd-735d-d025-2c4835c2da3f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/7c/da/d57cdada-62dd-735d-d025-2c4835c2da3f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Yauhen Siarko",
@@ -242612,11 +243240,21 @@
       "NekoAI 简易模式": "¥3.00"
     },
     "minPriceInfo": {
-      "price": 1,
-      "formattedPrice": "¥1.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "NekoAI 简易模式": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789749089946,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "NekoAI 简易模式": "¥3.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778088545187,
@@ -244617,20 +245255,19 @@
     "description": "Postura 帮助你在长时间伏案工作时更好地呵护自己的姿势。 是否厌倦了整天坐在桌前带来的腰背疼痛、颈部酸痛和眼睛疲劳？Postura 用温和、有科学依据的休息提醒，自然融入你的工作日程，帮助你养成更健康的习惯。 为什么选择 Postura？ 长时间的伏案工作会导致驼背、脊柱问题、肩部紧张以及健康状况下降。Postura 是你的私人姿势教练——12 项有针对性的练习和智能提醒，让你全天保持活动、伸展，感觉更舒适。 Postura 能帮你做什么 姿势觉察与温和的姿势检查 眼部休息，包括 20-20-20 法则 颈部、肩部和上身伸展 简短的活动与站立提醒 用于专注与放松的简单呼吸时刻 进展与洞察 Postura 帮助你保持坚持，又不会让你感到负担。 你可以查看每日活动，追踪每周和每月的趋势，看看你的习惯如何随时间演变。 每日习惯完成情况 每周和每月概览 全年坚持度追踪 连续记录与温和的进展反馈 灵活的日程安排 Postura 会顺应你的工作日，而不是打断它。 设置你的工作时间 选择活动日 调整提醒的频率与强度 达成目标时自动暂停 个性化与设计 Postura 的设计旨在带来平静、专注和个人化的感受。 多种配色主题 浅色、深色和跟随系统模式 简洁、无干扰的界面 主屏幕小组件 活跃习惯小组件：一眼掌握今天的进展 每周活动柱状图（Pro） 活动热力图网格（Pro） 完成习惯时自动更新 隐私优先 你的数据属于你自己。 无需账户 所有数据存储在你的设备上 可选的匿名分析 没有广告，没有追踪 Postura 并非医疗应用，也不提供医疗建议。 它旨在支持一般健康和健康的伏案习惯。 养成更健康的姿势习惯——每次一个温和的提醒。 本应用使用 Apple 的标准最终用户许可协议（EULA）。 使用条款（EULA） https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "Postura 帮助你在长时间伏案工作时更好地呵护自己的姿势。 是否厌倦了整天坐在桌前带来的腰背疼痛、颈部酸痛和眼睛疲劳？Postura 用温和、有科学依据的休息提醒，自然融入你的工作日程，帮助你养成更健康的习惯。 为什么选择 Postura？ 长时间的伏案工作会导致驼背、脊柱问题、肩部紧张以及健康状况下降。Postura 是你的私人姿势教练——12 项有针对性的练习和智能提醒，让你全天保持活动、伸展，感觉更舒适。 Postura 能帮你做什么 姿势觉察与温和的姿势检查 眼部休息，包括 20-20-20 法则 颈部、肩部和上身伸展 简短的活动与站立提醒 用于专注与放松的简单呼吸时刻 进展与洞察 Postura 帮助你保持坚持，又不会让你感到负担。 你可以查看每日活动，追踪每周和每月的趋势，看看你的习惯如何随时间演变。 每日习惯完成情况 每周和每月概览 全年坚持度追踪 连续记录与温和的进展反馈 灵活的日程安排 Postura 会顺应你的工作日，而不是打断它。 设置你的工作时间 选择活动日 调整提醒的频率与强度 达成目标时自动暂停 个性化与设计 Postura 的设计旨在带来平静、专注和个人化的感受。 多种配色主题 浅色、深色和跟随系统模式 简洁、无干扰的界面 主屏幕小组件 活跃习惯小组件：一眼掌握今天的进展 每周活动柱状图（Pro） 活动热力图网格（Pro） 完成习惯时自动更新 隐私优先 你的数据属于你自己。 无需账户 所有数据存储在你的设备上 可选的匿名分析 没有广告，没有追踪 Postura 并非医疗应用，也不提供医疗建议。 它旨在支持一般健康和健康的伏案习惯。 养成更健康的姿势习惯——每次一个温和的提醒。 本应用使用 Apple 的标准最终用户许可协议（EULA）。 使用条款（EULA） https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "Postura 帮助你在长时间伏案工作时更好地呵护自己的姿势。 是否厌倦了整天坐在桌前带来的腰背疼痛、颈部酸痛和眼睛疲劳？Postura 用温和、有科学依据的休息提醒，自然融入你的工作日程，帮助你养成更健康的习惯。 为什么选择 Postura？ 长时间的伏案工作会导致驼背、脊柱问题、肩部紧张以及健康状况下降。Postura 是你的私人姿势教练——12 项有针对性的练习和智能提醒，让你全天保持活动、伸展，感觉更舒适。 Postura 能帮你做什么 姿势觉察与温和的姿势检查 眼部休息，包括 20-20-20 法则 颈部、肩部和上身伸展 简短的活动与站立提醒 用于专注与放松的简单呼吸时刻 进展与洞察 Postura 帮助你保持坚持，又不会让你感到负担。 你可以查看每日活动，追踪每周和每月的趋势，看看你的习惯如何随时间演变。 每日习惯完成情况 每周和每月概览 全年坚持度追踪 连续记录与温和的进展反馈 灵活的日程安排 Postura 会顺应你的工作日，而不是打断它。 设置你的工作时间 选择活动日 调整提醒的频率与强度 达成目标时自动暂停 个性化与设计 Postura 的设计旨在带来平静、专注和个人化的感受。 多种配色主题 浅色、深色和跟随系统模式 简洁、无干扰的界面 主屏幕小组件 活跃习惯小组件：一眼掌握今天的进展 每周活动柱状图（Pro） 活动热力图网格（Pro） 完成习惯时自动更新 隐私优先 你的数据属于你自己。 无需账户 所有数据存储在你的设备上 可选的匿名分析 没有广告，没有追踪 Postura 并非医疗应用，也不提供医疗建议。 它旨在支持一般健康和健康的伏案习惯。 养成更健康的姿势习惯——每次一个温和的提醒。 本应用使用 Apple 的标准最终用户许可协议（EULA）。 使用条款（EULA） https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/dc/68/f3dc6837-6f88-4171-9ec2-142c8fffe421/PosturaCoral-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/dc/68/f3dc6837-6f88-4171-9ec2-142c8fffe421/PosturaCoral-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/64/d0/5164d07d-bb2c-3f54-f2c2-602b6edc1add/PosturaCoral-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/64/d0/5164d07d-bb2c-3f54-f2c2-602b6edc1add/PosturaCoral-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Burak Tunc",
     "artistName": "Burak Tunc",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/f3/09/73f30938-4aaa-2d7a-ada8-eb5f04d5654a/2.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/19/fd/af19fd78-626c-99fe-8246-1c5ef7c46410/3.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/84/f0/1184f07b-9685-9981-5cef-5aa54ba82d15/4.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/5f/29/205f29b6-91a3-d211-73a4-1dbcda91b7f9/0.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/37/c9/8937c911-cf44-f4a6-5196-8a34ad7ec5b6/1.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/3d/3b/a63d3bb8-a4e5-f47f-2533-fc508450abf4/7.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/9e/5e/c09e5ef6-39d4-e029-dab2-527a8c65e94f/5.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/fc/dd/45fcdd0e-659f-73c2-5d52-fe36045afabb/6.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/f6/cc/b8f6cc69-83a6-3b0b-3079-3490d143c16a/widgetsPostura.jpeg/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/eb/6e/9beb6e06-3d30-3455-1ce5-8144b57d048d/01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/3b/21/7a3b21e1-3780-2d63-074f-3c58810f8580/02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/98/4e/89984e03-cc44-3e8d-3de5-744ea59146ec/03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/b6/c3/21b6c35e-cf38-a4e8-cfca-ac239cabbd4f/04.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/c9/a6/2cc9a69b-0f6e-0b97-af67-cde4f600fde3/05.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/72/c0/3972c053-f8a3-8d38-af7b-469c2d464ebe/06.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/d8/91/e8d891dd-2c44-eacd-875a-0cf62a83d31d/07.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/de/64/f7de6480-5a4b-45f7-b085-a95d749de1a1/08.png/320x480bb.jpg"
     ],
     "_externalSource": "OODATA",
     "_externalSourceFirstSeen": 1775800658495
@@ -248698,442 +249335,6 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/22/6e/3e226eae-a721-89fc-4351-a288d84d8dbe/Frame_4.jpg/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/e7/6c/6be76ca7-eb98-3dcd-3426-1c0f1494639e/Frame_5.jpg/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/db/2e/5cdb2e80-1e77-dc3b-6112-ac25117ebc56/Frame_6.jpg/320x480bb.jpg"
-    ],
-    "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1775960662326
-  },
-  "6761065525": {
-    "name": "RoxPacer: Hyrox Race Pacer",
-    "trackName": "RoxPacer: Hyrox Race Pacer",
-    "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "RoxPacer Race Mode": "¥48.00"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "RoxPacer Race Mode": "¥48.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1775960662372,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {
-            "RoxPacer Race Mode": "¥48.00"
-          }
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/roxpacer-hyrox-race-pacer/id6761065525?uo=4",
-    "description": "RoxPacer builds your personal Hyrox race plan from 92,000+ real athlete splits. Every run. Every station. Tuned to your division, your strengths, and your goal time. Sync to Apple Watch and race with live countdown pacing, cumulative delta tracking, and heart rate zones. Know exactly where you stand at every segment. No spreadsheets. No guessing. Just a plan built on real data — and a watch app that keeps you on pace. FEATURES Personalized split plans for all 16 segments (8 runs + 8 stations) Built from 92,000+ real Hyrox race results Progressive run fatigue and station-order fatigue modelling Apple Watch app with live countdown pacing Cumulative delta tracking — always know if you're ahead or behind Heart rate zone monitoring during race All divisions: Open Men/Women, Pro Men/Women, Doubles Division-specific equipment weights and distances Smart goal time suggestions based on your profile Training mode for between-race practice sessions Post-race breakdown with segment-by-segment analysis Race-day reminders and notification system One-time purchase — no subscription, ever",
-    "fullDescription": "RoxPacer builds your personal Hyrox race plan from 92,000+ real athlete splits. Every run. Every station. Tuned to your division, your strengths, and your goal time. Sync to Apple Watch and race with live countdown pacing, cumulative delta tracking, and heart rate zones. Know exactly where you stand at every segment. No spreadsheets. No guessing. Just a plan built on real data — and a watch app that keeps you on pace. FEATURES Personalized split plans for all 16 segments (8 runs + 8 stations) Built from 92,000+ real Hyrox race results Progressive run fatigue and station-order fatigue modelling Apple Watch app with live countdown pacing Cumulative delta tracking — always know if you're ahead or behind Heart rate zone monitoring during race All divisions: Open Men/Women, Pro Men/Women, Doubles Division-specific equipment weights and distances Smart goal time suggestions based on your profile Training mode for between-race practice sessions Post-race breakdown with segment-by-segment analysis Race-day reminders and notification system One-time purchase — no subscription, ever",
-    "summaryDescription": "RoxPacer builds your personal Hyrox race plan from 92,000+ real athlete splits. Every run. Every station. Tuned to your division, your strengths, and your goal time. Sync to Apple Watch and race with live countdown pacing, cumulative delta tracking, and heart rate zones. Know exactly where you stand at every segment. No spreadsheets. No guessing. Just a plan built on real data — and a watch app that keeps you on pace. FEATURES Personalized split plans for all 16 segments (8 runs + 8 stations) Built from 92,000+ real Hyrox race results Progressive run fatigue and station-order fatigue modelling Apple Watch app with live countdown pacing Cumulative delta tracking — always know if you're ahead or behind Heart rate zone monitoring during race All divisions: Open Men/Women, Pro Men/Women, Doubles Division-specific equipment weights and distances Smart goal time suggestions based on your profile Training mode for between-race practice sessions Post-race breakdown with segment-by-segment analysis Race-day reminders and notification system One-time purchase — no subscription, ever",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/33/37/fe33379d-9efc-ed6a-1df2-44be9cfc650b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/33/37/fe33379d-9efc-ed6a-1df2-44be9cfc650b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-    "sellerName": "Desmond Augier de Moussac",
-    "artistName": "Desmond Augier de Moussac",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/f0/a6/56f0a65f-cc2b-222f-1c41-3679ec16cf79/RoxPacer_App_Store_Screenshot__U00282_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/a8/76/57a87657-800c-86c2-02b5-276a9842a9df/RoxPacer_Live_Splits.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/9c/34/1a9c3410-fba4-df42-b8b8-c62906eb202b/RoxPacer_App_Store_Screenshot__U00283_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/43/ca/9843caf5-b694-8954-990a-acbed037dc28/RoxPacer_App_Store_Screenshot__U00285_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/a9/6d/9ea96d67-9756-8939-fbbd-013bc7fb0277/RoxPacer_App_Store_Screenshot__U00284_U0029.png/320x480bb.jpg"
-    ],
-    "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1775960662326
-  },
-  "6755165065": {
-    "name": "Domistiq - Family Organizer",
-    "trackName": "Domistiq - Family Organizer",
-    "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "Yearly with early bird discount": "¥298.00",
-      "Weekly subscription": "¥15.00",
-      "Monthly subscription for Domistiq": "¥28.00",
-      "Yearly": "¥598.00",
-      "Monthly": "¥58.00",
-      "Weekly": "¥22.00"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "Yearly with early bird discount": "¥298.00",
-      "Weekly subscription": "¥15.00",
-      "Monthly subscription for Domistiq": "¥28.00",
-      "Yearly": "¥598.00",
-      "Monthly": "¥58.00",
-      "Weekly": "¥22.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1779362471724,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {
-            "Yearly with early bird discount": "¥298.00",
-            "Weekly subscription": "¥15.00",
-            "Monthly subscription for Domistiq": "¥28.00",
-            "Yearly": "¥598.00",
-            "Monthly": "¥58.00",
-            "Weekly": "¥22.00"
-          }
-        }
-      ],
-      [
-        {
-          "timestamp": 1775960662372,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/domistiq-family-organizer/id6755165065?uo=4",
-    "description": "Tired of the daily chaos? The endless \"Did you do your chores?\" loop? The forgotten soccer practice because someone didn't sync the calendar? The mystery meat that somehow survived longer than expected? Domistiq is the family chore chart, calendar, and AI planner that actually makes life easier – and dare we say, fun. One Calendar to Rule Them All Sync effortlessly with Google Calendar and Apple Calendar. Every family member sees the same up-to-date schedule on their phone, tablet, or that well-worn kitchen iPad everyone gravitates toward. Birthdays, dentist appointments, school concerts, date nights, soccer tournaments, piano recitals – no more \"Wait, was that today?!\" moments. Chores That Don't Feel Like Punishment Create recurring tasks on fixed dates (\"Trash every Monday\") or intervals (\"Water plants every 3 days\"). Assign them to anyone – your 8-year-old, your teenager who \"forgot,\" your partner who swears they did it last time, or even rotate automatically for fairness. Set gentle (or firm) notifications so things actually get done. When a chore is completed? Points rain down like confetti. Gamification That Turns Kids Into Heroes (and Parents Into Less Stressed Humans) Every completed task = points. Watch the family leaderboard heat up with some good-natured rivalry: \"How is Mia beating me in dishes?!\" Build streaks (\"10 days of perfect homework hand-ins!\"), unlock hilarious badges like \"Sock-Folding Sensei,\" \"Dish Duty Dynamo,\" \"Bed-Making Boss,\" or \"Fridge-Tidying Titan.\" Level up profiles and feel that rush of progress. Redeem points for real rewards you set: extra screen time, a later bedtime, picking Friday's dinner, allowance boosts, or that new LEGO set they've been eyeing. Motivation without the nagging – magic. AI That Reads Your Life and Acts on It Forward an email from the teacher about the bake sale? Domistiq adds the event and maybe even a \"Buy ingredients\" chore. Screenshot a permission slip, club flyer, or birthday invite? Calendar entry created in seconds. Snap a photo of that yogurt or chicken with the \"use by\" date? Expiration reminder set so nobody plays food roulette. Press the mic and say \"Add guitar lesson Thursday at 5\" or \"Mark laundry done by Ethan\" → handled instantly. The AI parses emails (with attachments), images, screenshots, and voice notes to create events, chores, mark completions, or set smart reminders. Less typing, more family time. School Integration That Saves Sanity Automatically pull in school events, bell schedules, and cafeteria menus. See what's for lunch so you can prep the \"I hate pizza day\" backup sandwich. Homework due dates, field trips, spirit week dress-up themes – all synced into your family calendar. No more last-minute scrambles or \"The email said WHAT?!\" Built for How Real Families Actually Live Multiple family accounts with real-time sync across all devices. Perfect for the shared kitchen iPad where everyone checks the day's plan over breakfast. One person adds an event or completes a chore? Everyone sees it instantly. No duplicates, no confusion, just harmony (well, as close as families get). Privacy Is Non-Negotiable Your family's calendar, chores, points, and photos stay private. We never share data with third parties – never have, never will. No ads mining your info. Just a clean, trustworthy app focused on helping families, not profiting off them. Your shared photos are deleted after processing with AI. Why Families Are Choosing Domistiq Turns chore battles into epic leaderboard showdowns Replaces the paper chore chart Makes kids excited to contribute (yes, really) Gives parents back hours of mental bandwidth Brings the whole family closer – one completed task and confetti explosion at a time This app comes with a free 7 day trial, after which a subscription is required. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "fullDescription": "Tired of the daily chaos? The endless \"Did you do your chores?\" loop? The forgotten soccer practice because someone didn't sync the calendar? The mystery meat that somehow survived longer than expected? Domistiq is the family chore chart, calendar, and AI planner that actually makes life easier – and dare we say, fun. One Calendar to Rule Them All Sync effortlessly with Google Calendar and Apple Calendar. Every family member sees the same up-to-date schedule on their phone, tablet, or that well-worn kitchen iPad everyone gravitates toward. Birthdays, dentist appointments, school concerts, date nights, soccer tournaments, piano recitals – no more \"Wait, was that today?!\" moments. Chores That Don't Feel Like Punishment Create recurring tasks on fixed dates (\"Trash every Monday\") or intervals (\"Water plants every 3 days\"). Assign them to anyone – your 8-year-old, your teenager who \"forgot,\" your partner who swears they did it last time, or even rotate automatically for fairness. Set gentle (or firm) notifications so things actually get done. When a chore is completed? Points rain down like confetti. Gamification That Turns Kids Into Heroes (and Parents Into Less Stressed Humans) Every completed task = points. Watch the family leaderboard heat up with some good-natured rivalry: \"How is Mia beating me in dishes?!\" Build streaks (\"10 days of perfect homework hand-ins!\"), unlock hilarious badges like \"Sock-Folding Sensei,\" \"Dish Duty Dynamo,\" \"Bed-Making Boss,\" or \"Fridge-Tidying Titan.\" Level up profiles and feel that rush of progress. Redeem points for real rewards you set: extra screen time, a later bedtime, picking Friday's dinner, allowance boosts, or that new LEGO set they've been eyeing. Motivation without the nagging – magic. AI That Reads Your Life and Acts on It Forward an email from the teacher about the bake sale? Domistiq adds the event and maybe even a \"Buy ingredients\" chore. Screenshot a permission slip, club flyer, or birthday invite? Calendar entry created in seconds. Snap a photo of that yogurt or chicken with the \"use by\" date? Expiration reminder set so nobody plays food roulette. Press the mic and say \"Add guitar lesson Thursday at 5\" or \"Mark laundry done by Ethan\" → handled instantly. The AI parses emails (with attachments), images, screenshots, and voice notes to create events, chores, mark completions, or set smart reminders. Less typing, more family time. School Integration That Saves Sanity Automatically pull in school events, bell schedules, and cafeteria menus. See what's for lunch so you can prep the \"I hate pizza day\" backup sandwich. Homework due dates, field trips, spirit week dress-up themes – all synced into your family calendar. No more last-minute scrambles or \"The email said WHAT?!\" Built for How Real Families Actually Live Multiple family accounts with real-time sync across all devices. Perfect for the shared kitchen iPad where everyone checks the day's plan over breakfast. One person adds an event or completes a chore? Everyone sees it instantly. No duplicates, no confusion, just harmony (well, as close as families get). Privacy Is Non-Negotiable Your family's calendar, chores, points, and photos stay private. We never share data with third parties – never have, never will. No ads mining your info. Just a clean, trustworthy app focused on helping families, not profiting off them. Your shared photos are deleted after processing with AI. Why Families Are Choosing Domistiq Turns chore battles into epic leaderboard showdowns Replaces the paper chore chart Makes kids excited to contribute (yes, really) Gives parents back hours of mental bandwidth Brings the whole family closer – one completed task and confetti explosion at a time This app comes with a free 7 day trial, after which a subscription is required. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "summaryDescription": "Tired of the daily chaos? The endless \"Did you do your chores?\" loop? The forgotten soccer practice because someone didn't sync the calendar? The mystery meat that somehow survived longer than expected? Domistiq is the family chore chart, calendar, and AI planner that actually makes life easier – and dare we say, fun. One Calendar to Rule Them All Sync effortlessly with Google Calendar and Apple Calendar. Every family member sees the same up-to-date schedule on their phone, tablet, or that well-worn kitchen iPad everyone gravitates toward. Birthdays, dentist appointments, school concerts, date nights, soccer tournaments, piano recitals – no more \"Wait, was that today?!\" moments. Chores That Don't Feel Like Punishment Create recurring tasks on fixed dates (\"Trash every Monday\") or intervals (\"Water plants every 3 days\"). Assign them to anyone – your 8-year-old, your teenager who \"forgot,\" your partner who swears they did it last time, or even rotate automatically for fairness. Set gentle (or firm) notifications so things actually get done. When a chore is completed? Points rain down like confetti. Gamification That Turns Kids Into Heroes (and Parents Into Less Stressed Humans) Every completed task = points. Watch the family leaderboard heat up with some good-natured rivalry: \"How is Mia beating me in dishes?!\" Build streaks (\"10 days of perfect homework hand-ins!\"), unlock hilarious badges like \"Sock-Folding Sensei,\" \"Dish Duty Dynamo,\" \"Bed-Making Boss,\" or \"Fridge-Tidying Titan.\" Level up profiles and feel that rush of progress. Redeem points for real rewards you set: extra screen time, a later bedtime, picking Friday's dinner, allowance boosts, or that new LEGO set they've been eyeing. Motivation without the nagging – magic. AI That Reads Your Life and Acts on It Forward an email from the teacher about the bake sale? Domistiq adds the event and maybe even a \"Buy ingredients\" chore. Screenshot a permission slip, club flyer, or birthday invite? Calendar entry created in seconds. Snap a photo of that yogurt or chicken with the \"use by\" date? Expiration reminder set so nobody plays food roulette. Press the mic and say \"Add guitar lesson Thursday at 5\" or \"Mark laundry done by Ethan\" → handled instantly. The AI parses emails (with attachments), images, screenshots, and voice notes to create events, chores, mark completions, or set smart reminders. Less typing, more family time. School Integration That Saves Sanity Automatically pull in school events, bell schedules, and cafeteria menus. See what's for lunch so you can prep the \"I hate pizza day\" backup sandwich. Homework due dates, field trips, spirit week dress-up themes – all synced into your family calendar. No more last-minute scrambles or \"The email said WHAT?!\" Built for How Real Families Actually Live Multiple family accounts with real-time sync across all devices. Perfect for the shared kitchen iPad where everyone checks the day's plan over breakfast. One person adds an event or completes a chore? Everyone sees it instantly. No duplicates, no confusion, just harmony (well, as close as families get). Privacy Is Non-Negotiable Your family's calendar, chores, points, and photos stay private. We never share data with third parties – never have, never will. No ads mining your info. Just a clean, trustworthy app focused on helping families, not profiting off them. Your shared photos are deleted after processing with AI. Why Families Are Choosing Domistiq Turns chore battles into epic leaderboard showdowns Replaces the paper chore chart Makes kids excited to contribute (yes, really) Gives parents back hours of mental bandwidth Brings the whole family closer – one completed task and confetti explosion at a time This app comes with a free 7 day trial, after which a subscription is required. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a1/ff/56a1ff86-528c-35c2-42f8-7c14d133465c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a1/ff/56a1ff86-528c-35c2-42f8-7c14d133465c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-    "sellerName": "Youtilitics",
-    "artistName": "Youtilitics",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/f9/31/abf9313e-dc99-2392-dee2-eaacfb6801ba/0-microphone.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/47/bf/3347bfad-56fa-ebed-47dc-2e8cd96114fb/1-week.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/cd/15/d5cd15fa-7106-e7ae-6ae4-f3b1e16b49b1/2-weekend.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/ed/a0/22eda035-bd68-16f3-5dda-0a3db76a27b4/3-chores.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/c5/6d/6dc56ddb-30c5-9d6d-6a86-aa15ef3356ec/4-family.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/0b/ed/d60bed8b-0183-29a1-4deb-ba71dfc04127/5-rewards.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/61/d3/b161d345-9d34-69d8-bfbe-97f43db87e36/6-leaderboard.png/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/48/97/5f489792-45e6-1564-c508-9a0f45bfdd01/0-microphone.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/8d/df/898ddf6e-c608-0c8c-0b84-89979300c306/1-week.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/3e/39/a93e39da-d75a-fb5c-13bd-c17d8cf39990/4-family.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/17/1e/36171e78-bc18-c503-c519-3289cd9f1272/5-rewards.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/f4/e5/1cf4e5cb-fe48-fe06-8672-18d0336701d3/6-leaderboard.png/360x480bb.jpg"
-    ],
-    "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1775960662326
-  },
-  "6673917090": {
-    "name": "MindHint - 犹豫时刻的答案之书",
-    "trackName": "MindHint - 犹豫时刻的答案之书",
-    "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "MindHint 完整版": "¥15.00"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "MindHint 完整版": "¥15.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1776093353165,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {
-            "MindHint 完整版": "¥15.00"
-          }
-        }
-      ],
-      [
-        {
-          "timestamp": 1775960662372,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/mindhint-%E7%8A%B9%E8%B1%AB%E6%97%B6%E5%88%BB%E7%9A%84%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6/id6673917090?uo=4",
-    "description": "MindHint 不是来给你答案的。 当你面临选择、停顿，或某个还无法命名的感受时——把问题放进心里。按住中央按钮。等待。 一个提示出现了。不是告诉你该怎么做，而是给你一个表面，让你终于能听见自己已经知道的。 ——— 在这个版本中，Kairos 来了。 Kairos 是 MindHint 中心的面孔。当你持续按住问题时，它会改变——等待、倾听、专注、担忧、释然。它不说话。它见证。 Kairos 的每一种状态都是不同质地的在场。有些仪式感觉像是一起等待。另一些像是某件事即将变得清晰的前一刻。 ——— 当提示出现，MindHint 只问一个问题：什么先动了？ 你感到了一种释然？ 还是某种抗拒？ 那个第一反应——在你解释自己之前的那个——才是真正的信号。MindHint 将它记录为「时间标记」。 一个时间标记包含三件事：你的问题（如果有的话）、提示，以及你内心第一个被触动的东西。不是答案，是某一刻诚实的记录。 ——— 随着时间推移，你的时间标记会积累。 24 小时后，MindHint 会问事情进展如何。七天之后，规律开始浮现——你倾向于抗拒什么，你其实一直在悄悄走向哪里。 归档不是日记。回顾不是仪表盘。它们是你留给自己的证据。 ——— 前 5 次仪式免费。 如果你在其中找到了价值，一次性解锁完整版——无订阅，无续费。 ——— MindHint 被设计为一台安静运转的机器。它不推动你，也不安慰你。它站在你身旁，记录你此刻所在的时刻。 这不是答案。 这是时间里的一个标记。",
-    "fullDescription": "MindHint 不是来给你答案的。 当你面临选择、停顿，或某个还无法命名的感受时——把问题放进心里。按住中央按钮。等待。 一个提示出现了。不是告诉你该怎么做，而是给你一个表面，让你终于能听见自己已经知道的。 ——— 在这个版本中，Kairos 来了。 Kairos 是 MindHint 中心的面孔。当你持续按住问题时，它会改变——等待、倾听、专注、担忧、释然。它不说话。它见证。 Kairos 的每一种状态都是不同质地的在场。有些仪式感觉像是一起等待。另一些像是某件事即将变得清晰的前一刻。 ——— 当提示出现，MindHint 只问一个问题：什么先动了？ 你感到了一种释然？ 还是某种抗拒？ 那个第一反应——在你解释自己之前的那个——才是真正的信号。MindHint 将它记录为「时间标记」。 一个时间标记包含三件事：你的问题（如果有的话）、提示，以及你内心第一个被触动的东西。不是答案，是某一刻诚实的记录。 ——— 随着时间推移，你的时间标记会积累。 24 小时后，MindHint 会问事情进展如何。七天之后，规律开始浮现——你倾向于抗拒什么，你其实一直在悄悄走向哪里。 归档不是日记。回顾不是仪表盘。它们是你留给自己的证据。 ——— 前 5 次仪式免费。 如果你在其中找到了价值，一次性解锁完整版——无订阅，无续费。 ——— MindHint 被设计为一台安静运转的机器。它不推动你，也不安慰你。它站在你身旁，记录你此刻所在的时刻。 这不是答案。 这是时间里的一个标记。",
-    "summaryDescription": "MindHint 不是来给你答案的。 当你面临选择、停顿，或某个还无法命名的感受时——把问题放进心里。按住中央按钮。等待。 一个提示出现了。不是告诉你该怎么做，而是给你一个表面，让你终于能听见自己已经知道的。 ——— 在这个版本中，Kairos 来了。 Kairos 是 MindHint 中心的面孔。当你持续按住问题时，它会改变——等待、倾听、专注、担忧、释然。它不说话。它见证。 Kairos 的每一种状态都是不同质地的在场。有些仪式感觉像是一起等待。另一些像是某件事即将变得清晰的前一刻。 ——— 当提示出现，MindHint 只问一个问题：什么先动了？ 你感到了一种释然？ 还是某种抗拒？ 那个第一反应——在你解释自己之前的那个——才是真正的信号。MindHint 将它记录为「时间标记」。 一个时间标记包含三件事：你的问题（如果有的话）、提示，以及你内心第一个被触动的东西。不是答案，是某一刻诚实的记录。 ——— 随着时间推移，你的时间标记会积累。 24 小时后，MindHint 会问事情进展如何。七天之后，规律开始浮现——你倾向于抗拒什么，你其实一直在悄悄走向哪里。 归档不是日记。回顾不是仪表盘。它们是你留给自己的证据。 ——— 前 5 次仪式免费。 如果你在其中找到了价值，一次性解锁完整版——无订阅，无续费。 ——— MindHint 被设计为一台安静运转的机器。它不推动你，也不安慰你。它站在你身旁，记录你此刻所在的时刻。 这不是答案。 这是时间里的一个标记。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f0/99/17f099c1-19ad-3e72-6547-ae4418ea05b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f0/99/17f099c1-19ad-3e72-6547-ae4418ea05b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "sellerName": "志炯 陈",
-    "artistName": "志炯 陈",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/07/a1/cc07a1d3-0a78-74b3-1ed3-a09224292bf9/MindHint_Preview_01_CN.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/58/fb/2358fb00-cd75-2385-d0ce-c85f3c7efc57/MindHint_Preview_02_CN.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/18/57/d51857c3-e1d9-e5f7-e69b-18580d1b9451/MindHint_Preview_03_CN.png/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/6a/e3/ac6ae3c7-27bc-4b6b-7d90-68f92c9c3762/MindHint_Preview_iPad_01_CN.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/bf/6c/60bf6ccb-7eb6-3f2a-71b1-cc4894b98aee/MindHint_Preview_iPad_02_CN.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/6d/85/7c6d8502-764c-7d73-622a-0eee08219b7a/MindHint_Preview_iPad_03_CN.png/360x480bb.jpg"
-    ],
-    "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1775960662326
-  },
-  "6737988336": {
-    "name": "Hours Clocker: Ai Time Tracker",
-    "trackName": "Hours Clocker: Ai Time Tracker",
-    "maxPriceInfo": {
-      "price": 48,
-      "formattedPrice": "¥48.00"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1788885831302,
-          "price": 28,
-          "formattedPrice": "¥28.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1788371892499,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1778260512139,
-          "price": 28,
-          "formattedPrice": "¥28.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1778121518687,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1777564061515,
-          "price": 22,
-          "formattedPrice": "¥22.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1777430477157,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1776465423467,
-          "price": 48,
-          "formattedPrice": "¥48.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1775960662372,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/hours-clocker-ai-time-tracker/id6737988336?uo=4",
-    "description": "Hours Clocker is the most advanced and intuitive time tracking application designed for freelancers, contractors, and hourly workers. Say goodbye to manual data entry and messy spreadsheets. With powerful AI features and professional invoicing, Hours Clocker handles the busy work so you can focus on what you do best. AI SMART IMPORT Revolutionize how you track time. Use the camera to scan paper timesheets, or import PDFs and images directly. Our advanced AI automatically extracts shifts, breaks, and notes, converting them into digital entries in seconds. It is like having a personal assistant for your timesheets. PROFESSIONAL INVOICING Create beautiful, itemized PDF invoices right from your phone. Customize them with your company logo, set your rates, and share them directly with clients. Support for overtime rates, tax calculations, and pay periods ensures every penny is accounted for. POWERFUL REPORTING Gain deep insights into your earnings. View detailed breakdowns by day, week, or month. Sort your logs by date, hours, pay, tax, or tips to analyze your income trends. Export your data to CSV or JSON for seamless integration with other tools. FLEXIBLE TIME TRACKING Track time your way. Use the live timer on the job, or add shifts manually at the end of the day. Support for multiple jobs means you can keep separate profiles for different clients, each with their own rates and settings. CALENDAR SYNC Keep your schedule organized by automatically syncing your work shifts to your device calendar. Never lose track of when you worked. PRIVATE AND SECURE Your data belongs to you. Hours Clocker stores all your data locally on your device. We do not track your location or sell your data. Export and backup your data anytime. Features: Live Timer and Manual Entry AI-Powered Text, File, and Camera Import PDF Invoice Generation CSV and JSON Data Export Comprehensive Reports with Charts Support for Overtime, Tips, and Taxes Multiple Job Profiles Calendar Synchronization Clean, Modern Interface Dark Mode Support Optimize your productivity and take control of your time with Hours Clocker.",
-    "fullDescription": "Hours Clocker is the most advanced and intuitive time tracking application designed for freelancers, contractors, and hourly workers. Say goodbye to manual data entry and messy spreadsheets. With powerful AI features and professional invoicing, Hours Clocker handles the busy work so you can focus on what you do best. AI SMART IMPORT Revolutionize how you track time. Use the camera to scan paper timesheets, or import PDFs and images directly. Our advanced AI automatically extracts shifts, breaks, and notes, converting them into digital entries in seconds. It is like having a personal assistant for your timesheets. PROFESSIONAL INVOICING Create beautiful, itemized PDF invoices right from your phone. Customize them with your company logo, set your rates, and share them directly with clients. Support for overtime rates, tax calculations, and pay periods ensures every penny is accounted for. POWERFUL REPORTING Gain deep insights into your earnings. View detailed breakdowns by day, week, or month. Sort your logs by date, hours, pay, tax, or tips to analyze your income trends. Export your data to CSV or JSON for seamless integration with other tools. FLEXIBLE TIME TRACKING Track time your way. Use the live timer on the job, or add shifts manually at the end of the day. Support for multiple jobs means you can keep separate profiles for different clients, each with their own rates and settings. CALENDAR SYNC Keep your schedule organized by automatically syncing your work shifts to your device calendar. Never lose track of when you worked. PRIVATE AND SECURE Your data belongs to you. Hours Clocker stores all your data locally on your device. We do not track your location or sell your data. Export and backup your data anytime. Features: Live Timer and Manual Entry AI-Powered Text, File, and Camera Import PDF Invoice Generation CSV and JSON Data Export Comprehensive Reports with Charts Support for Overtime, Tips, and Taxes Multiple Job Profiles Calendar Synchronization Clean, Modern Interface Dark Mode Support Optimize your productivity and take control of your time with Hours Clocker.",
-    "summaryDescription": "Hours Clocker is the most advanced and intuitive time tracking application designed for freelancers, contractors, and hourly workers. Say goodbye to manual data entry and messy spreadsheets. With powerful AI features and professional invoicing, Hours Clocker handles the busy work so you can focus on what you do best. AI SMART IMPORT Revolutionize how you track time. Use the camera to scan paper timesheets, or import PDFs and images directly. Our advanced AI automatically extracts shifts, breaks, and notes, converting them into digital entries in seconds. It is like having a personal assistant for your timesheets. PROFESSIONAL INVOICING Create beautiful, itemized PDF invoices right from your phone. Customize them with your company logo, set your rates, and share them directly with clients. Support for overtime rates, tax calculations, and pay periods ensures every penny is accounted for. POWERFUL REPORTING Gain deep insights into your earnings. View detailed breakdowns by day, week, or month. Sort your logs by date, hours, pay, tax, or tips to analyze your income trends. Export your data to CSV or JSON for seamless integration with other tools. FLEXIBLE TIME TRACKING Track time your way. Use the live timer on the job, or add shifts manually at the end of the day. Support for multiple jobs means you can keep separate profiles for different clients, each with their own rates and settings. CALENDAR SYNC Keep your schedule organized by automatically syncing your work shifts to your device calendar. Never lose track of when you worked. PRIVATE AND SECURE Your data belongs to you. Hours Clocker stores all your data locally on your device. We do not track your location or sell your data. Export and backup your data anytime. Features: Live Timer and Manual Entry AI-Powered Text, File, and Camera Import PDF Invoice Generation CSV and JSON Data Export Comprehensive Reports with Charts Support for Overtime, Tips, and Taxes Multiple Job Profiles Calendar Synchronization Clean, Modern Interface Dark Mode Support Optimize your productivity and take control of your time with Hours Clocker.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/09/b6/4109b666-e01c-46b1-c949-3fd37662b717/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/09/b6/4109b666-e01c-46b1-c949-3fd37662b717/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
-    "sellerName": "Anass Damri",
-    "artistName": "Anass Damri",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/8a/a2/518aa2e4-da3c-a26c-4c9e-2e3483b323ee/6_1-Frame-en-1.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/17/9c/48179c08-48a4-5bd8-5aee-390e164c2e03/6_1-Frame-en-4.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/6b/15/306b15ee-cce4-de1c-407c-ad4d2b9056ab/6_1-Frame-en-5.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/a0/ad/b0a0ad29-3550-5210-c508-21379966390d/6_1-Frame-en-2.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/a7/4d/38a74db9-4f6b-0ed8-7874-e2231018f3cc/6_1-Frame-en-6.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/5f/b6/e75fb639-db89-9dfc-33cb-fdc1918018a0/6_1-Frame-en-3.jpg/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/39/04/513904c6-d056-2b81-b7cc-b4a99c54a18e/iPad_5.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/25/da/7725da01-8a02-d8e1-b60b-1b34ec72a980/iPad_3.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/68/da/fb68da3b-0434-7104-7606-925dc77fb649/iPad_2.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/85/b8/6985b8e2-d537-322e-ef34-92e19348b9ad/iPad_4.jpg/360x480bb.jpg"
-    ],
-    "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1775960662326
-  },
-  "6760476803": {
-    "name": "HelloPass",
-    "trackName": "HelloPass",
-    "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1780240650768,
-          "price": 38,
-          "formattedPrice": "¥38.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1778424687392,
-          "price": 8,
-          "formattedPrice": "¥8.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1778149410825,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1776004752745,
-          "price": 8,
-          "formattedPrice": "¥8.00",
-          "inAppPurchases": {}
-        },
-        {
-          "timestamp": 1775960662372,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/hellopass/id6760476803?uo=4",
-    "description": "Your business card, always in your pocket. HelloPass lets you create stunning digital business cards and share your contact details in seconds — no paper, no scanning apps, no hassle. Whether you're at a conference, a meeting, or just making a connection, HelloPass makes sure you're always ready. Design a Card That's Uniquely You Choose from six professionally designed templates — Minimal, Bold, Gradient, Glass, Classic, and Photo. Customize your colors, add your profile photo, set a background image, and link all your social profiles. Want something that really stands out? Enable the holographic overlay for a premium finish. Always Accessible in Apple Wallet Add your card directly to Apple Wallet and it's a tap away — even on your Apple Watch. No app needed on the other end. Share Any Way You Want Show your QR code to be scanned straight into iPhone Contacts Send your vCard via AirDrop, Messages, or Mail Recipients get a full contact with your photo, details, and social links — ready to save Everything You Need Multiple cards — personal, professional, freelance LinkedIn, Instagram, X, GitHub, TikTok, YouTube, and more Full name, title, company, email, phone, and website Dark mode support Say goodbye to paper cards. Download HelloPass and make a better first impression.",
-    "fullDescription": "Your business card, always in your pocket. HelloPass lets you create stunning digital business cards and share your contact details in seconds — no paper, no scanning apps, no hassle. Whether you're at a conference, a meeting, or just making a connection, HelloPass makes sure you're always ready. Design a Card That's Uniquely You Choose from six professionally designed templates — Minimal, Bold, Gradient, Glass, Classic, and Photo. Customize your colors, add your profile photo, set a background image, and link all your social profiles. Want something that really stands out? Enable the holographic overlay for a premium finish. Always Accessible in Apple Wallet Add your card directly to Apple Wallet and it's a tap away — even on your Apple Watch. No app needed on the other end. Share Any Way You Want Show your QR code to be scanned straight into iPhone Contacts Send your vCard via AirDrop, Messages, or Mail Recipients get a full contact with your photo, details, and social links — ready to save Everything You Need Multiple cards — personal, professional, freelance LinkedIn, Instagram, X, GitHub, TikTok, YouTube, and more Full name, title, company, email, phone, and website Dark mode support Say goodbye to paper cards. Download HelloPass and make a better first impression.",
-    "summaryDescription": "Your business card, always in your pocket. HelloPass lets you create stunning digital business cards and share your contact details in seconds — no paper, no scanning apps, no hassle. Whether you're at a conference, a meeting, or just making a connection, HelloPass makes sure you're always ready. Design a Card That's Uniquely You Choose from six professionally designed templates — Minimal, Bold, Gradient, Glass, Classic, and Photo. Customize your colors, add your profile photo, set a background image, and link all your social profiles. Want something that really stands out? Enable the holographic overlay for a premium finish. Always Accessible in Apple Wallet Add your card directly to Apple Wallet and it's a tap away — even on your Apple Watch. No app needed on the other end. Share Any Way You Want Show your QR code to be scanned straight into iPhone Contacts Send your vCard via AirDrop, Messages, or Mail Recipients get a full contact with your photo, details, and social links — ready to save Everything You Need Multiple cards — personal, professional, freelance LinkedIn, Instagram, X, GitHub, TikTok, YouTube, and more Full name, title, company, email, phone, and website Dark mode support Say goodbye to paper cards. Download HelloPass and make a better first impression.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/1a/9c/5c1a9c9a-3145-b74f-c649-1fa4bd02ebaf/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/1a/9c/5c1a9c9a-3145-b74f-c649-1fa4bd02ebaf/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
-    "sellerName": "Dustin Olsen",
-    "artistName": "Dustin Olsen",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/7c/ce/9e7cce75-393f-8354-5b62-4900233c5ae5/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-01_at_10.56.19.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/c7/45/a5c745b7-bf67-8d1d-ec34-9c85174c885b/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-01_at_10.56.56.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/88/28/ae882820-a16d-ff7b-c40c-791bb477b7b7/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-01_at_10.55.46.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/eb/16/86eb163c-74a2-46f7-f143-f6bce8ae5529/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-01_at_11.43.17.png/320x480bb.jpg"
-    ],
-    "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1775960662326
-  },
-  "6759185988": {
-    "name": "Pixel Bowling",
-    "trackName": "Pixel Bowling",
-    "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1775960662372,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/pixel-bowling/id6759185988?uo=4",
-    "description": "走到车道上。 Pixel Bowling 是一款复古风格的保龄球游戏，具有简单的滑动控制、令人满意的保龄球物理效果以及让您流连忘返的一切。瞄准你的射门，设定你的力量，朝你想要球移动的方向滑动。每卷都感觉不同——每一个备用都让人感觉值得。生涯模式将带您从小镇联赛到全国舞台，跨越 15 个锦标赛和 5 个地点。赢得比赛，提升排名，并一路解锁新球。 Daily Bowl 每天为您提供一场比赛。追踪您的连胜纪录，追逐最好成绩，看看您在 Game Center 排行榜上的排名如何。曲",
-    "fullDescription": "走到车道上。 Pixel Bowling 是一款复古风格的保龄球游戏，具有简单的滑动控制、令人满意的保龄球物理效果以及让您流连忘返的一切。瞄准你的射门，设定你的力量，朝你想要球移动的方向滑动。每卷都感觉不同——每一个备用都让人感觉值得。生涯模式将带您从小镇联赛到全国舞台，跨越 15 个锦标赛和 5 个地点。赢得比赛，提升排名，并一路解锁新球。 Daily Bowl 每天为您提供一场比赛。追踪您的连胜纪录，追逐最好成绩，看看您在 Game Center 排行榜上的排名如何。曲",
-    "summaryDescription": "走到车道上。 Pixel Bowling 是一款复古风格的保龄球游戏，具有简单的滑动控制、令人满意的保龄球物理效果以及让您流连忘返的一切。瞄准你的射门，设定你的力量，朝你想要球移动的方向滑动。每卷都感觉不同——每一个备用都让人感觉值得。生涯模式将带您从小镇联赛到全国舞台，跨越 15 个锦标赛和 5 个地点。赢得比赛，提升排名，并一路解锁新球。 Daily Bowl 每天为您提供一场比赛。追踪您的连胜纪录，追逐最好成绩，看看您在 Game Center 排行榜上的排名如何。曲",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/0d/bf/be0dbfe9-690d-53cd-f099-4367e5c9b147/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/0d/bf/be0dbfe9-690d-53cd-f099-4367e5c9b147/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-    "sellerName": "adam rogan",
-    "artistName": "adam rogan",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/38/77/9b3877fc-4a5e-0ffb-8d0c-9fad5590d73d/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-02-14_at_22.02.00_iphone65_portrait.png/300x650bb.webp",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/43/29/e24329fa-3e19-98b8-1612-d0a4f94f5901/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-02-14_at_22.04.09_iphone65_portrait.png/300x650bb.webp",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/fd/70/1bfd7045-7f8c-9315-0380-3a4e805b9cb6/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-02-14_at_22.03.02_iphone65_portrait.png/300x650bb.webp",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/d4/63/acd46382-9b2d-f132-4eab-07377c806dd5/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-02-14_at_22.02.53_iphone65_portrait.png/300x650bb.webp",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/61/1f/94611fe7-b4f3-1971-5c51-5e741685c2f6/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-02-14_at_22.03.18_iphone65_portrait.png/300x650bb.webp"
-    ],
-    "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1775960662326
-  },
-  "6593668928": {
-    "name": "LunarLander!",
-    "trackName": "LunarLander!",
-    "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1775960662372,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/lunarlander/id6593668928?uo=4",
-    "description": "Instructions The player controls The Eagle a lunar landing module, viewed from the side, and attempts to land safely on the Moon. The player can rotate the module with buttons on screen (Left and right) or by joystick MFI compatible. The player also can burn fuel to fire a thruster with button on screen or by joystick trigger MFI compatible. Attempt to gently land on marked areas with bonus factor. The scenario resets after every successful landing or crash, until no fuel remains. The player starts with 450 units of fuel, every time the Eagle is landed the player wins score and fuel. When the FUEL RUNS OUT the module cannot use propulsion. WATCH the fuel! Score and fuel rewards 50 perfect landing. 40 soft landing. 30 normal landing. 20 hard landing. Enjoy!",
-    "fullDescription": "Instructions The player controls The Eagle a lunar landing module, viewed from the side, and attempts to land safely on the Moon. The player can rotate the module with buttons on screen (Left and right) or by joystick MFI compatible. The player also can burn fuel to fire a thruster with button on screen or by joystick trigger MFI compatible. Attempt to gently land on marked areas with bonus factor. The scenario resets after every successful landing or crash, until no fuel remains. The player starts with 450 units of fuel, every time the Eagle is landed the player wins score and fuel. When the FUEL RUNS OUT the module cannot use propulsion. WATCH the fuel! Score and fuel rewards 50 perfect landing. 40 soft landing. 30 normal landing. 20 hard landing. Enjoy!",
-    "summaryDescription": "Instructions The player controls The Eagle a lunar landing module, viewed from the side, and attempts to land safely on the Moon. The player can rotate the module with buttons on screen (Left and right) or by joystick MFI compatible. The player also can burn fuel to fire a thruster with button on screen or by joystick trigger MFI compatible. Attempt to gently land on marked areas with bonus factor. The scenario resets after every successful landing or crash, until no fuel remains. The player starts with 450 units of fuel, every time the Eagle is landed the player wins score and fuel. When the FUEL RUNS OUT the module cannot use propulsion. WATCH the fuel! Score and fuel rewards 50 perfect landing. 40 soft landing. 30 normal landing. 20 hard landing. Enjoy!",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/a1/d2/8fa1d296-c91a-0327-f106-0d276ca0e915/AppIcon-1x_U007epad-0-0-85-220-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/a1/d2/8fa1d296-c91a-0327-f106-0d276ca0e915/AppIcon-1x_U007epad-0-0-85-220-0.png/100x100bb.jpg",
-    "sellerName": "Ivan Cerra de Castro",
-    "artistName": "Ivan Cerra de Castro",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/15/9d/69159d73-fdca-0052-9a70-ea83c3e73ecd/4a0bfd78-08bd-4b25-90e5-9211b81ebec7_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2024-08-03_at_05.48.09.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/df/25/31df2501-6890-de45-e526-b0226ada3e7f/cd1e6b0f-4d72-4ba5-a211-11c1ffab72ec_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2024-08-03_at_05.48.46.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/ec/6f/41ec6f60-e089-b3a7-832c-1a1233f527c0/4a1eafb4-007d-4ccd-b365-d4a5896de31b_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2024-08-03_at_05.48.33.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/80/49/3580491f-36fc-662a-6b4e-e9e6e59f5dba/c6e0992f-ea0c-4b87-9aa3-5d7b4daa4e72_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2024-08-03_at_05.48.51.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/43/17/0c43173e-3d75-5f6a-894f-8fc545082863/a406d0cd-ea4a-49b3-9c4f-1d031f9092f2_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2024-08-03_at_05.48.11.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/5c/25/ec5c2553-e8f6-873c-c430-91edde0fe8eb/d03e1a1b-6f1b-4e2f-8652-be6535c6fa59_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2024-08-03_at_05.49.17.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/36/87/5236876d-c079-f698-c400-84681adf3480/c872fcfc-ffcb-4465-985e-2e21fdd280e1_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2024-08-03_at_05.49.40.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/1f/51/271f51b6-2402-33ff-e1c4-b37acf21f8e2/bac4a843-1fc7-4e04-a7b6-305989b25b66_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2024-08-03_at_05.49.47.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/d7/09/d3d709a1-6da1-1914-8765-80bb6346de28/cdbd93a3-9619-4403-9176-d800580c6841_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2024-08-03_at_05.47.52.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/70/36/54703688-421f-e3cd-1da2-236c468839b6/d9e7e8ff-cbcf-4b64-ac43-e3f55c7188c6_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2024-08-03_at_05.48.03.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/71/15/f2711575-6353-9122-c291-5d02ff59e136/add948d4-d568-4132-a70b-4cdfab319327_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-08-03_at_05.55.47.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/f5/e1/0ef5e1d3-e63e-9f03-086d-01fba5c898ae/4f1d58ab-0a79-412d-9cb5-1759b4ec08a7_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-08-03_at_05.55.56.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/b2/b2/68b2b2bc-cb36-9fd5-06a7-805c63a79a28/c76f7731-37d8-47c3-956a-1ebe2bf265f8_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-08-03_at_05.56.14.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/53/23/4a532331-3ae4-6a36-e12e-393c3d25e38f/ab005127-8299-4a7e-a35e-5ae4bb9c4ac3_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-08-03_at_05.57.00.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/d1/f3/d0d1f385-cb8e-552c-199b-01d4e0bd9448/3f241a84-2ee8-42f0-a22b-fbda86df9dc0_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-08-03_at_05.57.02.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/95/0a/70950a28-8cac-31ba-0b9c-3648f9f253a4/e5d979ab-c325-411c-bc21-788130a679e1_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-08-03_at_05.57.22.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/db/82/2fdb829f-ea55-a309-1a14-fa6e71026443/ebf7af2b-784c-41e6-8494-501efa49a371_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-08-03_at_05.57.38.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/42/d7/2442d732-459a-f9f8-3847-67df45831ff0/ad4b150d-2cc2-46ad-94c9-040c8c7cd050_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-08-03_at_05.55.41.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/6b/e4/2e6be4ba-87bf-ab08-7da2-024dd4e5f8be/ba3963bf-00cd-472b-b0fb-70431ab4e9ab_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-08-03_at_05.56.30.png/576x768bb.png"
     ],
     "_externalSource": "OODATA",
     "_externalSourceFirstSeen": 1775960662326

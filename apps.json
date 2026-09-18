@@ -2,6 +2,412 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 518324358,
+      "name": {
+        "cn": "Tamilgram"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "app"
+    },
+    {
+      "id": 525719546,
+      "name": {
+        "cn": "Infection Control Pocketbook"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749039312,
+      "_discountType": "app"
+    },
+    {
+      "id": 677853493,
+      "name": {
+        "cn": "Memento: Days Countdown Widget"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 692019406,
+      "name": {
+        "cn": "詩吟トレーナー「吟トレ」"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749031185,
+      "_discountType": "app"
+    },
+    {
+      "id": 1459200300,
+      "name": {
+        "cn": "RxHero - Master Top 250 Drugs"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749039312,
+      "_discountType": "app"
+    },
+    {
+      "id": 1469611330,
+      "name": {
+        "cn": "Block Dashboard"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749031185,
+      "_discountType": "app"
+    },
+    {
+      "id": 1664999484,
+      "name": {
+        "cn": "Map My Food"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807617009,
+      "name": {
+        "cn": "文鉴"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749022401,
+      "_discountType": "app"
+    },
+    {
+      "id": 6745105828,
+      "name": {
+        "cn": "Ontario - Parks & Trails"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749025510,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809150319,
+      "name": {
+        "cn": "Tap3Call"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749028343,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788779820,
+      "name": {
+        "cn": "하늘필름"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749028580,
+      "_discountType": "app"
+    },
+    {
+      "id": 6744303917,
+      "name": {
+        "cn": "Video Scrubber Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749028580,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808682240,
+      "name": {
+        "cn": "PicDiary—你的专属照片日记"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749033730,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799619926,
+      "name": {
+        "cn": "家庭管家-购物清单"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749033730,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798607003,
+      "name": {
+        "cn": "无鸦睡眠 - 打呼噜检测"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749033848,
+      "_discountType": "app"
+    },
+    {
+      "id": 6791016895,
+      "name": {
+        "cn": "顺风车记账"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789749036611,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760577967,
+      "name": {
+        "cn": "LiveMoment：视频转实况&动态壁纸&提取高清照片"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6472909469,
+      "name": {
+        "cn": "OneMovie - Films & Séries"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6803437794,
+      "name": {
+        "cn": "Picin - 无界相册漫游与拍立得壁纸"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6782642814,
+      "name": {
+        "cn": "DoneSnap: Photo Task Planner"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6758652819,
+      "name": {
+        "cn": "Quit It: Quit Smoking For Good"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6804678990,
+      "name": {
+        "cn": "Dayshift: Team Time Zones"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6758913526,
+      "name": {
+        "cn": "Tiny Streaks: Reward Chart"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761124905,
+      "name": {
+        "cn": "Up in the Air: Flight Journal"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6781672445,
+      "name": {
+        "cn": "Summon: Meeting Alerts"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6760605954,
+      "name": {
+        "cn": "Aksara Bali: Balinese Keyboard"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6780452012,
+      "name": {
+        "cn": "Even: Folder Sync"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6779773273,
+      "name": {
+        "cn": "Retag: Music Tag Editor"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6808148947,
+      "name": {
+        "cn": "Since - Last Done"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797533385,
+      "name": {
+        "cn": "静谧时钟"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6748456831,
+      "name": {
+        "cn": "无事清单"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6443774728,
+      "name": {
+        "cn": "AnyKiosk: Display Signage"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757123568,
+      "name": {
+        "cn": "Klin: Resize & Compress Video"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6451136297,
+      "name": {
+        "cn": "Numbers: Place Value Chart"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6791018993,
+      "name": {
+        "cn": "Hantu Line"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6773780219,
+      "name": {
+        "cn": "Calcbar: Menu Bar Calculator"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789749089865,
+      "_discountType": "app"
+    },
+    {
       "id": 690096401,
       "name": {
         "cn": "Amme - 母乳喂养追踪"
@@ -12667,7 +13073,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1787286994364,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 1481960751,
@@ -16315,7 +16722,8 @@
       "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSourceFirstSeen": 1786594156168,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6764478472,
