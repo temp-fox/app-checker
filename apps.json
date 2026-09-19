@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 431058916,
+      "name": {
+        "cn": "Mango IRC"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789769775848,
+      "_discountType": "app"
+    },
+    {
       "id": 518324358,
       "name": {
         "cn": "Tamilgram"
@@ -10,7 +21,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "app"
     },
     {
@@ -21,7 +32,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749039312,
+      "_externalSourceFirstSeen": 1789769786485,
       "_discountType": "app"
     },
     {
@@ -32,7 +43,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -43,7 +54,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749031185,
+      "_externalSourceFirstSeen": 1789769780041,
       "_discountType": "app"
     },
     {
@@ -54,7 +65,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749039312,
+      "_externalSourceFirstSeen": 1789769786485,
       "_discountType": "app"
     },
     {
@@ -65,7 +76,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749031185,
+      "_externalSourceFirstSeen": 1789769780041,
       "_discountType": "app"
     },
     {
@@ -77,7 +88,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "app"
     },
     {
@@ -88,7 +99,18 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749022401,
+      "_externalSourceFirstSeen": 1789769773710,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796430204,
+      "name": {
+        "cn": "海拔猴-海拔、天气与季节一屏掌握"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789769775833,
       "_discountType": "app"
     },
     {
@@ -99,18 +121,51 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749025510,
+      "_externalSourceFirstSeen": 1789769775833,
       "_discountType": "app"
     },
     {
-      "id": 6809150319,
+      "id": 6763529227,
       "name": {
-        "cn": "Tap3Call"
+        "cn": "小白学跳绳"
       },
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749028343,
+      "_externalSourceFirstSeen": 1789769775826,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757855175,
+      "name": {
+        "cn": "计算达人"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789769777937,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798105091,
+      "name": {
+        "cn": "OneDollar: To Do List"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789769777937,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762075126,
+      "name": {
+        "cn": "一个好闹钟 - 极简闹钟、排班、自定义闹钟"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789769777937,
       "_discountType": "app"
     },
     {
@@ -121,7 +176,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749028580,
+      "_externalSourceFirstSeen": 1789769777906,
       "_discountType": "app"
     },
     {
@@ -132,7 +187,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749028580,
+      "_externalSourceFirstSeen": 1789769777906,
       "_discountType": "app"
     },
     {
@@ -143,7 +198,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749033730,
+      "_externalSourceFirstSeen": 1789769782389,
       "_discountType": "app"
     },
     {
@@ -154,7 +209,18 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749033730,
+      "_externalSourceFirstSeen": 1789769782389,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760895614,
+      "name": {
+        "cn": "MechClick"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789769782389,
       "_discountType": "app"
     },
     {
@@ -165,7 +231,18 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749033848,
+      "_externalSourceFirstSeen": 1789769782129,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807249187,
+      "name": {
+        "cn": "腕温经期助手 - watch腕温预测经期姨妈来了吗"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789769782129,
       "_discountType": "app"
     },
     {
@@ -176,7 +253,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789749036611,
+      "_externalSourceFirstSeen": 1789769784458,
       "_discountType": "app"
     },
     {
@@ -187,7 +264,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -198,7 +275,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -209,7 +286,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -220,18 +297,18 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
       "id": 6758652819,
       "name": {
-        "cn": "Quit It: Quit Smoking For Good"
+        "cn": "Quit It: Stop Smoking Tracker"
       },
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -242,7 +319,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -253,7 +330,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -264,7 +341,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -275,7 +352,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -286,7 +363,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -297,7 +374,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -308,7 +385,7 @@
       "addType": "external",
       "addSource": "OODATA",
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "iap"
     },
     {
@@ -320,7 +397,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "app"
     },
     {
@@ -332,7 +409,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "app"
     },
     {
@@ -344,7 +421,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "app"
     },
     {
@@ -356,7 +433,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "app"
     },
     {
@@ -368,7 +445,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "app"
     },
     {
@@ -380,7 +457,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "app"
     },
     {
@@ -392,7 +469,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "app"
     },
     {
@@ -404,7 +481,7 @@
       "addSource": "OODATA",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
-      "_externalSourceFirstSeen": 1789749089865,
+      "_externalSourceFirstSeen": 1789769828613,
       "_discountType": "app"
     },
     {

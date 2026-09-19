@@ -1,10 +1,10 @@
 [
   {
-    "timestamp": 1789769539303,
+    "timestamp": 1789779355032,
     "cn": {
-      "total": 44,
-      "price": 33,
-      "iap": 11,
+      "total": 53,
+      "price": 39,
+      "iap": 14,
       "apps": [
         {
           "id": 6762471483,
@@ -19,6 +19,18 @@
           "detail": "¥38.00 → 免费"
         },
         {
+          "id": 6760863263,
+          "name": "Habit Tracker Daily Routine+",
+          "type": "price",
+          "detail": "¥148.00 → 免费"
+        },
+        {
+          "id": 6796784687,
+          "name": "US Debt & World - EconoLive",
+          "type": "price",
+          "detail": "¥148.00 → 免费"
+        },
+        {
           "id": 1634967005,
           "name": "Time to Paste",
           "type": "price",
@@ -31,6 +43,12 @@
           "detail": "Yearly Plan: ¥88.00 → ¥38.00"
         },
         {
+          "id": 1579159150,
+          "name": "ScoreBoard用于OBS直播",
+          "type": "price",
+          "detail": "¥148.00 → ¥68.00"
+        },
+        {
           "id": 6777342711,
           "name": "QR Code Studio",
           "type": "price",
@@ -41,6 +59,12 @@
           "name": "花見动态壁纸 - 6000+精选4K动态壁纸",
           "type": "price",
           "detail": "¥12.00 → 免费"
+        },
+        {
+          "id": 6792522995,
+          "name": "Shift Plan Reminder",
+          "type": "price",
+          "detail": "¥148.00 → ¥58.00"
         },
         {
           "id": 6797827645,
@@ -109,6 +133,12 @@
           "detail": "¥38.00 → 免费"
         },
         {
+          "id": 6781190371,
+          "name": "Private LLM Chat: PocketMind",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
           "id": 6780442576,
           "name": "Ollie Timer: 温馨专注计时器",
           "type": "price",
@@ -145,6 +175,18 @@
           "detail": "Monthly: ¥38.00 → ¥28.00"
         },
         {
+          "id": 6760224165,
+          "name": "AppLauncherPro",
+          "type": "iap",
+          "detail": "Premium Features: ¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6758919297,
+          "name": "ScreenVault",
+          "type": "iap",
+          "detail": "ScreenVault Pro: ¥15.00 → ¥8.00"
+        },
+        {
           "id": 6759757438,
           "name": "Pixel – 90s 8Bit Retro Camera",
           "type": "price",
@@ -169,8 +211,14 @@
           "detail": "¥1.00 → 免费"
         },
         {
+          "id": 6759844607,
+          "name": "Focus Grove - Pomodoro Timer",
+          "type": "price",
+          "detail": "¥148.00 → 免费"
+        },
+        {
           "id": 6758738495,
-          "name": "Confluent CCAAK Kafka Admin",
+          "name": "CCAAK Kafka Admin Exam Prep",
           "type": "price",
           "detail": "¥57.00 → 免费"
         },
@@ -185,6 +233,12 @@
           "name": "Audio Toolbox",
           "type": "price",
           "detail": "¥28.00 → ¥15.00"
+        },
+        {
+          "id": 6755378157,
+          "name": "QRwizard",
+          "type": "iap",
+          "detail": "QRwizard Pro: ¥8.00 → ¥3.00"
         },
         {
           "id": 6755927582,
@@ -3195,34 +3249,6 @@
           "name": "Postura: 体态教练",
           "type": "iap",
           "detail": "Postura Pro - Lifetime: ¥128.00 → ¥88.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788908366947,
-    "cn": {
-      "total": 3,
-      "price": 3,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6478513576,
-          "name": "Simple Tracker App",
-          "type": "price",
-          "detail": "¥8.00 → ¥3.00"
-        },
-        {
-          "id": 6791314222,
-          "name": "啊啊啊-大声喊出来的声控解压神器",
-          "type": "price",
-          "detail": "¥3.00 → 免费"
-        },
-        {
-          "id": 1113710065,
-          "name": "gldMix: Personal Monitor Mixer",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
         }
       ]
     }
