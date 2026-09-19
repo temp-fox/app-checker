@@ -1,5 +1,123 @@
 [
   {
+    "timestamp": 1789854709953,
+    "cn": {
+      "total": 18,
+      "price": 14,
+      "iap": 4,
+      "apps": [
+        {
+          "id": 6803437794,
+          "name": "Picin - 无界相册漫游与拍立得壁纸",
+          "type": "iap",
+          "detail": "PicIn-Pro: ¥18.00 → ¥0.00"
+        },
+        {
+          "id": 6792556839,
+          "name": "Dun",
+          "type": "iap",
+          "detail": "Dun Pro Yearly: ¥328.00 → ¥199.00"
+        },
+        {
+          "id": 6792556839,
+          "name": "Dun",
+          "type": "iap",
+          "detail": "Dun Pro Weekly: ¥58.00 → ¥16.00"
+        },
+        {
+          "id": 6792556839,
+          "name": "Dun",
+          "type": "iap",
+          "detail": "Dun Pro Monthly: ¥98.00 → ¥32.80"
+        },
+        {
+          "id": 6446178861,
+          "name": "PlayNav - 影片内无广告！",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6450979125,
+          "name": "PDF编辑器：保护隐私，离线处理",
+          "type": "price",
+          "detail": "¥6.00 → 免费"
+        },
+        {
+          "id": 6771666690,
+          "name": "GIF Aura",
+          "type": "price",
+          "detail": "¥22.00 → ¥8.00"
+        },
+        {
+          "id": 6738437515,
+          "name": "Deep - 睡眠声音与放松",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 1668660596,
+          "name": "특허 몬스터",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6741071388,
+          "name": "ID Photo: Passport Photo",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6759767113,
+          "name": "小飞船大冒险",
+          "type": "price",
+          "detail": "¥18.00 → ¥12.00"
+        },
+        {
+          "id": 6758578526,
+          "name": "You Got This! Workout Tracker",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6760210637,
+          "name": "路上么",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6756318437,
+          "name": "Image Converter!",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6754370946,
+          "name": "Imgify: Batch Image Converter",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6756028875,
+          "name": "Eventual Calendar",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6757115174,
+          "name": "Sticker Maker Keyboard",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        },
+        {
+          "id": 6444528802,
+          "name": "食音-超解压的美食白噪音软件",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789832292285,
     "cn": {
       "total": 8,
@@ -3227,130 +3345,6 @@
           "name": "JPG Optimizer PRO",
           "type": "price",
           "detail": "¥28.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788984176408,
-    "cn": {
-      "total": 19,
-      "price": 13,
-      "iap": 6,
-      "apps": [
-        {
-          "id": 6795150955,
-          "name": "MomentCat",
-          "type": "price",
-          "detail": "¥6.00 → 免费"
-        },
-        {
-          "id": 6787381856,
-          "name": "Magic Cutout-智能抠图",
-          "type": "iap",
-          "detail": "Upgrade to premium: ¥4.50 → ¥0.00"
-        },
-        {
-          "id": 6760733319,
-          "name": "Quite Goofy Explorer",
-          "type": "iap",
-          "detail": "Lifetime Unlock: ¥38.00 → ¥8.00"
-        },
-        {
-          "id": 6802565793,
-          "name": "我不想当班主任-班主任工作台&教师工作台&班级管理",
-          "type": "price",
-          "detail": "¥38.00 → ¥8.00"
-        },
-        {
-          "id": 573445641,
-          "name": "Recorder Pro: Voice Recorder",
-          "type": "iap",
-          "detail": "Yearly Plan: ¥88.00 → ¥38.00"
-        },
-        {
-          "id": 1492013825,
-          "name": "Mocol长截图 - 聊天记录长截屏拼接工具",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6779943310,
-          "name": "无相测光表 - 专业摄影测光工具",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 6757250780,
-          "name": "Clean Gallery: 智能清理",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6757885519,
-          "name": "Fasting Space",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 6760660711,
-          "name": "Vintage Rhythm Machine Console",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 1205413164,
-          "name": "易经 - 变化之书",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1576118042,
-          "name": "Rhymelo",
-          "type": "iap",
-          "detail": "Unlock All Rhymes: ¥28.00 → ¥0.00"
-        },
-        {
-          "id": 6757496457,
-          "name": "Postura: 体态教练",
-          "type": "iap",
-          "detail": "Monthly: ¥38.00 → ¥15.00"
-        },
-        {
-          "id": 6757496457,
-          "name": "Postura: 体态教练",
-          "type": "iap",
-          "detail": "Annual: ¥58.00 → ¥38.00"
-        },
-        {
-          "id": 1242808815,
-          "name": "TimeSignal Alarm clock",
-          "type": "price",
-          "detail": "¥3.00 → ¥1.00"
-        },
-        {
-          "id": 583822799,
-          "name": "My PaintBrush Pro: 画画和照片编辑",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 719309903,
-          "name": "Tempo Counter",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 834235298,
-          "name": "决战坠落方块 - 反重力向上玩",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 604756608,
-          "name": "Photo Eraser",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
         }
       ]
     }
