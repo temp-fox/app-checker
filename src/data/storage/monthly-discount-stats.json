@@ -1208,6 +1208,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1612783783": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1613019131": {
       "all": 1,
       "price": 1,
@@ -1292,6 +1297,13 @@
       "inAppPurchase": {
         "Yearly": 2,
         "Monthly": 2
+      }
+    },
+    "1662217862": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Filtr": 1
       }
     },
     "1664999484": {
@@ -1502,9 +1514,11 @@
       }
     },
     "6761543554": {
-      "all": 1,
+      "all": 2,
       "price": 1,
-      "inAppPurchase": {}
+      "inAppPurchase": {
+        "升级高级会员": 1
+      }
     },
     "6504203696": {
       "all": 2,
@@ -3740,6 +3754,35 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6782011794": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime Access": 1
+      }
+    },
+    "6787752157": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6766937146": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6747143838": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6757452982": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "一饭一会 终身会员": 1
+      }
     }
   }
 }
