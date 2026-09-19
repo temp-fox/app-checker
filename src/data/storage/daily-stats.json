@@ -1,5 +1,105 @@
 [
   {
+    "timestamp": 1789818238425,
+    "cn": {
+      "total": 15,
+      "price": 11,
+      "iap": 4,
+      "apps": [
+        {
+          "id": 6797013343,
+          "name": "BingBang: Daily Companion",
+          "type": "price",
+          "detail": "¥15.00 → ¥9.90"
+        },
+        {
+          "id": 6779839534,
+          "name": "悟道 - 读老子，悟真道",
+          "type": "price",
+          "detail": "¥8.00 → ¥6.00"
+        },
+        {
+          "id": 6780707108,
+          "name": "简单词典",
+          "type": "price",
+          "detail": "¥12.00 → 免费"
+        },
+        {
+          "id": 6758005069,
+          "name": "Blanc Note",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6758871228,
+          "name": "Unsnooze: Alarm Clock",
+          "type": "iap",
+          "detail": "Unsooze Pro (Lifetime): ¥398.00 → ¥8.00"
+        },
+        {
+          "id": 6761258120,
+          "name": "Mobile MA",
+          "type": "iap",
+          "detail": "Unlimited: ¥168.00 → ¥68.00"
+        },
+        {
+          "id": 6746710260,
+          "name": "To do cards by Frido",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 1539244235,
+          "name": "元素周期表：化学方程式与3D分子模型",
+          "type": "iap",
+          "detail": "Chemistry Pro 终身: ¥48.00 → ¥38.00"
+        },
+        {
+          "id": 6502426413,
+          "name": "血压：追踪器",
+          "type": "iap",
+          "detail": "Lifetime: ¥1,998.00 → ¥798.00"
+        },
+        {
+          "id": 6758560753,
+          "name": "ScanLan",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6798791505,
+          "name": "Mini Weather: Cold or Warm",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6502601513,
+          "name": "Color Alerts",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 1339993499,
+          "name": "简单的预算信封",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6809439020,
+          "name": "CardBoard: Card & Board Games",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 1491869018,
+          "name": "Chess for Watch & Phone",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789789899537,
     "cn": {
       "total": 12,
@@ -3227,94 +3327,6 @@
           "name": "Gaze Guard: 屏幕隐私",
           "type": "iap",
           "detail": "Gaze Guard 终身版: ¥68.00 → ¥0.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788946870926,
-    "cn": {
-      "total": 13,
-      "price": 10,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6794661636,
-          "name": "电波表对时助手",
-          "type": "price",
-          "detail": "¥12.00 → ¥8.00"
-        },
-        {
-          "id": 862473183,
-          "name": "PDFMagic：PDF编辑器与扫描仪",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 6780059206,
-          "name": "MP4 Video Player-MKV,MOV,m4v",
-          "type": "iap",
-          "detail": "Lifetime access: ¥148.00 → ¥68.00"
-        },
-        {
-          "id": 6751741848,
-          "name": "啪嗒投屏",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6766735667,
-          "name": "机械加工助手 - 切削参数计算与公差查询工具",
-          "type": "price",
-          "detail": "¥8.00 → ¥6.00"
-        },
-        {
-          "id": 6753816386,
-          "name": "Voice Translator: Transcribe",
-          "type": "iap",
-          "detail": "Lifetime: ¥68.00 → ¥0.00"
-        },
-        {
-          "id": 1124320935,
-          "name": "型钢截面特性",
-          "type": "price",
-          "detail": "¥30.00 → 免费"
-        },
-        {
-          "id": 6744329263,
-          "name": "MockTimer Pro - 沉浸式考试模拟",
-          "type": "iap",
-          "detail": "高级会员(终身): ¥19.90 → ¥0.00"
-        },
-        {
-          "id": 451697322,
-          "name": "Heart Murmurs Pro",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 982227026,
-          "name": "聚爆Implosion",
-          "type": "price",
-          "detail": "¥12.00 → ¥6.00"
-        },
-        {
-          "id": 6503905670,
-          "name": "NextNote - AI笔记与写作",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6758227934,
-          "name": "My Invoices",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6773422359,
-          "name": "Sincey",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }

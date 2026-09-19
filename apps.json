@@ -2,6 +2,188 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1339993499,
+      "name": {
+        "cn": "简单的预算信封"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "app"
+    },
+    {
+      "id": 1491869018,
+      "name": {
+        "cn": "Chess for Watch & Phone"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "app"
+    },
+    {
+      "id": 1515752397,
+      "name": {
+        "cn": "悟空计算器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789802671392,
+      "_discountType": "app"
+    },
+    {
+      "id": 1611358648,
+      "name": {
+        "cn": "快制图表 - 全图表&看板制作器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6807036948,
+      "name": {
+        "cn": "AstroNebulous"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789802677235,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788998145,
+      "name": {
+        "cn": "阿拉伯语学习大全"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789802677235,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794057965,
+      "name": {
+        "cn": "照片文字遮挡 - 隐藏敏感信息"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789802677246,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799661351,
+      "name": {
+        "cn": "网速急救-WiFi测速"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6762554736,
+      "name": {
+        "cn": "长图拼接-一键拼长图"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6759855507,
+      "name": {
+        "cn": "大姨妈小助手-无广经期记录,贴心守护,轻松记录,周期预测"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6809993114,
+      "name": {
+        "cn": "Moodshot - 听见眼前光影"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6769432656,
+      "name": {
+        "cn": "JangoLog - 简单记账"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6758560753,
+      "name": {
+        "cn": "ScanLan"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798791505,
+      "name": {
+        "cn": "Mini Weather: Cold or Warm"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "app"
+    },
+    {
+      "id": 6502601513,
+      "name": {
+        "cn": "Color Alerts"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809439020,
+      "name": {
+        "cn": "CardBoard: Card & Board Games"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789802735356,
+      "_discountType": "app"
+    },
+    {
       "id": 338889475,
       "name": {
         "cn": "Prepware Commercial Pilot"
@@ -75837,7 +76019,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1777170703975,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "allowNotification": false
     },
     {
       "id": 6762050905,
