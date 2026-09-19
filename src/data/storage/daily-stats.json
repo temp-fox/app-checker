@@ -1,6 +1,88 @@
 [
   {
-    "timestamp": 1789779355032,
+    "timestamp": 1789789899537,
+    "cn": {
+      "total": 12,
+      "price": 9,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6760863263,
+          "name": "Habit Tracker Daily Routine+",
+          "type": "price",
+          "detail": "¥148.00 → 免费"
+        },
+        {
+          "id": 6796784687,
+          "name": "US Debt & World - EconoLive",
+          "type": "price",
+          "detail": "¥148.00 → 免费"
+        },
+        {
+          "id": 1579159150,
+          "name": "ScoreBoard用于OBS直播",
+          "type": "price",
+          "detail": "¥148.00 → ¥68.00"
+        },
+        {
+          "id": 6792522995,
+          "name": "Shift Plan Reminder",
+          "type": "price",
+          "detail": "¥148.00 → ¥58.00"
+        },
+        {
+          "id": 6790804117,
+          "name": "Feelca Pop",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6773142187,
+          "name": "FileMaster: Offline Scanner",
+          "type": "price",
+          "detail": "¥68.00 → 免费"
+        },
+        {
+          "id": 6781190371,
+          "name": "Private LLM Chat: PocketMind",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6448680871,
+          "name": "Ad Blocker Pro: Safari & DNS",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6760224165,
+          "name": "AppLauncherPro",
+          "type": "iap",
+          "detail": "Premium Features: ¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6759844607,
+          "name": "Focus Grove - Pomodoro Timer",
+          "type": "price",
+          "detail": "¥148.00 → 免费"
+        },
+        {
+          "id": 6755378157,
+          "name": "QRwizard",
+          "type": "iap",
+          "detail": "QRwizard Pro: ¥8.00 → ¥3.00"
+        },
+        {
+          "id": 6755475735,
+          "name": "Jinx - 极简广告拦截与隐私保护",
+          "type": "iap",
+          "detail": "Jinx永久VIP: ¥28.00 → ¥0.00"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1789769539303,
     "cn": {
       "total": 53,
       "price": 39,
@@ -3233,22 +3315,6 @@
           "name": "Sincey",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788923829533,
-    "cn": {
-      "total": 1,
-      "price": 0,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6757496457,
-          "name": "Postura: 体态教练",
-          "type": "iap",
-          "detail": "Postura Pro - Lifetime: ¥128.00 → ¥88.00"
         }
       ]
     }

@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 338889475,
+      "name": {
+        "cn": "Prepware Commercial Pilot"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789779589732,
+      "_discountType": "app"
+    },
+    {
       "id": 431058916,
       "name": {
         "cn": "Mango IRC"
@@ -9,7 +20,95 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789769775848,
+      "_externalSourceFirstSeen": 1789779581476,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796430204,
+      "name": {
+        "cn": "海拔猴-海拔、天气与季节一屏掌握"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789779581485,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763529227,
+      "name": {
+        "cn": "小白学跳绳"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789779579437,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757855175,
+      "name": {
+        "cn": "计算达人"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789779583511,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798105091,
+      "name": {
+        "cn": "OneDollar: To Do List"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789779583511,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762075126,
+      "name": {
+        "cn": "一个好闹钟 - 极简闹钟、排班、自定义闹钟"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789779583511,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760895614,
+      "name": {
+        "cn": "MechClick"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789779587672,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807249187,
+      "name": {
+        "cn": "腕温经期助手 - watch腕温预测经期姨妈来了吗"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789779587700,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796221495,
+      "name": {
+        "cn": "储钱哑铃"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789779587700,
       "_discountType": "app"
     },
     {
