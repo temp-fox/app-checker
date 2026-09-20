@@ -9,7 +9,51 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789920857900,
+      "_externalSourceFirstSeen": 1789935649714,
+      "_discountType": "app"
+    },
+    {
+      "id": 320636131,
+      "name": {
+        "cn": "FACEinHOLE®"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789935649742,
+      "_discountType": "app"
+    },
+    {
+      "id": 954677642,
+      "name": {
+        "cn": "Navicat for PostgreSQL"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789935649748,
+      "_discountType": "app"
+    },
+    {
+      "id": 1088001201,
+      "name": {
+        "cn": "Dual SPL Traffic Light"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789935652470,
+      "_discountType": "app"
+    },
+    {
+      "id": 1163225590,
+      "name": {
+        "cn": "ScaleMaster Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789935652470,
       "_discountType": "app"
     },
     {
@@ -20,7 +64,18 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789920857900,
+      "_externalSourceFirstSeen": 1789935649714,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759946984,
+      "name": {
+        "cn": "Père Lachaise"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789935647069,
       "_discountType": "app"
     },
     {
@@ -31,7 +86,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789920857983,
+      "_externalSourceFirstSeen": 1789935649742,
       "_discountType": "app"
     },
     {
@@ -42,7 +97,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789920861069,
+      "_externalSourceFirstSeen": 1789935652470,
       "_discountType": "app"
     },
     {
@@ -53,7 +108,18 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1789920863709,
+      "_externalSourceFirstSeen": 1789935655240,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793797674,
+      "name": {
+        "cn": "高海拔烹饪：沸点计算"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789935663481,
       "_discountType": "app"
     },
     {
@@ -134878,7 +134944,8 @@
       },
       "addType": "auto",
       "addSource": "paid-top",
-      "_shouldBePaid": true
+      "_shouldBePaid": true,
+      "allowNotification": false
     },
     {
       "id": 1665439223,
