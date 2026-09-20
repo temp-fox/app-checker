@@ -1,10 +1,10 @@
 [
   {
-    "timestamp": 1789854709953,
+    "timestamp": 1789863689923,
     "cn": {
-      "total": 18,
-      "price": 14,
-      "iap": 4,
+      "total": 22,
+      "price": 15,
+      "iap": 7,
       "apps": [
         {
           "id": 6803437794,
@@ -37,6 +37,12 @@
           "detail": "¥22.00 → 免费"
         },
         {
+          "id": 6757509105,
+          "name": "Cyclic Sighing：缓解焦虑与压力的呼吸",
+          "type": "iap",
+          "detail": "Cyclic Sighing Pro: ¥68.00 → ¥38.00"
+        },
+        {
           "id": 6450979125,
           "name": "PDF编辑器：保护隐私，离线处理",
           "type": "price",
@@ -53,6 +59,12 @@
           "name": "Deep - 睡眠声音与放松",
           "type": "price",
           "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6761053947,
+          "name": "Picmori: 相册清理·删照片",
+          "type": "iap",
+          "detail": "Picmori Premium: ¥168.00 → ¥15.00"
         },
         {
           "id": 1668660596,
@@ -101,6 +113,18 @@
           "name": "Eventual Calendar",
           "type": "price",
           "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6476123178,
+          "name": "Merge Voice Memos",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6726997887,
+          "name": "Temp Number - Text Verified",
+          "type": "iap",
+          "detail": "Premium Plus: ¥98.00 → ¥68.00"
         },
         {
           "id": 6757115174,
@@ -3317,34 +3341,6 @@
           "name": "Infinite Digits",
           "type": "price",
           "detail": "¥38.00 → ¥15.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1788994592141,
-    "cn": {
-      "total": 3,
-      "price": 3,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6761786787,
-          "name": "CompassPinMax",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 6762777788,
-          "name": "UPFinder",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1538403757,
-          "name": "JPG Optimizer PRO",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
         }
       ]
     }
