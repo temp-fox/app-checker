@@ -1,5 +1,81 @@
 [
   {
+    "timestamp": 1789894224491,
+    "cn": {
+      "total": 11,
+      "price": 6,
+      "iap": 5,
+      "apps": [
+        {
+          "id": 6740433029,
+          "name": "网络使用监控器 Network Usage Monitor",
+          "type": "iap",
+          "detail": "Full Version Lifetime: ¥38.00 → ¥18.00"
+        },
+        {
+          "id": 6755364840,
+          "name": "Hours: Time & Invoice",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1491473755,
+          "name": "Notehot - Ai笔记 备忘录 语音转文字",
+          "type": "iap",
+          "detail": "VIP Subscription: ¥118.00 → ¥12.00"
+        },
+        {
+          "id": 6761011882,
+          "name": "Device Kit - 硬件性能检测与手机管家",
+          "type": "iap",
+          "detail": "永久会员: ¥48.00 → ¥38.00"
+        },
+        {
+          "id": 6760338948,
+          "name": "Brink: Podcast Player",
+          "type": "iap",
+          "detail": "Brink Plus: ¥498.00 → ¥38.00"
+        },
+        {
+          "id": 6744329263,
+          "name": "MockTimer Pro - 沉浸式考试模拟",
+          "type": "iap",
+          "detail": "高级会员(终身): ¥19.90 → ¥0.00"
+        },
+        {
+          "id": 6797824934,
+          "name": "Lumori：账单与订阅",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6757267681,
+          "name": "Storyli: Your Story Library",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6758332911,
+          "name": "Any Time: Time Will Tell",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6805301592,
+          "name": "五子棋：AI挑战赛",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6743677987,
+          "name": "Board Games TV: Local & Online",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789863689923,
     "cn": {
       "total": 22,
@@ -3307,40 +3383,6 @@
           "name": "Shy shrimp & Cory catfish",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789007054911,
-    "cn": {
-      "total": 4,
-      "price": 2,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6779550221,
-          "name": "脑英雄 - 脑力训练游戏",
-          "type": "iap",
-          "detail": "BrainHero Lifetime: ¥148.00 → ¥88.00"
-        },
-        {
-          "id": 6738851170,
-          "name": "English Grammar Drills",
-          "type": "price",
-          "detail": "¥58.00 → ¥38.00"
-        },
-        {
-          "id": 1409190654,
-          "name": "Gym Day：力量训练的健身记录和健身计划",
-          "type": "iap",
-          "detail": "高级版: ¥68.00 → ¥22.00"
-        },
-        {
-          "id": 6670347455,
-          "name": "Infinite Digits",
-          "type": "price",
-          "detail": "¥38.00 → ¥15.00"
         }
       ]
     }

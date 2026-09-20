@@ -2,6 +2,253 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 418331607,
+      "name": {
+        "cn": "Tiff Fax Viewer+"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789880404756,
+      "_discountType": "app"
+    },
+    {
+      "id": 837019622,
+      "name": {
+        "cn": "管理MS Access数据库 - for MS Access"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789880404756,
+      "_discountType": "app"
+    },
+    {
+      "id": 6753998803,
+      "name": {
+        "cn": "PenPaper"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789880410487,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767527430,
+      "name": {
+        "cn": "小猪记账 - 共享记账软件本，记账簿，SplitEasy"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789880419129,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795595147,
+      "name": {
+        "cn": "爱论语 - 论语双语诵读与品鉴"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789880418724,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803289450,
+      "name": {
+        "cn": "TransLive"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789880418724,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758966245,
+      "name": {
+        "cn": "BonedocACL"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789880421865,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787397902,
+      "name": {
+        "cn": "BrainMaxx: Unleash your Brain"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478161,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6807616295,
+      "name": {
+        "cn": "药有时"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478161,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763663910,
+      "name": {
+        "cn": "音视频合并大师-拼接剪辑"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478161,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6757375760,
+      "name": {
+        "cn": "JawlinePro: Face Yoga & AI"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478161,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761647620,
+      "name": {
+        "cn": "ReplyKit: 快捷回复・常用语・话术"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478161,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6795566979,
+      "name": {
+        "cn": "专注一下"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478161,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6797415331,
+      "name": {
+        "cn": "习惯成了"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478161,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6796600484,
+      "name": {
+        "cn": "灵光闪动"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478161,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6790036392,
+      "name": {
+        "cn": "扶遥"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478161,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6800601114,
+      "name": {
+        "cn": "宝贝冲啊"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478161,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6797824934,
+      "name": {
+        "cn": "Lumori：账单与订阅"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478161,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757267681,
+      "name": {
+        "cn": "Storyli: Your Story Library"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478162,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758332911,
+      "name": {
+        "cn": "Any Time: Time Will Tell"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478162,
+      "_discountType": "app"
+    },
+    {
+      "id": 6805301592,
+      "name": {
+        "cn": "五子棋：AI挑战赛"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478162,
+      "_discountType": "app"
+    },
+    {
+      "id": 6743677987,
+      "name": {
+        "cn": "Board Games TV: Local & Online"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789880478162,
+      "_discountType": "app"
+    },
+    {
       "id": 423545644,
       "name": {
         "cn": "数学公式"
