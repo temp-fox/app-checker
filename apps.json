@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 287826622,
+      "name": {
+        "cn": "Ultralingua Latin-English"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789920857900,
+      "_discountType": "app"
+    },
+    {
+      "id": 1459278989,
+      "name": {
+        "cn": "Shroomi - Danske Svampe"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789920857900,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793096672,
+      "name": {
+        "cn": "kaka Camera-咔咔胶片相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789920857983,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780851078,
+      "name": {
+        "cn": "Verde Player - Offline Music"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789920861069,
+      "_discountType": "app"
+    },
+    {
+      "id": 6670392801,
+      "name": {
+        "cn": "Stillness Watch: focus timer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789920863709,
+      "_discountType": "app"
+    },
+    {
       "id": 364030280,
       "name": {
         "cn": "WordBook (Universal)"
@@ -2333,7 +2388,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1789544870936,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6767579868,
@@ -2634,7 +2690,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1789448494238,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 1466277089,
