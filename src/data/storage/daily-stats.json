@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": 1789914981086,
+    "cn": {
+      "total": 10,
+      "price": 7,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6760548411,
+          "name": "美女相机-秒变焦点-美颜自拍滤镜修图-祛斑,抠图-照片修复",
+          "type": "iap",
+          "detail": "升级高级会员: ¥5.00 → ¥0.00"
+        },
+        {
+          "id": 6760622185,
+          "name": "Sayboard: AI 语音键盘",
+          "type": "price",
+          "detail": "¥58.00 → 免费"
+        },
+        {
+          "id": 6761420688,
+          "name": "Photo Statistic",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6774183975,
+          "name": "Blue Clipper",
+          "type": "price",
+          "detail": "¥68.00 → ¥58.00"
+        },
+        {
+          "id": 6772411346,
+          "name": "zZz Widgets: Sleep Tracker",
+          "type": "iap",
+          "detail": "Premium Lifetime: ¥168.00 → ¥38.00"
+        },
+        {
+          "id": 6756651527,
+          "name": "表魂",
+          "type": "price",
+          "detail": "¥6.00 → ¥1.00"
+        },
+        {
+          "id": 6759645073,
+          "name": "到点下班-工时记录器",
+          "type": "price",
+          "detail": "¥6.00 → 免费"
+        },
+        {
+          "id": 6446066433,
+          "name": "Bimma EWD - Wiring Diagrams",
+          "type": "price",
+          "detail": "¥58.00 → ¥48.00"
+        },
+        {
+          "id": 6726997887,
+          "name": "Temp Number - Text Verified",
+          "type": "iap",
+          "detail": "Service Verification: ¥22.00 → ¥15.00"
+        },
+        {
+          "id": 907926183,
+          "name": "西藏人唱歌碗",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789894224491,
     "cn": {
       "total": 11,
@@ -3277,112 +3347,6 @@
           "name": "电子电路计算器",
           "type": "price",
           "detail": "¥28.00 → ¥18.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789031788956,
-    "cn": {
-      "total": 16,
-      "price": 11,
-      "iap": 5,
-      "apps": [
-        {
-          "id": 6805384472,
-          "name": "手腕对决-体感瞄准训练",
-          "type": "price",
-          "detail": "¥3.00 → ¥1.00"
-        },
-        {
-          "id": 6741854065,
-          "name": "多能记-一目了然 记的多",
-          "type": "iap",
-          "detail": "新永久会员: ¥88.00 → ¥0.00"
-        },
-        {
-          "id": 6772648377,
-          "name": "Hydrate or Diedrate Tracker",
-          "type": "iap",
-          "detail": "Hydrate or Diedrate: ¥68.00 → ¥38.00"
-        },
-        {
-          "id": 6761412435,
-          "name": "PureOne: AI健康·HRV压力自测·情绪心率睡眠监测",
-          "type": "iap",
-          "detail": "永久VIP: ¥698.00 → ¥0.00"
-        },
-        {
-          "id": 6756637059,
-          "name": "Yearn - 复古游戏模拟器",
-          "type": "price",
-          "detail": "¥38.00 → ¥12.00"
-        },
-        {
-          "id": 6759844251,
-          "name": "Calometric - Calorie Tracker",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 405109185,
-          "name": "PostureScreen Mobile",
-          "type": "iap",
-          "detail": "25 GB Storage: ¥728.00 → ¥73.00"
-        },
-        {
-          "id": 6450141503,
-          "name": "新木鱼-电子木鱼静心解压治愈抚人心",
-          "type": "iap",
-          "detail": "一次性解锁: ¥1.00 → ¥0.00"
-        },
-        {
-          "id": 1586473881,
-          "name": "RGM - Real Gigging Metronome",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6791322417,
-          "name": "Chordyne",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 1513089417,
-          "name": "AnyScale - Tunings & Scales",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6775771984,
-          "name": "RefeCam",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 1480168613,
-          "name": "Single Origin - Coffee Timer",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6808630327,
-          "name": "The Workout App: Home & Gym",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6445966741,
-          "name": "Barbara's Sleep Stories",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 1451570646,
-          "name": "Shy shrimp & Cory catfish",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
