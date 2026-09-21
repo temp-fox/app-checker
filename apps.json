@@ -2,6 +2,160 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 505179836,
+      "name": {
+        "cn": "Note Trainer Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019214314,
+      "_discountType": "app"
+    },
+    {
+      "id": 1526057270,
+      "name": {
+        "cn": "Brontë Sisters' Novels, Poems"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019210309,
+      "_discountType": "app"
+    },
+    {
+      "id": 1579709148,
+      "name": {
+        "cn": "成语故事讲读大全"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019210014,
+      "_discountType": "app"
+    },
+    {
+      "id": 1597646270,
+      "name": {
+        "cn": "Jot Down: Sticky Notes Widget"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019210014,
+      "_discountType": "app"
+    },
+    {
+      "id": 1609171395,
+      "name": {
+        "cn": "現在位置"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019207272,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761185144,
+      "name": {
+        "cn": "情绪流"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019204107,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768979385,
+      "name": {
+        "cn": "极简图片压缩"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019204107,
+      "_discountType": "app"
+    },
+    {
+      "id": 6740450960,
+      "name": {
+        "cn": "PackPal：打包小能手，忘事不再有"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019207272,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796205596,
+      "name": {
+        "cn": "JumpSense AI - 跳绳计数"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019207323,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759508461,
+      "name": {
+        "cn": "MP4 to M4A Converter"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019214314,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758870943,
+      "name": {
+        "cn": "Rising Tunes: Alarm & Ringtone"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019214314,
+      "_discountType": "app"
+    },
+    {
+      "id": 6744459357,
+      "name": {
+        "cn": "儿童识谱大师"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019214314,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758505729,
+      "name": {
+        "cn": "还记仇吗"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790019217130,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790712643,
+      "name": {
+        "cn": "拾迹 - 足迹地图与地点收藏"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790019263402,
+      "_discountType": "iap"
+    },
+    {
       "id": 392544473,
       "name": {
         "cn": "Zogaj Memo Gym"
@@ -89106,7 +89260,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1775800658495,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "allowNotification": false
     },
     {
       "id": 6760920621,
