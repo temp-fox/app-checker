@@ -2,6 +2,94 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 320636131,
+      "name": {
+        "cn": "FACEinHOLE®"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789944596333,
+      "_discountType": "app"
+    },
+    {
+      "id": 392514814,
+      "name": {
+        "cn": "iFlashlight Pro: 手电筒"
+      },
+      "addType": "auto",
+      "addSource": "keyword-search",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789944610729,
+      "_discountType": "app"
+    },
+    {
+      "id": 954677642,
+      "name": {
+        "cn": "Navicat for PostgreSQL"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789944596336,
+      "_discountType": "app"
+    },
+    {
+      "id": 1088001201,
+      "name": {
+        "cn": "Dual SPL Traffic Light"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789944598365,
+      "_discountType": "app"
+    },
+    {
+      "id": 1163225590,
+      "name": {
+        "cn": "ScaleMaster Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789944598365,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798565102,
+      "name": {
+        "cn": "违章了么"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789944591820,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759946984,
+      "name": {
+        "cn": "Père Lachaise"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789944594240,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793797674,
+      "name": {
+        "cn": "高海拔烹饪：沸点计算"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789944606641,
+      "_discountType": "app"
+    },
+    {
       "id": 287826622,
       "name": {
         "cn": "Ultralingua Latin-English"
