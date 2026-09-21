@@ -1,5 +1,69 @@
 [
   {
+    "timestamp": 1789986061205,
+    "cn": {
+      "total": 9,
+      "price": 7,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6796928746,
+          "name": "Lunbi：习惯打卡与日常计划",
+          "type": "iap",
+          "detail": "Lunbi Pro Lifetime: ¥228.00 → ¥168.00"
+        },
+        {
+          "id": 6754361351,
+          "name": "高尔夫击球轨迹",
+          "type": "iap",
+          "detail": "Pro: ¥87.00 → ¥28.00"
+        },
+        {
+          "id": 6766894679,
+          "name": "DDchat AI",
+          "type": "price",
+          "detail": "¥12.00 → 免费"
+        },
+        {
+          "id": 6761331058,
+          "name": "宝宝记录：喂奶睡眠尿布与成长",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6757953508,
+          "name": "LRC歌词 - 歌词制作工具",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6787454316,
+          "name": "Network Doctor: WiFi Tools",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 392544473,
+          "name": "Zogaj Memo Gym",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6754027488,
+          "name": "Meal Planner & Menu - 7mealz",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6794450399,
+          "name": "Treebar",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1789954186950,
     "cn": {
       "total": 3,
@@ -3177,100 +3241,6 @@
           "name": "课程计划专业版",
           "type": "price",
           "detail": "¥6.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789109132088,
-    "cn": {
-      "total": 14,
-      "price": 11,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6738013677,
-          "name": "音乐标签编辑器：音频指纹，听歌识曲，批量自动修改",
-          "type": "iap",
-          "detail": "终身优惠: ¥98.00 → ¥68.00"
-        },
-        {
-          "id": 349880412,
-          "name": "Family Tracker",
-          "type": "iap",
-          "detail": "Family Tracker - 1 Month Subscription: ¥15.00 → ¥14.00"
-        },
-        {
-          "id": 6768657055,
-          "name": "Clipaste - 剪贴板键盘",
-          "type": "price",
-          "detail": "¥38.00 → ¥18.00"
-        },
-        {
-          "id": 6763717059,
-          "name": "病历管家：AI拍照识别&指标趋势&个人家庭健康档案&电子病历",
-          "type": "iap",
-          "detail": "永久会员: ¥168.00 → ¥128.00"
-        },
-        {
-          "id": 6743993728,
-          "name": "音乐标签编辑器专业版：音频指纹，听歌识曲，批量自动修改",
-          "type": "price",
-          "detail": "¥88.00 → ¥68.00"
-        },
-        {
-          "id": 6766921369,
-          "name": "Shivaki - Yoga & Stretching",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6761347246,
-          "name": "GymViz - 健身追踪",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6779239434,
-          "name": "Volero: Fahrradcomputer GPS",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6795239812,
-          "name": "ClipPro: Video & Photo Editor",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6450271844,
-          "name": "知遇 - 联系人管理",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6768871727,
-          "name": "Bar reminders",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6758965447,
-          "name": "CONNECTOME: A Game of Points",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 493472757,
-          "name": "autoExpire",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 1631811818,
-          "name": "米多 Plus - 股票/基金盯盘小工具",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }

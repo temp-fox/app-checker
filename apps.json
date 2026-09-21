@@ -2,6 +2,109 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 392544473,
+      "name": {
+        "cn": "Zogaj Memo Gym"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789967126816,
+      "_discountType": "app"
+    },
+    {
+      "id": 608014680,
+      "name": {
+        "cn": "ThumbCamera - gesture camera"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789967062546,
+      "_discountType": "app"
+    },
+    {
+      "id": 6738916060,
+      "name": {
+        "cn": "ContactHelper"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789967057248,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785182021,
+      "name": {
+        "cn": "EVUS - Smart EV Charger"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789967057248,
+      "_discountType": "app"
+    },
+    {
+      "id": 6783356167,
+      "name": {
+        "cn": "SysMatrix - System Monitor"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789967057248,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796494400,
+      "name": {
+        "cn": "Markdown Reader - MD View"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1789967062671,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787454316,
+      "name": {
+        "cn": "Network Doctor: WiFi Tools"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789967126816,
+      "_discountType": "app"
+    },
+    {
+      "id": 6754027488,
+      "name": {
+        "cn": "Meal Planner & Menu - 7mealz"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789967126816,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794450399,
+      "name": {
+        "cn": "Treebar"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1789967126816,
+      "_discountType": "app"
+    },
+    {
       "id": 320636131,
       "name": {
         "cn": "FACEinHOLE®"
