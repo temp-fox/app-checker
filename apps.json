@@ -2,6 +2,183 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 581258186,
+      "name": {
+        "cn": "Hue Disco"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077605836,
+      "_discountType": "app"
+    },
+    {
+      "id": 1107056106,
+      "name": {
+        "cn": "Obstetrics & Gynaecology Q&A"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077605609,
+      "_discountType": "app"
+    },
+    {
+      "id": 1216102873,
+      "name": {
+        "cn": "TC条码与二维码产生器"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790077648791,
+      "_discountType": "app"
+    },
+    {
+      "id": 1232389519,
+      "name": {
+        "cn": "EML Viewer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077597700,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807734425,
+      "name": {
+        "cn": "走心机报价"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077592257,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758376640,
+      "name": {
+        "cn": "静心育儿"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077592204,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794222599,
+      "name": {
+        "cn": "图片尺寸宝 - 拍照量尺寸，图片标注，尺寸图，快速量尺"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077592204,
+      "_discountType": "app"
+    },
+    {
+      "id": 6778223704,
+      "name": {
+        "cn": "牛来"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077592204,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792968360,
+      "name": {
+        "cn": "宝宝相机 - 出生日期、见证成长、纪念水印"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077592204,
+      "_discountType": "app"
+    },
+    {
+      "id": 6769252779,
+      "name": {
+        "cn": "사진 감성 필터 편집 - MellowFilter"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077597711,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810658767,
+      "name": {
+        "cn": "无限衣柜"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077602982,
+      "_discountType": "app"
+    },
+    {
+      "id": 6743150443,
+      "name": {
+        "cn": "Sauna Assistant"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077602851,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779962000,
+      "name": {
+        "cn": "跑团主持本TRPG剧情工具2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077605836,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812945170,
+      "name": {
+        "cn": "CNC Lathe Simulator Classic"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077605609,
+      "_discountType": "app"
+    },
+    {
+      "id": 6463802544,
+      "name": {
+        "cn": "TestAce"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077605609,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770789719,
+      "name": {
+        "cn": "文听Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790077608490,
+      "_discountType": "app"
+    },
+    {
       "id": 581472333,
       "name": {
         "cn": "Tipard MXF Converter"
@@ -5727,11 +5904,11 @@
       "name": {
         "cn": "PDF Scanner: Date Stamp"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1789025027299,
-      "_discountType": "iap",
+      "_discountType": "app",
       "_shouldBePaid": true
     },
     {

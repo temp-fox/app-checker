@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": 1790086484612,
+    "cn": {
+      "total": 7,
+      "price": 4,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6763663910,
+          "name": "音视频合并大师-拼接剪辑",
+          "type": "iap",
+          "detail": "升级高级会员: ¥4.80 → ¥3.80"
+        },
+        {
+          "id": 6762195713,
+          "name": "Kadu: Private Memories Journal",
+          "type": "iap",
+          "detail": "Premium Lifetime: ¥398.00 → ¥328.00"
+        },
+        {
+          "id": 6781720721,
+          "name": "RevoCam",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6747366699,
+          "name": "HabitTap: 习惯打卡",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        },
+        {
+          "id": 1244547440,
+          "name": "Unlimited Math Problems",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6444528802,
+          "name": "食音-超解压的美食白噪音软件",
+          "type": "iap",
+          "detail": "解锁全部: ¥8.00 → ¥0.00"
+        },
+        {
+          "id": 1538268059,
+          "name": "开心果节拍器 - 节拍器 纯净无广告",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1790063967524,
     "cn": {
       "total": 18,
@@ -3315,64 +3367,6 @@
           "name": "红鸾食色",
           "type": "price",
           "detail": "¥18.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789203619597,
-    "cn": {
-      "total": 8,
-      "price": 6,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 6803344823,
-          "name": "拾光 - 相册回顾与整理",
-          "type": "iap",
-          "detail": "升级高级会员: ¥6.00 → ¥0.00"
-        },
-        {
-          "id": 6796148467,
-          "name": "RSLatte目标树",
-          "type": "price",
-          "detail": "¥3.00 → 免费"
-        },
-        {
-          "id": 1169525771,
-          "name": "JPEG Jackal Lite",
-          "type": "iap",
-          "detail": "Upgrade to Full Version: ¥15.00 → ¥1.00"
-        },
-        {
-          "id": 1410053842,
-          "name": "小渔排班 - 倒班工作者的专属日历",
-          "type": "price",
-          "detail": "¥6.00 → ¥1.00"
-        },
-        {
-          "id": 6807487183,
-          "name": "Paster: 剪贴板与截图标注",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6793993952,
-          "name": "Markary — Markdown Notes",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6779274560,
-          "name": "Push Up - Gainz to Godhood",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6761990965,
-          "name": "星眠小兽-您的情绪管理萌宠",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
