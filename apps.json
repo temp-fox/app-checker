@@ -2,6 +2,313 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 581472333,
+      "name": {
+        "cn": "Tipard MXF Converter"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "app"
+    },
+    {
+      "id": 633262839,
+      "name": {
+        "cn": "FLAC转换器"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "app"
+    },
+    {
+      "id": 683171700,
+      "name": {
+        "cn": "Any MP4轉換器-將MP4轉換為MP3"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "app"
+    },
+    {
+      "id": 904552628,
+      "name": {
+        "cn": "DVD视频转换-将任何DVD /视频转换为MP4"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "app"
+    },
+    {
+      "id": 947187600,
+      "name": {
+        "cn": "QR二维码生成器 - Safari浏览器插件"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790053533866,
+      "_discountType": "app"
+    },
+    {
+      "id": 1090640183,
+      "name": {
+        "cn": "Fotoz - 图片一键下载，批量下载网页图片"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "iap"
+    },
+    {
+      "id": 1499237784,
+      "name": {
+        "cn": "GlitchCore"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790053541989,
+      "_discountType": "app"
+    },
+    {
+      "id": 1532372486,
+      "name": {
+        "cn": "iMonth"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761160865,
+      "name": {
+        "cn": "SignalPilot - 网络诊断"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790053533866,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761187585,
+      "name": {
+        "cn": "DeviceLab - 手机性能检测"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790053533866,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795017838,
+      "name": {
+        "cn": "DragonLog"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790053536375,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808664233,
+      "name": {
+        "cn": "AI出卷"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790053539104,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804465268,
+      "name": {
+        "cn": "SonoSpec: Audio Spectrum RTA"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790053541989,
+      "_discountType": "app"
+    },
+    {
+      "id": 6745131744,
+      "name": {
+        "cn": "72Hour Fasting Timer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790053544850,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760122593,
+      "name": {
+        "cn": "中国語　ピンイン HSK  暗記 -パンダ単語"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790053547486,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810827688,
+      "name": {
+        "cn": "The Family Bank"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6758900882,
+      "name": {
+        "cn": "Pedometer-每日计步,计步器,走路,步数,健康,运动"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6757413273,
+      "name": {
+        "cn": "ReadySet：儿童视觉计时器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6766263505,
+      "name": {
+        "cn": "抢购悬浮助手-倒计时抢票画中画浮窗"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6799295172,
+      "name": {
+        "cn": "轻减记-减肥打卡体重日记"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6769251517,
+      "name": {
+        "cn": "Days Since Tracker - TimeSince"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6751436384,
+      "name": {
+        "cn": "Petals: Period & Cycle Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6748974461,
+      "name": {
+        "cn": "Jottr: Thought timeline"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "app"
+    },
+    {
+      "id": 6773982595,
+      "name": {
+        "cn": "Droppp - Wi-Fi文件传输"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803338815,
+      "name": {
+        "cn": "轻境 3D"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776859366,
+      "name": {
+        "cn": "Halcyon 胶片相机"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759285712,
+      "name": {
+        "cn": "Zyl"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790053608710,
+      "_discountType": "app"
+    },
+    {
       "id": 471673508,
       "name": {
         "cn": "Zurna"
