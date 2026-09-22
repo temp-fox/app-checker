@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": 1790045287855,
+    "cn": {
+      "total": 4,
+      "price": 4,
+      "iap": 0,
+      "apps": [
+        {
+          "id": 6757228920,
+          "name": "Electro Clash",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6758211873,
+          "name": "Rock Arena",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6749502392,
+          "name": "4x4 Cockpit",
+          "type": "price",
+          "detail": "¥68.00 → ¥58.00"
+        },
+        {
+          "id": 1067651799,
+          "name": "视频转动态壁纸 Live Photo制作+",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1790029793080,
     "cn": {
       "total": 29,
@@ -3221,58 +3255,6 @@
           "name": "星眠小兽-您的情绪管理萌宠",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789168057543,
-    "cn": {
-      "total": 7,
-      "price": 4,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6757943661,
-          "name": "阿福出境管家（原签证大师）",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6755731215,
-          "name": "KeepBackPlay",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6758404919,
-          "name": "习惯追踪器 - HabitGate",
-          "type": "iap",
-          "detail": "Lifetime Subscription: ¥328.00 → ¥298.00"
-        },
-        {
-          "id": 6758404919,
-          "name": "习惯追踪器 - HabitGate",
-          "type": "iap",
-          "detail": "Annual Subscription: ¥168.00 → ¥148.00"
-        },
-        {
-          "id": 647275629,
-          "name": "Live TV Fernsehen IP TV",
-          "type": "iap",
-          "detail": "Mein Live TV: ¥24.00 → ¥6.00"
-        },
-        {
-          "id": 6450314946,
-          "name": "星露谷物语助手",
-          "type": "price",
-          "detail": "¥28.00 → ¥15.00"
-        },
-        {
-          "id": 1218171533,
-          "name": "Marklist - 稍后阅读、笔记、待办事项和收藏夹",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
         }
       ]
     }

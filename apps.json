@@ -2,6 +2,105 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 471673508,
+      "name": {
+        "cn": "Zurna"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790032908421,
+      "_discountType": "app"
+    },
+    {
+      "id": 1310356665,
+      "name": {
+        "cn": "Car HUD Display Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790032908120,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775828757,
+      "name": {
+        "cn": "新世界：暗影成双"
+      },
+      "addType": "auto",
+      "addSource": "paid-top-all",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790032895855,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785269320,
+      "name": {
+        "cn": "麻将训练 - 川麻算牌听牌拆搭"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790032898468,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799973308,
+      "name": {
+        "cn": "Galplay: 多引擎Galgame 播放器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790032898468,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786772316,
+      "name": {
+        "cn": "GlitchShredder"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790032908421,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804897363,
+      "name": {
+        "cn": "健康笔记·本地健康档案"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790032911144,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762300091,
+      "name": {
+        "cn": "Satoshi Alarm"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790032913788,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785107549,
+      "name": {
+        "cn": "OpenShelf"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790032916561,
+      "_discountType": "app"
+    },
+    {
       "id": 505179836,
       "name": {
         "cn": "Note Trainer Pro"
@@ -17783,8 +17882,8 @@
       "name": {
         "cn": "BreakThree"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1786680413477,
