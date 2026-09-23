@@ -2,6 +2,329 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 391205139,
+      "name": {
+        "cn": "Men's Hairstyles"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149823818,
+      "_discountType": "app"
+    },
+    {
+      "id": 398939868,
+      "name": {
+        "cn": "美容大王之达人宝典专业版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149823818,
+      "_discountType": "app"
+    },
+    {
+      "id": 438580059,
+      "name": {
+        "cn": "计算器 - Calc Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149812877,
+      "_discountType": "app"
+    },
+    {
+      "id": 528940105,
+      "name": {
+        "cn": "Cassette Gold"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149821046,
+      "_discountType": "app"
+    },
+    {
+      "id": 1472467825,
+      "name": {
+        "cn": "Stamper"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149812877,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812456971,
+      "name": {
+        "cn": "漏斗通"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149812895,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789938484,
+      "name": {
+        "cn": "合同台账管家-履约收款提醒2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149812895,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812829370,
+      "name": {
+        "cn": "A320发动机操作模拟"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149812877,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759660637,
+      "name": {
+        "cn": "车牌识别Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149812877,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767103471,
+      "name": {
+        "cn": "繁简转换助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149812877,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807221693,
+      "name": {
+        "cn": "离线转录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149812877,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759213594,
+      "name": {
+        "cn": "LenSee — 离线 AI 翻译"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149818519,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793778879,
+      "name": {
+        "cn": "爱对联"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149818519,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792526727,
+      "name": {
+        "cn": "指南针 海拔 显示"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149821164,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760647688,
+      "name": {
+        "cn": "Acoustic Voice Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149821046,
+      "_discountType": "app"
+    },
+    {
+      "id": 6446889003,
+      "name": {
+        "cn": "GSDSP MagicFusion"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149821046,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794856309,
+      "name": {
+        "cn": "NerDie - 8 bit Noise Machine"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790149826357,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794597092,
+      "name": {
+        "cn": "UnSee - 隐私打码"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6800391807,
+      "name": {
+        "cn": "小确幸纪念倒数日 - 恋爱结婚生日倒计时提醒小组件"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6801572550,
+      "name": {
+        "cn": "PhotoGo：相册清理与照片整理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6444765326,
+      "name": {
+        "cn": "有趣时钟 - 好听的滴嗒声、好玩的专注时钟"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6808091735,
+      "name": {
+        "cn": "相回 - 照片清理与随机回顾"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6768915910,
+      "name": {
+        "cn": "FalconMenu 右键助手"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6805685047,
+      "name": {
+        "cn": "多粒"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6759768784,
+      "name": {
+        "cn": "全能计分器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6771706897,
+      "name": {
+        "cn": "EON：订阅管理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785181193,
+      "name": {
+        "cn": "Dzayn"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "app"
+    },
+    {
+      "id": 6748906275,
+      "name": {
+        "cn": "Waky Alarm"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810778972,
+      "name": {
+        "cn": "HexiPop"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790149888245,
+      "_discountType": "app"
+    },
+    {
       "id": 1051262865,
       "name": {
         "cn": "Funk Drummer"
