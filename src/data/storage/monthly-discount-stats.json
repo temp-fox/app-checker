@@ -535,11 +535,12 @@
       "inAppPurchase": {}
     },
     "1036140929": {
-      "all": 3,
+      "all": 4,
       "price": 0,
       "inAppPurchase": {
         "Premium": 2,
-        "Annual Subscription": 1
+        "Annual Subscription": 1,
+        "Monthly Subscription": 1
       }
     },
     "1037619477": {
@@ -622,11 +623,16 @@
       "inAppPurchase": {}
     },
     "1114320457": {
+      "all": 2,
+      "price": 2,
+      "inAppPurchase": {}
+    },
+    "1114389016": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
     },
-    "1114389016": {
+    "1117044076": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -1105,6 +1111,13 @@
       "price": 1,
       "inAppPurchase": {
         "Pot o’ Gold": 1
+      }
+    },
+    "1530729294": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "One Time Lifetime Offer": 1
       }
     },
     "1532372486": {
@@ -1669,8 +1682,8 @@
       }
     },
     "6757722438": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "6758737789": {
@@ -2175,8 +2188,8 @@
       "inAppPurchase": {}
     },
     "6801606517": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "6779346628": {
@@ -4185,8 +4198,8 @@
       "inAppPurchase": {}
     },
     "6749502392": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "6807616295": {
@@ -4217,10 +4230,11 @@
       "inAppPurchase": {}
     },
     "6758268708": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "OffKit Pro (Lifetime)": 1
+        "OffKit Pro (Lifetime)": 1,
+        "OffKit Pro (Annual)": 1
       }
     },
     "6758046291": {
@@ -4295,12 +4309,22 @@
         "专业版": 1
       }
     },
+    "6758624892": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "6762445242": {
       "all": 1,
       "price": 0,
       "inAppPurchase": {
         "请开发者喝咖啡·大杯": 1
       }
+    },
+    "6758916412": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     },
     "6768935942": {
       "all": 1,
@@ -4333,6 +4357,23 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6759351727": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6757269133": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6759212192": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime": 1
+      }
     },
     "6748998968": {
       "all": 1,

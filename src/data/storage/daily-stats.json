@@ -1,10 +1,10 @@
 [
   {
-    "timestamp": 1790112313367,
+    "timestamp": 1790127909070,
     "cn": {
-      "total": 31,
-      "price": 21,
-      "iap": 10,
+      "total": 41,
+      "price": 29,
+      "iap": 12,
       "apps": [
         {
           "id": 6762195713,
@@ -23,6 +23,12 @@
           "name": "BT Basketball Scoreboard",
           "type": "iap",
           "detail": "Monthly: ¥38.00 → ¥22.00"
+        },
+        {
+          "id": 6801606517,
+          "name": "Patterns: Create Wallpapers",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
         },
         {
           "id": 6789805312,
@@ -50,7 +56,7 @@
         },
         {
           "id": 6760898657,
-          "name": "Handwritten Quick Notes",
+          "name": "Handwritten Quick Notes: Jot",
           "type": "price",
           "detail": "¥22.00 → 免费"
         },
@@ -61,16 +67,40 @@
           "detail": "专业版: ¥38.00 → ¥15.00"
         },
         {
+          "id": 6758624892,
+          "name": "WeekPad: Weekly Planner Diary",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
           "id": 6762445242,
           "name": "万年历-农历日历查老黄历查节假日节气吉祥日子的状态栏日历",
           "type": "iap",
           "detail": "请开发者喝咖啡·大杯: ¥38.00 → ¥28.00"
         },
         {
+          "id": 6758268708,
+          "name": "App Blocker OffKit",
+          "type": "iap",
+          "detail": "OffKit Pro (Annual): ¥39.00 → ¥15.00"
+        },
+        {
+          "id": 6758916412,
+          "name": "Ebru: 水拓画与纸上大理石纹",
+          "type": "price",
+          "detail": "¥68.00 → 免费"
+        },
+        {
           "id": 1207653001,
           "name": "DanceAnimation - Stop Motion",
           "type": "price",
           "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1530729294,
+          "name": "Hypnos：防赖床任务闹钟",
+          "type": "iap",
+          "detail": "One Time Lifetime Offer: ¥198.00 → ¥68.00"
         },
         {
           "id": 1451646819,
@@ -109,6 +139,12 @@
           "detail": "¥18.00 → ¥6.00"
         },
         {
+          "id": 1036140929,
+          "name": "ClipBox: 剪贴板管理工具",
+          "type": "iap",
+          "detail": "Monthly Subscription: ¥15.00 → ¥8.00"
+        },
+        {
           "id": 1064360258,
           "name": "iLockBox: 隐藏照片与加密视频相册",
           "type": "iap",
@@ -119,6 +155,12 @@
           "name": "iLockBox: 隐藏照片与加密视频相册",
           "type": "iap",
           "detail": "iLockBox Premium Yearly: ¥68.00 → ¥48.00"
+        },
+        {
+          "id": 6749502392,
+          "name": "4x4 Cockpit",
+          "type": "price",
+          "detail": "¥58.00 → 免费"
         },
         {
           "id": 6449541421,
@@ -145,16 +187,34 @@
           "detail": "¥38.00 → 免费"
         },
         {
-          "id": 951324809,
-          "name": "隐藏照片视频 私密保险库",
-          "type": "iap",
-          "detail": "Annual Subscription: ¥68.00 → ¥48.00"
+          "id": 6759351727,
+          "name": "Teddy's Nanny",
+          "type": "price",
+          "detail": "¥48.00 → 免费"
         },
         {
-          "id": 951324809,
-          "name": "隐藏照片视频 私密保险库",
+          "id": 6757722438,
+          "name": "A4Pad – Annotate, Merge PDF",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1114320457,
+          "name": "Baby Led Weaning Recipes",
+          "type": "price",
+          "detail": "¥38.00 → ¥28.00"
+        },
+        {
+          "id": 6757269133,
+          "name": "GlobalScan Pro: PDF Scanner",
+          "type": "price",
+          "detail": "¥698.00 → ¥22.00"
+        },
+        {
+          "id": 6759212192,
+          "name": "MediaBox - 智能抠图&长截图",
           "type": "iap",
-          "detail": "Monthly Subscription: ¥15.00 → ¥8.00"
+          "detail": "Lifetime: ¥38.00 → ¥0.00"
         },
         {
           "id": 1117044076,
