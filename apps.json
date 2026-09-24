@@ -2,6 +2,140 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6444181090,
+      "name": {
+        "cn": "sinusedo"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790225979750,
+      "_discountType": "app"
+    },
+    {
+      "id": 6806170571,
+      "name": {
+        "cn": "写完就散会"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790225982361,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803503392,
+      "name": {
+        "cn": "照片回信 - 相册清理&随机回顾"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790226029157,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6812317705,
+      "name": {
+        "cn": "Sonlo：白噪音与睡眠声音"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790226029157,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6799012417,
+      "name": {
+        "cn": "映记-记录好心情"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790226029157,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6791821339,
+      "name": {
+        "cn": "HOOKCAM - 钓鱼相机"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790226029157,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6780593064,
+      "name": {
+        "cn": "Kinorbit: Stay In Touch"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790226029157,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6812199766,
+      "name": {
+        "cn": "Threadline: Dating Journal"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790226029157,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6790735660,
+      "name": {
+        "cn": "Tikku: To Do & Block Apps"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790226029157,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6795869168,
+      "name": {
+        "cn": "LockSticky: 锁屏与表盘便签"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790226029157,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6811499781,
+      "name": {
+        "cn": "仅记日"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790226029157,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810376600,
+      "name": {
+        "cn": "语音转文字：离线转录"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790226029157,
+      "_discountType": "app"
+    },
+    {
       "id": 518321106,
       "name": {
         "cn": "英语自然拼读宝典4"
@@ -1173,8 +1307,8 @@
       "name": {
         "cn": "轻境 3D"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1790053608710,
