@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": 1790262499856,
+    "cn": {
+      "total": 7,
+      "price": 3,
+      "iap": 4,
+      "apps": [
+        {
+          "id": 6778223704,
+          "name": "牛来",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6771828376,
+          "name": "闲言 - 创作卡片·笔记分享",
+          "type": "price",
+          "detail": "¥12.00 → 免费"
+        },
+        {
+          "id": 1573144215,
+          "name": "StarNFC – NFC读写工具",
+          "type": "iap",
+          "detail": "StarNFC尊享终身会员: ¥48.00 → ¥28.00"
+        },
+        {
+          "id": 6778315973,
+          "name": "Edit Text In Photo - Forgeit",
+          "type": "iap",
+          "detail": "Forge-IT Pro: ¥98.00 → ¥68.00"
+        },
+        {
+          "id": 6753894048,
+          "name": "Remove BG・Background Remover",
+          "type": "iap",
+          "detail": "Lifetime: ¥68.00 → ¥0.00"
+        },
+        {
+          "id": 6736521532,
+          "name": "INR抗凝监测",
+          "type": "iap",
+          "detail": "Pro lifetime: ¥88.00 → ¥38.00"
+        },
+        {
+          "id": 1226278564,
+          "name": "Magic Dialer Pro",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1790235846229,
     "cn": {
       "total": 18,

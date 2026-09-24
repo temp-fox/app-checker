@@ -1,4 +1,262 @@
 {
+  "6747655400": {
+    "name": "RPGEmu - RPG Maker视觉小说们",
+    "trackName": "RPGEmu - RPG Maker视觉小说们",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "¥48.00",
+      "MZ Function": "¥38.00",
+      "XP Function": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00",
+      "MZ Function": "¥0.00",
+      "XP Function": "¥0.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786692042367,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        },
+        {
+          "timestamp": 1786671729835,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1785513893983,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1784946401759,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "MZ Function": "¥0.00",
+            "XP Function": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1784641490924,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1783925497148,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1783392520013,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "XP Function": "¥38.00",
+            "MZ Function": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1783147536447,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "MZ Function": "¥38.00",
+            "XP Function": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1782384026981,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "MZ Function": "¥38.00",
+            "XP Function": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1781963814386,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "MZ Function": "¥38.00",
+            "XP Function": "¥38.00"
+          }
+        },
+        {
+          "timestamp": 1781941737355,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "MZ Function": "¥22.00",
+            "XP Function": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1777371137156,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "MZ Function": "¥38.00",
+            "XP Function": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1775754367926,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "MZ Function": "¥38.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/rpgemu-rpg-maker%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%E4%BB%AC/id6747655400?uo=4",
+    "description": "提示: [1]. RPGEmu主要用于运行基于RPG Maker MV/MZ工具创建的游戏，我们称之为MV游戏/MZ游戏，除非游戏采用复杂的加密技术加密了，否则大部分MV/MZ游戏应该都可以玩，如果不能，随时通过APP里面的反馈与我们联系。 [2]. RPGEmu也能够运行一些基于RPG Maker XP/VXAce/VX 工具创建的游戏，我们称之为XP游戏，然而，由于此类游戏与windows往往有不同程度的DLL绑定，且考虑到RPGEmu是基于Ruby 3创建的，大多数旧游戏如未重写，是基于Ruby 1.8/1.9的，模拟一个完全兼容的游戏环境存在一定的难度，尽管我们模拟了大部分DLL，且内置了10来个补丁用于解决兼容问题，但无法做到像MV/MZ游戏那样接近完美。所以，我们希望当您遇到某个游戏无法使用RPGEmu运行时，是您已经预期到的结果。好消息是，我们内部测试了大约30个游戏，有旧游戏，也有新游戏，其实也不算新，只不过是同人游戏，社区在不断更新而已，游戏本身其实很古早了，这30个游戏，部分直接能玩，部分打了1个补丁，部分打了2个补丁，还有部分打了6个补丁，仅2个游戏打完补丁最终游戏崩溃了无法玩，也就是说大部分此类游戏应该能玩，但我们不希望您的预期是所有游戏都能玩。 [3]. 如果您期望买了一个模拟器，就可以玩所有MV/MZ/XP游戏，那么您不应购买RPGEmu，因为RPGEmu满足不了如此苛刻的预期。 [4]. 或者说您买RPGEmu就是为了玩某个游戏，玩不了就打算卸载RPGEmu的，除非您已经确定RPGEmu能玩那个游戏，否则，还是希望您不要购买RPGEmu。 [5]. RPGEmu是用来玩大部分MV/MZ/XP/VXAce/VX游戏包的，并不是特别为某个游戏设计的，您手上的游戏包越多，RPGEmu才会越发显得有价值。 [6]. 如果您手上没有RPG Maker MV/MZ/XP游戏资源，或者说不知道从何处下载这些资源，Safari下载的资源将会处于[文件]APP的下载里面，可以直接导入到RPGEmu，如果您完全不知如何获取资源，手上也没有资源，那么不要安装RPGEmu，因为这个APP是一个空壳工具，仅仅自带了3个极其简单的示例游戏，可用于功能测试，但无可玩性。您需要有自己的资源，RPGEmu将助您畅玩那些游戏资源。 [7]. 游戏兼容性参考：https://gzqyl.github.io/rpgemu-compatibility-list （欢迎提交PR，将您成功玩过的游戏名新增到列表里面） 为什么选择RPGEmu呢? 1.SwiftUI设计，玩或者不玩RPG Maker游戏变得非常简单 2.支持直接导入MV/MZ/XP Windows游戏包，无需电脑，即可在手机上畅玩那些游戏 3.虚拟键盘的设计，让操控游戏角色变得更简单 注意: 在导入游戏包的时候，千万不要切出应用，必须耐心等待文件传输完成，否则，传输一旦被意外中断，您将需要重新开始传输。 对于大文件游戏包，最好将其事先置入[文件]APP，这样传输起来更稳定，U盘方式我们测试发现，可能由于接触不稳定，部分文件在传输中丢失了，导致游戏报错。 大约预留3倍于游戏包大小的可用磁盘空间，不然传输可能无法完成，即使完成，也可能因空间不够，造成部分文件未传。 应用内置了3个示例游戏，仅用于功能测试，无可玩性。获取此类游戏资源其实非常简单，很多都是可免费获取的，仅我们测试的MV/MZ就有多于100个免费的，当然，我们也测试了近30个XP/VXAce/VX游戏。 为什么RPGEmu只能玩一半XP/VXAce/VX游戏呢？因为RPGEmu是基于Ruby 3创建的，然后很多旧游戏是Ruby 1.8/1.9写的，这样，RPGEmu就会尝试应用补丁，尽管补丁解决了一大部分旧游戏，但仍然无法解决部分游戏。另外，某些游戏与Windows绑定过深，极难在iOS上还原那些DLL，尽管RPGEmu已经模拟了大部分DLL，对于少数游戏，还是无法解决。对此，我们深感抱歉，也期望您能理解。 RPGEmu给了您在手机上玩那些由RPG Maker MV/MZ/XP制作工具创建的游戏的机会。 尽管RPGEmu不提供任何游戏，获取\"RPG Maker MV/MZ/XP 游戏\"却并非难事。 也许您在电脑上已经有了大量的此类游戏，如果是这样的，将它们转移到手机上的[文件]APP，然后就可以用RPGEmu导入开玩了。 如果游戏是由RPG Maker MV工具创建的，我们称之为RPG Maker MV游戏，简称[MV Game]。 如果游戏是由RPG Maker MZ工具创建的，我们称之为RPG Maker MZ游戏，简称[MZ Game]。 如果游戏是由RPG Maker XP/VXAce/VX工具创建的，我们称之为RPG Maker XP游戏，简称[XP Game]。 一旦您安装了RPGEmu，您将可以在手机上玩那些Windows [MV Game] / [MZ Game] / [XP Game]类型的游戏包。",
+    "fullDescription": "提示: [1]. RPGEmu主要用于运行基于RPG Maker MV/MZ工具创建的游戏，我们称之为MV游戏/MZ游戏，除非游戏采用复杂的加密技术加密了，否则大部分MV/MZ游戏应该都可以玩，如果不能，随时通过APP里面的反馈与我们联系。 [2]. RPGEmu也能够运行一些基于RPG Maker XP/VXAce/VX 工具创建的游戏，我们称之为XP游戏，然而，由于此类游戏与windows往往有不同程度的DLL绑定，且考虑到RPGEmu是基于Ruby 3创建的，大多数旧游戏如未重写，是基于Ruby 1.8/1.9的，模拟一个完全兼容的游戏环境存在一定的难度，尽管我们模拟了大部分DLL，且内置了10来个补丁用于解决兼容问题，但无法做到像MV/MZ游戏那样接近完美。所以，我们希望当您遇到某个游戏无法使用RPGEmu运行时，是您已经预期到的结果。好消息是，我们内部测试了大约30个游戏，有旧游戏，也有新游戏，其实也不算新，只不过是同人游戏，社区在不断更新而已，游戏本身其实很古早了，这30个游戏，部分直接能玩，部分打了1个补丁，部分打了2个补丁，还有部分打了6个补丁，仅2个游戏打完补丁最终游戏崩溃了无法玩，也就是说大部分此类游戏应该能玩，但我们不希望您的预期是所有游戏都能玩。 [3]. 如果您期望买了一个模拟器，就可以玩所有MV/MZ/XP游戏，那么您不应购买RPGEmu，因为RPGEmu满足不了如此苛刻的预期。 [4]. 或者说您买RPGEmu就是为了玩某个游戏，玩不了就打算卸载RPGEmu的，除非您已经确定RPGEmu能玩那个游戏，否则，还是希望您不要购买RPGEmu。 [5]. RPGEmu是用来玩大部分MV/MZ/XP/VXAce/VX游戏包的，并不是特别为某个游戏设计的，您手上的游戏包越多，RPGEmu才会越发显得有价值。 [6]. 如果您手上没有RPG Maker MV/MZ/XP游戏资源，或者说不知道从何处下载这些资源，Safari下载的资源将会处于[文件]APP的下载里面，可以直接导入到RPGEmu，如果您完全不知如何获取资源，手上也没有资源，那么不要安装RPGEmu，因为这个APP是一个空壳工具，仅仅自带了3个极其简单的示例游戏，可用于功能测试，但无可玩性。您需要有自己的资源，RPGEmu将助您畅玩那些游戏资源。 [7]. 游戏兼容性参考：https://gzqyl.github.io/rpgemu-compatibility-list （欢迎提交PR，将您成功玩过的游戏名新增到列表里面） 为什么选择RPGEmu呢? 1.SwiftUI设计，玩或者不玩RPG Maker游戏变得非常简单 2.支持直接导入MV/MZ/XP Windows游戏包，无需电脑，即可在手机上畅玩那些游戏 3.虚拟键盘的设计，让操控游戏角色变得更简单 注意: 在导入游戏包的时候，千万不要切出应用，必须耐心等待文件传输完成，否则，传输一旦被意外中断，您将需要重新开始传输。 对于大文件游戏包，最好将其事先置入[文件]APP，这样传输起来更稳定，U盘方式我们测试发现，可能由于接触不稳定，部分文件在传输中丢失了，导致游戏报错。 大约预留3倍于游戏包大小的可用磁盘空间，不然传输可能无法完成，即使完成，也可能因空间不够，造成部分文件未传。 应用内置了3个示例游戏，仅用于功能测试，无可玩性。获取此类游戏资源其实非常简单，很多都是可免费获取的，仅我们测试的MV/MZ就有多于100个免费的，当然，我们也测试了近30个XP/VXAce/VX游戏。 为什么RPGEmu只能玩一半XP/VXAce/VX游戏呢？因为RPGEmu是基于Ruby 3创建的，然后很多旧游戏是Ruby 1.8/1.9写的，这样，RPGEmu就会尝试应用补丁，尽管补丁解决了一大部分旧游戏，但仍然无法解决部分游戏。另外，某些游戏与Windows绑定过深，极难在iOS上还原那些DLL，尽管RPGEmu已经模拟了大部分DLL，对于少数游戏，还是无法解决。对此，我们深感抱歉，也期望您能理解。 RPGEmu给了您在手机上玩那些由RPG Maker MV/MZ/XP制作工具创建的游戏的机会。 尽管RPGEmu不提供任何游戏，获取\"RPG Maker MV/MZ/XP 游戏\"却并非难事。 也许您在电脑上已经有了大量的此类游戏，如果是这样的，将它们转移到手机上的[文件]APP，然后就可以用RPGEmu导入开玩了。 如果游戏是由RPG Maker MV工具创建的，我们称之为RPG Maker MV游戏，简称[MV Game]。 如果游戏是由RPG Maker MZ工具创建的，我们称之为RPG Maker MZ游戏，简称[MZ Game]。 如果游戏是由RPG Maker XP/VXAce/VX工具创建的，我们称之为RPG Maker XP游戏，简称[XP Game]。 一旦您安装了RPGEmu，您将可以在手机上玩那些Windows [MV Game] / [MZ Game] / [XP Game]类型的游戏包。",
+    "summaryDescription": "提示: [1]. RPGEmu主要用于运行基于RPG Maker MV/MZ工具创建的游戏，我们称之为MV游戏/MZ游戏，除非游戏采用复杂的加密技术加密了，否则大部分MV/MZ游戏应该都可以玩，如果不能，随时通过APP里面的反馈与我们联系。 [2]. RPGEmu也能够运行一些基于RPG Maker XP/VXAce/VX 工具创建的游戏，我们称之为XP游戏，然而，由于此类游戏与windows往往有不同程度的DLL绑定，且考虑到RPGEmu是基于Ruby 3创建的，大多数旧游戏如未重写，是基于Ruby 1.8/1.9的，模拟一个完全兼容的游戏环境存在一定的难度，尽管我们模拟了大部分DLL，且内置了10来个补丁用于解决兼容问题，但无法做到像MV/MZ游戏那样接近完美。所以，我们希望当您遇到某个游戏无法使用RPGEmu运行时，是您已经预期到的结果。好消息是，我们内部测试了大约30个游戏，有旧游戏，也有新游戏，其实也不算新，只不过是同人游戏，社区在不断更新而已，游戏本身其实很古早了，这30个游戏，部分直接能玩，部分打了1个补丁，部分打了2个补丁，还有部分打了6个补丁，仅2个游戏打完补丁最终游戏崩溃了无法玩，也就是说大部分此类游戏应该能玩，但我们不希望您的预期是所有游戏都能玩。 [3]. 如果您期望买了一个模拟器，就可以玩所有MV/MZ/XP游戏，那么您不应购买RPGEmu，因为RPGEmu满足不了如此苛刻的预期。 [4]. 或者说您买RPGEmu就是为了玩某个游戏，玩不了就打算卸载RPGEmu的，除非您已经确定RPGEmu能玩那个游戏，否则，还是希望您不要购买RPGEmu。 [5]. RPGEmu是用来玩大部分MV/MZ/XP/VXAce/VX游戏包的，并不是特别为某个游戏设计的，您手上的游戏包越多，RPGEmu才会越发显得有价值。 [6]. 如果您手上没有RPG Maker MV/MZ/XP游戏资源，或者说不知道从何处下载这些资源，Safari下载的资源将会处于[文件]APP的下载里面，可以直接导入到RPGEmu，如果您完全不知如何获取资源，手上也没有资源，那么不要安装RPGEmu，因为这个APP是一个空壳工具，仅仅自带了3个极其简单的示例游戏，可用于功能测试，但无可玩性。您需要有自己的资源，RPGEmu将助您畅玩那些游戏资源。 [7]. 游戏兼容性参考：https://gzqyl.github.io/rpgemu-compatibility-list （欢迎提交PR，将您成功玩过的游戏名新增到列表里面） 为什么选择RPGEmu呢? 1.SwiftUI设计，玩或者不玩RPG Maker游戏变得非常简单 2.支持直接导入MV/MZ/XP Windows游戏包，无需电脑，即可在手机上畅玩那些游戏 3.虚拟键盘的设计，让操控游戏角色变得更简单 注意: 在导入游戏包的时候，千万不要切出应用，必须耐心等待文件传输完成，否则，传输一旦被意外中断，您将需要重新开始传输。 对于大文件游戏包，最好将其事先置入[文件]APP，这样传输起来更稳定，U盘方式我们测试发现，可能由于接触不稳定，部分文件在传输中丢失了，导致游戏报错。 大约预留3倍于游戏包大小的可用磁盘空间，不然传输可能无法完成，即使完成，也可能因空间不够，造成部分文件未传。 应用内置了3个示例游戏，仅用于功能测试，无可玩性。获取此类游戏资源其实非常简单，很多都是可免费获取的，仅我们测试的MV/MZ就有多于100个免费的，当然，我们也测试了近30个XP/VXAce/VX游戏。 为什么RPGEmu只能玩一半XP/VXAce/VX游戏呢？因为RPGEmu是基于Ruby 3创建的，然后很多旧游戏是Ruby 1.8/1.9写的，这样，RPGEmu就会尝试应用补丁，尽管补丁解决了一大部分旧游戏，但仍然无法解决部分游戏。另外，某些游戏与Windows绑定过深，极难在iOS上还原那些DLL，尽管RPGEmu已经模拟了大部分DLL，对于少数游戏，还是无法解决。对此，我们深感抱歉，也期望您能理解。 RPGEmu给了您在手机上玩那些由RPG Maker MV/MZ/XP制作工具创建的游戏的机会。 尽管RPGEmu不提供任何游戏，获取\"RPG Maker MV/MZ/XP 游戏\"却并非难事。 也许您在电脑上已经有了大量的此类游戏，如果是这样的，将它们转移到手机上的[文件]APP，然后就可以用RPGEmu导入开玩了。 如果游戏是由RPG Maker MV工具创建的，我们称之为RPG Maker MV游戏，简称[MV Game]。 如果游戏是由RPG Maker MZ工具创建的，我们称之为RPG Maker MZ游戏，简称[MZ Game]。 如果游戏是由RPG Maker XP/VXAce/VX工具创建的，我们称之为RPG Maker XP游戏，简称[XP Game]。 一旦您安装了RPGEmu，您将可以在手机上玩那些Windows [MV Game] / [MZ Game] / [XP Game]类型的游戏包。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/62/c4/2f62c469-4e55-098a-f1dc-cb8a51942feb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/62/c4/2f62c469-4e55-098a-f1dc-cb8a51942feb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Ping Yan",
+    "artistName": "Ping Yan",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/64/22/8a64225c-3e5e-8faa-6599-21d3420c4ace/Apple_iPhone_16_Pro_Max_Screenshot_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/c3/34/d7c3342d-f5f4-1cf9-4f44-2786feba8edf/Apple_iPhone_16_Pro_Max_Screenshot_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/f4/bc/08f4bc8f-d8ca-e5a7-fbaf-fbc6c55b66b8/Apple_iPhone_16_Pro_Max_Screenshot_3.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/af/8a/a8af8a01-3bbb-e133-26f0-5501d52b5249/Apple_iPad_Pro_12.9_Inch_Screenshot_1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/94/f1/fd94f1b3-052e-aafa-d254-cb72bcefaf4c/Apple_iPad_Pro_12.9_Inch_Screenshot_2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/25/4c/45254c50-ce27-b88a-083a-e989e1d49d06/Apple_iPad_Pro_12.9_Inch_Screenshot_3.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1775754328252
+  },
+  "6760336149": {
+    "name": "Store Fly - 一键切换Store",
+    "trackName": "Store Fly - 一键切换Store",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1775754367926,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/store-fly-%E4%B8%80%E9%94%AE%E5%88%87%E6%8D%A2store/id6760336149?uo=4",
+    "description": "Store Fly 帮助你快速打开不同国家和地区的应用页面，轻松浏览全球应用。 只需轻轻一点，即可跳转到其他地区的应用商店页面，发现本地商店中未展示的应用内容。Store Fly 让浏览全球应用变得简单而高效。 ======主要功能====== 全球地区应用浏览 支持打开 175 个国家和地区 的应用商店页面，快速查看不同地区的应用内容。 一键跳转地区应用 无需复杂操作，一键即可打开对应地区的应用页面。 收藏常用地区 将常用国家或地区加入收藏，方便随时快速访问。 最近浏览记录 自动记录最近访问的地区，快速再次打开。 搜索地区 支持搜索国家或地区名称，快速找到对应地区。 简洁与高效 Store Fly 提供简洁直观的界面设计，让你可以轻松浏览不同地区的应用内容，快速发现全球应用。",
+    "fullDescription": "Store Fly 帮助你快速打开不同国家和地区的应用页面，轻松浏览全球应用。 只需轻轻一点，即可跳转到其他地区的应用商店页面，发现本地商店中未展示的应用内容。Store Fly 让浏览全球应用变得简单而高效。 ======主要功能====== 全球地区应用浏览 支持打开 175 个国家和地区 的应用商店页面，快速查看不同地区的应用内容。 一键跳转地区应用 无需复杂操作，一键即可打开对应地区的应用页面。 收藏常用地区 将常用国家或地区加入收藏，方便随时快速访问。 最近浏览记录 自动记录最近访问的地区，快速再次打开。 搜索地区 支持搜索国家或地区名称，快速找到对应地区。 简洁与高效 Store Fly 提供简洁直观的界面设计，让你可以轻松浏览不同地区的应用内容，快速发现全球应用。",
+    "summaryDescription": "Store Fly 帮助你快速打开不同国家和地区的应用页面，轻松浏览全球应用。 只需轻轻一点，即可跳转到其他地区的应用商店页面，发现本地商店中未展示的应用内容。Store Fly 让浏览全球应用变得简单而高效。 ======主要功能====== 全球地区应用浏览 支持打开 175 个国家和地区 的应用商店页面，快速查看不同地区的应用内容。 一键跳转地区应用 无需复杂操作，一键即可打开对应地区的应用页面。 收藏常用地区 将常用国家或地区加入收藏，方便随时快速访问。 最近浏览记录 自动记录最近访问的地区，快速再次打开。 搜索地区 支持搜索国家或地区名称，快速找到对应地区。 简洁与高效 Store Fly 提供简洁直观的界面设计，让你可以轻松浏览不同地区的应用内容，快速发现全球应用。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/9d/08/b89d08d3-24c2-7fd6-8628-70973ec46aea/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/9d/08/b89d08d3-24c2-7fd6-8628-70973ec46aea/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+    "sellerName": "媛媛 何",
+    "artistName": "媛媛 何",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/0c/5f/bb0c5f5e-6ece-0511-a24b-e28a4de23118/Screenshot01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/0c/3a/880c3ab9-fda7-8f60-50c5-dfad5a8d4f40/Screenshot04.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/35/42/5d354231-c782-7789-3468-e75d3c5fa122/Screenshot03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/dd/9f/2ddd9fb5-c6b3-5eea-a75d-b54524cf8a82/Screenshot02.png/320x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1775754328252
+  },
+  "6760647645": {
+    "name": "Vyst: Write without editing",
+    "trackName": "Vyst: Write without editing",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1776280466317,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1776265525576,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1775754367926,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/vyst-write-without-editing/id6760647645?uo=4",
+    "description": "Vyst frees your thoughts from editing. Your words fade as you write, so you can focus on what you're thinking, not how you're saying it. No cursor jumping back. No rewording. Just pure, unfiltered writing. How it works Start typing and watch your words gently dissolve behind you. Everything is saved, but hidden from view until you're done. Swipe down to finish and see your complete text. Perfect for Morning pages & freewriting Journaling without judgment Capturing ideas before they slip away Getting past writer's block Mindful reflection Features Words fade as you type iCloud sync across devices Beautiful minimal themes Your writing stays private, no accounts, no tracking Export to Notes, Files, or share anywhere Write freely. Edit later.",
+    "fullDescription": "Vyst frees your thoughts from editing. Your words fade as you write, so you can focus on what you're thinking, not how you're saying it. No cursor jumping back. No rewording. Just pure, unfiltered writing. How it works Start typing and watch your words gently dissolve behind you. Everything is saved, but hidden from view until you're done. Swipe down to finish and see your complete text. Perfect for Morning pages & freewriting Journaling without judgment Capturing ideas before they slip away Getting past writer's block Mindful reflection Features Words fade as you type iCloud sync across devices Beautiful minimal themes Your writing stays private, no accounts, no tracking Export to Notes, Files, or share anywhere Write freely. Edit later.",
+    "summaryDescription": "Vyst frees your thoughts from editing. Your words fade as you write, so you can focus on what you're thinking, not how you're saying it. No cursor jumping back. No rewording. Just pure, unfiltered writing. How it works Start typing and watch your words gently dissolve behind you. Everything is saved, but hidden from view until you're done. Swipe down to finish and see your complete text. Perfect for Morning pages & freewriting Journaling without judgment Capturing ideas before they slip away Getting past writer's block Mindful reflection Features Words fade as you type iCloud sync across devices Beautiful minimal themes Your writing stays private, no accounts, no tracking Export to Notes, Files, or share anywhere Write freely. Edit later.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/14/e5/cb14e5ab-d23c-45a2-23a2-f565e4d8e2af/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/14/e5/cb14e5ab-d23c-45a2-23a2-f565e4d8e2af/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "sellerName": "Johan Thorell",
+    "artistName": "Johan Thorell",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/68/4a/a8684a81-478a-2455-d573-49c5e6bddfed/iPhone_17_Pro_Max-03_WritingWithText.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/f6/00/fbf60033-2369-7e60-24e8-00d79caaca9c/iPhone_17_Pro_Max-02_WordsFading.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/9b/dc/109bdcf5-be68-a96f-a5ed-f3c63857b342/iPhone_17_Pro_Max-04_ExportView.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/7c/86/d57c868b-fe5d-b732-b15b-e5b902ce0583/iPhone_17_Pro_Max-05_NotesList.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/e2/5d/3ae25de8-054c-dc06-ec51-481aea0923a1/iPhone_17_Pro_Max-08_ThemeForest.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/34/4f/35344fef-f6ee-b2dc-f3bf-33bf549a1d42/iPad_Air_11-inch__U0028M4_U0029-03_WritingWithText.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/2d/63/872d638b-f3cc-3eb2-f903-30d56609ba02/iPad_Air_11-inch__U0028M4_U0029-02_WordsFading.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/85/57/1485576e-d111-354e-d190-be7b2b152ad3/iPad_Air_11-inch__U0028M4_U0029-04_ExportView.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/c4/71/48c47162-cc88-5dac-493c-0bb166fd13d0/iPad_Air_11-inch__U0028M4_U0029-05_NotesList.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/18/82/6d1882cc-3f65-d13f-a4c1-32499e7e8b1f/iPad_Air_11-inch__U0028M4_U0029-08_ThemeForest.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1775754334201
+  },
   "6761722905": {
     "name": "MeterGlass",
     "trackName": "MeterGlass",
@@ -30210,13 +30468,25 @@
     "trackName": "Alpin Quest PRO – Outdoor GPS",
     "maxPriceInfo": {
       "price": 68,
-      "formattedPrice": "¥68.00"
+      "formattedPrice": "¥68.00",
+      "Saha Ekip Modu": "¥38.00"
     },
     "minPriceInfo": {
       "price": 68,
-      "formattedPrice": "¥68.00"
+      "formattedPrice": "¥68.00",
+      "Saha Ekip Modu": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790250932565,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "Saha Ekip Modu": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776501968606,
@@ -30227,29 +30497,28 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/alpin-quest-pro-outdoor-gps/id6760764479?uo=4",
-    "description": "ALPINE QUEST PRO - Outdoor GPS Alpine Quest is an advanced GPS navigation and field management application developed for military personnel, geological and survey engineers, field staff, tactical units, mountaineers, hunters, and off-road professionals. It is used worldwide with 32-language support. Using ArcGIS and QGIS project files. MILITARY & TACTICAL USE MGRS (Military Grid Reference System) — Full military coordinate support USNG (United States National Grid) and UTM grid systems DTG (Date-Time Group) time format — Zulu and local time Military grid lines (MGRS grid overlay) on the map Tactical movement and route planning Full offline functionality — Operation without cellular network All data on device — No server transfer (operational security) GEOLOGY & SURVEY ENGINEERING Area boundary determination and calculation via Polygons KML/GPX/GeoJSON field data import/export MGRS and UTM coordinate conversions Topographic and satellite map layers Contour (isohypse) and hillshade relief layers Parcel/field boundary drawing with multi-point selection Land Registry/Cadastre compatible KML format Custom geology map uploads in MBTiles format TACTICAL COORDINATE SYSTEMS MGRS (Military Grid Reference System) UTM, USNG, QTH and decimal LAT/LON formats Real-time coordinate conversion ADVANCED MAPPING SYSTEM Topographic, satellite, road, and hybrid map layers Military grid lines (MGRS grid overlay) Offline map downloading for field operations Custom map uploads with MBTiles format 3D terrain view and elevation profiles TARGET & WAYPOINT MANAGEMENT Unlimited waypoint recording and management Manual target entry with MGRS coordinates Real-time distance, bearing, and ETA to active targets Waypoint sharing via specialized deep links PHOTO WAYPOINTS Document critical points with photos during operations. MULTI-FORMAT FILE SUPPORT GPX (waypoint, route, track) — Military and civil compatibility KML (Google Earth) — Point, LineString, Polygon, MultiGeometry KMZ (compressed KML) — Automatic extraction GeoJSON — For modern web maps Direct file opening from WhatsApp, Mail, and Files Smart format detection — Automatically directs files to the correct tab ADVANCED ROUTE SYSTEM Tactical route drawing on the map Multi-point route planning Full route editing — Move, delete, or add points Segment midpoint editing — Add curves between two points Route deviation alerts and direction correction Movement mode — Integrated active navigation and track recording Export and share routes as GPX/KML FIELD TRACK RECORDING Seamless background track recording Speed, distance, elevation, ascent/descent statistics View saved tracks on the map Navigate with Track — Use recorded tracks as routes Track sharing (GPX/KML format) High-precision digital compass Off-course indicator ON-MAP DRAWING Use the briefing tool for freehand drawing. AREA MANAGEMENT Polygon area creation and editing Automatic area import from KML (land registry/cadastre compatible) Area calculation (m² / km² / acre / hectare) FIELD TOOLS Coordinate converter (LAT/LON ↔ MGRS ↔ UTM) Polygon area calculator Distance measurement tool Offline map cache management Weather integration Elevation and slope analysis tools MULTI-LANGUAGE SUPPORT Support for 32 languages worldwide: Turkish, English, German, French, Spanish, Italian, Dutch, Portuguese, Polish, Norwegian, Bulgarian, Croatian, Lithuanian, Romanian, Slovak, Slovene, Ukrainian, Chinese, Japanese, Korean, Hindi, Indonesian, Malay, Thai, Filipino (Tagalog), Arabic, Persian, Russian, Azerbaijani, Kazakh, Uzbek, Afrikaans. OPERATIONAL PRIVACY All data is stored only on your device No data sent to servers — Critical for military operations Sensitive location data stays on the device USE CASES Military operations and tactical movement Geology and survey engineering field studies Mineral exploration and drilling coordination Land Registry/Cadastre field verification",
-    "fullDescription": "ALPINE QUEST PRO - Outdoor GPS Alpine Quest is an advanced GPS navigation and field management application developed for military personnel, geological and survey engineers, field staff, tactical units, mountaineers, hunters, and off-road professionals. It is used worldwide with 32-language support. Using ArcGIS and QGIS project files. MILITARY & TACTICAL USE MGRS (Military Grid Reference System) — Full military coordinate support USNG (United States National Grid) and UTM grid systems DTG (Date-Time Group) time format — Zulu and local time Military grid lines (MGRS grid overlay) on the map Tactical movement and route planning Full offline functionality — Operation without cellular network All data on device — No server transfer (operational security) GEOLOGY & SURVEY ENGINEERING Area boundary determination and calculation via Polygons KML/GPX/GeoJSON field data import/export MGRS and UTM coordinate conversions Topographic and satellite map layers Contour (isohypse) and hillshade relief layers Parcel/field boundary drawing with multi-point selection Land Registry/Cadastre compatible KML format Custom geology map uploads in MBTiles format TACTICAL COORDINATE SYSTEMS MGRS (Military Grid Reference System) UTM, USNG, QTH and decimal LAT/LON formats Real-time coordinate conversion ADVANCED MAPPING SYSTEM Topographic, satellite, road, and hybrid map layers Military grid lines (MGRS grid overlay) Offline map downloading for field operations Custom map uploads with MBTiles format 3D terrain view and elevation profiles TARGET & WAYPOINT MANAGEMENT Unlimited waypoint recording and management Manual target entry with MGRS coordinates Real-time distance, bearing, and ETA to active targets Waypoint sharing via specialized deep links PHOTO WAYPOINTS Document critical points with photos during operations. MULTI-FORMAT FILE SUPPORT GPX (waypoint, route, track) — Military and civil compatibility KML (Google Earth) — Point, LineString, Polygon, MultiGeometry KMZ (compressed KML) — Automatic extraction GeoJSON — For modern web maps Direct file opening from WhatsApp, Mail, and Files Smart format detection — Automatically directs files to the correct tab ADVANCED ROUTE SYSTEM Tactical route drawing on the map Multi-point route planning Full route editing — Move, delete, or add points Segment midpoint editing — Add curves between two points Route deviation alerts and direction correction Movement mode — Integrated active navigation and track recording Export and share routes as GPX/KML FIELD TRACK RECORDING Seamless background track recording Speed, distance, elevation, ascent/descent statistics View saved tracks on the map Navigate with Track — Use recorded tracks as routes Track sharing (GPX/KML format) High-precision digital compass Off-course indicator ON-MAP DRAWING Use the briefing tool for freehand drawing. AREA MANAGEMENT Polygon area creation and editing Automatic area import from KML (land registry/cadastre compatible) Area calculation (m² / km² / acre / hectare) FIELD TOOLS Coordinate converter (LAT/LON ↔ MGRS ↔ UTM) Polygon area calculator Distance measurement tool Offline map cache management Weather integration Elevation and slope analysis tools MULTI-LANGUAGE SUPPORT Support for 32 languages worldwide: Turkish, English, German, French, Spanish, Italian, Dutch, Portuguese, Polish, Norwegian, Bulgarian, Croatian, Lithuanian, Romanian, Slovak, Slovene, Ukrainian, Chinese, Japanese, Korean, Hindi, Indonesian, Malay, Thai, Filipino (Tagalog), Arabic, Persian, Russian, Azerbaijani, Kazakh, Uzbek, Afrikaans. OPERATIONAL PRIVACY All data is stored only on your device No data sent to servers — Critical for military operations Sensitive location data stays on the device USE CASES Military operations and tactical movement Geology and survey engineering field studies Mineral exploration and drilling coordination Land Registry/Cadastre field verification",
-    "summaryDescription": "ALPINE QUEST PRO - Outdoor GPS Alpine Quest is an advanced GPS navigation and field management application developed for military personnel, geological and survey engineers, field staff, tactical units, mountaineers, hunters, and off-road professionals. It is used worldwide with 32-language support. Using ArcGIS and QGIS project files. MILITARY & TACTICAL USE MGRS (Military Grid Reference System) — Full military coordinate support USNG (United States National Grid) and UTM grid systems DTG (Date-Time Group) time format — Zulu and local time Military grid lines (MGRS grid overlay) on the map Tactical movement and route planning Full offline functionality — Operation without cellular network All data on device — No server transfer (operational security) GEOLOGY & SURVEY ENGINEERING Area boundary determination and calculation via Polygons KML/GPX/GeoJSON field data import/export MGRS and UTM coordinate conversions Topographic and satellite map layers Contour (isohypse) and hillshade relief layers Parcel/field boundary drawing with multi-point selection Land Registry/Cadastre compatible KML format Custom geology map uploads in MBTiles format TACTICAL COORDINATE SYSTEMS MGRS (Military Grid Reference System) UTM, USNG, QTH and decimal LAT/LON formats Real-time coordinate conversion ADVANCED MAPPING SYSTEM Topographic, satellite, road, and hybrid map layers Military grid lines (MGRS grid overlay) Offline map downloading for field operations Custom map uploads with MBTiles format 3D terrain view and elevation profiles TARGET & WAYPOINT MANAGEMENT Unlimited waypoint recording and management Manual target entry with MGRS coordinates Real-time distance, bearing, and ETA to active targets Waypoint sharing via specialized deep links PHOTO WAYPOINTS Document critical points with photos during operations. MULTI-FORMAT FILE SUPPORT GPX (waypoint, route, track) — Military and civil compatibility KML (Google Earth) — Point, LineString, Polygon, MultiGeometry KMZ (compressed KML) — Automatic extraction GeoJSON — For modern web maps Direct file opening from WhatsApp, Mail, and Files Smart format detection — Automatically directs files to the correct tab ADVANCED ROUTE SYSTEM Tactical route drawing on the map Multi-point route planning Full route editing — Move, delete, or add points Segment midpoint editing — Add curves between two points Route deviation alerts and direction correction Movement mode — Integrated active navigation and track recording Export and share routes as GPX/KML FIELD TRACK RECORDING Seamless background track recording Speed, distance, elevation, ascent/descent statistics View saved tracks on the map Navigate with Track — Use recorded tracks as routes Track sharing (GPX/KML format) High-precision digital compass Off-course indicator ON-MAP DRAWING Use the briefing tool for freehand drawing. AREA MANAGEMENT Polygon area creation and editing Automatic area import from KML (land registry/cadastre compatible) Area calculation (m² / km² / acre / hectare) FIELD TOOLS Coordinate converter (LAT/LON ↔ MGRS ↔ UTM) Polygon area calculator Distance measurement tool Offline map cache management Weather integration Elevation and slope analysis tools MULTI-LANGUAGE SUPPORT Support for 32 languages worldwide: Turkish, English, German, French, Spanish, Italian, Dutch, Portuguese, Polish, Norwegian, Bulgarian, Croatian, Lithuanian, Romanian, Slovak, Slovene, Ukrainian, Chinese, Japanese, Korean, Hindi, Indonesian, Malay, Thai, Filipino (Tagalog), Arabic, Persian, Russian, Azerbaijani, Kazakh, Uzbek, Afrikaans. OPERATIONAL PRIVACY All data is stored only on your device No data sent to servers — Critical for military operations Sensitive location data stays on the device USE CASES Military operations and tactical movement Geology and survey engineering field studies Mineral exploration and drilling coordination Land Registry/Cadastre field verification",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/15/64/131564cf-f0cf-b95f-fe92-5d33913abcf9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/15/64/131564cf-f0cf-b95f-fe92-5d33913abcf9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "description": "ALPINE QUEST PRO - Outdoor GPS Alpine Quest is an advanced GPS navigation and field management application developed for military personnel, geological and survey engineers, field staff, tactical units, mountaineers, hunters, and off-road professionals. It is used worldwide with 32-language support. Using ArcGIS and QGIS project files. MILITARY & TACTICAL USE MGRS (Military Grid Reference System) — Full military coordinate support USNG (United States National Grid) and UTM grid systems DTG (Date-Time Group) time format — Zulu and local time Military grid lines (MGRS grid overlay) on the map Tactical movement and route planning Full offline functionality — Operation without cellular network All data on device — No server transfer (operational security) GEOLOGY & SURVEY ENGINEERING Area boundary determination and calculation via Polygons KML/GPX/GeoJSON field data import/export MGRS and UTM coordinate conversions Topographic and satellite map layers Contour (isohypse) and hillshade relief layers Parcel/field boundary drawing with multi-point selection Land Registry/Cadastre compatible KML format Custom geology map uploads in MBTiles format TACTICAL COORDINATE SYSTEMS MGRS (Military Grid Reference System) UTM, USNG, QTH and decimal LAT/LON formats Real-time coordinate conversion ADVANCED MAPPING SYSTEM Topographic, satellite, road, and hybrid map layers Military grid lines (MGRS grid overlay) Offline map downloading for field operations Custom map uploads with MBTiles format 3D terrain view and elevation profiles TARGET & WAYPOINT MANAGEMENT Unlimited waypoint recording and management Manual target entry with MGRS coordinates Real-time distance, bearing, and ETA to active targets Waypoint sharing via specialized deep links PHOTO WAYPOINTS Document critical points with photos during operations. MULTI-FORMAT FILE SUPPORT GPX (waypoint, route, track) — Military and civil compatibility KML (Google Earth) — Point, LineString, Polygon, MultiGeometry KMZ (compressed KML) — Automatic extraction GeoJSON — For modern web maps Direct file opening from WhatsApp, Mail, and Files Smart format detection — Automatically directs files to the correct tab ADVANCED ROUTE SYSTEM Tactical route drawing on the map Multi-point route planning Full route editing — Move, delete, or add points Segment midpoint editing — Add curves between two points Route deviation alerts and direction correction Movement mode — Integrated active navigation and track recording Export and share routes as GPX/KML FIELD TRACK RECORDING Seamless background track recording Speed, distance, elevation, ascent/descent statistics View saved tracks on the map Navigate with Track — Use recorded tracks as routes Track sharing (GPX/KML format) High-precision digital compass Off-course indicator ON-MAP DRAWING Use the briefing tool for freehand drawing. AREA MANAGEMENT Polygon area creation and editing Automatic area import from KML (land registry/cadastre compatible) Area calculation (m² / km² / acre / hectare) FIELD TOOLS Coordinate converter (LAT/LON ↔ MGRS ↔ UTM) Polygon area calculator Distance measurement tool Offline map cache management Weather integration Elevation and slope analysis tools Field Team Mode is offered as an auto-renewable monthly subscription. The subscription renews automatically unless cancelled at least 24 hours before the end of the current period. You can manage or cancel it in the Subscriptions section of your device Settings. Privacy Policy: https://www.cte.militaryapp.net/2026/09/14/alpin-quest-pro-outdoor-gps/ Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "fullDescription": "ALPINE QUEST PRO - Outdoor GPS Alpine Quest is an advanced GPS navigation and field management application developed for military personnel, geological and survey engineers, field staff, tactical units, mountaineers, hunters, and off-road professionals. It is used worldwide with 32-language support. Using ArcGIS and QGIS project files. MILITARY & TACTICAL USE MGRS (Military Grid Reference System) — Full military coordinate support USNG (United States National Grid) and UTM grid systems DTG (Date-Time Group) time format — Zulu and local time Military grid lines (MGRS grid overlay) on the map Tactical movement and route planning Full offline functionality — Operation without cellular network All data on device — No server transfer (operational security) GEOLOGY & SURVEY ENGINEERING Area boundary determination and calculation via Polygons KML/GPX/GeoJSON field data import/export MGRS and UTM coordinate conversions Topographic and satellite map layers Contour (isohypse) and hillshade relief layers Parcel/field boundary drawing with multi-point selection Land Registry/Cadastre compatible KML format Custom geology map uploads in MBTiles format TACTICAL COORDINATE SYSTEMS MGRS (Military Grid Reference System) UTM, USNG, QTH and decimal LAT/LON formats Real-time coordinate conversion ADVANCED MAPPING SYSTEM Topographic, satellite, road, and hybrid map layers Military grid lines (MGRS grid overlay) Offline map downloading for field operations Custom map uploads with MBTiles format 3D terrain view and elevation profiles TARGET & WAYPOINT MANAGEMENT Unlimited waypoint recording and management Manual target entry with MGRS coordinates Real-time distance, bearing, and ETA to active targets Waypoint sharing via specialized deep links PHOTO WAYPOINTS Document critical points with photos during operations. MULTI-FORMAT FILE SUPPORT GPX (waypoint, route, track) — Military and civil compatibility KML (Google Earth) — Point, LineString, Polygon, MultiGeometry KMZ (compressed KML) — Automatic extraction GeoJSON — For modern web maps Direct file opening from WhatsApp, Mail, and Files Smart format detection — Automatically directs files to the correct tab ADVANCED ROUTE SYSTEM Tactical route drawing on the map Multi-point route planning Full route editing — Move, delete, or add points Segment midpoint editing — Add curves between two points Route deviation alerts and direction correction Movement mode — Integrated active navigation and track recording Export and share routes as GPX/KML FIELD TRACK RECORDING Seamless background track recording Speed, distance, elevation, ascent/descent statistics View saved tracks on the map Navigate with Track — Use recorded tracks as routes Track sharing (GPX/KML format) High-precision digital compass Off-course indicator ON-MAP DRAWING Use the briefing tool for freehand drawing. AREA MANAGEMENT Polygon area creation and editing Automatic area import from KML (land registry/cadastre compatible) Area calculation (m² / km² / acre / hectare) FIELD TOOLS Coordinate converter (LAT/LON ↔ MGRS ↔ UTM) Polygon area calculator Distance measurement tool Offline map cache management Weather integration Elevation and slope analysis tools Field Team Mode is offered as an auto-renewable monthly subscription. The subscription renews automatically unless cancelled at least 24 hours before the end of the current period. You can manage or cancel it in the Subscriptions section of your device Settings. Privacy Policy: https://www.cte.militaryapp.net/2026/09/14/alpin-quest-pro-outdoor-gps/ Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "summaryDescription": "ALPINE QUEST PRO - Outdoor GPS Alpine Quest is an advanced GPS navigation and field management application developed for military personnel, geological and survey engineers, field staff, tactical units, mountaineers, hunters, and off-road professionals. It is used worldwide with 32-language support. Using ArcGIS and QGIS project files. MILITARY & TACTICAL USE MGRS (Military Grid Reference System) — Full military coordinate support USNG (United States National Grid) and UTM grid systems DTG (Date-Time Group) time format — Zulu and local time Military grid lines (MGRS grid overlay) on the map Tactical movement and route planning Full offline functionality — Operation without cellular network All data on device — No server transfer (operational security) GEOLOGY & SURVEY ENGINEERING Area boundary determination and calculation via Polygons KML/GPX/GeoJSON field data import/export MGRS and UTM coordinate conversions Topographic and satellite map layers Contour (isohypse) and hillshade relief layers Parcel/field boundary drawing with multi-point selection Land Registry/Cadastre compatible KML format Custom geology map uploads in MBTiles format TACTICAL COORDINATE SYSTEMS MGRS (Military Grid Reference System) UTM, USNG, QTH and decimal LAT/LON formats Real-time coordinate conversion ADVANCED MAPPING SYSTEM Topographic, satellite, road, and hybrid map layers Military grid lines (MGRS grid overlay) Offline map downloading for field operations Custom map uploads with MBTiles format 3D terrain view and elevation profiles TARGET & WAYPOINT MANAGEMENT Unlimited waypoint recording and management Manual target entry with MGRS coordinates Real-time distance, bearing, and ETA to active targets Waypoint sharing via specialized deep links PHOTO WAYPOINTS Document critical points with photos during operations. MULTI-FORMAT FILE SUPPORT GPX (waypoint, route, track) — Military and civil compatibility KML (Google Earth) — Point, LineString, Polygon, MultiGeometry KMZ (compressed KML) — Automatic extraction GeoJSON — For modern web maps Direct file opening from WhatsApp, Mail, and Files Smart format detection — Automatically directs files to the correct tab ADVANCED ROUTE SYSTEM Tactical route drawing on the map Multi-point route planning Full route editing — Move, delete, or add points Segment midpoint editing — Add curves between two points Route deviation alerts and direction correction Movement mode — Integrated active navigation and track recording Export and share routes as GPX/KML FIELD TRACK RECORDING Seamless background track recording Speed, distance, elevation, ascent/descent statistics View saved tracks on the map Navigate with Track — Use recorded tracks as routes Track sharing (GPX/KML format) High-precision digital compass Off-course indicator ON-MAP DRAWING Use the briefing tool for freehand drawing. AREA MANAGEMENT Polygon area creation and editing Automatic area import from KML (land registry/cadastre compatible) Area calculation (m² / km² / acre / hectare) FIELD TOOLS Coordinate converter (LAT/LON ↔ MGRS ↔ UTM) Polygon area calculator Distance measurement tool Offline map cache management Weather integration Elevation and slope analysis tools Field Team Mode is offered as an auto-renewable monthly subscription. The subscription renews automatically unless cancelled at least 24 hours before the end of the current period. You can manage or cancel it in the Subscriptions section of your device Settings. Privacy Policy: https://www.cte.militaryapp.net/2026/09/14/alpin-quest-pro-outdoor-gps/ Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/d2/ec/39d2eccd-f8df-d53d-b048-9504f6ca82df/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/d2/ec/39d2eccd-f8df-d53d-b048-9504f6ca82df/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "mustafa pistofoglu",
     "artistName": "mustafa pistofoglu",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/75/24/b0752444-72cb-459f-6342-427458f27f09/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U00281_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/2b/9d/af2b9da6-b039-3030-5231-a8186f8d975c/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U00283_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/27/ce/ec27cea3-ca27-f801-646e-e5ccfdce0930/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U00286_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/87/d7/ed87d7d2-11f5-7853-74f7-cbcd2561bc2a/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U00282_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/a3/31/b4a33104-d89f-dfc4-4e27-15689e14a2e8/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U002811_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/da/e4/33dae497-6b8a-b7af-9c58-9928850b6878/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U002810_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/51/7c/6f517c26-b312-5729-44bb-860198cf2206/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U002815_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/41/8b/94418b53-1a8e-80e9-6735-1026b8160242/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U002814_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/db/08/2edb08f6-7dde-1287-7df5-9db77791f863/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U002812_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/c1/2e/d1c12e70-b4dc-9f36-bf84-1a77887a1fc7/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U002813_U0029.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/e6/bf/e1e6bfbe-7a0f-9312-8b80-3abde5172f5d/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U00281_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/9f/6b/0b9f6b65-fdf5-ad0b-7a7a-239af7c4e6e2/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U00283_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/c6/34/dfc634b4-4166-70ea-2b8e-aa488e537c50/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U00286_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/36/0e/75360e0b-3da3-51c8-1ce0-2a486cfb1703/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U00282_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/c2/ae/51c2ae43-268c-d778-c9af-9feb09d44c21/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U00284_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/d2/35/9cd2354d-0176-a3d7-84a9-e6e603251307/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U002811_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/39/93/37399369-42ca-3de1-78da-6a1ba9daa5e6/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U002810_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/ac/c6/b7acc68d-4808-f0dc-82fb-c48c7bdb41cd/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U002815_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/6c/68/fe6c68f0-f49f-756e-b41c-4d7981467d3b/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U002814_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/a0/6c/fca06c01-6a22-1877-7362-3a84068953d2/uygulama_tanitim_kopyasi__U00281260_x_2736_piksel_U0029_kopyasi_kopyasi__U002813_U0029.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/a7/92/afa792d8-198f-22d4-1a63-79d27ecee2fd/Apple_iPad_Pro_12.9_Inch_Screenshot_1.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/89/7a/a4897afa-fd4b-cb89-ce26-3bda4b4a4221/Apple_iPad_Pro_12.9_Inch_Screenshot_2.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/63/5f/9e635fee-7580-ed9b-c4e2-46345825a3ee/Apple_iPad_Pro_12.9_Inch_Screenshot_3.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/00/94/1e00948e-3ab3-e02d-bde6-bdac5ed1ed62/Adsiz_Tasarim_Kopyasi_Kopyasi__U00284_U0029.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/34/67/ca3467a9-c597-3dda-7e61-4dc8b1ef0660/Adsiz_Tasarim_Kopyasi_Kopyasi__U00283_U0029.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1776501942793
   },
@@ -39704,9 +39973,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/jpg-converter/id6475955513?uo=4",
-    "description": "快速将您的照片转换为 JPG、PNG、HEIC 或 PDF 格式。直接从手机轻松转换、压缩和共享照片，从而可以在各种设备上无缝共享。该应用程序优先考虑便利性，让您只需点击几下即可快速转换和管理您的照片。对于高级用户，此应用程序可以转换色彩空间以优化照片质量和兼容性。主要功能： 批量转换：批量选择并转换多张照片以节省时间。压缩调整：压缩照片以节省设备存储空间。支持多",
-    "fullDescription": "快速将您的照片转换为 JPG、PNG、HEIC 或 PDF 格式。直接从手机轻松转换、压缩和共享照片，从而可以在各种设备上无缝共享。该应用程序优先考虑便利性，让您只需点击几下即可快速转换和管理您的照片。对于高级用户，此应用程序可以转换色彩空间以优化照片质量和兼容性。主要功能： 批量转换：批量选择并转换多张照片以节省时间。压缩调整：压缩照片以节省设备存储空间。支持多",
-    "summaryDescription": "快速将您的照片转换为 JPG、PNG、HEIC 或 PDF 格式。直接从手机轻松转换、压缩和共享照片，从而可以在各种设备上无缝共享。该应用程序优先考虑便利性，让您只需点击几下即可快速转换和管理您的照片。对于高级用户，此应用程序可以转换色彩空间以优化照片质量和兼容性。主要功能： 批量转换：批量选择并转换多张照片以节省时间。压缩调整：压缩照片以节省设备存储空间。支持多",
+    "description": "快速将您的照片转换为 JPG、PNG、HEIC 或 PDF 格式。直接从手机轻松转换、压缩和共享照片，从而可以在各种设备上无缝共享。该应用程序优先考虑便利性，让您只需轻按几下即可快速转换和管理您的照片。对于高级用户，此应用程序可以转换色彩空间以优化照片质量和兼容性。主要功能： 批量转换：批量选择并转换多张照片以节省时间。压缩调整：压缩照片以节省设备存储空间。支持多",
+    "fullDescription": "快速将您的照片转换为 JPG、PNG、HEIC 或 PDF 格式。直接从手机轻松转换、压缩和共享照片，从而可以在各种设备上无缝共享。该应用程序优先考虑便利性，让您只需轻按几下即可快速转换和管理您的照片。对于高级用户，此应用程序可以转换色彩空间以优化照片质量和兼容性。主要功能： 批量转换：批量选择并转换多张照片以节省时间。压缩调整：压缩照片以节省设备存储空间。支持多",
+    "summaryDescription": "快速将您的照片转换为 JPG、PNG、HEIC 或 PDF 格式。直接从手机轻松转换、压缩和共享照片，从而可以在各种设备上无缝共享。该应用程序优先考虑便利性，让您只需轻按几下即可快速转换和管理您的照片。对于高级用户，此应用程序可以转换色彩空间以优化照片质量和兼容性。主要功能： 批量转换：批量选择并转换多张照片以节省时间。压缩调整：压缩照片以节省设备存储空间。支持多",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/cf/f0/e1cff01a-8afb-3f29-d166-cf4c8cea83d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/cf/f0/e1cff01a-8afb-3f29-d166-cf4c8cea83d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Viet Ho Duc",
@@ -45258,8 +45527,8 @@
     "description": "纯纯水印是一款面向日常分享、版权标识、工作留痕与现场汇报的本地图片水印工具。你可以为照片添加清晰的文字水印，也可以在拍摄时生成带时间、地点和现场信息的打卡水印，还可以把文本以隐藏水印方式写入图片，为作品归属和传播管理保留更多线索。应用支持模板工坊，文本水印与打卡水印分类型管理，可保存多个模板并分别设置默认模板。文本水印支持自定义内容、字号、行距、透明度、角度、颜色和自定义取色，适合社交分享、作品展示、证据留存、资料分发等场景。批量处理可一次选择多张照片并套用文本水印，减少重复操作；即拍即用模式可直接调用相机拍摄并实时预览水印效果。1.2.0 新增打卡水印模板，适用于工程巡检、物业巡查、门店外勤、施工进度、设备记录等需要现场信息的场景。打卡水印固定显示拍摄日期和带时区的时间，可按需展示地点、天气、经纬度和最多 3 个自定义栏目，并支持调整展示顺序；关闭天气、地点或经纬度后，水印会自动保持简洁。隐藏水印功能支持在图片中嵌入或读取文本信息，并提供默认密钥和自定义密钥选项，适合作为版权辅助标识或内部流转标记。所有核心图片处理均在设备本地完成，照片不会上传云端；相册、相机、定位等权限仅在对应功能需要时使用。",
     "fullDescription": "纯纯水印是一款面向日常分享、版权标识、工作留痕与现场汇报的本地图片水印工具。你可以为照片添加清晰的文字水印，也可以在拍摄时生成带时间、地点和现场信息的打卡水印，还可以把文本以隐藏水印方式写入图片，为作品归属和传播管理保留更多线索。应用支持模板工坊，文本水印与打卡水印分类型管理，可保存多个模板并分别设置默认模板。文本水印支持自定义内容、字号、行距、透明度、角度、颜色和自定义取色，适合社交分享、作品展示、证据留存、资料分发等场景。批量处理可一次选择多张照片并套用文本水印，减少重复操作；即拍即用模式可直接调用相机拍摄并实时预览水印效果。1.2.0 新增打卡水印模板，适用于工程巡检、物业巡查、门店外勤、施工进度、设备记录等需要现场信息的场景。打卡水印固定显示拍摄日期和带时区的时间，可按需展示地点、天气、经纬度和最多 3 个自定义栏目，并支持调整展示顺序；关闭天气、地点或经纬度后，水印会自动保持简洁。隐藏水印功能支持在图片中嵌入或读取文本信息，并提供默认密钥和自定义密钥选项，适合作为版权辅助标识或内部流转标记。所有核心图片处理均在设备本地完成，照片不会上传云端；相册、相机、定位等权限仅在对应功能需要时使用。",
     "summaryDescription": "纯纯水印是一款面向日常分享、版权标识、工作留痕与现场汇报的本地图片水印工具。你可以为照片添加清晰的文字水印，也可以在拍摄时生成带时间、地点和现场信息的打卡水印，还可以把文本以隐藏水印方式写入图片，为作品归属和传播管理保留更多线索。应用支持模板工坊，文本水印与打卡水印分类型管理，可保存多个模板并分别设置默认模板。文本水印支持自定义内容、字号、行距、透明度、角度、颜色和自定义取色，适合社交分享、作品展示、证据留存、资料分发等场景。批量处理可一次选择多张照片并套用文本水印，减少重复操作；即拍即用模式可直接调用相机拍摄并实时预览水印效果。1.2.0 新增打卡水印模板，适用于工程巡检、物业巡查、门店外勤、施工进度、设备记录等需要现场信息的场景。打卡水印固定显示拍摄日期和带时区的时间，可按需展示地点、天气、经纬度和最多 3 个自定义栏目，并支持调整展示顺序；关闭天气、地点或经纬度后，水印会自动保持简洁。隐藏水印功能支持在图片中嵌入或读取文本信息，并提供默认密钥和自定义密钥选项，适合作为版权辅助标识或内部流转标记。所有核心图片处理均在设备本地完成，照片不会上传云端；相册、相机、定位等权限仅在对应功能需要时使用。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2f/b7/e42fb7b8-4971-205d-6b70-0a1cf9bab769/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2f/b7/e42fb7b8-4971-205d-6b70-0a1cf9bab769/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/f2/81/b7f2816d-8c66-176d-375e-4f3e97bc84b9/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/f2/81/b7f2816d-8c66-176d-375e-4f3e97bc84b9/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
     "sellerName": "雪婷 齐",
     "artistName": "雪婷 齐",
     "screenshotUrls": [
@@ -54864,8 +55133,8 @@
     "description": "每一克都重要。 不是因为你要带更少的装备， 而是因为你要带得更聪明。 GramPack 是一款为轻量化徒步设计的装备规划工具，帮助你从第一份清单开始，建立一套真正适合你的装备体系。 更清晰地规划装备 更精确地掌控重量 一步一步，让背包变轻 免费开始使用 创建你的第一份清单，并在装备库中存储最多 50 件装备。 需要更多？ GramPack 无限版通过一次性购买解锁无限清单和装备库容量，无需订阅。 ● 以清单为核心的沉浸式设计 没有复杂首页，没有多余功能。 你的装备清单就是一切的中心。 从预设基础清单开始，或从零创建。 ● 完整的轻量化重量体系 不仅仅是总重，而是完整的三层结构： 基重（Base Weight） 背负重量（Total Pack Weight） 离身重量（Skin-out Weight） 不仅要了解装备有多轻，更要关注真实背负体验。 ● 自然沉淀的装备库 在整理清单的过程中，装备自动进入你的装备库。 无需额外维护，也可以随时统一管理。 ● 分享你的装备配置 将装备清单与重量结构导出为图片， 清晰、直观，随时分享。 ● 基于真实徒步的装备结构 预设装备系统与类型，帮助你建立清晰、统一的清单结构。 不仅自己看得懂，别人也能一眼理解。 为走得更远的人准备 计划第一次多日徒步的玩家 关注装备重量的徒步者 追求轻量化的进阶爱好者 其他信息 完全本地存储，无需网络 支持公制 / 英制 支持简体中文 / 繁体中文 / English 一次性购买，无订阅 专为轻量化徒步设计",
     "fullDescription": "每一克都重要。 不是因为你要带更少的装备， 而是因为你要带得更聪明。 GramPack 是一款为轻量化徒步设计的装备规划工具，帮助你从第一份清单开始，建立一套真正适合你的装备体系。 更清晰地规划装备 更精确地掌控重量 一步一步，让背包变轻 免费开始使用 创建你的第一份清单，并在装备库中存储最多 50 件装备。 需要更多？ GramPack 无限版通过一次性购买解锁无限清单和装备库容量，无需订阅。 ● 以清单为核心的沉浸式设计 没有复杂首页，没有多余功能。 你的装备清单就是一切的中心。 从预设基础清单开始，或从零创建。 ● 完整的轻量化重量体系 不仅仅是总重，而是完整的三层结构： 基重（Base Weight） 背负重量（Total Pack Weight） 离身重量（Skin-out Weight） 不仅要了解装备有多轻，更要关注真实背负体验。 ● 自然沉淀的装备库 在整理清单的过程中，装备自动进入你的装备库。 无需额外维护，也可以随时统一管理。 ● 分享你的装备配置 将装备清单与重量结构导出为图片， 清晰、直观，随时分享。 ● 基于真实徒步的装备结构 预设装备系统与类型，帮助你建立清晰、统一的清单结构。 不仅自己看得懂，别人也能一眼理解。 为走得更远的人准备 计划第一次多日徒步的玩家 关注装备重量的徒步者 追求轻量化的进阶爱好者 其他信息 完全本地存储，无需网络 支持公制 / 英制 支持简体中文 / 繁体中文 / English 一次性购买，无订阅 专为轻量化徒步设计",
     "summaryDescription": "每一克都重要。 不是因为你要带更少的装备， 而是因为你要带得更聪明。 GramPack 是一款为轻量化徒步设计的装备规划工具，帮助你从第一份清单开始，建立一套真正适合你的装备体系。 更清晰地规划装备 更精确地掌控重量 一步一步，让背包变轻 免费开始使用 创建你的第一份清单，并在装备库中存储最多 50 件装备。 需要更多？ GramPack 无限版通过一次性购买解锁无限清单和装备库容量，无需订阅。 ● 以清单为核心的沉浸式设计 没有复杂首页，没有多余功能。 你的装备清单就是一切的中心。 从预设基础清单开始，或从零创建。 ● 完整的轻量化重量体系 不仅仅是总重，而是完整的三层结构： 基重（Base Weight） 背负重量（Total Pack Weight） 离身重量（Skin-out Weight） 不仅要了解装备有多轻，更要关注真实背负体验。 ● 自然沉淀的装备库 在整理清单的过程中，装备自动进入你的装备库。 无需额外维护，也可以随时统一管理。 ● 分享你的装备配置 将装备清单与重量结构导出为图片， 清晰、直观，随时分享。 ● 基于真实徒步的装备结构 预设装备系统与类型，帮助你建立清晰、统一的清单结构。 不仅自己看得懂，别人也能一眼理解。 为走得更远的人准备 计划第一次多日徒步的玩家 关注装备重量的徒步者 追求轻量化的进阶爱好者 其他信息 完全本地存储，无需网络 支持公制 / 英制 支持简体中文 / 繁体中文 / English 一次性购买，无订阅 专为轻量化徒步设计",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e8/c3/3ee8c365-5ec3-e23c-34a9-296b7ca169d2/GramPack-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e8/c3/3ee8c365-5ec3-e23c-34a9-296b7ca169d2/GramPack-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/d4/52/48d4523c-a870-8c5a-fe43-2c9b57f6240e/GramPack-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/d4/52/48d4523c-a870-8c5a-fe43-2c9b57f6240e/GramPack-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "海杰 王",
     "artistName": "海杰 王",
     "screenshotUrls": [
@@ -73176,21 +73445,23 @@
     "description": "Musa is a clean and easy-to-use music player for Subsonic/Navidrome servers. Stream your self-hosted music library and keep ownership of your collection. Stream & Download Stream your entire collection over WiFi or cellular with adaptive quality settings. Choose your preferred codec and bitrate, or download albums and playlists for offline listening — in original quality or transcoded to save space. Synced Lyrics Follow along with time-synced lyrics that highlight each line as it plays. Musa automatically fetches lyrics so you can sing along to every track in your library. Smart Playback Gapless playback, shuffle, repeat, and an autoplay feature that keeps the music going based on genre. Your queue and play history are always at your fingertips. CarPlay Ready Take your library on the road. Musa integrates with Apple CarPlay so you can browse, play, and control your music safely from your car's display. Designed for iPhone & iPad A native SwiftUI interface that feels right at home on both iPhone and iPad, with a full-screen now playing view, mini player, and customizable home screen sections. Key Features Connect to any Subsonic or OpenSubsonic-compatible server Offline downloads with background download support Adaptive streaming quality (WiFi vs. cellular) Time-synced lyrics Gapless playback CarPlay support Customizable home feed (favorites, recently added, recently played, random albums) Full search across songs, artists, albums, and playlists Star and rate your music Scrobbling support AirPlay integration Musa is made for music lovers who host their own library. No subscriptions. No ads. Just your music, sounding exactly the way you want it.",
     "fullDescription": "Musa is a clean and easy-to-use music player for Subsonic/Navidrome servers. Stream your self-hosted music library and keep ownership of your collection. Stream & Download Stream your entire collection over WiFi or cellular with adaptive quality settings. Choose your preferred codec and bitrate, or download albums and playlists for offline listening — in original quality or transcoded to save space. Synced Lyrics Follow along with time-synced lyrics that highlight each line as it plays. Musa automatically fetches lyrics so you can sing along to every track in your library. Smart Playback Gapless playback, shuffle, repeat, and an autoplay feature that keeps the music going based on genre. Your queue and play history are always at your fingertips. CarPlay Ready Take your library on the road. Musa integrates with Apple CarPlay so you can browse, play, and control your music safely from your car's display. Designed for iPhone & iPad A native SwiftUI interface that feels right at home on both iPhone and iPad, with a full-screen now playing view, mini player, and customizable home screen sections. Key Features Connect to any Subsonic or OpenSubsonic-compatible server Offline downloads with background download support Adaptive streaming quality (WiFi vs. cellular) Time-synced lyrics Gapless playback CarPlay support Customizable home feed (favorites, recently added, recently played, random albums) Full search across songs, artists, albums, and playlists Star and rate your music Scrobbling support AirPlay integration Musa is made for music lovers who host their own library. No subscriptions. No ads. Just your music, sounding exactly the way you want it.",
     "summaryDescription": "Musa is a clean and easy-to-use music player for Subsonic/Navidrome servers. Stream your self-hosted music library and keep ownership of your collection. Stream & Download Stream your entire collection over WiFi or cellular with adaptive quality settings. Choose your preferred codec and bitrate, or download albums and playlists for offline listening — in original quality or transcoded to save space. Synced Lyrics Follow along with time-synced lyrics that highlight each line as it plays. Musa automatically fetches lyrics so you can sing along to every track in your library. Smart Playback Gapless playback, shuffle, repeat, and an autoplay feature that keeps the music going based on genre. Your queue and play history are always at your fingertips. CarPlay Ready Take your library on the road. Musa integrates with Apple CarPlay so you can browse, play, and control your music safely from your car's display. Designed for iPhone & iPad A native SwiftUI interface that feels right at home on both iPhone and iPad, with a full-screen now playing view, mini player, and customizable home screen sections. Key Features Connect to any Subsonic or OpenSubsonic-compatible server Offline downloads with background download support Adaptive streaming quality (WiFi vs. cellular) Time-synced lyrics Gapless playback CarPlay support Customizable home feed (favorites, recently added, recently played, random albums) Full search across songs, artists, albums, and playlists Star and rate your music Scrobbling support AirPlay integration Musa is made for music lovers who host their own library. No subscriptions. No ads. Just your music, sounding exactly the way you want it.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/e4/75/afe475e9-31ab-9a66-f0e7-a47eed59c331/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/e4/75/afe475e9-31ab-9a66-f0e7-a47eed59c331/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/ff/71/3fff7141-0cf7-e9f0-5a70-a74a7a7f7992/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/ff/71/3fff7141-0cf7-e9f0-5a70-a74a7a7f7992/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Lucas Raggers",
     "artistName": "Lucas Raggers",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/ec/3e/45ec3e50-31f7-81a8-4485-93b758e451cc/iPhone_01.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/5d/a4/ef5da4f2-c6cf-8ac1-1b77-621e0b5a8792/iPhone_02.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/c8/4b/60c84b82-1ada-30ef-0724-1d819d477ddf/iPhone_03.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/07/4b/15074bd4-5504-8084-bf95-6f36f6eb7bfa/iPhone_04.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/e4/31/85e431ad-8a85-315a-8944-a932802d48d8/01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/fa/75/5bfa7533-b72f-cde5-9cc9-96d52df86023/02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/4e/d7/434ed704-058b-3684-47e8-55f43aba1d12/05.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/29/b0/0229b0f0-bd6e-37fc-066b-845a2d2aed28/03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/a7/b1/27a7b14a-944e-cde6-fb5d-2802aa3d4ceb/04.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/3c/a1/6a3ca192-837e-738a-04ce-d86e9619a736/Musa_-_iPad_13_01.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/80/2c/91802cea-1a08-16a4-583a-c894739ca29d/Musa_-_iPad_13_02.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/5d/37/865d3780-2075-fb4c-2714-4b0efaebb42f/Musa_-_iPad_13_03.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/71/e5/b571e57d-dcd8-060f-71d3-232f45d2e73d/Musa_-_iPad_13_04.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/74/7d/f0747db6-5167-ae32-fbdc-2e9fbc806f3b/01.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/b6/f1/b8b6f147-a0f0-8b29-0526-1ee8b6253cd2/02.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d8/97/3cd89763-1927-1f90-257a-5498a7489767/05.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/e3/e8/31e3e8ad-e92d-e0c4-2b88-618f86bdb39c/04.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/eb/4c/dfeb4c8f-0d35-5d36-ee99-ab434df0426f/03.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1778253643812
   },
@@ -78271,8 +78542,8 @@
     "description": "Acquiesco detects snoring and silently nudges the snorer’s Apple Watch, helping them shift position and quiet down before their partner wakes, often without fully waking the snorer themselves. It’s built for couples who want a gentler way to reduce snoring interruptions: no loud alarm, no kicking or shaking someone awake, and no saved audio recordings. ACQUIESCO is Latin for “to rest” or “to become quiet.” Place your iPhone nearby before sleep. Acquiesco listens in real time for snoring patterns, then sends a private haptic alert to the snorer’s Apple Watch. That subtle wrist nudge can prompt a position change before snoring wakes their partner again. WHY IT HELPS Snoring often gets worse in certain sleep positions. A small nudge can be enough to encourage the snorer to roll over, settle back down, and let the room get quiet again. BUILT FOR OVERNIGHT USE Real-time snore detection from your iPhone Private Apple Watch haptic alerts for the snorer Optional sound alerts when you want them Smart calibration for your room’s noise level Escalating alerts only when needed Movement detection to confirm the snorer responded An animated morning report with quiet time, snoring episodes, average time to quiet, and haptics sent Night-to-night comparisons when enough comparable data is available A shareable morning card for your partner Optional Apple Health sleep duration and resting heart rate when available PRIVACY FIRST Acquiesco does not record your snoring, save audio clips, or send audio anywhere. Sound is analyzed on device in real time, then discarded. IMPORTANT MEDICAL NOTE Acquiesco is a sleep-aid app for partner-disturbing snoring. It is not a medical device and is not intended to diagnose, treat, cure, monitor, or prevent sleep apnea or any other medical condition. If snoring is severe or paired with gasping, choking, pauses in breathing, or daytime fatigue, talk with a clinician. SUBSCRIPTION REQUIRED FOR CORE FEATURES Overnight snore monitoring and Apple Watch haptic alerts require an active auto-renewing subscription purchased in the app. Eligible new subscribers can start with a 7-day free trial. After the free trial ends, your subscription renews unless canceled at least 24 hours before renewal. Available plans: Monthly: $4.99/month after trial Yearly: $39.99/year after trial REQUIREMENTS iPhone with iOS 17 or later Apple Watch with watchOS 10 or later for haptic alerts Microphone access for real-time snore detection Terms of Use (EULA): https://www.acquiesco.com/terms Privacy Policy: https://www.acquiesco.com/privacy",
     "fullDescription": "Acquiesco detects snoring and silently nudges the snorer’s Apple Watch, helping them shift position and quiet down before their partner wakes, often without fully waking the snorer themselves. It’s built for couples who want a gentler way to reduce snoring interruptions: no loud alarm, no kicking or shaking someone awake, and no saved audio recordings. ACQUIESCO is Latin for “to rest” or “to become quiet.” Place your iPhone nearby before sleep. Acquiesco listens in real time for snoring patterns, then sends a private haptic alert to the snorer’s Apple Watch. That subtle wrist nudge can prompt a position change before snoring wakes their partner again. WHY IT HELPS Snoring often gets worse in certain sleep positions. A small nudge can be enough to encourage the snorer to roll over, settle back down, and let the room get quiet again. BUILT FOR OVERNIGHT USE Real-time snore detection from your iPhone Private Apple Watch haptic alerts for the snorer Optional sound alerts when you want them Smart calibration for your room’s noise level Escalating alerts only when needed Movement detection to confirm the snorer responded An animated morning report with quiet time, snoring episodes, average time to quiet, and haptics sent Night-to-night comparisons when enough comparable data is available A shareable morning card for your partner Optional Apple Health sleep duration and resting heart rate when available PRIVACY FIRST Acquiesco does not record your snoring, save audio clips, or send audio anywhere. Sound is analyzed on device in real time, then discarded. IMPORTANT MEDICAL NOTE Acquiesco is a sleep-aid app for partner-disturbing snoring. It is not a medical device and is not intended to diagnose, treat, cure, monitor, or prevent sleep apnea or any other medical condition. If snoring is severe or paired with gasping, choking, pauses in breathing, or daytime fatigue, talk with a clinician. SUBSCRIPTION REQUIRED FOR CORE FEATURES Overnight snore monitoring and Apple Watch haptic alerts require an active auto-renewing subscription purchased in the app. Eligible new subscribers can start with a 7-day free trial. After the free trial ends, your subscription renews unless canceled at least 24 hours before renewal. Available plans: Monthly: $4.99/month after trial Yearly: $39.99/year after trial REQUIREMENTS iPhone with iOS 17 or later Apple Watch with watchOS 10 or later for haptic alerts Microphone access for real-time snore detection Terms of Use (EULA): https://www.acquiesco.com/terms Privacy Policy: https://www.acquiesco.com/privacy",
     "summaryDescription": "Acquiesco detects snoring and silently nudges the snorer’s Apple Watch, helping them shift position and quiet down before their partner wakes, often without fully waking the snorer themselves. It’s built for couples who want a gentler way to reduce snoring interruptions: no loud alarm, no kicking or shaking someone awake, and no saved audio recordings. ACQUIESCO is Latin for “to rest” or “to become quiet.” Place your iPhone nearby before sleep. Acquiesco listens in real time for snoring patterns, then sends a private haptic alert to the snorer’s Apple Watch. That subtle wrist nudge can prompt a position change before snoring wakes their partner again. WHY IT HELPS Snoring often gets worse in certain sleep positions. A small nudge can be enough to encourage the snorer to roll over, settle back down, and let the room get quiet again. BUILT FOR OVERNIGHT USE Real-time snore detection from your iPhone Private Apple Watch haptic alerts for the snorer Optional sound alerts when you want them Smart calibration for your room’s noise level Escalating alerts only when needed Movement detection to confirm the snorer responded An animated morning report with quiet time, snoring episodes, average time to quiet, and haptics sent Night-to-night comparisons when enough comparable data is available A shareable morning card for your partner Optional Apple Health sleep duration and resting heart rate when available PRIVACY FIRST Acquiesco does not record your snoring, save audio clips, or send audio anywhere. Sound is analyzed on device in real time, then discarded. IMPORTANT MEDICAL NOTE Acquiesco is a sleep-aid app for partner-disturbing snoring. It is not a medical device and is not intended to diagnose, treat, cure, monitor, or prevent sleep apnea or any other medical condition. If snoring is severe or paired with gasping, choking, pauses in breathing, or daytime fatigue, talk with a clinician. SUBSCRIPTION REQUIRED FOR CORE FEATURES Overnight snore monitoring and Apple Watch haptic alerts require an active auto-renewing subscription purchased in the app. Eligible new subscribers can start with a 7-day free trial. After the free trial ends, your subscription renews unless canceled at least 24 hours before renewal. Available plans: Monthly: $4.99/month after trial Yearly: $39.99/year after trial REQUIREMENTS iPhone with iOS 17 or later Apple Watch with watchOS 10 or later for haptic alerts Microphone access for real-time snore detection Terms of Use (EULA): https://www.acquiesco.com/terms Privacy Policy: https://www.acquiesco.com/privacy",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ec/85/a7ec85c9-f789-a2d0-fac9-5d898025c424/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ec/85/a7ec85c9-f789-a2d0-fac9-5d898025c424/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/3d/e1/8f3de1ca-d018-3368-c900-af26f594682b/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/3d/e1/8f3de1ca-d018-3368-c900-af26f594682b/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "PERSISTENCE OF VISION PREVIS, LLC",
     "artistName": "POV",
     "screenshotUrls": [
@@ -83519,8 +83790,8 @@
     "description": "Simply Things 是一款极简待办清单 App，适合想快速记录任务、保持专注，并用轻量方式安排每天事项的人。 没有复杂的项目管理噪音，也没有拥挤的仪表盘。这里只有一个干净的位置，用来放下你要完成的任务，并保留 Apple 设备上应有的原生细节。 简单在哪里 灵感出现时，快速记录任务 专注的清单，让今天要做的事一目了然 将重要任务置顶，始终放在最上方 随着一天变化，重新排序或重命名任务 小组件显示置顶任务和清单中的其他事项 通过 iCloud 在 iPhone、iPad 和 Mac 间同步 用键盘快捷键提升 iPad 和 Mac 上的操作速度 减少干扰 Simply Things 的设计目标是不打扰你。它提供刚好的结构，让任务保持清晰，却不会把个人待办清单变成另一个需要维护的系统。 如果你喜欢低干扰规划、快速记录，以及在 Apple 设备上感觉自然的任务管理器，Simply Things 就是为你准备的。 EARLY BIRD 访问权限 Simply Things 仍在持续成长。未来计划推出订阅层级，而当前 Early Bird 用户将继续保留对未来 Simply Things 功能的访问权限。 有反馈或功能建议？每一封邮件我都会读：hello@simplythings.app",
     "fullDescription": "Simply Things 是一款极简待办清单 App，适合想快速记录任务、保持专注，并用轻量方式安排每天事项的人。 没有复杂的项目管理噪音，也没有拥挤的仪表盘。这里只有一个干净的位置，用来放下你要完成的任务，并保留 Apple 设备上应有的原生细节。 简单在哪里 灵感出现时，快速记录任务 专注的清单，让今天要做的事一目了然 将重要任务置顶，始终放在最上方 随着一天变化，重新排序或重命名任务 小组件显示置顶任务和清单中的其他事项 通过 iCloud 在 iPhone、iPad 和 Mac 间同步 用键盘快捷键提升 iPad 和 Mac 上的操作速度 减少干扰 Simply Things 的设计目标是不打扰你。它提供刚好的结构，让任务保持清晰，却不会把个人待办清单变成另一个需要维护的系统。 如果你喜欢低干扰规划、快速记录，以及在 Apple 设备上感觉自然的任务管理器，Simply Things 就是为你准备的。 EARLY BIRD 访问权限 Simply Things 仍在持续成长。未来计划推出订阅层级，而当前 Early Bird 用户将继续保留对未来 Simply Things 功能的访问权限。 有反馈或功能建议？每一封邮件我都会读：hello@simplythings.app",
     "summaryDescription": "Simply Things 是一款极简待办清单 App，适合想快速记录任务、保持专注，并用轻量方式安排每天事项的人。 没有复杂的项目管理噪音，也没有拥挤的仪表盘。这里只有一个干净的位置，用来放下你要完成的任务，并保留 Apple 设备上应有的原生细节。 简单在哪里 灵感出现时，快速记录任务 专注的清单，让今天要做的事一目了然 将重要任务置顶，始终放在最上方 随着一天变化，重新排序或重命名任务 小组件显示置顶任务和清单中的其他事项 通过 iCloud 在 iPhone、iPad 和 Mac 间同步 用键盘快捷键提升 iPad 和 Mac 上的操作速度 减少干扰 Simply Things 的设计目标是不打扰你。它提供刚好的结构，让任务保持清晰，却不会把个人待办清单变成另一个需要维护的系统。 如果你喜欢低干扰规划、快速记录，以及在 Apple 设备上感觉自然的任务管理器，Simply Things 就是为你准备的。 EARLY BIRD 访问权限 Simply Things 仍在持续成长。未来计划推出订阅层级，而当前 Early Bird 用户将继续保留对未来 Simply Things 功能的访问权限。 有反馈或功能建议？每一封邮件我都会读：hello@simplythings.app",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/d6/5e/74d65e99-d3ea-88f6-a911-e3da07c2a642/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/d6/5e/74d65e99-d3ea-88f6-a911-e3da07c2a642/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/20/b9/4220b905-8a48-cff7-81fe-893837dd6b12/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/20/b9/4220b905-8a48-cff7-81fe-893837dd6b12/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Daniel Arden s.r.o.",
     "artistName": "Daniel Arden",
     "screenshotUrls": [
@@ -83717,8 +83988,8 @@
     "description": "GhostPDF+ is the all-in-one PDF toolkit built exclusively for macOS: professional power, native performance, complete privacy, and zero subscriptions. GhostPDF+ gives you advanced PDF compression, repair, archiving, organization, extraction, encryption, and professional document utilities directly on your Mac. Everything runs 100% offline, so your files stay private and never leave your device. KEY FEATURES Smart PDF Compression 3 Quick Presets: Instantly reduce file sizes with Light, Medium, or Heavy compression. Pro Control: Fine-tune DPI, image quality, and color settings to get the perfect balance. Size Comparison: See the estimated file size reduction instantly. Essential PDF Tools Split & Merge: Combine multiple documents into one or extract specific pages. Organize: Visually reorder pages, rotate orientation, or delete unwanted pages. A4 Resize: Standardize mixed-size documents to a clean A4 format. Professional Image Extraction: Extract original, full-resolution images from any PDF in their native formats, including JPEG, PNG, and TIFF. Supports complex color workflows such as CMYK, ICCBased, and Indexed color spaces for zero quality loss. Vector Graphic Extraction Extract vector-based images, diagrams, illustrations, and embedded graphics from PDFs with a dedicated detection algorithm. GhostPDF+ identifies vectorial content, isolates the relevant regions, crops them precisely, and exports clean image assets for reuse in presentations, reports, archives, or design workflows. Advanced Professional Utilities Repair Corrupted Files: Reconstruction tools help fix broken or unreadable PDFs. PDF/A Conversion: Convert documents to PDF/A-2b standards for long-term archiving and compliance. Rasterization: Convert PDF pages into images to help prevent editing or copying of text. Security & Privacy Encryption: Protect your files with 128-bit AES password encryption. Unlock: Remove passwords from files you own. Watermarking: Add custom text watermarks to protect your intellectual property. WHY GHOSTPDF+? Native & Fast: Built with SwiftUI for a modern, responsive macOS experience. 100% Offline: Your data never leaves your device. No clouds, no uploads. No Subscriptions: One app, all features. Complete PDF Toolkit: Compression, repair, image extraction, vector graphic extraction, security, archiving, and organization in one lightweight Mac app. GhostPDF+ is the last PDF compressor and toolkit you’ll need: fast, private, professional, and built for the Mac.",
     "fullDescription": "GhostPDF+ is the all-in-one PDF toolkit built exclusively for macOS: professional power, native performance, complete privacy, and zero subscriptions. GhostPDF+ gives you advanced PDF compression, repair, archiving, organization, extraction, encryption, and professional document utilities directly on your Mac. Everything runs 100% offline, so your files stay private and never leave your device. KEY FEATURES Smart PDF Compression 3 Quick Presets: Instantly reduce file sizes with Light, Medium, or Heavy compression. Pro Control: Fine-tune DPI, image quality, and color settings to get the perfect balance. Size Comparison: See the estimated file size reduction instantly. Essential PDF Tools Split & Merge: Combine multiple documents into one or extract specific pages. Organize: Visually reorder pages, rotate orientation, or delete unwanted pages. A4 Resize: Standardize mixed-size documents to a clean A4 format. Professional Image Extraction: Extract original, full-resolution images from any PDF in their native formats, including JPEG, PNG, and TIFF. Supports complex color workflows such as CMYK, ICCBased, and Indexed color spaces for zero quality loss. Vector Graphic Extraction Extract vector-based images, diagrams, illustrations, and embedded graphics from PDFs with a dedicated detection algorithm. GhostPDF+ identifies vectorial content, isolates the relevant regions, crops them precisely, and exports clean image assets for reuse in presentations, reports, archives, or design workflows. Advanced Professional Utilities Repair Corrupted Files: Reconstruction tools help fix broken or unreadable PDFs. PDF/A Conversion: Convert documents to PDF/A-2b standards for long-term archiving and compliance. Rasterization: Convert PDF pages into images to help prevent editing or copying of text. Security & Privacy Encryption: Protect your files with 128-bit AES password encryption. Unlock: Remove passwords from files you own. Watermarking: Add custom text watermarks to protect your intellectual property. WHY GHOSTPDF+? Native & Fast: Built with SwiftUI for a modern, responsive macOS experience. 100% Offline: Your data never leaves your device. No clouds, no uploads. No Subscriptions: One app, all features. Complete PDF Toolkit: Compression, repair, image extraction, vector graphic extraction, security, archiving, and organization in one lightweight Mac app. GhostPDF+ is the last PDF compressor and toolkit you’ll need: fast, private, professional, and built for the Mac.",
     "summaryDescription": "GhostPDF+ is the all-in-one PDF toolkit built exclusively for macOS: professional power, native performance, complete privacy, and zero subscriptions. GhostPDF+ gives you advanced PDF compression, repair, archiving, organization, extraction, encryption, and professional document utilities directly on your Mac. Everything runs 100% offline, so your files stay private and never leave your device. KEY FEATURES Smart PDF Compression 3 Quick Presets: Instantly reduce file sizes with Light, Medium, or Heavy compression. Pro Control: Fine-tune DPI, image quality, and color settings to get the perfect balance. Size Comparison: See the estimated file size reduction instantly. Essential PDF Tools Split & Merge: Combine multiple documents into one or extract specific pages. Organize: Visually reorder pages, rotate orientation, or delete unwanted pages. A4 Resize: Standardize mixed-size documents to a clean A4 format. Professional Image Extraction: Extract original, full-resolution images from any PDF in their native formats, including JPEG, PNG, and TIFF. Supports complex color workflows such as CMYK, ICCBased, and Indexed color spaces for zero quality loss. Vector Graphic Extraction Extract vector-based images, diagrams, illustrations, and embedded graphics from PDFs with a dedicated detection algorithm. GhostPDF+ identifies vectorial content, isolates the relevant regions, crops them precisely, and exports clean image assets for reuse in presentations, reports, archives, or design workflows. Advanced Professional Utilities Repair Corrupted Files: Reconstruction tools help fix broken or unreadable PDFs. PDF/A Conversion: Convert documents to PDF/A-2b standards for long-term archiving and compliance. Rasterization: Convert PDF pages into images to help prevent editing or copying of text. Security & Privacy Encryption: Protect your files with 128-bit AES password encryption. Unlock: Remove passwords from files you own. Watermarking: Add custom text watermarks to protect your intellectual property. WHY GHOSTPDF+? Native & Fast: Built with SwiftUI for a modern, responsive macOS experience. 100% Offline: Your data never leaves your device. No clouds, no uploads. No Subscriptions: One app, all features. Complete PDF Toolkit: Compression, repair, image extraction, vector graphic extraction, security, archiving, and organization in one lightweight Mac app. GhostPDF+ is the last PDF compressor and toolkit you’ll need: fast, private, professional, and built for the Mac.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/07/6e/9e076ecb-2fe4-1931-e46a-28876231dffc/AppIcon.png/60x60bb.png",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/07/6e/9e076ecb-2fe4-1931-e46a-28876231dffc/AppIcon.png/100x100bb.png",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/a6/96/16a69628-a111-eb9a-9086-93a4de0084df/AppIcon.png/60x60bb.png",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/a6/96/16a69628-a111-eb9a-9086-93a4de0084df/AppIcon.png/100x100bb.png",
     "sellerName": "Lale Taneri",
     "artistName": "Lale Taneri",
     "screenshotUrls": [
@@ -91040,7 +91311,7 @@
     "maxPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00",
-      "永久专业版": "¥8.00",
+      "永久专业版": "¥22.00",
       "年度专业版 (最佳价值)": "¥6.00",
       "月度专业版权限": "¥3.00"
     },
@@ -91053,6 +91324,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1790250932565,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久专业版": "¥22.00",
+            "年度专业版 (最佳价值)": "¥6.00",
+            "月度专业版权限": "¥3.00"
+          }
+        },
         {
           "timestamp": 1790188089703,
           "price": 0,
@@ -104230,6 +104511,14 @@
     "history": [
       [
         {
+          "timestamp": 1790250932565,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788184869523,
           "price": 0,
           "formattedPrice": "免费",
@@ -104600,18 +104889,27 @@
     "description": "灯牌把你的手机变成一块可以举起来的 LED 大字屏——让你想说的那句话，在人群里第一时间被看到。 无论是演唱会现场为偶像打 call、机场出口接亲友、求婚那一秒爆灯、还是普通日子里想被对的人发现，灯牌让\"被看见\"这件事，10 秒内就能办到。 为什么选用灯牌 内置 51 个即用场景——演唱会应援、接机牌、求婚、生日祝福、SOS、找搭子、找朋友、迎接新生 三种灯效——经典点阵 LED、霓虹光晕、纯净文字 七种动效——滚动、呼吸、闪烁、脉冲、心跳、频闪、渐隐，全部经过无障碍安全检测 自定义任意文字、颜色、速度 9 种字体可选，中英日韩泰多语言全支持 可以叠加自己的照片作为背景 内置摇一摇暂停、屏幕录制 一键启动，零注册零账号 歌单与分享 多页应援词可存为歌单——开场、主打、安可各一页，起好名字，首页一键调出 全屏播放时左右滑动或双击切页，从屏幕底部上滑呼出页面列表，点哪句跳哪句 灯牌可一键生成二维码，发到粉丝群；好友扫一扫或从相册识别，即可获得一模一样的灯牌，全程无需网络 为这些场景而生 演唱会、Live、音乐节应援——让你的支持被偶像看到 机场、火车站接机——人海里第一眼被找到 求婚、表白、生日、纪念日——把瞬间变成永久回忆 旅行、青旅、聚会——一句话搭起话题，不用开口 紧急求救——SOS 模式专为远距离可视设计 粉丝应援、K-pop / J-pop 灯牌 随心定制 2 种主题色（琥珀 / 霓虹紫） 5 款 App 图标可选 9 种跑马灯字体（黑体 / 等宽 / 圆体 / 楷体 / 毛笔 / 卡通圆 / Times / Courier / Georgia） 20 组配色预设（中国红、蒂芙尼蓝、克莱因蓝、爱马仕橙……） 22 张内置背景图，也可从相册自选 自己设计的灯牌保存到最近列表，多页文案可存为歌单 细节里都有用心 减弱动画模式（无障碍） 频闪频率严格符合 WCAG，无光敏癫痫风险 完全离线工作，无需账号、无需云端 单人模式设计，没有好友、没有社交压力 灯牌完全免费、屏幕内零广告、上手即会。如果你曾希望\"那个对的人\"能在 1000 米外的人海里第一时间看到你——这个 App 值得放在桌面。",
     "fullDescription": "灯牌把你的手机变成一块可以举起来的 LED 大字屏——让你想说的那句话，在人群里第一时间被看到。 无论是演唱会现场为偶像打 call、机场出口接亲友、求婚那一秒爆灯、还是普通日子里想被对的人发现，灯牌让\"被看见\"这件事，10 秒内就能办到。 为什么选用灯牌 内置 51 个即用场景——演唱会应援、接机牌、求婚、生日祝福、SOS、找搭子、找朋友、迎接新生 三种灯效——经典点阵 LED、霓虹光晕、纯净文字 七种动效——滚动、呼吸、闪烁、脉冲、心跳、频闪、渐隐，全部经过无障碍安全检测 自定义任意文字、颜色、速度 9 种字体可选，中英日韩泰多语言全支持 可以叠加自己的照片作为背景 内置摇一摇暂停、屏幕录制 一键启动，零注册零账号 歌单与分享 多页应援词可存为歌单——开场、主打、安可各一页，起好名字，首页一键调出 全屏播放时左右滑动或双击切页，从屏幕底部上滑呼出页面列表，点哪句跳哪句 灯牌可一键生成二维码，发到粉丝群；好友扫一扫或从相册识别，即可获得一模一样的灯牌，全程无需网络 为这些场景而生 演唱会、Live、音乐节应援——让你的支持被偶像看到 机场、火车站接机——人海里第一眼被找到 求婚、表白、生日、纪念日——把瞬间变成永久回忆 旅行、青旅、聚会——一句话搭起话题，不用开口 紧急求救——SOS 模式专为远距离可视设计 粉丝应援、K-pop / J-pop 灯牌 随心定制 2 种主题色（琥珀 / 霓虹紫） 5 款 App 图标可选 9 种跑马灯字体（黑体 / 等宽 / 圆体 / 楷体 / 毛笔 / 卡通圆 / Times / Courier / Georgia） 20 组配色预设（中国红、蒂芙尼蓝、克莱因蓝、爱马仕橙……） 22 张内置背景图，也可从相册自选 自己设计的灯牌保存到最近列表，多页文案可存为歌单 细节里都有用心 减弱动画模式（无障碍） 频闪频率严格符合 WCAG，无光敏癫痫风险 完全离线工作，无需账号、无需云端 单人模式设计，没有好友、没有社交压力 灯牌完全免费、屏幕内零广告、上手即会。如果你曾希望\"那个对的人\"能在 1000 米外的人海里第一时间看到你——这个 App 值得放在桌面。",
     "summaryDescription": "灯牌把你的手机变成一块可以举起来的 LED 大字屏——让你想说的那句话，在人群里第一时间被看到。 无论是演唱会现场为偶像打 call、机场出口接亲友、求婚那一秒爆灯、还是普通日子里想被对的人发现，灯牌让\"被看见\"这件事，10 秒内就能办到。 为什么选用灯牌 内置 51 个即用场景——演唱会应援、接机牌、求婚、生日祝福、SOS、找搭子、找朋友、迎接新生 三种灯效——经典点阵 LED、霓虹光晕、纯净文字 七种动效——滚动、呼吸、闪烁、脉冲、心跳、频闪、渐隐，全部经过无障碍安全检测 自定义任意文字、颜色、速度 9 种字体可选，中英日韩泰多语言全支持 可以叠加自己的照片作为背景 内置摇一摇暂停、屏幕录制 一键启动，零注册零账号 歌单与分享 多页应援词可存为歌单——开场、主打、安可各一页，起好名字，首页一键调出 全屏播放时左右滑动或双击切页，从屏幕底部上滑呼出页面列表，点哪句跳哪句 灯牌可一键生成二维码，发到粉丝群；好友扫一扫或从相册识别，即可获得一模一样的灯牌，全程无需网络 为这些场景而生 演唱会、Live、音乐节应援——让你的支持被偶像看到 机场、火车站接机——人海里第一眼被找到 求婚、表白、生日、纪念日——把瞬间变成永久回忆 旅行、青旅、聚会——一句话搭起话题，不用开口 紧急求救——SOS 模式专为远距离可视设计 粉丝应援、K-pop / J-pop 灯牌 随心定制 2 种主题色（琥珀 / 霓虹紫） 5 款 App 图标可选 9 种跑马灯字体（黑体 / 等宽 / 圆体 / 楷体 / 毛笔 / 卡通圆 / Times / Courier / Georgia） 20 组配色预设（中国红、蒂芙尼蓝、克莱因蓝、爱马仕橙……） 22 张内置背景图，也可从相册自选 自己设计的灯牌保存到最近列表，多页文案可存为歌单 细节里都有用心 减弱动画模式（无障碍） 频闪频率严格符合 WCAG，无光敏癫痫风险 完全离线工作，无需账号、无需云端 单人模式设计，没有好友、没有社交压力 灯牌完全免费、屏幕内零广告、上手即会。如果你曾希望\"那个对的人\"能在 1000 米外的人海里第一时间看到你——这个 App 值得放在桌面。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ad/70/9fad70c6-270d-4856-50c4-f07436f3e16c/AppIcon-1x_U007ephone-0-1-85-220-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ad/70/9fad70c6-270d-4856-50c4-f07436f3e16c/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/6b/0f/606b0f53-2d80-facf-fe72-2e8c7f2004f1/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/6b/0f/606b0f53-2d80-facf-fe72-2e8c7f2004f1/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
     "sellerName": "婉 唐",
     "artistName": "婉 唐",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/e4/dd/45e4ddb6-315d-911d-d669-bd4fe38a5d4b/zh-Hans_01.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/97/8a/2d978afa-ec6d-bf59-2682-207a5eb6fb84/zh-Hans_02.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/32/fd/1132fd78-ef7a-1f0e-3bcc-3fda1f8dc386/zh-Hans_03.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/8c/94/7d8c94ce-b819-adf8-7344-e2ab0f6ccc49/zh-Hans_04.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/b0/19/59b01972-d474-093b-67d5-bbd93999eade/zh-Hans_07.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/fb/a7/a9fba767-6602-c863-0446-d913de6a4a27/zh-Hans_05.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/0d/ef/1a0defb6-1377-34f8-a5e0-857065ec14e3/zh-Hans_06.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/98/98/9d9898b2-d085-132e-0d70-c762dedf6ec3/zh-Hans_01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/8a/2b/c58a2b8a-95a7-c38e-69c3-807704fe5439/zh-Hans_02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/6a/75/956a759f-bd7b-a204-27de-fecd2cf54cbe/zh-Hans_03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/89/e0/6a89e0a9-0545-4e81-0df1-6ef6868d14c6/zh-Hans_04.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/c4/03/32c4033b-252f-9881-dec3-50679e55d71e/zh-Hans_07.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/25/a7/cb25a71e-ad7a-9335-50c5-6ba9e3831208/zh-Hans_05.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/8e/2a/d78e2afe-d034-557c-246b-32a893e3f136/zh-Hans_06.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/10/d4/4a10d429-4074-d54c-0e16-32ade1a723c3/zh-Hans_01.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/5f/76/e25f7610-2c06-4030-cfc4-f745cf941757/zh-Hans_02.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/10/d0/0410d05d-e52e-e32c-9d60-49acdd5c64a7/zh-Hans_03.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/0d/fd/890dfd87-949c-9eb3-8a7e-bbe8e73c8f37/zh-Hans_04.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/aa/46/f4aa4646-c96a-78b4-eb01-3439d7c01f3e/zh-Hans_05.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/b5/cf/a6b5cfdd-cd8b-dc90-9c84-3739760cb8d7/zh-Hans_06.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/90/dd/9290dde3-981d-5b52-6272-021cd908d12e/zh-Hans_07.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1779831765945
   },
@@ -110438,6 +110736,16 @@
     "history": [
       [
         {
+          "timestamp": 1790250932565,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "100 Cloud Scans": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789025027401,
           "price": 0,
           "formattedPrice": "免费",
@@ -110480,30 +110788,28 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/calometric-calorie-tracker/id6759844251?uo=4",
-    "description": "Meet the new Calometric: a beautifully rebuilt calorie and macro tracker that makes every meal easier to understand. Snap a meal, scan a barcode, speak, search, or read a nutrition label. Every result is a starting point you can review and edit before it reaches your food diary: foods, portions, servings, calories, carbs, protein, fat, and saturated fat when it is known. A FOOD DATABASE BUILT TO GROW Food search is now powered by a database that is 10× bigger and still growing, so more foods are ready when you need them. Search for one food or type a whole meal; Calometric can turn it into editable foods before you save. Recent Foods puts the custom foods you use at the top of search, and recently viewed catalog foods remain available when you are offline. FIVE WAYS TO LOG Photo: Take a meal photo for an editable calorie and macro estimate. With your permission, Calometric sends a resized copy to cloud AI for analysis. Barcode: Scan packaged food and look it up in the community-maintained Open Food Facts catalog. Voice: Say what you ate with on-device transcription on supported devices and languages. Search: Find, adjust, and log foods with the growing database and offline fallback. Nutrition Label: Point your camera at a nutrition label to read calories and nutrients on your device. TURN DAILY LOGGING INTO A CLEARER PICTURE Set calorie, macro, and saturated-fat goals See progress at a glance and follow weekly trends Save favorite meals, copy meals you eat often, and reuse your own foods Create a nutrition report for any date range, then preview, print, or share the PDF Keep unknown saturated-fat values unknown instead of treating them as zero CALOMETRIC ON IPHONE AND APPLE WATCH The refreshed Dashboard puts every way to log in one place, with larger controls and text that follows your Dynamic Type size. On Apple Watch, Quick Add offers your own recent favorites and foods. Put calories, carbs, protein, fat, or saturated fat on your watch face, then keep your day moving. CALOMETRIC PRO One Calometric Pro subscription unlocks everything: all logging methods, your full history, goals, photo scanning, and the Nutrition Coach. Choose monthly or annual, with a 7-day free trial for new subscribers. Photo scanning includes up to 20 scans per day and 300 per subscription billing period (every 30 days on the annual plan). The Nutrition Coach includes up to 20 completed messages per UTC day and 300 per billing period. ASK THE NUTRITION COACH Ask about meals, macros, hydration, grocery choices, dietary patterns, or workout fueling. With your permission, the Coach can use your active goal, today’s totals, and up to seven days of totals when available to make general-wellness guidance more relevant. The Coach is not medical advice and cannot diagnose or treat a health condition. AI can be wrong, so check important guidance with a qualified professional. YOUR CHOICES, CLEARLY EXPLAINED No Calometric account or login required Voice transcription and nutrition-label reading run on your device Photo analysis and the Nutrition Coach process content in the cloud only after separate permission Barcode lookups contact Open Food Facts Meal-history sync through your private iCloud database and Apple Health sync are optional Privacy Policy: https://calometric.app/privacy Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Snap. Know. Thrive.",
-    "fullDescription": "Meet the new Calometric: a beautifully rebuilt calorie and macro tracker that makes every meal easier to understand. Snap a meal, scan a barcode, speak, search, or read a nutrition label. Every result is a starting point you can review and edit before it reaches your food diary: foods, portions, servings, calories, carbs, protein, fat, and saturated fat when it is known. A FOOD DATABASE BUILT TO GROW Food search is now powered by a database that is 10× bigger and still growing, so more foods are ready when you need them. Search for one food or type a whole meal; Calometric can turn it into editable foods before you save. Recent Foods puts the custom foods you use at the top of search, and recently viewed catalog foods remain available when you are offline. FIVE WAYS TO LOG Photo: Take a meal photo for an editable calorie and macro estimate. With your permission, Calometric sends a resized copy to cloud AI for analysis. Barcode: Scan packaged food and look it up in the community-maintained Open Food Facts catalog. Voice: Say what you ate with on-device transcription on supported devices and languages. Search: Find, adjust, and log foods with the growing database and offline fallback. Nutrition Label: Point your camera at a nutrition label to read calories and nutrients on your device. TURN DAILY LOGGING INTO A CLEARER PICTURE Set calorie, macro, and saturated-fat goals See progress at a glance and follow weekly trends Save favorite meals, copy meals you eat often, and reuse your own foods Create a nutrition report for any date range, then preview, print, or share the PDF Keep unknown saturated-fat values unknown instead of treating them as zero CALOMETRIC ON IPHONE AND APPLE WATCH The refreshed Dashboard puts every way to log in one place, with larger controls and text that follows your Dynamic Type size. On Apple Watch, Quick Add offers your own recent favorites and foods. Put calories, carbs, protein, fat, or saturated fat on your watch face, then keep your day moving. CALOMETRIC PRO One Calometric Pro subscription unlocks everything: all logging methods, your full history, goals, photo scanning, and the Nutrition Coach. Choose monthly or annual, with a 7-day free trial for new subscribers. Photo scanning includes up to 20 scans per day and 300 per subscription billing period (every 30 days on the annual plan). The Nutrition Coach includes up to 20 completed messages per UTC day and 300 per billing period. ASK THE NUTRITION COACH Ask about meals, macros, hydration, grocery choices, dietary patterns, or workout fueling. With your permission, the Coach can use your active goal, today’s totals, and up to seven days of totals when available to make general-wellness guidance more relevant. The Coach is not medical advice and cannot diagnose or treat a health condition. AI can be wrong, so check important guidance with a qualified professional. YOUR CHOICES, CLEARLY EXPLAINED No Calometric account or login required Voice transcription and nutrition-label reading run on your device Photo analysis and the Nutrition Coach process content in the cloud only after separate permission Barcode lookups contact Open Food Facts Meal-history sync through your private iCloud database and Apple Health sync are optional Privacy Policy: https://calometric.app/privacy Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Snap. Know. Thrive.",
-    "summaryDescription": "Meet the new Calometric: a beautifully rebuilt calorie and macro tracker that makes every meal easier to understand. Snap a meal, scan a barcode, speak, search, or read a nutrition label. Every result is a starting point you can review and edit before it reaches your food diary: foods, portions, servings, calories, carbs, protein, fat, and saturated fat when it is known. A FOOD DATABASE BUILT TO GROW Food search is now powered by a database that is 10× bigger and still growing, so more foods are ready when you need them. Search for one food or type a whole meal; Calometric can turn it into editable foods before you save. Recent Foods puts the custom foods you use at the top of search, and recently viewed catalog foods remain available when you are offline. FIVE WAYS TO LOG Photo: Take a meal photo for an editable calorie and macro estimate. With your permission, Calometric sends a resized copy to cloud AI for analysis. Barcode: Scan packaged food and look it up in the community-maintained Open Food Facts catalog. Voice: Say what you ate with on-device transcription on supported devices and languages. Search: Find, adjust, and log foods with the growing database and offline fallback. Nutrition Label: Point your camera at a nutrition label to read calories and nutrients on your device. TURN DAILY LOGGING INTO A CLEARER PICTURE Set calorie, macro, and saturated-fat goals See progress at a glance and follow weekly trends Save favorite meals, copy meals you eat often, and reuse your own foods Create a nutrition report for any date range, then preview, print, or share the PDF Keep unknown saturated-fat values unknown instead of treating them as zero CALOMETRIC ON IPHONE AND APPLE WATCH The refreshed Dashboard puts every way to log in one place, with larger controls and text that follows your Dynamic Type size. On Apple Watch, Quick Add offers your own recent favorites and foods. Put calories, carbs, protein, fat, or saturated fat on your watch face, then keep your day moving. CALOMETRIC PRO One Calometric Pro subscription unlocks everything: all logging methods, your full history, goals, photo scanning, and the Nutrition Coach. Choose monthly or annual, with a 7-day free trial for new subscribers. Photo scanning includes up to 20 scans per day and 300 per subscription billing period (every 30 days on the annual plan). The Nutrition Coach includes up to 20 completed messages per UTC day and 300 per billing period. ASK THE NUTRITION COACH Ask about meals, macros, hydration, grocery choices, dietary patterns, or workout fueling. With your permission, the Coach can use your active goal, today’s totals, and up to seven days of totals when available to make general-wellness guidance more relevant. The Coach is not medical advice and cannot diagnose or treat a health condition. AI can be wrong, so check important guidance with a qualified professional. YOUR CHOICES, CLEARLY EXPLAINED No Calometric account or login required Voice transcription and nutrition-label reading run on your device Photo analysis and the Nutrition Coach process content in the cloud only after separate permission Barcode lookups contact Open Food Facts Meal-history sync through your private iCloud database and Apple Health sync are optional Privacy Policy: https://calometric.app/privacy Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Snap. Know. Thrive.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/68/18/11681852-5670-165a-541e-29d41f93db92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/68/18/11681852-5670-165a-541e-29d41f93db92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "description": "Meet the new Calometric: a beautifully rebuilt calorie and macro tracker that makes every meal easier to understand. Snap a meal, scan a barcode, speak, search, or read a nutrition label. Every result is a starting point you can review and edit before it reaches your food diary: foods, portions, servings, calories, carbs, protein, fat, and saturated fat when it is known. A FOOD DATABASE BUILT TO GROW Food search is now powered by a database that is 10× bigger and still growing, so more foods are ready when you need them. Search for one food or type a whole meal; Calometric can turn it into editable foods before you save. Recent Foods puts the custom foods you use at the top of search, and recently viewed catalog foods remain available when you are offline. FIVE WAYS TO LOG Photo: Take a meal photo for an editable calorie and macro estimate. With your permission, Calometric sends a resized copy to cloud AI for analysis. Barcode: Scan packaged food and look it up in the community-maintained Open Food Facts catalog. Voice: Say what you ate with on-device transcription on supported devices and languages. Search: Find, adjust, and log foods with the growing database and offline fallback. Nutrition Label: Point your camera at a nutrition label to read calories and nutrients on your device. TURN DAILY LOGGING INTO A CLEARER PICTURE Set calorie, macro, and saturated-fat goals See progress at a glance and follow weekly trends Save favorite meals, copy meals you eat often, and reuse your own foods Create a nutrition report for any date range, then preview, print, or share the PDF Keep unknown saturated-fat values unknown instead of treating them as zero CALOMETRIC ON IPHONE AND APPLE WATCH The refreshed Dashboard puts every way to log in one place, with larger controls and text that follows your Dynamic Type size. On Apple Watch, Quick Add offers your own recent favorites and foods. Put calories, carbs, protein, fat, or saturated fat on your watch face, then keep your day moving. ONE PURCHASE, NO SUBSCRIPTION Your purchase unlocks the whole app with no subscription: every way to log, your full history, goals, reports, widgets, and the Apple Watch app. It also includes 100 photo scans that never expire. Only photo scans use a scan. Barcode, voice, search, and nutrition-label logging never do. When you want more photo scans, optional 100-scan packs are available in the app. Photo scanning allows up to 20 scans per day. YOUR CHOICES, CLEARLY EXPLAINED No Calometric account or login required Voice transcription and nutrition-label reading run on your device Photo analysis processes content in the cloud only after separate permission Barcode lookups contact Open Food Facts Meal-history sync through your private iCloud database and Apple Health sync are optional Privacy Policy: https://calometric.app/privacy Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Snap. Know. Thrive.",
+    "fullDescription": "Meet the new Calometric: a beautifully rebuilt calorie and macro tracker that makes every meal easier to understand. Snap a meal, scan a barcode, speak, search, or read a nutrition label. Every result is a starting point you can review and edit before it reaches your food diary: foods, portions, servings, calories, carbs, protein, fat, and saturated fat when it is known. A FOOD DATABASE BUILT TO GROW Food search is now powered by a database that is 10× bigger and still growing, so more foods are ready when you need them. Search for one food or type a whole meal; Calometric can turn it into editable foods before you save. Recent Foods puts the custom foods you use at the top of search, and recently viewed catalog foods remain available when you are offline. FIVE WAYS TO LOG Photo: Take a meal photo for an editable calorie and macro estimate. With your permission, Calometric sends a resized copy to cloud AI for analysis. Barcode: Scan packaged food and look it up in the community-maintained Open Food Facts catalog. Voice: Say what you ate with on-device transcription on supported devices and languages. Search: Find, adjust, and log foods with the growing database and offline fallback. Nutrition Label: Point your camera at a nutrition label to read calories and nutrients on your device. TURN DAILY LOGGING INTO A CLEARER PICTURE Set calorie, macro, and saturated-fat goals See progress at a glance and follow weekly trends Save favorite meals, copy meals you eat often, and reuse your own foods Create a nutrition report for any date range, then preview, print, or share the PDF Keep unknown saturated-fat values unknown instead of treating them as zero CALOMETRIC ON IPHONE AND APPLE WATCH The refreshed Dashboard puts every way to log in one place, with larger controls and text that follows your Dynamic Type size. On Apple Watch, Quick Add offers your own recent favorites and foods. Put calories, carbs, protein, fat, or saturated fat on your watch face, then keep your day moving. ONE PURCHASE, NO SUBSCRIPTION Your purchase unlocks the whole app with no subscription: every way to log, your full history, goals, reports, widgets, and the Apple Watch app. It also includes 100 photo scans that never expire. Only photo scans use a scan. Barcode, voice, search, and nutrition-label logging never do. When you want more photo scans, optional 100-scan packs are available in the app. Photo scanning allows up to 20 scans per day. YOUR CHOICES, CLEARLY EXPLAINED No Calometric account or login required Voice transcription and nutrition-label reading run on your device Photo analysis processes content in the cloud only after separate permission Barcode lookups contact Open Food Facts Meal-history sync through your private iCloud database and Apple Health sync are optional Privacy Policy: https://calometric.app/privacy Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Snap. Know. Thrive.",
+    "summaryDescription": "Meet the new Calometric: a beautifully rebuilt calorie and macro tracker that makes every meal easier to understand. Snap a meal, scan a barcode, speak, search, or read a nutrition label. Every result is a starting point you can review and edit before it reaches your food diary: foods, portions, servings, calories, carbs, protein, fat, and saturated fat when it is known. A FOOD DATABASE BUILT TO GROW Food search is now powered by a database that is 10× bigger and still growing, so more foods are ready when you need them. Search for one food or type a whole meal; Calometric can turn it into editable foods before you save. Recent Foods puts the custom foods you use at the top of search, and recently viewed catalog foods remain available when you are offline. FIVE WAYS TO LOG Photo: Take a meal photo for an editable calorie and macro estimate. With your permission, Calometric sends a resized copy to cloud AI for analysis. Barcode: Scan packaged food and look it up in the community-maintained Open Food Facts catalog. Voice: Say what you ate with on-device transcription on supported devices and languages. Search: Find, adjust, and log foods with the growing database and offline fallback. Nutrition Label: Point your camera at a nutrition label to read calories and nutrients on your device. TURN DAILY LOGGING INTO A CLEARER PICTURE Set calorie, macro, and saturated-fat goals See progress at a glance and follow weekly trends Save favorite meals, copy meals you eat often, and reuse your own foods Create a nutrition report for any date range, then preview, print, or share the PDF Keep unknown saturated-fat values unknown instead of treating them as zero CALOMETRIC ON IPHONE AND APPLE WATCH The refreshed Dashboard puts every way to log in one place, with larger controls and text that follows your Dynamic Type size. On Apple Watch, Quick Add offers your own recent favorites and foods. Put calories, carbs, protein, fat, or saturated fat on your watch face, then keep your day moving. ONE PURCHASE, NO SUBSCRIPTION Your purchase unlocks the whole app with no subscription: every way to log, your full history, goals, reports, widgets, and the Apple Watch app. It also includes 100 photo scans that never expire. Only photo scans use a scan. Barcode, voice, search, and nutrition-label logging never do. When you want more photo scans, optional 100-scan packs are available in the app. Photo scanning allows up to 20 scans per day. YOUR CHOICES, CLEARLY EXPLAINED No Calometric account or login required Voice transcription and nutrition-label reading run on your device Photo analysis processes content in the cloud only after separate permission Barcode lookups contact Open Food Facts Meal-history sync through your private iCloud database and Apple Health sync are optional Privacy Policy: https://calometric.app/privacy Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Snap. Know. Thrive.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/21/2b/c5212b70-ea28-e488-1179-3814392bdee6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/21/2b/c5212b70-ea28-e488-1179-3814392bdee6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Ricardo Dantas Goncalves",
     "artistName": "Ricardo Dantas Goncalves",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/21/83/16218366-194c-6f3b-e558-d0943ed96e0a/01_five_ways.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/2c/70/892c700b-4cc4-f403-a3ef-bee3d19d1cad/02_dashboard.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/da/88/49da88a0-d6ee-5eae-76f4-7edc1fa13afb/03_coach.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/fd/44/ecfd4494-7ec3-b1f9-36d8-2547ee446601/04_trends.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/d4/d4/89d4d4f4-3cf6-d6d8-09d7-db0b5ca16482/05_goals.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/ef/b8/a7efb850-5511-ff9d-c8fd-514ed61ad75b/06_history.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/6f/21/816f212f-7a42-af06-4dd4-6e2bb5a87e58/07_report.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/28/6f/4f286f61-88c7-c724-cf30-5459087fa97a/01_five_ways.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/8f/20/ad8f2019-6aeb-38f4-1cf6-acf22ec88fe9/02_dashboard.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/89/df/f089df56-1627-8bcf-a92e-cc9116a1ad90/04_trends.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/61/2a/97612a13-366f-649f-9201-b42492700663/05_goals.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/84/ec/f184ec41-6b7a-4d7e-7887-91b1b4f2b310/06_history.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/80/a4/9b80a47c-ae9e-3482-bb7d-9e57c3f59888/07_report.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/d2/90/2cd29082-9755-1b9d-c05c-b46c2c71c1a7/01_five_ways.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/e1/f4/40e1f4be-1fb9-7362-7df9-fe7ab909a16d/02_dashboard.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/e0/c4/c7e0c409-a1e5-2dd9-28e9-6e282782f726/03_coach.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/ab/0e/5cab0edc-577c-c8ac-cd3c-ea6ae9a8aae2/04_trends.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/81/59/9a81596f-1cc0-677a-f44f-187c48cfd5c6/05_goals.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/b5/d7/b9b5d763-2e2e-b3a9-e870-af30a67c2493/06_history.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/71/a0/ad71a047-875e-3e48-c788-609ffb804389/07_report.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/82/2b/30822bd2-41db-9a7f-9bd3-fd0e5c5afefa/01_five_ways.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/f3/35/73f33510-46e8-8505-ac11-d3aee93d305d/02_dashboard.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/f7/49/2ef749c2-18c7-f22c-3cf1-1222beebb38f/04_trends.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/07/76/db07769e-0e05-8064-806f-c22fe45d93a2/05_goals.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/38/b5/7e38b5a3-2ed0-f0b0-b814-2f5ea5a82bbd/06_history.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/df/bd/3cdfbd5c-263b-c106-4e6a-243c2abb927f/07_report.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1780123458415
   },
@@ -136483,6 +136789,18 @@
     "history": [
       [
         {
+          "timestamp": 1790250932565,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Forge-IT Pro": "¥68.00",
+            "Forgeit 120 Coins": "¥148.00",
+            "Forgeit 50 Coins": "¥68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790149888339,
           "price": 0,
           "formattedPrice": "免费",
@@ -136515,9 +136833,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/edit-text-in-photo-forgeit/id6778315973?uo=4",
-    "description": "Forge-IT – Screenshot Text Editor Edit, erase, and replace text in photos and screenshots with Forge-IT. Forge-IT is a fast and simple photo text editor designed to help you edit text directly inside screenshots and images. Import a photo, let smart OCR detect the text, tap the text you want to change, and replace it in seconds. Whether you're editing a chat screenshot, receipt, social media post, note, mockup, poster, or another image containing text, Forge-IT makes text editing quick and accessible without complicated editing software. EDIT TEXT IN PHOTOS Edit text directly inside your images with an easy-to-use workflow. Detect text automatically with smart OCR Tap detected text to edit it Draw around any text OCR can't detect and edit it anyway Edit, erase, and replace text Add new text to your photos Change fonts, colors, and text size Apply bold, italic, underline, and strikethrough formatting Customize text placement and appearance Pinch to zoom up to 6x for precise detail work Press and hold to compare your edit against the original Undo and redo any change Create captions, designs, posters, and more Export your edited images in high quality AI REDRAW Replace a line of text and let AI repaint it into the image, matching the original font, size, weight, and color. Useful when text sits over a photo, a gradient, or a textured background where a plain overlay would look pasted on. Included with Premium, and available as add-on packs. SMART OCR TEXT DETECTION Forge-IT uses OCR to recognize text inside your photos and screenshots, making it easier to select and edit specific words or sections without manually recreating the entire image. Text is detected in over 20 languages, and the app interface is available in 20 languages. Use Forge-IT for: Screenshot text editing Chat and social media mockups Receipt and note editing for legitimate personal use Photo captions Typography and lettering designs Posters and creative designs Image mockups Collage projects Educational and entertainment content HOW IT WORKS Import a screenshot or photo Let Forge-IT detect the text Tap the text you want to edit Replace, erase, or customize the text Save and share your finished image No complicated editing tools. Just import, tap, edit, and export. PREMIUM Unlock the full Forge-IT experience: Unlimited exports, full quality Advanced text customization Premium fonts and styles Extended editing history 40 AI redraws included No ads Future premium features Lifetime Access forgeit 50 coins forgeit 120 coins IMPORTANT DISCLAIMER Forge-IT is designed for creative, educational, entertainment, mockup, design, and personal productivity purposes. Users are solely responsible for how edited images are created, shared, and used. Forge-IT does not encourage, support, or endorse fraud, impersonation, misinformation, forgery, deceptive practices, document falsification, or any unlawful activity. Users must comply with all applicable laws and platform policies when creating, sharing, or using edited content. SUPPORT We're continuously improving Forge-IT with new features and enhancements to make editing text in photos and screenshots faster, easier, and more intuitive. Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://redizeuz.com/privacy",
-    "fullDescription": "Forge-IT – Screenshot Text Editor Edit, erase, and replace text in photos and screenshots with Forge-IT. Forge-IT is a fast and simple photo text editor designed to help you edit text directly inside screenshots and images. Import a photo, let smart OCR detect the text, tap the text you want to change, and replace it in seconds. Whether you're editing a chat screenshot, receipt, social media post, note, mockup, poster, or another image containing text, Forge-IT makes text editing quick and accessible without complicated editing software. EDIT TEXT IN PHOTOS Edit text directly inside your images with an easy-to-use workflow. Detect text automatically with smart OCR Tap detected text to edit it Draw around any text OCR can't detect and edit it anyway Edit, erase, and replace text Add new text to your photos Change fonts, colors, and text size Apply bold, italic, underline, and strikethrough formatting Customize text placement and appearance Pinch to zoom up to 6x for precise detail work Press and hold to compare your edit against the original Undo and redo any change Create captions, designs, posters, and more Export your edited images in high quality AI REDRAW Replace a line of text and let AI repaint it into the image, matching the original font, size, weight, and color. Useful when text sits over a photo, a gradient, or a textured background where a plain overlay would look pasted on. Included with Premium, and available as add-on packs. SMART OCR TEXT DETECTION Forge-IT uses OCR to recognize text inside your photos and screenshots, making it easier to select and edit specific words or sections without manually recreating the entire image. Text is detected in over 20 languages, and the app interface is available in 20 languages. Use Forge-IT for: Screenshot text editing Chat and social media mockups Receipt and note editing for legitimate personal use Photo captions Typography and lettering designs Posters and creative designs Image mockups Collage projects Educational and entertainment content HOW IT WORKS Import a screenshot or photo Let Forge-IT detect the text Tap the text you want to edit Replace, erase, or customize the text Save and share your finished image No complicated editing tools. Just import, tap, edit, and export. PREMIUM Unlock the full Forge-IT experience: Unlimited exports, full quality Advanced text customization Premium fonts and styles Extended editing history 40 AI redraws included No ads Future premium features Lifetime Access forgeit 50 coins forgeit 120 coins IMPORTANT DISCLAIMER Forge-IT is designed for creative, educational, entertainment, mockup, design, and personal productivity purposes. Users are solely responsible for how edited images are created, shared, and used. Forge-IT does not encourage, support, or endorse fraud, impersonation, misinformation, forgery, deceptive practices, document falsification, or any unlawful activity. Users must comply with all applicable laws and platform policies when creating, sharing, or using edited content. SUPPORT We're continuously improving Forge-IT with new features and enhancements to make editing text in photos and screenshots faster, easier, and more intuitive. Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://redizeuz.com/privacy",
-    "summaryDescription": "Forge-IT – Screenshot Text Editor Edit, erase, and replace text in photos and screenshots with Forge-IT. Forge-IT is a fast and simple photo text editor designed to help you edit text directly inside screenshots and images. Import a photo, let smart OCR detect the text, tap the text you want to change, and replace it in seconds. Whether you're editing a chat screenshot, receipt, social media post, note, mockup, poster, or another image containing text, Forge-IT makes text editing quick and accessible without complicated editing software. EDIT TEXT IN PHOTOS Edit text directly inside your images with an easy-to-use workflow. Detect text automatically with smart OCR Tap detected text to edit it Draw around any text OCR can't detect and edit it anyway Edit, erase, and replace text Add new text to your photos Change fonts, colors, and text size Apply bold, italic, underline, and strikethrough formatting Customize text placement and appearance Pinch to zoom up to 6x for precise detail work Press and hold to compare your edit against the original Undo and redo any change Create captions, designs, posters, and more Export your edited images in high quality AI REDRAW Replace a line of text and let AI repaint it into the image, matching the original font, size, weight, and color. Useful when text sits over a photo, a gradient, or a textured background where a plain overlay would look pasted on. Included with Premium, and available as add-on packs. SMART OCR TEXT DETECTION Forge-IT uses OCR to recognize text inside your photos and screenshots, making it easier to select and edit specific words or sections without manually recreating the entire image. Text is detected in over 20 languages, and the app interface is available in 20 languages. Use Forge-IT for: Screenshot text editing Chat and social media mockups Receipt and note editing for legitimate personal use Photo captions Typography and lettering designs Posters and creative designs Image mockups Collage projects Educational and entertainment content HOW IT WORKS Import a screenshot or photo Let Forge-IT detect the text Tap the text you want to edit Replace, erase, or customize the text Save and share your finished image No complicated editing tools. Just import, tap, edit, and export. PREMIUM Unlock the full Forge-IT experience: Unlimited exports, full quality Advanced text customization Premium fonts and styles Extended editing history 40 AI redraws included No ads Future premium features Lifetime Access forgeit 50 coins forgeit 120 coins IMPORTANT DISCLAIMER Forge-IT is designed for creative, educational, entertainment, mockup, design, and personal productivity purposes. Users are solely responsible for how edited images are created, shared, and used. Forge-IT does not encourage, support, or endorse fraud, impersonation, misinformation, forgery, deceptive practices, document falsification, or any unlawful activity. Users must comply with all applicable laws and platform policies when creating, sharing, or using edited content. SUPPORT We're continuously improving Forge-IT with new features and enhancements to make editing text in photos and screenshots faster, easier, and more intuitive. Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://redizeuz.com/privacy",
+    "description": "Forge-IT – 屏幕截图文本编辑器 使用 Forge-IT 编辑、删除和替换照片和屏幕截图中的文本。 Forge-IT 是一款快速、简单的照片文本编辑器，旨在帮助您直接在屏幕截图和图像中编辑文本。导入照片，让智能 OCR 检测文本，点击要更改的文本，然后在几秒钟内替换它。无论您是编辑聊天截图、收据、社交媒体帖子、笔记、模型、海报还是其他包含文本的图像，Forge-IT 都可以让文本编辑变得快速且易于访问，无需复杂的编辑软件。编辑照片中的文本 直接在图像中编辑文本",
+    "fullDescription": "Forge-IT – 屏幕截图文本编辑器 使用 Forge-IT 编辑、删除和替换照片和屏幕截图中的文本。 Forge-IT 是一款快速、简单的照片文本编辑器，旨在帮助您直接在屏幕截图和图像中编辑文本。导入照片，让智能 OCR 检测文本，点击要更改的文本，然后在几秒钟内替换它。无论您是编辑聊天截图、收据、社交媒体帖子、笔记、模型、海报还是其他包含文本的图像，Forge-IT 都可以让文本编辑变得快速且易于访问，无需复杂的编辑软件。编辑照片中的文本 直接在图像中编辑文本",
+    "summaryDescription": "Forge-IT – 屏幕截图文本编辑器 使用 Forge-IT 编辑、删除和替换照片和屏幕截图中的文本。 Forge-IT 是一款快速、简单的照片文本编辑器，旨在帮助您直接在屏幕截图和图像中编辑文本。导入照片，让智能 OCR 检测文本，点击要更改的文本，然后在几秒钟内替换它。无论您是编辑聊天截图、收据、社交媒体帖子、笔记、模型、海报还是其他包含文本的图像，Forge-IT 都可以让文本编辑变得快速且易于访问，无需复杂的编辑软件。编辑照片中的文本 直接在图像中编辑文本",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/23/c2/3723c2cf-54b6-b7ec-77a7-2e73e79d7598/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/23/c2/3723c2cf-54b6-b7ec-77a7-2e73e79d7598/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Ebenezer Oteng",
@@ -143207,8 +143525,8 @@
     "description": "Avenly 是一款为 iPhone 和 iPad 打造的私密旅行计划应用，让你从容规划——那些会毁掉一趟旅行的问题，在你出发前就替你找出来。 发现衔接过紧与时间冲突——你在编排每一天时，Avenly 就会标出时间重叠的安排，也会提醒两个地点之间的交通时间留得太少，不必等到人在当地，才发现有一段衔接赶不上。 离线可用，飞机上也一样——完整行程、各个地点的地图和你保存的文档都存在你的设备上，没有信号也能查看。 整趟行程，从容地收在一处——按天编排的行程，包含时间、地点、住宿、交通和备注。还没定时间的地点，可以先存进“候选”，想安排时再放进当天。每一处都能在地图上看到。 你的计划仍然属于你——无账户，无广告，无追踪。行程是归你所有的文档，通过你自己的 iCloud 私密同步，也能与同行的人共享。 把计划交给你的 AI——将任意行程导出为整洁的 Markdown，让你常用的 AI 助手帮你再看一遍。 下载免费，查看永远免费。全部规划功能可免费试用 7 天，之后一次解锁，永久使用。一次性购买，永不订阅。",
     "fullDescription": "Avenly 是一款为 iPhone 和 iPad 打造的私密旅行计划应用，让你从容规划——那些会毁掉一趟旅行的问题，在你出发前就替你找出来。 发现衔接过紧与时间冲突——你在编排每一天时，Avenly 就会标出时间重叠的安排，也会提醒两个地点之间的交通时间留得太少，不必等到人在当地，才发现有一段衔接赶不上。 离线可用，飞机上也一样——完整行程、各个地点的地图和你保存的文档都存在你的设备上，没有信号也能查看。 整趟行程，从容地收在一处——按天编排的行程，包含时间、地点、住宿、交通和备注。还没定时间的地点，可以先存进“候选”，想安排时再放进当天。每一处都能在地图上看到。 你的计划仍然属于你——无账户，无广告，无追踪。行程是归你所有的文档，通过你自己的 iCloud 私密同步，也能与同行的人共享。 把计划交给你的 AI——将任意行程导出为整洁的 Markdown，让你常用的 AI 助手帮你再看一遍。 下载免费，查看永远免费。全部规划功能可免费试用 7 天，之后一次解锁，永久使用。一次性购买，永不订阅。",
     "summaryDescription": "Avenly 是一款为 iPhone 和 iPad 打造的私密旅行计划应用，让你从容规划——那些会毁掉一趟旅行的问题，在你出发前就替你找出来。 发现衔接过紧与时间冲突——你在编排每一天时，Avenly 就会标出时间重叠的安排，也会提醒两个地点之间的交通时间留得太少，不必等到人在当地，才发现有一段衔接赶不上。 离线可用，飞机上也一样——完整行程、各个地点的地图和你保存的文档都存在你的设备上，没有信号也能查看。 整趟行程，从容地收在一处——按天编排的行程，包含时间、地点、住宿、交通和备注。还没定时间的地点，可以先存进“候选”，想安排时再放进当天。每一处都能在地图上看到。 你的计划仍然属于你——无账户，无广告，无追踪。行程是归你所有的文档，通过你自己的 iCloud 私密同步，也能与同行的人共享。 把计划交给你的 AI——将任意行程导出为整洁的 Markdown，让你常用的 AI 助手帮你再看一遍。 下载免费，查看永远免费。全部规划功能可免费试用 7 天，之后一次解锁，永久使用。一次性购买，永不订阅。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/45/d3/7545d319-9f82-be40-9a37-ebbd129a0d6e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/45/d3/7545d319-9f82-be40-9a37-ebbd129a0d6e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/1c/54/911c5443-e768-d10a-2326-88a23f993cc3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/1c/54/911c5443-e768-d10a-2326-88a23f993cc3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Sofia Rincon",
     "artistName": "Sofia Rincon",
     "screenshotUrls": [
@@ -148345,8 +148663,8 @@
     "description": "一刻是一款轻量生活记录 App。不需要复杂的排版和版式，打开就能写：文字、照片、视频、录音、地点等，可以全部混排在同一条记录里，像刷朋友圈一样回看自己的时间线。写完还能追加评论，随时补上最新的想法。 【支持多种记录形态】 文字日记、随手记、碎碎念、心情点滴 照片、视频、录音、地点、标签一条记录全搞定 语音识别，说话就能记，解放双手 记录工具自由管理，排序、隐藏随你安排，还能更多个性化设置 【找得到，记录才有意义】 搜索与标签系统，支持按时间、标签筛选，想翻阅的记录就能秒速找回 标签管理 + 记录归档 + 记录足迹 +桌面小组件，把回忆整理得井井有条 【把记录变成作品】 一键生成精美海报，背景颜色、文字大小自由调整 记录数据可以导出为文件夹或表格，想带走随时带走 【本地存储，隐私无忧】 记录默认只存在你的设备里，离线也能用 支持 Face ID 上锁，你的日记只有你能看 可选 iCloud 同步，多设备无缝衔接 现在就开始，记录属于你的每一刻。 Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "一刻是一款轻量生活记录 App。不需要复杂的排版和版式，打开就能写：文字、照片、视频、录音、地点等，可以全部混排在同一条记录里，像刷朋友圈一样回看自己的时间线。写完还能追加评论，随时补上最新的想法。 【支持多种记录形态】 文字日记、随手记、碎碎念、心情点滴 照片、视频、录音、地点、标签一条记录全搞定 语音识别，说话就能记，解放双手 记录工具自由管理，排序、隐藏随你安排，还能更多个性化设置 【找得到，记录才有意义】 搜索与标签系统，支持按时间、标签筛选，想翻阅的记录就能秒速找回 标签管理 + 记录归档 + 记录足迹 +桌面小组件，把回忆整理得井井有条 【把记录变成作品】 一键生成精美海报，背景颜色、文字大小自由调整 记录数据可以导出为文件夹或表格，想带走随时带走 【本地存储，隐私无忧】 记录默认只存在你的设备里，离线也能用 支持 Face ID 上锁，你的日记只有你能看 可选 iCloud 同步，多设备无缝衔接 现在就开始，记录属于你的每一刻。 Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "一刻是一款轻量生活记录 App。不需要复杂的排版和版式，打开就能写：文字、照片、视频、录音、地点等，可以全部混排在同一条记录里，像刷朋友圈一样回看自己的时间线。写完还能追加评论，随时补上最新的想法。 【支持多种记录形态】 文字日记、随手记、碎碎念、心情点滴 照片、视频、录音、地点、标签一条记录全搞定 语音识别，说话就能记，解放双手 记录工具自由管理，排序、隐藏随你安排，还能更多个性化设置 【找得到，记录才有意义】 搜索与标签系统，支持按时间、标签筛选，想翻阅的记录就能秒速找回 标签管理 + 记录归档 + 记录足迹 +桌面小组件，把回忆整理得井井有条 【把记录变成作品】 一键生成精美海报，背景颜色、文字大小自由调整 记录数据可以导出为文件夹或表格，想带走随时带走 【本地存储，隐私无忧】 记录默认只存在你的设备里，离线也能用 支持 Face ID 上锁，你的日记只有你能看 可选 iCloud 同步，多设备无缝衔接 现在就开始，记录属于你的每一刻。 Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/28/6e/89286ec9-9cc5-fa64-a71a-b0acac2491a4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/28/6e/89286ec9-9cc5-fa64-a71a-b0acac2491a4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/79/42/8c794298-bf5f-0d9d-a03c-da2edb479ca2/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/79/42/8c794298-bf5f-0d9d-a03c-da2edb479ca2/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "昱琨 程",
     "artistName": "昱琨 程",
     "screenshotUrls": [
@@ -156532,8 +156850,8 @@
     "description": "我是给自己做的。我有 ADHD，一长串待办会让我卡住。分不清什么火烧眉毛、什么可以等，结果常常什么都不做。所以我做了自己需要的东西，也觉得也许有人跟我一样需要。 用法很简单。事情还没从脑子里溜走时先写下来，再放进四个格子里的一个： 马上做 规划 尽快处理 以后 就四个格子。不是二十个清单，也不是文件夹套文件夹。一件事只有四个去处。 里面有： 快速记下，让写下来本身别再变成一件事 收集箱，用来放还没分类的东西 重复任务：每天、工作日、每周或每月。记下时也可以打 @daily 这种标签 在收集箱和矩阵里，把任务拖成你真正想要的顺序 已完成列表，让做完的事有个去处，而不是一直盯着你 Siri 和快捷指令，如果你更想说出来。日期、重复和 #/@ 标签仍是英文（@daily、#do、tomorrow）；不然就在应用里选 主屏幕小组件，不用打开应用也能看见矩阵 五种精选配色，外加一套自定义色板。精选主题在浅色和深色下都检查过对比度；自定义色板可以保留你选的颜色，即使对比度偏低 四个格子可以改成你脑子里真正叫的名字 可选的私密 iCloud 同步，任务可以出现在你的 iPhone 和 iPad 上 简体中文、德语、西班牙语和意大利语；缺了的地方用英语 关于你的数据：它留在你的设备上。不用注册，不用登录，我也不做分析，更不会把东西交给别人。同步是你自己的 iCloud，在你自己的 Apple 设备之间。 免费。没有订阅，没有广告。iPhone 和 iPad，iOS 18 及以上。 说句实话：它治不了 ADHD，要是我说能治，那就是撒谎。它只是一个小小的、安静的地方，可以把任务先放进去，用起来不会让我感觉更糟。这是我一个人做的，做的时候想的就是我自己的脑子怎么运转。目标就这些。",
     "fullDescription": "我是给自己做的。我有 ADHD，一长串待办会让我卡住。分不清什么火烧眉毛、什么可以等，结果常常什么都不做。所以我做了自己需要的东西，也觉得也许有人跟我一样需要。 用法很简单。事情还没从脑子里溜走时先写下来，再放进四个格子里的一个： 马上做 规划 尽快处理 以后 就四个格子。不是二十个清单，也不是文件夹套文件夹。一件事只有四个去处。 里面有： 快速记下，让写下来本身别再变成一件事 收集箱，用来放还没分类的东西 重复任务：每天、工作日、每周或每月。记下时也可以打 @daily 这种标签 在收集箱和矩阵里，把任务拖成你真正想要的顺序 已完成列表，让做完的事有个去处，而不是一直盯着你 Siri 和快捷指令，如果你更想说出来。日期、重复和 #/@ 标签仍是英文（@daily、#do、tomorrow）；不然就在应用里选 主屏幕小组件，不用打开应用也能看见矩阵 五种精选配色，外加一套自定义色板。精选主题在浅色和深色下都检查过对比度；自定义色板可以保留你选的颜色，即使对比度偏低 四个格子可以改成你脑子里真正叫的名字 可选的私密 iCloud 同步，任务可以出现在你的 iPhone 和 iPad 上 简体中文、德语、西班牙语和意大利语；缺了的地方用英语 关于你的数据：它留在你的设备上。不用注册，不用登录，我也不做分析，更不会把东西交给别人。同步是你自己的 iCloud，在你自己的 Apple 设备之间。 免费。没有订阅，没有广告。iPhone 和 iPad，iOS 18 及以上。 说句实话：它治不了 ADHD，要是我说能治，那就是撒谎。它只是一个小小的、安静的地方，可以把任务先放进去，用起来不会让我感觉更糟。这是我一个人做的，做的时候想的就是我自己的脑子怎么运转。目标就这些。",
     "summaryDescription": "我是给自己做的。我有 ADHD，一长串待办会让我卡住。分不清什么火烧眉毛、什么可以等，结果常常什么都不做。所以我做了自己需要的东西，也觉得也许有人跟我一样需要。 用法很简单。事情还没从脑子里溜走时先写下来，再放进四个格子里的一个： 马上做 规划 尽快处理 以后 就四个格子。不是二十个清单，也不是文件夹套文件夹。一件事只有四个去处。 里面有： 快速记下，让写下来本身别再变成一件事 收集箱，用来放还没分类的东西 重复任务：每天、工作日、每周或每月。记下时也可以打 @daily 这种标签 在收集箱和矩阵里，把任务拖成你真正想要的顺序 已完成列表，让做完的事有个去处，而不是一直盯着你 Siri 和快捷指令，如果你更想说出来。日期、重复和 #/@ 标签仍是英文（@daily、#do、tomorrow）；不然就在应用里选 主屏幕小组件，不用打开应用也能看见矩阵 五种精选配色，外加一套自定义色板。精选主题在浅色和深色下都检查过对比度；自定义色板可以保留你选的颜色，即使对比度偏低 四个格子可以改成你脑子里真正叫的名字 可选的私密 iCloud 同步，任务可以出现在你的 iPhone 和 iPad 上 简体中文、德语、西班牙语和意大利语；缺了的地方用英语 关于你的数据：它留在你的设备上。不用注册，不用登录，我也不做分析，更不会把东西交给别人。同步是你自己的 iCloud，在你自己的 Apple 设备之间。 免费。没有订阅，没有广告。iPhone 和 iPad，iOS 18 及以上。 说句实话：它治不了 ADHD，要是我说能治，那就是撒谎。它只是一个小小的、安静的地方，可以把任务先放进去，用起来不会让我感觉更糟。这是我一个人做的，做的时候想的就是我自己的脑子怎么运转。目标就这些。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1a/d0/c01ad0fd-13fd-c6b8-ab46-138ece7c795e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1a/d0/c01ad0fd-13fd-c6b8-ab46-138ece7c795e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/d5/f1/cfd5f180-3963-bad6-6316-ecce2591da3e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/d5/f1/cfd5f180-3963-bad6-6316-ecce2591da3e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Anthony Gagliardo",
     "artistName": "Anthony Gagliardo",
     "screenshotUrls": [
@@ -158421,8 +158739,8 @@
     "_externalSourceFirstSeen": 1782704228283
   },
   "6781190371": {
-    "name": "Private LLM Chat: PocketMind",
-    "trackName": "Private LLM Chat: PocketMind",
+    "name": "Private LLM Chat: Pocket Mind",
+    "trackName": "Private LLM Chat: Pocket Mind",
     "maxPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
@@ -158511,21 +158829,21 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/private-llm-chat-pocketmind/id6781190371?uo=4",
+    "trackViewUrl": "https://apps.apple.com/cn/app/private-llm-chat-pocket-mind/id6781190371?uo=4",
     "description": "Private AI, Right on Your Device Run powerful AI models directly on your iPhone, iPad, and Mac. No internet required. No accounts. No cloud processing. PocketMind lets you chat, write, summarize, analyze, and create with AI, all while keeping your data private. Everything runs locally on your device using Apple Silicon. Features Fully Offline Use AI anywhere, even without an internet connection. Private by Design Your chats and data never leave your device. No sign-up required. Fast On-Device AI Powered by Apple’s MLX framework for smooth and efficient performance. Popular AI Models Run models such as Llama, Gemma, Qwen, DeepSeek, and more. Chat, Write, and Create Ask questions, generate content, summarize text, and analyze images. Complete Control Choose the AI model you want and keep full control of your data. PocketMind brings powerful AI to your device, privately and securely. Download PocketMind and experience AI that works for you, not the cloud. Privacy Policy: https://digitalhole.github.io/pocketmind.html Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "Private AI, Right on Your Device Run powerful AI models directly on your iPhone, iPad, and Mac. No internet required. No accounts. No cloud processing. PocketMind lets you chat, write, summarize, analyze, and create with AI, all while keeping your data private. Everything runs locally on your device using Apple Silicon. Features Fully Offline Use AI anywhere, even without an internet connection. Private by Design Your chats and data never leave your device. No sign-up required. Fast On-Device AI Powered by Apple’s MLX framework for smooth and efficient performance. Popular AI Models Run models such as Llama, Gemma, Qwen, DeepSeek, and more. Chat, Write, and Create Ask questions, generate content, summarize text, and analyze images. Complete Control Choose the AI model you want and keep full control of your data. PocketMind brings powerful AI to your device, privately and securely. Download PocketMind and experience AI that works for you, not the cloud. Privacy Policy: https://digitalhole.github.io/pocketmind.html Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "Private AI, Right on Your Device Run powerful AI models directly on your iPhone, iPad, and Mac. No internet required. No accounts. No cloud processing. PocketMind lets you chat, write, summarize, analyze, and create with AI, all while keeping your data private. Everything runs locally on your device using Apple Silicon. Features Fully Offline Use AI anywhere, even without an internet connection. Private by Design Your chats and data never leave your device. No sign-up required. Fast On-Device AI Powered by Apple’s MLX framework for smooth and efficient performance. Popular AI Models Run models such as Llama, Gemma, Qwen, DeepSeek, and more. Chat, Write, and Create Ask questions, generate content, summarize text, and analyze images. Complete Control Choose the AI model you want and keep full control of your data. PocketMind brings powerful AI to your device, privately and securely. Download PocketMind and experience AI that works for you, not the cloud. Privacy Policy: https://digitalhole.github.io/pocketmind.html Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/ac/f4/3facf4e3-286f-312b-3d63-b705473ec307/ThinkLocal-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/ac/f4/3facf4e3-286f-312b-3d63-b705473ec307/ThinkLocal-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/91/ca/0291ca89-6147-2e7c-c26f-217357303cc0/ThinkLocal-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/91/ca/0291ca89-6147-2e7c-c26f-217357303cc0/ThinkLocal-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Arima Jain",
     "artistName": "Arima Jain",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/6a/75/206a7515-7e7f-a10d-b035-652409e31494/IMG_2878_1.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/ee/11/f7ee1154-ad38-5590-ab77-21b1133b8c5a/IMG_2877_1.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/f4/87/60f487ad-8bd0-e124-21b1-c822cf839920/ChatGPT_Image_Sep_22_U002c_2026_U002c_11_29_00_PM_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/e6/c2/08e6c2d0-3ac0-2dc5-4285-1950eb7a6ab6/IMG_2878_1.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/1e/c9/f11ec96e-2609-393e-6bd6-8b262c3b5be7/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-06-19_at_19.54.10.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/d6/fc/7ad6fc18-4f45-2b57-c0f7-02b142a4bd07/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-06-19_at_19.54.30.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/12/45/0e1245c8-fbdb-69e1-461c-fc57998873c3/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-06-19_at_19.54.10.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/54/f2/6254f299-9ab1-baee-5dee-ff16c236e1a5/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-06-19_at_19.54.30.png/360x480bb.jpg"
     ],
     "_externalSource": "OODATA",
     "_externalSourceFirstSeen": 1782704228283
@@ -159021,8 +159339,8 @@
     "description": "顺剪（ClipFlow）是一款轻量的音视频处理工具。选择需要的功能，调整设置并预览，即可完成剪辑和导出。 主要功能： 裁剪、切分和拼接视频，裁剪或拼接音频，支持多段移除 使用照片、GIF 或实况照片制作轮播，组合多个视频或图片制作同屏视频 从视频中提取照片，或将视频转换为 GIF 或实况照片 调整音视频的整体或局部速度，支持视频曲线变速、慢动作补帧、加速运动模糊、倒放和音频静音停顿 裁切画面、旋转翻转、调整画布和添加设备外壳，使用滤镜调色、视频美颜、时域降噪、低清视频画质增强及淡入淡出效果 添加文字、图片、内置贴纸、文字蒙版、计时器、章节进度条和文字水印 遮盖视频中的固定水印，添加马赛克，或自动检测并跟踪人脸，为选定人脸打码 识别、导入或编写字幕，使用个人字幕词库和 AI 翻译，并将字幕嵌入视频 提取或移除原声，添加多段配乐和声音滤镜，或为指定片段添加哔声或静音 使用系统语音或 AI 将文字转为朗读音频 保留分辨率压缩视频，可选降低帧率，转换常用音视频格式，并在兼容时尽可能保留 HDR 查看视频和音频的格式、时长、尺寸与音轨等信息 隐私与权限： 视频、音频、声音滤镜和语音转字幕主要在设备上处理。相册、文件读取和系统语音识别等权限仅在使用相关功能时请求；麦克风权限仅在你主动开始声音滤镜录音时请求。 本地语音模型和 Apple 画质增强资源经你确认后下载，下载请求不包含媒体或字幕内容。个人字幕词库保存在设备上，不会作为独立数据上传。 主动使用文字转语音的 AI 模式时，输入文字和所选音色会发送到 ClipFlow 服务；主动使用字幕 AI 翻译时会发送字幕文字及目标语言。两项服务还会使用必要的请求标识和假名化购买权益标识进行生成与校验。这些请求不包含视频、音频、时间码或字幕样式。 Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "fullDescription": "顺剪（ClipFlow）是一款轻量的音视频处理工具。选择需要的功能，调整设置并预览，即可完成剪辑和导出。 主要功能： 裁剪、切分和拼接视频，裁剪或拼接音频，支持多段移除 使用照片、GIF 或实况照片制作轮播，组合多个视频或图片制作同屏视频 从视频中提取照片，或将视频转换为 GIF 或实况照片 调整音视频的整体或局部速度，支持视频曲线变速、慢动作补帧、加速运动模糊、倒放和音频静音停顿 裁切画面、旋转翻转、调整画布和添加设备外壳，使用滤镜调色、视频美颜、时域降噪、低清视频画质增强及淡入淡出效果 添加文字、图片、内置贴纸、文字蒙版、计时器、章节进度条和文字水印 遮盖视频中的固定水印，添加马赛克，或自动检测并跟踪人脸，为选定人脸打码 识别、导入或编写字幕，使用个人字幕词库和 AI 翻译，并将字幕嵌入视频 提取或移除原声，添加多段配乐和声音滤镜，或为指定片段添加哔声或静音 使用系统语音或 AI 将文字转为朗读音频 保留分辨率压缩视频，可选降低帧率，转换常用音视频格式，并在兼容时尽可能保留 HDR 查看视频和音频的格式、时长、尺寸与音轨等信息 隐私与权限： 视频、音频、声音滤镜和语音转字幕主要在设备上处理。相册、文件读取和系统语音识别等权限仅在使用相关功能时请求；麦克风权限仅在你主动开始声音滤镜录音时请求。 本地语音模型和 Apple 画质增强资源经你确认后下载，下载请求不包含媒体或字幕内容。个人字幕词库保存在设备上，不会作为独立数据上传。 主动使用文字转语音的 AI 模式时，输入文字和所选音色会发送到 ClipFlow 服务；主动使用字幕 AI 翻译时会发送字幕文字及目标语言。两项服务还会使用必要的请求标识和假名化购买权益标识进行生成与校验。这些请求不包含视频、音频、时间码或字幕样式。 Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "summaryDescription": "顺剪（ClipFlow）是一款轻量的音视频处理工具。选择需要的功能，调整设置并预览，即可完成剪辑和导出。 主要功能： 裁剪、切分和拼接视频，裁剪或拼接音频，支持多段移除 使用照片、GIF 或实况照片制作轮播，组合多个视频或图片制作同屏视频 从视频中提取照片，或将视频转换为 GIF 或实况照片 调整音视频的整体或局部速度，支持视频曲线变速、慢动作补帧、加速运动模糊、倒放和音频静音停顿 裁切画面、旋转翻转、调整画布和添加设备外壳，使用滤镜调色、视频美颜、时域降噪、低清视频画质增强及淡入淡出效果 添加文字、图片、内置贴纸、文字蒙版、计时器、章节进度条和文字水印 遮盖视频中的固定水印，添加马赛克，或自动检测并跟踪人脸，为选定人脸打码 识别、导入或编写字幕，使用个人字幕词库和 AI 翻译，并将字幕嵌入视频 提取或移除原声，添加多段配乐和声音滤镜，或为指定片段添加哔声或静音 使用系统语音或 AI 将文字转为朗读音频 保留分辨率压缩视频，可选降低帧率，转换常用音视频格式，并在兼容时尽可能保留 HDR 查看视频和音频的格式、时长、尺寸与音轨等信息 隐私与权限： 视频、音频、声音滤镜和语音转字幕主要在设备上处理。相册、文件读取和系统语音识别等权限仅在使用相关功能时请求；麦克风权限仅在你主动开始声音滤镜录音时请求。 本地语音模型和 Apple 画质增强资源经你确认后下载，下载请求不包含媒体或字幕内容。个人字幕词库保存在设备上，不会作为独立数据上传。 主动使用文字转语音的 AI 模式时，输入文字和所选音色会发送到 ClipFlow 服务；主动使用字幕 AI 翻译时会发送字幕文字及目标语言。两项服务还会使用必要的请求标识和假名化购买权益标识进行生成与校验。这些请求不包含视频、音频、时间码或字幕样式。 Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/e4/24/99e42464-630f-57a6-31ce-5d5360326172/ClipFlowIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/e4/24/99e42464-630f-57a6-31ce-5d5360326172/ClipFlowIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/ea/23/31ea230e-054d-17cc-cbe7-16bbe26e12e2/ClipFlowIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/ea/23/31ea230e-054d-17cc-cbe7-16bbe26e12e2/ClipFlowIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "辉 周",
     "artistName": "辉 周",
     "screenshotUrls": [
@@ -162631,8 +162949,8 @@
     "description": "PicSlicer iOS 版专注于把旅行照片做成“票根式记忆卡片”，让每一次出发、抵达和城市漫游都可以被收藏成一张有仪式感的旅行档案。 你可以从照片开始制作票根，选择横版或竖版样式，编辑城市名称、拼音、国家/地区、旅行年月、票根编号、备注和主题色。App 会根据照片提取主色，让每张票根更贴合当次旅行的氛围。 主要功能： 旅行票根创作：支持横版票根、竖版照片优先、竖版标题优先等不同版式。 照片裁切与构图：从相册选择旅行照片，按票根比例裁切，保留最适合展示的画面。 主色提取：从照片中提取颜色并应用到票根，让卡片风格和照片自然统一。 城市档案信息：记录城市、国家/地区、旅行年月、票根编号和个人备注。 本地收藏册：保存已制作的旅行票根，在“票根”页浏览自己的城市记忆。 PNG 导出与分享：将票根导出为高清 PNG，保存到相册或通过系统分享发送。 桌面 Widget：把已保存的旅行票根放到桌面，随时看到旅途片段。 本地优先：无需注册登录，无广告和分析 SDK；照片处理、票根保存和导出均在设备本地完成。 PicSlicer 不是通用图片裁剪器，而是围绕旅行照片、城市信息和票根视觉建立的原创记忆册体验。",
     "fullDescription": "PicSlicer iOS 版专注于把旅行照片做成“票根式记忆卡片”，让每一次出发、抵达和城市漫游都可以被收藏成一张有仪式感的旅行档案。 你可以从照片开始制作票根，选择横版或竖版样式，编辑城市名称、拼音、国家/地区、旅行年月、票根编号、备注和主题色。App 会根据照片提取主色，让每张票根更贴合当次旅行的氛围。 主要功能： 旅行票根创作：支持横版票根、竖版照片优先、竖版标题优先等不同版式。 照片裁切与构图：从相册选择旅行照片，按票根比例裁切，保留最适合展示的画面。 主色提取：从照片中提取颜色并应用到票根，让卡片风格和照片自然统一。 城市档案信息：记录城市、国家/地区、旅行年月、票根编号和个人备注。 本地收藏册：保存已制作的旅行票根，在“票根”页浏览自己的城市记忆。 PNG 导出与分享：将票根导出为高清 PNG，保存到相册或通过系统分享发送。 桌面 Widget：把已保存的旅行票根放到桌面，随时看到旅途片段。 本地优先：无需注册登录，无广告和分析 SDK；照片处理、票根保存和导出均在设备本地完成。 PicSlicer 不是通用图片裁剪器，而是围绕旅行照片、城市信息和票根视觉建立的原创记忆册体验。",
     "summaryDescription": "PicSlicer iOS 版专注于把旅行照片做成“票根式记忆卡片”，让每一次出发、抵达和城市漫游都可以被收藏成一张有仪式感的旅行档案。 你可以从照片开始制作票根，选择横版或竖版样式，编辑城市名称、拼音、国家/地区、旅行年月、票根编号、备注和主题色。App 会根据照片提取主色，让每张票根更贴合当次旅行的氛围。 主要功能： 旅行票根创作：支持横版票根、竖版照片优先、竖版标题优先等不同版式。 照片裁切与构图：从相册选择旅行照片，按票根比例裁切，保留最适合展示的画面。 主色提取：从照片中提取颜色并应用到票根，让卡片风格和照片自然统一。 城市档案信息：记录城市、国家/地区、旅行年月、票根编号和个人备注。 本地收藏册：保存已制作的旅行票根，在“票根”页浏览自己的城市记忆。 PNG 导出与分享：将票根导出为高清 PNG，保存到相册或通过系统分享发送。 桌面 Widget：把已保存的旅行票根放到桌面，随时看到旅途片段。 本地优先：无需注册登录，无广告和分析 SDK；照片处理、票根保存和导出均在设备本地完成。 PicSlicer 不是通用图片裁剪器，而是围绕旅行照片、城市信息和票根视觉建立的原创记忆册体验。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/9b/b2/759bb20d-15fb-aeea-dcd3-719571d22c03/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/9b/b2/759bb20d-15fb-aeea-dcd3-719571d22c03/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/0d/91/4d0d9185-bd2c-ce0a-322e-6734dbec4ab1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/0d/91/4d0d9185-bd2c-ce0a-322e-6734dbec4ab1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "昀昊 陈",
     "artistName": "昀昊 陈",
     "screenshotUrls": [
@@ -179973,140 +180291,5 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/59/30/445930ac-f702-af98-ca1a-bbb53a4bf65e/ipad-zh-Hans-04-portrait-line.png/360x480bb.jpg"
     ],
     "_externalSourceFirstSeen": 1783767741922
-  },
-  "6783171293": {
-    "name": "线上配镜助手",
-    "trackName": "线上配镜助手",
-    "maxPriceInfo": {
-      "price": 6,
-      "formattedPrice": "¥6.00",
-      "解锁瞳高测量": "¥12.00"
-    },
-    "minPriceInfo": {
-      "price": 6,
-      "formattedPrice": "¥6.00",
-      "解锁瞳高测量": "¥12.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1783767776672,
-          "price": 6,
-          "formattedPrice": "¥6.00",
-          "inAppPurchases": {
-            "解锁瞳高测量": "¥12.00"
-          }
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E7%BA%BF%E4%B8%8A%E9%85%8D%E9%95%9C%E5%8A%A9%E6%89%8B/id6783171293?uo=4",
-    "description": "线上配镜助手 — 瞳距瞳高辅助测量工具 瞳距测量（PD）：基于 ARKit 面部追踪，辅助记录瞳距数据 瞳高测量（PH）：实镜边缘检测，支持全框/半框/无框眼镜 前倾角/镜眼距测量（Beta）：配合 ArUco 标记贴纸，用于配镜参考 实时质量评估：优秀/良好/一般/较差四级反馈 5 帧稳定自动确认，无需手动操作 测量历史记录，自动保存 所有数据本地存储，保护隐私 支持中英文双语 需要带 Face ID 的 iPhone（iPhone X 及以上） 下载后可使用瞳距测量 瞳高测量一次购买永久解锁 测量结果仅供配镜参考，不替代专业眼科检查或处方",
-    "fullDescription": "线上配镜助手 — 瞳距瞳高辅助测量工具 瞳距测量（PD）：基于 ARKit 面部追踪，辅助记录瞳距数据 瞳高测量（PH）：实镜边缘检测，支持全框/半框/无框眼镜 前倾角/镜眼距测量（Beta）：配合 ArUco 标记贴纸，用于配镜参考 实时质量评估：优秀/良好/一般/较差四级反馈 5 帧稳定自动确认，无需手动操作 测量历史记录，自动保存 所有数据本地存储，保护隐私 支持中英文双语 需要带 Face ID 的 iPhone（iPhone X 及以上） 下载后可使用瞳距测量 瞳高测量一次购买永久解锁 测量结果仅供配镜参考，不替代专业眼科检查或处方",
-    "summaryDescription": "线上配镜助手 — 瞳距瞳高辅助测量工具 瞳距测量（PD）：基于 ARKit 面部追踪，辅助记录瞳距数据 瞳高测量（PH）：实镜边缘检测，支持全框/半框/无框眼镜 前倾角/镜眼距测量（Beta）：配合 ArUco 标记贴纸，用于配镜参考 实时质量评估：优秀/良好/一般/较差四级反馈 5 帧稳定自动确认，无需手动操作 测量历史记录，自动保存 所有数据本地存储，保护隐私 支持中英文双语 需要带 Face ID 的 iPhone（iPhone X 及以上） 下载后可使用瞳距测量 瞳高测量一次购买永久解锁 测量结果仅供配镜参考，不替代专业眼科检查或处方",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/4b/66/ac4b66b0-c990-b340-da10-f4f5a1e46736/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/4b/66/ac4b66b0-c990-b340-da10-f4f5a1e46736/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-    "sellerName": "光宇 李",
-    "artistName": "光宇 李",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/89/05/4e890500-f726-9d5d-41c1-1862246ef9f7/01_pd_ai_1242x2688.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/b0/9a/e5b09a7e-c575-8138-ba5e-04b86dfeb5e3/02_ph_result_1242x2688.png/320x480bb.jpg"
-    ],
-    "_externalSourceFirstSeen": 1783767742146
-  },
-  "6785942392": {
-    "name": "手势浏览器",
-    "trackName": "手势浏览器",
-    "maxPriceInfo": {
-      "price": 1,
-      "formattedPrice": "¥1.00"
-    },
-    "minPriceInfo": {
-      "price": 1,
-      "formattedPrice": "¥1.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1783767776672,
-          "price": 1,
-          "formattedPrice": "¥1.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E6%89%8B%E5%8A%BF%E6%B5%8F%E8%A7%88%E5%99%A8/id6785942392?uo=4",
-    "description": "千千纵横浏览器是一款支持中英双语的 iPhone 浏览器，首页会按地区常用内容自动排布。 它保留了轻量、直接的浏览体验： 中文和英文界面可切换，也可跟随系统语言 首页内容会按地区习惯自动调整顺序，常用站点更顺手 手势按钮支持快速前进、后退、新建标签和浏览器操作 支持隐私浏览、广告拦截、下载、文件管理、二维码、翻译、阅读模式和多标签 书签、历史和设置都保存在本机，便于快速恢复 适合想要高效单手浏览、又不想被界面打扰的用户。",
-    "fullDescription": "千千纵横浏览器是一款支持中英双语的 iPhone 浏览器，首页会按地区常用内容自动排布。 它保留了轻量、直接的浏览体验： 中文和英文界面可切换，也可跟随系统语言 首页内容会按地区习惯自动调整顺序，常用站点更顺手 手势按钮支持快速前进、后退、新建标签和浏览器操作 支持隐私浏览、广告拦截、下载、文件管理、二维码、翻译、阅读模式和多标签 书签、历史和设置都保存在本机，便于快速恢复 适合想要高效单手浏览、又不想被界面打扰的用户。",
-    "summaryDescription": "千千纵横浏览器是一款支持中英双语的 iPhone 浏览器，首页会按地区常用内容自动排布。 它保留了轻量、直接的浏览体验： 中文和英文界面可切换，也可跟随系统语言 首页内容会按地区习惯自动调整顺序，常用站点更顺手 手势按钮支持快速前进、后退、新建标签和浏览器操作 支持隐私浏览、广告拦截、下载、文件管理、二维码、翻译、阅读模式和多标签 书签、历史和设置都保存在本机，便于快速恢复 适合想要高效单手浏览、又不想被界面打扰的用户。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/da/c8/a4dac82f-6328-c776-3cdf-8180f3c9610b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/da/c8/a4dac82f-6328-c776-3cdf-8180f3c9610b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "sellerName": "以祁 孙",
-    "artistName": "以祁 孙",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/e2/37/95e23779-e05a-7c30-dd2d-ded07406171b/iPhone_17_Pro_Max-05-GestureSettings.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/37/c5/7837c506-87e8-3c9c-6598-094b3f7956f6/iPhone_17_Pro_Max-02-Home-Menu.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/42/b0/1c42b03e-6604-c418-77f7-648a1185be2e/iPhone_17_Pro_Max-03-Search.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/44/52/2d445214-7e19-801e-6395-97cb0ce4a275/iPhone_17_Pro_Max-04-Settings.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/29/ed/9129edaa-4e14-26e0-cd56-90da2e9488b3/iPhone_17_Pro_Max-01-Home.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/a9/5e/a3a95ea3-3e8d-b1eb-54c8-a3f8d1dcb3d9/iPhone_17_Pro_Max-06-Tabs.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/8a/6f/7b8a6f18-0a08-afb0-0bac-ec0e249389cd/iPhone_17_Pro_Max-07-Browser.png/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/2f/f2/4c2ff222-cdba-aba7-d2f3-2df00a02cf22/iPad_Pro_13-inch__U0028M5_U0029-05-GestureSettings.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/4e/8c/e84e8c13-fef2-80bf-72ca-b099bce37c69/iPad_Pro_13-inch__U0028M5_U0029-02-Home-Menu.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/d8/f9/6fd8f995-39a1-8848-a3af-fdb4fc757122/iPad_Pro_13-inch__U0028M5_U0029-03-Search.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/1c/4f/711c4ffc-cb04-1046-2dc1-e53ab7718dcb/iPad_Pro_13-inch__U0028M5_U0029-04-Settings.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/48/1a/89481a67-92b4-a25c-2ada-e442841aa26e/iPad_Pro_13-inch__U0028M5_U0029-01-Home.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/32/3a/08323afd-9b68-5c7c-7a21-efac5e9c8a92/iPad_Pro_13-inch__U0028M5_U0029-06-Tabs.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/51/97/07519764-40e2-a378-e7dd-b161ebdd562c/iPad_Pro_13-inch__U0028M5_U0029-07-Browser.png/360x480bb.jpg"
-    ],
-    "_externalSourceFirstSeen": 1783767742146
-  },
-  "6770355106": {
-    "name": "ShinTravel Malaysia",
-    "trackName": "ShinTravel Malaysia",
-    "maxPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
-    },
-    "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1783767776672,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/shintravel-malaysia/id6770355106?uo=4",
-    "description": "ShinTravel Malaysia is an offline phrasebook built for real travel moments in Malaysia. Open the app, choose a situation, search a phrase, show it in large text, copy it, or play local Malay audio. It focuses on practical phrases for hotels, airports, Grab, KLIA, MRT/LRT, Touch 'n Go, restaurants, mamak shops, local dishes, greetings, numbers, dates, and emergencies. Designed for Japanese travelers, each phrase includes Japanese, English, and Malay so you can communicate quickly without opening a general dictionary or depending on a network connection. Features: Offline phrase data Japanese, English, and Malay phrase display Search across Japanese, English, and Malay Favorites for phrases you use often Large display mode for showing your phone to local staff Copy button Local Malay audio playback for every phrase Malaysia-specific phrases for Grab, KLIA, MRT/LRT, Touch 'n Go, mamak, hawker stalls, halal checks, less sugar, and no ice Local dishes such as nasi lemak, roti canai, satay, laksa, nasi kandar, teh tarik, cendol, and more ShinTravel Malaysia does not require login and does not use a backend for phrase search or favorites. The app will continue to be updated with more Malaysia travel phrases, local food names, audio coverage, and practical situations based on real travel use.",
-    "fullDescription": "ShinTravel Malaysia is an offline phrasebook built for real travel moments in Malaysia. Open the app, choose a situation, search a phrase, show it in large text, copy it, or play local Malay audio. It focuses on practical phrases for hotels, airports, Grab, KLIA, MRT/LRT, Touch 'n Go, restaurants, mamak shops, local dishes, greetings, numbers, dates, and emergencies. Designed for Japanese travelers, each phrase includes Japanese, English, and Malay so you can communicate quickly without opening a general dictionary or depending on a network connection. Features: Offline phrase data Japanese, English, and Malay phrase display Search across Japanese, English, and Malay Favorites for phrases you use often Large display mode for showing your phone to local staff Copy button Local Malay audio playback for every phrase Malaysia-specific phrases for Grab, KLIA, MRT/LRT, Touch 'n Go, mamak, hawker stalls, halal checks, less sugar, and no ice Local dishes such as nasi lemak, roti canai, satay, laksa, nasi kandar, teh tarik, cendol, and more ShinTravel Malaysia does not require login and does not use a backend for phrase search or favorites. The app will continue to be updated with more Malaysia travel phrases, local food names, audio coverage, and practical situations based on real travel use.",
-    "summaryDescription": "ShinTravel Malaysia is an offline phrasebook built for real travel moments in Malaysia. Open the app, choose a situation, search a phrase, show it in large text, copy it, or play local Malay audio. It focuses on practical phrases for hotels, airports, Grab, KLIA, MRT/LRT, Touch 'n Go, restaurants, mamak shops, local dishes, greetings, numbers, dates, and emergencies. Designed for Japanese travelers, each phrase includes Japanese, English, and Malay so you can communicate quickly without opening a general dictionary or depending on a network connection. Features: Offline phrase data Japanese, English, and Malay phrase display Search across Japanese, English, and Malay Favorites for phrases you use often Large display mode for showing your phone to local staff Copy button Local Malay audio playback for every phrase Malaysia-specific phrases for Grab, KLIA, MRT/LRT, Touch 'n Go, mamak, hawker stalls, halal checks, less sugar, and no ice Local dishes such as nasi lemak, roti canai, satay, laksa, nasi kandar, teh tarik, cendol, and more ShinTravel Malaysia does not require login and does not use a backend for phrase search or favorites. The app will continue to be updated with more Malaysia travel phrases, local food names, audio coverage, and practical situations based on real travel use.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/88/9e/12889e18-8764-abe0-bd47-ad42a0cd79b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/88/9e/12889e18-8764-abe0-bd47-ad42a0cd79b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "sellerName": "shinriyo",
-    "artistName": "shinriyo",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/51/54/4e5154ff-a3ac-c8a1-3ab3-90b111364b3c/iPhone_11_Pro_Max-01.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/c9/e5/78c9e527-c7ae-f79e-e9eb-3064cd0ef8f5/iPhone_11_Pro_Max-02.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/08/52/c20852de-4e03-8d44-7dfe-253421523416/iPhone_11_Pro_Max-03.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/30/65/2330652f-f926-9148-0c5a-6bb5710f1e65/iPhone_11_Pro_Max-04.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/94/55/8e9455ca-d92e-c963-debc-3ba9c56d3ac7/iPhone_11_Pro_Max-05.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/52/0f/e8520f91-9640-501d-9b50-eee87f808be9/iPhone_11_Pro_Max-06.png/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/4d/ee/4e4dee6e-e02d-1edf-52a7-cef9f00e41d3/iPad_Pro__U002812.9-inch_U0029__U00283rd_generation_U0029-01.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/86/1c/95861cba-b807-e126-3309-4ac966da108b/iPad_Pro__U002812.9-inch_U0029__U00283rd_generation_U0029-02.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/5d/4b/495d4b08-0650-6da9-e5ad-8f3c761c10eb/iPad_Pro__U002812.9-inch_U0029__U00283rd_generation_U0029-03.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/aa/41/1baa4123-e61f-320c-f236-4020f03f1ce7/iPad_Pro__U002812.9-inch_U0029__U00283rd_generation_U0029-04.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/3c/1f/473c1f0c-ed60-50d6-36b6-786af016d864/iPad_Pro__U002812.9-inch_U0029__U00283rd_generation_U0029-05.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/f5/7f/a3f57f5f-06c7-1efe-4375-e6b3a843f20c/iPad_Pro__U002812.9-inch_U0029__U00283rd_generation_U0029-06.png/360x480bb.jpg"
-    ],
-    "_externalSourceFirstSeen": 1783767744970
   }
 }
