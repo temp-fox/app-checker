@@ -2,6 +2,253 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 683736911,
+      "name": {
+        "cn": "PDF 全能工具包"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "app"
+    },
+    {
+      "id": 1233308143,
+      "name": {
+        "cn": "MUVIC - 视频与Vlog制作"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "iap"
+    },
+    {
+      "id": 1620584291,
+      "name": {
+        "cn": "Bookmarks: Organize & Track"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6814131991,
+      "name": {
+        "cn": "别刷太久"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790322935860,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793546918,
+      "name": {
+        "cn": "时间记录：时间画像与统计"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790322941168,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809777773,
+      "name": {
+        "cn": "浮词 - 极简悬浮提词器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790322941428,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780102352,
+      "name": {
+        "cn": "简拼 - 随心排版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790322941428,
+      "_discountType": "app"
+    },
+    {
+      "id": 6811997833,
+      "name": {
+        "cn": "SWAY — Rhythm Instrument"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790322944190,
+      "_discountType": "app"
+    },
+    {
+      "id": 6811246947,
+      "name": {
+        "cn": "账间小事-随手记记账本账单花销理财家庭收支流水账本分类预算"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790322949380,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759246821,
+      "name": {
+        "cn": "HODLings: Private Coin Tracker"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790322949380,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781948787,
+      "name": {
+        "cn": "Leafora: 植物识别与养护"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763904832,
+      "name": {
+        "cn": "LemonLog"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6767557101,
+      "name": {
+        "cn": "证件复印-复印件制作制作A4排版双面同页自动裁切矫正清晰打印"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761297677,
+      "name": {
+        "cn": "Build24: Construction Calc"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6807962460,
+      "name": {
+        "cn": "Sangati: Tabla Tanpura Riyaz"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6757520790,
+      "name": {
+        "cn": "DocScope"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6813885688,
+      "name": {
+        "cn": "PaperDraft"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6777737322,
+      "name": {
+        "cn": "Rainbow Craft: Week Planner"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6805917240,
+      "name": {
+        "cn": "翻翻：随机相册"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794593891,
+      "name": {
+        "cn": "Membership Navi"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "app"
+    },
+    {
+      "id": 6444582465,
+      "name": {
+        "cn": "Ad Blocker - For Safari"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "app"
+    },
+    {
+      "id": 6743616814,
+      "name": {
+        "cn": "Sleeping Sounds Relax Sleep"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790322994325,
+      "_discountType": "app"
+    },
+    {
       "id": 528955895,
       "name": {
         "cn": "N1-文法のまとめ"
