@@ -2,6 +2,17 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 528955895,
+      "name": {
+        "cn": "N1-文法のまとめ"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790289217496,
+      "_discountType": "app"
+    },
+    {
       "id": 1506538364,
       "name": {
         "cn": "鼓 Set + - 真实 手指 PAD 鼓手"
@@ -9,7 +20,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790270246281,
+      "_externalSourceFirstSeen": 1790289210588,
       "_discountType": "app"
     },
     {
@@ -20,73 +31,62 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790270243389,
+      "_externalSourceFirstSeen": 1790289207808,
       "_discountType": "app"
     },
     {
-      "id": 6809777773,
+      "id": 1538555185,
       "name": {
-        "cn": "浮词 - 极简悬浮提词器"
+        "cn": "TB BitJuggler"
       },
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790270243733,
+      "_externalSourceFirstSeen": 1790289210588,
       "_discountType": "app"
     },
     {
-      "id": 6772547952,
+      "id": 1579520737,
       "name": {
-        "cn": "数学启蒙课堂-快乐探索数字世界"
+        "cn": "格林童话大全"
       },
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790270252139,
+      "_externalSourceFirstSeen": 1790289214836,
       "_discountType": "app"
     },
     {
-      "id": 6447808294,
+      "id": 6785697079,
       "name": {
-        "cn": "Georgian Phrasebook"
+        "cn": "CFB Pickems"
       },
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790270252139,
+      "_externalSourceFirstSeen": 1790289205758,
       "_discountType": "app"
     },
     {
-      "id": 6809646822,
+      "id": 6812421280,
       "name": {
-        "cn": "初中语文基础"
+        "cn": "My Sky Pro - 天文摄影"
       },
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790270252139,
+      "_externalSourceFirstSeen": 1790289207795,
       "_discountType": "app"
     },
     {
-      "id": 6809643025,
+      "id": 6755977704,
       "name": {
-        "cn": "WA Chem"
+        "cn": "我的血压：血压记录、血压日记、心率"
       },
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790270252139,
-      "_discountType": "app"
-    },
-    {
-      "id": 6808061147,
-      "name": {
-        "cn": "初中数学基础"
-      },
-      "addType": "auto",
-      "addSource": "paid-top",
-      "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790270252139,
+      "_externalSourceFirstSeen": 1790289217504,
       "_discountType": "app"
     },
     {
@@ -10141,7 +10141,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1788496937153,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6796784687,
@@ -10153,7 +10154,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1788496937153,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6807021022,
@@ -42818,8 +42820,8 @@
       "name": {
         "cn": "简册"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1782617560384,
