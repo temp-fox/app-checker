@@ -1,10 +1,10 @@
 [
   {
-    "timestamp": 1790365423511,
+    "timestamp": 1790377526341,
     "cn": {
-      "total": 21,
-      "price": 7,
-      "iap": 14,
+      "total": 45,
+      "price": 29,
+      "iap": 16,
       "apps": [
         {
           "id": 6813885688,
@@ -13,16 +13,10 @@
           "detail": "PaperDraft Pro: ¥68.00 → ¥15.00"
         },
         {
-          "id": 6780593064,
-          "name": "Kinorbit: Stay In Touch",
-          "type": "iap",
-          "detail": "Kinorbit Pro (Lifetime): ¥168.00 → ¥68.00"
-        },
-        {
           "id": 6762554736,
           "name": "长图拼接-一键拼长图",
           "type": "iap",
-          "detail": "升级高级会员: ¥3.80 → ¥2.80"
+          "detail": "升级高级会员: ¥3.80 → ¥0.00"
         },
         {
           "id": 6760577967,
@@ -37,6 +31,24 @@
           "detail": "Pro 终身版: ¥12.00 → ¥6.00"
         },
         {
+          "id": 6763677140,
+          "name": "隐私打码大师 - 图片马赛克模糊贴纸批量处理工具",
+          "type": "iap",
+          "detail": "升级高级会员: ¥3.80 → ¥0.00"
+        },
+        {
+          "id": 1146908887,
+          "name": "古典吉他调音器 - Guitar Tuner Pro",
+          "type": "price",
+          "detail": "¥98.00 → ¥88.00"
+        },
+        {
+          "id": 6503481780,
+          "name": "MyLog: Diary Journal Notes",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
           "id": 6800491068,
           "name": "B777Companion",
           "type": "price",
@@ -49,16 +61,34 @@
           "detail": "NEN Lifetime Unlock: ¥48.00 → ¥18.00"
         },
         {
+          "id": 655753093,
+          "name": "Hash Calculator",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
           "id": 6781749180,
           "name": "暗光 - 网页深浅自动切换",
           "type": "price",
           "detail": "¥1.00 → 免费"
         },
         {
+          "id": 6760823598,
+          "name": "ShopSuggest",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
           "id": 6793436295,
           "name": "酷车音乐",
           "type": "price",
           "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1271283728,
+          "name": "GoTV - M3U IPTV Player",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
         },
         {
           "id": 1368962464,
@@ -85,10 +115,112 @@
           "detail": "¥28.00 → ¥15.00"
         },
         {
+          "id": 6780591952,
+          "name": "文件管理助手 - 全能文件管理",
+          "type": "iap",
+          "detail": "PRO: ¥22.00 → ¥0.00"
+        },
+        {
+          "id": 6758991291,
+          "name": "Drink Now: Water Reminder App",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1451646819,
+          "name": "QuickFTP Server",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 659883519,
+          "name": "Hacker Clock - Green Matrix",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1187322155,
+          "name": "Video Grabber",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 476566660,
+          "name": "地球3D",
+          "type": "price",
+          "detail": "¥48.00 → ¥38.00"
+        },
+        {
+          "id": 1179089131,
+          "name": "simpleVID IPTV PLAYER",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6651851520,
+          "name": "QuickHTTP Server",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6760278399,
+          "name": "Tarsi - Budget Tracker",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 806811415,
+          "name": "中提琴调音器专业版 - Viola Tuner Pro",
+          "type": "price",
+          "detail": "¥98.00 → ¥88.00"
+        },
+        {
           "id": 717786312,
           "name": "Fliptastic Pro - 视频制作器",
           "type": "price",
           "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 836721250,
+          "name": "电子吉他调音器 – Guitar Tuner Pro",
+          "type": "price",
+          "detail": "¥98.00 → ¥88.00"
+        },
+        {
+          "id": 6741527639,
+          "name": "Quick Shopping List!",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6502953049,
+          "name": "Business Card Maker·",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6756181712,
+          "name": "到点宝: 极简ADHD专注倒计时",
+          "type": "price",
+          "detail": "¥198.00 → ¥12.00"
+        },
+        {
+          "id": 1624436697,
+          "name": "Blur Photo.",
+          "type": "iap",
+          "detail": "Blur Photo+: ¥148.00 → ¥22.00"
+        },
+        {
+          "id": 868209964,
+          "name": "曼陀林调音器专业版",
+          "type": "price",
+          "detail": "¥98.00 → ¥88.00"
+        },
+        {
+          "id": 802792057,
+          "name": "小提琴调音器专业版 - Violin Tuner Pro",
+          "type": "price",
+          "detail": "¥98.00 → ¥88.00"
         },
         {
           "id": 6755912677,
@@ -119,6 +251,18 @@
           "name": "一饭一会 - 甜品咖啡素食 · 美味回忆相册· 午餐晚餐日记",
           "type": "iap",
           "detail": "一饭一会 终身会员: ¥128.00 → ¥88.00"
+        },
+        {
+          "id": 6755170439,
+          "name": "Dish Pal: AI Grocery List",
+          "type": "price",
+          "detail": "¥198.00 → ¥12.00"
+        },
+        {
+          "id": 6737795387,
+          "name": "鬼谷八荒",
+          "type": "price",
+          "detail": "¥38.00 → ¥28.00"
         },
         {
           "id": 6737795387,

@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 290600207,
+      "name": {
+        "cn": "iKoto"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365640174,
+      "_discountType": "app"
+    },
+    {
+      "id": 361006388,
+      "name": {
+        "cn": "Smiley Sight Words"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365644215,
+      "_discountType": "app"
+    },
+    {
+      "id": 421724209,
+      "name": {
+        "cn": "Easy Calendar"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365638129,
+      "_discountType": "app"
+    },
+    {
+      "id": 958499292,
+      "name": {
+        "cn": "长时间曝光慢快门凸轮"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365638132,
+      "_discountType": "app"
+    },
+    {
       "id": 1059599823,
       "name": {
         "cn": "EasyPOS Mobile Pro"
@@ -9,7 +53,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790344479832,
+      "_externalSourceFirstSeen": 1790365633959,
       "_discountType": "app"
     },
     {
@@ -20,7 +64,95 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790344482763,
+      "_externalSourceFirstSeen": 1790365636106,
+      "_discountType": "app"
+    },
+    {
+      "id": 1532229404,
+      "name": {
+        "cn": "MIDI Strummer AUv3 Plugin"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365640174,
+      "_discountType": "app"
+    },
+    {
+      "id": 1622064157,
+      "name": {
+        "cn": "Sismo: Vibration Meter & Alert"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365633963,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809958215,
+      "name": {
+        "cn": "El Niño Forecast"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365633963,
+      "_discountType": "app"
+    },
+    {
+      "id": 6814680870,
+      "name": {
+        "cn": "他爱我吗"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365633972,
+      "_discountType": "app"
+    },
+    {
+      "id": 6813296219,
+      "name": {
+        "cn": "记得住"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365638129,
+      "_discountType": "app"
+    },
+    {
+      "id": 6813284652,
+      "name": {
+        "cn": "密码本－离线账号管理器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365638129,
+      "_discountType": "app"
+    },
+    {
+      "id": 6777858533,
+      "name": {
+        "cn": "ListDiff Local Compare Tool"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365638129,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796744836,
+      "name": {
+        "cn": "ChefMate: AI kitchen companion"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365642194,
       "_discountType": "app"
     },
     {
@@ -31,7 +163,7 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790344491391,
+      "_externalSourceFirstSeen": 1790365642194,
       "_discountType": "app"
     },
     {
@@ -42,7 +174,29 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790344491391,
+      "_externalSourceFirstSeen": 1790365642194,
+      "_discountType": "app"
+    },
+    {
+      "id": 6811736858,
+      "name": {
+        "cn": "千米教练"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365642200,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759079926,
+      "name": {
+        "cn": "纯享数独 - 无广告沉浸式闯关"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365644223,
       "_discountType": "app"
     },
     {
@@ -53,7 +207,29 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1790344494319,
+      "_externalSourceFirstSeen": 1790365644215,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787713271,
+      "name": {
+        "cn": "Kunskapsprov Praktik"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365646254,
+      "_discountType": "app"
+    },
+    {
+      "id": 6783367081,
+      "name": {
+        "cn": "药盒守护 - 智能服药提醒助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790365646252,
       "_discountType": "app"
     },
     {
@@ -220,7 +396,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1790322994325,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6757520790,
@@ -15401,7 +15578,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1787454071200,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6449939349,
