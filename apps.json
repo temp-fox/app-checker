@@ -2,6 +2,190 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 948620309,
+      "name": {
+        "cn": "Air Browser"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790399291295,
+      "_discountType": "app"
+    },
+    {
+      "id": 1442306286,
+      "name": {
+        "cn": "FrogRadio"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790399246854,
+      "_discountType": "app"
+    },
+    {
+      "id": 1480909731,
+      "name": {
+        "cn": "Geneva Moon"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790399291295,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781656817,
+      "name": {
+        "cn": "消防演练记录台账2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790399233194,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780471623,
+      "name": {
+        "cn": "灭火器巡检台账2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790399233194,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793878331,
+      "name": {
+        "cn": "木工快算-柜体酒格计算器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790399233212,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810484807,
+      "name": {
+        "cn": "FIELD KIT Playback Engine"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790399241388,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799469394,
+      "name": {
+        "cn": "The Remnant - Drone Synth"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790399241388,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767579581,
+      "name": {
+        "cn": "AuthGuard - PA Records"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790399291295,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761624295,
+      "name": {
+        "cn": "Mute Video & Extract Audio"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790399291295,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761675450,
+      "name": {
+        "cn": "Primuse-NAS、网盘、navidrome自托管播放器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790399291295,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804691771,
+      "name": {
+        "cn": "ComboLoop"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790399291295,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762199144,
+      "name": {
+        "cn": "Reminder: Subscription Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790399291295,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770079462,
+      "name": {
+        "cn": "AuraRead - 本地小说阅读器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790399291295,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809154327,
+      "name": {
+        "cn": "DOH1: Synthesizer 303 Bassline"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790399291295,
+      "_discountType": "app"
+    },
+    {
+      "id": 6449887741,
+      "name": {
+        "cn": "Neon Breakout - Watch & Phone"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790399291295,
+      "_discountType": "app"
+    },
+    {
       "id": 1470553213,
       "name": {
         "cn": "Chomplr"
