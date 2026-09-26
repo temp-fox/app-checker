@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1470553213,
+      "name": {
+        "cn": "Chomplr"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790378544321,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775141985,
+      "name": {
+        "cn": "M3U8 Spark: 网页视频嗅探&在线播放"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790378536037,
+      "_discountType": "app"
+    },
+    {
       "id": 290600207,
       "name": {
         "cn": "iKoto"
