@@ -2,6 +2,105 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 479654763,
+      "name": {
+        "cn": "Mansions of the Moon"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790518018645,
+      "_discountType": "app"
+    },
+    {
+      "id": 1180009069,
+      "name": {
+        "cn": "爱王阳明"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790518018645,
+      "_discountType": "app"
+    },
+    {
+      "id": 1182384894,
+      "name": {
+        "cn": "学习 萨摩亚语 - EuroTalk"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790518021568,
+      "_discountType": "app"
+    },
+    {
+      "id": 1551573204,
+      "name": {
+        "cn": "文字快跑 - 拼音打字练习"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790518021718,
+      "_discountType": "app"
+    },
+    {
+      "id": 1583500368,
+      "name": {
+        "cn": "Cross Stitch Creations"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790518018645,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797389895,
+      "name": {
+        "cn": "思维卡片"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790518013386,
+      "_discountType": "app"
+    },
+    {
+      "id": 6753719624,
+      "name": {
+        "cn": "Seamera: Underwater Editor"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790518013396,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772868865,
+      "name": {
+        "cn": "童光"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790518018645,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797739862,
+      "name": {
+        "cn": "九九学堂"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790518021568,
+      "_discountType": "app"
+    },
+    {
       "id": 370505375,
       "name": {
         "cn": "SYNKD Metronome & Sequencer"
@@ -337,8 +436,8 @@
       "name": {
         "cn": "MoonSound：时钟和声音"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1790474073361,

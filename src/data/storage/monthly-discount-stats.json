@@ -836,8 +836,8 @@
       "inAppPurchase": {}
     },
     "1192683670": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "1192750649": {
@@ -1622,6 +1622,11 @@
       "inAppPurchase": {
         "Blur Photo+": 1
       }
+    },
+    "1624460253": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     },
     "1626843895": {
       "all": 1,
@@ -3644,9 +3649,14 @@
       "inAppPurchase": {}
     },
     "6446651812": {
-      "all": 1,
+      "all": 2,
       "price": 1,
-      "inAppPurchase": {}
+      "inAppPurchase": {
+        "Premium Annual Offer": 1,
+        "Premium Lifetime": 1,
+        "Premium Annual": 1,
+        "Premium Monthly": 1
+      }
     },
     "6451102287": {
       "all": 1,
@@ -5265,6 +5275,57 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6804744924": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Own75 Annual": 1,
+        "Own75 Weekly": 1
+      }
+    },
+    "6798565102": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6754218575": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6770284141": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6764466424": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Life Time Pro": 1
+      }
+    },
+    "6762495481": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Pro Access": 1
+      }
+    },
+    "6761430805": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Premium Lifetime": 1
+      }
+    },
+    "6738623083": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "移除广告": 1
+      }
     }
   }
 }
