@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": 1790548213809,
+    "cn": {
+      "total": 7,
+      "price": 6,
+      "iap": 1,
+      "apps": [
+        {
+          "id": 6759192769,
+          "name": "User Agent Switcher for Safari",
+          "type": "price",
+          "detail": "¥38.00 → ¥28.00"
+        },
+        {
+          "id": 6755356686,
+          "name": "小鸟计算器",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6755356665,
+          "name": "学汉字-汉字练习",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6754809826,
+          "name": "去打卡",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 451697322,
+          "name": "Heart Murmurs Pro",
+          "type": "iap",
+          "detail": "完整心音库: ¥38.00 → ¥12.00"
+        },
+        {
+          "id": 897745149,
+          "name": "PDF Unlocker Expert",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 1271213321,
+          "name": "购物清单 - 简约风格的购物清单",
+          "type": "price",
+          "detail": "¥68.00 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1790530480969,
     "cn": {
       "total": 15,
@@ -3423,46 +3475,6 @@
           "name": "US Election Simulator",
           "type": "price",
           "detail": "¥15.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789682655608,
-    "cn": {
-      "total": 5,
-      "price": 1,
-      "iap": 4,
-      "apps": [
-        {
-          "id": 6763426211,
-          "name": "FrameFuse长图拼接神器",
-          "type": "iap",
-          "detail": "升级高级会员: ¥4.80 → ¥0.00"
-        },
-        {
-          "id": 6774842090,
-          "name": "AlarmCroc",
-          "type": "iap",
-          "detail": "Alarm Croc Yearly: ¥198.00 → ¥148.00"
-        },
-        {
-          "id": 6758871228,
-          "name": "Unsnooze: Alarm Clock",
-          "type": "iap",
-          "detail": "Unsooze Pro (Lifetime): ¥398.00 → ¥8.00"
-        },
-        {
-          "id": 1064360258,
-          "name": "iLockBox: 隐藏照片与加密视频相册",
-          "type": "iap",
-          "detail": "iLockBox Lifetime Access: ¥148.00 → ¥88.00"
-        },
-        {
-          "id": 1467348990,
-          "name": "疯狂单词-考研四六级智能背单词",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
         }
       ]
     }
