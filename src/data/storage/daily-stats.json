@@ -1,5 +1,117 @@
 [
   {
+    "timestamp": 1790473787684,
+    "cn": {
+      "total": 17,
+      "price": 11,
+      "iap": 6,
+      "apps": [
+        {
+          "id": 6807131371,
+          "name": "专注司机 - 沉浸式自律番茄计时器",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6778223704,
+          "name": "牛来",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6792556839,
+          "name": "Dun",
+          "type": "iap",
+          "detail": "Dun Pro Yearly: ¥199.00 → ¥74.00"
+        },
+        {
+          "id": 6792556839,
+          "name": "Dun",
+          "type": "iap",
+          "detail": "Dun Pro Weekly: ¥16.00 → ¥6.00"
+        },
+        {
+          "id": 6792556839,
+          "name": "Dun",
+          "type": "iap",
+          "detail": "Dun Pro Monthly: ¥32.80 → ¥12.00"
+        },
+        {
+          "id": 1579159150,
+          "name": "ScoreBoard用于OBS直播",
+          "type": "price",
+          "detail": "¥168.00 → ¥148.00"
+        },
+        {
+          "id": 6794522553,
+          "name": "Renewa：账单与订阅管理",
+          "type": "iap",
+          "detail": "Renewa Pro 永久版: ¥12.00 → ¥6.00"
+        },
+        {
+          "id": 6772468615,
+          "name": "Otterpix:本地AI图片处理",
+          "type": "iap",
+          "detail": "Pro 永久高级功能: ¥698.00 → ¥328.00"
+        },
+        {
+          "id": 1551050080,
+          "name": "Face Video Morph Animator HD",
+          "type": "price",
+          "detail": "¥22.00 → 免费"
+        },
+        {
+          "id": 6759708423,
+          "name": "AI Keyboard Type: Type Buddy",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        },
+        {
+          "id": 930743975,
+          "name": "LÒMÒGRAPH 复古胶片相机",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6757952262,
+          "name": "数学可视化引擎",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        },
+        {
+          "id": 6755850724,
+          "name": "Zono : World Clock Time Zone",
+          "type": "price",
+          "detail": "¥28.00 → ¥8.00"
+        },
+        {
+          "id": 6760841192,
+          "name": "MicroBreak: Breaks & Focus",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        },
+        {
+          "id": 6758037844,
+          "name": "Push Up Counter.",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6741730996,
+          "name": "手机测速-网络测速",
+          "type": "iap",
+          "detail": "手机测速永久会员: ¥68.00 → ¥38.00"
+        },
+        {
+          "id": 307219387,
+          "name": "脑波：40 双耳节拍系列™ - Binaural Beats",
+          "type": "price",
+          "detail": "¥48.00 → ¥38.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1790408660473,
     "cn": {
       "total": 17,
@@ -3715,206 +3827,6 @@
           "name": "PDF Unlocker Expert",
           "type": "price",
           "detail": "¥38.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789574730190,
-    "cn": {
-      "total": 11,
-      "price": 8,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6805923708,
-          "name": "如实相机",
-          "type": "price",
-          "detail": "¥8.00 → ¥1.00"
-        },
-        {
-          "id": 6797660418,
-          "name": "系统宝石学笔记",
-          "type": "price",
-          "detail": "¥18.00 → 免费"
-        },
-        {
-          "id": 6772931990,
-          "name": "ArMuse - 永不落幕的艺术展",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6771666690,
-          "name": "GIF Aura",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 1576118042,
-          "name": "Rhymelo",
-          "type": "iap",
-          "detail": "Unlock All Rhymes: ¥28.00 → ¥0.00"
-        },
-        {
-          "id": 1011979611,
-          "name": "Kompressor - Compress images",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 348543978,
-          "name": "Timetracks4D",
-          "type": "iap",
-          "detail": "Full Access: ¥38.00 → ¥28.00"
-        },
-        {
-          "id": 6759214507,
-          "name": "Augmatic GRE",
-          "type": "price",
-          "detail": "¥168.00 → ¥68.00"
-        },
-        {
-          "id": 6754461039,
-          "name": "Mihon Manga",
-          "type": "price",
-          "detail": "¥22.00 → ¥15.00"
-        },
-        {
-          "id": 6743021613,
-          "name": "电视直播-手机电视节目表、电视导航",
-          "type": "price",
-          "detail": "¥68.00 → ¥38.00"
-        },
-        {
-          "id": 1169525771,
-          "name": "JPEG Jackal Lite",
-          "type": "iap",
-          "detail": "Upgrade to Full Version: ¥28.00 → ¥15.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789556419539,
-    "cn": {
-      "total": 19,
-      "price": 18,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 6762236318,
-          "name": "双摄相机 - 同时录制横屏和竖屏视频Dual Shot",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6811020707,
-          "name": "DayTag - 极简生活标签与习惯记录",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6789835243,
-          "name": "同步双拍 - 前后双摄相机",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6809072439,
-          "name": "SOLO日程",
-          "type": "price",
-          "detail": "¥3.00 → 免费"
-        },
-        {
-          "id": 6806918671,
-          "name": "睡眠语录-睡眠监测·打鼾梦话·录音·白噪音·睡眠质量·专注",
-          "type": "price",
-          "detail": "¥6.00 → ¥1.00"
-        },
-        {
-          "id": 6797049214,
-          "name": "DBHub - 编织你的记录想法",
-          "type": "iap",
-          "detail": "终身会员: ¥88.00 → ¥0.00"
-        },
-        {
-          "id": 1639802818,
-          "name": "QRCode++",
-          "type": "price",
-          "detail": "¥28.00 → ¥8.00"
-        },
-        {
-          "id": 6476618917,
-          "name": "Currency++",
-          "type": "price",
-          "detail": "¥28.00 → ¥8.00"
-        },
-        {
-          "id": 6761987644,
-          "name": "云枢",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6760272869,
-          "name": "嘟嘎记账",
-          "type": "price",
-          "detail": "¥18.00 → ¥12.00"
-        },
-        {
-          "id": 1506570063,
-          "name": "投．炸弹",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 6477153043,
-          "name": "影控",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 6754852443,
-          "name": "US Election Simulator",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1527841661,
-          "name": "沙盒星球",
-          "type": "price",
-          "detail": "¥98.00 → 免费"
-        },
-        {
-          "id": 6804133012,
-          "name": "Digital Notes: Note Taking App",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6774291236,
-          "name": "TigerText",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6785374736,
-          "name": "简盒 - 本地图片/文档工具",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6484265213,
-          "name": "Breeze Mobile: MP3 & FLAC",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 1280511070,
-          "name": "Photon Highway",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
