@@ -1,10 +1,10 @@
 [
   {
-    "timestamp": 1790473787684,
+    "timestamp": 1790485745978,
     "cn": {
-      "total": 17,
-      "price": 11,
-      "iap": 6,
+      "total": 30,
+      "price": 20,
+      "iap": 10,
       "apps": [
         {
           "id": 6807131371,
@@ -17,6 +17,18 @@
           "name": "牛来",
           "type": "price",
           "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6761496861,
+          "name": "Clear Magnifier: Zoom OCR",
+          "type": "price",
+          "detail": "¥22.00 → ¥3.00"
+        },
+        {
+          "id": 6761496861,
+          "name": "Clear Magnifier: Zoom OCR",
+          "type": "iap",
+          "detail": "Clear Magnifier Pro: ¥22.00 → ¥0.00"
         },
         {
           "id": 6792556839,
@@ -37,6 +49,24 @@
           "detail": "Dun Pro Monthly: ¥32.80 → ¥12.00"
         },
         {
+          "id": 618657110,
+          "name": "VideoRecord: Pause & Resume",
+          "type": "price",
+          "detail": "¥22.00 → ¥3.00"
+        },
+        {
+          "id": 659276619,
+          "name": "Fisheye Plus - 鱼眼视频",
+          "type": "price",
+          "detail": "¥28.00 → ¥22.00"
+        },
+        {
+          "id": 659276619,
+          "name": "Fisheye Plus - 鱼眼视频",
+          "type": "iap",
+          "detail": "All Packs: ¥28.00 → ¥15.00"
+        },
+        {
           "id": 1579159150,
           "name": "ScoreBoard用于OBS直播",
           "type": "price",
@@ -53,6 +83,12 @@
           "name": "Otterpix:本地AI图片处理",
           "type": "iap",
           "detail": "Pro 永久高级功能: ¥698.00 → ¥328.00"
+        },
+        {
+          "id": 6764504895,
+          "name": "一拍三镜 - 专拍演唱会\\毕业照\\风景照,一次拍摄全部细节",
+          "type": "iap",
+          "detail": "一拍三境终身会员: ¥28.00 → ¥0.00"
         },
         {
           "id": 1551050080,
@@ -79,6 +115,12 @@
           "detail": "¥28.00 → 免费"
         },
         {
+          "id": 441912291,
+          "name": "Metrio：节拍器 + 调音器",
+          "type": "price",
+          "detail": "¥38.00 → ¥22.00"
+        },
+        {
           "id": 6755850724,
           "name": "Zono : World Clock Time Zone",
           "type": "price",
@@ -91,10 +133,28 @@
           "detail": "¥28.00 → 免费"
         },
         {
+          "id": 6760351903,
+          "name": "MediaUtility",
+          "type": "iap",
+          "detail": "Unlock Pro Now: ¥22.00 → ¥8.00"
+        },
+        {
           "id": 6758037844,
           "name": "Push Up Counter.",
           "type": "price",
           "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 1462584573,
+          "name": "Schumann Resonance",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1453356099,
+          "name": "多重计时器：学习与专注",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
         },
         {
           "id": 6741730996,
@@ -107,6 +167,24 @@
           "name": "脑波：40 双耳节拍系列™ - Binaural Beats",
           "type": "price",
           "detail": "¥48.00 → ¥38.00"
+        },
+        {
+          "id": 6782376416,
+          "name": "Lapsely - Stop Motion & Selfie",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6746386069,
+          "name": "Color Pro X Accurate Picker",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6752723058,
+          "name": "看板、笔记与任务 - Boardly",
+          "type": "price",
+          "detail": "付费 → 免费"
         }
       ]
     }
