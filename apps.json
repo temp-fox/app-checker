@@ -2,6 +2,500 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 424447418,
+      "name": {
+        "cn": "Record It!"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604332694,
+      "_discountType": "app"
+    },
+    {
+      "id": 521694054,
+      "name": {
+        "cn": "Pipe Support Calculator"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604332694,
+      "_discountType": "app"
+    },
+    {
+      "id": 524576324,
+      "name": {
+        "cn": "Smart Zipper Pro: Zip,Rar压缩解压缩"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 525194982,
+      "name": {
+        "cn": "文件自动分类器"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 545022929,
+      "name": {
+        "cn": "文件保护 - 隐藏&锁定文件"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 545793547,
+      "name": {
+        "cn": "图片处理工具集"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 560812776,
+      "name": {
+        "cn": "文件分类浏览器"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 566268025,
+      "name": {
+        "cn": "重复文件清理器"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 601882088,
+      "name": {
+        "cn": "iSee-图片浏览器"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 650304045,
+      "name": {
+        "cn": "文件夹合并"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 870099046,
+      "name": {
+        "cn": "极速视频浏览器"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 887178091,
+      "name": {
+        "cn": "Mystical Cats Tarot"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604340886,
+      "_discountType": "app"
+    },
+    {
+      "id": 1196415141,
+      "name": {
+        "cn": "闪电视频转换器Pro"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 1242759333,
+      "name": {
+        "cn": "视频转Gif&WebP&Apng"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 1251204022,
+      "name": {
+        "cn": "视频截图&拼图"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 1258081151,
+      "name": {
+        "cn": "闪电视频剪切&合并"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 1389745743,
+      "name": {
+        "cn": "万能下载器"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 1549615527,
+      "name": {
+        "cn": "咪莫-打破次元壁密室解谜"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604338026,
+      "_discountType": "app"
+    },
+    {
+      "id": 1557080976,
+      "name": {
+        "cn": "Manage: Tasks, Docs & Events"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604332694,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767632106,
+      "name": {
+        "cn": "ClipSync"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604326922,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794845442,
+      "name": {
+        "cn": "SloMo Coach: Video Analysis"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604329705,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767890391,
+      "name": {
+        "cn": "FrostLink- WOS"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604329700,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792524904,
+      "name": {
+        "cn": "ScreenCommand"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604332694,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757411527,
+      "name": {
+        "cn": "懒虫收租 - 房东出租屋公寓记账管理助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604332694,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767993861,
+      "name": {
+        "cn": "一人食MealSolo"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604337968,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758646279,
+      "name": {
+        "cn": "MiniBoss小店管家"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604341193,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798280319,
+      "name": {
+        "cn": "宝宝翻牌对对碰"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604340886,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793674829,
+      "name": {
+        "cn": "Camber Dictionary"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604341010,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779875722,
+      "name": {
+        "cn": "PrintPaper"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604341010,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781293910,
+      "name": {
+        "cn": "AudioBookPlay"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790604343708,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809535973,
+      "name": {
+        "cn": "钉字条 - 便签锁屏常驻"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6810462504,
+      "name": {
+        "cn": "鲜时记 - 守护每一餐新鲜"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761368515,
+      "name": {
+        "cn": "NexPaste"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6446266063,
+      "name": {
+        "cn": "精灵壁纸｜折叠屏壁纸上线"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6770166802,
+      "name": {
+        "cn": "StepLog: Treatment Chronicle"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6799646282,
+      "name": {
+        "cn": "ACamViewfinder"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6792025726,
+      "name": {
+        "cn": "历历 - LiLi Cal"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803537696,
+      "name": {
+        "cn": "Clipbara"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792000032,
+      "name": {
+        "cn": "最后 - 上次是什么时候"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 6773216933,
+      "name": {
+        "cn": "放大镜 · Baro"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 6773306838,
+      "name": {
+        "cn": "扫描仪 · Baro"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779018903,
+      "name": {
+        "cn": "MapCam"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760230329,
+      "name": {
+        "cn": "Walkout Songs: OnDeck Audio"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790604385857,
+      "_discountType": "app"
+    },
+    {
       "id": 1051747433,
       "name": {
         "cn": "Student Planner • Dog Ate It"
@@ -603,8 +1097,8 @@
       "name": {
         "cn": "看板、笔记与任务 - Boardly"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1790474073361,
@@ -7816,7 +8310,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1789102270490,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6758780189,
