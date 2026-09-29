@@ -2,6 +2,287 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1336328583,
+      "name": {
+        "cn": "EveryCord: Live Screen Record"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "app"
+    },
+    {
+      "id": 1481865153,
+      "name": {
+        "cn": "The Sky Pro by Redshift"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790647397434,
+      "_discountType": "app"
+    },
+    {
+      "id": 1503033745,
+      "name": {
+        "cn": "Cute Donuts Stickers"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "app"
+    },
+    {
+      "id": 1570143964,
+      "name": {
+        "cn": "高中必背古诗文大全"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790647406962,
+      "_discountType": "app"
+    },
+    {
+      "id": 1600183768,
+      "name": {
+        "cn": "屏多多-手持弹幕的LED显示屏 · 滚动字幕跑马灯"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "app"
+    },
+    {
+      "id": 1658185747,
+      "name": {
+        "cn": "Tennis Score Mini"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790647394509,
+      "_discountType": "app"
+    },
+    {
+      "id": 6639610182,
+      "name": {
+        "cn": "武士零"
+      },
+      "addType": "auto",
+      "addSource": "paid-top-all",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790647389074,
+      "_discountType": "app"
+    },
+    {
+      "id": 6753927223,
+      "name": {
+        "cn": "Worldly - 旅行地图"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790647394627,
+      "_discountType": "app"
+    },
+    {
+      "id": 6739485555,
+      "name": {
+        "cn": "sLists - 智能清单与任务"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790647397411,
+      "_discountType": "app"
+    },
+    {
+      "id": 6806210717,
+      "name": {
+        "cn": "飓风相机一电影质感LUMA复古星空胶片相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790647397194,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760986626,
+      "name": {
+        "cn": "shelff"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790647409715,
+      "_discountType": "app"
+    },
+    {
+      "id": 6443848137,
+      "name": {
+        "cn": "Orthopedic Surgery Approaches"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790647409621,
+      "_discountType": "app"
+    },
+    {
+      "id": 6474643520,
+      "name": {
+        "cn": "Vitals - Docs, Nurses, EMTs"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790647409621,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809664246,
+      "name": {
+        "cn": "火花弹幕 - LED滚动字幕与应援荧光棒"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6758226275,
+      "name": {
+        "cn": "iHairstyleIsWell"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6768216827,
+      "name": {
+        "cn": "塑形记：健身记录·训练计划·动作库·健身房撸铁打卡·增肌塑形"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6768494765,
+      "name": {
+        "cn": "相册清理专家：照片整理、重复照片删除、分类管理与相册瘦身助手"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6791323712,
+      "name": {
+        "cn": "YourKeep"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6813391010,
+      "name": {
+        "cn": "物理实验台-电路光学力学"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6783288588,
+      "name": {
+        "cn": "PDFnano: محرر ومترجم وقارئ PDF"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6803777815,
+      "name": {
+        "cn": "Sleepy Banana: Sleep Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6815017080,
+      "name": {
+        "cn": "FaithKey: Bible App Blocker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761745195,
+      "name": {
+        "cn": "Hourloom: World Clock"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761698886,
+      "name": {
+        "cn": "SubNest"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803342964,
+      "name": {
+        "cn": "好好记 · Welljot"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790647452617,
+      "_discountType": "app"
+    },
+    {
       "id": 424447418,
       "name": {
         "cn": "Record It!"
@@ -11427,7 +11708,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1788583084177,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6737458841,
@@ -41523,7 +41805,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1783132645705,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "allowNotification": false
     },
     {
       "id": 6762819424,
