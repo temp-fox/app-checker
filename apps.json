@@ -2,6 +2,171 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 355490385,
+      "name": {
+        "cn": "口袋风车 (轻量版)"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699677481,
+      "_discountType": "app"
+    },
+    {
+      "id": 1365863925,
+      "name": {
+        "cn": "Tools For Pilots"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699663409,
+      "_discountType": "app"
+    },
+    {
+      "id": 1485018465,
+      "name": {
+        "cn": "ASA's Catamaran Challenge"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699677602,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790148676,
+      "name": {
+        "cn": "离线翻译专业版 - 无需网络"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699663409,
+      "_discountType": "app"
+    },
+    {
+      "id": 6752676361,
+      "name": {
+        "cn": "打印助手 - AirPrint 打印 PDF"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699669020,
+      "_discountType": "app"
+    },
+    {
+      "id": 6784456632,
+      "name": {
+        "cn": "台词排练"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699669020,
+      "_discountType": "app"
+    },
+    {
+      "id": 6783559364,
+      "name": {
+        "cn": "GIFmaker-GIF动图表情包制作"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699669060,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812969804,
+      "name": {
+        "cn": "表情捞"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699669060,
+      "_discountType": "app"
+    },
+    {
+      "id": 6814064129,
+      "name": {
+        "cn": "邀月-感知身体节律，记录经期月相与排卵期"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699674964,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801802137,
+      "name": {
+        "cn": "股息集‑股息分红管理记录工具"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699677589,
+      "_discountType": "app"
+    },
+    {
+      "id": 6765803576,
+      "name": {
+        "cn": "HPTI：你的历史人格索引"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699677481,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756248801,
+      "name": {
+        "cn": "查课啦"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699677602,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796221077,
+      "name": {
+        "cn": "少年卫星跟踪台"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699677602,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760687435,
+      "name": {
+        "cn": "ShibaGo: Kanji Quiz, JLPT Test"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699677602,
+      "_discountType": "app"
+    },
+    {
+      "id": 6448200446,
+      "name": {
+        "cn": "Tamashek Phrasebook"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790699677602,
+      "_discountType": "app"
+    },
+    {
       "id": 807352223,
       "name": {
         "cn": "Sheiko - Workout Routines"
@@ -135869,7 +136034,8 @@
       },
       "addType": "auto",
       "addSource": "paid-top",
-      "_shouldBePaid": true
+      "_shouldBePaid": true,
+      "allowNotification": false
     },
     {
       "id": 6758521131,
