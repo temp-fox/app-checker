@@ -1,5 +1,111 @@
 [
   {
+    "timestamp": 1790782829726,
+    "cn": {
+      "total": 16,
+      "price": 5,
+      "iap": 11,
+      "apps": [
+        {
+          "id": 312811399,
+          "name": "Moon Lunation",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6799489514,
+          "name": "生活小卫士 - 培养好习惯",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        },
+        {
+          "id": 412351574,
+          "name": "TouchChat HD- AAC w/ WordPower",
+          "type": "price",
+          "detail": "¥1,998.00 → ¥998.00"
+        },
+        {
+          "id": 6770108068,
+          "name": "StoryCodex: WebNovel Reader",
+          "type": "iap",
+          "detail": "Remove Ads: ¥38.00 → ¥15.00"
+        },
+        {
+          "id": 6752352900,
+          "name": "Ember: 习惯与打卡追踪器",
+          "type": "iap",
+          "detail": "Premium Version: ¥38.00 → ¥28.00"
+        },
+        {
+          "id": 6759844607,
+          "name": "Focus Grove - Pomodoro Timer",
+          "type": "price",
+          "detail": "¥148.00 → 免费"
+        },
+        {
+          "id": 6444508254,
+          "name": "汉末霸业",
+          "type": "price",
+          "detail": "¥88.00 → ¥6.00"
+        },
+        {
+          "id": 6444508254,
+          "name": "汉末霸业",
+          "type": "iap",
+          "detail": "美术升级包: ¥28.00 → ¥12.00"
+        },
+        {
+          "id": 6444508254,
+          "name": "汉末霸业",
+          "type": "iap",
+          "detail": "群英荟: ¥28.00 → ¥12.00"
+        },
+        {
+          "id": 6444508254,
+          "name": "汉末霸业",
+          "type": "iap",
+          "detail": "苍天之志: ¥18.00 → ¥15.00"
+        },
+        {
+          "id": 6444508254,
+          "name": "汉末霸业",
+          "type": "iap",
+          "detail": "出类拔萃: ¥28.00 → ¥12.00"
+        },
+        {
+          "id": 6444508254,
+          "name": "汉末霸业",
+          "type": "iap",
+          "detail": "英雄的黎明: ¥28.00 → ¥12.00"
+        },
+        {
+          "id": 6444508254,
+          "name": "汉末霸业",
+          "type": "iap",
+          "detail": "山河归一: ¥28.00 → ¥15.00"
+        },
+        {
+          "id": 6751122124,
+          "name": "Notteka - AI 工作台",
+          "type": "iap",
+          "detail": "Pro: ¥198.00 → ¥148.00"
+        },
+        {
+          "id": 6751122124,
+          "name": "Notteka - AI 工作台",
+          "type": "iap",
+          "detail": "Lite: ¥68.00 → ¥38.00"
+        },
+        {
+          "id": 6748998968,
+          "name": "破事儿- 男性私密健康日历",
+          "type": "iap",
+          "detail": "无限记录卡: ¥8.00 → ¥0.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1790764110390,
     "cn": {
       "total": 15,
@@ -3519,76 +3625,6 @@
           "name": "iWave",
           "type": "price",
           "detail": "¥38.00 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789914981086,
-    "cn": {
-      "total": 10,
-      "price": 7,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6760548411,
-          "name": "美女相机-秒变焦点-美颜自拍滤镜修图-祛斑,抠图-照片修复",
-          "type": "iap",
-          "detail": "升级高级会员: ¥5.00 → ¥0.00"
-        },
-        {
-          "id": 6760622185,
-          "name": "Sayboard: AI 语音键盘",
-          "type": "price",
-          "detail": "¥58.00 → 免费"
-        },
-        {
-          "id": 6761420688,
-          "name": "Photo Statistic",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6774183975,
-          "name": "Blue Clipper",
-          "type": "price",
-          "detail": "¥68.00 → ¥58.00"
-        },
-        {
-          "id": 6772411346,
-          "name": "zZz Widgets: Sleep Tracker",
-          "type": "iap",
-          "detail": "Premium Lifetime: ¥168.00 → ¥38.00"
-        },
-        {
-          "id": 6756651527,
-          "name": "表魂",
-          "type": "price",
-          "detail": "¥6.00 → ¥1.00"
-        },
-        {
-          "id": 6759645073,
-          "name": "到点下班-工时记录器",
-          "type": "price",
-          "detail": "¥6.00 → 免费"
-        },
-        {
-          "id": 6446066433,
-          "name": "Bimma EWD - Wiring Diagrams",
-          "type": "price",
-          "detail": "¥58.00 → ¥48.00"
-        },
-        {
-          "id": 6726997887,
-          "name": "Temp Number - Text Verified",
-          "type": "iap",
-          "detail": "Service Verification: ¥22.00 → ¥15.00"
-        },
-        {
-          "id": 907926183,
-          "name": "西藏人唱歌碗",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
         }
       ]
     }

@@ -2,6 +2,171 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 289616509,
+      "name": {
+        "cn": "Mobile Mouse Remote"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772218469,
+      "_discountType": "app"
+    },
+    {
+      "id": 1101913786,
+      "name": {
+        "cn": "FieldMonitor"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772224216,
+      "_discountType": "app"
+    },
+    {
+      "id": 1181177442,
+      "name": {
+        "cn": "Handpan"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772227025,
+      "_discountType": "app"
+    },
+    {
+      "id": 1493249689,
+      "name": {
+        "cn": "Joe Rogan Soundboard"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772232276,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768598685,
+      "name": {
+        "cn": "安心扫描"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772218469,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797013602,
+      "name": {
+        "cn": "别刷了呗 - 戒手机防沉迷应用锁"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772224238,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760891589,
+      "name": {
+        "cn": "NickyFilm - 진짜 필름 감성 카메라"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772224216,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795551347,
+      "name": {
+        "cn": "地铁"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772226970,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801499298,
+      "name": {
+        "cn": "NekoRadio"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772227025,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763732454,
+      "name": {
+        "cn": "问星-排盘塔罗和节气"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772229590,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779930933,
+      "name": {
+        "cn": "桌布尺寸计算器-餐桌布用量2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772229591,
+      "_discountType": "app"
+    },
+    {
+      "id": 6748955998,
+      "name": {
+        "cn": "HIITrix"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772229691,
+      "_discountType": "app"
+    },
+    {
+      "id": 6815932626,
+      "name": {
+        "cn": "晚安小镇 - 培养健康规律的睡眠习惯"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772229691,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761745585,
+      "name": {
+        "cn": "今天训练"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772229691,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772735418,
+      "name": {
+        "cn": "四维记账"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790772232457,
+      "_discountType": "app"
+    },
+    {
       "id": 6753762531,
       "name": {
         "cn": "SmartHouse PRO"
@@ -94427,7 +94592,8 @@
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1775709753708,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6754865146,
