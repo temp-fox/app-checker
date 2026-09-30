@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": 1790729053017,
+    "cn": {
+      "total": 8,
+      "price": 6,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 6753927223,
+          "name": "Worldly - 旅行地图",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6815017080,
+          "name": "FaithKey: Bible App Blocker",
+          "type": "iap",
+          "detail": "Faith Key Pro Lifetime: ¥328.00 → ¥298.00"
+        },
+        {
+          "id": 6757758925,
+          "name": "阿福记 - 家庭健康管理助手病历夹记事本就诊电子档案拍照识别",
+          "type": "iap",
+          "detail": "阿福记 Pro: ¥98.00 → ¥38.00"
+        },
+        {
+          "id": 1152205182,
+          "name": "Three Little Pigs vs The Wolf",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 1035160239,
+          "name": "Architecture of Radio",
+          "type": "price",
+          "detail": "¥15.00 → ¥8.00"
+        },
+        {
+          "id": 6754361351,
+          "name": "高尔夫击球轨迹",
+          "type": "price",
+          "detail": "¥148.00 → 免费"
+        },
+        {
+          "id": 6760254021,
+          "name": "Cully - 照片清理器",
+          "type": "price",
+          "detail": "¥28.00 → 免费"
+        },
+        {
+          "id": 6723864684,
+          "name": "PECSTalk™",
+          "type": "price",
+          "detail": "¥998.00 → ¥698.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1790708800769,
     "cn": {
       "total": 53,
@@ -3507,148 +3565,6 @@
           "name": "Board Games TV: Local & Online",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789863689923,
-    "cn": {
-      "total": 22,
-      "price": 15,
-      "iap": 7,
-      "apps": [
-        {
-          "id": 6803437794,
-          "name": "Picin - 无界相册漫游与拍立得壁纸",
-          "type": "iap",
-          "detail": "PicIn-Pro: ¥18.00 → ¥0.00"
-        },
-        {
-          "id": 6792556839,
-          "name": "Dun",
-          "type": "iap",
-          "detail": "Dun Pro Yearly: ¥328.00 → ¥199.00"
-        },
-        {
-          "id": 6792556839,
-          "name": "Dun",
-          "type": "iap",
-          "detail": "Dun Pro Weekly: ¥58.00 → ¥16.00"
-        },
-        {
-          "id": 6792556839,
-          "name": "Dun",
-          "type": "iap",
-          "detail": "Dun Pro Monthly: ¥98.00 → ¥32.80"
-        },
-        {
-          "id": 6446178861,
-          "name": "PlayNav - 影片内无广告！",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6757509105,
-          "name": "Cyclic Sighing：缓解焦虑与压力的呼吸",
-          "type": "iap",
-          "detail": "Cyclic Sighing Pro: ¥68.00 → ¥38.00"
-        },
-        {
-          "id": 6450979125,
-          "name": "PDF编辑器：保护隐私，离线处理",
-          "type": "price",
-          "detail": "¥6.00 → 免费"
-        },
-        {
-          "id": 6771666690,
-          "name": "GIF Aura",
-          "type": "price",
-          "detail": "¥22.00 → ¥8.00"
-        },
-        {
-          "id": 6738437515,
-          "name": "Deep - 睡眠声音与放松",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 6761053947,
-          "name": "Picmori: 相册清理·删照片",
-          "type": "iap",
-          "detail": "Picmori Premium: ¥168.00 → ¥15.00"
-        },
-        {
-          "id": 1668660596,
-          "name": "특허 몬스터",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6741071388,
-          "name": "ID Photo: Passport Photo",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6759767113,
-          "name": "小飞船大冒险",
-          "type": "price",
-          "detail": "¥18.00 → ¥12.00"
-        },
-        {
-          "id": 6758578526,
-          "name": "You Got This! Workout Tracker",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6760210637,
-          "name": "路上么",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6756318437,
-          "name": "Image Converter!",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6754370946,
-          "name": "Imgify: Batch Image Converter",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6756028875,
-          "name": "Eventual Calendar",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6476123178,
-          "name": "Merge Voice Memos",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6726997887,
-          "name": "Temp Number - Text Verified",
-          "type": "iap",
-          "detail": "Premium Plus: ¥98.00 → ¥68.00"
-        },
-        {
-          "id": 6757115174,
-          "name": "Sticker Maker Keyboard",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 6444528802,
-          "name": "食音-超解压的美食白噪音软件",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
         }
       ]
     }

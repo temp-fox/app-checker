@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 896879399,
+      "name": {
+        "cn": "MidiPad 2"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790720523209,
+      "_discountType": "app"
+    },
+    {
+      "id": 977571966,
+      "name": {
+        "cn": "Yoga Pranayama"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790720526797,
+      "_discountType": "app"
+    },
+    {
+      "id": 1227633347,
+      "name": {
+        "cn": "Store Watcher"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790720537466,
+      "_discountType": "app"
+    },
+    {
+      "id": 6806470752,
+      "name": {
+        "cn": "Practice Farm: 练习曲，任何调"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790720523209,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794577805,
+      "name": {
+        "cn": "小旷野 - 梦想与人生心愿清单"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790720526619,
+      "_discountType": "app"
+    },
+    {
       "id": 355490385,
       "name": {
         "cn": "口袋风车 (轻量版)"
@@ -950,8 +1005,8 @@
       "name": {
         "cn": "历历 - LiLi Cal"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1790604385857,
