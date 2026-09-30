@@ -1,5 +1,105 @@
 [
   {
+    "timestamp": 1790764110390,
+    "cn": {
+      "total": 15,
+      "price": 11,
+      "iap": 4,
+      "apps": [
+        {
+          "id": 6794577805,
+          "name": "小旷野 - 梦想与人生心愿清单",
+          "type": "price",
+          "detail": "¥36.00 → 免费"
+        },
+        {
+          "id": 6813296219,
+          "name": "记得住-语音待办清单与日程管理",
+          "type": "price",
+          "detail": "¥3.00 → ¥1.00"
+        },
+        {
+          "id": 6814131991,
+          "name": "别刷太久 - 屏幕时间管理与专注番茄自律",
+          "type": "price",
+          "detail": "¥28.00 → ¥1.00"
+        },
+        {
+          "id": 6795993372,
+          "name": "养花-家庭绿植养护花房排期生长日记提醒助手工具管理",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6799889269,
+          "name": "中国足迹：点亮你的中国旅行地图",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 1290260255,
+          "name": "推理恋爱",
+          "type": "price",
+          "detail": "¥12.00 → 免费"
+        },
+        {
+          "id": 6786577313,
+          "name": "Breakin' - 轮班工作计划",
+          "type": "iap",
+          "detail": "DaybreakIn Pro Lifetime: ¥98.00 → ¥88.00"
+        },
+        {
+          "id": 448180752,
+          "name": "飞行棋 (未来版)",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6784604835,
+          "name": "同览 -  浏览器分流同步中枢",
+          "type": "iap",
+          "detail": "同览专业版: ¥38.00 → ¥0.00"
+        },
+        {
+          "id": 6778676469,
+          "name": "七七音乐-本地音乐播放器",
+          "type": "price",
+          "detail": "¥3.00 → 免费"
+        },
+        {
+          "id": 6756722371,
+          "name": "Easy Contacts: Contact Manager",
+          "type": "iap",
+          "detail": "weekly: ¥38.00 → ¥22.00"
+        },
+        {
+          "id": 1152147166,
+          "name": "Animation Desk® 动画桌 Ultimate",
+          "type": "iap",
+          "detail": "Kdan Cloud: ¥68.00 → ¥20.00"
+        },
+        {
+          "id": 1296076444,
+          "name": "央数-央行数据",
+          "type": "price",
+          "detail": "¥24.00 → ¥1.00"
+        },
+        {
+          "id": 6759135844,
+          "name": "VividCut",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6760268997,
+          "name": "数学冲刺儿童游戏",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1790729053017,
     "cn": {
       "total": 8,
@@ -3489,82 +3589,6 @@
           "name": "西藏人唱歌碗",
           "type": "price",
           "detail": "¥15.00 → ¥8.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789894224491,
-    "cn": {
-      "total": 11,
-      "price": 6,
-      "iap": 5,
-      "apps": [
-        {
-          "id": 6740433029,
-          "name": "网络使用监控器 Network Usage Monitor",
-          "type": "iap",
-          "detail": "Full Version Lifetime: ¥38.00 → ¥18.00"
-        },
-        {
-          "id": 6755364840,
-          "name": "Hours: Time & Invoice",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 1491473755,
-          "name": "Notehot - Ai笔记 备忘录 语音转文字",
-          "type": "iap",
-          "detail": "VIP Subscription: ¥118.00 → ¥12.00"
-        },
-        {
-          "id": 6761011882,
-          "name": "Device Kit - 硬件性能检测与手机管家",
-          "type": "iap",
-          "detail": "永久会员: ¥48.00 → ¥38.00"
-        },
-        {
-          "id": 6760338948,
-          "name": "Brink: Podcast Player",
-          "type": "iap",
-          "detail": "Brink Plus: ¥498.00 → ¥38.00"
-        },
-        {
-          "id": 6744329263,
-          "name": "MockTimer Pro - 沉浸式考试模拟",
-          "type": "iap",
-          "detail": "高级会员(终身): ¥19.90 → ¥0.00"
-        },
-        {
-          "id": 6797824934,
-          "name": "Lumori：账单与订阅",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6757267681,
-          "name": "Storyli: Your Story Library",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6758332911,
-          "name": "Any Time: Time Will Tell",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6805301592,
-          "name": "五子棋：AI挑战赛",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6743677987,
-          "name": "Board Games TV: Local & Online",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }

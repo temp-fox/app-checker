@@ -2,6 +2,195 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6753762531,
+      "name": {
+        "cn": "SmartHouse PRO"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790746796176,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793166788,
+      "name": {
+        "cn": "RefCalc - 制冷剂压力温度表"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790746796176,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789016451,
+      "name": {
+        "cn": "楼梯踏步计算器2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790746796176,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804757287,
+      "name": {
+        "cn": "买还是等"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790746817483,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804757195,
+      "name": {
+        "cn": "保修期限追踪"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790746817483,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804756968,
+      "name": {
+        "cn": "退货期限追踪"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790746817483,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804756535,
+      "name": {
+        "cn": "重复购物清单"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790746817483,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804756267,
+      "name": {
+        "cn": "目标买入价计算器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790746817483,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796268290,
+      "name": {
+        "cn": "Timestamp Camera : CamTag"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790746853530,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6770400420,
+      "name": {
+        "cn": "FacilityLog"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790746853530,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6812700467,
+      "name": {
+        "cn": "PawCam: 宠物相机"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790746853530,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6758454461,
+      "name": {
+        "cn": "TripCache - 旅行记账"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790746853530,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6469342311,
+      "name": {
+        "cn": "保险箱私密相册-隐私安全管家"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790746853531,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6811471775,
+      "name": {
+        "cn": "遮一下 - 分享打码与隐私保护"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790746853531,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6809735042,
+      "name": {
+        "cn": "取件宝 - 快递取件码一键管理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790746853531,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6759135844,
+      "name": {
+        "cn": "VividCut"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790746853531,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760268997,
+      "name": {
+        "cn": "数学冲刺儿童游戏"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790746853531,
+      "_discountType": "app"
+    },
+    {
       "id": 896879399,
       "name": {
         "cn": "MidiPad 2"
@@ -150082,7 +150271,8 @@
       "addType": "auto",
       "_shouldBePaid": true,
       "_discountType": "app",
-      "addSource": "paid-top"
+      "addSource": "paid-top",
+      "allowNotification": false
     },
     {
       "id": 1296628260,
