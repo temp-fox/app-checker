@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6804621931,
+      "name": {
+        "cn": "闪电浏览器 - 星海浏览极速安全上网"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790812608326,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809188902,
+      "name": {
+        "cn": "BambooSilk"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790812617157,
+      "_discountType": "app"
+    },
+    {
       "id": 971786278,
       "name": {
         "cn": "双筒望远镜：世界越来越近"

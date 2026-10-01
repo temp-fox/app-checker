@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": 1790822376019,
+    "cn": {
+      "total": 5,
+      "price": 2,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6790382144,
+          "name": "自听：本地生成随身听",
+          "type": "price",
+          "detail": "¥9.00 → 免费"
+        },
+        {
+          "id": 6806298730,
+          "name": "Walti 极简记账本 - 记账软件·预算与支出管理",
+          "type": "iap",
+          "detail": "Walti Premium: ¥88.00 → ¥68.00"
+        },
+        {
+          "id": 6744582695,
+          "name": "Breathe Relief",
+          "type": "iap",
+          "detail": "永久 Plus: ¥298.00 → ¥168.00"
+        },
+        {
+          "id": 6786557788,
+          "name": "九型人格测试性格心理深度测评MBTI双测离线工具版",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6761639932,
+          "name": "时脉",
+          "type": "iap",
+          "detail": "时脉 Pro 终身: ¥88.00 → ¥0.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1790805959248,
     "cn": {
       "total": 40,
@@ -3771,34 +3811,6 @@
           "name": "Treebar",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1789954186950,
-    "cn": {
-      "total": 3,
-      "price": 1,
-      "iap": 2,
-      "apps": [
-        {
-          "id": 1156018315,
-          "name": "JPEG Jackal",
-          "type": "price",
-          "detail": "¥28.00 → ¥15.00"
-        },
-        {
-          "id": 1036140929,
-          "name": "ClipBox: 剪贴板管理工具",
-          "type": "iap",
-          "detail": "Premium: ¥98.00 → ¥68.00"
-        },
-        {
-          "id": 1169525771,
-          "name": "JPEG Jackal Lite",
-          "type": "iap",
-          "detail": "Upgrade to Full Version: ¥28.00 → ¥15.00"
         }
       ]
     }
