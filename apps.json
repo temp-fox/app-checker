@@ -2,6 +2,243 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 438052745,
+      "name": {
+        "cn": "Snake '97:复古手机经典游戏"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "app"
+    },
+    {
+      "id": 836657225,
+      "name": {
+        "cn": "G&Step"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790861231846,
+      "_discountType": "app"
+    },
+    {
+      "id": 1532447539,
+      "name": {
+        "cn": "Sketch Fashion"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792311015,
+      "name": {
+        "cn": "NetPulse-一键测网速"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790861226400,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803035340,
+      "name": {
+        "cn": "GoView: Viewfinder for GoPro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790861226395,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797548325,
+      "name": {
+        "cn": "PanoFlow"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790861226395,
+      "_discountType": "app"
+    },
+    {
+      "id": 6478472708,
+      "name": {
+        "cn": "漫画道场物语"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790861231563,
+      "_discountType": "app"
+    },
+    {
+      "id": 6748296105,
+      "name": {
+        "cn": "M5超级坦克 - 经典玩法原汁原味"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790861234356,
+      "_discountType": "app"
+    },
+    {
+      "id": 6775657750,
+      "name": {
+        "cn": "Bloom：儿童绘画与涂色"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790861234536,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756335040,
+      "name": {
+        "cn": "Easy To Do List: Task,Reminder"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6804554264,
+      "name": {
+        "cn": "WinkU - 双机拍摄助手"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6781290504,
+      "name": {
+        "cn": "ClusterSwipe: free up space"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6798086052,
+      "name": {
+        "cn": "时光盲盒 - 随机回顾整理照片"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6764079927,
+      "name": {
+        "cn": "NeighborLog"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763738264,
+      "name": {
+        "cn": "英语生词本-智能复习高效背单词记得牢考试提分更轻松更省时"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6806260790,
+      "name": {
+        "cn": "Nitra - HDR 光影编辑"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6799605111,
+      "name": {
+        "cn": "HabitLuma: Quit Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6796115889,
+      "name": {
+        "cn": "VersaKey"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "app"
+    },
+    {
+      "id": 6802045631,
+      "name": {
+        "cn": "Diariva: Your life & journal"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760746571,
+      "name": {
+        "cn": "Chronometer : World Clock"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759573369,
+      "name": {
+        "cn": "Looks by Frido: Outfit Planner"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790861278623,
+      "_discountType": "app"
+    },
+    {
       "id": 6804621931,
       "name": {
         "cn": "闪电浏览器 - 星海浏览极速安全上网"
@@ -39390,7 +39627,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1783750295258,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6771433800,
@@ -119524,8 +119762,8 @@
       "name": {
         "cn": "Offline AI - Pisheru"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1773374747818,
