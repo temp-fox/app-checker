@@ -2,6 +2,596 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 310104088,
+      "name": {
+        "cn": "HebrewBible"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969040835,
+      "_discountType": "app"
+    },
+    {
+      "id": 329470520,
+      "name": {
+        "cn": "CORE -Clinical Orthopedic Exam"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969052719,
+      "_discountType": "app"
+    },
+    {
+      "id": 338890846,
+      "name": {
+        "cn": "Prepware ATP"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969049107,
+      "_discountType": "app"
+    },
+    {
+      "id": 393793054,
+      "name": {
+        "cn": "Bakeshop"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969055848,
+      "_discountType": "app"
+    },
+    {
+      "id": 518353984,
+      "name": {
+        "cn": "الشعراوي - تفسير القرآن الكريم"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969040835,
+      "_discountType": "app"
+    },
+    {
+      "id": 519896820,
+      "name": {
+        "cn": "5 Little Monkeys Collection #1"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969053166,
+      "_discountType": "app"
+    },
+    {
+      "id": 553145544,
+      "name": {
+        "cn": "FlashFace Full"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969049739,
+      "_discountType": "app"
+    },
+    {
+      "id": 860024390,
+      "name": {
+        "cn": "Story Planner for Writers"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969040604,
+      "_discountType": "app"
+    },
+    {
+      "id": 1291618662,
+      "name": {
+        "cn": "GameFono Fonemas"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969049107,
+      "_discountType": "app"
+    },
+    {
+      "id": 1452345570,
+      "name": {
+        "cn": "Blackhole Reverb"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969043578,
+      "_discountType": "app"
+    },
+    {
+      "id": 6805713307,
+      "name": {
+        "cn": "巧可理 Chocoload：装载规划"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969035063,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781504228,
+      "name": {
+        "cn": "DesignPass"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969034329,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803774393,
+      "name": {
+        "cn": "我有事"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969034329,
+      "_discountType": "app"
+    },
+    {
+      "id": 6811739711,
+      "name": {
+        "cn": "光言灯牌"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969034329,
+      "_discountType": "app"
+    },
+    {
+      "id": 6816843800,
+      "name": {
+        "cn": "旅梦"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969037979,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755781701,
+      "name": {
+        "cn": "Aurora Tromsø"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969037979,
+      "_discountType": "app"
+    },
+    {
+      "id": 6802283070,
+      "name": {
+        "cn": "Mini Rok Kart Setup and Tuning"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969037769,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790049277,
+      "name": {
+        "cn": "投球数记录-棒垒球队本2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969037769,
+      "_discountType": "app"
+    },
+    {
+      "id": 6783512947,
+      "name": {
+        "cn": "棒球投球数记录本专业版2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969037769,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782535325,
+      "name": {
+        "cn": "棒球投球数记录本2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969037769,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760909311,
+      "name": {
+        "cn": "ZWO ERG MRC FIT 构建器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969037769,
+      "_discountType": "app"
+    },
+    {
+      "id": 6814212257,
+      "name": {
+        "cn": "Miumi: To-Do List & Planner"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969040604,
+      "_discountType": "app"
+    },
+    {
+      "id": 6766784715,
+      "name": {
+        "cn": "工时记-兼职零工打卡记工加班费时薪统计手账·本地版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969040604,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757798522,
+      "name": {
+        "cn": "Downshift: Focus Timer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969040604,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810073554,
+      "name": {
+        "cn": "PlayEngine"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969040804,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787457413,
+      "name": {
+        "cn": "点击高光 - Tap Highlight"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969040804,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785018218,
+      "name": {
+        "cn": "Stitch - 滚动截屏 & 长图拼接"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969040804,
+      "_discountType": "app"
+    },
+    {
+      "id": 6739965607,
+      "name": {
+        "cn": "笔记地图"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969043429,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808637267,
+      "name": {
+        "cn": "deriva tape machine"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969043578,
+      "_discountType": "app"
+    },
+    {
+      "id": 6805251862,
+      "name": {
+        "cn": "wFX: AUv3 Multi-FX"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969043578,
+      "_discountType": "app"
+    },
+    {
+      "id": 6803790337,
+      "name": {
+        "cn": "PolyQuad"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969043578,
+      "_discountType": "app"
+    },
+    {
+      "id": 6476144028,
+      "name": {
+        "cn": "发现动物公园-人与动物的和谐共处"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969046477,
+      "_discountType": "app"
+    },
+    {
+      "id": 6813428946,
+      "name": {
+        "cn": "Watch 离线游戏-手机照样玩"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969049739,
+      "_discountType": "app"
+    },
+    {
+      "id": 6446032801,
+      "name": {
+        "cn": "挤泡泡模拟器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969049739,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770294691,
+      "name": {
+        "cn": "DK汽车知识库"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969049107,
+      "_discountType": "app"
+    },
+    {
+      "id": 6764842515,
+      "name": {
+        "cn": "小白学折纸"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969049107,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780370374,
+      "name": {
+        "cn": "书函尺寸计算与装帧用料2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790969053166,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779525326,
+      "name": {
+        "cn": "API Wallet"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6799343063,
+      "name": {
+        "cn": "影转工坊"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6806190248,
+      "name": {
+        "cn": "Mycar- Car Widgets & Dashboard"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6480367122,
+      "name": {
+        "cn": "自律锁：不做手机控"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761418657,
+      "name": {
+        "cn": "Track24: Work Time Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6770405328,
+      "name": {
+        "cn": "InfusionLog"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6443753643,
+      "name": {
+        "cn": "我的头发外观"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763252662,
+      "name": {
+        "cn": "即视计时器：锁屏显示"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6780160842,
+      "name": {
+        "cn": "触点笔记"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6806555088,
+      "name": {
+        "cn": "咪咪计算器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792952443,
+      "name": {
+        "cn": "REDREC - 离线语音转文字"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758521423,
+      "name": {
+        "cn": "MetaClean: GPS EXIF Cleaner"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770403164,
+      "name": {
+        "cn": "PebWorld: Your Tiny Companion"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799075435,
+      "name": {
+        "cn": "JSON Master"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808704483,
+      "name": {
+        "cn": "Awesome Captcha"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "app"
+    },
+    {
+      "id": 6462606384,
+      "name": {
+        "cn": "Very PINK stickers!"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1790969096702,
+      "_discountType": "app"
+    },
+    {
       "id": 549455283,
       "name": {
         "cn": "Card Now - Magic Business"
@@ -28290,8 +28880,8 @@
       "name": {
         "cn": "ReflectionsCamera"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1785637992269,
@@ -111761,8 +112351,8 @@
       "name": {
         "cn": "TomatoFlex"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1773971733595,
