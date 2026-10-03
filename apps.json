@@ -2,6 +2,394 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 386784697,
+      "name": {
+        "cn": "Mediterranean Sea HD GPS chart"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027975589,
+      "_discountType": "app"
+    },
+    {
+      "id": 1531672427,
+      "name": {
+        "cn": "时间水印"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027973034,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812695970,
+      "name": {
+        "cn": "图链 - 长截图＆拼图 - 你的图片处理助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027967551,
+      "_discountType": "app"
+    },
+    {
+      "id": 6784621588,
+      "name": {
+        "cn": "Digi Voices"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027967551,
+      "_discountType": "app"
+    },
+    {
+      "id": 6467768299,
+      "name": {
+        "cn": "Diskio：SSD与磁盘测速"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027967551,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781841126,
+      "name": {
+        "cn": "palilili"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027972841,
+      "_discountType": "app"
+    },
+    {
+      "id": 6754362337,
+      "name": {
+        "cn": "Today - RSS Reader"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027972841,
+      "_discountType": "app"
+    },
+    {
+      "id": 6739682991,
+      "name": {
+        "cn": "Refresh | Web"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027972841,
+      "_discountType": "app"
+    },
+    {
+      "id": 6818024403,
+      "name": {
+        "cn": "30｜选集"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027973034,
+      "_discountType": "app"
+    },
+    {
+      "id": 6816684740,
+      "name": {
+        "cn": "高性价比人生指南"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027978266,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810706677,
+      "name": {
+        "cn": "周记 - 记录每周生活印记"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027978266,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796876600,
+      "name": {
+        "cn": "衣橱-智能衣物档案穿搭工坊洗衣篮天气建议胶囊指数心愿"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027978266,
+      "_discountType": "app"
+    },
+    {
+      "id": 6816292080,
+      "name": {
+        "cn": "孕糖记"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027978441,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755998688,
+      "name": {
+        "cn": "Sauner - Sauna Tracker & Log"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027978441,
+      "_discountType": "app"
+    },
+    {
+      "id": 6814383594,
+      "name": {
+        "cn": "火柴人跑酷&建造"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027981115,
+      "_discountType": "app"
+    },
+    {
+      "id": 6806241270,
+      "name": {
+        "cn": "Parlor: Retro Game Emulator"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027981115,
+      "_discountType": "app"
+    },
+    {
+      "id": 6815097266,
+      "name": {
+        "cn": "大九九乘法表"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791027981129,
+      "_discountType": "app"
+    },
+    {
+      "id": 6503609135,
+      "name": {
+        "cn": "短信喵-AI智能拦截垃圾短信"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6812162215,
+      "name": {
+        "cn": "MoveM - 锁定App，通过运动解锁"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6755858553,
+      "name": {
+        "cn": "SnapSort：相册清理图片视频手机空间清理存储助手工具"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6810081730,
+      "name": {
+        "cn": "随时记 - 你的生活好帮手"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6774886246,
+      "name": {
+        "cn": "番茄钟专注计时器 - Grow Focus"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6756419927,
+      "name": {
+        "cn": "ScreenshotAI - AI Notes"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6760257027,
+      "name": {
+        "cn": "On The Lock - 锁屏备忘"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6762367838,
+      "name": {
+        "cn": "CareLog: Caregiver Journal"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6765619501,
+      "name": {
+        "cn": "假日里 - 放假倒计时与农历日历"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6768299170,
+      "name": {
+        "cn": "学巢"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6797255038,
+      "name": {
+        "cn": "GPS Area Measure - FieldAcre"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6811555541,
+      "name": {
+        "cn": "Photo Stamps - Kitte"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6807541005,
+      "name": {
+        "cn": "QR Code Scanner-Barcode Scan™"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6762540739,
+      "name": {
+        "cn": "悬浮窗-画中画浮窗悬浮时钟悬浮时间"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6760905053,
+      "name": {
+        "cn": "智能照片瘦身-一键腾空间"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6789409693,
+      "name": {
+        "cn": "HabitMkr: Habit Tracker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043585,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767983547,
+      "name": {
+        "cn": "Palette Spin"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043586,
+      "_discountType": "app"
+    },
+    {
+      "id": 6744325501,
+      "name": {
+        "cn": "Snake TV Classic"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791028043586,
+      "_discountType": "app"
+    },
+    {
       "id": 6810715131,
       "name": {
         "cn": "日记泡泡"
@@ -60883,7 +61271,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1780198367641,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6751239168,
