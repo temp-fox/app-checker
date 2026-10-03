@@ -2,6 +2,28 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 337461383,
+      "name": {
+        "cn": "Der große Mondkalender"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791044896133,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799650498,
+      "name": {
+        "cn": "GradChef 选校大师"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791044899684,
+      "_discountType": "app"
+    },
+    {
       "id": 386784697,
       "name": {
         "cn": "Mediterranean Sea HD GPS chart"
@@ -296,7 +318,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1791028043585,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6797255038,
