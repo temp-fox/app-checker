@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": 1790994919409,
+    "cn": {
+      "total": 5,
+      "price": 2,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 957061844,
+          "name": "Night Camera: Low Light FX Cam",
+          "type": "iap",
+          "detail": "Night Camera Pro: ¥22.00 → ¥0.00"
+        },
+        {
+          "id": 6753267292,
+          "name": "戒酒记录-戒酒助手清醒日记打卡统计省钱健康恢复计划",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6759692509,
+          "name": "英语背单词·词汇量 - Neologics",
+          "type": "iap",
+          "detail": "Neologics Pro 年度优惠: ¥298.00 → ¥148.00"
+        },
+        {
+          "id": 1114320457,
+          "name": "Baby Led Weaning Recipes",
+          "type": "price",
+          "detail": "¥38.00 → ¥28.00"
+        },
+        {
+          "id": 1437256011,
+          "name": "实况天气Pro-天气预报苹果版",
+          "type": "iap",
+          "detail": "PREMIUM ACCOUNT: ¥70.00 → ¥35.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1790977433226,
     "cn": {
       "total": 48,
@@ -3679,262 +3719,6 @@
           "name": "HexiPop",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1790127909070,
-    "cn": {
-      "total": 41,
-      "price": 29,
-      "iap": 12,
-      "apps": [
-        {
-          "id": 6762195713,
-          "name": "Kadu: Private Memories Journal",
-          "type": "iap",
-          "detail": "Premium annually: ¥168.00 → ¥128.00"
-        },
-        {
-          "id": 6795239812,
-          "name": "ClipPro: Video & Photo Editor",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 1524133146,
-          "name": "BT Basketball Scoreboard",
-          "type": "iap",
-          "detail": "Monthly: ¥38.00 → ¥22.00"
-        },
-        {
-          "id": 6801606517,
-          "name": "Patterns: Create Wallpapers",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6789805312,
-          "name": "ScanKit: Document & QR Scanner",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6791581762,
-          "name": "iSlip: Auto delete notes",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6798755850,
-          "name": "Doodle ABC：英语书写练习",
-          "type": "price",
-          "detail": "¥168.00 → ¥38.00"
-        },
-        {
-          "id": 6779936477,
-          "name": "废土清道夫：僵尸割草生存射击",
-          "type": "price",
-          "detail": "¥3.00 → 免费"
-        },
-        {
-          "id": 6760898657,
-          "name": "Handwritten Quick Notes: Jot",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 6499064941,
-          "name": "Pixelcos: 拼豆图纸生成器",
-          "type": "iap",
-          "detail": "专业版: ¥38.00 → ¥15.00"
-        },
-        {
-          "id": 6758624892,
-          "name": "WeekPad: Weekly Planner Diary",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6762445242,
-          "name": "万年历-农历日历查老黄历查节假日节气吉祥日子的状态栏日历",
-          "type": "iap",
-          "detail": "请开发者喝咖啡·大杯: ¥38.00 → ¥28.00"
-        },
-        {
-          "id": 6758268708,
-          "name": "App Blocker OffKit",
-          "type": "iap",
-          "detail": "OffKit Pro (Annual): ¥39.00 → ¥15.00"
-        },
-        {
-          "id": 6758916412,
-          "name": "Ebru: 水拓画与纸上大理石纹",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 1207653001,
-          "name": "DanceAnimation - Stop Motion",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1530729294,
-          "name": "Hypnos：防赖床任务闹钟",
-          "type": "iap",
-          "detail": "One Time Lifetime Offer: ¥198.00 → ¥68.00"
-        },
-        {
-          "id": 1451646819,
-          "name": "QuickFTP Server",
-          "type": "price",
-          "detail": "¥38.00 → ¥15.00"
-        },
-        {
-          "id": 6768935942,
-          "name": "宝护 - 宝宝健康档案与用药记录",
-          "type": "iap",
-          "detail": "宝护高级版·年度: ¥48.00 → ¥28.00"
-        },
-        {
-          "id": 1179089131,
-          "name": "simpleVID IPTV PLAYER",
-          "type": "price",
-          "detail": "¥22.00 → ¥8.00"
-        },
-        {
-          "id": 6651851520,
-          "name": "QuickHTTP Server",
-          "type": "price",
-          "detail": "¥22.00 → ¥15.00"
-        },
-        {
-          "id": 6756155471,
-          "name": "百战天虫",
-          "type": "price",
-          "detail": "¥12.00 → ¥9.00"
-        },
-        {
-          "id": 6480389336,
-          "name": "庇护所",
-          "type": "price",
-          "detail": "¥18.00 → ¥6.00"
-        },
-        {
-          "id": 1036140929,
-          "name": "ClipBox: 剪贴板管理工具",
-          "type": "iap",
-          "detail": "Monthly Subscription: ¥15.00 → ¥8.00"
-        },
-        {
-          "id": 1064360258,
-          "name": "iLockBox: 隐藏照片与加密视频相册",
-          "type": "iap",
-          "detail": "iLockBox Premium: ¥28.00 → ¥8.00"
-        },
-        {
-          "id": 1064360258,
-          "name": "iLockBox: 隐藏照片与加密视频相册",
-          "type": "iap",
-          "detail": "iLockBox Premium Yearly: ¥68.00 → ¥48.00"
-        },
-        {
-          "id": 6749502392,
-          "name": "4x4 Cockpit",
-          "type": "price",
-          "detail": "¥58.00 → 免费"
-        },
-        {
-          "id": 6449541421,
-          "name": "Relight 照片打光",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 1190312896,
-          "name": "Cut for Stories",
-          "type": "price",
-          "detail": "¥22.00 → 免费"
-        },
-        {
-          "id": 460661291,
-          "name": "Safety Note+ Pro：私密笔记",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 6470886230,
-          "name": "Speed Up Video",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6759351727,
-          "name": "Teddy's Nanny",
-          "type": "price",
-          "detail": "¥48.00 → 免费"
-        },
-        {
-          "id": 6757722438,
-          "name": "A4Pad – Annotate, Merge PDF",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1114320457,
-          "name": "Baby Led Weaning Recipes",
-          "type": "price",
-          "detail": "¥38.00 → ¥28.00"
-        },
-        {
-          "id": 6757269133,
-          "name": "GlobalScan Pro: PDF Scanner",
-          "type": "price",
-          "detail": "¥698.00 → ¥22.00"
-        },
-        {
-          "id": 6759212192,
-          "name": "MediaBox - 智能抠图&长截图",
-          "type": "iap",
-          "detail": "Lifetime: ¥38.00 → ¥0.00"
-        },
-        {
-          "id": 1117044076,
-          "name": "CDRViewer Pro",
-          "type": "price",
-          "detail": "¥68.00 → ¥38.00"
-        },
-        {
-          "id": 6748998968,
-          "name": "破事儿- 男性私密健康日历",
-          "type": "iap",
-          "detail": "无限记录卡: ¥8.00 → ¥0.00"
-        },
-        {
-          "id": 1544190466,
-          "name": "避难所：生存",
-          "type": "price",
-          "detail": "¥12.00 → ¥6.00"
-        },
-        {
-          "id": 1551596643,
-          "name": "模拟地铁",
-          "type": "price",
-          "detail": "¥18.00 → ¥6.00"
-        },
-        {
-          "id": 1437479513,
-          "name": "逃脱者：困境突围",
-          "type": "price",
-          "detail": "¥30.00 → ¥10.00"
-        },
-        {
-          "id": 6450877530,
-          "name": "花园之间",
-          "type": "price",
-          "detail": "¥12.00 → ¥6.00"
         }
       ]
     }

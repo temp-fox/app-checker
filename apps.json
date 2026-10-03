@@ -2,6 +2,83 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6810715131,
+      "name": {
+        "cn": "日记泡泡"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790985104708,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756202456,
+      "name": {
+        "cn": "Madeira Bus"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790985107400,
+      "_discountType": "app"
+    },
+    {
+      "id": 6816410579,
+      "name": {
+        "cn": "LUTCAM"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790985110020,
+      "_discountType": "app"
+    },
+    {
+      "id": 6754653747,
+      "name": {
+        "cn": "Image Frame Extract Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790985110020,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804959154,
+      "name": {
+        "cn": "PaPaPa-空气枪"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790985121067,
+      "_discountType": "app"
+    },
+    {
+      "id": 6818072341,
+      "name": {
+        "cn": "叠叠江南"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790985121067,
+      "_discountType": "app"
+    },
+    {
+      "id": 6806587475,
+      "name": {
+        "cn": "易诵"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1790985121049,
+      "_discountType": "app"
+    },
+    {
       "id": 310104088,
       "name": {
         "cn": "HebrewBible"
