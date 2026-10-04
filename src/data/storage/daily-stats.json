@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": 1791081831001,
+    "cn": {
+      "total": 4,
+      "price": 1,
+      "iap": 3,
+      "apps": [
+        {
+          "id": 6791968686,
+          "name": "StampOut: Photo Stamp Camera",
+          "type": "iap",
+          "detail": "stampout lifetime: ¥328.00 → ¥0.00"
+        },
+        {
+          "id": 645214476,
+          "name": "分贝仪 Plus Pro：噪音检测",
+          "type": "price",
+          "detail": "¥15.00 → ¥3.00"
+        },
+        {
+          "id": 1626348884,
+          "name": "Kokotree: Preschool Learning",
+          "type": "iap",
+          "detail": "Premium Access: ¥328.00 → ¥38.00"
+        },
+        {
+          "id": 6743350993,
+          "name": "ReplayWord",
+          "type": "iap",
+          "detail": "ReplayWord: ¥88.00 → ¥12.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1791074017111,
     "cn": {
       "total": 23,
@@ -3547,34 +3581,6 @@
           "name": "语音转文字：离线转录",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1790214378243,
-    "cn": {
-      "total": 3,
-      "price": 0,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6775828757,
-          "name": "新世界：暗影成双",
-          "type": "iap",
-          "detail": "好友赠礼完整版: ¥29.80 → ¥28.80"
-        },
-        {
-          "id": 6792556839,
-          "name": "Dun",
-          "type": "iap",
-          "detail": "Pro 永久: ¥243.00 → ¥93.00"
-        },
-        {
-          "id": 1488667597,
-          "name": "PDF Document Scanner - Captize",
-          "type": "iap",
-          "detail": "Pro Version 无限: ¥158.00 → ¥88.00"
         }
       ]
     }

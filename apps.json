@@ -2,6 +2,39 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1089994995,
+      "name": {
+        "cn": "Pilze 123"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791074619825,
+      "_discountType": "app"
+    },
+    {
+      "id": 6745094142,
+      "name": {
+        "cn": "Football Trading Genie"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791074616557,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801156961,
+      "name": {
+        "cn": "哲学：历史与思想"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791074627689,
+      "_discountType": "app"
+    },
+    {
       "id": 337461383,
       "name": {
         "cn": "Der große Mondkalender"
@@ -435,11 +468,11 @@
       "name": {
         "cn": "学巢"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1791028043585,
-      "_discountType": "iap",
+      "_discountType": "app",
       "_shouldBePaid": true
     },
     {
