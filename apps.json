@@ -2,6 +2,116 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 493910782,
+      "name": {
+        "cn": "Bigmouth Sounds"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791127585222,
+      "_discountType": "app"
+    },
+    {
+      "id": 6451123823,
+      "name": {
+        "cn": "Favs: Private Social Network"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791127574343,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759769032,
+      "name": {
+        "cn": "契约 - 自律养成"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791127577147,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792394850,
+      "name": {
+        "cn": "人生四格大头贴 - Kkumi"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791127577157,
+      "_discountType": "app"
+    },
+    {
+      "id": 6467383947,
+      "name": {
+        "cn": "MiniMap Radar"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791127579877,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755807546,
+      "name": {
+        "cn": "Hawaii Ocean Map"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791127579877,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782716356,
+      "name": {
+        "cn": "雨伞晾干收纳记录2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791127582422,
+      "_discountType": "app"
+    },
+    {
+      "id": 6817408730,
+      "name": {
+        "cn": "雨声助眠播客-睡个好觉"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791127582538,
+      "_discountType": "app"
+    },
+    {
+      "id": 6777909648,
+      "name": {
+        "cn": "桥梁工程师：传送门"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791127582399,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786208628,
+      "name": {
+        "cn": "楚河奇局：象棋残局肉鸽"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791127585135,
+      "_discountType": "app"
+    },
+    {
       "id": 1208025241,
       "name": {
         "cn": "Math Racing 2 Pro"
@@ -49492,8 +49602,8 @@
       "name": {
         "cn": "Shelfie"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1782269801315,
