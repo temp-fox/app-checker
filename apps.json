@@ -2,6 +2,232 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1208025241,
+      "name": {
+        "cn": "Math Racing 2 Pro"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791102770817,
+      "_discountType": "app"
+    },
+    {
+      "id": 1300137329,
+      "name": {
+        "cn": "Flotogram"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791102770817,
+      "_discountType": "app"
+    },
+    {
+      "id": 1380408196,
+      "name": {
+        "cn": "Berks 3"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791102770817,
+      "_discountType": "app"
+    },
+    {
+      "id": 1527560340,
+      "name": {
+        "cn": "WaterMix Pro - 股票平均计算器（规模交易）"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791102701654,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794168123,
+      "name": {
+        "cn": "钣金展开-放样展平计算器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791102701654,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785438891,
+      "name": {
+        "cn": "遛狗日记 PawDiary"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791102701654,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785860759,
+      "name": {
+        "cn": "极算"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791102701654,
+      "_discountType": "app"
+    },
+    {
+      "id": 6748457412,
+      "name": {
+        "cn": "海拔记录器 - GPS海拔测量工具&户外登山定位记录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791102701654,
+      "_discountType": "app"
+    },
+    {
+      "id": 6763571986,
+      "name": {
+        "cn": "私密便签"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791102701654,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767580051,
+      "name": {
+        "cn": "ClearEther - 电磁波感知"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791102701654,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808173190,
+      "name": {
+        "cn": "Vascular - Tactile Synth"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791102710377,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796262085,
+      "name": {
+        "cn": "Solvi"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791102713193,
+      "_discountType": "app"
+    },
+    {
+      "id": 6789430666,
+      "name": {
+        "cn": "Dual Shot Recorder : Yugma"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791102770817,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763235782,
+      "name": {
+        "cn": "SpeedClinic一键测速场景体检"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791102770817,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6796972862,
+      "name": {
+        "cn": "DuoFrame:双摄同框相机"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791102770817,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6759954470,
+      "name": {
+        "cn": "Drink Less ▹"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791102770817,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6794620176,
+      "name": {
+        "cn": "Daylivia - 心情日记｜习惯打卡｜自我关怀"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791102770817,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6815097396,
+      "name": {
+        "cn": "CroMusic"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791102770817,
+      "_discountType": "app"
+    },
+    {
+      "id": 6777969625,
+      "name": {
+        "cn": "钉记"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791102770817,
+      "_discountType": "app"
+    },
+    {
+      "id": 6766778465,
+      "name": {
+        "cn": "iFile"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791102770817,
+      "_discountType": "app"
+    },
+    {
       "id": 1089994995,
       "name": {
         "cn": "Pilze 123"
