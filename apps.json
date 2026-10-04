@@ -9,7 +9,106 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1791044896133,
+      "_externalSourceFirstSeen": 1791064529873,
+      "_discountType": "app"
+    },
+    {
+      "id": 6815524272,
+      "name": {
+        "cn": "一册"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791064521610,
+      "_discountType": "app"
+    },
+    {
+      "id": 6806607580,
+      "name": {
+        "cn": "DK百科学"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791064525693,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812852139,
+      "name": {
+        "cn": "Homem"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791064525763,
+      "_discountType": "app"
+    },
+    {
+      "id": 6504712080,
+      "name": {
+        "cn": "Sky Gauge"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791064527788,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812871732,
+      "name": {
+        "cn": "Sound Weave: Botanica"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791064527811,
+      "_discountType": "app"
+    },
+    {
+      "id": 6741509788,
+      "name": {
+        "cn": "Lowfi Dojo Automaton AUv3"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791064527811,
+      "_discountType": "app"
+    },
+    {
+      "id": 6753753566,
+      "name": {
+        "cn": "Cat Meow Mood Translator"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791064529873,
+      "_discountType": "app"
+    },
+    {
+      "id": 6782601663,
+      "name": {
+        "cn": "瑜伽爱好者-你的随身瑜伽伴侣"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791064529875,
+      "_discountType": "app"
+    },
+    {
+      "id": 6811352685,
+      "name": {
+        "cn": "k线跳动"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791064531954,
       "_discountType": "app"
     },
     {
@@ -20,7 +119,29 @@
       "addType": "auto",
       "addSource": "paid-top",
       "_shouldBePaid": true,
-      "_externalSourceFirstSeen": 1791044899684,
+      "_externalSourceFirstSeen": 1791064531927,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756198981,
+      "name": {
+        "cn": "Pocket Bacc: Dealer + Board"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791064531927,
+      "_discountType": "app"
+    },
+    {
+      "id": 6742673242,
+      "name": {
+        "cn": "ميسر المتون - المقدمة الجزرية"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791064531927,
       "_discountType": "app"
     },
     {
@@ -74656,8 +74777,8 @@
       "name": {
         "cn": "AeroFlap Split-Flap Clock AI+"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1778208249143,
