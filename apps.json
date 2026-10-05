@@ -2,6 +2,241 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 384258547,
+      "name": {
+        "cn": "Basic Math with Mathaliens for Kids"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211860091,
+      "_discountType": "app"
+    },
+    {
+      "id": 635232670,
+      "name": {
+        "cn": "My-Photos"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211851607,
+      "_discountType": "app"
+    },
+    {
+      "id": 1453181433,
+      "name": {
+        "cn": "Watch Calendar - Monthly"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211851648,
+      "_discountType": "app"
+    },
+    {
+      "id": 1477491857,
+      "name": {
+        "cn": "VX Skateboarding Camcorder"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211851607,
+      "_discountType": "app"
+    },
+    {
+      "id": 1492916292,
+      "name": {
+        "cn": "SakuraDate"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211848998,
+      "_discountType": "app"
+    },
+    {
+      "id": 1591517012,
+      "name": {
+        "cn": "Cloze Wizard"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791211925882,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6779562429,
+      "name": {
+        "cn": "What The Sun?"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211846347,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801190003,
+      "name": {
+        "cn": "Stow: Zip, Unzip & Archive"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211845916,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793882471,
+      "name": {
+        "cn": "管算通-管道计算器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211845916,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760247935,
+      "name": {
+        "cn": "ShalloWeDive"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211848972,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812654698,
+      "name": {
+        "cn": "拷贝漫画一一靠北漫画"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211851774,
+      "_discountType": "app"
+    },
+    {
+      "id": 6811375859,
+      "name": {
+        "cn": "PDF水印分发"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211851648,
+      "_discountType": "app"
+    },
+    {
+      "id": 6754704307,
+      "name": {
+        "cn": "1RM Calculator: Epley Formula"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211857381,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797442775,
+      "name": {
+        "cn": "睡眠记录-作息规律睡前仪式助眠白噪音洞察助手工具管理"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211857381,
+      "_discountType": "app"
+    },
+    {
+      "id": 6784935504,
+      "name": {
+        "cn": "物理受力分析卡专业版2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791211860091,
+      "_discountType": "app"
+    },
+    {
+      "id": 6504627859,
+      "name": {
+        "cn": "Necessary Emojis"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791211925882,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6809662354,
+      "name": {
+        "cn": "POCKLO - 立体照片手帐"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791211925882,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6802260520,
+      "name": {
+        "cn": "Cambler"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791211925882,
+      "_discountType": "app"
+    },
+    {
+      "id": 6805060074,
+      "name": {
+        "cn": "司候 · 倒计时与纪念日"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791211925882,
+      "_discountType": "app"
+    },
+    {
+      "id": 6738364976,
+      "name": {
+        "cn": "Whois Master"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791211925882,
+      "_discountType": "app"
+    },
+    {
+      "id": 6753310758,
+      "name": {
+        "cn": "Nomo Widgets"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791211925882,
+      "_discountType": "app"
+    },
+    {
       "id": 575092868,
       "name": {
         "cn": "National Gallery of Art HD"
