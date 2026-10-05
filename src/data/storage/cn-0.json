@@ -12872,8 +12872,8 @@
     "description": "FutaView is a Futaba Channel browser. You can browse Futaba-Channel, the most famous imageboard in Japan. This app also helps you to post a message or create a thread. You can store and manage images in this app.",
     "fullDescription": "FutaView is a Futaba Channel browser. You can browse Futaba-Channel, the most famous imageboard in Japan. This app also helps you to post a message or create a thread. You can store and manage images in this app.",
     "summaryDescription": "FutaView is a Futaba Channel browser. You can browse Futaba-Channel, the most famous imageboard in Japan. This app also helps you to post a message or create a thread. You can store and manage images in this app.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/94/58/6d94582f-662c-0a61-2a67-6918aa1b86c5/AppIcon-iphone-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/94/58/6d94582f-662c-0a61-2a67-6918aa1b86c5/AppIcon-iphone-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/53/3e/44533ed1-27f1-9fce-b4a9-1b4107ffaaff/AppIcon-iphone-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/53/3e/44533ed1-27f1-9fce-b4a9-1b4107ffaaff/AppIcon-iphone-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.jpg",
     "sellerName": "SHUMPEI AKAI",
     "artistName": "flexfrank.net",
     "screenshotUrls": [
@@ -98178,6 +98178,25 @@
     "history": [
       [
         {
+          "timestamp": 1791155794081,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "8-Bit Sound Pack": "¥15.00",
+            "Bonus Sound Pack": "¥0.00",
+            "Sci-Fi Sound Pack": "¥22.00",
+            "Clear Pro Annual": "¥90.00",
+            "Gulkave": "¥0.00",
+            "Night Owl Classic": "¥0.00",
+            "Pocket Monk": "¥0.00",
+            "The Heist Classic": "¥0.00",
+            "Cormorant Garamond": "¥0.00",
+            "Ultraviolet Classic": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791102770922,
           "price": 0,
           "formattedPrice": "免费",
@@ -123102,17 +123121,35 @@
     "_externalSourceFirstSeen": 1773477205328
   },
   "560119160": {
-    "name": "PDF417 Pro: 扫描与生成",
-    "trackName": "PDF417 Pro: 扫描与生成",
+    "name": "ID与条码扫描器 Pro",
+    "trackName": "ID与条码扫描器 Pro",
     "maxPriceInfo": {
       "price": 38,
-      "formattedPrice": "¥38.00"
+      "formattedPrice": "¥38.00",
+      "Monthly Plan": "¥38.00",
+      "Yearly Plan": "¥328.00",
+      "Full PDF417 Pro": "¥1,298.00"
     },
     "minPriceInfo": {
       "price": 38,
-      "formattedPrice": "¥38.00"
+      "formattedPrice": "¥38.00",
+      "Monthly Plan": "¥38.00",
+      "Yearly Plan": "¥328.00",
+      "Full PDF417 Pro": "¥1,298.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791155794081,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Monthly Plan": "¥38.00",
+            "Yearly Plan": "¥328.00",
+            "Full PDF417 Pro": "¥1,298.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775918169880,
@@ -123122,12 +123159,12 @@
         }
       ]
     ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/pdf417-pro-%E6%89%AB%E6%8F%8F%E4%B8%8E%E7%94%9F%E6%88%90/id560119160?uo=4",
-    "description": "PDF417 Pro 是 iOS 和 iPadOS 上最全面的 PDF417 条形码解决方案。无论您需要生成专业条形码、扫描文档还是管理条形码数据，PDF417 Pro 都能在一款强大的应用中为您提供所需的全部工具。 主要功能：** 生成条形码** 即时创建高质量 PDF417 条形码，支持自定义纠错级别、尺寸选项和高级格式控制。 扫描与解码** 使用相机扫描文档、证件和包裹上的 PDF417 条形码。闪电般的识别速度，支持批量扫描。 AAMVA 解码器** 解码使用 AAMVA 标准的驾驶证和身份证。即时提取个人信息、驾照详情和验证数据。 检查与分析** 深度分析条形码结构、元数据和内容。查看行数、列数、纠错级别和详细技术规格。 条形码比较** 并排比较两个条形码。查看视觉差异、内容变化和元数据更改，并显示匹配百分比。 随处导出** 支持多种格式导出条形码：PNG、JPG、PDF 和 SVG。保存到相册、通过 AirDrop 分享或集成到您的工作流程。 批量处理** 一次生成或处理多个条形码。非常适合库存管理、文档处理和批量操作。 专业打印** 使用可自定义布局打印条形码。支持多份打印、不同尺寸，为标签和文档提供专业品质输出。 模板与配置文件** 将常用条形码配置保存为模板。为不同使用场景创建配置文件，即时切换。 验证与计算器** 内置校验和计算器和条形码验证器，确保您的条形码符合行业标准和规范。 历史记录与收藏** 自动记录所有生成和扫描的条形码历史。将重要条形码标记为收藏，快速访问。 重新生成与修改** 使用新内容或设置编辑和重新生成现有条形码。无需从头开始即可完美更新条形码。 专业工具：** 纠错优化 自定义尺寸和规格 元数据嵌入 可视化叠加比较 内容差异分析 多种文件格式导出 高分辨率输出 批量操作 模板管理 配置文件自定义 适用场景：** 商业与企业 库存管理 文档处理 身份验证 安全应用 物流与运输 医疗记录 活动管理 质量控制 教育用途 PDF417 Pro 将专业级功能与直观界面完美结合。无论您是企业用户、开发者，还是仅需要可靠的条形码工具，PDF417 Pro 都能满足您的需求。",
-    "fullDescription": "PDF417 Pro 是 iOS 和 iPadOS 上最全面的 PDF417 条形码解决方案。无论您需要生成专业条形码、扫描文档还是管理条形码数据，PDF417 Pro 都能在一款强大的应用中为您提供所需的全部工具。 主要功能：** 生成条形码** 即时创建高质量 PDF417 条形码，支持自定义纠错级别、尺寸选项和高级格式控制。 扫描与解码** 使用相机扫描文档、证件和包裹上的 PDF417 条形码。闪电般的识别速度，支持批量扫描。 AAMVA 解码器** 解码使用 AAMVA 标准的驾驶证和身份证。即时提取个人信息、驾照详情和验证数据。 检查与分析** 深度分析条形码结构、元数据和内容。查看行数、列数、纠错级别和详细技术规格。 条形码比较** 并排比较两个条形码。查看视觉差异、内容变化和元数据更改，并显示匹配百分比。 随处导出** 支持多种格式导出条形码：PNG、JPG、PDF 和 SVG。保存到相册、通过 AirDrop 分享或集成到您的工作流程。 批量处理** 一次生成或处理多个条形码。非常适合库存管理、文档处理和批量操作。 专业打印** 使用可自定义布局打印条形码。支持多份打印、不同尺寸，为标签和文档提供专业品质输出。 模板与配置文件** 将常用条形码配置保存为模板。为不同使用场景创建配置文件，即时切换。 验证与计算器** 内置校验和计算器和条形码验证器，确保您的条形码符合行业标准和规范。 历史记录与收藏** 自动记录所有生成和扫描的条形码历史。将重要条形码标记为收藏，快速访问。 重新生成与修改** 使用新内容或设置编辑和重新生成现有条形码。无需从头开始即可完美更新条形码。 专业工具：** 纠错优化 自定义尺寸和规格 元数据嵌入 可视化叠加比较 内容差异分析 多种文件格式导出 高分辨率输出 批量操作 模板管理 配置文件自定义 适用场景：** 商业与企业 库存管理 文档处理 身份验证 安全应用 物流与运输 医疗记录 活动管理 质量控制 教育用途 PDF417 Pro 将专业级功能与直观界面完美结合。无论您是企业用户、开发者，还是仅需要可靠的条形码工具，PDF417 Pro 都能满足您的需求。",
-    "summaryDescription": "PDF417 Pro 是 iOS 和 iPadOS 上最全面的 PDF417 条形码解决方案。无论您需要生成专业条形码、扫描文档还是管理条形码数据，PDF417 Pro 都能在一款强大的应用中为您提供所需的全部工具。 主要功能：** 生成条形码** 即时创建高质量 PDF417 条形码，支持自定义纠错级别、尺寸选项和高级格式控制。 扫描与解码** 使用相机扫描文档、证件和包裹上的 PDF417 条形码。闪电般的识别速度，支持批量扫描。 AAMVA 解码器** 解码使用 AAMVA 标准的驾驶证和身份证。即时提取个人信息、驾照详情和验证数据。 检查与分析** 深度分析条形码结构、元数据和内容。查看行数、列数、纠错级别和详细技术规格。 条形码比较** 并排比较两个条形码。查看视觉差异、内容变化和元数据更改，并显示匹配百分比。 随处导出** 支持多种格式导出条形码：PNG、JPG、PDF 和 SVG。保存到相册、通过 AirDrop 分享或集成到您的工作流程。 批量处理** 一次生成或处理多个条形码。非常适合库存管理、文档处理和批量操作。 专业打印** 使用可自定义布局打印条形码。支持多份打印、不同尺寸，为标签和文档提供专业品质输出。 模板与配置文件** 将常用条形码配置保存为模板。为不同使用场景创建配置文件，即时切换。 验证与计算器** 内置校验和计算器和条形码验证器，确保您的条形码符合行业标准和规范。 历史记录与收藏** 自动记录所有生成和扫描的条形码历史。将重要条形码标记为收藏，快速访问。 重新生成与修改** 使用新内容或设置编辑和重新生成现有条形码。无需从头开始即可完美更新条形码。 专业工具：** 纠错优化 自定义尺寸和规格 元数据嵌入 可视化叠加比较 内容差异分析 多种文件格式导出 高分辨率输出 批量操作 模板管理 配置文件自定义 适用场景：** 商业与企业 库存管理 文档处理 身份验证 安全应用 物流与运输 医疗记录 活动管理 质量控制 教育用途 PDF417 Pro 将专业级功能与直观界面完美结合。无论您是企业用户、开发者，还是仅需要可靠的条形码工具，PDF417 Pro 都能满足您的需求。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/bb/69/dbbb69fb-b1d6-f314-3730-e94c3b4604e2/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/bb/69/dbbb69fb-b1d6-f314-3730-e94c3b4604e2/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id%E4%B8%8E%E6%9D%A1%E7%A0%81%E6%89%AB%E6%8F%8F%E5%99%A8-pro/id560119160?uo=4",
+    "description": "扫描任何证件。一秒确认年龄。 将摄像头对准驾照或身份证背面的条码。ID Scan 会立即显示姓名、出生日期、年龄和有效期，并根据您的 18+、19+ 或 21+ 年龄规则，以醒目的绿色或红色显示验证结果。 验证完全在您的手机上进行。无需账户，无需云端，不跟踪。 全新：活动通行证和入场签到 正在举办派对、发布会或私人活动？宾客名单和入场管理，一个 App 全部搞定。 创建活动，从 6 种通行证设计中选择，可选竖版或横版，并添加您的颜色和标志 手动添加宾客，或从通讯录、CSV 或 Excel 文件导入 使用您自己的“邮件”或“信息”向每位宾客发送通行证，也可以使用 Letter 或 A4 纸打印 查看谁已确认、谁已拒绝以及谁尚未回复 入场时扫描通行证或宾客证件。ID Scan 会在名单中找到宾客，应用活动年龄规则，统计 +1 随行人员，并告诉您对方是否已经入场 每张通行证都针对您的活动进行签名验证：被修改的通行证、旧通行证或其他活动的通行证都会被拒绝 专为需要查验证件的场所打造 酒吧、夜店和餐厅：使用入场模式快速进行 21+ 验证 大麻、酒类和烟草商店：在柜台快速验证年龄 酒店和租赁：几秒钟完成宾客入住登记 活动和场馆：宾客名单、通行证和入场管理 安保和人力资源：徽章和门禁卡 支持读取 美国和加拿大驾照及身份证件 (AAMVA) 航空登机牌 (IATA) 各种条码和二维码：QR、PDF417、Data Matrix、Aztec、Code 128、Code 39、Code 93、EAN、UPC、ITF、Codabar、GS1 DataBar 等 自动识别扫描内容：商品和图书、SIM 卡、IMEI、UPS、FedEx、USPS 和邮政追踪号码、汽车 VIN，以及包含批次和有效期的 GS1 标签 将二维码直接转换为操作：拨打电话、发送邮件或短信、打开地图、添加日历事件、保存联系人或复制 Wi-Fi 密码 隐私融入设计 证件验证 100% 在您的手机上完成 无需注册，不会向我们的服务器发送任何数据 日志中的姓名会缩写，并可选择在 30 天后自动清除 使用 Face ID 锁定 App 面向开发者和高级用户 生成 PDF417、QR、Aztec 和 Code 128，可自定义尺寸和纠错级别 检查、验证、比较并重新生成条码 批量生成、模板和已保存配置 导出 PNG、JPG、PDF、SVG 或 JSON，并支持打印 使用条款：Apple 标准最终用户许可协议",
+    "fullDescription": "扫描任何证件。一秒确认年龄。 将摄像头对准驾照或身份证背面的条码。ID Scan 会立即显示姓名、出生日期、年龄和有效期，并根据您的 18+、19+ 或 21+ 年龄规则，以醒目的绿色或红色显示验证结果。 验证完全在您的手机上进行。无需账户，无需云端，不跟踪。 全新：活动通行证和入场签到 正在举办派对、发布会或私人活动？宾客名单和入场管理，一个 App 全部搞定。 创建活动，从 6 种通行证设计中选择，可选竖版或横版，并添加您的颜色和标志 手动添加宾客，或从通讯录、CSV 或 Excel 文件导入 使用您自己的“邮件”或“信息”向每位宾客发送通行证，也可以使用 Letter 或 A4 纸打印 查看谁已确认、谁已拒绝以及谁尚未回复 入场时扫描通行证或宾客证件。ID Scan 会在名单中找到宾客，应用活动年龄规则，统计 +1 随行人员，并告诉您对方是否已经入场 每张通行证都针对您的活动进行签名验证：被修改的通行证、旧通行证或其他活动的通行证都会被拒绝 专为需要查验证件的场所打造 酒吧、夜店和餐厅：使用入场模式快速进行 21+ 验证 大麻、酒类和烟草商店：在柜台快速验证年龄 酒店和租赁：几秒钟完成宾客入住登记 活动和场馆：宾客名单、通行证和入场管理 安保和人力资源：徽章和门禁卡 支持读取 美国和加拿大驾照及身份证件 (AAMVA) 航空登机牌 (IATA) 各种条码和二维码：QR、PDF417、Data Matrix、Aztec、Code 128、Code 39、Code 93、EAN、UPC、ITF、Codabar、GS1 DataBar 等 自动识别扫描内容：商品和图书、SIM 卡、IMEI、UPS、FedEx、USPS 和邮政追踪号码、汽车 VIN，以及包含批次和有效期的 GS1 标签 将二维码直接转换为操作：拨打电话、发送邮件或短信、打开地图、添加日历事件、保存联系人或复制 Wi-Fi 密码 隐私融入设计 证件验证 100% 在您的手机上完成 无需注册，不会向我们的服务器发送任何数据 日志中的姓名会缩写，并可选择在 30 天后自动清除 使用 Face ID 锁定 App 面向开发者和高级用户 生成 PDF417、QR、Aztec 和 Code 128，可自定义尺寸和纠错级别 检查、验证、比较并重新生成条码 批量生成、模板和已保存配置 导出 PNG、JPG、PDF、SVG 或 JSON，并支持打印 使用条款：Apple 标准最终用户许可协议",
+    "summaryDescription": "扫描任何证件。一秒确认年龄。 将摄像头对准驾照或身份证背面的条码。ID Scan 会立即显示姓名、出生日期、年龄和有效期，并根据您的 18+、19+ 或 21+ 年龄规则，以醒目的绿色或红色显示验证结果。 验证完全在您的手机上进行。无需账户，无需云端，不跟踪。 全新：活动通行证和入场签到 正在举办派对、发布会或私人活动？宾客名单和入场管理，一个 App 全部搞定。 创建活动，从 6 种通行证设计中选择，可选竖版或横版，并添加您的颜色和标志 手动添加宾客，或从通讯录、CSV 或 Excel 文件导入 使用您自己的“邮件”或“信息”向每位宾客发送通行证，也可以使用 Letter 或 A4 纸打印 查看谁已确认、谁已拒绝以及谁尚未回复 入场时扫描通行证或宾客证件。ID Scan 会在名单中找到宾客，应用活动年龄规则，统计 +1 随行人员，并告诉您对方是否已经入场 每张通行证都针对您的活动进行签名验证：被修改的通行证、旧通行证或其他活动的通行证都会被拒绝 专为需要查验证件的场所打造 酒吧、夜店和餐厅：使用入场模式快速进行 21+ 验证 大麻、酒类和烟草商店：在柜台快速验证年龄 酒店和租赁：几秒钟完成宾客入住登记 活动和场馆：宾客名单、通行证和入场管理 安保和人力资源：徽章和门禁卡 支持读取 美国和加拿大驾照及身份证件 (AAMVA) 航空登机牌 (IATA) 各种条码和二维码：QR、PDF417、Data Matrix、Aztec、Code 128、Code 39、Code 93、EAN、UPC、ITF、Codabar、GS1 DataBar 等 自动识别扫描内容：商品和图书、SIM 卡、IMEI、UPS、FedEx、USPS 和邮政追踪号码、汽车 VIN，以及包含批次和有效期的 GS1 标签 将二维码直接转换为操作：拨打电话、发送邮件或短信、打开地图、添加日历事件、保存联系人或复制 Wi-Fi 密码 隐私融入设计 证件验证 100% 在您的手机上完成 无需注册，不会向我们的服务器发送任何数据 日志中的姓名会缩写，并可选择在 30 天后自动清除 使用 Face ID 锁定 App 面向开发者和高级用户 生成 PDF417、QR、Aztec 和 Code 128，可自定义尺寸和纠错级别 检查、验证、比较并重新生成条码 批量生成、模板和已保存配置 导出 PNG、JPG、PDF、SVG 或 JSON，并支持打印 使用条款：Apple 标准最终用户许可协议",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/4c/ec/e04cec8a-af6c-9a50-54e9-8b6b86b99aa3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/4c/ec/e04cec8a-af6c-9a50-54e9-8b6b86b99aa3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "iCubemedia Inc.",
     "artistName": "iCubemedia Inc.",
     "screenshotUrls": [
@@ -134490,8 +134527,8 @@
     "description": "黄大仙灵签 AI** 将传统黄大仙灵签智慧，结合新一代 AI，陪伴你在人生不同阶段，静下来思考、整理心情，并作出更清晰的决定。 无论你正面对事业、感情、家庭、健康，还是人生的重要抉择，都可以透过求签、解签及 AI 对话，从不同角度重新理解自己的处境。 这不只是一本灵签书，更是一位能陪伴你反思、鼓励你采取下一步行动的 AI 助手。 求签．解签．反思．前行 传统黄大仙灵签求签 按签号快速查阅灵签 重力摇签及随机求签 完整灵签原文及典故 依照不同事项深入解签，包括： －流年 －事业 －财富 －自身 －家庭 －姻缘 －移居 －名誉 －健康 －友谊 黄大仙灵签 AI AI 不会替你决定人生。 它会陪伴你整理思绪、分析不同角度，协助你更了解自己，并提供具启发性的建议及可实践的小步骤，让每一次解签都成为一次有意义的自我反思。 稳私通行证 有些心事，只适合留给自己。 启用「稳私通行证」后，AI 可于你的装置上运行，让你更安心地与 AI 对话，享受更私密、更安心的使用体验。 因为真正重要的对话，值得被好好守护。 更多功能 AI 解签与智慧对话 每日运程 对话回顾 分享灵签给亲友 支援繁体中文及简体中文 持续更新内容及 AI 功能 人生没有标准答案。 愿每一支灵签，都能陪伴你找到属于自己的方向。 本 App 提供以下自动续期订阅服务： 稳私通行证30：每月 HK$28 稳私通行证365：每年 HK$168 购买确认后，费用将从您的 Apple ID 帐户扣取。订阅将于到期时自动续期，除非您在目前订阅期结束前至少 24 小时于 App Store 帐户设定中取消续订。您可在购买后于帐户设定中管理或取消订阅。 使用条款（EULA）： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私权政策： http://sukfunman.com/privacy.html",
     "fullDescription": "黄大仙灵签 AI** 将传统黄大仙灵签智慧，结合新一代 AI，陪伴你在人生不同阶段，静下来思考、整理心情，并作出更清晰的决定。 无论你正面对事业、感情、家庭、健康，还是人生的重要抉择，都可以透过求签、解签及 AI 对话，从不同角度重新理解自己的处境。 这不只是一本灵签书，更是一位能陪伴你反思、鼓励你采取下一步行动的 AI 助手。 求签．解签．反思．前行 传统黄大仙灵签求签 按签号快速查阅灵签 重力摇签及随机求签 完整灵签原文及典故 依照不同事项深入解签，包括： －流年 －事业 －财富 －自身 －家庭 －姻缘 －移居 －名誉 －健康 －友谊 黄大仙灵签 AI AI 不会替你决定人生。 它会陪伴你整理思绪、分析不同角度，协助你更了解自己，并提供具启发性的建议及可实践的小步骤，让每一次解签都成为一次有意义的自我反思。 稳私通行证 有些心事，只适合留给自己。 启用「稳私通行证」后，AI 可于你的装置上运行，让你更安心地与 AI 对话，享受更私密、更安心的使用体验。 因为真正重要的对话，值得被好好守护。 更多功能 AI 解签与智慧对话 每日运程 对话回顾 分享灵签给亲友 支援繁体中文及简体中文 持续更新内容及 AI 功能 人生没有标准答案。 愿每一支灵签，都能陪伴你找到属于自己的方向。 本 App 提供以下自动续期订阅服务： 稳私通行证30：每月 HK$28 稳私通行证365：每年 HK$168 购买确认后，费用将从您的 Apple ID 帐户扣取。订阅将于到期时自动续期，除非您在目前订阅期结束前至少 24 小时于 App Store 帐户设定中取消续订。您可在购买后于帐户设定中管理或取消订阅。 使用条款（EULA）： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私权政策： http://sukfunman.com/privacy.html",
     "summaryDescription": "黄大仙灵签 AI** 将传统黄大仙灵签智慧，结合新一代 AI，陪伴你在人生不同阶段，静下来思考、整理心情，并作出更清晰的决定。 无论你正面对事业、感情、家庭、健康，还是人生的重要抉择，都可以透过求签、解签及 AI 对话，从不同角度重新理解自己的处境。 这不只是一本灵签书，更是一位能陪伴你反思、鼓励你采取下一步行动的 AI 助手。 求签．解签．反思．前行 传统黄大仙灵签求签 按签号快速查阅灵签 重力摇签及随机求签 完整灵签原文及典故 依照不同事项深入解签，包括： －流年 －事业 －财富 －自身 －家庭 －姻缘 －移居 －名誉 －健康 －友谊 黄大仙灵签 AI AI 不会替你决定人生。 它会陪伴你整理思绪、分析不同角度，协助你更了解自己，并提供具启发性的建议及可实践的小步骤，让每一次解签都成为一次有意义的自我反思。 稳私通行证 有些心事，只适合留给自己。 启用「稳私通行证」后，AI 可于你的装置上运行，让你更安心地与 AI 对话，享受更私密、更安心的使用体验。 因为真正重要的对话，值得被好好守护。 更多功能 AI 解签与智慧对话 每日运程 对话回顾 分享灵签给亲友 支援繁体中文及简体中文 持续更新内容及 AI 功能 人生没有标准答案。 愿每一支灵签，都能陪伴你找到属于自己的方向。 本 App 提供以下自动续期订阅服务： 稳私通行证30：每月 HK$28 稳私通行证365：每年 HK$168 购买确认后，费用将从您的 Apple ID 帐户扣取。订阅将于到期时自动续期，除非您在目前订阅期结束前至少 24 小时于 App Store 帐户设定中取消续订。您可在购买后于帐户设定中管理或取消订阅。 使用条款（EULA）： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 隐私权政策： http://sukfunman.com/privacy.html",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1d/a3/f61da335-ce12-166e-947a-c92c1b6ea3e8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1d/a3/f61da335-ce12-166e-947a-c92c1b6ea3e8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/9a/d2/6a9ad2cd-c4d1-38fb-1c13-e3086fb5f9e9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/9a/d2/6a9ad2cd-c4d1-38fb-1c13-e3086fb5f9e9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
     "sellerName": "Suk fun Man",
     "artistName": "Suk fun Man",
     "screenshotUrls": [
@@ -154021,8 +154058,8 @@
     "description": "初代夜间浏览器，自 2012 年起。 Top 5 Best Web Browsers for iPhone* /iMore.com Night Web Browser by Alex 是唯一一款能把整个屏幕调暗的浏览器——网页、工具栏，以及 YouTube、Instagram 等网站的全屏视频，都能暗到远低于 iPhone 自带亮度滑块所允许的程度。 请注意：只有浏览器内的内容可以调暗。iOS 不允许任何 App 调暗系统的其余部分。 在黑暗中看 iPhone 或 iPad，是不是觉得屏幕太亮？ Night Web Browser 让你在床上浏览网页，既不打扰身旁的人，也不让眼睛疲劳。轻点太阳按钮，就能调节变暗程度和色温，整个屏幕一起变暗。 功能 变暗强度远低于系统最低亮度 更暖的色温，减少蓝光 可调暗全屏视频和工具栏——打开设置后，时钟也一起调暗 缓缓变暗、缓缓恢复，不会突然切换 可在你设定的时间自动开启，也可跟随你所在位置的日落到日出 也可通过快捷指令、Siri 或长按 App 设置，还能随“睡眠”专注模式开启 浏览器本身 翻看打开的标签页，或让它们排成一行或一个网格——在后两种里还能拖到你想要的顺序 书签可放入文件夹，也能从 Safari、Chrome、Firefox 或 Edge 导入 页面缩放、页面内查找，以及请求桌面网站 下载文件，并在应用内打开或分享 可搜索的浏览记录",
     "fullDescription": "初代夜间浏览器，自 2012 年起。 Top 5 Best Web Browsers for iPhone* /iMore.com Night Web Browser by Alex 是唯一一款能把整个屏幕调暗的浏览器——网页、工具栏，以及 YouTube、Instagram 等网站的全屏视频，都能暗到远低于 iPhone 自带亮度滑块所允许的程度。 请注意：只有浏览器内的内容可以调暗。iOS 不允许任何 App 调暗系统的其余部分。 在黑暗中看 iPhone 或 iPad，是不是觉得屏幕太亮？ Night Web Browser 让你在床上浏览网页，既不打扰身旁的人，也不让眼睛疲劳。轻点太阳按钮，就能调节变暗程度和色温，整个屏幕一起变暗。 功能 变暗强度远低于系统最低亮度 更暖的色温，减少蓝光 可调暗全屏视频和工具栏——打开设置后，时钟也一起调暗 缓缓变暗、缓缓恢复，不会突然切换 可在你设定的时间自动开启，也可跟随你所在位置的日落到日出 也可通过快捷指令、Siri 或长按 App 设置，还能随“睡眠”专注模式开启 浏览器本身 翻看打开的标签页，或让它们排成一行或一个网格——在后两种里还能拖到你想要的顺序 书签可放入文件夹，也能从 Safari、Chrome、Firefox 或 Edge 导入 页面缩放、页面内查找，以及请求桌面网站 下载文件，并在应用内打开或分享 可搜索的浏览记录",
     "summaryDescription": "初代夜间浏览器，自 2012 年起。 Top 5 Best Web Browsers for iPhone* /iMore.com Night Web Browser by Alex 是唯一一款能把整个屏幕调暗的浏览器——网页、工具栏，以及 YouTube、Instagram 等网站的全屏视频，都能暗到远低于 iPhone 自带亮度滑块所允许的程度。 请注意：只有浏览器内的内容可以调暗。iOS 不允许任何 App 调暗系统的其余部分。 在黑暗中看 iPhone 或 iPad，是不是觉得屏幕太亮？ Night Web Browser 让你在床上浏览网页，既不打扰身旁的人，也不让眼睛疲劳。轻点太阳按钮，就能调节变暗程度和色温，整个屏幕一起变暗。 功能 变暗强度远低于系统最低亮度 更暖的色温，减少蓝光 可调暗全屏视频和工具栏——打开设置后，时钟也一起调暗 缓缓变暗、缓缓恢复，不会突然切换 可在你设定的时间自动开启，也可跟随你所在位置的日落到日出 也可通过快捷指令、Siri 或长按 App 设置，还能随“睡眠”专注模式开启 浏览器本身 翻看打开的标签页，或让它们排成一行或一个网格——在后两种里还能拖到你想要的顺序 书签可放入文件夹，也能从 Safari、Chrome、Firefox 或 Edge 导入 页面缩放、页面内查找，以及请求桌面网站 下载文件，并在应用内打开或分享 可搜索的浏览记录",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/e0/3a/24e03af5-398a-9d8b-8cc0-1e970f08eb79/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/e0/3a/24e03af5-398a-9d8b-8cc0-1e970f08eb79/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/58/2e/02582ed7-ee8f-8fd7-3a2c-71b6df556bfd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/58/2e/02582ed7-ee8f-8fd7-3a2c-71b6df556bfd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Apps by Alex AB",
     "artistName": "Apps by Alex AB",
     "screenshotUrls": [
@@ -176706,8 +176743,8 @@
     "description": "More Powerful Than Ever, Quickly Turn Your Ideas Into Music KORG Gadget 3 - A Complete, Seamlessly Integrated Music Production Ecosystem KORG Gadget has received numerous awards from around the world: Apple: \"App Store Best of 2014\" in Japan 1 in the Top Paid Music iPad App category* TECH AWARD 2015 \"Best Music Production App\" MusicTech's \"Gear of the Year: Best App\" Gold Award “Musikmesse international press award 2016” Mobile Music App USA, UK, Japan, Germany, France, Italy and much more! KORG Gadget is the ideal all-in-one music production software and plug-in suite featuring over 40* small synthesizers/drum machines (“gadgets”), which can be freely combined to create music driven by a powerful yet intuitive user interface. The range of products includes the award-winning iOS version, a Mac version that includes all functions and plug-ins, and a plug-in version that can be used with your favorite DAW on Mac/PC. Now in its third generation, more powerful than ever, the workflow is now more intuitive and easier to use than ever before and there are plenty of new features and new gadgets. KORG Gadget 3 offers an expanded variety of even more features to quickly turn your ideas into music, including two new gadgets, five insert effects (IFX), a new genre select system, and AUv3 support. In addition, the user interface has been brushed up to make the Gadget Browser, IFX page, and Play page even more intuitive. KORG Gadget 3 is the perfect tool to quickly turn your ideas into music. What's New in KORG Gadget 3 Gadget Instrument Collection with a total over 6,000 sound programs New gadgets: Santa Ana* (Guitar) and Sydney* (Sampler) Improved user interface, making the workflow more intuitive than ever A genre select function that allows you to create songs from your favorite patterns 5 new IFX including an 8-Band EQ, Transient Shaper, Stereo Image, Auto Pumper, Pitch Shifter The Play page: easy arpeggiator use and chord entry A whole new sound browser that lets you select gadgets by the timbre you want AUv3 support on iOS, allowing gadgets to be used in other music apps like Garageband, Logic Pro A huge collection of over 40* gadget instruments Overwhelming sound. Immersive, intuitive and powerful user interface. Unprecedented and innovative quality. KORG Gadget 3 is a collection of over 40* gadget instruments, including compact synthesizers, drum machines, samplers, and audio and MIDI utilities. It has sophisticated parameters that make it easy for you to get to the sound they want, so you can create your own sounds instantly. The new Sound Browser allows you to get to your favorite sounds in the quickest time possible. It is perfectly suited for dance music as well as rock, pop, jazz, and other music sounds and genres. Get your songwriting ideas with Genre Select The new \"Genre Select\" feature allows you to select your favorite genre and sound, and then start songwriting by freely combining patterns. 5 x 5 pads are all assigned with phrases created by gadgets, so you can start songwriting by freely combining your favorite patterns. You can start creating a song from a project in which each track's gadgets and scenes have been developed. Choose from the standard genre packs and enjoy a different approach to music production. Tons of sounds readily available with the New Browser To make it easier than ever to find the desired gadget instrument, we have revised the Gadget Browser and added various functions. New features include displaying gadgets by instrument category, a Favourites function that allows you to group your favorite gadgets, and a search function that allows you to freely search for sounds in each gadget. Using the program search function, it is now possible to quickly and easily preview and search for the sound you wanted from a vast array of sounds. Some gadgets are available as in-app purchases (IAP) or by purchasing other KORG apps. More info at korg.com",
     "fullDescription": "More Powerful Than Ever, Quickly Turn Your Ideas Into Music KORG Gadget 3 - A Complete, Seamlessly Integrated Music Production Ecosystem KORG Gadget has received numerous awards from around the world: Apple: \"App Store Best of 2014\" in Japan 1 in the Top Paid Music iPad App category* TECH AWARD 2015 \"Best Music Production App\" MusicTech's \"Gear of the Year: Best App\" Gold Award “Musikmesse international press award 2016” Mobile Music App USA, UK, Japan, Germany, France, Italy and much more! KORG Gadget is the ideal all-in-one music production software and plug-in suite featuring over 40* small synthesizers/drum machines (“gadgets”), which can be freely combined to create music driven by a powerful yet intuitive user interface. The range of products includes the award-winning iOS version, a Mac version that includes all functions and plug-ins, and a plug-in version that can be used with your favorite DAW on Mac/PC. Now in its third generation, more powerful than ever, the workflow is now more intuitive and easier to use than ever before and there are plenty of new features and new gadgets. KORG Gadget 3 offers an expanded variety of even more features to quickly turn your ideas into music, including two new gadgets, five insert effects (IFX), a new genre select system, and AUv3 support. In addition, the user interface has been brushed up to make the Gadget Browser, IFX page, and Play page even more intuitive. KORG Gadget 3 is the perfect tool to quickly turn your ideas into music. What's New in KORG Gadget 3 Gadget Instrument Collection with a total over 6,000 sound programs New gadgets: Santa Ana* (Guitar) and Sydney* (Sampler) Improved user interface, making the workflow more intuitive than ever A genre select function that allows you to create songs from your favorite patterns 5 new IFX including an 8-Band EQ, Transient Shaper, Stereo Image, Auto Pumper, Pitch Shifter The Play page: easy arpeggiator use and chord entry A whole new sound browser that lets you select gadgets by the timbre you want AUv3 support on iOS, allowing gadgets to be used in other music apps like Garageband, Logic Pro A huge collection of over 40* gadget instruments Overwhelming sound. Immersive, intuitive and powerful user interface. Unprecedented and innovative quality. KORG Gadget 3 is a collection of over 40* gadget instruments, including compact synthesizers, drum machines, samplers, and audio and MIDI utilities. It has sophisticated parameters that make it easy for you to get to the sound they want, so you can create your own sounds instantly. The new Sound Browser allows you to get to your favorite sounds in the quickest time possible. It is perfectly suited for dance music as well as rock, pop, jazz, and other music sounds and genres. Get your songwriting ideas with Genre Select The new \"Genre Select\" feature allows you to select your favorite genre and sound, and then start songwriting by freely combining patterns. 5 x 5 pads are all assigned with phrases created by gadgets, so you can start songwriting by freely combining your favorite patterns. You can start creating a song from a project in which each track's gadgets and scenes have been developed. Choose from the standard genre packs and enjoy a different approach to music production. Tons of sounds readily available with the New Browser To make it easier than ever to find the desired gadget instrument, we have revised the Gadget Browser and added various functions. New features include displaying gadgets by instrument category, a Favourites function that allows you to group your favorite gadgets, and a search function that allows you to freely search for sounds in each gadget. Using the program search function, it is now possible to quickly and easily preview and search for the sound you wanted from a vast array of sounds. Some gadgets are available as in-app purchases (IAP) or by purchasing other KORG apps. More info at korg.com",
     "summaryDescription": "More Powerful Than Ever, Quickly Turn Your Ideas Into Music KORG Gadget 3 - A Complete, Seamlessly Integrated Music Production Ecosystem KORG Gadget has received numerous awards from around the world: Apple: \"App Store Best of 2014\" in Japan 1 in the Top Paid Music iPad App category* TECH AWARD 2015 \"Best Music Production App\" MusicTech's \"Gear of the Year: Best App\" Gold Award “Musikmesse international press award 2016” Mobile Music App USA, UK, Japan, Germany, France, Italy and much more! KORG Gadget is the ideal all-in-one music production software and plug-in suite featuring over 40* small synthesizers/drum machines (“gadgets”), which can be freely combined to create music driven by a powerful yet intuitive user interface. The range of products includes the award-winning iOS version, a Mac version that includes all functions and plug-ins, and a plug-in version that can be used with your favorite DAW on Mac/PC. Now in its third generation, more powerful than ever, the workflow is now more intuitive and easier to use than ever before and there are plenty of new features and new gadgets. KORG Gadget 3 offers an expanded variety of even more features to quickly turn your ideas into music, including two new gadgets, five insert effects (IFX), a new genre select system, and AUv3 support. In addition, the user interface has been brushed up to make the Gadget Browser, IFX page, and Play page even more intuitive. KORG Gadget 3 is the perfect tool to quickly turn your ideas into music. What's New in KORG Gadget 3 Gadget Instrument Collection with a total over 6,000 sound programs New gadgets: Santa Ana* (Guitar) and Sydney* (Sampler) Improved user interface, making the workflow more intuitive than ever A genre select function that allows you to create songs from your favorite patterns 5 new IFX including an 8-Band EQ, Transient Shaper, Stereo Image, Auto Pumper, Pitch Shifter The Play page: easy arpeggiator use and chord entry A whole new sound browser that lets you select gadgets by the timbre you want AUv3 support on iOS, allowing gadgets to be used in other music apps like Garageband, Logic Pro A huge collection of over 40* gadget instruments Overwhelming sound. Immersive, intuitive and powerful user interface. Unprecedented and innovative quality. KORG Gadget 3 is a collection of over 40* gadget instruments, including compact synthesizers, drum machines, samplers, and audio and MIDI utilities. It has sophisticated parameters that make it easy for you to get to the sound they want, so you can create your own sounds instantly. The new Sound Browser allows you to get to your favorite sounds in the quickest time possible. It is perfectly suited for dance music as well as rock, pop, jazz, and other music sounds and genres. Get your songwriting ideas with Genre Select The new \"Genre Select\" feature allows you to select your favorite genre and sound, and then start songwriting by freely combining patterns. 5 x 5 pads are all assigned with phrases created by gadgets, so you can start songwriting by freely combining your favorite patterns. You can start creating a song from a project in which each track's gadgets and scenes have been developed. Choose from the standard genre packs and enjoy a different approach to music production. Tons of sounds readily available with the New Browser To make it easier than ever to find the desired gadget instrument, we have revised the Gadget Browser and added various functions. New features include displaying gadgets by instrument category, a Favourites function that allows you to group your favorite gadgets, and a search function that allows you to freely search for sounds in each gadget. Using the program search function, it is now possible to quickly and easily preview and search for the sound you wanted from a vast array of sounds. Some gadgets are available as in-app purchases (IAP) or by purchasing other KORG apps. More info at korg.com",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/47/15/36471576-4a5b-a1d0-8495-9203619ea558/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/47/15/36471576-4a5b-a1d0-8495-9203619ea558/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9d/73/349d7360-731d-dcbb-7fdc-25dea29124a5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9d/73/349d7360-731d-dcbb-7fdc-25dea29124a5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "KORG INC.",
     "artistName": "KORG INC.",
     "screenshotUrls": [
@@ -177847,6 +177884,17 @@
     "history": [
       [
         {
+          "timestamp": 1791155794081,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "设置": "¥0.00",
+            "音叉": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790969096798,
           "price": 148,
           "formattedPrice": "¥148.00",
@@ -178616,6 +178664,17 @@
       "设置": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791155794081,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "音叉": "¥0.00",
+            "设置": "¥0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790969096798,
