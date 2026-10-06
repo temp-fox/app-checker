@@ -2,6 +2,331 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 408455612,
+      "name": {
+        "cn": "DVD Profiler"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320599778,
+      "_discountType": "app"
+    },
+    {
+      "id": 627038315,
+      "name": {
+        "cn": "Geo Tracker: GPS Tracking"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320602671,
+      "_discountType": "app"
+    },
+    {
+      "id": 736168905,
+      "name": {
+        "cn": "DBFView"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1791320673178,
+      "_discountType": "app"
+    },
+    {
+      "id": 873924668,
+      "name": {
+        "cn": "StopWatch For Swimming"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320597067,
+      "_discountType": "app"
+    },
+    {
+      "id": 1155819551,
+      "name": {
+        "cn": "德语日常用语-学习德语口语基本会话句型"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320608058,
+      "_discountType": "app"
+    },
+    {
+      "id": 1309638846,
+      "name": {
+        "cn": "Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320599920,
+      "_discountType": "app"
+    },
+    {
+      "id": 1352257193,
+      "name": {
+        "cn": "ZoomPro - 高达16倍快速缩放放大镜"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320599920,
+      "_discountType": "app"
+    },
+    {
+      "id": 1406898032,
+      "name": {
+        "cn": "CalendarTV"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791320673178,
+      "_discountType": "app"
+    },
+    {
+      "id": 1562399023,
+      "name": {
+        "cn": "The ROLEX Enthusiast"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320605338,
+      "_discountType": "app"
+    },
+    {
+      "id": 1631660554,
+      "name": {
+        "cn": "锻炼间隔计时器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791320673178,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759845252,
+      "name": {
+        "cn": "自律达人 - 控烟、控酒、控欲健康习惯养成助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320594263,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795559829,
+      "name": {
+        "cn": "Piping Worker"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320594263,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796967721,
+      "name": {
+        "cn": "鲸游旅记"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320597200,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768932450,
+      "name": {
+        "cn": "winnow"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320599778,
+      "_discountType": "app"
+    },
+    {
+      "id": 6470132467,
+      "name": {
+        "cn": "Clicker – Presentation Remote"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320599778,
+      "_discountType": "app"
+    },
+    {
+      "id": 6791896861,
+      "name": {
+        "cn": "Hevcly: HEVC to MP4"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320599920,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796177924,
+      "name": {
+        "cn": "Song2Cello"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320602597,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759410596,
+      "name": {
+        "cn": "Guitar Tap"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320602597,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794658617,
+      "name": {
+        "cn": "空瓶记"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320605338,
+      "_discountType": "app"
+    },
+    {
+      "id": 6773636741,
+      "name": {
+        "cn": "宽心"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320605338,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793807191,
+      "name": {
+        "cn": "KET指南和练习"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320608058,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812873515,
+      "name": {
+        "cn": "Chinois facile vocabulaire"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320608058,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812612735,
+      "name": {
+        "cn": "EO 投考全攻略 EOReady"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320608058,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755234930,
+      "name": {
+        "cn": "Algo Demo Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791320608058,
+      "_discountType": "app"
+    },
+    {
+      "id": 6751784597,
+      "name": {
+        "cn": "Yarimo - Goals & Habit Planner"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791320673178,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6787874695,
+      "name": {
+        "cn": "证件照秒拍-AI抠图换底色"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791320673178,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6816675193,
+      "name": {
+        "cn": "即见 · 锁屏车票与取件码"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791320673178,
+      "_discountType": "app"
+    },
+    {
+      "id": 6794345479,
+      "name": {
+        "cn": "PDF Ultra: PDF Reader & Voice"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791320673178,
+      "_discountType": "app"
+    },
+    {
+      "id": 6572327360,
+      "name": {
+        "cn": "BirdSnap: AI Bird Identifier"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791320673178,
+      "_discountType": "app"
+    },
+    {
       "id": 453959898,
       "name": {
         "cn": "家悦助手专业版"
