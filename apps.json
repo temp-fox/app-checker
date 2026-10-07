@@ -2,6 +2,204 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 815531972,
+      "name": {
+        "cn": "Stop Motion Plus"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394156099,
+      "_discountType": "app"
+    },
+    {
+      "id": 1237470522,
+      "name": {
+        "cn": "mySolar - 我的宇宙"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394164368,
+      "_discountType": "app"
+    },
+    {
+      "id": 1536254348,
+      "name": {
+        "cn": "腦珠算全教程(高階)"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394164502,
+      "_discountType": "app"
+    },
+    {
+      "id": 1607940927,
+      "name": {
+        "cn": "Anti-Distortion Lens"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394156099,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760935730,
+      "name": {
+        "cn": "Cadrio"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394150041,
+      "_discountType": "app"
+    },
+    {
+      "id": 6818188696,
+      "name": {
+        "cn": "不忘打卡"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394150301,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804566503,
+      "name": {
+        "cn": "Orgatami"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394156208,
+      "_discountType": "app"
+    },
+    {
+      "id": 6444162098,
+      "name": {
+        "cn": "Direkto"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394158909,
+      "_discountType": "app"
+    },
+    {
+      "id": 6793625144,
+      "name": {
+        "cn": "ab Compressor | Limiter X"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394159043,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761209781,
+      "name": {
+        "cn": "Gravity Machine"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394159043,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762347738,
+      "name": {
+        "cn": "NeeDoh Collector"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394161663,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795404742,
+      "name": {
+        "cn": "Silent Bell: Mindful Taps"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394161762,
+      "_discountType": "app"
+    },
+    {
+      "id": 6743418838,
+      "name": {
+        "cn": "PhotoMorph"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394164368,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808221563,
+      "name": {
+        "cn": "PTE终结者"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394164502,
+      "_discountType": "app"
+    },
+    {
+      "id": 6745276008,
+      "name": {
+        "cn": "Vox libri"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394167271,
+      "_discountType": "app"
+    },
+    {
+      "id": 6784252840,
+      "name": {
+        "cn": "BioStat Lab"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791394167402,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757694773,
+      "name": {
+        "cn": "QuickScan：证件电子名片卡包手机扫描仪&打印图片便捷"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791394209897,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761154119,
+      "name": {
+        "cn": "PDFix：文档图片编辑手写签名扫描文件阅读转换器全能王"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791394209897,
+      "_discountType": "iap"
+    },
+    {
       "id": 384106281,
       "name": {
         "cn": "Golden Rules (for Presentations)"
@@ -22189,8 +22387,8 @@
       "name": {
         "cn": "相册小蜜蜂-高效清理相册"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1787286994364,
