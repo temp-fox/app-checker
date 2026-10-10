@@ -2,6 +2,515 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 848566943,
+      "name": {
+        "cn": "仓库进销存管理"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585826151,
+      "_discountType": "app"
+    },
+    {
+      "id": 1250816554,
+      "name": {
+        "cn": "ShopperPro - 建立你的购物清单。"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585850443,
+      "_discountType": "app"
+    },
+    {
+      "id": 1432582444,
+      "name": {
+        "cn": "旅行英会話 - Help me Travel"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585829538,
+      "_discountType": "app"
+    },
+    {
+      "id": 1545454717,
+      "name": {
+        "cn": "WristControl for HomeKit"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585837561,
+      "_discountType": "app"
+    },
+    {
+      "id": 1566733750,
+      "name": {
+        "cn": "Uploader for Zotero"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585832189,
+      "_discountType": "app"
+    },
+    {
+      "id": 1601138811,
+      "name": {
+        "cn": "国学经典120讲"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585832042,
+      "_discountType": "app"
+    },
+    {
+      "id": 1616388103,
+      "name": {
+        "cn": "RunSports Watch"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585829034,
+      "_discountType": "app"
+    },
+    {
+      "id": 1622554557,
+      "name": {
+        "cn": "正弦餘弦正切专业的"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585840188,
+      "_discountType": "app"
+    },
+    {
+      "id": 1623546709,
+      "name": {
+        "cn": "Night Vision Lens"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585832247,
+      "_discountType": "app"
+    },
+    {
+      "id": 1673740421,
+      "name": {
+        "cn": "橙子节拍器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585837561,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810100101,
+      "name": {
+        "cn": "雅波战记 英雄牌 肉鸽策略卡牌"
+      },
+      "addType": "auto",
+      "addSource": "paid-top-all",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585823397,
+      "_discountType": "app"
+    },
+    {
+      "id": 6819521030,
+      "name": {
+        "cn": "Lexirus"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585832042,
+      "_discountType": "app"
+    },
+    {
+      "id": 6817766465,
+      "name": {
+        "cn": "帝王表"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585832042,
+      "_discountType": "app"
+    },
+    {
+      "id": 6752341201,
+      "name": {
+        "cn": "Latinae"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585832042,
+      "_discountType": "app"
+    },
+    {
+      "id": 6742562911,
+      "name": {
+        "cn": "CutImage"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585832189,
+      "_discountType": "app"
+    },
+    {
+      "id": 6818778988,
+      "name": {
+        "cn": "箱里 - 搬家收纳清单"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585832189,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807839006,
+      "name": {
+        "cn": "Tomatino"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585832189,
+      "_discountType": "app"
+    },
+    {
+      "id": 6503898684,
+      "name": {
+        "cn": "AVIF images batch converter"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585832247,
+      "_discountType": "app"
+    },
+    {
+      "id": 6754571809,
+      "name": {
+        "cn": "Mapics"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585832247,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760846169,
+      "name": {
+        "cn": "Metro Jinan Map"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585834926,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788231499,
+      "name": {
+        "cn": "SoundCheck RTA"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585834913,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807870665,
+      "name": {
+        "cn": "ABDCTN"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585834913,
+      "_discountType": "app"
+    },
+    {
+      "id": 6771326948,
+      "name": {
+        "cn": "SignatureEQ"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585834913,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776464584,
+      "name": {
+        "cn": "Red Light Sleep Timer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585837561,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792157887,
+      "name": {
+        "cn": "打工牛马"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585837561,
+      "_discountType": "app"
+    },
+    {
+      "id": 6819062338,
+      "name": {
+        "cn": "Nine PM Club"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585837561,
+      "_discountType": "app"
+    },
+    {
+      "id": 6776748136,
+      "name": {
+        "cn": "洗标助手-洗护符号查询2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585837561,
+      "_discountType": "app"
+    },
+    {
+      "id": 6769285210,
+      "name": {
+        "cn": "DeskReset - 久坐了吗、工位活动、久坐活动提醒"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585837568,
+      "_discountType": "app"
+    },
+    {
+      "id": 6764839337,
+      "name": {
+        "cn": "小白学按摩"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585837568,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759205408,
+      "name": {
+        "cn": "CaffeineTrack – 改善睡眠"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585837568,
+      "_discountType": "app"
+    },
+    {
+      "id": 6754290219,
+      "name": {
+        "cn": "指尖趣盒"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585840133,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781690097,
+      "name": {
+        "cn": "斑马AI学习进度"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585840188,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755422599,
+      "name": {
+        "cn": "模拟飞行快捷键速记"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585840188,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792166858,
+      "name": {
+        "cn": "PeekMemo 锁屏背单词"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585840188,
+      "_discountType": "app"
+    },
+    {
+      "id": 6770979248,
+      "name": {
+        "cn": "Learn Vietnamese:speak&Study"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585840188,
+      "_discountType": "app"
+    },
+    {
+      "id": 6787140235,
+      "name": {
+        "cn": "eBouquin Ebook Library Manager"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585842839,
+      "_discountType": "app"
+    },
+    {
+      "id": 6813875288,
+      "name": {
+        "cn": "Duo Book Dictionary"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791585842839,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758072292,
+      "name": {
+        "cn": "今天就好"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791585891270,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6801863462,
+      "name": {
+        "cn": "回忆邮票相机-照片拼图与复古手帐，旅行日记和私人相册纪念画册"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791585891270,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6802342640,
+      "name": {
+        "cn": "PhotoSqueeze-相册满了就来压缩腾空间"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791585891270,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6772666997,
+      "name": {
+        "cn": "ServiceArchive"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791585891270,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6792460534,
+      "name": {
+        "cn": "Ebru Art ◎ 解压艺术"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791585891270,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6756195790,
+      "name": {
+        "cn": "TV Remote Control - Clicker"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791585891270,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6787640890,
+      "name": {
+        "cn": "Loyal: Card Wallet"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791585891270,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809669070,
+      "name": {
+        "cn": "CaseKeeper Records"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791585891270,
+      "_discountType": "app"
+    },
+    {
+      "id": 6752465218,
+      "name": {
+        "cn": "Contacts Exports - Excel/CSV"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791585891270,
+      "_discountType": "app"
+    },
+    {
       "id": 409707446,
       "name": {
         "cn": "Guitarism - Pocket Guitar"
@@ -1100,11 +1609,11 @@
       "name": {
         "cn": "证件照秒拍-AI抠图换底色"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1791320673178,
-      "_discountType": "iap",
+      "_discountType": "app",
       "_shouldBePaid": true
     },
     {
@@ -1512,8 +2021,8 @@
       "name": {
         "cn": "司候 · 倒计时与纪念日"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1791211925882,
