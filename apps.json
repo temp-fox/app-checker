@@ -2,6 +2,219 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1484189459,
+      "name": {
+        "cn": "剧照 - 从视频中保存照片"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101165,
+      "_discountType": "app"
+    },
+    {
+      "id": 1504532805,
+      "name": {
+        "cn": "Humanome"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791612049302,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779453136,
+      "name": {
+        "cn": "A Civil Twilight"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791612041237,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760178748,
+      "name": {
+        "cn": "加倍闹钟"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791612041042,
+      "_discountType": "app"
+    },
+    {
+      "id": 6484069424,
+      "name": {
+        "cn": "iTest."
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791612041042,
+      "_discountType": "app"
+    },
+    {
+      "id": 6742938547,
+      "name": {
+        "cn": "皮皮写"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791612041042,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761737888,
+      "name": {
+        "cn": "Macdio — Live Radio & Podcasts"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791612049302,
+      "_discountType": "app"
+    },
+    {
+      "id": 6746804163,
+      "name": {
+        "cn": "音乐转换器 - MP3转换器&从视频提取音频"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101164,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6788331801,
+      "name": {
+        "cn": "MemoMark"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101164,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6816399878,
+      "name": {
+        "cn": "Post Saver: Save Social Posts"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101164,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6815065594,
+      "name": {
+        "cn": "Attendance Tracker: Check In"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101164,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6790444860,
+      "name": {
+        "cn": "SnapDoc-文档复印拍照转PDF"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101164,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6757170588,
+      "name": {
+        "cn": "iSleepIsWell"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101164,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6793436052,
+      "name": {
+        "cn": "DuoTake:前后双摄同框相机"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101164,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6451401303,
+      "name": {
+        "cn": "菠萝英语 - 儿童单词连连看"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101164,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6811614472,
+      "name": {
+        "cn": "Puzzle Alarm Clock, Wake Me Up"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101164,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6807246521,
+      "name": {
+        "cn": "Framit"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101164,
+      "_discountType": "app"
+    },
+    {
+      "id": 6815084400,
+      "name": {
+        "cn": "Cooing 相机"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101165,
+      "_discountType": "app"
+    },
+    {
+      "id": 6806944966,
+      "name": {
+        "cn": "Binly"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791612101165,
+      "_discountType": "app"
+    },
+    {
       "id": 848566943,
       "name": {
         "cn": "仓库进销存管理"
@@ -1283,8 +1496,8 @@
       "name": {
         "cn": "AI Video Eraser"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1791337140398,

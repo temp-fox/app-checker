@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": 1791633284963,
+    "cn": {
+      "total": 10,
+      "price": 8,
+      "iap": 2,
+      "apps": [
+        {
+          "id": 1551573204,
+          "name": "文字快跑 - 拼音打字练习",
+          "type": "price",
+          "detail": "¥6.00 → 免费"
+        },
+        {
+          "id": 6787700159,
+          "name": "成绩分数复盘-学生考试记录",
+          "type": "price",
+          "detail": "¥128.00 → ¥88.00"
+        },
+        {
+          "id": 6786732631,
+          "name": "AI棒球教练 DiamondScope测速",
+          "type": "price",
+          "detail": "¥38.00 → ¥22.00"
+        },
+        {
+          "id": 6786938491,
+          "name": "神战三国-全新超高颜值不肝不氪国风卡牌",
+          "type": "price",
+          "detail": "¥1.00 → 免费"
+        },
+        {
+          "id": 6758916412,
+          "name": "Ebru: 水拓画与纸上大理石纹",
+          "type": "price",
+          "detail": "¥88.00 → ¥68.00"
+        },
+        {
+          "id": 6743747935,
+          "name": "PDF自动滚动",
+          "type": "iap",
+          "detail": "PDF AutoScroll Pro Yearly: ¥68.00 → ¥38.00"
+        },
+        {
+          "id": 6743747935,
+          "name": "PDF自动滚动",
+          "type": "iap",
+          "detail": "PDF AutoScroll Pro Lifetime: ¥148.00 → ¥68.00"
+        },
+        {
+          "id": 6807246521,
+          "name": "Framit",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 6815084400,
+          "name": "Cooing 相机",
+          "type": "price",
+          "detail": "付费 → 免费"
+        },
+        {
+          "id": 1484189459,
+          "name": "剧照 - 从视频中保存照片",
+          "type": "price",
+          "detail": "付费 → 免费"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1791600999893,
     "cn": {
       "total": 67,
@@ -3265,106 +3335,6 @@
           "name": "破事儿- 男性私密健康日历",
           "type": "iap",
           "detail": "无限记录卡: ¥8.00 → ¥0.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1790764110390,
-    "cn": {
-      "total": 15,
-      "price": 11,
-      "iap": 4,
-      "apps": [
-        {
-          "id": 6794577805,
-          "name": "小旷野 - 梦想与人生心愿清单",
-          "type": "price",
-          "detail": "¥36.00 → 免费"
-        },
-        {
-          "id": 6813296219,
-          "name": "记得住-语音待办清单与日程管理",
-          "type": "price",
-          "detail": "¥3.00 → ¥1.00"
-        },
-        {
-          "id": 6814131991,
-          "name": "别刷太久 - 屏幕时间管理与专注番茄自律",
-          "type": "price",
-          "detail": "¥28.00 → ¥1.00"
-        },
-        {
-          "id": 6795993372,
-          "name": "养花-家庭绿植养护花房排期生长日记提醒助手工具管理",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6799889269,
-          "name": "中国足迹：点亮你的中国旅行地图",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 1290260255,
-          "name": "推理恋爱",
-          "type": "price",
-          "detail": "¥12.00 → 免费"
-        },
-        {
-          "id": 6786577313,
-          "name": "Breakin' - 轮班工作计划",
-          "type": "iap",
-          "detail": "DaybreakIn Pro Lifetime: ¥98.00 → ¥88.00"
-        },
-        {
-          "id": 448180752,
-          "name": "飞行棋 (未来版)",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6784604835,
-          "name": "同览 -  浏览器分流同步中枢",
-          "type": "iap",
-          "detail": "同览专业版: ¥38.00 → ¥0.00"
-        },
-        {
-          "id": 6778676469,
-          "name": "七七音乐-本地音乐播放器",
-          "type": "price",
-          "detail": "¥3.00 → 免费"
-        },
-        {
-          "id": 6756722371,
-          "name": "Easy Contacts: Contact Manager",
-          "type": "iap",
-          "detail": "weekly: ¥38.00 → ¥22.00"
-        },
-        {
-          "id": 1152147166,
-          "name": "Animation Desk® 动画桌 Ultimate",
-          "type": "iap",
-          "detail": "Kdan Cloud: ¥68.00 → ¥20.00"
-        },
-        {
-          "id": 1296076444,
-          "name": "央数-央行数据",
-          "type": "price",
-          "detail": "¥24.00 → ¥1.00"
-        },
-        {
-          "id": 6759135844,
-          "name": "VividCut",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6760268997,
-          "name": "数学冲刺儿童游戏",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
