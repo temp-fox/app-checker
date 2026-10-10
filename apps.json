@@ -2,6 +2,205 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 284919980,
+      "name": {
+        "cn": "Nitrox Tools"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636024774,
+      "_discountType": "app"
+    },
+    {
+      "id": 291731667,
+      "name": {
+        "cn": "ProTransport"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636030219,
+      "_discountType": "app"
+    },
+    {
+      "id": 363418936,
+      "name": {
+        "cn": "Distant Suns 5"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636035338,
+      "_discountType": "app"
+    },
+    {
+      "id": 828444157,
+      "name": {
+        "cn": "最新英语口语8000句大全"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636035338,
+      "_discountType": "app"
+    },
+    {
+      "id": 1128664793,
+      "name": {
+        "cn": "大家學標準日本語【每日一句】商務會話篇"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636035338,
+      "_discountType": "app"
+    },
+    {
+      "id": 1492792833,
+      "name": {
+        "cn": "大家的日本语 第一版"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1791636091787,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797548596,
+      "name": {
+        "cn": "知匣"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636022036,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768211938,
+      "name": {
+        "cn": "KimDrop - 局域网文件传输"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636022036,
+      "_discountType": "app"
+    },
+    {
+      "id": 6448892536,
+      "name": {
+        "cn": "王国之泪助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636022036,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762134993,
+      "name": {
+        "cn": "瘦点"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636022036,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785281064,
+      "name": {
+        "cn": "太极正脉"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636024774,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767557040,
+      "name": {
+        "cn": "TennisBee-网球挥拍动作实时分析与纠错"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636024774,
+      "_discountType": "app"
+    },
+    {
+      "id": 6817884165,
+      "name": {
+        "cn": "ARC Scanner：扫描转文字"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636027507,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786085892,
+      "name": {
+        "cn": "爱读文献"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636027507,
+      "_discountType": "app"
+    },
+    {
+      "id": 6749442265,
+      "name": {
+        "cn": "复利计算器 - 投资小助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636027507,
+      "_discountType": "app"
+    },
+    {
+      "id": 6765614345,
+      "name": {
+        "cn": "Kiosk Snap"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636027611,
+      "_discountType": "app"
+    },
+    {
+      "id": 6805910170,
+      "name": {
+        "cn": "2048 手表版"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636035374,
+      "_discountType": "app"
+    },
+    {
+      "id": 6761608572,
+      "name": {
+        "cn": "拍拍宠"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791636035374,
+      "_discountType": "app"
+    },
+    {
       "id": 1484189459,
       "name": {
         "cn": "剧照 - 从视频中保存照片"
