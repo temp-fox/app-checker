@@ -2,6 +2,116 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 652465727,
+      "name": {
+        "cn": "SessionTRAC剩余时间意识时钟"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791745196527,
+      "_discountType": "app"
+    },
+    {
+      "id": 971959854,
+      "name": {
+        "cn": "One Small World"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791745211027,
+      "_discountType": "app"
+    },
+    {
+      "id": 1082995961,
+      "name": {
+        "cn": "Cartograph 2 Maps"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791745199381,
+      "_discountType": "app"
+    },
+    {
+      "id": 1220275950,
+      "name": {
+        "cn": "EyesOnYou DashCam Plus"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791745199381,
+      "_discountType": "app"
+    },
+    {
+      "id": 1303094269,
+      "name": {
+        "cn": "Mastering IELTS Writing"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791745196636,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762424165,
+      "name": {
+        "cn": "美颜镜"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791745196497,
+      "_discountType": "app"
+    },
+    {
+      "id": 6783426591,
+      "name": {
+        "cn": "MapsToGPX: GPS Route Planner"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791745199381,
+      "_discountType": "app"
+    },
+    {
+      "id": 6774322595,
+      "name": {
+        "cn": "SizeSeason: Baby Clothes Size"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791745202367,
+      "_discountType": "app"
+    },
+    {
+      "id": 6820332750,
+      "name": {
+        "cn": "GymWatch-健身人专属表盘"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791745202404,
+      "_discountType": "app"
+    },
+    {
+      "id": 6813886824,
+      "name": {
+        "cn": "轻跑 - 跑步骑行 GPS 记录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791745202404,
+      "_discountType": "app"
+    },
+    {
       "id": 389960652,
       "name": {
         "cn": "PubMed Library"

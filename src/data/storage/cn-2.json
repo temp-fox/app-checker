@@ -1,4 +1,505 @@
 {
+  "1318570946": {
+    "name": "九州三国志",
+    "trackName": "九州三国志",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00",
+      "300金锭": "¥30.00",
+      "80金锭": "¥8.00",
+      "普通月卡": "¥30.00",
+      "880金锭": "¥88.00",
+      "至尊大月卡": "¥88.00",
+      "2080金锭": "¥208.00",
+      "6480金锭": "¥648.00",
+      "3880金锭": "¥388.00",
+      "60金锭（6元）": "¥6.00",
+      "成长基金": "¥198.00",
+      "周卡": "¥12.00",
+      "超福利包": "¥648.00",
+      "巨福利包": "¥328.00",
+      "大福利包": "¥128.00",
+      "中福利包": "¥68.00",
+      "小福利包": "¥30.00",
+      "微福利包": "¥18.00",
+      "3/6/12元套餐包": "¥18.00",
+      "12元福利包": "¥12.00",
+      "6元福利包": "¥6.00",
+      "3元福利包": "¥3.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00",
+      "300金锭": "¥30.00",
+      "80金锭": "¥8.00",
+      "普通月卡": "¥30.00",
+      "880金锭": "¥88.00",
+      "至尊大月卡": "¥88.00",
+      "2080金锭": "¥208.00",
+      "6480金锭": "¥648.00",
+      "3880金锭": "¥388.00",
+      "60金锭（6元）": "¥6.00",
+      "成长基金": "¥198.00",
+      "周卡": "¥12.00",
+      "超福利包": "¥648.00",
+      "巨福利包": "¥328.00",
+      "大福利包": "¥128.00",
+      "中福利包": "¥68.00",
+      "小福利包": "¥30.00",
+      "微福利包": "¥18.00",
+      "3/6/12元套餐包": "¥18.00",
+      "12元福利包": "¥12.00",
+      "6元福利包": "¥6.00",
+      "3元福利包": "¥3.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789251834039,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "300金锭": "¥30.00",
+            "80金锭": "¥8.00",
+            "普通月卡": "¥30.00",
+            "880金锭": "¥88.00",
+            "至尊大月卡": "¥88.00",
+            "2080金锭": "¥208.00",
+            "6480金锭": "¥648.00",
+            "3880金锭": "¥388.00",
+            "60金锭（6元）": "¥6.00",
+            "周卡": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1789227464700,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "超福利包": "¥648.00",
+            "巨福利包": "¥328.00",
+            "大福利包": "¥128.00",
+            "中福利包": "¥68.00",
+            "小福利包": "¥30.00",
+            "微福利包": "¥18.00",
+            "3/6/12元套餐包": "¥18.00",
+            "12元福利包": "¥12.00",
+            "6元福利包": "¥6.00",
+            "3元福利包": "¥3.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1783477606506,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "300金锭": "¥30.00",
+            "80金锭": "¥8.00",
+            "普通月卡": "¥30.00",
+            "880金锭": "¥88.00",
+            "至尊大月卡": "¥88.00",
+            "2080金锭": "¥208.00",
+            "6480金锭": "¥648.00",
+            "3880金锭": "¥388.00",
+            "60金锭（6元）": "¥6.00",
+            "周卡": "¥12.00"
+          }
+        },
+        {
+          "timestamp": 1783459333468,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "超福利包": "¥648.00",
+            "巨福利包": "¥328.00",
+            "大福利包": "¥128.00",
+            "中福利包": "¥68.00",
+            "小福利包": "¥30.00",
+            "微福利包": "¥18.00",
+            "3/6/12元套餐包": "¥18.00",
+            "12元福利包": "¥12.00",
+            "6元福利包": "¥6.00",
+            "3元福利包": "¥3.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1778294288480,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "300金锭": "¥30.00",
+            "80金锭": "¥8.00",
+            "普通月卡": "¥30.00",
+            "880金锭": "¥88.00",
+            "至尊大月卡": "¥88.00",
+            "2080金锭": "¥208.00",
+            "6480金锭": "¥648.00",
+            "3880金锭": "¥388.00",
+            "60金锭（6元）": "¥6.00",
+            "周卡": "¥12.00"
+          }
+        },
+        {
+          "timestamp": 1778267690499,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "超福利包": "¥648.00",
+            "巨福利包": "¥328.00",
+            "大福利包": "¥128.00",
+            "中福利包": "¥68.00",
+            "小福利包": "¥30.00",
+            "微福利包": "¥18.00",
+            "3/6/12元套餐包": "¥18.00",
+            "12元福利包": "¥12.00",
+            "6元福利包": "¥6.00",
+            "3元福利包": "¥3.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1777221629722,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "300金锭": "¥30.00",
+            "80金锭": "¥8.00",
+            "普通月卡": "¥30.00",
+            "880金锭": "¥88.00",
+            "至尊大月卡": "¥88.00",
+            "2080金锭": "¥208.00",
+            "6480金锭": "¥648.00",
+            "3880金锭": "¥388.00",
+            "60金锭（6元）": "¥6.00",
+            "周卡": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1777200248565,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "超福利包": "¥648.00",
+            "巨福利包": "¥328.00",
+            "大福利包": "¥128.00",
+            "中福利包": "¥68.00",
+            "小福利包": "¥30.00",
+            "微福利包": "¥18.00",
+            "3/6/12元套餐包": "¥18.00",
+            "12元福利包": "¥12.00",
+            "6元福利包": "¥6.00",
+            "3元福利包": "¥3.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1776565715451,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "300金锭": "¥30.00",
+            "80金锭": "¥8.00",
+            "普通月卡": "¥30.00",
+            "880金锭": "¥88.00",
+            "至尊大月卡": "¥88.00",
+            "2080金锭": "¥208.00",
+            "6480金锭": "¥648.00",
+            "3880金锭": "¥388.00",
+            "60金锭（6元）": "¥6.00",
+            "周卡": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1776392153579,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "300金锭": "¥30.00",
+            "80金锭": "¥8.00",
+            "普通月卡": "¥30.00",
+            "880金锭": "¥88.00",
+            "至尊大月卡": "¥88.00",
+            "2080金锭": "¥208.00",
+            "6480金锭": "¥648.00",
+            "3880金锭": "¥388.00",
+            "60金锭（6元）": "¥6.00",
+            "成长基金": "¥198.00"
+          }
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B9%9D%E5%B7%9E%E4%B8%89%E5%9B%BD%E5%BF%97/id1318570946?uo=4",
+    "description": "全新即时策略国战游戏，给您带来全方位的即时对抗体验： 即时军阵变化 完全即时的军阵设计，调整阵型，训练士兵，组成强力军阵，完美再现三国时代的军阵对决，还原“运筹帷幄之中，决胜千里之外”的儒将风采。 即时战场策略 完全即时的战场策略，安排武将对线，判定对局变化，抓住战机，在合适时间挑选武将释放技能，一锤落而天下定，还原“狭路相逢勇者胜”的勇将风范。 即时国战对决 完全即时的国战对决，跑商运粮，调兵遣将，以天下为棋盘，以名将为利刃，攻城拔寨无坚不摧，还原“振长策而御宇内，威加海内”的王者之风。 即时好友切磋 完全即时的好友对决，邀一二知己，聚三五好友，各领名将五人、精兵数万，捉对厮杀，知弈棋之趣，还原“海内存知己，天涯若比邻”的名士之意。 游戏特色： 【即时对战】 刀光剑影，短兵相接，男儿当提三尺剑，立不世之功，所有对决全部实时进行，让您率缇骑数旅，斩将夺旗而还！ 【即时战略】 国战之中，俯瞰三国大地，招揽天下英杰，积蓄粮草，调兵遣将，棋盘之上，可多线合围，可重兵布阵，可单点突破，战阵军略，尽在九州三国。 【即时策略】 战场首重策略，取天时之利，广积粮草；取地利之利，据守雄关；取人和之利，合纵克敌。三国战场，假道伐虢、借刀杀人、二虎竞食，还原策略三国。 【封侯拜相】 战功赫赫，列土封疆，立不世功业，取美人与酒，游戏之中还可累积军功以求加官进爵，最终更可荣登大位，执掌一国。九州三国志，天下人的三国志！",
+    "fullDescription": "全新即时策略国战游戏，给您带来全方位的即时对抗体验： 即时军阵变化 完全即时的军阵设计，调整阵型，训练士兵，组成强力军阵，完美再现三国时代的军阵对决，还原“运筹帷幄之中，决胜千里之外”的儒将风采。 即时战场策略 完全即时的战场策略，安排武将对线，判定对局变化，抓住战机，在合适时间挑选武将释放技能，一锤落而天下定，还原“狭路相逢勇者胜”的勇将风范。 即时国战对决 完全即时的国战对决，跑商运粮，调兵遣将，以天下为棋盘，以名将为利刃，攻城拔寨无坚不摧，还原“振长策而御宇内，威加海内”的王者之风。 即时好友切磋 完全即时的好友对决，邀一二知己，聚三五好友，各领名将五人、精兵数万，捉对厮杀，知弈棋之趣，还原“海内存知己，天涯若比邻”的名士之意。 游戏特色： 【即时对战】 刀光剑影，短兵相接，男儿当提三尺剑，立不世之功，所有对决全部实时进行，让您率缇骑数旅，斩将夺旗而还！ 【即时战略】 国战之中，俯瞰三国大地，招揽天下英杰，积蓄粮草，调兵遣将，棋盘之上，可多线合围，可重兵布阵，可单点突破，战阵军略，尽在九州三国。 【即时策略】 战场首重策略，取天时之利，广积粮草；取地利之利，据守雄关；取人和之利，合纵克敌。三国战场，假道伐虢、借刀杀人、二虎竞食，还原策略三国。 【封侯拜相】 战功赫赫，列土封疆，立不世功业，取美人与酒，游戏之中还可累积军功以求加官进爵，最终更可荣登大位，执掌一国。九州三国志，天下人的三国志！",
+    "summaryDescription": "全新即时策略国战游戏，给您带来全方位的即时对抗体验： 即时军阵变化 完全即时的军阵设计，调整阵型，训练士兵，组成强力军阵，完美再现三国时代的军阵对决，还原“运筹帷幄之中，决胜千里之外”的儒将风采。 即时战场策略 完全即时的战场策略，安排武将对线，判定对局变化，抓住战机，在合适时间挑选武将释放技能，一锤落而天下定，还原“狭路相逢勇者胜”的勇将风范。 即时国战对决 完全即时的国战对决，跑商运粮，调兵遣将，以天下为棋盘，以名将为利刃，攻城拔寨无坚不摧，还原“振长策而御宇内，威加海内”的王者之风。 即时好友切磋 完全即时的好友对决，邀一二知己，聚三五好友，各领名将五人、精兵数万，捉对厮杀，知弈棋之趣，还原“海内存知己，天涯若比邻”的名士之意。 游戏特色： 【即时对战】 刀光剑影，短兵相接，男儿当提三尺剑，立不世之功，所有对决全部实时进行，让您率缇骑数旅，斩将夺旗而还！ 【即时战略】 国战之中，俯瞰三国大地，招揽天下英杰，积蓄粮草，调兵遣将，棋盘之上，可多线合围，可重兵布阵，可单点突破，战阵军略，尽在九州三国。 【即时策略】 战场首重策略，取天时之利，广积粮草；取地利之利，据守雄关；取人和之利，合纵克敌。三国战场，假道伐虢、借刀杀人、二虎竞食，还原策略三国。 【封侯拜相】 战功赫赫，列土封疆，立不世功业，取美人与酒，游戏之中还可累积军功以求加官进爵，最终更可荣登大位，执掌一国。九州三国志，天下人的三国志！",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/22/74/442274f8-1721-9b60-235c-202c432b8829/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/22/74/442274f8-1721-9b60-235c-202c432b8829/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+    "sellerName": "Reagame Technology Co., Ltd",
+    "artistName": "Reagame",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/33/ee/3133ee5b-4c77-d01c-af25-715e7d47ee1c/c4bca4c1-7288-401a-bef3-d9bb6f3b660f_06.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/34/d0/4534d041-0d99-788e-c1c8-61eb9137676b/93ef6e8f-33e9-4b62-a22e-6b92ea2fd52c_05.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/e2/c4/ffe2c4e1-91ef-3e79-1d7e-e7320538e04d/755066c9-9a90-458d-8639-1b02024dd7db_02.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/31/dc/4231dc08-1a4b-d32a-79e0-088ee48618ca/44403bfd-ef3f-478b-b23e-115f17858873_03.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/db/fb/72dbfbbe-da45-325d-c747-591086bf5cd2/4abb5083-31c1-4644-9a31-e8b805eefe76_04.png/406x228bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/d7/74/f1d77428-ab9c-bb77-e441-ea6af9fd26d1/d0732bae-fee8-4ce4-8a73-7104dc5c15a8_06.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/d8/7f/f9d87f3d-03fe-d70a-a09b-a456911d55ec/b5a76c0b-9928-48a5-882c-74ce344164b9_05.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/25/87/84258786-96ee-b9f7-0c91-1104c4065168/b5564e0b-0d6d-42e0-878e-3b8c8959ae22_02.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/e0/49/3be049f1-749c-b8b6-b0c8-8747324dc2ce/835791c9-da27-4ad8-847f-f4684e8a67c4_03.png/552x414bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/07/5d/6d075d64-7bda-6973-e829-376772466c71/6965de9b-3914-4f07-a6a6-9fb37ea43ab9_04.png/552x414bb.png"
+    ],
+    "_externalSourceFirstSeen": 1776392127977
+  },
+  "1318648370": {
+    "name": "SPlayer - 万能视频播放神器",
+    "trackName": "SPlayer - 万能视频播放神器",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772375272895,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/splayer-%E4%B8%87%E8%83%BD%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E7%A5%9E%E5%99%A8/id1318648370?uo=4",
+    "description": "SPlayer播放器 ●支持应用内直接打开网址的功能，快捷文件管理 ●可高清流畅播放视频文件 ●无需转码，无需安装第三方插件，直接播放 ●可识别手机上的所有视频 ●支持视频删除功能",
+    "fullDescription": "SPlayer播放器 ●支持应用内直接打开网址的功能，快捷文件管理 ●可高清流畅播放视频文件 ●无需转码，无需安装第三方插件，直接播放 ●可识别手机上的所有视频 ●支持视频删除功能",
+    "summaryDescription": "SPlayer播放器 ●支持应用内直接打开网址的功能，快捷文件管理 ●可高清流畅播放视频文件 ●无需转码，无需安装第三方插件，直接播放 ●可识别手机上的所有视频 ●支持视频删除功能",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/3e/6a/f8/3e6af883-d645-96de-249b-d268cbc1a0a5/AppIcon-1x_U007emarketing-85-220-3.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/3e/6a/f8/3e6af883-d645-96de-249b-d268cbc1a0a5/AppIcon-1x_U007emarketing-85-220-3.png/100x100bb.jpg",
+    "sellerName": "晓峰 黄",
+    "artistName": "晓峰 黄",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/b0/e1/a6/b0e1a65b-fecc-b0fe-8a61-72d0999dea91/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/50/64/d2/5064d2a3-249e-6aae-be56-1c231ff5ffdb/pr_source.jpg/392x696bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/04/21/ff/0421ff21-257a-db30-d298-722e51f25eb6/pr_source.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d2/3d/70/d23d700c-9712-e18e-793a-d661e0792fcd/pr_source.jpg/576x768bb.jpg"
+    ]
+  },
+  "1319071502": {
+    "name": "今日水印相机-时间地点经纬度打卡拍照",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "个人会员连续包月（1个月）": "¥13.00",
+      "个人会员连续包月": "¥19.00",
+      "个人会员连续包年": "¥79.00",
+      "今日水印相机VIP连续包月（1个月）": "¥8.00",
+      "个人会员连续包年（1年）": "¥58.00",
+      "免广告会员连续包月": "¥3.00",
+      "个人会员单独包月": "¥36.00",
+      "免广告连续1个月1元": "¥1.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "个人会员连续包月（1个月）": "¥13.00",
+      "个人会员连续包月": "¥19.00",
+      "个人会员连续包年": "¥79.00",
+      "今日水印相机VIP连续包月（1个月）": "¥8.00",
+      "个人会员连续包年（1年）": "¥58.00",
+      "免广告会员连续包月": "¥3.00",
+      "个人会员单独包月": "¥36.00",
+      "免广告连续1个月1元": "¥1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772865008630,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "个人会员连续包月（1个月）": "¥13.00",
+            "个人会员连续包月": "¥19.00",
+            "个人会员连续包年": "¥79.00",
+            "今日水印相机VIP连续包月（1个月）": "¥8.00",
+            "个人会员连续包年（1年）": "¥58.00",
+            "免广告会员连续包月": "¥3.00",
+            "个人会员单独包月": "¥36.00",
+            "免广告连续1个月1元": "¥1.00"
+          }
+        }
+      ]
+    ],
+    "_externalSourceFirstSeen": 1772864989040
+  },
+  "1319191852": {
+    "name": "熊猫吃短信 - 旧版",
+    "trackName": "熊猫吃短信 - 旧版",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "¥88.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1740646951728,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1725296539692,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
+          "timestamp": 1721960142187,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A1-%E6%97%A7%E7%89%88/id1319191852?uo=4",
+    "description": "App Store 多次推荐 * 少数派年度应用 * 最美应用年度应用 * 「熊猫吃短信」使用 Core ML 机器学习框架在设备端离线过滤垃圾短信，能准确的通过语义识别垃圾短信，不需要手动配置任何过滤规则，开箱即用。 隐私 我们非常在意您的隐私，并且通过行动（而不只是口头承诺）来保证这一点：熊猫吃短信是一个非常少见的完全离线的应用，甚至都不会请求网络权限（直到您第一次主动向我们举报垃圾短信）。我们依靠广大的用户群体主动向我们举报垃圾短信来建立机器学习的样本库。 集体智慧 熊猫吃短信使用基于统计学的机器学习算法从几十万条各类短信样本中学习而成。无需用户配置任何关键词，它通过识别一个短信的语义特征，自己就可以精准的判断收到的短信是正常短信、公益短信还是广告骚扰短信等等。 如果熊猫有判断失误的时候，大家可以在 App 里面投喂新的短信样本帮助熊猫进化，喂养越多熊猫越聪明。 我为什么要做「熊猫吃短信」？ 我曾深受垃圾短信的困扰，直到 iOS 11 发布了短信过滤的接口。作为一个涉足数据领域的工程师，我导出了几年里收到过的几万条短信，使用机器学习训练了一个垃圾短信的识别模型，就有了这个 App 的雏形。在后续的开发中很多热心的用户又投喂了几十万条短信样本，教会了熊猫识别更多更广阔的场景。 隐私条款：熊猫会收集哪些信息？** 「熊猫吃短信」不会收集您的任何信息，更不会上传您的短信内容，如果您足够细心就会发现熊猫都不会请求网络权限，完全离线运行。 如果您自愿向熊猫提交短信样本，那么会收集脱敏后的短信文本以及一个您标注是否是垃圾短信的数字，仅此两项数据。",
+    "fullDescription": "App Store 多次推荐 * 少数派年度应用 * 最美应用年度应用 * 「熊猫吃短信」使用 Core ML 机器学习框架在设备端离线过滤垃圾短信，能准确的通过语义识别垃圾短信，不需要手动配置任何过滤规则，开箱即用。 隐私 我们非常在意您的隐私，并且通过行动（而不只是口头承诺）来保证这一点：熊猫吃短信是一个非常少见的完全离线的应用，甚至都不会请求网络权限（直到您第一次主动向我们举报垃圾短信）。我们依靠广大的用户群体主动向我们举报垃圾短信来建立机器学习的样本库。 集体智慧 熊猫吃短信使用基于统计学的机器学习算法从几十万条各类短信样本中学习而成。无需用户配置任何关键词，它通过识别一个短信的语义特征，自己就可以精准的判断收到的短信是正常短信、公益短信还是广告骚扰短信等等。 如果熊猫有判断失误的时候，大家可以在 App 里面投喂新的短信样本帮助熊猫进化，喂养越多熊猫越聪明。 我为什么要做「熊猫吃短信」？ 我曾深受垃圾短信的困扰，直到 iOS 11 发布了短信过滤的接口。作为一个涉足数据领域的工程师，我导出了几年里收到过的几万条短信，使用机器学习训练了一个垃圾短信的识别模型，就有了这个 App 的雏形。在后续的开发中很多热心的用户又投喂了几十万条短信样本，教会了熊猫识别更多更广阔的场景。 隐私条款：熊猫会收集哪些信息？** 「熊猫吃短信」不会收集您的任何信息，更不会上传您的短信内容，如果您足够细心就会发现熊猫都不会请求网络权限，完全离线运行。 如果您自愿向熊猫提交短信样本，那么会收集脱敏后的短信文本以及一个您标注是否是垃圾短信的数字，仅此两项数据。",
+    "summaryDescription": "App Store 多次推荐 * 少数派年度应用 * 最美应用年度应用 * 「熊猫吃短信」使用 Core ML 机器学习框架在设备端离线过滤垃圾短信，能准确的通过语义识别垃圾短信，不需要手动配置任何过滤规则，开箱即用。 隐私 我们非常在意您的隐私，并且通过行动（而不只是口头承诺）来保证这一点：熊猫吃短信是一个非常少见的完全离线的应用，甚至都不会请求网络权限（直到您第一次主动向我们举报垃圾短信）。我们依靠广大的用户群体主动向我们举报垃圾短信来建立机器学习的样本库。 集体智慧 熊猫吃短信使用基于统计学的机器学习算法从几十万条各类短信样本中学习而成。无需用户配置任何关键词，它通过识别一个短信的语义特征，自己就可以精准的判断收到的短信是正常短信、公益短信还是广告骚扰短信等等。 如果熊猫有判断失误的时候，大家可以在 App 里面投喂新的短信样本帮助熊猫进化，喂养越多熊猫越聪明。 我为什么要做「熊猫吃短信」？ 我曾深受垃圾短信的困扰，直到 iOS 11 发布了短信过滤的接口。作为一个涉足数据领域的工程师，我导出了几年里收到过的几万条短信，使用机器学习训练了一个垃圾短信的识别模型，就有了这个 App 的雏形。在后续的开发中很多热心的用户又投喂了几十万条短信样本，教会了熊猫识别更多更广阔的场景。 隐私条款：熊猫会收集哪些信息？** 「熊猫吃短信」不会收集您的任何信息，更不会上传您的短信内容，如果您足够细心就会发现熊猫都不会请求网络权限，完全离线运行。 如果您自愿向熊猫提交短信样本，那么会收集脱敏后的短信文本以及一个您标注是否是垃圾短信的数字，仅此两项数据。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/3a/91/c43a91d8-6d03-6dce-5be5-bc32ed8f0603/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/3a/91/c43a91d8-6d03-6dce-5be5-bc32ed8f0603/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.jpg",
+    "sellerName": "Early Moon, LLC",
+    "artistName": "Early Moon, LLC",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/d2/b0/2c/d2b02ca9-58bf-4b41-310e-6e0ce0fc1b59/mzl.nnspqdlg.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/4f/ef/4f/4fef4f98-fd6c-0fd0-561a-53e3b2dc54cb/mzl.wtawpwqc.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/87/3c/ab873c3e-96c4-30ba-4457-653c0fb5a04c/mzl.ugrqatmf.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/78/60/ff/7860ffd6-f491-c9b3-df72-0143123961fd/mzl.zdzytboo.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/13/aa/5c/13aa5c4e-cd23-abe2-1f35-923e4ca4c49a/pr_source.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/53/06/ff/5306ff17-8be1-3d87-d308-81462b4de5cb/pr_source.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fb/86/8e/fb868e6d-6af1-793c-1fe8-e6eb4fd55e59/pr_source.png/576x768bb.png"
+    ]
+  },
+  "1319340670": {
+    "name": "Simpletext",
+    "trackName": "Simpletext",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788821660179,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/simpletext/id1319340670?uo=4",
+    "description": "The Simplest Writing App for Mac, iPad and iPhone There are many writing apps for you to choose from today, so why bother with yet another one? Because Simpletext is simpler. Its single-minded commitment to simplicity means you’ll get a no-frills writing app that works well and looks great, forever. Simpletext started as a passion project because I couldn’t find what I was looking for. Most apps were trying to do too much and ended up bloated with features I never needed. So I built Simpletext based on a simple premise — what if there’s an app that refuses to do more, choosing instead to do just one thing, and do it well? For Simpletext, that one thing is writing. Why Simpletext? Most people would say Simpletext is lacking in features, and they’re right. In fact, Simpletext began the opposite way — by listing down everything I didn’t want in a writing app. The goal is to create a dumbed-down writing app that inspires you to do nothing else but write. In order to achieve this, I designed Simpletext around four cornerstone principles: 1. Zero Clutter Simpletext is unobtrusive. It provides a blank canvas to write with absolutely nothing to distract you from writing. There’s no visual clutter — the intent is to create a quiet space that helps you connect with your voice, get into the flow, and simply write. With zero clutter, Simpletext lets your words take centre stage. 2. Beautiful Typography Simpletext comes with three professional fonts for you to choose from, handpicked to provide the finest writing experience. They are: (1) Akkurat Mono by Lineto (Monospaced); (2) Graphik by Commercial Type (Sans Serif); and (3) Tiempos Text by Klim Type Foundry (Serif). And if you have a personal favourite font, you can use it in Simpletext too. 3. Plain Text Only Simpletext supports only plain text, which is fast, lightweight and platform-independent. It will never have formatting options, so your files will never be filled with unnecessary attributes. Plain text also ensures your files are always accessible on any device, now and in the future. 4. Fully Native Simpletext is a fully native app developed in Swift and runs natively on Apple silicon. It uses only Apple’s framework and UI components, just as they were intended to be used without any custom workarounds. This approach results in less code, less bugs and better overall performance. Here's What Others Have to Say “I just wanted to thank you for developing Simpletext. It’s perfect. I’ve enjoyed its simplicity and smoothness for quite some time, but now that I can use my favourite font in it (Sina Nova, free on Fontspring) it has truly become not just the best app to write in, but my favourite app period. Thank you for creating and maintaining it.” Bart “This app does everything it says on the tin. It is not meant to do a lot, but what it does it does very well. It is well designed and suits well those who want to focus on writing and avoid dealing with formatting, proprietary file types and hidden saving locations. It produces and edits .txt files, which will probably be around for as long as there are computers, and saves them in plain sight. Five stars.” Fernando “I’ve tried all sorts of writing apps but Simpletext is definitely the best of all. So grateful for your dedication and those productivity tips in the blog post are so good. Simpletext is such a joy to use.” LWL Art Studio “A writing app that is as simple as stated, beautiful to write with and opens and closes wherever you want. Simple tweaks are easily accessible, if required, and only add to the minimalistic perfection. Good job.” Tuntle Get Back to Basics In a world full of feature-rich, subscription-based apps, I wanted to create something that goes back to basics. Simpletext is intentionally simple, yet it has everything you need. It’s an app I use every single day. I hope you will too. Best wishes, Yeow Jin P.S. Simpletext comes with a promise — find out more at simpletext.app/promise",
+    "fullDescription": "The Simplest Writing App for Mac, iPad and iPhone There are many writing apps for you to choose from today, so why bother with yet another one? Because Simpletext is simpler. Its single-minded commitment to simplicity means you’ll get a no-frills writing app that works well and looks great, forever. Simpletext started as a passion project because I couldn’t find what I was looking for. Most apps were trying to do too much and ended up bloated with features I never needed. So I built Simpletext based on a simple premise — what if there’s an app that refuses to do more, choosing instead to do just one thing, and do it well? For Simpletext, that one thing is writing. Why Simpletext? Most people would say Simpletext is lacking in features, and they’re right. In fact, Simpletext began the opposite way — by listing down everything I didn’t want in a writing app. The goal is to create a dumbed-down writing app that inspires you to do nothing else but write. In order to achieve this, I designed Simpletext around four cornerstone principles: 1. Zero Clutter Simpletext is unobtrusive. It provides a blank canvas to write with absolutely nothing to distract you from writing. There’s no visual clutter — the intent is to create a quiet space that helps you connect with your voice, get into the flow, and simply write. With zero clutter, Simpletext lets your words take centre stage. 2. Beautiful Typography Simpletext comes with three professional fonts for you to choose from, handpicked to provide the finest writing experience. They are: (1) Akkurat Mono by Lineto (Monospaced); (2) Graphik by Commercial Type (Sans Serif); and (3) Tiempos Text by Klim Type Foundry (Serif). And if you have a personal favourite font, you can use it in Simpletext too. 3. Plain Text Only Simpletext supports only plain text, which is fast, lightweight and platform-independent. It will never have formatting options, so your files will never be filled with unnecessary attributes. Plain text also ensures your files are always accessible on any device, now and in the future. 4. Fully Native Simpletext is a fully native app developed in Swift and runs natively on Apple silicon. It uses only Apple’s framework and UI components, just as they were intended to be used without any custom workarounds. This approach results in less code, less bugs and better overall performance. Here's What Others Have to Say “I just wanted to thank you for developing Simpletext. It’s perfect. I’ve enjoyed its simplicity and smoothness for quite some time, but now that I can use my favourite font in it (Sina Nova, free on Fontspring) it has truly become not just the best app to write in, but my favourite app period. Thank you for creating and maintaining it.” Bart “This app does everything it says on the tin. It is not meant to do a lot, but what it does it does very well. It is well designed and suits well those who want to focus on writing and avoid dealing with formatting, proprietary file types and hidden saving locations. It produces and edits .txt files, which will probably be around for as long as there are computers, and saves them in plain sight. Five stars.” Fernando “I’ve tried all sorts of writing apps but Simpletext is definitely the best of all. So grateful for your dedication and those productivity tips in the blog post are so good. Simpletext is such a joy to use.” LWL Art Studio “A writing app that is as simple as stated, beautiful to write with and opens and closes wherever you want. Simple tweaks are easily accessible, if required, and only add to the minimalistic perfection. Good job.” Tuntle Get Back to Basics In a world full of feature-rich, subscription-based apps, I wanted to create something that goes back to basics. Simpletext is intentionally simple, yet it has everything you need. It’s an app I use every single day. I hope you will too. Best wishes, Yeow Jin P.S. Simpletext comes with a promise — find out more at simpletext.app/promise",
+    "summaryDescription": "The Simplest Writing App for Mac, iPad and iPhone There are many writing apps for you to choose from today, so why bother with yet another one? Because Simpletext is simpler. Its single-minded commitment to simplicity means you’ll get a no-frills writing app that works well and looks great, forever. Simpletext started as a passion project because I couldn’t find what I was looking for. Most apps were trying to do too much and ended up bloated with features I never needed. So I built Simpletext based on a simple premise — what if there’s an app that refuses to do more, choosing instead to do just one thing, and do it well? For Simpletext, that one thing is writing. Why Simpletext? Most people would say Simpletext is lacking in features, and they’re right. In fact, Simpletext began the opposite way — by listing down everything I didn’t want in a writing app. The goal is to create a dumbed-down writing app that inspires you to do nothing else but write. In order to achieve this, I designed Simpletext around four cornerstone principles: 1. Zero Clutter Simpletext is unobtrusive. It provides a blank canvas to write with absolutely nothing to distract you from writing. There’s no visual clutter — the intent is to create a quiet space that helps you connect with your voice, get into the flow, and simply write. With zero clutter, Simpletext lets your words take centre stage. 2. Beautiful Typography Simpletext comes with three professional fonts for you to choose from, handpicked to provide the finest writing experience. They are: (1) Akkurat Mono by Lineto (Monospaced); (2) Graphik by Commercial Type (Sans Serif); and (3) Tiempos Text by Klim Type Foundry (Serif). And if you have a personal favourite font, you can use it in Simpletext too. 3. Plain Text Only Simpletext supports only plain text, which is fast, lightweight and platform-independent. It will never have formatting options, so your files will never be filled with unnecessary attributes. Plain text also ensures your files are always accessible on any device, now and in the future. 4. Fully Native Simpletext is a fully native app developed in Swift and runs natively on Apple silicon. It uses only Apple’s framework and UI components, just as they were intended to be used without any custom workarounds. This approach results in less code, less bugs and better overall performance. Here's What Others Have to Say “I just wanted to thank you for developing Simpletext. It’s perfect. I’ve enjoyed its simplicity and smoothness for quite some time, but now that I can use my favourite font in it (Sina Nova, free on Fontspring) it has truly become not just the best app to write in, but my favourite app period. Thank you for creating and maintaining it.” Bart “This app does everything it says on the tin. It is not meant to do a lot, but what it does it does very well. It is well designed and suits well those who want to focus on writing and avoid dealing with formatting, proprietary file types and hidden saving locations. It produces and edits .txt files, which will probably be around for as long as there are computers, and saves them in plain sight. Five stars.” Fernando “I’ve tried all sorts of writing apps but Simpletext is definitely the best of all. So grateful for your dedication and those productivity tips in the blog post are so good. Simpletext is such a joy to use.” LWL Art Studio “A writing app that is as simple as stated, beautiful to write with and opens and closes wherever you want. Simple tweaks are easily accessible, if required, and only add to the minimalistic perfection. Good job.” Tuntle Get Back to Basics In a world full of feature-rich, subscription-based apps, I wanted to create something that goes back to basics. Simpletext is intentionally simple, yet it has everything you need. It’s an app I use every single day. I hope you will too. Best wishes, Yeow Jin P.S. Simpletext comes with a promise — find out more at simpletext.app/promise",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/bf/20/57bf200b-df54-2f75-2ffa-698f051fedb0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/bf/20/57bf200b-df54-2f75-2ffa-698f051fedb0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
+    "sellerName": "Yeow Jin Gan",
+    "artistName": "Yeow Jin Gan",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/82/e9/2882e9d6-37cd-0dbc-0ae4-25dd7a6ef205/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/16/71/30167141-4d03-a8df-1948-5b30eeea9c2e/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/a2/0d/9ba20d49-1de9-0b21-7e2d-e839b20584cb/3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/02/94/0502942a-d837-9232-b0fe-dc773b77e172/4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/19/ef/6c19ef12-c476-e477-78de-d1791a0f0ef8/5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/be/c7/b1bec7ed-630c-8ac7-69bb-fb1b7578ad95/6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/9e/c3/719ec3c2-c5e1-9bbb-f4c2-19ed04e22066/7.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/9e/60/499e600f-cfd2-90a5-2c01-306ff74581f1/1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/b9/7e/4ab97efe-3483-74e6-964b-cdb5c90a5f30/2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/6a/bd/076abd75-2d63-ef7f-cbb8-cc91e3cd7121/3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/ed/55/c7ed55bd-1f69-b0af-480b-93aa4549f15c/4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/aa/d1/65aad11a-b6e3-ce58-7ee1-2a3d9a19d58c/5.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/c0/53/73c0532b-2f51-f65c-3e0b-e2e91c733113/6.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/50/3a/db503ae5-b814-2198-4d7c-bb2687a88d98/7.png/360x480bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1788821629605
+  },
+  "1319447211": {
+    "name": "Vigilance Buddy",
+    "trackName": "Vigilance Buddy",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784042586421,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/vigilance-buddy/id1319447211?uo=4",
+    "description": "Vigilance Buddy by Research Buddies This application is based on the ‘psychomotor vigilance task (PVT)’ which measures the speed of which users respond to the given visual stimulus. Edit the number of rounds per test, maximum time between tap and start of the timer and much more. Collect & Send the results directly to your personal email address. With our focus on usability the application can be used easily by anyone. Because of this it doesn’t matter if your subjects are digital natives or people with zero to none tablet experience. Happy researching!",
+    "fullDescription": "Vigilance Buddy by Research Buddies This application is based on the ‘psychomotor vigilance task (PVT)’ which measures the speed of which users respond to the given visual stimulus. Edit the number of rounds per test, maximum time between tap and start of the timer and much more. Collect & Send the results directly to your personal email address. With our focus on usability the application can be used easily by anyone. Because of this it doesn’t matter if your subjects are digital natives or people with zero to none tablet experience. Happy researching!",
+    "summaryDescription": "Vigilance Buddy by Research Buddies This application is based on the ‘psychomotor vigilance task (PVT)’ which measures the speed of which users respond to the given visual stimulus. Edit the number of rounds per test, maximum time between tap and start of the timer and much more. Collect & Send the results directly to your personal email address. With our focus on usability the application can be used easily by anyone. Because of this it doesn’t matter if your subjects are digital natives or people with zero to none tablet experience. Happy researching!",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/2c/2a/f72c2a9c-0c38-f94a-b376-aabcbb234327/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/2c/2a/f72c2a9c-0c38-f94a-b376-aabcbb234327/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Byrt",
+    "artistName": "Byrt",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c5/1f/3c/c51f3cbc-e2d4-b093-8b13-8fd919b7a73d/mzl.dcidlddg.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ff/83/60/ff8360bb-1888-be1a-ef05-b08db38e3c70/mzl.zgumucqc.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/84/f2/1b/84f21bbf-6e86-93f2-ffc3-b6e2c8d18322/mzl.nqfifari.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fe/95/93/fe9593e7-a756-e5db-b0c3-e6f90e2921da/mzl.aclshkaw.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c2/98/b5/c298b5b9-ffc8-8c0a-db0f-248304dd959d/mzl.wbnapyio.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/69/ec/58/69ec5810-62a2-27c4-d7b6-65afd4a5aa7e/mzl.kzwhfbkn.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/27/99/61/2799619e-cead-645b-1857-27764d4cd29d/mzl.ozqeugga.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d4/0f/37/d40f37a5-ef94-f6b6-c9a8-2a49fee3c473/mzl.gkdwiwap.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3e/65/05/3e6505e8-50a8-79a3-3dfc-dba053da2b87/mzl.acyhzctc.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c8/71/2e/c8712ed7-3d1b-9205-5c99-ca30a6d1eecc/mzl.xlunjaoy.png/576x768bb.png"
+    ],
+    "_externalSourceFirstSeen": 1784042560145
+  },
   "1319750087": {
     "name": "知户型-装修量房设计软件",
     "maxPriceInfo": {
@@ -18449,24 +18950,32 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E8%83%B6%E5%9B%8A-%E5%AF%84%E5%BE%80%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%BF%A1/id1358237203?uo=4",
-    "description": "获【支付宝】Apple专区1元优选推荐* 获【AppSo】AppWall推荐* 获【最美应用】今日最美推荐* Ⅰ.收不到信的小伙伴请首先看一下自己的垃圾邮箱。 Ⅱ.如果邮箱设置了反垃圾邮件信会被直接拒收。造成的不便非常抱歉。 Ⅲ.信件寄出不能寄给当天。为了避免太多无意义的邮件在当天发出。 Ⅳ.寄信地址很重要，请不要写错 非常感谢支持的朋友* 「时间胶囊 - 自动续费会员说明」 — 订阅周期：每月或每年（连续包月产品）。 — 订阅价格：连续订阅产品：￥ 6/月、￥35/年。 — 付款：用户确认购买并付款后记入iTunes账户。 — 用户可以通过用户的帐户设置来管理用户的订阅和自动更新。 — 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。 — 续订：会员的自有充值账户或苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。 — 隐私政策： https://breads-doubt-hvc.craft.me/kR8lmGVWjFMnlm — 自动续费会员服务协议： https://breads-doubt-hvc.craft.me/rSsZYNJu2oe0d2 清早上火车站 长街黑暗无行人 卖豆浆的小店冒着热气 从前车马很慢 书信很远 一生只够爱一个人 【电子信件】 以电子邮件形式在您指定的未来的某一天发送信件。 【带照片的信】 封存关于记忆的照片，多年以后打开老照片，打开那份值得珍藏的回忆。 【三行情书】 我爱你，爱说出口，三个字足矣。特别推出三行情书，附带照片，对你的他/她说出爱。 【纸短情长-纸质信纸】 特别推出纸质信纸，将您的信件制作成精美的定制信件，装订在时间胶囊特制的信封中。在时光中封存，临近收信日期发出，让您收到信件时感动与喜悦加倍！限时特惠，快去体验一下吧。 时间是唯一的解药 过去现在及以后 一霎那的回眸 往事如烟 这封来自过去的一封信 诉说着未来他和她的故事 有一天突然一觉醒来，发现自己只是在高中的一节课上睡着了，现在经历的一切都是一场梦，阳光照在你的脸上，桌上满是你的口水，老师还在前面喋喋不休的讲着课，黑板上写着高考倒计时。 你揉揉眼，对同桌说，我做了一个好长，好真实的梦，同桌骂你白痴，让你好好听课，你看着窗外，一切还都充满希望…… 这是我偶然看到的一个段子，对我的触动很大，突然地想到，这么多年这么快就过去了，从前以为很长很长的时光，现在都路过了，都又变成了很久以前的事情。我抓不住时间。定格不了这一秒。 十年的时光嗖然而过，你是否成了你当年想要成为的人，还是成了自己当年最讨厌的人。 和十年之后的自己对话，又或者看年轻时候的自己充满希望或者干劲的想法，现在的你。与当年的你。是更加成熟还是一败涂地。 十年前的你深爱的一个人。现在，那个心上人是否还住在你的心里，亦或者早已被埋葬。 时间胶嚢，是一段时空旅行。带着你的希望，你的梦想，你的遗憾。与你同行。 所有消逝的感情唯有文字可以记录。 所有的一切都是从这里开始 熟悉的夏日 熟悉的教室 熟悉的午后阳光 你看 我回来了 我说 你在哪里呢 2018年冬月十五",
-    "fullDescription": "获【支付宝】Apple专区1元优选推荐* 获【AppSo】AppWall推荐* 获【最美应用】今日最美推荐* Ⅰ.收不到信的小伙伴请首先看一下自己的垃圾邮箱。 Ⅱ.如果邮箱设置了反垃圾邮件信会被直接拒收。造成的不便非常抱歉。 Ⅲ.信件寄出不能寄给当天。为了避免太多无意义的邮件在当天发出。 Ⅳ.寄信地址很重要，请不要写错 非常感谢支持的朋友* 「时间胶囊 - 自动续费会员说明」 — 订阅周期：每月或每年（连续包月产品）。 — 订阅价格：连续订阅产品：￥ 6/月、￥35/年。 — 付款：用户确认购买并付款后记入iTunes账户。 — 用户可以通过用户的帐户设置来管理用户的订阅和自动更新。 — 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。 — 续订：会员的自有充值账户或苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。 — 隐私政策： https://breads-doubt-hvc.craft.me/kR8lmGVWjFMnlm — 自动续费会员服务协议： https://breads-doubt-hvc.craft.me/rSsZYNJu2oe0d2 清早上火车站 长街黑暗无行人 卖豆浆的小店冒着热气 从前车马很慢 书信很远 一生只够爱一个人 【电子信件】 以电子邮件形式在您指定的未来的某一天发送信件。 【带照片的信】 封存关于记忆的照片，多年以后打开老照片，打开那份值得珍藏的回忆。 【三行情书】 我爱你，爱说出口，三个字足矣。特别推出三行情书，附带照片，对你的他/她说出爱。 【纸短情长-纸质信纸】 特别推出纸质信纸，将您的信件制作成精美的定制信件，装订在时间胶囊特制的信封中。在时光中封存，临近收信日期发出，让您收到信件时感动与喜悦加倍！限时特惠，快去体验一下吧。 时间是唯一的解药 过去现在及以后 一霎那的回眸 往事如烟 这封来自过去的一封信 诉说着未来他和她的故事 有一天突然一觉醒来，发现自己只是在高中的一节课上睡着了，现在经历的一切都是一场梦，阳光照在你的脸上，桌上满是你的口水，老师还在前面喋喋不休的讲着课，黑板上写着高考倒计时。 你揉揉眼，对同桌说，我做了一个好长，好真实的梦，同桌骂你白痴，让你好好听课，你看着窗外，一切还都充满希望…… 这是我偶然看到的一个段子，对我的触动很大，突然地想到，这么多年这么快就过去了，从前以为很长很长的时光，现在都路过了，都又变成了很久以前的事情。我抓不住时间。定格不了这一秒。 十年的时光嗖然而过，你是否成了你当年想要成为的人，还是成了自己当年最讨厌的人。 和十年之后的自己对话，又或者看年轻时候的自己充满希望或者干劲的想法，现在的你。与当年的你。是更加成熟还是一败涂地。 十年前的你深爱的一个人。现在，那个心上人是否还住在你的心里，亦或者早已被埋葬。 时间胶嚢，是一段时空旅行。带着你的希望，你的梦想，你的遗憾。与你同行。 所有消逝的感情唯有文字可以记录。 所有的一切都是从这里开始 熟悉的夏日 熟悉的教室 熟悉的午后阳光 你看 我回来了 我说 你在哪里呢 2018年冬月十五",
-    "summaryDescription": "获【支付宝】Apple专区1元优选推荐* 获【AppSo】AppWall推荐* 获【最美应用】今日最美推荐* Ⅰ.收不到信的小伙伴请首先看一下自己的垃圾邮箱。 Ⅱ.如果邮箱设置了反垃圾邮件信会被直接拒收。造成的不便非常抱歉。 Ⅲ.信件寄出不能寄给当天。为了避免太多无意义的邮件在当天发出。 Ⅳ.寄信地址很重要，请不要写错 非常感谢支持的朋友* 「时间胶囊 - 自动续费会员说明」 — 订阅周期：每月或每年（连续包月产品）。 — 订阅价格：连续订阅产品：￥ 6/月、￥35/年。 — 付款：用户确认购买并付款后记入iTunes账户。 — 用户可以通过用户的帐户设置来管理用户的订阅和自动更新。 — 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。 — 续订：会员的自有充值账户或苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。 — 隐私政策： https://breads-doubt-hvc.craft.me/kR8lmGVWjFMnlm — 自动续费会员服务协议： https://breads-doubt-hvc.craft.me/rSsZYNJu2oe0d2 清早上火车站 长街黑暗无行人 卖豆浆的小店冒着热气 从前车马很慢 书信很远 一生只够爱一个人 【电子信件】 以电子邮件形式在您指定的未来的某一天发送信件。 【带照片的信】 封存关于记忆的照片，多年以后打开老照片，打开那份值得珍藏的回忆。 【三行情书】 我爱你，爱说出口，三个字足矣。特别推出三行情书，附带照片，对你的他/她说出爱。 【纸短情长-纸质信纸】 特别推出纸质信纸，将您的信件制作成精美的定制信件，装订在时间胶囊特制的信封中。在时光中封存，临近收信日期发出，让您收到信件时感动与喜悦加倍！限时特惠，快去体验一下吧。 时间是唯一的解药 过去现在及以后 一霎那的回眸 往事如烟 这封来自过去的一封信 诉说着未来他和她的故事 有一天突然一觉醒来，发现自己只是在高中的一节课上睡着了，现在经历的一切都是一场梦，阳光照在你的脸上，桌上满是你的口水，老师还在前面喋喋不休的讲着课，黑板上写着高考倒计时。 你揉揉眼，对同桌说，我做了一个好长，好真实的梦，同桌骂你白痴，让你好好听课，你看着窗外，一切还都充满希望…… 这是我偶然看到的一个段子，对我的触动很大，突然地想到，这么多年这么快就过去了，从前以为很长很长的时光，现在都路过了，都又变成了很久以前的事情。我抓不住时间。定格不了这一秒。 十年的时光嗖然而过，你是否成了你当年想要成为的人，还是成了自己当年最讨厌的人。 和十年之后的自己对话，又或者看年轻时候的自己充满希望或者干劲的想法，现在的你。与当年的你。是更加成熟还是一败涂地。 十年前的你深爱的一个人。现在，那个心上人是否还住在你的心里，亦或者早已被埋葬。 时间胶嚢，是一段时空旅行。带着你的希望，你的梦想，你的遗憾。与你同行。 所有消逝的感情唯有文字可以记录。 所有的一切都是从这里开始 熟悉的夏日 熟悉的教室 熟悉的午后阳光 你看 我回来了 我说 你在哪里呢 2018年冬月十五",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/0b/3c/050b3cbd-93ad-078a-d471-14aa2a65ef6f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/0b/3c/050b3cbd-93ad-078a-d471-14aa2a65ef6f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
+    "description": "「时间胶囊」——寄往未来的信 × 时光日记。 写下的每一段文字，要么寄出去，要么收进时光瓶。 获【支付宝】Apple专区1元优选推荐* 获【AppSo】AppWall推荐* 获【最美应用】今日最美推荐* 【写信 · 寄往未来】 电子信件：写下此刻，在指定的未来某一天送达邮箱 带照片的信：文字与照片一起封存，多年后打开，回忆如初 三行情书：三个字足矣，把爱意连同一张照片寄给 TA 纸短情长：把信件印在精美的定制信纸上，装进时间胶囊特制信封，临近收信日寄出 【日记 · 时光瓶】 四个入口：日记、胶囊、信箱、写，让生活与心意各归其位 十种查看形态：手帐、列表、时间线、日历、照片、心情、笔记、翻阅、回望、话题 日历按月份连续浏览，照片、心情和天气都在格子里 每一天收进时光瓶，随时翻看「那年今天」 【时光徽章】 30 枚徽章、6 大系列：记录、寄信、等待、重逢、陪伴…… 把时间变成可以收藏的成就，把坚持变成看得见的纪念。 【把 App 变成你的】 10 套主题与多种字体，胶囊外观随心挑选 桌面小组件、Face ID 密码锁、iCloud 同步 已适配 iPad，支持简体中文、繁體中文、English、日本語、한국어 【寄信前请留意】 Ⅰ.收不到信的小伙伴请首先看一下自己的垃圾邮箱。 Ⅱ.如果邮箱设置了反垃圾邮件信会被直接拒收。造成的不便非常抱歉。 Ⅲ.信件寄出不能寄给当天。为了避免太多无意义的邮件在当天发出。 Ⅳ.寄信地址很重要，请不要写错。 「时间胶囊 - 自动续费会员说明」 — 订阅周期：每月或每年（连续包月产品）。 — 订阅价格：连续订阅产品：￥ 6/月、￥35/年。 — 付款：用户确认购买并付款后记入iTunes账户。 — 用户可以通过用户的帐户设置来管理用户的订阅和自动更新。 — 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。 — 续订：会员的自有充值账户或苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。 — 隐私政策： https://www.northcity.top/timepill-privacy/ — 自动续费会员服务协议： https://www.northcity.top/timepill-terms/ Terms of Use (EULA): https://www.northcity.top/timepill-terms/ 清早上火车站 长街黑暗无行人 卖豆浆的小店冒着热气 从前车马很慢 书信很远 一生只够爱一个人 时间是唯一的解药 过去现在及以后 时间胶囊，是一段时空旅行。带着你的希望，你的梦想，你的遗憾。与你同行。 所有消逝的感情唯有文字可以记录。 所有的一切都是从这里开始 熟悉的夏日 熟悉的教室 熟悉的午后阳光 你看 我回来了 我说 你在哪里呢 2018年冬月十五",
+    "fullDescription": "「时间胶囊」——寄往未来的信 × 时光日记。 写下的每一段文字，要么寄出去，要么收进时光瓶。 获【支付宝】Apple专区1元优选推荐* 获【AppSo】AppWall推荐* 获【最美应用】今日最美推荐* 【写信 · 寄往未来】 电子信件：写下此刻，在指定的未来某一天送达邮箱 带照片的信：文字与照片一起封存，多年后打开，回忆如初 三行情书：三个字足矣，把爱意连同一张照片寄给 TA 纸短情长：把信件印在精美的定制信纸上，装进时间胶囊特制信封，临近收信日寄出 【日记 · 时光瓶】 四个入口：日记、胶囊、信箱、写，让生活与心意各归其位 十种查看形态：手帐、列表、时间线、日历、照片、心情、笔记、翻阅、回望、话题 日历按月份连续浏览，照片、心情和天气都在格子里 每一天收进时光瓶，随时翻看「那年今天」 【时光徽章】 30 枚徽章、6 大系列：记录、寄信、等待、重逢、陪伴…… 把时间变成可以收藏的成就，把坚持变成看得见的纪念。 【把 App 变成你的】 10 套主题与多种字体，胶囊外观随心挑选 桌面小组件、Face ID 密码锁、iCloud 同步 已适配 iPad，支持简体中文、繁體中文、English、日本語、한국어 【寄信前请留意】 Ⅰ.收不到信的小伙伴请首先看一下自己的垃圾邮箱。 Ⅱ.如果邮箱设置了反垃圾邮件信会被直接拒收。造成的不便非常抱歉。 Ⅲ.信件寄出不能寄给当天。为了避免太多无意义的邮件在当天发出。 Ⅳ.寄信地址很重要，请不要写错。 「时间胶囊 - 自动续费会员说明」 — 订阅周期：每月或每年（连续包月产品）。 — 订阅价格：连续订阅产品：￥ 6/月、￥35/年。 — 付款：用户确认购买并付款后记入iTunes账户。 — 用户可以通过用户的帐户设置来管理用户的订阅和自动更新。 — 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。 — 续订：会员的自有充值账户或苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。 — 隐私政策： https://www.northcity.top/timepill-privacy/ — 自动续费会员服务协议： https://www.northcity.top/timepill-terms/ Terms of Use (EULA): https://www.northcity.top/timepill-terms/ 清早上火车站 长街黑暗无行人 卖豆浆的小店冒着热气 从前车马很慢 书信很远 一生只够爱一个人 时间是唯一的解药 过去现在及以后 时间胶囊，是一段时空旅行。带着你的希望，你的梦想，你的遗憾。与你同行。 所有消逝的感情唯有文字可以记录。 所有的一切都是从这里开始 熟悉的夏日 熟悉的教室 熟悉的午后阳光 你看 我回来了 我说 你在哪里呢 2018年冬月十五",
+    "summaryDescription": "「时间胶囊」——寄往未来的信 × 时光日记。 写下的每一段文字，要么寄出去，要么收进时光瓶。 获【支付宝】Apple专区1元优选推荐* 获【AppSo】AppWall推荐* 获【最美应用】今日最美推荐* 【写信 · 寄往未来】 电子信件：写下此刻，在指定的未来某一天送达邮箱 带照片的信：文字与照片一起封存，多年后打开，回忆如初 三行情书：三个字足矣，把爱意连同一张照片寄给 TA 纸短情长：把信件印在精美的定制信纸上，装进时间胶囊特制信封，临近收信日寄出 【日记 · 时光瓶】 四个入口：日记、胶囊、信箱、写，让生活与心意各归其位 十种查看形态：手帐、列表、时间线、日历、照片、心情、笔记、翻阅、回望、话题 日历按月份连续浏览，照片、心情和天气都在格子里 每一天收进时光瓶，随时翻看「那年今天」 【时光徽章】 30 枚徽章、6 大系列：记录、寄信、等待、重逢、陪伴…… 把时间变成可以收藏的成就，把坚持变成看得见的纪念。 【把 App 变成你的】 10 套主题与多种字体，胶囊外观随心挑选 桌面小组件、Face ID 密码锁、iCloud 同步 已适配 iPad，支持简体中文、繁體中文、English、日本語、한국어 【寄信前请留意】 Ⅰ.收不到信的小伙伴请首先看一下自己的垃圾邮箱。 Ⅱ.如果邮箱设置了反垃圾邮件信会被直接拒收。造成的不便非常抱歉。 Ⅲ.信件寄出不能寄给当天。为了避免太多无意义的邮件在当天发出。 Ⅳ.寄信地址很重要，请不要写错。 「时间胶囊 - 自动续费会员说明」 — 订阅周期：每月或每年（连续包月产品）。 — 订阅价格：连续订阅产品：￥ 6/月、￥35/年。 — 付款：用户确认购买并付款后记入iTunes账户。 — 用户可以通过用户的帐户设置来管理用户的订阅和自动更新。 — 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。 — 续订：会员的自有充值账户或苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。 — 隐私政策： https://www.northcity.top/timepill-privacy/ — 自动续费会员服务协议： https://www.northcity.top/timepill-terms/ Terms of Use (EULA): https://www.northcity.top/timepill-terms/ 清早上火车站 长街黑暗无行人 卖豆浆的小店冒着热气 从前车马很慢 书信很远 一生只够爱一个人 时间是唯一的解药 过去现在及以后 时间胶囊，是一段时空旅行。带着你的希望，你的梦想，你的遗憾。与你同行。 所有消逝的感情唯有文字可以记录。 所有的一切都是从这里开始 熟悉的夏日 熟悉的教室 熟悉的午后阳光 你看 我回来了 我说 你在哪里呢 2018年冬月十五",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/08/72/c6087261-97a6-8869-d11e-5a487d718910/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/08/72/c6087261-97a6-8869-d11e-5a487d718910/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "希 陈",
     "artistName": "希 陈",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/59/1d/6c/591d6cdf-716f-fcbd-8057-c1f32661c61c/56b26f9f-548f-4400-ade8-85fc0f6ae783_iPhone_8_Plus1.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/f1/12/2a/f1122a74-7df3-7b11-20f1-e696af17a681/bf3dba5c-1f20-4b52-8faa-1053a201a997_iPhone_8_Plus6.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/92/b5/8f/92b58f4f-a1e5-f4eb-9af7-dc01d48c5c40/7a32f4c7-7888-410e-85a5-e7cf4137c088_iPhone_8_Plus2.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/2f/d2/50/2fd25057-ff87-400b-16e7-aa11f4069701/a0dc05d1-9c5d-4a0a-b85d-2ea56be3d948_iPhone_8_Plus3.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/7c/6a/0d/7c6a0d60-7a09-4526-9475-ba76f9a42e11/81112387-2c76-4d14-8866-fda518f4cdfe_iPhone_8_Plus4.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/24/26/d8/2426d8c1-7593-2900-6781-40c043a6df23/b1b5f798-4c6d-4081-991f-eead614e691b_iPhone_8_Plus5.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/fb/5f/5f/fb5f5f96-3ede-6f7c-08ed-3f8fe2484315/4c441fd5-f81b-4ce4-ab81-b47cc22a72d8_iPhone_8_Plus8.png/392x696bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/9c/e1/7a9ce168-7584-b42c-daa8-69c394e9789a/APP_IPHONE_67-01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/b4/7d/efb47d86-244b-b304-2522-5930c7aca577/APP_IPHONE_67-02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/e9/3e/abe93ec5-ebbf-b421-4797-3379ae48610d/APP_IPHONE_67-03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/0f/75/900f75f9-4cf7-945f-fca3-675a4053038b/APP_IPHONE_67-04.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/2e/cc/562eccd3-7fae-841b-2ef8-7cb2947f0fbd/APP_IPHONE_67-05.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/78/2a/6c782aa6-6f78-b8fd-f9cb-0963567580fd/APP_IPHONE_67-06.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/38/0e/3e380e63-abfd-fd90-5b25-83624690a08e/APP_IPHONE_67-07.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/1d/28/b41d2836-aff9-8705-5a1d-ab0f693717f7/APP_IPHONE_67-08.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/56/92/90/5692902f-7cad-ebc4-9c7c-d7d7c5950dce/mzl.wxsxzciq.png/576x768bb.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/68/96/b9689683-02c8-76b9-8cc9-88b31f098aff/APP_IPAD_PRO_3GEN_129-01.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/5d/da/ca5dda72-0c11-e480-e985-1f1a32c10df8/APP_IPAD_PRO_3GEN_129-02.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/62/60/d662600d-a130-44d6-0199-13c3c62db7a6/APP_IPAD_PRO_3GEN_129-03.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/48/a9/5548a973-f1c1-9b82-7727-f21bd7640eb2/APP_IPAD_PRO_3GEN_129-04.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/e0/24/fae02447-ca23-4cd0-1f00-c71aa33ffb4f/APP_IPAD_PRO_3GEN_129-05.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/8f/46/5b8f468b-2411-f2c8-b2c3-1b478a636f67/APP_IPAD_PRO_3GEN_129-06.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/16/ce/f516cecd-7f42-b3c9-cb47-be3e047a872f/APP_IPAD_PRO_3GEN_129-07.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/2a/24/b12a24f0-ba3e-ddc5-961d-63d07fef34a7/APP_IPAD_PRO_3GEN_129-08.png/360x480bb.jpg"
     ]
   },
   "1358752168": {
@@ -44561,6 +45070,14 @@
     "history": [
       [
         {
+          "timestamp": 1791745228803,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791394209990,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -70437,8 +70954,8 @@
     "description": "正在寻找一个简单的间隔计时器吗？ 别找了！ 1.设置准备时间 2.设置工作时间 3.设置休息时间 4.设置轮次。 5.去吧！ ◉超级方便，适用于不同的锻炼。 无论您是参加Tabata、(7分钟)HIIT、CrossFit或任何其他类型的间歇训练，标准间隔计时器都是帮助您实现目标的工具。 ◉功能： 在后台工作。在计时器运行时听音乐。 简单的滚动界面。 设置准备、停止、工作时间和轮次。 大胆、鲜艳、五颜六色。 免广告和免订阅。 立即下载！",
     "fullDescription": "正在寻找一个简单的间隔计时器吗？ 别找了！ 1.设置准备时间 2.设置工作时间 3.设置休息时间 4.设置轮次。 5.去吧！ ◉超级方便，适用于不同的锻炼。 无论您是参加Tabata、(7分钟)HIIT、CrossFit或任何其他类型的间歇训练，标准间隔计时器都是帮助您实现目标的工具。 ◉功能： 在后台工作。在计时器运行时听音乐。 简单的滚动界面。 设置准备、停止、工作时间和轮次。 大胆、鲜艳、五颜六色。 免广告和免订阅。 立即下载！",
     "summaryDescription": "正在寻找一个简单的间隔计时器吗？ 别找了！ 1.设置准备时间 2.设置工作时间 3.设置休息时间 4.设置轮次。 5.去吧！ ◉超级方便，适用于不同的锻炼。 无论您是参加Tabata、(7分钟)HIIT、CrossFit或任何其他类型的间歇训练，标准间隔计时器都是帮助您实现目标的工具。 ◉功能： 在后台工作。在计时器运行时听音乐。 简单的滚动界面。 设置准备、停止、工作时间和轮次。 大胆、鲜艳、五颜六色。 免广告和免订阅。 立即下载！",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e1/a9/97/e1a99742-086c-13c4-0e45-9993d6b74c2c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e1/a9/97/e1a99742-086c-13c4-0e45-9993d6b74c2c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/d5/49/e7d5498f-af9a-c493-621c-39629d0b294a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/d5/49/e7d5498f-af9a-c493-621c-39629d0b294a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "sellerName": "Nam Dang",
     "artistName": "Nam Dang",
     "screenshotUrls": [
@@ -82085,7 +82602,16 @@
       "Fret Library": "¥8.00",
       "Cassettes & Pedals 11": "¥15.00",
       "Basslines Vol. 1": "¥15.00",
-      "93 Oktane": "¥22.00"
+      "93 Oktane": "¥22.00",
+      "Power Play Sessions": "¥8.00",
+      "Strummed Soul Vol.1": "¥8.00",
+      "Cassettes & Pedals Vol.1": "¥15.00",
+      "Loops from 1984 Vol.1": "¥8.00",
+      "Ivory Soul Vol.1": "¥15.00",
+      "Vanguard Stax Vol.1": "¥8.00",
+      "Lofi Jazz Guitar Vol.1": "¥8.00",
+      "Circa 1996": "¥8.00",
+      "Cassettes & Pedals Vol.2": "¥22.00"
     },
     "minPriceInfo": {
       "price": 38,
@@ -82109,9 +82635,37 @@
       "Fret Library": "¥8.00",
       "Cassettes & Pedals 11": "¥15.00",
       "Basslines Vol. 1": "¥15.00",
-      "93 Oktane": "¥22.00"
+      "93 Oktane": "¥22.00",
+      "Power Play Sessions": "¥8.00",
+      "Strummed Soul Vol.1": "¥8.00",
+      "Cassettes & Pedals Vol.1": "¥15.00",
+      "Loops from 1984 Vol.1": "¥8.00",
+      "Ivory Soul Vol.1": "¥15.00",
+      "Vanguard Stax Vol.1": "¥8.00",
+      "Lofi Jazz Guitar Vol.1": "¥8.00",
+      "Circa 1996": "¥8.00",
+      "Cassettes & Pedals Vol.2": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791745228803,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "70's Soul Aesthetcis": "¥15.00",
+            "Power Play Sessions": "¥8.00",
+            "Strummed Soul Vol.1": "¥8.00",
+            "Cassettes & Pedals Vol.1": "¥15.00",
+            "Loops from 1984 Vol.1": "¥8.00",
+            "Ivory Soul Vol.1": "¥15.00",
+            "Vanguard Stax Vol.1": "¥8.00",
+            "Lofi Jazz Guitar Vol.1": "¥8.00",
+            "Circa 1996": "¥8.00",
+            "Cassettes & Pedals Vol.2": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791466811232,
@@ -112191,7 +112745,12 @@
       "Dan Müller Preset Pack": "¥28.00",
       "Sound Of Izrael Preset Pack": "¥48.00",
       "House Preset Pack": "¥28.00",
-      "TheSoundTestRoom Preset Pack": "¥38.00"
+      "TheSoundTestRoom Preset Pack": "¥38.00",
+      "MPE #2": "¥28.00",
+      "Sample The World": "¥28.00",
+      "Heritage Synths Soundscapes": "¥38.00",
+      "Retro Sonic Lofi": "¥28.00",
+      "Imer6ia Preset Pack": "¥28.00"
     },
     "minPriceInfo": {
       "price": 58,
@@ -112205,9 +112764,33 @@
       "Dan Müller Preset Pack": "¥28.00",
       "Sound Of Izrael Preset Pack": "¥48.00",
       "House Preset Pack": "¥28.00",
-      "TheSoundTestRoom Preset Pack": "¥38.00"
+      "TheSoundTestRoom Preset Pack": "¥38.00",
+      "MPE #2": "¥28.00",
+      "Sample The World": "¥28.00",
+      "Heritage Synths Soundscapes": "¥38.00",
+      "Retro Sonic Lofi": "¥28.00",
+      "Imer6ia Preset Pack": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791745228803,
+          "price": 128,
+          "formattedPrice": "¥128.00",
+          "inAppPurchases": {
+            "MPE #2": "¥28.00",
+            "Sample The World": "¥28.00",
+            "Heritage Synths Soundscapes": "¥38.00",
+            "Retro Sonic Lofi": "¥28.00",
+            "Imer6ia Preset Pack": "¥28.00",
+            "MPE Endeavors Preset Pack": "¥0.00",
+            "Very Sick Beats": "¥28.00",
+            "Blue Lines And Grains": "¥28.00",
+            "Dan Müller Preset Pack": "¥28.00",
+            "Mika Preset Pack": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788101754035,
@@ -141823,6 +142406,14 @@
       "formattedPrice": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791745228803,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791320673269,
@@ -193616,7 +194207,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Premium": "¥0.00"
+      "Premium": "¥38.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -193624,6 +194215,16 @@
       "Premium": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791745228803,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791211925971,
@@ -195162,9 +195763,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/zoonzoon-ultimate-vibrator/id1595186051?uo=4",
-    "description": "ZOONZOON 将您的 iPhone 和游戏控制器变成一种强烈的振动。无需额外硬件。打开应用程序并按播放。 iPhone 和游戏手柄。同时振动手机、控制器或两者。强度。从轻微的嗡嗡声一直到全力以赴。锐度。软边、中边或硬边。模式。稳定、脉冲、波动、心跳、地震、风暴等。每个人的感觉都不一样。你自己的节奏。用手指画出图案。节奏、停顿和强度会保留在您的设备上。屏幕锁定。意外的敲击不会打断节奏。继续前进。锁定屏幕或离开",
-    "fullDescription": "ZOONZOON 将您的 iPhone 和游戏控制器变成一种强烈的振动。无需额外硬件。打开应用程序并按播放。 iPhone 和游戏手柄。同时振动手机、控制器或两者。强度。从轻微的嗡嗡声一直到全力以赴。锐度。软边、中边或硬边。模式。稳定、脉冲、波动、心跳、地震、风暴等。每个人的感觉都不一样。你自己的节奏。用手指画出图案。节奏、停顿和强度会保留在您的设备上。屏幕锁定。意外的敲击不会打断节奏。继续前进。锁定屏幕或离开",
-    "summaryDescription": "ZOONZOON 将您的 iPhone 和游戏控制器变成一种强烈的振动。无需额外硬件。打开应用程序并按播放。 iPhone 和游戏手柄。同时振动手机、控制器或两者。强度。从轻微的嗡嗡声一直到全力以赴。锐度。软边、中边或硬边。模式。稳定、脉冲、波动、心跳、地震、风暴等。每个人的感觉都不一样。你自己的节奏。用手指画出图案。节奏、停顿和强度会保留在您的设备上。屏幕锁定。意外的敲击不会打断节奏。继续前进。锁定屏幕或离开",
+    "description": "ZOONZOON 将您的 iPhone 和游戏控制器变成一种强烈的振动。无需额外硬件。打开应用程序并按播放。 iPhone 和游戏手柄。同时振动手机、控制器或两者。强度。从轻微的嗡嗡声一直到全力以赴。锐度。软边、中边或硬边。模式。稳定、脉冲、波动、心跳、地震、风暴等。每个人的感觉都不一样。你自己的节奏。用手指画出图案。节奏、停顿和强度会保留在您的设备上。屏幕锁定。意外的敲击不会打乱节奏。继续前进。锁定屏幕或离开",
+    "fullDescription": "ZOONZOON 将您的 iPhone 和游戏控制器变成一种强烈的振动。无需额外硬件。打开应用程序并按播放。 iPhone 和游戏手柄。同时振动手机、控制器或两者。强度。从轻微的嗡嗡声一直到全力以赴。锐度。软边、中边或硬边。模式。稳定、脉冲、波动、心跳、地震、风暴等。每个人的感觉都不一样。你自己的节奏。用手指画出图案。节奏、停顿和强度会保留在您的设备上。屏幕锁定。意外的敲击不会打乱节奏。继续前进。锁定屏幕或离开",
+    "summaryDescription": "ZOONZOON 将您的 iPhone 和游戏控制器变成一种强烈的振动。无需额外硬件。打开应用程序并按播放。 iPhone 和游戏手柄。同时振动手机、控制器或两者。强度。从轻微的嗡嗡声一直到全力以赴。锐度。软边、中边或硬边。模式。稳定、脉冲、波动、心跳、地震、风暴等。每个人的感觉都不一样。你自己的节奏。用手指画出图案。节奏、停顿和强度会保留在您的设备上。屏幕锁定。意外的敲击不会打乱节奏。继续前进。锁定屏幕或离开",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/b1/59/07b15912-ca64-8d0b-33a9-6fef6b0c7170/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/b1/59/07b15912-ca64-8d0b-33a9-6fef6b0c7170/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
     "sellerName": "SISHOR, OOO",
@@ -209943,8 +210544,8 @@
     "description": "OnePlayer 是一款为本地音乐、无损音频和 NAS 曲库打造的专业离线音乐播放器，让你真正拥有自己的音乐。 已适配 iOS 26、watchOS 26 与 CarPlay 26 2500+ 全球五星评价 数十万用户，遍布全球 170+ 个国家和地区 如果你收藏了很多 FLAC、APE、DSD 或老 MP3 文件，不想让流媒体曲库决定自己能听什么；如果你有一台 NAS，希望在 iPhone、iPad、Apple Watch 和 CarPlay 上随时播放自己的音乐；如果你习惯整理专辑、封面、歌词和播放列表，OnePlayer 可以成为你的私人音乐库。 在家连接电脑或 NAS，通勤时用 Apple Watch 独立播放，开车时通过 CarPlay 浏览曲库，学习和睡前则可以配合倍速播放、跳过片头片尾与睡眠定时器使用。 OnePlayer 不是流媒体 App。你的音乐文件、播放列表、专辑封面和歌词，都由你自己掌控。 【OnePlayer 5.0｜全新播放体验】 OnePlayer 5.0 从播放引擎、声音调节到网络音乐进行了全面升级。 全新播放引擎 全新播放引擎，性能更强，支持更多格式、更多音效， 支持关闭、自动、96 kHz 和 192 kHz 升频播放模式 显示音源、请求和实际输出采样率，音频输出状态更加透明 针对 Hi-Res 音频与 USB DAC 优化输出链路 搭配兼容的 USB DAC，可通过 DoP 输出 DSD，最高支持 DSD512 新增实时音频频谱，让正在播放的声音也能看得见 兼容曲目支持无缝衔接，减少 Live 专辑、古典组曲和连续音乐之间的切歌间隙 全新声音中心 所有声音相关功能集中到一处，输出状态和声音处理链路一目了然。 10 段自定义均衡器与多种 EQ 预设 高通、低通、带通和陷波高级滤波器 按单曲或专辑进行响度均衡 混响和延迟空间效果 黑胶暖声、经典磁带、纯净磁带等声音风格 查看完整音频路径与各声音模块的生效状态 更方便的网络音乐 自动发现局域网内的 SMB 和 WebDAV 设备 支持读取网络歌曲的内嵌封面与歌词 清晰显示连接、加载和播放状态 支持建立远程资料库，将 NAS 音乐加入歌曲、专辑和艺人页面 支持在线播放、离线缓存或批量下载到本地 【本地与无损播放】 支持 MP3、FLAC、AAC、WAV、AIFF、APE、OGG、OPUS、WMA、DSD、DSF、M4A、M4R 等 20 多种音频格式 支持 Hi-Res 音频信息显示 支持倍速播放，适合有声书、播客、课程和学习资料 支持睡眠定时器，可选择倒计时结束后播放完整首歌再停止 支持跳过片头和片尾 支持播放进度记忆 支持多种播放页主题和横屏播放体验 【音乐导入与 NAS 访问】 Wi-Fi 无线传歌 USB 有线导入 文件 App 导入 AirDrop 导入 iTunes / iPod 音乐库同步 连接 SMB 局域网共享、连接 WebDAV、NAS 或电脑共享文件夹 【专业音乐库管理】 按歌曲、专辑、艺人、文件夹和播放列表浏览音乐 创建普通播放列表和智能播放列表 按艺人、专辑、曲风、年份、时长、播放次数、添加时间、评分和比特率等条件自动筛选 支持收藏、搜索、排序和批量管理 编辑标题、艺人、专辑、封面、歌词、曲风、年份、轨道号和评分等信息 使用 AI 辅助匹配专辑封面和歌曲标签 【歌词体验】 支持 LRC 歌词、内嵌歌词和外部歌词文件 支持逐字歌词显示，带来更接近卡拉 OK 的播放体验 支持歌词翻译，更轻松地理解外语歌曲 可直接在 App 内编辑歌词 支持 iOS 26+ 本地 AI 歌词识别，Premium 用户可无限使用 【Apple Watch 独立播放】 将音乐导入 Apple Watch，即使不带 iPhone，也能播放自己的音乐。 管理歌曲、播放列表、专辑和艺人 支持 Apple Watch 扬声器播放，老款手表也可使用 支持倍速播放、睡眠定时器和播放进度记忆 使用 Cover Flow 浏览封面，通过数码表冠切换音乐 Apple Watch 可直接连接 SMB 或 WebDAV 下载音乐 支持搜索、批量操作和创建播放列表 适合跑步、健身、徒步、通勤等不方便携带手机的场景。 【CarPlay、Siri 与小组件】 支持 CarPlay 车载播放 在车机上浏览歌曲、专辑、艺人、文件夹和播放列表 支持 CarPlay 歌词显示 使用 Siri 与快捷指令播放歌曲、专辑或播放列表 可实现连接 CarPlay 后自动播放等自动化 提供歌词、迷你播放器、iPod 和 CD 风格等桌面小组件 支持 iOS 控制中心播放、暂停、上一首和下一首控件 【Last.fm 听歌记录】 自动记录听歌历史 同步喜爱歌曲 查看个人听歌报告 浏览歌曲、专辑和艺人资料 OnePlayer 不提供任何音频或视频流媒体内容，也不提供音乐下载服务。它是一款用于播放和管理用户自行导入或连接的音频文件的本地音乐播放器。 部分功能需要 Premium、兼容的外接设备或较新的系统版本支持。 OnePlayer 提供买断和订阅两种购买方式，价格可能因地区而异。订阅将通过 App Store 账户扣款并自动续订，除非在当前订阅期结束至少 24 小时前取消。购买后可在 App Store 账户设置中管理订阅。 联系我们 oneplayer_app@outlook.com 隐私政策 https://oneplayer.cn/about/privacy.html 使用条款 https://oneplayer.cn/about/terms.html",
     "fullDescription": "OnePlayer 是一款为本地音乐、无损音频和 NAS 曲库打造的专业离线音乐播放器，让你真正拥有自己的音乐。 已适配 iOS 26、watchOS 26 与 CarPlay 26 2500+ 全球五星评价 数十万用户，遍布全球 170+ 个国家和地区 如果你收藏了很多 FLAC、APE、DSD 或老 MP3 文件，不想让流媒体曲库决定自己能听什么；如果你有一台 NAS，希望在 iPhone、iPad、Apple Watch 和 CarPlay 上随时播放自己的音乐；如果你习惯整理专辑、封面、歌词和播放列表，OnePlayer 可以成为你的私人音乐库。 在家连接电脑或 NAS，通勤时用 Apple Watch 独立播放，开车时通过 CarPlay 浏览曲库，学习和睡前则可以配合倍速播放、跳过片头片尾与睡眠定时器使用。 OnePlayer 不是流媒体 App。你的音乐文件、播放列表、专辑封面和歌词，都由你自己掌控。 【OnePlayer 5.0｜全新播放体验】 OnePlayer 5.0 从播放引擎、声音调节到网络音乐进行了全面升级。 全新播放引擎 全新播放引擎，性能更强，支持更多格式、更多音效， 支持关闭、自动、96 kHz 和 192 kHz 升频播放模式 显示音源、请求和实际输出采样率，音频输出状态更加透明 针对 Hi-Res 音频与 USB DAC 优化输出链路 搭配兼容的 USB DAC，可通过 DoP 输出 DSD，最高支持 DSD512 新增实时音频频谱，让正在播放的声音也能看得见 兼容曲目支持无缝衔接，减少 Live 专辑、古典组曲和连续音乐之间的切歌间隙 全新声音中心 所有声音相关功能集中到一处，输出状态和声音处理链路一目了然。 10 段自定义均衡器与多种 EQ 预设 高通、低通、带通和陷波高级滤波器 按单曲或专辑进行响度均衡 混响和延迟空间效果 黑胶暖声、经典磁带、纯净磁带等声音风格 查看完整音频路径与各声音模块的生效状态 更方便的网络音乐 自动发现局域网内的 SMB 和 WebDAV 设备 支持读取网络歌曲的内嵌封面与歌词 清晰显示连接、加载和播放状态 支持建立远程资料库，将 NAS 音乐加入歌曲、专辑和艺人页面 支持在线播放、离线缓存或批量下载到本地 【本地与无损播放】 支持 MP3、FLAC、AAC、WAV、AIFF、APE、OGG、OPUS、WMA、DSD、DSF、M4A、M4R 等 20 多种音频格式 支持 Hi-Res 音频信息显示 支持倍速播放，适合有声书、播客、课程和学习资料 支持睡眠定时器，可选择倒计时结束后播放完整首歌再停止 支持跳过片头和片尾 支持播放进度记忆 支持多种播放页主题和横屏播放体验 【音乐导入与 NAS 访问】 Wi-Fi 无线传歌 USB 有线导入 文件 App 导入 AirDrop 导入 iTunes / iPod 音乐库同步 连接 SMB 局域网共享、连接 WebDAV、NAS 或电脑共享文件夹 【专业音乐库管理】 按歌曲、专辑、艺人、文件夹和播放列表浏览音乐 创建普通播放列表和智能播放列表 按艺人、专辑、曲风、年份、时长、播放次数、添加时间、评分和比特率等条件自动筛选 支持收藏、搜索、排序和批量管理 编辑标题、艺人、专辑、封面、歌词、曲风、年份、轨道号和评分等信息 使用 AI 辅助匹配专辑封面和歌曲标签 【歌词体验】 支持 LRC 歌词、内嵌歌词和外部歌词文件 支持逐字歌词显示，带来更接近卡拉 OK 的播放体验 支持歌词翻译，更轻松地理解外语歌曲 可直接在 App 内编辑歌词 支持 iOS 26+ 本地 AI 歌词识别，Premium 用户可无限使用 【Apple Watch 独立播放】 将音乐导入 Apple Watch，即使不带 iPhone，也能播放自己的音乐。 管理歌曲、播放列表、专辑和艺人 支持 Apple Watch 扬声器播放，老款手表也可使用 支持倍速播放、睡眠定时器和播放进度记忆 使用 Cover Flow 浏览封面，通过数码表冠切换音乐 Apple Watch 可直接连接 SMB 或 WebDAV 下载音乐 支持搜索、批量操作和创建播放列表 适合跑步、健身、徒步、通勤等不方便携带手机的场景。 【CarPlay、Siri 与小组件】 支持 CarPlay 车载播放 在车机上浏览歌曲、专辑、艺人、文件夹和播放列表 支持 CarPlay 歌词显示 使用 Siri 与快捷指令播放歌曲、专辑或播放列表 可实现连接 CarPlay 后自动播放等自动化 提供歌词、迷你播放器、iPod 和 CD 风格等桌面小组件 支持 iOS 控制中心播放、暂停、上一首和下一首控件 【Last.fm 听歌记录】 自动记录听歌历史 同步喜爱歌曲 查看个人听歌报告 浏览歌曲、专辑和艺人资料 OnePlayer 不提供任何音频或视频流媒体内容，也不提供音乐下载服务。它是一款用于播放和管理用户自行导入或连接的音频文件的本地音乐播放器。 部分功能需要 Premium、兼容的外接设备或较新的系统版本支持。 OnePlayer 提供买断和订阅两种购买方式，价格可能因地区而异。订阅将通过 App Store 账户扣款并自动续订，除非在当前订阅期结束至少 24 小时前取消。购买后可在 App Store 账户设置中管理订阅。 联系我们 oneplayer_app@outlook.com 隐私政策 https://oneplayer.cn/about/privacy.html 使用条款 https://oneplayer.cn/about/terms.html",
     "summaryDescription": "OnePlayer 是一款为本地音乐、无损音频和 NAS 曲库打造的专业离线音乐播放器，让你真正拥有自己的音乐。 已适配 iOS 26、watchOS 26 与 CarPlay 26 2500+ 全球五星评价 数十万用户，遍布全球 170+ 个国家和地区 如果你收藏了很多 FLAC、APE、DSD 或老 MP3 文件，不想让流媒体曲库决定自己能听什么；如果你有一台 NAS，希望在 iPhone、iPad、Apple Watch 和 CarPlay 上随时播放自己的音乐；如果你习惯整理专辑、封面、歌词和播放列表，OnePlayer 可以成为你的私人音乐库。 在家连接电脑或 NAS，通勤时用 Apple Watch 独立播放，开车时通过 CarPlay 浏览曲库，学习和睡前则可以配合倍速播放、跳过片头片尾与睡眠定时器使用。 OnePlayer 不是流媒体 App。你的音乐文件、播放列表、专辑封面和歌词，都由你自己掌控。 【OnePlayer 5.0｜全新播放体验】 OnePlayer 5.0 从播放引擎、声音调节到网络音乐进行了全面升级。 全新播放引擎 全新播放引擎，性能更强，支持更多格式、更多音效， 支持关闭、自动、96 kHz 和 192 kHz 升频播放模式 显示音源、请求和实际输出采样率，音频输出状态更加透明 针对 Hi-Res 音频与 USB DAC 优化输出链路 搭配兼容的 USB DAC，可通过 DoP 输出 DSD，最高支持 DSD512 新增实时音频频谱，让正在播放的声音也能看得见 兼容曲目支持无缝衔接，减少 Live 专辑、古典组曲和连续音乐之间的切歌间隙 全新声音中心 所有声音相关功能集中到一处，输出状态和声音处理链路一目了然。 10 段自定义均衡器与多种 EQ 预设 高通、低通、带通和陷波高级滤波器 按单曲或专辑进行响度均衡 混响和延迟空间效果 黑胶暖声、经典磁带、纯净磁带等声音风格 查看完整音频路径与各声音模块的生效状态 更方便的网络音乐 自动发现局域网内的 SMB 和 WebDAV 设备 支持读取网络歌曲的内嵌封面与歌词 清晰显示连接、加载和播放状态 支持建立远程资料库，将 NAS 音乐加入歌曲、专辑和艺人页面 支持在线播放、离线缓存或批量下载到本地 【本地与无损播放】 支持 MP3、FLAC、AAC、WAV、AIFF、APE、OGG、OPUS、WMA、DSD、DSF、M4A、M4R 等 20 多种音频格式 支持 Hi-Res 音频信息显示 支持倍速播放，适合有声书、播客、课程和学习资料 支持睡眠定时器，可选择倒计时结束后播放完整首歌再停止 支持跳过片头和片尾 支持播放进度记忆 支持多种播放页主题和横屏播放体验 【音乐导入与 NAS 访问】 Wi-Fi 无线传歌 USB 有线导入 文件 App 导入 AirDrop 导入 iTunes / iPod 音乐库同步 连接 SMB 局域网共享、连接 WebDAV、NAS 或电脑共享文件夹 【专业音乐库管理】 按歌曲、专辑、艺人、文件夹和播放列表浏览音乐 创建普通播放列表和智能播放列表 按艺人、专辑、曲风、年份、时长、播放次数、添加时间、评分和比特率等条件自动筛选 支持收藏、搜索、排序和批量管理 编辑标题、艺人、专辑、封面、歌词、曲风、年份、轨道号和评分等信息 使用 AI 辅助匹配专辑封面和歌曲标签 【歌词体验】 支持 LRC 歌词、内嵌歌词和外部歌词文件 支持逐字歌词显示，带来更接近卡拉 OK 的播放体验 支持歌词翻译，更轻松地理解外语歌曲 可直接在 App 内编辑歌词 支持 iOS 26+ 本地 AI 歌词识别，Premium 用户可无限使用 【Apple Watch 独立播放】 将音乐导入 Apple Watch，即使不带 iPhone，也能播放自己的音乐。 管理歌曲、播放列表、专辑和艺人 支持 Apple Watch 扬声器播放，老款手表也可使用 支持倍速播放、睡眠定时器和播放进度记忆 使用 Cover Flow 浏览封面，通过数码表冠切换音乐 Apple Watch 可直接连接 SMB 或 WebDAV 下载音乐 支持搜索、批量操作和创建播放列表 适合跑步、健身、徒步、通勤等不方便携带手机的场景。 【CarPlay、Siri 与小组件】 支持 CarPlay 车载播放 在车机上浏览歌曲、专辑、艺人、文件夹和播放列表 支持 CarPlay 歌词显示 使用 Siri 与快捷指令播放歌曲、专辑或播放列表 可实现连接 CarPlay 后自动播放等自动化 提供歌词、迷你播放器、iPod 和 CD 风格等桌面小组件 支持 iOS 控制中心播放、暂停、上一首和下一首控件 【Last.fm 听歌记录】 自动记录听歌历史 同步喜爱歌曲 查看个人听歌报告 浏览歌曲、专辑和艺人资料 OnePlayer 不提供任何音频或视频流媒体内容，也不提供音乐下载服务。它是一款用于播放和管理用户自行导入或连接的音频文件的本地音乐播放器。 部分功能需要 Premium、兼容的外接设备或较新的系统版本支持。 OnePlayer 提供买断和订阅两种购买方式，价格可能因地区而异。订阅将通过 App Store 账户扣款并自动续订，除非在当前订阅期结束至少 24 小时前取消。购买后可在 App Store 账户设置中管理订阅。 联系我们 oneplayer_app@outlook.com 隐私政策 https://oneplayer.cn/about/privacy.html 使用条款 https://oneplayer.cn/about/terms.html",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/55/64/4155643b-7240-8d38-ad50-ac07326f7463/OnePlayerWhite-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/55/64/4155643b-7240-8d38-ad50-ac07326f7463/OnePlayerWhite-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/38/0c/86380c36-d89b-a01d-8f5c-f9e3af0e17a7/OnePlayerWhite-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/38/0c/86380c36-d89b-a01d-8f5c-f9e3af0e17a7/OnePlayerWhite-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
     "sellerName": "Guangzhou Charming Island Technology Co., Ltd.",
     "artistName": "俊 李",
     "screenshotUrls": [
@@ -211261,6 +211862,14 @@
     "history": [
       [
         {
+          "timestamp": 1791745228803,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788806917118,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -211285,9 +211894,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/steel-guitar-pro/id1619441235?uo=4",
-    "description": "Steel Guitar PRO is a highly advanced guitar processor that combines cutting-edge realtime audio generation with a truly expressive control interface. It provides many unique guitar models, built-in amps & FX processing, MIDI control, AUv3, and wide-ranging customizability. :: Control Surface :: Steel Guitar PRO features a powerful yet familiar control interface. Simply touch the strings to “pick,” and drag the slide bar to modulate pitch. By enabling enhanced slide control, you can even use multiple touches to tilt the slide bar, or dampen the strings. Fretboard dimension, string spacing, and pick guard size are all configurable. A high level of resolution enables minute pitch control and realistic vibrato. Settings let you vary guitar tone, sustain and release times, touch behavior, slide bar auxiliary control, handedness, and more. :: Guitars :: Steel Guitar PRO provides you with an arsenal of guitars to choose from: unique examples of humbuckers, single coils, P90s, and more. Instruments include many 6 string guitars, as well as 8- and 10-string steel guitar variants. Each family of instruments comes with many tuning to choose from, but you can also create and save your own. In addition, you have up to seven virtual “pedals” to bend individual or collections of string — much like a pedal steel. The pedals can be actuated by slightly tilting the device, or via MIDI, or even with the fretting touch. All of this is configurable by the user. :: Built-In FX Processing :: Steel Guitar PRO incorporates a virtual signal chain where you can put amps and FX in any combination. The included dozen amps and 20 FX are all custom tuned to evoke the best tones from the guitar processor. Each amp or effect features multiple parameters to precisely modify its tone and feel. These parameters are MIDI-mappable, so that you can control them via an external device. The amp collection covers a broad spectrum from bell-like cleans to thick overdrive. The FX include many analog inspired “pedals” that range from overdrives, distortions, mods, delays, reverbs, to beyond. :: AUv3 & MIDI :: Steel Guitar PRO can also be used as an AUv3 MIDI plugin. We developed a custom MIDI sub-protocol so that Steel Guitar PRO and its powerful control interface can run seamlessly inside an AUv3 host. You can also use a traditional MIDI keyboard or device to play Steel Guitar PRO, which readily accommodates MIDI pitch & mod wheels, and key velocity as well. :: Useful Features :: Steel Guitar PRO includes a comprehensive preset management system that allows you to save, modify, and share any number of your “rigs.” The standalone app also includes a handy “tape deck” where you can record, play, loop and import/export audio. MIDI learn feature is easy and intuitive to use, but also offers deeper customization. All audio processing is done in the highest resolution, natively and without resampling at rates up to 96kHz. The fluid user interface integrates readily with many different AUv3 hosts.",
-    "fullDescription": "Steel Guitar PRO is a highly advanced guitar processor that combines cutting-edge realtime audio generation with a truly expressive control interface. It provides many unique guitar models, built-in amps & FX processing, MIDI control, AUv3, and wide-ranging customizability. :: Control Surface :: Steel Guitar PRO features a powerful yet familiar control interface. Simply touch the strings to “pick,” and drag the slide bar to modulate pitch. By enabling enhanced slide control, you can even use multiple touches to tilt the slide bar, or dampen the strings. Fretboard dimension, string spacing, and pick guard size are all configurable. A high level of resolution enables minute pitch control and realistic vibrato. Settings let you vary guitar tone, sustain and release times, touch behavior, slide bar auxiliary control, handedness, and more. :: Guitars :: Steel Guitar PRO provides you with an arsenal of guitars to choose from: unique examples of humbuckers, single coils, P90s, and more. Instruments include many 6 string guitars, as well as 8- and 10-string steel guitar variants. Each family of instruments comes with many tuning to choose from, but you can also create and save your own. In addition, you have up to seven virtual “pedals” to bend individual or collections of string — much like a pedal steel. The pedals can be actuated by slightly tilting the device, or via MIDI, or even with the fretting touch. All of this is configurable by the user. :: Built-In FX Processing :: Steel Guitar PRO incorporates a virtual signal chain where you can put amps and FX in any combination. The included dozen amps and 20 FX are all custom tuned to evoke the best tones from the guitar processor. Each amp or effect features multiple parameters to precisely modify its tone and feel. These parameters are MIDI-mappable, so that you can control them via an external device. The amp collection covers a broad spectrum from bell-like cleans to thick overdrive. The FX include many analog inspired “pedals” that range from overdrives, distortions, mods, delays, reverbs, to beyond. :: AUv3 & MIDI :: Steel Guitar PRO can also be used as an AUv3 MIDI plugin. We developed a custom MIDI sub-protocol so that Steel Guitar PRO and its powerful control interface can run seamlessly inside an AUv3 host. You can also use a traditional MIDI keyboard or device to play Steel Guitar PRO, which readily accommodates MIDI pitch & mod wheels, and key velocity as well. :: Useful Features :: Steel Guitar PRO includes a comprehensive preset management system that allows you to save, modify, and share any number of your “rigs.” The standalone app also includes a handy “tape deck” where you can record, play, loop and import/export audio. MIDI learn feature is easy and intuitive to use, but also offers deeper customization. All audio processing is done in the highest resolution, natively and without resampling at rates up to 96kHz. The fluid user interface integrates readily with many different AUv3 hosts.",
-    "summaryDescription": "Steel Guitar PRO is a highly advanced guitar processor that combines cutting-edge realtime audio generation with a truly expressive control interface. It provides many unique guitar models, built-in amps & FX processing, MIDI control, AUv3, and wide-ranging customizability. :: Control Surface :: Steel Guitar PRO features a powerful yet familiar control interface. Simply touch the strings to “pick,” and drag the slide bar to modulate pitch. By enabling enhanced slide control, you can even use multiple touches to tilt the slide bar, or dampen the strings. Fretboard dimension, string spacing, and pick guard size are all configurable. A high level of resolution enables minute pitch control and realistic vibrato. Settings let you vary guitar tone, sustain and release times, touch behavior, slide bar auxiliary control, handedness, and more. :: Guitars :: Steel Guitar PRO provides you with an arsenal of guitars to choose from: unique examples of humbuckers, single coils, P90s, and more. Instruments include many 6 string guitars, as well as 8- and 10-string steel guitar variants. Each family of instruments comes with many tuning to choose from, but you can also create and save your own. In addition, you have up to seven virtual “pedals” to bend individual or collections of string — much like a pedal steel. The pedals can be actuated by slightly tilting the device, or via MIDI, or even with the fretting touch. All of this is configurable by the user. :: Built-In FX Processing :: Steel Guitar PRO incorporates a virtual signal chain where you can put amps and FX in any combination. The included dozen amps and 20 FX are all custom tuned to evoke the best tones from the guitar processor. Each amp or effect features multiple parameters to precisely modify its tone and feel. These parameters are MIDI-mappable, so that you can control them via an external device. The amp collection covers a broad spectrum from bell-like cleans to thick overdrive. The FX include many analog inspired “pedals” that range from overdrives, distortions, mods, delays, reverbs, to beyond. :: AUv3 & MIDI :: Steel Guitar PRO can also be used as an AUv3 MIDI plugin. We developed a custom MIDI sub-protocol so that Steel Guitar PRO and its powerful control interface can run seamlessly inside an AUv3 host. You can also use a traditional MIDI keyboard or device to play Steel Guitar PRO, which readily accommodates MIDI pitch & mod wheels, and key velocity as well. :: Useful Features :: Steel Guitar PRO includes a comprehensive preset management system that allows you to save, modify, and share any number of your “rigs.” The standalone app also includes a handy “tape deck” where you can record, play, loop and import/export audio. MIDI learn feature is easy and intuitive to use, but also offers deeper customization. All audio processing is done in the highest resolution, natively and without resampling at rates up to 96kHz. The fluid user interface integrates readily with many different AUv3 hosts.",
+    "description": "Steel Guitar PRO 是一款非常先进的吉他处理器，它将尖端的实时音频生成与真正富有表现力的控制界面相结合。它提供了许多独特的吉他模型、内置放大器和效果处理、MIDI 控制、AUv3 和广泛的可定制性。 :: 控制界面 :: Steel Guitar PRO 具有强大而熟悉的控制界面。只需触摸琴弦即可“拨动”，然后拖动滑动条即可调节音高。通过启用增强的滑动控制，您甚至可以使用多次触摸来倾斜滑动条或抑制琴弦。指板尺寸、琴弦间距和",
+    "fullDescription": "Steel Guitar PRO 是一款非常先进的吉他处理器，它将尖端的实时音频生成与真正富有表现力的控制界面相结合。它提供了许多独特的吉他模型、内置放大器和效果处理、MIDI 控制、AUv3 和广泛的可定制性。 :: 控制界面 :: Steel Guitar PRO 具有强大而熟悉的控制界面。只需触摸琴弦即可“拨动”，然后拖动滑动条即可调节音高。通过启用增强的滑动控制，您甚至可以使用多次触摸来倾斜滑动条或抑制琴弦。指板尺寸、琴弦间距和",
+    "summaryDescription": "Steel Guitar PRO 是一款非常先进的吉他处理器，它将尖端的实时音频生成与真正富有表现力的控制界面相结合。它提供了许多独特的吉他模型、内置放大器和效果处理、MIDI 控制、AUv3 和广泛的可定制性。 :: 控制界面 :: Steel Guitar PRO 具有强大而熟悉的控制界面。只需触摸琴弦即可“拨动”，然后拖动滑动条即可调节音高。通过启用增强的滑动控制，您甚至可以使用多次触摸来倾斜滑动条或抑制琴弦。指板尺寸、琴弦间距和",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/fc/3d/0efc3df7-457d-ee38-9a03-477d7ee71193/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/fc/3d/0efc3df7-457d-ee38-9a03-477d7ee71193/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.jpg",
     "sellerName": "Yonac Inc.",
@@ -212023,197 +212632,5 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/54/75/87/54758770-da00-1b67-e940-6ee6d8b33e16/69109a39-bcc1-4c20-aca4-0104b97c948f_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00283rd_generation_U0029_-_2022-05-02_at_01.00.38.png/576x768bb.png"
     ],
     "_externalSourceFirstSeen": 1775507772952
-  },
-  "1620569987": {
-    "name": "MobileSheets®",
-    "trackName": "MobileSheets®",
-    "maxPriceInfo": {
-      "price": 98,
-      "formattedPrice": "¥98.00"
-    },
-    "minPriceInfo": {
-      "price": 98,
-      "formattedPrice": "¥98.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1783379096918,
-          "price": 98,
-          "formattedPrice": "¥98.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/mobilesheets/id1620569987?uo=4",
-    "description": "MobileSheets 是专为 iPad 打造的终极乐谱阅读器。它让您不必再携带厚重的书本和活页夹，并能在几秒内访问乐谱库中的任何一份乐谱。它也提供多项专为音乐人打造的强大功能，包括： 可连接到任何平台上运行 MobileSheets 的其他设备，轻松分享歌曲与曲目单。 可通过 WiFi、蓝牙或云端同步设备上的乐谱库。 多种操作模式，包含双页并排、半页翻页与垂直卷动页面。 可通过任何蓝牙或 USB 设备（包含双踏板和四踏板型号）进行免持翻页，也可使用自动卷动功能。 用于标记乐谱的注释功能，支持自由绘制、基本图形、文字与图章。 通过 WiFi 或蓝牙连接多部平板电脑，以书本模式同时显示两页乐谱。 自订音频播放器，可与乐谱同步播放音轨。音频播放器支持 A-B 循环播放与多种尺寸显示。 可自订页面顺序，让您轻松移除不必要的页面、重复页面或变更页面顺序，而不影响原始文件。 具备多种显示模式与音效的节拍器。 书签功能，方便快速访问乐谱中的特定段落。 提供链接点功能，可处理反复记号并快速在页面间跳转。 智能按钮，可放置在乐谱上，按下时会触发可设置的动作。 支持多种文件类型，包含图片、PDF、文本文件与 ChordPro 文件。 支持导入 CSV 索引文件，以分割大型的 PDF 乐谱集。 支持通过 USB、蓝牙和 WiFi 与 MIDI 设备通信，以加载歌曲或触发动作。 支持对文本文件与 ChordPro 文件中的和弦进行移调。 支持手动与自动裁切，可彻底去除不必要的边界留白。 支持曲目单和收藏集功能，可高效地将歌曲分组以供演奏。 强大的乐谱库管理功能，支持大量元数据字段，让您能完整掌控乐谱库中的数据。 提供免费的 PC 辅助应用程序，让您轻松建立与编辑歌曲。 立即试用 MobileSheets，只需轻点一下，即可体验自由访问所有乐谱的便利性。 注意事项：此应用程序不包含任何乐谱，您必须提供自己的乐谱文件。此应用程序无法播放 PDF、图片、文本文件或 ChordPro 文件，仅能显示这些文件，并播放音频文件。 适用于 PC 的辅助应用程序未包含在此应用程序中，您可在此免费下载：https://www.zubersoft.com/mobilesheets/companion.php 隐私权政策：https://zubersoft.com/mobilesheets/privacy_policy_ios.html 使用条款：https://zubersoft.com/mobilesheets/terms_and_conditions_ios.html",
-    "fullDescription": "MobileSheets 是专为 iPad 打造的终极乐谱阅读器。它让您不必再携带厚重的书本和活页夹，并能在几秒内访问乐谱库中的任何一份乐谱。它也提供多项专为音乐人打造的强大功能，包括： 可连接到任何平台上运行 MobileSheets 的其他设备，轻松分享歌曲与曲目单。 可通过 WiFi、蓝牙或云端同步设备上的乐谱库。 多种操作模式，包含双页并排、半页翻页与垂直卷动页面。 可通过任何蓝牙或 USB 设备（包含双踏板和四踏板型号）进行免持翻页，也可使用自动卷动功能。 用于标记乐谱的注释功能，支持自由绘制、基本图形、文字与图章。 通过 WiFi 或蓝牙连接多部平板电脑，以书本模式同时显示两页乐谱。 自订音频播放器，可与乐谱同步播放音轨。音频播放器支持 A-B 循环播放与多种尺寸显示。 可自订页面顺序，让您轻松移除不必要的页面、重复页面或变更页面顺序，而不影响原始文件。 具备多种显示模式与音效的节拍器。 书签功能，方便快速访问乐谱中的特定段落。 提供链接点功能，可处理反复记号并快速在页面间跳转。 智能按钮，可放置在乐谱上，按下时会触发可设置的动作。 支持多种文件类型，包含图片、PDF、文本文件与 ChordPro 文件。 支持导入 CSV 索引文件，以分割大型的 PDF 乐谱集。 支持通过 USB、蓝牙和 WiFi 与 MIDI 设备通信，以加载歌曲或触发动作。 支持对文本文件与 ChordPro 文件中的和弦进行移调。 支持手动与自动裁切，可彻底去除不必要的边界留白。 支持曲目单和收藏集功能，可高效地将歌曲分组以供演奏。 强大的乐谱库管理功能，支持大量元数据字段，让您能完整掌控乐谱库中的数据。 提供免费的 PC 辅助应用程序，让您轻松建立与编辑歌曲。 立即试用 MobileSheets，只需轻点一下，即可体验自由访问所有乐谱的便利性。 注意事项：此应用程序不包含任何乐谱，您必须提供自己的乐谱文件。此应用程序无法播放 PDF、图片、文本文件或 ChordPro 文件，仅能显示这些文件，并播放音频文件。 适用于 PC 的辅助应用程序未包含在此应用程序中，您可在此免费下载：https://www.zubersoft.com/mobilesheets/companion.php 隐私权政策：https://zubersoft.com/mobilesheets/privacy_policy_ios.html 使用条款：https://zubersoft.com/mobilesheets/terms_and_conditions_ios.html",
-    "summaryDescription": "MobileSheets 是专为 iPad 打造的终极乐谱阅读器。它让您不必再携带厚重的书本和活页夹，并能在几秒内访问乐谱库中的任何一份乐谱。它也提供多项专为音乐人打造的强大功能，包括： 可连接到任何平台上运行 MobileSheets 的其他设备，轻松分享歌曲与曲目单。 可通过 WiFi、蓝牙或云端同步设备上的乐谱库。 多种操作模式，包含双页并排、半页翻页与垂直卷动页面。 可通过任何蓝牙或 USB 设备（包含双踏板和四踏板型号）进行免持翻页，也可使用自动卷动功能。 用于标记乐谱的注释功能，支持自由绘制、基本图形、文字与图章。 通过 WiFi 或蓝牙连接多部平板电脑，以书本模式同时显示两页乐谱。 自订音频播放器，可与乐谱同步播放音轨。音频播放器支持 A-B 循环播放与多种尺寸显示。 可自订页面顺序，让您轻松移除不必要的页面、重复页面或变更页面顺序，而不影响原始文件。 具备多种显示模式与音效的节拍器。 书签功能，方便快速访问乐谱中的特定段落。 提供链接点功能，可处理反复记号并快速在页面间跳转。 智能按钮，可放置在乐谱上，按下时会触发可设置的动作。 支持多种文件类型，包含图片、PDF、文本文件与 ChordPro 文件。 支持导入 CSV 索引文件，以分割大型的 PDF 乐谱集。 支持通过 USB、蓝牙和 WiFi 与 MIDI 设备通信，以加载歌曲或触发动作。 支持对文本文件与 ChordPro 文件中的和弦进行移调。 支持手动与自动裁切，可彻底去除不必要的边界留白。 支持曲目单和收藏集功能，可高效地将歌曲分组以供演奏。 强大的乐谱库管理功能，支持大量元数据字段，让您能完整掌控乐谱库中的数据。 提供免费的 PC 辅助应用程序，让您轻松建立与编辑歌曲。 立即试用 MobileSheets，只需轻点一下，即可体验自由访问所有乐谱的便利性。 注意事项：此应用程序不包含任何乐谱，您必须提供自己的乐谱文件。此应用程序无法播放 PDF、图片、文本文件或 ChordPro 文件，仅能显示这些文件，并播放音频文件。 适用于 PC 的辅助应用程序未包含在此应用程序中，您可在此免费下载：https://www.zubersoft.com/mobilesheets/companion.php 隐私权政策：https://zubersoft.com/mobilesheets/privacy_policy_ios.html 使用条款：https://zubersoft.com/mobilesheets/terms_and_conditions_ios.html",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/64/53/836453f1-86bb-43ab-bdde-fc73b6525808/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/64/53/836453f1-86bb-43ab-bdde-fc73b6525808/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "sellerName": "Zubersoft, LLC",
-    "artistName": "Michael Zuber",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/93/02/0f9302a6-db92-5aaf-83db-5c52d8b21773/IMG_1296.PNG/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/7f/a1/ba7fa116-64c7-23ef-67bb-24ca3356188b/IMG_1297.PNG/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/49/d3/c749d301-3b78-2fc2-a96d-f1aee896d2e6/IMG_1298.PNG/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/6a/ef/796aefc3-271c-ff2e-93c0-8459987bae5e/IMG_1299.PNG/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/38/c6/4338c609-23de-4f37-6f18-7819b5c18d8d/IMG_1300.PNG/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/0e/25/1d0e256a-6fc5-ba51-e0e2-41280b9721ae/IMG_1301.PNG/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/46/63/7c46639b-f16e-9516-1c72-08df40e89a8c/IMG_1302.PNG/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/73/59/22735964-8ae2-f73d-6e4a-608a85a6a57a/IMG_0267.PNG/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/0a/cf/ca0acf66-4cfd-6229-4deb-84f7aa9d3a6b/IMG_0268.PNG/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/e8/8f/8ae88fb3-d074-2a69-606d-bfce71deb987/IMG_0269.PNG/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/52/84/dc52848d-d331-f076-d95f-afd8e234ab17/IMG_0270.PNG/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/89/1a/07891ac1-f633-b54d-7edd-be1cf9abfc83/IMG_0271.PNG/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/93/3b/8d933be7-6cbc-a5c7-bdf7-4b5ba5c6a383/IMG_0273.PNG/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/76/fd/2e76fd6e-389f-f25c-4d4b-0088edfaf73e/IMG_0274.PNG/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/de/44/f5de4451-a992-e14a-f60d-c1408301c2b3/IMG_0039.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/9d/2b/539d2b67-5f96-0f5c-9543-4c3dede3d66c/IMG_0040.png/576x768bb.png"
-    ],
-    "_externalSourceFirstSeen": 1783379064509
-  },
-  "1620584291": {
-    "name": "Bookmarks: Organize & Track",
-    "trackName": "Bookmarks: Organize & Track",
-    "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "Onetime Payment": "¥0.00",
-      "Yearly Plan": "¥93.00",
-      "Monthly Plan": "¥13.00",
-      "6 Months Plan": "¥63.00"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费",
-      "Onetime Payment": "¥0.00",
-      "Yearly Plan": "¥93.00",
-      "Monthly Plan": "¥13.00",
-      "6 Months Plan": "¥63.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1790812648261,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {
-            "Onetime Payment": "¥0.00",
-            "Yearly Plan": "¥93.00",
-            "Monthly Plan": "¥13.00",
-            "6 Months Plan": "¥63.00"
-          }
-        },
-        {
-          "timestamp": 1790796523053,
-          "price": 0,
-          "formattedPrice": "Free",
-          "inAppPurchases": {
-            "Onetime Payment": "¥0.00",
-            "Yearly Plan": "¥93.00",
-            "Monthly Plan": "¥13.00",
-            "6 Months Plan": "¥63.00"
-          }
-        }
-      ],
-      [
-        {
-          "timestamp": 1790322994421,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {
-            "Onetime Payment": "¥0.00",
-            "Yearly Plan": "¥93.00",
-            "Monthly Plan": "¥13.00",
-            "6 Months Plan": "¥63.00"
-          }
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/bookmarks-organize-track/id1620584291?uo=4",
-    "description": "Welcome to our bookmarking app! With this app, you can easily save and organize your favorite websites, set reminders to read articles later, and stay on top of your to-do list with our interactive Kanban board. Our app's sleek, intuitive interface makes it easy to add, edit, and delete your bookmarks. You can even organize your bookmarks into custom folders and tag them for easy search and discovery. Plus, with seamless syncing across all of your devices, you'll always have access to your saved websites and reminders no matter where you are. Use the Kanban board to keep track of your tasks and projects, with columns for \"to-do,\" \"in progress,\" and \"done.\" And with the reminder feature, you'll never forget to read that important article – just schedule it for a later time and we'll send you a notification when it's time to read. Researchers, students, developers, and simply anyone who keeps bookmarks in their day-to-day internet browsing will be benefited from this app. Don't waste any more time searching for that one website you bookmarked months ago – try our bookmarking app today and start staying organized and on top of your online content! Key features With folders and projects, you can organize your life hierarchically in a way that makes sense to you, not the app. Create and save smart shortcuts and perform powerful queries across projects Supports a clean Kanban view for better state management. Quick link previews, so that you never want to leave the app. Endless customization for states, priorities, actions, and tags. Actions, Tags, and Priorities make it easier to categorize and search bookmarks. Share extensions and an automatic title generator make it easier to create bookmarks. iCloud syncing ensure all of your devices are on the same page. Notifications with smart actions, so you’ll never miss a scheduled bookmark again. Customization including app theme and app icons to make sure everything fits with your device theme. Home screen widgets to keep your progress just a glance away. Terms of Use - https://bookmarks.taleneschool.com/Bookmarks.termsofuse.privacypolicy.pdf Privacy policy - https://bookmarks.taleneschool.com/Bookmarks.termsofuse.privacypolicy.pdf Happy Bookmarking!",
-    "fullDescription": "Welcome to our bookmarking app! With this app, you can easily save and organize your favorite websites, set reminders to read articles later, and stay on top of your to-do list with our interactive Kanban board. Our app's sleek, intuitive interface makes it easy to add, edit, and delete your bookmarks. You can even organize your bookmarks into custom folders and tag them for easy search and discovery. Plus, with seamless syncing across all of your devices, you'll always have access to your saved websites and reminders no matter where you are. Use the Kanban board to keep track of your tasks and projects, with columns for \"to-do,\" \"in progress,\" and \"done.\" And with the reminder feature, you'll never forget to read that important article – just schedule it for a later time and we'll send you a notification when it's time to read. Researchers, students, developers, and simply anyone who keeps bookmarks in their day-to-day internet browsing will be benefited from this app. Don't waste any more time searching for that one website you bookmarked months ago – try our bookmarking app today and start staying organized and on top of your online content! Key features With folders and projects, you can organize your life hierarchically in a way that makes sense to you, not the app. Create and save smart shortcuts and perform powerful queries across projects Supports a clean Kanban view for better state management. Quick link previews, so that you never want to leave the app. Endless customization for states, priorities, actions, and tags. Actions, Tags, and Priorities make it easier to categorize and search bookmarks. Share extensions and an automatic title generator make it easier to create bookmarks. iCloud syncing ensure all of your devices are on the same page. Notifications with smart actions, so you’ll never miss a scheduled bookmark again. Customization including app theme and app icons to make sure everything fits with your device theme. Home screen widgets to keep your progress just a glance away. Terms of Use - https://bookmarks.taleneschool.com/Bookmarks.termsofuse.privacypolicy.pdf Privacy policy - https://bookmarks.taleneschool.com/Bookmarks.termsofuse.privacypolicy.pdf Happy Bookmarking!",
-    "summaryDescription": "Welcome to our bookmarking app! With this app, you can easily save and organize your favorite websites, set reminders to read articles later, and stay on top of your to-do list with our interactive Kanban board. Our app's sleek, intuitive interface makes it easy to add, edit, and delete your bookmarks. You can even organize your bookmarks into custom folders and tag them for easy search and discovery. Plus, with seamless syncing across all of your devices, you'll always have access to your saved websites and reminders no matter where you are. Use the Kanban board to keep track of your tasks and projects, with columns for \"to-do,\" \"in progress,\" and \"done.\" And with the reminder feature, you'll never forget to read that important article – just schedule it for a later time and we'll send you a notification when it's time to read. Researchers, students, developers, and simply anyone who keeps bookmarks in their day-to-day internet browsing will be benefited from this app. Don't waste any more time searching for that one website you bookmarked months ago – try our bookmarking app today and start staying organized and on top of your online content! Key features With folders and projects, you can organize your life hierarchically in a way that makes sense to you, not the app. Create and save smart shortcuts and perform powerful queries across projects Supports a clean Kanban view for better state management. Quick link previews, so that you never want to leave the app. Endless customization for states, priorities, actions, and tags. Actions, Tags, and Priorities make it easier to categorize and search bookmarks. Share extensions and an automatic title generator make it easier to create bookmarks. iCloud syncing ensure all of your devices are on the same page. Notifications with smart actions, so you’ll never miss a scheduled bookmark again. Customization including app theme and app icons to make sure everything fits with your device theme. Home screen widgets to keep your progress just a glance away. Terms of Use - https://bookmarks.taleneschool.com/Bookmarks.termsofuse.privacypolicy.pdf Privacy policy - https://bookmarks.taleneschool.com/Bookmarks.termsofuse.privacypolicy.pdf Happy Bookmarking!",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7b/ac/ce/7bacce4c-cd9b-bd1f-7916-245d7d5bf031/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7b/ac/ce/7bacce4c-cd9b-bd1f-7916-245d7d5bf031/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
-    "sellerName": "Frank Thamel",
-    "artistName": "Frank Thamel",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/79/4f/5a/794f5a02-777f-e51b-5adc-5e875cd6fd71/d24fe71c-6fc6-4525-bdc1-af5ca5e58c10_iPhone8_Plus_1.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a0/26/67/a0266758-555a-0447-c76a-8bdb8a9c0c59/6b73c001-db65-44db-8cc2-3ccc31dd4b35_iPhone8_Plus_2.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/09/9e/d3/099ed3c6-5027-6fcf-1b20-fd1f5676c554/dc8a3954-f9cf-413e-b990-5214f30389c5_iPhone8_Plus_10.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/63/ac/ae/63acae18-6183-b5a5-75b0-ebfd07c27f26/674ba188-88f4-48e2-8672-9b37f717270e_iPhone8_Plus_8.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/19/36/85/193685a0-df84-0b02-5427-b94bcfcefabc/d9c711a7-a689-4306-95dc-204e0b0b13c1_iPhone8_Plus_9.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6a/aa/8a/6aaa8a2d-900f-0e73-6f27-669f24cd9413/b74c2db3-50e8-4562-8175-6ed23ae6c52d_iPhone8_Plus_5.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/76/b9/b976b934-f998-9d5d-97a1-f24847f58084/8845d3c5-6299-4adc-a6a0-74d3a9f487d1_iPhone8_Plus_4.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e2/ad/7f/e2ad7fd3-b1f4-0e03-4685-f5928845cd79/db514cbd-4a91-4527-b8b9-53722e637578_iPhone8_Plus_7.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/7c/1c/25/7c1c25ae-a5f7-1100-3671-b32d605e495f/5023697f-d0b5-4417-ad5c-eaafdc9b5283_iPhone8_Plus_6.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5c/81/d9/5c81d972-5b08-7272-0f54-770562abfe16/8291fdb9-dd8a-49e7-91e7-591ae4319872_iPhone8_Plus_3.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5a/1e/7d/5a1e7d31-fe7e-367d-e401-3f8b7241dc5c/afd920f6-3333-4117-a815-e2a1ecc04aea_iPad3_4_1.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ea/86/92/ea86924d-96e2-249f-befd-7276ed0b48b3/448da474-8401-425d-9f02-298835f47b98_iPad3_4_2.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f4/ad/43/f4ad43bd-5465-bffb-cdf3-5ec2d92d2bfe/0441931c-e6f8-430e-951c-079195971456_iPad3_4_10.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b5/13/ef/b513efa5-f524-8937-9a38-ddbcafd45111/9a494c67-0f9e-4139-9e40-e3105c4c84a8_iPad3_4_8.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/e7/cb/e9e7cbe3-d7e6-1d12-48ff-2d8f51ac1607/ecabf87e-5d5a-4abc-8a0f-4f42469d4c35_iPad3_4_9.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0f/17/89/0f1789df-cf9b-04b4-a55e-35113927cc5c/b8cbd576-305d-43d4-8018-e67ccbe3a176_iPad3_4_5.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/18/59/88/1859888d-6cac-7a9d-15be-9a8f922823b7/66a8ba59-ac67-46de-a96c-34b3e0c6c158_iPad3_4_4.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/06/0b/15/060b15a8-2c23-82a3-d1f6-eb525f2268db/f6c1f673-ea07-4ab9-b181-1717cb997191_iPad3_4_7.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ff/af/11/ffaf11ba-87f3-f99f-4081-c24808700d47/58d72f91-dd37-42c3-93f2-dd736e8a5c15_iPad3_4_6.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/33/e8/6a/33e86ab7-7163-6847-1c37-8f4ca92a1f0c/3abc4149-ef6c-4e34-8800-70f1705b2466_iPad3_4_3.png/552x414bb.png"
-    ],
-    "_externalSource": "OODATA",
-    "_externalSourceFirstSeen": 1790322994325
-  },
-  "1620695357": {
-    "name": "Fairy PDF Reader",
-    "trackName": "Fairy PDF Reader",
-    "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
-    },
-    "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1788719059318,
-          "price": 38,
-          "formattedPrice": "¥38.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/fairy-pdf-reader/id1620695357?uo=4",
-    "description": "Fairy PDF Reader is a PDF reader that’s aims to provide you with the best reading experience on your iOS device. I created it for myself at first, and then continued to add features to it to make it more useful. It features full keyboard support for almost anything, including turning pages, opening & closing documents, finding stuff on the PDF document, importing PDF files and more. It tries to imitate the desktop PDF reading experience on your iPad or iPhone for you to take it anywhere you go. Fairy PDF Reader has many other nifty features:- It remembers the last book you opened, and allows you to continue reading it whenever you want. If the app was closed for whatever reason, the next time you open it, it will reopen the last PDF document where you stopped. This is quite useful in case you own an old iOS device with a low amount of memory. Zoom & Lock feature:- A lot of PDF books tend to have large margins. The zoom & lock feature makes it easier to zoom in & take advantage of your iPad or iPhone screen real-estate. Once the zoom level is locked, you won’t be able to zoom in or out again until you unlock it again. Fairy PDF Reader will remember the last zoom setting you did separately for each book in your library, and it remembers it for both portrait & landscape modes separately. Other PDF readers allow you to zoom in to view your documents, but they make to harder to turn pages or maintain the page's position on the screen. Dark Mode support, with the ability to invert the PDF colors to further relief your eyes. Shows the PDF book table of content, with a search box to find the part you are looking for The PDF Documents list is sorted based on the last book you opened, making it easier to open one of the last few books you read Supports importing files from Zip files. If there are multiple PDF files inside the Zip, Fairy PDF Reader will import all of them. Import PDF files from common cloud services. Like Dropbox or OneDrive. Stores all the words you translated:- With the Translate & Save feature, any word you translate will be stored automatically, you can view these words and copy them for revision at any time you want to. This can quite helpful to expand your vocabulary or learning new languages. Share PDF files from other applications:- You can export any PDF file you open in Safari or other apps & they will be directly imported to Fairy PDF Reader. Find text in the documents you’re currently reading. Organize files in folders, and copy or move them between them. Search for books in the current folder. Fairy PDF Reader has a convenient text matching that makes this easier. Smart tap detection:- Touching the lower part of the page won’t turn the page, this was added so you won’t turn the page by mistake while reading. The same goes to showing the options bar, you can easily hide it by tapping anywhere on the screen, but you need to tap on the upper part of the screen to show it, so you will unlikely show it by mistake. Unselecting text is also easy, just tap anywhere on the screen, and the selection will be gone. Generally speaking, taps & gestures are designed so that they won't interfere with one another, or interfere with you while you're focused on your book. Go to any page quickly using the pages navigator, you can either type the page number you want or move the slider, or you can simply tap on the left or right arrows to go to the next or previous page. Scroll To Top disabled:- While in landscape mode, you can't go to the beginning of the PDF document by tapping on the title bar, which is a common feature in iOS. This was done since it's easy to trigger that feature by mistake. The \"Go To Page\" dialog is there to help you get to the beginning of the book if you like. You can also read the full documentation of the app on my website:- https://Tech-Fairy.com/fairy-pdf-reader-user-manual-how-to-use-fairy-pdf-reader-to-get-the-best-pdf-reading-experience/",
-    "fullDescription": "Fairy PDF Reader is a PDF reader that’s aims to provide you with the best reading experience on your iOS device. I created it for myself at first, and then continued to add features to it to make it more useful. It features full keyboard support for almost anything, including turning pages, opening & closing documents, finding stuff on the PDF document, importing PDF files and more. It tries to imitate the desktop PDF reading experience on your iPad or iPhone for you to take it anywhere you go. Fairy PDF Reader has many other nifty features:- It remembers the last book you opened, and allows you to continue reading it whenever you want. If the app was closed for whatever reason, the next time you open it, it will reopen the last PDF document where you stopped. This is quite useful in case you own an old iOS device with a low amount of memory. Zoom & Lock feature:- A lot of PDF books tend to have large margins. The zoom & lock feature makes it easier to zoom in & take advantage of your iPad or iPhone screen real-estate. Once the zoom level is locked, you won’t be able to zoom in or out again until you unlock it again. Fairy PDF Reader will remember the last zoom setting you did separately for each book in your library, and it remembers it for both portrait & landscape modes separately. Other PDF readers allow you to zoom in to view your documents, but they make to harder to turn pages or maintain the page's position on the screen. Dark Mode support, with the ability to invert the PDF colors to further relief your eyes. Shows the PDF book table of content, with a search box to find the part you are looking for The PDF Documents list is sorted based on the last book you opened, making it easier to open one of the last few books you read Supports importing files from Zip files. If there are multiple PDF files inside the Zip, Fairy PDF Reader will import all of them. Import PDF files from common cloud services. Like Dropbox or OneDrive. Stores all the words you translated:- With the Translate & Save feature, any word you translate will be stored automatically, you can view these words and copy them for revision at any time you want to. This can quite helpful to expand your vocabulary or learning new languages. Share PDF files from other applications:- You can export any PDF file you open in Safari or other apps & they will be directly imported to Fairy PDF Reader. Find text in the documents you’re currently reading. Organize files in folders, and copy or move them between them. Search for books in the current folder. Fairy PDF Reader has a convenient text matching that makes this easier. Smart tap detection:- Touching the lower part of the page won’t turn the page, this was added so you won’t turn the page by mistake while reading. The same goes to showing the options bar, you can easily hide it by tapping anywhere on the screen, but you need to tap on the upper part of the screen to show it, so you will unlikely show it by mistake. Unselecting text is also easy, just tap anywhere on the screen, and the selection will be gone. Generally speaking, taps & gestures are designed so that they won't interfere with one another, or interfere with you while you're focused on your book. Go to any page quickly using the pages navigator, you can either type the page number you want or move the slider, or you can simply tap on the left or right arrows to go to the next or previous page. Scroll To Top disabled:- While in landscape mode, you can't go to the beginning of the PDF document by tapping on the title bar, which is a common feature in iOS. This was done since it's easy to trigger that feature by mistake. The \"Go To Page\" dialog is there to help you get to the beginning of the book if you like. You can also read the full documentation of the app on my website:- https://Tech-Fairy.com/fairy-pdf-reader-user-manual-how-to-use-fairy-pdf-reader-to-get-the-best-pdf-reading-experience/",
-    "summaryDescription": "Fairy PDF Reader is a PDF reader that’s aims to provide you with the best reading experience on your iOS device. I created it for myself at first, and then continued to add features to it to make it more useful. It features full keyboard support for almost anything, including turning pages, opening & closing documents, finding stuff on the PDF document, importing PDF files and more. It tries to imitate the desktop PDF reading experience on your iPad or iPhone for you to take it anywhere you go. Fairy PDF Reader has many other nifty features:- It remembers the last book you opened, and allows you to continue reading it whenever you want. If the app was closed for whatever reason, the next time you open it, it will reopen the last PDF document where you stopped. This is quite useful in case you own an old iOS device with a low amount of memory. Zoom & Lock feature:- A lot of PDF books tend to have large margins. The zoom & lock feature makes it easier to zoom in & take advantage of your iPad or iPhone screen real-estate. Once the zoom level is locked, you won’t be able to zoom in or out again until you unlock it again. Fairy PDF Reader will remember the last zoom setting you did separately for each book in your library, and it remembers it for both portrait & landscape modes separately. Other PDF readers allow you to zoom in to view your documents, but they make to harder to turn pages or maintain the page's position on the screen. Dark Mode support, with the ability to invert the PDF colors to further relief your eyes. Shows the PDF book table of content, with a search box to find the part you are looking for The PDF Documents list is sorted based on the last book you opened, making it easier to open one of the last few books you read Supports importing files from Zip files. If there are multiple PDF files inside the Zip, Fairy PDF Reader will import all of them. Import PDF files from common cloud services. Like Dropbox or OneDrive. Stores all the words you translated:- With the Translate & Save feature, any word you translate will be stored automatically, you can view these words and copy them for revision at any time you want to. This can quite helpful to expand your vocabulary or learning new languages. Share PDF files from other applications:- You can export any PDF file you open in Safari or other apps & they will be directly imported to Fairy PDF Reader. Find text in the documents you’re currently reading. Organize files in folders, and copy or move them between them. Search for books in the current folder. Fairy PDF Reader has a convenient text matching that makes this easier. Smart tap detection:- Touching the lower part of the page won’t turn the page, this was added so you won’t turn the page by mistake while reading. The same goes to showing the options bar, you can easily hide it by tapping anywhere on the screen, but you need to tap on the upper part of the screen to show it, so you will unlikely show it by mistake. Unselecting text is also easy, just tap anywhere on the screen, and the selection will be gone. Generally speaking, taps & gestures are designed so that they won't interfere with one another, or interfere with you while you're focused on your book. Go to any page quickly using the pages navigator, you can either type the page number you want or move the slider, or you can simply tap on the left or right arrows to go to the next or previous page. Scroll To Top disabled:- While in landscape mode, you can't go to the beginning of the PDF document by tapping on the title bar, which is a common feature in iOS. This was done since it's easy to trigger that feature by mistake. The \"Go To Page\" dialog is there to help you get to the beginning of the book if you like. You can also read the full documentation of the app on my website:- https://Tech-Fairy.com/fairy-pdf-reader-user-manual-how-to-use-fairy-pdf-reader-to-get-the-best-pdf-reading-experience/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/70/3e/7e703efa-01c6-6f8f-9f54-df566e165fdb/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/70/3e/7e703efa-01c6-6f8f-9f54-df566e165fdb/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.jpg",
-    "sellerName": "Mohannad Daghistany",
-    "artistName": "Mohannad Daghistany",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/5a/9d/055a9deb-ad9e-e5b4-5318-77d9dac34519/e8774460-4052-4c42-9d62-0f6592962c4c_Keyboard_Support_-_5.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/c3/6e/dfc36ecc-7608-224e-57d7-f0265335c5f3/42b840ca-865d-4bf8-84aa-9c24eeaeb396_Cloud_Services_-_5.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/0a/3a/320a3afe-4ad8-04aa-c229-ce98ea687cbd/34909c4b-5382-4ff1-a497-4fbf1f945866_Find_Text.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/dd/eb/54ddebac-cdfa-08c2-b06f-f8b6d6acaab8/4c55c835-e7c8-440f-b2ea-810484dafbe8_Show_Translated_Words_-_5.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ae/de/b4aedef4-8f4b-92fc-4486-066aa0743fa5/2f529bc7-2d97-4e0d-bbdc-3ac63f6f5559_Landscape_Reading_-_5.png/406x228bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/8b/98/808b986d-cd52-cd1b-bbe2-b9a0ea40a0fd/c17d8c72-eca5-4eb2-ab1e-51a61a1bd30f_Import_PDF.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/c0/02/32c00264-7582-c025-488a-dfb281967879/d89364e8-62bf-41b3-a001-285f271da716_Keyboard_Support_-_12.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/dd/25/e9dd25df-0d89-b9b4-b91c-3bfbac4b9356/0c9e238f-10ab-40b2-b5fa-44bc2cbc9c9e_Zoom_Lock_-_12.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/1d/44/fe1d4425-38b6-93f6-c549-c59d1733aaad/b9b76be0-8091-4d67-91c9-70148b06ee57_Landscape_Reading_-_12.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/8a/cc/708acc22-3bcc-f746-5e81-98accd730bc1/ae17ab8a-62b9-44a1-abed-df5a907e8302_Find_Text_-_12.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/bc/88/cabc8877-9941-cfe3-5096-2886686be448/0717c39c-f659-4ba6-9308-cebcf5bc94d4_Show_Translated_Words.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/ba/d0/8bbad013-dabb-26a6-27ff-07a5a0f558c7/4b6dfcab-0762-40e7-81f0-447331db642b_Import_Wifi.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/b5/a4/d1b5a496-037f-4b60-9d77-a1d19ed6bf99/9f6cf97e-b3c0-44d3-aa46-42fd679cbf27_Navigate_Your.png/576x768bb.png"
-    ],
-    "_externalSourceFirstSeen": 1788719029237
   }
 }
