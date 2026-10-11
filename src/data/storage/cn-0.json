@@ -9560,10 +9560,18 @@
       "formattedPrice": "¥8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791723633759,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1780181819221,
@@ -33220,6 +33228,25 @@
     "history": [
       [
         {
+          "timestamp": 1791723633759,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro": "¥98.00",
+            "Brahms: The Mutopia Collection": "¥0.00",
+            "Liszt: The Mutopia Collection": "¥0.00",
+            "Verdi: The Mutopia Collection": "¥0.00",
+            "Burgmüller: The Mutopia Collection": "¥0.00",
+            "Haydn: The Mutopia Collection": "¥0.00",
+            "Schumann: The Mutopia Collection": "¥0.00",
+            "Tchaikovsky: The Mutopia Collection": "¥0.00",
+            "Rameau: The Mutopia Collection": "¥0.00",
+            "Satie: The Mutopia Collection": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791636091889,
           "price": 168,
           "formattedPrice": "¥168.00",
@@ -50159,6 +50186,48 @@
     ],
     "_externalSourceFirstSeen": 1772914609207
   },
+  "389960652": {
+    "name": "PubMed Library",
+    "trackName": "PubMed Library",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791723633759,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/pubmed-library/id389960652?uo=4",
+    "description": "PubMed Library is designed to search and organize all your favorite articles on the go. PubMed comprises more than 19 million citations for biomedical literature from MEDLINE, life science journals, and online books that you can search from almost anywhere. Citations may include links to full-text content from PubMed Central and publisher web sites. With PubMed Library you can make advanced searchs to PubMed, download available information of articles you are interested in, access and / or download full text of the article, download and attach a PDF file to a downloaded article, share downloaded article information by mail and many more. Publisher sites may require user authentication. Take into account that you may need access privileges to access all information related to an article, as 'PDF full text' or 'full text online'. EZProxy support is included to allow use your library proxy to download or access that information.",
+    "fullDescription": "PubMed Library is designed to search and organize all your favorite articles on the go. PubMed comprises more than 19 million citations for biomedical literature from MEDLINE, life science journals, and online books that you can search from almost anywhere. Citations may include links to full-text content from PubMed Central and publisher web sites. With PubMed Library you can make advanced searchs to PubMed, download available information of articles you are interested in, access and / or download full text of the article, download and attach a PDF file to a downloaded article, share downloaded article information by mail and many more. Publisher sites may require user authentication. Take into account that you may need access privileges to access all information related to an article, as 'PDF full text' or 'full text online'. EZProxy support is included to allow use your library proxy to download or access that information.",
+    "summaryDescription": "PubMed Library is designed to search and organize all your favorite articles on the go. PubMed comprises more than 19 million citations for biomedical literature from MEDLINE, life science journals, and online books that you can search from almost anywhere. Citations may include links to full-text content from PubMed Central and publisher web sites. With PubMed Library you can make advanced searchs to PubMed, download available information of articles you are interested in, access and / or download full text of the article, download and attach a PDF file to a downloaded article, share downloaded article information by mail and many more. Publisher sites may require user authentication. Take into account that you may need access privileges to access all information related to an article, as 'PDF full text' or 'full text online'. EZProxy support is included to allow use your library proxy to download or access that information.",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/06/e3/eb/06e3eb2c-594a-a3fb-4130-ced8531eae88/mzl.okzlcyem.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/06/e3/eb/06e3eb2c-594a-a3fb-4130-ced8531eae88/mzl.okzlcyem.png/100x100bb.jpg",
+    "sellerName": "Juan Garcia",
+    "artistName": "Juan Garcia",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/14/70/1a/14701a7e-b4c8-16ad-942e-f599821b88b2/mzl.xfuzkaef.png/322x551bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/0d/4b/9e/0d4b9e00-dd96-8c6a-40f4-887da2a564df/mzl.qkpaqsza.png/322x551bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/86/e1/6e/86e16e3b-9ff0-549a-68a9-24d87d036ecb/mzl.onknnwue.png/322x551bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/93/2f/9d/932f9da4-1f52-05dc-9fa6-eff1812d9fc5/mzl.edipcrnf.png/322x551bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/bb/98/74/bb9874ec-0981-278f-9011-9cfe5da74327/mzl.rureyluu.png/480x351bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/d9/b0/33/d9b0336d-4b83-7d1d-b5a2-0cafd19624d3/mzl.odvedpuh.png/480x351bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/46/90/3f/46903fb0-a11e-d137-57c5-e613c7233e26/mzl.mizbniju.png/480x351bb.png"
+    ],
+    "_externalSourceFirstSeen": 1791723587589
+  },
   "390017969": {
     "name": "Due - 快速提醒、定时器",
     "trackName": "Due - 快速提醒、定时器",
@@ -50853,33 +50922,33 @@
     "description": "Top 5 Platzierung in Deutschland, Australien, UK und Frankreich der meist verkauften Sport Apps. Beschreibung ----- Die präzise Atemtraining-App für Freitaucher, Schnorchler und alle, die länger die Luft anhalten wollen. Stell dir vor, du schnorchelst im Urlaub im Meer und siehst unter Wasser große bunte Fische in 6 Meter Tiefe – am liebsten möchtest du mit einem langen Atem hinuntertauchen und unvergessliche Fotos machen. Mit Apnea Trainer ist das möglich. Bei dreimal wöchentlichem Training erreichst du schnell die doppelte Zeit unter Wasser. Dein persönlicher Trainingsplan: Beantworte ein paar kurze Fragen zu deinem Niveau und deinem Ziel – Apnea Trainer erstellt daraus einen mehrwöchigen Trainingsplan, der genau zu dir passt. Jede Einheit ist terminiert und baut auf der vorigen auf, sodass du Woche für Woche messbar besser wirst. Dein Fortschritt wird automatisch verfolgt – du musst nur noch trainieren. Vier Trainingsmodi: Apnea Training – Einatmen, Anhalten, Ausatmen. Optimale Intervalle für maximale Leistungssteigerung. Pranayama – Vier-Phasen-Atmung zur Entspannung und Vorbereitung direkt vor dem Schnorcheln oder Freitauchen. Cyclic – Zyklisches Atemtraining in Runden mit Halte- und Erholungsphasen, das deine CO₂-Toleranz gezielt steigert. Custom Pro – Alle vier Phasen frei einstellbar von 0 bis 240 Sekunden für Wettkampfsportler. Der intelligente Performance-Index passt die Trainingszeiten automatisch an dein Niveau an – du wirst besser, ohne selbst rechnen zu müssen. Optische und akustische Anweisungen (Stimmen und Haptik) begleiten jede Phase. Kein Nachdenken nötig – einfach trainieren. Apple Watch: Starte und steuere dein Training direkt vom Handgelenk. Während der Übung siehst du deine Herzfrequenz live und wirst durch sanfte Vibrationen durch jede Phase geführt – ganz ohne aufs iPhone zu schauen. Stoppuhr & Fortschritt: Mit der integrierten Apnoe-Stoppuhr misst und speicherst du deine besten Atemanhalteversuche. Verfolge deine Bestleistungen im Wochen-, Monats- oder Jahresdiagramm und teile besondere Meilensteine mit Freunden. Logbuch für echte Tauchgänge: Dokumentiere deine Freitauchgänge mit Ort, Kartenvorschau, Dauer, maximaler Tiefe und Notizen — mit Ortsvorschlägen und Tiefenangaben wahlweise in Metern oder Fuß. Auch deine Trainings-Sessions erscheinen im Logbuch, inklusive Pulsverlauf pro Session. Widgets & Apple Health: Drei Home-Bildschirm-Widgets zeigen deine Serie, dein Wochenziel und deinen heutigen Trainingsstatus auf einen Blick. Live-Aktivitäten bringen deine laufende Session auf den Sperrbildschirm und in die Dynamic Island. Abgeschlossene Sessions kannst du automatisch als Achtsamkeitsminuten in Apple Health speichern. Motivierendes Streak-System: Bleib dran und tauche immer tiefer. Halte deine tägliche Trainings-Serie, steige durch immer tiefere Zonen und sammle über 35 Auszeichnungen für Konstanz, Volumen und persönliche Rekorde. Verpasst du einen Tag, rettet ein Freeze-Joker deine Serie. Freigeschaltete Erfolge und neue Bestzeiten teilst du mit einem Tipp als schönes Bild in deinen sozialen Netzwerken. Datenschutz & Sync ohne Account: Deine Fortschritte werden ohne Anmeldung oder Account sicher über iCloud zwischen all deinen Apple-Geräten synchronisiert. Die Daten liegen ausschließlich in deiner privaten iCloud-Datenbank – kein Tracking, keine Weitergabe, höchste Datenschutzstandards. Mehr als 10.000 aktive Nutzer bestätigen den Erfolg: Ungeübte können binnen 7 Tagen ihre Leistung verdoppeln, wenn Apnea Trainer täglich 3 Minuten genutzt wird. Bei fortgeschrittenen Sportlern sind konstante Leistungssprünge von 10 bis 20 Sekunden innerhalb von 10 Tagen bekannt. Nutzungsbedingungen (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Datenschutz: https://apnea-trainer.com/de/privacy/",
     "fullDescription": "Top 5 Platzierung in Deutschland, Australien, UK und Frankreich der meist verkauften Sport Apps. Beschreibung ----- Die präzise Atemtraining-App für Freitaucher, Schnorchler und alle, die länger die Luft anhalten wollen. Stell dir vor, du schnorchelst im Urlaub im Meer und siehst unter Wasser große bunte Fische in 6 Meter Tiefe – am liebsten möchtest du mit einem langen Atem hinuntertauchen und unvergessliche Fotos machen. Mit Apnea Trainer ist das möglich. Bei dreimal wöchentlichem Training erreichst du schnell die doppelte Zeit unter Wasser. Dein persönlicher Trainingsplan: Beantworte ein paar kurze Fragen zu deinem Niveau und deinem Ziel – Apnea Trainer erstellt daraus einen mehrwöchigen Trainingsplan, der genau zu dir passt. Jede Einheit ist terminiert und baut auf der vorigen auf, sodass du Woche für Woche messbar besser wirst. Dein Fortschritt wird automatisch verfolgt – du musst nur noch trainieren. Vier Trainingsmodi: Apnea Training – Einatmen, Anhalten, Ausatmen. Optimale Intervalle für maximale Leistungssteigerung. Pranayama – Vier-Phasen-Atmung zur Entspannung und Vorbereitung direkt vor dem Schnorcheln oder Freitauchen. Cyclic – Zyklisches Atemtraining in Runden mit Halte- und Erholungsphasen, das deine CO₂-Toleranz gezielt steigert. Custom Pro – Alle vier Phasen frei einstellbar von 0 bis 240 Sekunden für Wettkampfsportler. Der intelligente Performance-Index passt die Trainingszeiten automatisch an dein Niveau an – du wirst besser, ohne selbst rechnen zu müssen. Optische und akustische Anweisungen (Stimmen und Haptik) begleiten jede Phase. Kein Nachdenken nötig – einfach trainieren. Apple Watch: Starte und steuere dein Training direkt vom Handgelenk. Während der Übung siehst du deine Herzfrequenz live und wirst durch sanfte Vibrationen durch jede Phase geführt – ganz ohne aufs iPhone zu schauen. Stoppuhr & Fortschritt: Mit der integrierten Apnoe-Stoppuhr misst und speicherst du deine besten Atemanhalteversuche. Verfolge deine Bestleistungen im Wochen-, Monats- oder Jahresdiagramm und teile besondere Meilensteine mit Freunden. Logbuch für echte Tauchgänge: Dokumentiere deine Freitauchgänge mit Ort, Kartenvorschau, Dauer, maximaler Tiefe und Notizen — mit Ortsvorschlägen und Tiefenangaben wahlweise in Metern oder Fuß. Auch deine Trainings-Sessions erscheinen im Logbuch, inklusive Pulsverlauf pro Session. Widgets & Apple Health: Drei Home-Bildschirm-Widgets zeigen deine Serie, dein Wochenziel und deinen heutigen Trainingsstatus auf einen Blick. Live-Aktivitäten bringen deine laufende Session auf den Sperrbildschirm und in die Dynamic Island. Abgeschlossene Sessions kannst du automatisch als Achtsamkeitsminuten in Apple Health speichern. Motivierendes Streak-System: Bleib dran und tauche immer tiefer. Halte deine tägliche Trainings-Serie, steige durch immer tiefere Zonen und sammle über 35 Auszeichnungen für Konstanz, Volumen und persönliche Rekorde. Verpasst du einen Tag, rettet ein Freeze-Joker deine Serie. Freigeschaltete Erfolge und neue Bestzeiten teilst du mit einem Tipp als schönes Bild in deinen sozialen Netzwerken. Datenschutz & Sync ohne Account: Deine Fortschritte werden ohne Anmeldung oder Account sicher über iCloud zwischen all deinen Apple-Geräten synchronisiert. Die Daten liegen ausschließlich in deiner privaten iCloud-Datenbank – kein Tracking, keine Weitergabe, höchste Datenschutzstandards. Mehr als 10.000 aktive Nutzer bestätigen den Erfolg: Ungeübte können binnen 7 Tagen ihre Leistung verdoppeln, wenn Apnea Trainer täglich 3 Minuten genutzt wird. Bei fortgeschrittenen Sportlern sind konstante Leistungssprünge von 10 bis 20 Sekunden innerhalb von 10 Tagen bekannt. Nutzungsbedingungen (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Datenschutz: https://apnea-trainer.com/de/privacy/",
     "summaryDescription": "Top 5 Platzierung in Deutschland, Australien, UK und Frankreich der meist verkauften Sport Apps. Beschreibung ----- Die präzise Atemtraining-App für Freitaucher, Schnorchler und alle, die länger die Luft anhalten wollen. Stell dir vor, du schnorchelst im Urlaub im Meer und siehst unter Wasser große bunte Fische in 6 Meter Tiefe – am liebsten möchtest du mit einem langen Atem hinuntertauchen und unvergessliche Fotos machen. Mit Apnea Trainer ist das möglich. Bei dreimal wöchentlichem Training erreichst du schnell die doppelte Zeit unter Wasser. Dein persönlicher Trainingsplan: Beantworte ein paar kurze Fragen zu deinem Niveau und deinem Ziel – Apnea Trainer erstellt daraus einen mehrwöchigen Trainingsplan, der genau zu dir passt. Jede Einheit ist terminiert und baut auf der vorigen auf, sodass du Woche für Woche messbar besser wirst. Dein Fortschritt wird automatisch verfolgt – du musst nur noch trainieren. Vier Trainingsmodi: Apnea Training – Einatmen, Anhalten, Ausatmen. Optimale Intervalle für maximale Leistungssteigerung. Pranayama – Vier-Phasen-Atmung zur Entspannung und Vorbereitung direkt vor dem Schnorcheln oder Freitauchen. Cyclic – Zyklisches Atemtraining in Runden mit Halte- und Erholungsphasen, das deine CO₂-Toleranz gezielt steigert. Custom Pro – Alle vier Phasen frei einstellbar von 0 bis 240 Sekunden für Wettkampfsportler. Der intelligente Performance-Index passt die Trainingszeiten automatisch an dein Niveau an – du wirst besser, ohne selbst rechnen zu müssen. Optische und akustische Anweisungen (Stimmen und Haptik) begleiten jede Phase. Kein Nachdenken nötig – einfach trainieren. Apple Watch: Starte und steuere dein Training direkt vom Handgelenk. Während der Übung siehst du deine Herzfrequenz live und wirst durch sanfte Vibrationen durch jede Phase geführt – ganz ohne aufs iPhone zu schauen. Stoppuhr & Fortschritt: Mit der integrierten Apnoe-Stoppuhr misst und speicherst du deine besten Atemanhalteversuche. Verfolge deine Bestleistungen im Wochen-, Monats- oder Jahresdiagramm und teile besondere Meilensteine mit Freunden. Logbuch für echte Tauchgänge: Dokumentiere deine Freitauchgänge mit Ort, Kartenvorschau, Dauer, maximaler Tiefe und Notizen — mit Ortsvorschlägen und Tiefenangaben wahlweise in Metern oder Fuß. Auch deine Trainings-Sessions erscheinen im Logbuch, inklusive Pulsverlauf pro Session. Widgets & Apple Health: Drei Home-Bildschirm-Widgets zeigen deine Serie, dein Wochenziel und deinen heutigen Trainingsstatus auf einen Blick. Live-Aktivitäten bringen deine laufende Session auf den Sperrbildschirm und in die Dynamic Island. Abgeschlossene Sessions kannst du automatisch als Achtsamkeitsminuten in Apple Health speichern. Motivierendes Streak-System: Bleib dran und tauche immer tiefer. Halte deine tägliche Trainings-Serie, steige durch immer tiefere Zonen und sammle über 35 Auszeichnungen für Konstanz, Volumen und persönliche Rekorde. Verpasst du einen Tag, rettet ein Freeze-Joker deine Serie. Freigeschaltete Erfolge und neue Bestzeiten teilst du mit einem Tipp als schönes Bild in deinen sozialen Netzwerken. Datenschutz & Sync ohne Account: Deine Fortschritte werden ohne Anmeldung oder Account sicher über iCloud zwischen all deinen Apple-Geräten synchronisiert. Die Daten liegen ausschließlich in deiner privaten iCloud-Datenbank – kein Tracking, keine Weitergabe, höchste Datenschutzstandards. Mehr als 10.000 aktive Nutzer bestätigen den Erfolg: Ungeübte können binnen 7 Tagen ihre Leistung verdoppeln, wenn Apnea Trainer täglich 3 Minuten genutzt wird. Bei fortgeschrittenen Sportlern sind konstante Leistungssprünge von 10 bis 20 Sekunden innerhalb von 10 Tagen bekannt. Nutzungsbedingungen (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Datenschutz: https://apnea-trainer.com/de/privacy/",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/c0/a8/94c0a8ea-04ee-2634-7c76-c325f8688e58/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/c0/a8/94c0a8ea-04ee-2634-7c76-c325f8688e58/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/0e/bb/820ebb90-6eb9-6610-2882-4d4ebc76e446/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/0e/bb/820ebb90-6eb9-6610-2882-4d4ebc76e446/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "sellerName": "Jan Luther",
     "artistName": "Jan Luther",
     "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/75/d1/8875d108-166e-2e6d-635c-04a2928f877f/AppStore_01_Coach_iphone_de.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/18/22/8d1822bc-1967-4c3f-37b5-b2ab5d3bf2b7/04_plan.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/b8/8a/48b88aeb-a9eb-d815-2567-4930cf9dc105/iphone_03_inhale.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/af/be/10afbed1-61f5-9f57-0f2b-51f1e50922e3/iphone_10_settings.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/3c/be/bf3cbea2-6639-791e-0644-f94141d3355b/01_dashboard.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/4f/12/994f12db-550a-871b-eb3e-d02a0a2c2e70/iphone_06_stopwatch.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/fd/70/04fd7007-0534-b213-a1b8-6a0dedf73daf/02_achievement.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/ce/df/50cedfd7-7dc0-a5dc-d77d-88f2e26028e6/iphone_08_chart.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/e0/a8/90e0a8d6-26fe-5591-715e-3de62ae99ea0/zyklisches-atemtraining_iphone_de.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/00/c9/6600c9f6-e755-b3ae-9a5c-abb69711a9b5/03_badges.png/320x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/0c/ce/ae0cceeb-2c77-ad10-dc9d-3ecb934dc453/AppStore_01_Coach_iphone_de.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/7b/f9/a57bf90f-090e-594a-4b10-0728e8e41ce1/04_plan.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/91/2e/e3912eaa-9ea5-2cd0-f0c9-449e26ff6352/iphone_03_inhale.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/e6/78/f3e67880-7242-9b0a-0b99-388978711649/iphone_logbook.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/17/eb/fd17eb4c-8ea5-6cf8-6133-6ecfca47c7c7/iphone_10_settings.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/29/d9/b929d9e4-1570-0e35-6cc8-1aecb3c2a20b/01_dashboard.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/f1/25/48f125c3-438b-1294-7ede-7379bf7bd920/iphone_06_stopwatch.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/4c/a3/c54ca3e4-db71-775a-5112-6f39044cf213/02_achievement.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/80/87/8b80873a-d507-f6f1-7729-285f610bbea6/zyklisches-atemtraining_iphone_de.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/6e/87/6d6e872b-d079-2c12-2cce-09864ca5d25c/03_badges.png/320x480bb.jpg"
     ],
     "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/f3/eb/60f3ebe7-dea3-57de-f908-01ed006df5f7/AppStore_01_Coach_ipad_de.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/73/d1/4473d16f-bf55-9001-555f-1028db15ee8c/04_plan.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/ba/a7/13baa738-1f1e-6cf8-7aec-127c6fe2656b/ipad_03_inhale.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/6e/06/b96e068e-5293-544f-6e09-ca6e0573bfc0/ipad_10_settings.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/0a/15/030a1563-b644-c0e3-a885-b693528ec694/01_dashboard.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/07/33/f60733fe-4aba-5024-4e56-d84ab1bb9372/ipad_06_stopwatch.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/e4/d3/f7e4d325-7dda-bc13-59dc-f6860809dcc2/02_achievement.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/4e/3f/8f4e3f31-f37b-32d8-5ed1-0d64ac4a9875/ipad_08_chart.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/00/56/e7005673-b620-17e3-3960-b16b7249af45/zyklisches-atemtraining_ipad_de.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/4b/90/d34b9008-eac5-d658-fa20-d6044450e316/03_badges.png/360x480bb.jpg"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/e2/a5/92e2a5fa-b72d-5102-e1b1-a7fedc85c4e8/AppStore_01_Coach_ipad_de.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/57/a6/e557a68e-2643-5bd3-c4cc-2235bcd44176/04_plan.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/b5/f6/d7b5f600-f4d3-1f74-c47a-47b444a5680d/ipad_03_inhale.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/4d/23/924d237a-1dd9-08d8-3f76-69dae37bf207/ipad_logbook.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/0a/0f/ba0a0fd3-d457-ec23-13da-7f9b85f6f24a/ipad_10_settings.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/15/b1/3f15b130-743c-80f8-b65f-eabbd937dda1/01_dashboard.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/3c/c2/263cc269-cfda-76dd-715e-19a10580217e/02_achievement.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/2f/16/d22f1663-0799-41a3-51ce-24e81bc2a163/ipad_08_chart.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/91/3f/45913fed-dd6d-75c4-a3a6-93101bca468f/zyklisches-atemtraining_ipad_de.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/b4/32/d1b432b6-4b5b-663a-e86a-8533b70b8b9e/03_badges.png/360x480bb.jpg"
     ]
   },
   "391304000": {
@@ -82777,6 +82846,25 @@
     "history": [
       [
         {
+          "timestamp": 1791723633759,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "10 GB monthly": "¥22.00",
+            "10 GB yearly": "¥198.00",
+            "1 TB monthly": "¥328.00",
+            "200 GB monthly": "¥68.00",
+            "1 TB yearly": "¥3,298.00",
+            "200 GB yearly": "¥698.00",
+            "100 GB monthly": "¥38.00",
+            "100 GB yearly": "¥398.00",
+            "iCloud Sync Monthly": "¥22.00",
+            "iCloud Sync Yearly": "¥148.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791585891339,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -108975,6 +109063,51 @@
     ],
     "_externalSourceFirstSeen": 1776477992249
   },
+  "513450587": {
+    "name": "英语自然拼读宝典9",
+    "trackName": "英语自然拼读宝典9",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791723633759,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%8B%B1%E8%AF%AD%E8%87%AA%E7%84%B6%E6%8B%BC%E8%AF%BB%E5%AE%9D%E5%85%B89/id513450587?uo=4",
+    "description": "英语自然拼读宝典9 是整套课程的综合复习离线应用。 本集聚焦 综合复习。 孩子会直接进入听音选择、看图选词和拖动拼词练习，不单独提供学习页。 所有音频、图片和课程内容都内置在应用中，无需登录、没有广告，也可在离线状态下使用。",
+    "fullDescription": "英语自然拼读宝典9 是整套课程的综合复习离线应用。 本集聚焦 综合复习。 孩子会直接进入听音选择、看图选词和拖动拼词练习，不单独提供学习页。 所有音频、图片和课程内容都内置在应用中，无需登录、没有广告，也可在离线状态下使用。",
+    "summaryDescription": "英语自然拼读宝典9 是整套课程的综合复习离线应用。 本集聚焦 综合复习。 孩子会直接进入听音选择、看图选词和拖动拼词练习，不单独提供学习页。 所有音频、图片和课程内容都内置在应用中，无需登录、没有广告，也可在离线状态下使用。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/dc/21/9ddc218d-8794-ab56-6586-a1a2cdc830e5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/dc/21/9ddc218d-8794-ab56-6586-a1a2cdc830e5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Winlink Technology Information Co.,Ltd",
+    "artistName": "winlink co. ltd.",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/55/43/ad5543c0-95ec-9ba4-6ad0-5bb788b46b2d/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/e7/4b/2fe74b18-68b7-8227-44f0-b6c00ba8ca9c/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/34/45/4a34451f-6991-8634-0d29-109c5f55d920/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/84/4e/78844e3a-575f-9b55-6042-1bb3da2efbca/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/e6/36/77e6366b-bf61-ff95-48d9-92b9f9b53228/pr_source.jpg/392x696bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1e/4a/2c1e4ac8-50e9-4998-8e29-097c376ec0e4/pr_source.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/4f/dd/124fdd87-461c-29ad-4410-757c81b3ff73/pr_source.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/58/f6/1d58f6fc-8a47-4af7-9b34-9d34d630e4ae/pr_source.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b3/34/30b3341c-5af8-e13a-835f-b1b5828dbf44/pr_source.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/62/b2/ff62b220-c5a5-6141-0094-b4d7cf331992/pr_source.jpg/576x768bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1791723584868
+  },
   "513529073": {
     "name": "色盲矫正帮手",
     "trackName": "色盲矫正帮手",
@@ -111733,6 +111866,51 @@
     ],
     "_externalSource": "GoFans",
     "_externalSourceFirstSeen": 1772634078764
+  },
+  "522363862": {
+    "name": "英语自然拼读宝典10",
+    "trackName": "英语自然拼读宝典10",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791723633759,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ],
+    "trackViewUrl": "https://apps.apple.com/cn/app/%E8%8B%B1%E8%AF%AD%E8%87%AA%E7%84%B6%E6%8B%BC%E8%AF%BB%E5%AE%9D%E5%85%B810/id522363862?uo=4",
+    "description": "英语自然拼读宝典10 是一款面向儿童的离线自然拼读学习应用。 本集聚焦 R 控制元音。 孩子可以依次完成学习、听音选择、看图选词和拖动拼词练习，课后还可以继续做单元复习。 所有音频、图片和课程内容都内置在应用中，无需登录、没有广告，也可在离线状态下使用。",
+    "fullDescription": "英语自然拼读宝典10 是一款面向儿童的离线自然拼读学习应用。 本集聚焦 R 控制元音。 孩子可以依次完成学习、听音选择、看图选词和拖动拼词练习，课后还可以继续做单元复习。 所有音频、图片和课程内容都内置在应用中，无需登录、没有广告，也可在离线状态下使用。",
+    "summaryDescription": "英语自然拼读宝典10 是一款面向儿童的离线自然拼读学习应用。 本集聚焦 R 控制元音。 孩子可以依次完成学习、听音选择、看图选词和拖动拼词练习，课后还可以继续做单元复习。 所有音频、图片和课程内容都内置在应用中，无需登录、没有广告，也可在离线状态下使用。",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/96/fd/a396fd7a-543a-c43a-d329-9f3c4d14d6ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/96/fd/a396fd7a-543a-c43a-d329-9f3c4d14d6ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "sellerName": "Winlink Technology Information Co.,Ltd",
+    "artistName": "winlink co. ltd.",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/ba/2a/beba2a05-cf28-edb3-9932-62cfc2c0fcee/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/fe/bb/a7febb39-c196-3e73-6943-be3aeafea9d9/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/64/fb/6364fbea-8b12-5fa4-6dc2-8c2cc114b6d7/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/fc/1a/67fc1ae7-7acd-9c77-257f-b3dd5f825428/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/b0/ac/9bb0ac2f-97a8-b56d-8740-de7d85f48ec2/pr_source.jpg/392x696bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/eb/44/caeb447f-b09f-8b7d-26fc-3ee1cc5c5597/pr_source.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/87/32/3b8732ef-63c5-51a8-9025-b541f48ec06d/pr_source.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/e9/2b/33e92be9-58af-9419-4aa0-3aff46756463/pr_source.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/85/1f/4d851f1c-3fde-fb87-6a99-09059798f451/pr_source.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/e1/ff/6ce1fffd-777b-4d09-7518-51f063351293/pr_source.jpg/576x768bb.jpg"
+    ],
+    "_externalSourceFirstSeen": 1791723584868
   },
   "522468643": {
     "name": "Learner's Dictionary - English",
@@ -121136,14 +121314,22 @@
     "name": "Inkflow Plus Visual Notebook",
     "trackName": "Inkflow Plus Visual Notebook",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "¥88.00"
+      "price": 148,
+      "formattedPrice": "¥148.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791723633759,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790322994421,
@@ -136183,9 +136369,9 @@
       ]
     ],
     "trackViewUrl": "https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E7%AE%A1%E7%90%86pro-%E5%BA%94%E7%94%A8%E7%9B%92%E5%AD%90/id591392350?uo=4",
-    "description": "实用应用快捷工具 — 专属你的应用盒子（付费专业版：Pro） 本应用为跨平台通用版本，一次购买即可在 iPhone、iPad、Mac 和 Vision Pro 之间通过 iCloud 同步数据，支持统一的快捷方式打开及管理。注: 如您正在寻找功能更强大的 macOS 原生应用，请在 App Store 搜索 'RightClickHub'，无需切换窗口及桌面，在应用、右键、系统菜单栏、键盘快捷键、Dock，打开自动读取的本地应用，而且能打开配置的文件及文件夹，但不支持跨设备 iCloud 同步。 ● 一键启动应用：保存快捷方式，瞬时打开目标程序 ● 智能排序：按使用时长、使用频率自动排序，快速调取 ● 高效管理：支持快捷方式搜索、编辑、新增与删除，操作简单 ● 数据备份：可导出快捷方式数据留存备份（专业版额外支持导入、跨设备共享） ● 全平台适配：兼容 iPhone、iPad、Mac、Vision Pro，自带系统原生快捷指令，支持 Mac 开机自启 ● 内置日历：可查看节假日，包含农历、二十四节气，快速调取日历与天气信息 专业版专属功能 Mac右键菜单100项功能，快捷启动本地应用，附带添加启动应用和目录和文件、截图、系统垃圾清理、内存清理、定时关机、隐藏Dock和菜单栏、鼠标跟踪速度设置、统计文件大小、新建隐藏目录和隐藏显示隐藏目录、复制剪切、剪贴板字数统计、取色器、活动监视器",
-    "fullDescription": "实用应用快捷工具 — 专属你的应用盒子（付费专业版：Pro） 本应用为跨平台通用版本，一次购买即可在 iPhone、iPad、Mac 和 Vision Pro 之间通过 iCloud 同步数据，支持统一的快捷方式打开及管理。注: 如您正在寻找功能更强大的 macOS 原生应用，请在 App Store 搜索 'RightClickHub'，无需切换窗口及桌面，在应用、右键、系统菜单栏、键盘快捷键、Dock，打开自动读取的本地应用，而且能打开配置的文件及文件夹，但不支持跨设备 iCloud 同步。 ● 一键启动应用：保存快捷方式，瞬时打开目标程序 ● 智能排序：按使用时长、使用频率自动排序，快速调取 ● 高效管理：支持快捷方式搜索、编辑、新增与删除，操作简单 ● 数据备份：可导出快捷方式数据留存备份（专业版额外支持导入、跨设备共享） ● 全平台适配：兼容 iPhone、iPad、Mac、Vision Pro，自带系统原生快捷指令，支持 Mac 开机自启 ● 内置日历：可查看节假日，包含农历、二十四节气，快速调取日历与天气信息 专业版专属功能 Mac右键菜单100项功能，快捷启动本地应用，附带添加启动应用和目录和文件、截图、系统垃圾清理、内存清理、定时关机、隐藏Dock和菜单栏、鼠标跟踪速度设置、统计文件大小、新建隐藏目录和隐藏显示隐藏目录、复制剪切、剪贴板字数统计、取色器、活动监视器",
-    "summaryDescription": "实用应用快捷工具 — 专属你的应用盒子（付费专业版：Pro） 本应用为跨平台通用版本，一次购买即可在 iPhone、iPad、Mac 和 Vision Pro 之间通过 iCloud 同步数据，支持统一的快捷方式打开及管理。注: 如您正在寻找功能更强大的 macOS 原生应用，请在 App Store 搜索 'RightClickHub'，无需切换窗口及桌面，在应用、右键、系统菜单栏、键盘快捷键、Dock，打开自动读取的本地应用，而且能打开配置的文件及文件夹，但不支持跨设备 iCloud 同步。 ● 一键启动应用：保存快捷方式，瞬时打开目标程序 ● 智能排序：按使用时长、使用频率自动排序，快速调取 ● 高效管理：支持快捷方式搜索、编辑、新增与删除，操作简单 ● 数据备份：可导出快捷方式数据留存备份（专业版额外支持导入、跨设备共享） ● 全平台适配：兼容 iPhone、iPad、Mac、Vision Pro，自带系统原生快捷指令，支持 Mac 开机自启 ● 内置日历：可查看节假日，包含农历、二十四节气，快速调取日历与天气信息 专业版专属功能 Mac右键菜单100项功能，快捷启动本地应用，附带添加启动应用和目录和文件、截图、系统垃圾清理、内存清理、定时关机、隐藏Dock和菜单栏、鼠标跟踪速度设置、统计文件大小、新建隐藏目录和隐藏显示隐藏目录、复制剪切、剪贴板字数统计、取色器、活动监视器",
+    "description": "实用应用快捷工具 — 专属你的应用盒子（付费专业版：Pro） 本应用为跨平台通用版本，一次购买即可在 iPhone、iPad、Mac 和 Vision Pro 之间通过 iCloud 同步数据，支持统一的快捷方式打开及管理。注: 如您正在寻找功能更强大的 macOS 原生应用，请在 App Store 搜索 'RightClickHub'，无需切换窗口及桌面，在应用、右键、系统菜单栏、键盘快捷键、Dock，打开自动读取的本地应用，而且能打开配置的文件及文件夹，但不支持跨设备 iCloud 同步。 ● 一键启动应用：保存快捷方式，瞬时打开目标程序 ● 智能排序：按使用时长、使用频率自动排序，快速调取 ● 高效管理：支持快捷方式搜索、编辑、新增与删除，操作简单 ● 数据备份：可导出快捷方式数据留存备份（专业版额外支持导入、跨设备共享） ● 全平台适配：兼容 iPhone、iPad、Mac、Vision Pro，自带系统原生快捷指令，支持 Mac 开机自启 ● 内置日历：可查看节假日，包含农历、二十四节气，快速调取日历与天气信息 专业版专属功能 Mac右键菜单100项功能，快捷启动本地应用，附带添加启动应用和目录和文件、截图、系统垃圾清理、内存清理、定时关机、隐藏Dock和菜单栏、鼠标跟踪速度设置、统计文件大小、新建隐藏目录和隐藏显示隐藏目录、复制剪切、剪贴板字数统计、取色器、活动监视器、复制文件名/路径、复制文件Hash、转为JPG格式、前往复制的路径、简繁转义、加解密工具、ZIP加密、移除文件属性、代码格式化等实用小工具。注：原生版本支持卸载及应用内打开等功能，支持键盘快捷键、菜单栏、文件、应用中心打开文件、文件夹、应用、内置功能 自定义桌面壁纸，海量图标素材随心选用 纯净无广告、多设备 iCloud 同步、一键拨打电话/发短信/发送邮件、专属技术支持、长期持续更新 用户评价 【1】超好用的快捷启动工具 作者 bdavis22｜版本1.2｜2013-03-01 通过链接快捷方式一键打开多款常用软件。小技巧：搭配 Bookmarkers Pro 使用体验更佳。 【2】实用性拉满 作者 Ariva97｜版本1.3｜2013-04-30（法语翻译用户） 集中管理各类应用十分省心，专业版无广告，运行更顺滑。 【3】简约好用，值得入手 作者 ネムネム (つ ω･)｜版本1.7｜2013-07-13（日语翻译用户） 操作简单实用，升级专业版解锁全部附加功能。",
+    "fullDescription": "实用应用快捷工具 — 专属你的应用盒子（付费专业版：Pro） 本应用为跨平台通用版本，一次购买即可在 iPhone、iPad、Mac 和 Vision Pro 之间通过 iCloud 同步数据，支持统一的快捷方式打开及管理。注: 如您正在寻找功能更强大的 macOS 原生应用，请在 App Store 搜索 'RightClickHub'，无需切换窗口及桌面，在应用、右键、系统菜单栏、键盘快捷键、Dock，打开自动读取的本地应用，而且能打开配置的文件及文件夹，但不支持跨设备 iCloud 同步。 ● 一键启动应用：保存快捷方式，瞬时打开目标程序 ● 智能排序：按使用时长、使用频率自动排序，快速调取 ● 高效管理：支持快捷方式搜索、编辑、新增与删除，操作简单 ● 数据备份：可导出快捷方式数据留存备份（专业版额外支持导入、跨设备共享） ● 全平台适配：兼容 iPhone、iPad、Mac、Vision Pro，自带系统原生快捷指令，支持 Mac 开机自启 ● 内置日历：可查看节假日，包含农历、二十四节气，快速调取日历与天气信息 专业版专属功能 Mac右键菜单100项功能，快捷启动本地应用，附带添加启动应用和目录和文件、截图、系统垃圾清理、内存清理、定时关机、隐藏Dock和菜单栏、鼠标跟踪速度设置、统计文件大小、新建隐藏目录和隐藏显示隐藏目录、复制剪切、剪贴板字数统计、取色器、活动监视器、复制文件名/路径、复制文件Hash、转为JPG格式、前往复制的路径、简繁转义、加解密工具、ZIP加密、移除文件属性、代码格式化等实用小工具。注：原生版本支持卸载及应用内打开等功能，支持键盘快捷键、菜单栏、文件、应用中心打开文件、文件夹、应用、内置功能 自定义桌面壁纸，海量图标素材随心选用 纯净无广告、多设备 iCloud 同步、一键拨打电话/发短信/发送邮件、专属技术支持、长期持续更新 用户评价 【1】超好用的快捷启动工具 作者 bdavis22｜版本1.2｜2013-03-01 通过链接快捷方式一键打开多款常用软件。小技巧：搭配 Bookmarkers Pro 使用体验更佳。 【2】实用性拉满 作者 Ariva97｜版本1.3｜2013-04-30（法语翻译用户） 集中管理各类应用十分省心，专业版无广告，运行更顺滑。 【3】简约好用，值得入手 作者 ネムネム (つ ω･)｜版本1.7｜2013-07-13（日语翻译用户） 操作简单实用，升级专业版解锁全部附加功能。",
+    "summaryDescription": "实用应用快捷工具 — 专属你的应用盒子（付费专业版：Pro） 本应用为跨平台通用版本，一次购买即可在 iPhone、iPad、Mac 和 Vision Pro 之间通过 iCloud 同步数据，支持统一的快捷方式打开及管理。注: 如您正在寻找功能更强大的 macOS 原生应用，请在 App Store 搜索 'RightClickHub'，无需切换窗口及桌面，在应用、右键、系统菜单栏、键盘快捷键、Dock，打开自动读取的本地应用，而且能打开配置的文件及文件夹，但不支持跨设备 iCloud 同步。 ● 一键启动应用：保存快捷方式，瞬时打开目标程序 ● 智能排序：按使用时长、使用频率自动排序，快速调取 ● 高效管理：支持快捷方式搜索、编辑、新增与删除，操作简单 ● 数据备份：可导出快捷方式数据留存备份（专业版额外支持导入、跨设备共享） ● 全平台适配：兼容 iPhone、iPad、Mac、Vision Pro，自带系统原生快捷指令，支持 Mac 开机自启 ● 内置日历：可查看节假日，包含农历、二十四节气，快速调取日历与天气信息 专业版专属功能 Mac右键菜单100项功能，快捷启动本地应用，附带添加启动应用和目录和文件、截图、系统垃圾清理、内存清理、定时关机、隐藏Dock和菜单栏、鼠标跟踪速度设置、统计文件大小、新建隐藏目录和隐藏显示隐藏目录、复制剪切、剪贴板字数统计、取色器、活动监视器、复制文件名/路径、复制文件Hash、转为JPG格式、前往复制的路径、简繁转义、加解密工具、ZIP加密、移除文件属性、代码格式化等实用小工具。注：原生版本支持卸载及应用内打开等功能，支持键盘快捷键、菜单栏、文件、应用中心打开文件、文件夹、应用、内置功能 自定义桌面壁纸，海量图标素材随心选用 纯净无广告、多设备 iCloud 同步、一键拨打电话/发短信/发送邮件、专属技术支持、长期持续更新 用户评价 【1】超好用的快捷启动工具 作者 bdavis22｜版本1.2｜2013-03-01 通过链接快捷方式一键打开多款常用软件。小技巧：搭配 Bookmarkers Pro 使用体验更佳。 【2】实用性拉满 作者 Ariva97｜版本1.3｜2013-04-30（法语翻译用户） 集中管理各类应用十分省心，专业版无广告，运行更顺滑。 【3】简约好用，值得入手 作者 ネムネム (つ ω･)｜版本1.7｜2013-07-13（日语翻译用户） 操作简单实用，升级专业版解锁全部附加功能。",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/4e/28/664e287d-e5a6-21e9-d31b-6bee18508212/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/4e/28/664e287d-e5a6-21e9-d31b-6bee18508212/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
     "sellerName": "杨军 朱",
@@ -160327,10 +160513,18 @@
       "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 8,
+      "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791723633759,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790322994421,
@@ -182647,171 +182841,6 @@
       "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/a6/a8/bfa6a8f3-8eb4-9f95-a7e1-57c46ac90ff8/pr_source.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/a9/f9/3aa9f98e-2c01-9e2d-c2f9-83c058a6c36c/pr_source.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/81/9a/8c819ae0-f8f2-af7c-f1b5-3fae3a90038d/pr_source.png/392x696bb.png"
-    ]
-  },
-  "826488967": {
-    "name": "快捷记账软件2Pro - 记账本天天记账 & 预算记账管家",
-    "trackName": "快捷记账软件2Pro - 记账本天天记账 & 预算记账管家",
-    "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
-    },
-    "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1774017742620,
-          "price": 22,
-          "formattedPrice": "¥22.00",
-          "inAppPurchases": {}
-        }
-      ],
-      [
-        {
-          "timestamp": 1772375272895,
-          "price": 15,
-          "formattedPrice": "¥15.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E8%AE%B0%E8%B4%A6%E8%BD%AF%E4%BB%B62pro-%E8%AE%B0%E8%B4%A6%E6%9C%AC%E5%A4%A9%E5%A4%A9%E8%AE%B0%E8%B4%A6-%E9%A2%84%E7%AE%97%E8%AE%B0%E8%B4%A6%E7%AE%A1%E5%AE%B6/id826488967?uo=4",
-    "description": "此APP是一款直观易用的个人财务管理和预算规划工具，帮助您轻松掌握收支状况，实现理性消费和储蓄目标。 无论您是希望控制日常开支、规划长期储蓄，还是需要清晰了解资金流向，这款应用都能为您提供直观、便捷的预算规划。 支持月度、年度、一次性、类别等多种预算类型，所有预算都会以直观易懂的方式表现出来。 清楚地告诉你花了多少钱，同时预算超支提醒，帮助控制消费。饼图百分比都会直观地告诉你！ 帮助您理清每一笔收支，规划每一分预算，洞察每一个消费习惯。 核心功能 ## 日历视图一目了然 日历视图将每日收支汇总展示，有交易的日期自动标记，让您对整月财务状况一目了然。 通过日历快速查看每日收支情况 每日收入、支出、净收支汇总展示 有交易的日期自动标记，方便追踪 记账与分类 支持收入和支出双向记录，快速添加交易 自定义收支类别，为每笔交易选择对应类别和颜色标识 可添加交易照片，方便留存收据和凭证 多维度预算管理 支持月度、年度、一次性、类别等多种预算类型 实时跟踪预算进度，可视化进度条展示 预算超支提醒，帮助控制消费 数据统计与分析 饼图展示各类别支出占比 按日、周、月、自定义时间段统计收支 切换查看支出/收入分类统计 多币种与多语言支持 支持多种货币符号，适应不同地区用户 多语言界面，满足全球用户需求 iCloud 自动同步与备份 数据自动备份至iCloud，安全可靠 多设备间数据同步，随时随地管理财务 支持手动导出CSV/JSON格式数据 多账户管理 支持现金、银行账户、信用卡、数字钱包等多种账户类型 可为账户设置默认账户，添加交易时自动选中 账户余额实时更新 产品理念 此APP致力于让财务管理变得简单、直观。 我们相信，好的理财工具应该像一位贴心的财务顾问，帮助您了解资金去向，培养健康的消费习惯，最终实现财务自由。",
-    "fullDescription": "此APP是一款直观易用的个人财务管理和预算规划工具，帮助您轻松掌握收支状况，实现理性消费和储蓄目标。 无论您是希望控制日常开支、规划长期储蓄，还是需要清晰了解资金流向，这款应用都能为您提供直观、便捷的预算规划。 支持月度、年度、一次性、类别等多种预算类型，所有预算都会以直观易懂的方式表现出来。 清楚地告诉你花了多少钱，同时预算超支提醒，帮助控制消费。饼图百分比都会直观地告诉你！ 帮助您理清每一笔收支，规划每一分预算，洞察每一个消费习惯。 核心功能 ## 日历视图一目了然 日历视图将每日收支汇总展示，有交易的日期自动标记，让您对整月财务状况一目了然。 通过日历快速查看每日收支情况 每日收入、支出、净收支汇总展示 有交易的日期自动标记，方便追踪 记账与分类 支持收入和支出双向记录，快速添加交易 自定义收支类别，为每笔交易选择对应类别和颜色标识 可添加交易照片，方便留存收据和凭证 多维度预算管理 支持月度、年度、一次性、类别等多种预算类型 实时跟踪预算进度，可视化进度条展示 预算超支提醒，帮助控制消费 数据统计与分析 饼图展示各类别支出占比 按日、周、月、自定义时间段统计收支 切换查看支出/收入分类统计 多币种与多语言支持 支持多种货币符号，适应不同地区用户 多语言界面，满足全球用户需求 iCloud 自动同步与备份 数据自动备份至iCloud，安全可靠 多设备间数据同步，随时随地管理财务 支持手动导出CSV/JSON格式数据 多账户管理 支持现金、银行账户、信用卡、数字钱包等多种账户类型 可为账户设置默认账户，添加交易时自动选中 账户余额实时更新 产品理念 此APP致力于让财务管理变得简单、直观。 我们相信，好的理财工具应该像一位贴心的财务顾问，帮助您了解资金去向，培养健康的消费习惯，最终实现财务自由。",
-    "summaryDescription": "此APP是一款直观易用的个人财务管理和预算规划工具，帮助您轻松掌握收支状况，实现理性消费和储蓄目标。 无论您是希望控制日常开支、规划长期储蓄，还是需要清晰了解资金流向，这款应用都能为您提供直观、便捷的预算规划。 支持月度、年度、一次性、类别等多种预算类型，所有预算都会以直观易懂的方式表现出来。 清楚地告诉你花了多少钱，同时预算超支提醒，帮助控制消费。饼图百分比都会直观地告诉你！ 帮助您理清每一笔收支，规划每一分预算，洞察每一个消费习惯。 核心功能 ## 日历视图一目了然 日历视图将每日收支汇总展示，有交易的日期自动标记，让您对整月财务状况一目了然。 通过日历快速查看每日收支情况 每日收入、支出、净收支汇总展示 有交易的日期自动标记，方便追踪 记账与分类 支持收入和支出双向记录，快速添加交易 自定义收支类别，为每笔交易选择对应类别和颜色标识 可添加交易照片，方便留存收据和凭证 多维度预算管理 支持月度、年度、一次性、类别等多种预算类型 实时跟踪预算进度，可视化进度条展示 预算超支提醒，帮助控制消费 数据统计与分析 饼图展示各类别支出占比 按日、周、月、自定义时间段统计收支 切换查看支出/收入分类统计 多币种与多语言支持 支持多种货币符号，适应不同地区用户 多语言界面，满足全球用户需求 iCloud 自动同步与备份 数据自动备份至iCloud，安全可靠 多设备间数据同步，随时随地管理财务 支持手动导出CSV/JSON格式数据 多账户管理 支持现金、银行账户、信用卡、数字钱包等多种账户类型 可为账户设置默认账户，添加交易时自动选中 账户余额实时更新 产品理念 此APP致力于让财务管理变得简单、直观。 我们相信，好的理财工具应该像一位贴心的财务顾问，帮助您了解资金去向，培养健康的消费习惯，最终实现财务自由。",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/80/d8/a880d8b2-f62d-7d96-c769-2ffc464d8f54/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/80/d8/a880d8b2-f62d-7d96-c769-2ffc464d8f54/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "sellerName": "永文 胡",
-    "artistName": "永文 胡",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/0e/ca/6a0eca08-cb17-051f-8736-e9a0077e4aee/iPhoneCN_9.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/c9/c4/fbc9c478-3cf0-fd57-20e7-a7bb0f52bb4b/iPhoneCN_3.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/22/d1/9022d103-e33a-5fec-e514-821d4c08af91/iPhoneCN_4.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/80/b0/7e80b0a2-9c7c-bfe2-56c9-bd8561dd5148/iPhoneCN_2.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/a5/90/8ea590c5-6b00-c73d-f9c5-c8cf9a8c6694/iPhoneCN_5.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/4d/1e/b54d1ec8-b89e-7cf7-b4d6-49286722a9cf/iPhoneCN_6.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/51/07/df510779-2ff7-d1b7-956a-06fd28e78dd7/iPhoneCN_7.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/3b/64/463b6470-3f00-db3d-2baa-fab4c43c326a/iPhoneCN_1.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/ee/b5/cdeeb50d-296f-d317-12d5-26b6bd9c75fb/iPhoneCN_10.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/1e/4d/3d1e4d13-533f-4086-302a-b2be847fc2b2/iPhoneCN_8.png/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/c6/1d/62c61de5-05f2-d437-59be-e17dfdd5434d/iPad_1.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/f8/86/39f886c8-60b0-8353-b38c-087f9615d94d/iPad_9.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/76/f4/f276f47c-20ac-ea3f-c417-47fa811cdd26/iPad_3.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/92/25/05922564-ab76-0100-8226-8a3ec9ba91ab/iPad_4.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/d3/81/c6d381bb-c792-b68b-37f1-1266866d376d/iPad_2.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/92/3b/0d923b07-54e4-e81d-73ff-08df410ad56e/iPad_6.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/dc/a9/9ddca9f3-d97f-28cb-7b56-d4cd4164710c/iPad_5.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/5b/52/215b52e6-cbb6-046e-4c03-3e6d3dc224f4/iPad_8.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/35/be/b835be35-5c8d-29d5-9388-0733a0cea8a9/iPad_7.png/360x480bb.jpg"
-    ]
-  },
-  "827101160": {
-    "name": "8bitWar: Netherworld",
-    "trackName": "8bitWar: Netherworld",
-    "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费"
-    },
-    "minPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免费"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1774231341983,
-          "price": 0,
-          "formattedPrice": "免费",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/8bitwar-netherworld/id827101160?uo=4",
-    "description": "8bitWar puts your strategical and tactical thinking to the test! Hire units and place them in strategic formations to counter the enemy's army. A total of 180 levels! Play against a friend on the same device or online.",
-    "fullDescription": "8bitWar puts your strategical and tactical thinking to the test! Hire units and place them in strategic formations to counter the enemy's army. A total of 180 levels! Play against a friend on the same device or online.",
-    "summaryDescription": "8bitWar puts your strategical and tactical thinking to the test! Hire units and place them in strategic formations to counter the enemy's army. A total of 180 levels! Play against a friend on the same device or online.",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/49/76/0e49762c-6632-846b-1ea3-33cedd350092/mzl.wnucliws.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/49/76/0e49762c-6632-846b-1ea3-33cedd350092/mzl.wnucliws.png/100x100bb.jpg",
-    "sellerName": "Rosendahl Software AB",
-    "artistName": "Rosendahl Software AB",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a5/0f/77/a50f77a7-73ce-f5e7-f33d-250a8637814a/pr_source.jpg/406x228bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d0/b0/d2/d0b0d29c-7172-0d59-af50-e3d466d51a81/pr_source.jpg/406x228bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/01/fe/c2/01fec246-e24f-f0aa-d912-6133e76f85e3/pr_source.jpg/406x228bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5c/67/61/5c676157-e8d6-b073-a432-a831f717a354/pr_source.jpg/406x228bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5f/da/3c/5fda3c8d-6f54-06db-5d07-3a8495bc3747/pr_source.jpg/406x228bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/40/06/f0/4006f0ea-2e4b-b1a4-e53e-9786229d69fc/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/fd/31/cf/fd31cfe0-6d13-c12a-a7e1-9a42e0f8a5a3/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/fa/ed/c5faed9b-777f-7b82-504e-f7177944c920/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/97/66/a8/9766a8ef-5e06-9442-f493-6ac4e9c584a2/pr_source.png/552x414bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a9/3e/66/a93e6656-2a8d-dd51-8c0a-fbf23fe65927/pr_source.png/552x414bb.png"
-    ],
-    "_externalSource": "WarmDay",
-    "_externalSourceFirstSeen": 1774231341954
-  },
-  "827148749": {
-    "name": "WiFiAudit Pro - WiFi Passwords",
-    "trackName": "WiFiAudit Pro - WiFi Passwords",
-    "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
-    },
-    "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1780728687785,
-          "price": 8,
-          "formattedPrice": "¥8.00",
-          "inAppPurchases": {}
-        }
-      ]
-    ],
-    "trackViewUrl": "https://apps.apple.com/cn/app/wifiaudit-pro-wifi-passwords/id827148749?uo=4",
-    "description": "WiFiAudit Pro helps you generate keys for your network, Analyze your wireless network, generate keys WPA. Added the App for Apple Watch ** ===== App Operations ===== In the Networks tab you can generate the keys for your network just by entering a word. These are examples of supported networks: ● WLAN_XXXX ● JAZZTEL_XXXX ● WLANXXXXXX ● YaComXXXXXX ● WiFiXXXXXX ● ThomsonXXXXXX ● SpeedTouchXXXXXX ● Orange-XXXXXX ● INFINITUMXXXX ● INFINITUMXXXXXX ● Bbox-XXXXXX ● DMAXXXXXXX ● DLinkXXXXXX ● BigPondXXXXXX ● O2WirelessXXXXXX ● D-Link-XXXXXX ● OtenetXXXXXX ● CYTAXXXXXX ● TN_private_XXXXXX ● BlinkXXXXXX ● AXTEL-XXXX ● privatXXXXXX ● InterCableXXXXXX ● BouyguesXXXXXX ● MegaredXXXXXX ● PTV-XXXXXX ● ptvXXXXXX ● ptv-XXXXXXX ● Vodafone-XXXXXX ● OptimusXXXXXX ● OptimusFibraXXXXXX ● MEO-XXXXXX ● CONN-X_XXXX ● conn-xXXXXXX ● OTENET_XXXX ● Totalplay-XXXX ● Huawei-HG8245-XXXX You can also export information via SMS, Email, iTunes File Sharing or add the information to Favorites. On the Information tab, you can get data from the network to which you are connected such as Name, BSSID, Host Name, Local IP, Subnet Mask, Broadcast Address, Public IP, speed your internet connection and location AP (Access Point). In the Keygen tab If you want more security this is the best option you can choose between WPA Basic, WPA2 Minimum, WPA2 Maximum or Custom size choosing your liking. In the Favorites tab may view information previously stored in the Networks tab. Included the App for Apple Watch with the you can view the information stored in the Favorites tab and have access quickly of consultation. ===== App Features ===== Included the App for Apple Watch Help to generate keys for your network Get information from the network to which you are connected Generate WPA keys Save the keys on the device Easy to use Works on the iPhone, iPod Touch and iPad Optimized for iOS 12 ===== More Information ===== facebook.com/WiFiAudit",
-    "fullDescription": "WiFiAudit Pro helps you generate keys for your network, Analyze your wireless network, generate keys WPA. Added the App for Apple Watch ** ===== App Operations ===== In the Networks tab you can generate the keys for your network just by entering a word. These are examples of supported networks: ● WLAN_XXXX ● JAZZTEL_XXXX ● WLANXXXXXX ● YaComXXXXXX ● WiFiXXXXXX ● ThomsonXXXXXX ● SpeedTouchXXXXXX ● Orange-XXXXXX ● INFINITUMXXXX ● INFINITUMXXXXXX ● Bbox-XXXXXX ● DMAXXXXXXX ● DLinkXXXXXX ● BigPondXXXXXX ● O2WirelessXXXXXX ● D-Link-XXXXXX ● OtenetXXXXXX ● CYTAXXXXXX ● TN_private_XXXXXX ● BlinkXXXXXX ● AXTEL-XXXX ● privatXXXXXX ● InterCableXXXXXX ● BouyguesXXXXXX ● MegaredXXXXXX ● PTV-XXXXXX ● ptvXXXXXX ● ptv-XXXXXXX ● Vodafone-XXXXXX ● OptimusXXXXXX ● OptimusFibraXXXXXX ● MEO-XXXXXX ● CONN-X_XXXX ● conn-xXXXXXX ● OTENET_XXXX ● Totalplay-XXXX ● Huawei-HG8245-XXXX You can also export information via SMS, Email, iTunes File Sharing or add the information to Favorites. On the Information tab, you can get data from the network to which you are connected such as Name, BSSID, Host Name, Local IP, Subnet Mask, Broadcast Address, Public IP, speed your internet connection and location AP (Access Point). In the Keygen tab If you want more security this is the best option you can choose between WPA Basic, WPA2 Minimum, WPA2 Maximum or Custom size choosing your liking. In the Favorites tab may view information previously stored in the Networks tab. Included the App for Apple Watch with the you can view the information stored in the Favorites tab and have access quickly of consultation. ===== App Features ===== Included the App for Apple Watch Help to generate keys for your network Get information from the network to which you are connected Generate WPA keys Save the keys on the device Easy to use Works on the iPhone, iPod Touch and iPad Optimized for iOS 12 ===== More Information ===== facebook.com/WiFiAudit",
-    "summaryDescription": "WiFiAudit Pro helps you generate keys for your network, Analyze your wireless network, generate keys WPA. Added the App for Apple Watch ** ===== App Operations ===== In the Networks tab you can generate the keys for your network just by entering a word. These are examples of supported networks: ● WLAN_XXXX ● JAZZTEL_XXXX ● WLANXXXXXX ● YaComXXXXXX ● WiFiXXXXXX ● ThomsonXXXXXX ● SpeedTouchXXXXXX ● Orange-XXXXXX ● INFINITUMXXXX ● INFINITUMXXXXXX ● Bbox-XXXXXX ● DMAXXXXXXX ● DLinkXXXXXX ● BigPondXXXXXX ● O2WirelessXXXXXX ● D-Link-XXXXXX ● OtenetXXXXXX ● CYTAXXXXXX ● TN_private_XXXXXX ● BlinkXXXXXX ● AXTEL-XXXX ● privatXXXXXX ● InterCableXXXXXX ● BouyguesXXXXXX ● MegaredXXXXXX ● PTV-XXXXXX ● ptvXXXXXX ● ptv-XXXXXXX ● Vodafone-XXXXXX ● OptimusXXXXXX ● OptimusFibraXXXXXX ● MEO-XXXXXX ● CONN-X_XXXX ● conn-xXXXXXX ● OTENET_XXXX ● Totalplay-XXXX ● Huawei-HG8245-XXXX You can also export information via SMS, Email, iTunes File Sharing or add the information to Favorites. On the Information tab, you can get data from the network to which you are connected such as Name, BSSID, Host Name, Local IP, Subnet Mask, Broadcast Address, Public IP, speed your internet connection and location AP (Access Point). In the Keygen tab If you want more security this is the best option you can choose between WPA Basic, WPA2 Minimum, WPA2 Maximum or Custom size choosing your liking. In the Favorites tab may view information previously stored in the Networks tab. Included the App for Apple Watch with the you can view the information stored in the Favorites tab and have access quickly of consultation. ===== App Features ===== Included the App for Apple Watch Help to generate keys for your network Get information from the network to which you are connected Generate WPA keys Save the keys on the device Easy to use Works on the iPhone, iPod Touch and iPad Optimized for iOS 12 ===== More Information ===== facebook.com/WiFiAudit",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/cd/72/ddcd724c-1c5a-5fa4-f6d3-f4a510395ff1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/cd/72/ddcd724c-1c5a-5fa4-f6d3-f4a510395ff1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
-    "sellerName": "Ivan Aguirre",
-    "artistName": "Ivan Aguirre",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/a0/4e/77a04eaf-b10b-46ea-4214-8438ad7b15c6/mzl.cclgfxmu.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/69/d7/7c69d779-39c2-cf0f-791a-db1befc30a43/mzl.pslbyiwj.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/05/df/7605dfaf-8dab-5312-4f2e-9a62736ca8b0/mzl.nbklsani.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/4d/ad/cf4dad29-2e52-feeb-13fd-a8f953292293/mzl.euwudsea.png/392x696bb.png"
-    ],
-    "_externalSourceFirstSeen": 1780728653959
-  },
-  "827740598": {
-    "name": "小牛计算器(高级版)",
-    "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
-    },
-    "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1722784406759,
-          "price": 38,
-          "formattedPrice": "¥38.00",
-          "inAppPurchases": {}
-        }
-      ]
     ]
   }
 }

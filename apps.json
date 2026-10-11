@@ -2,6 +2,340 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 389960652,
+      "name": {
+        "cn": "PubMed Library"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723587589,
+      "_discountType": "app"
+    },
+    {
+      "id": 513450587,
+      "name": {
+        "cn": "英语自然拼读宝典9"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723584868,
+      "_discountType": "app"
+    },
+    {
+      "id": 522363862,
+      "name": {
+        "cn": "英语自然拼读宝典10"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723584868,
+      "_discountType": "app"
+    },
+    {
+      "id": 1214636633,
+      "name": {
+        "cn": "Liberate: Screen Time Control"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "app"
+    },
+    {
+      "id": 1231833729,
+      "name": {
+        "cn": "爱增广贤文 - 处世智慧学习"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723572743,
+      "_discountType": "app"
+    },
+    {
+      "id": 1288067698,
+      "name": {
+        "cn": "2XB303 Acid Bass Loop Maker"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723575786,
+      "_discountType": "app"
+    },
+    {
+      "id": 6767604825,
+      "name": {
+        "cn": "Capgene"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723567177,
+      "_discountType": "app"
+    },
+    {
+      "id": 6467380351,
+      "name": {
+        "cn": "开房记录查询-酒店开房记录删除"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723567177,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757701085,
+      "name": {
+        "cn": "历史上的今天 - 每日历史事件"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723572743,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810745810,
+      "name": {
+        "cn": "扫码记库存"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723572809,
+      "_discountType": "app"
+    },
+    {
+      "id": 6760927327,
+      "name": {
+        "cn": "CAD Translator"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723572809,
+      "_discountType": "app"
+    },
+    {
+      "id": 6785794966,
+      "name": {
+        "cn": "HTML 预览器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723572809,
+      "_discountType": "app"
+    },
+    {
+      "id": 6479389968,
+      "name": {
+        "cn": "Spatial Converter"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723572774,
+      "_discountType": "app"
+    },
+    {
+      "id": 6818767101,
+      "name": {
+        "cn": "钢琴调律-专业调音器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723575786,
+      "_discountType": "app"
+    },
+    {
+      "id": 6695741686,
+      "name": {
+        "cn": "Discovery AUv3 Synth"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723575786,
+      "_discountType": "app"
+    },
+    {
+      "id": 6816681274,
+      "name": {
+        "cn": "每日舒尔特 - 专注力与快速反应训练"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723584868,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812365684,
+      "name": {
+        "cn": "25天搞定高频场景"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723584868,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757006987,
+      "name": {
+        "cn": "PIDSimLab"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723584868,
+      "_discountType": "app"
+    },
+    {
+      "id": 6747078722,
+      "name": {
+        "cn": "快递管家-单号一查物流尽览"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791723592854,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772734498,
+      "name": {
+        "cn": "AtelierRecords"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6804134144,
+      "name": {
+        "cn": "TalkNote: 录音转文字"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6789400654,
+      "name": {
+        "cn": "Lumen证件照管家-一键换底高清导出"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763841145,
+      "name": {
+        "cn": "行迹指南针-专业户外方向定位运动轨迹记录经纬相机拍照编辑工具"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6811556061,
+      "name": {
+        "cn": "SeloPhoto照片拼图九宫格"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6813808389,
+      "name": {
+        "cn": "化学实验台-化学方程式配平"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6802160324,
+      "name": {
+        "cn": "点滴成愿  - 习惯存钱罐"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6807335209,
+      "name": {
+        "cn": "灵犀桌面"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6749908822,
+      "name": {
+        "cn": "4-7-8 Breathe: Focus & Calm"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798437442,
+      "name": {
+        "cn": "StyleVault — Closet & Outfits"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "app"
+    },
+    {
+      "id": 6805803484,
+      "name": {
+        "cn": "爱的小事-记录情侣打卡恋爱日记纪念日恋爱清单相册记录日常"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791723633660,
+      "_discountType": "app"
+    },
+    {
       "id": 560519978,
       "name": {
         "cn": "平均脸"
