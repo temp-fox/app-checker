@@ -1,10 +1,10 @@
 [
   {
-    "timestamp": 1791678643119,
+    "timestamp": 1791689462636,
     "cn": {
-      "total": 21,
-      "price": 13,
-      "iap": 8,
+      "total": 27,
+      "price": 16,
+      "iap": 11,
       "apps": [
         {
           "id": 6751784597,
@@ -17,6 +17,18 @@
           "name": "HabitMkr: Habit Tracker",
           "type": "price",
           "detail": "¥38.00 → ¥15.00"
+        },
+        {
+          "id": 6756335040,
+          "name": "Easy To Do List: Task,Reminder",
+          "type": "iap",
+          "detail": "Lifetime Access (One Time Payment): ¥198.00 → ¥15.00"
+        },
+        {
+          "id": 6756335040,
+          "name": "Easy To Do List: Task,Reminder",
+          "type": "iap",
+          "detail": "Monthly Subscription: ¥15.00 → ¥8.00"
         },
         {
           "id": 6815932626,
@@ -43,10 +55,28 @@
           "detail": "¥15.00 → 免费"
         },
         {
+          "id": 6792435964,
+          "name": "Shadow101：英语跟读 新概念口语训练",
+          "type": "price",
+          "detail": "¥3.00 → ¥1.00"
+        },
+        {
           "id": 6789408515,
           "name": "Focus-专注力自控力认知训练",
           "type": "price",
           "detail": "¥3.00 → ¥1.00"
+        },
+        {
+          "id": 6786559843,
+          "name": "戒烟管家-戒烟助手无烟日记打卡统计省钱健康恢复计划助手",
+          "type": "price",
+          "detail": "¥15.00 → 免费"
+        },
+        {
+          "id": 6754361351,
+          "name": "高尔夫击球轨迹",
+          "type": "iap",
+          "detail": "Pro: ¥148.00 → ¥28.00"
         },
         {
           "id": 6757604097,
@@ -95,6 +125,12 @@
           "name": "般若心灯",
           "type": "price",
           "detail": "¥18.00 → 免费"
+        },
+        {
+          "id": 6760364261,
+          "name": "InnerPulse – GAD-7 & PHQ-9",
+          "type": "price",
+          "detail": "¥58.00 → 免费"
         },
         {
           "id": 6762076526,
@@ -3187,46 +3223,6 @@
           "name": "Snake '97:复古手机经典游戏",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1790822376019,
-    "cn": {
-      "total": 5,
-      "price": 2,
-      "iap": 3,
-      "apps": [
-        {
-          "id": 6790382144,
-          "name": "自听：本地生成随身听",
-          "type": "price",
-          "detail": "¥9.00 → 免费"
-        },
-        {
-          "id": 6806298730,
-          "name": "Walti 极简记账本 - 记账软件·预算与支出管理",
-          "type": "iap",
-          "detail": "Walti Premium: ¥88.00 → ¥68.00"
-        },
-        {
-          "id": 6744582695,
-          "name": "Breathe Relief",
-          "type": "iap",
-          "detail": "永久 Plus: ¥298.00 → ¥168.00"
-        },
-        {
-          "id": 6786557788,
-          "name": "九型人格测试性格心理深度测评MBTI双测离线工具版",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6761639932,
-          "name": "时脉",
-          "type": "iap",
-          "detail": "时脉 Pro 终身: ¥88.00 → ¥0.00"
         }
       ]
     }
