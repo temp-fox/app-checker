@@ -2,6 +2,106 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 419841529,
+      "name": {
+        "cn": "Fishing Times Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791785204026,
+      "_discountType": "app"
+    },
+    {
+      "id": 440638191,
+      "name": {
+        "cn": "Revolutionary War"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791785209623,
+      "_discountType": "app"
+    },
+    {
+      "id": 1153967813,
+      "name": {
+        "cn": "California State Roads"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791785206881,
+      "_discountType": "app"
+    },
+    {
+      "id": 6786561134,
+      "name": {
+        "cn": "包工记账-建筑工地班组工人工资考勤日结月结助手工具"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791785204108,
+      "_discountType": "app"
+    },
+    {
+      "id": 6756003398,
+      "name": {
+        "cn": "iMeanIt"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791785209623,
+      "_discountType": "app"
+    },
+    {
+      "id": 6772073081,
+      "name": {
+        "cn": "钱伲"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791785217915,
+      "_discountType": "app"
+    },
+    {
+      "id": 6766545614,
+      "name": {
+        "cn": "人生周历 - WeeksAlive"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791785265316,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6810765166,
+      "name": {
+        "cn": "余岛记账-可爱萌宠陪你省钱存钱，日常收支账本与预算储蓄心愿簿"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791785265316,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6503251914,
+      "name": {
+        "cn": "1Direct: Chat Without Save"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791785265316,
+      "_discountType": "app"
+    },
+    {
       "id": 652465727,
       "name": {
         "cn": "SessionTRAC剩余时间意识时钟"
@@ -940,7 +1040,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1791612101164,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6816399878,
