@@ -2,6 +2,215 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 915632592,
+      "name": {
+        "cn": "流量Widget-按套餐日看剩余账本"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819429428,
+      "_discountType": "app"
+    },
+    {
+      "id": 1126839574,
+      "name": {
+        "cn": "Essay writing materials"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819435184,
+      "_discountType": "app"
+    },
+    {
+      "id": 1192565217,
+      "name": {
+        "cn": "NNAT2 for Grade 3"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819444290,
+      "_discountType": "app"
+    },
+    {
+      "id": 1196266329,
+      "name": {
+        "cn": "Pharaohs of Egypt"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819444290,
+      "_discountType": "app"
+    },
+    {
+      "id": 1244785699,
+      "name": {
+        "cn": "潮汕字典"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819429428,
+      "_discountType": "app"
+    },
+    {
+      "id": 1376436271,
+      "name": {
+        "cn": "易经智慧锦囊"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819443820,
+      "_discountType": "app"
+    },
+    {
+      "id": 1524292397,
+      "name": {
+        "cn": "CT 护照测验 \"头部\" / 剖面解剖/ MRI"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819446934,
+      "_discountType": "app"
+    },
+    {
+      "id": 6816673054,
+      "name": {
+        "cn": "しずかトマト - 無音ポモドーロタイマー"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819429499,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790026414,
+      "name": {
+        "cn": "用印台账-盖章审批记录2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819429499,
+      "_discountType": "app"
+    },
+    {
+      "id": 6768513331,
+      "name": {
+        "cn": "人人视频一踏青社 - 旅行结伴与攻略话题"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819435017,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757133145,
+      "name": {
+        "cn": "FITS QuickLook Mobile"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819435017,
+      "_discountType": "app"
+    },
+    {
+      "id": 6802663255,
+      "name": {
+        "cn": "Candens - 90's Film Camera"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819435379,
+      "_discountType": "app"
+    },
+    {
+      "id": 6802277319,
+      "name": {
+        "cn": "LUTScope Cube Inspector"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819435379,
+      "_discountType": "app"
+    },
+    {
+      "id": 6762490295,
+      "name": {
+        "cn": "Dottre: Halftone Print Lab"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819435379,
+      "_discountType": "app"
+    },
+    {
+      "id": 6798475883,
+      "name": {
+        "cn": "Reverie: AUv3 Plate Reverb"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819438337,
+      "_discountType": "app"
+    },
+    {
+      "id": 6779947367,
+      "name": {
+        "cn": "花作"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819440809,
+      "_discountType": "app"
+    },
+    {
+      "id": 6743663920,
+      "name": {
+        "cn": "行跡 - 运动热力图"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819441185,
+      "_discountType": "app"
+    },
+    {
+      "id": 6771587381,
+      "name": {
+        "cn": "WA DOL Permit Test Chinese"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819444290,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790796886,
+      "name": {
+        "cn": "CAMS AML Exam Prep"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791819444290,
+      "_discountType": "app"
+    },
+    {
       "id": 419841529,
       "name": {
         "cn": "Fishing Times Pro"
@@ -28751,7 +28960,8 @@
       "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSourceFirstSeen": 1786460164705,
-      "_discountType": "app"
+      "_discountType": "app",
+      "allowNotification": false
     },
     {
       "id": 6768790843,
@@ -115784,8 +115994,8 @@
       "name": {
         "cn": "噪音日记"
       },
-      "addType": "external",
-      "addSource": "WarmDay",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "WarmDay",
       "_externalSourceFirstSeen": 1774057776054,
