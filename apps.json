@@ -2,6 +2,193 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 439379952,
+      "name": {
+        "cn": "下载"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907556740,
+      "_discountType": "app"
+    },
+    {
+      "id": 525728426,
+      "name": {
+        "cn": "初中数学总结大全初中英语课堂笔记总结测试题大全"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907563860,
+      "_discountType": "app"
+    },
+    {
+      "id": 534529876,
+      "name": {
+        "cn": "iOrnament: draw mandala & art"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907572280,
+      "_discountType": "app"
+    },
+    {
+      "id": 1276087138,
+      "name": {
+        "cn": "长春网约车考试-网约车考试司机从业资格证新题库"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907572514,
+      "_discountType": "app"
+    },
+    {
+      "id": 6740762969,
+      "name": {
+        "cn": "日历+"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907558191,
+      "_discountType": "app"
+    },
+    {
+      "id": 6806734417,
+      "name": {
+        "cn": "留声相册"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907556740,
+      "_discountType": "app"
+    },
+    {
+      "id": 6783623272,
+      "name": {
+        "cn": "老板混剪"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907556740,
+      "_discountType": "app"
+    },
+    {
+      "id": 6819966294,
+      "name": {
+        "cn": "EMULSION"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907564248,
+      "_discountType": "app"
+    },
+    {
+      "id": 6792598547,
+      "name": {
+        "cn": "Biophony: Wildlife Survey Log"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907566991,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759395221,
+      "name": {
+        "cn": "SoleDust"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907569710,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795610452,
+      "name": {
+        "cn": "牛来了么"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907572386,
+      "_discountType": "app"
+    },
+    {
+      "id": 6820983526,
+      "name": {
+        "cn": "LoopListen - A-B 循环复读"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907572514,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757950254,
+      "name": {
+        "cn": "Vocab Ai背单词"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907572514,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758901534,
+      "name": {
+        "cn": "Bassoon Buddy"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907572514,
+      "_discountType": "app"
+    },
+    {
+      "id": 6811765141,
+      "name": {
+        "cn": "刺猬咖啡"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907577871,
+      "_discountType": "app"
+    },
+    {
+      "id": 6802296595,
+      "name": {
+        "cn": "饭有方：新手做饭·家常菜谱"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907577871,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780105225,
+      "name": {
+        "cn": "宝宝辅食助手"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791907577871,
+      "_discountType": "app"
+    },
+    {
       "id": 1099100372,
       "name": {
         "cn": "Fine Bass Tuner 低音调谐器"
@@ -42341,7 +42528,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1784168512821,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "_shouldBePaid": true
     },
     {
       "id": 6764504895,
