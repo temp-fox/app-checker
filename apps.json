@@ -2,6 +2,61 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6784924202,
+      "name": {
+        "cn": "跳绳间歇节奏本精选版2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791846217528,
+      "_discountType": "app"
+    },
+    {
+      "id": 6800088764,
+      "name": {
+        "cn": "止吸-21天减量戒烟"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791846225708,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758560948,
+      "name": {
+        "cn": "FlöBreath"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791846225708,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799456049,
+      "name": {
+        "cn": "宝宝连连看 - 思维启蒙游戏"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791846228395,
+      "_discountType": "app"
+    },
+    {
+      "id": 6818900306,
+      "name": {
+        "cn": "学生分数本"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791846228409,
+      "_discountType": "app"
+    },
+    {
       "id": 915632592,
       "name": {
         "cn": "流量Widget-按套餐日看剩余账本"
@@ -84993,8 +85048,8 @@
       "name": {
         "cn": "Neonizer"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1777430477101,

@@ -1,5 +1,87 @@
 [
   {
+    "timestamp": 1791857892474,
+    "cn": {
+      "total": 12,
+      "price": 8,
+      "iap": 4,
+      "apps": [
+        {
+          "id": 6756195790,
+          "name": "TV Remote Control - Clicker",
+          "type": "iap",
+          "detail": "Clicker Pro 终身版: ¥298.00 → ¥109.00"
+        },
+        {
+          "id": 633008351,
+          "name": "Mortgage Payment Calculator",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 6760622185,
+          "name": "Sayboard: AI 语音键盘",
+          "type": "iap",
+          "detail": "完整版: ¥148.00 → ¥88.00"
+        },
+        {
+          "id": 6777342797,
+          "name": "NFC Studio",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
+          "id": 1535056536,
+          "name": "电视遥控器 — 万能遥控助手",
+          "type": "iap",
+          "detail": "Universal TV Remote - lifetime: ¥148.00 → ¥15.00"
+        },
+        {
+          "id": 1465858693,
+          "name": "IGES & STEP Viewer",
+          "type": "price",
+          "detail": "¥88.00 → ¥78.00"
+        },
+        {
+          "id": 6760831361,
+          "name": "BRouter - Offline Nav",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
+          "id": 6760338948,
+          "name": "Brink: Podcast Player",
+          "type": "iap",
+          "detail": "Brink Plus: ¥498.00 → ¥28.00"
+        },
+        {
+          "id": 6752257844,
+          "name": "Exif Clean-Remove Data Offline",
+          "type": "price",
+          "detail": "¥88.00 → 免费"
+        },
+        {
+          "id": 401533966,
+          "name": "eWeather HD",
+          "type": "price",
+          "detail": "¥38.00 → ¥28.00"
+        },
+        {
+          "id": 6759223120,
+          "name": "iWave",
+          "type": "price",
+          "detail": "¥68.00 → ¥48.00"
+        },
+        {
+          "id": 6754008611,
+          "name": "vocalflow | 声流",
+          "type": "price",
+          "detail": "¥3.00 → ¥1.00"
+        }
+      ]
+    }
+  },
+  {
     "timestamp": 1791839724922,
     "cn": {
       "total": 22,
@@ -3269,304 +3351,6 @@
           "name": "实况天气Pro-天气预报苹果版",
           "type": "iap",
           "detail": "PREMIUM ACCOUNT: ¥70.00 → ¥35.00"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1790977433226,
-    "cn": {
-      "total": 48,
-      "price": 38,
-      "iap": 10,
-      "apps": [
-        {
-          "id": 6761745195,
-          "name": "Hourloom: World Clock",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6792025726,
-          "name": "历历 - LiLi Cal",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6797389895,
-          "name": "思维卡片",
-          "type": "price",
-          "detail": "¥22.00 → ¥8.00"
-        },
-        {
-          "id": 6778223704,
-          "name": "牛来",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 6808664233,
-          "name": "AI出卷",
-          "type": "price",
-          "detail": "¥18.00 → ¥1.00"
-        },
-        {
-          "id": 6799619926,
-          "name": "家庭管家-购物清单、家庭主理人",
-          "type": "price",
-          "detail": "¥22.00 → ¥15.00"
-        },
-        {
-          "id": 957061844,
-          "name": "Night Camera: Low Light FX Cam",
-          "type": "price",
-          "detail": "¥22.00 → ¥8.00"
-        },
-        {
-          "id": 957061929,
-          "name": "PDF Scanner: Date Stamp",
-          "type": "price",
-          "detail": "¥38.00 → ¥22.00"
-        },
-        {
-          "id": 957061929,
-          "name": "PDF Scanner: Date Stamp",
-          "type": "iap",
-          "detail": "PDF Scanner Pro: ¥38.00 → ¥0.00"
-        },
-        {
-          "id": 6791322417,
-          "name": "Chordyne",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 6806298730,
-          "name": "Walti 极简记账本 - 记账软件·预算与支出管理",
-          "type": "iap",
-          "detail": "Walti Premium: ¥88.00 → ¥48.00"
-        },
-        {
-          "id": 6760955397,
-          "name": "证件照大师-无广一键制作证件照AI智能抠图换背景ai证件照",
-          "type": "iap",
-          "detail": "升级高级会员: ¥6.80 → ¥5.80"
-        },
-        {
-          "id": 6753154555,
-          "name": "一万小时-专注计时番茄钟习惯打卡技能成长追踪记录助手",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6738851170,
-          "name": "English Grammar Drills",
-          "type": "price",
-          "detail": "¥68.00 → ¥58.00"
-        },
-        {
-          "id": 6787686405,
-          "name": "魔镜魔镜：一键穿上魔法",
-          "type": "iap",
-          "detail": "终身买断: ¥98.00 → ¥0.00"
-        },
-        {
-          "id": 6794610251,
-          "name": "科研SAS：AI 科研统计与可视化分析助手",
-          "type": "price",
-          "detail": "¥128.00 → ¥68.00"
-        },
-        {
-          "id": 454709863,
-          "name": "EGDR808 HD Drum Machine",
-          "type": "price",
-          "detail": "¥38.00 → ¥22.00"
-        },
-        {
-          "id": 6762630396,
-          "name": "Toolmatic: 语音转文字、转换",
-          "type": "iap",
-          "detail": "Toolmatic Max 终身版: ¥598.00 → ¥198.00"
-        },
-        {
-          "id": 6760935768,
-          "name": "Mossca 无损音乐播放器",
-          "type": "price",
-          "detail": "¥98.00 → ¥68.00"
-        },
-        {
-          "id": 1605757270,
-          "name": "Euclidean AUv3 Sequencer",
-          "type": "price",
-          "detail": "¥98.00 → ¥58.00"
-        },
-        {
-          "id": 6740179420,
-          "name": "哇偶-Ins國際創作者服務平台",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6760877805,
-          "name": "证件照生成器-护照签证简历入学考试寸照换底美颜裁剪",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1381392223,
-          "name": "FRMS - Granular Synthesizer",
-          "type": "iap",
-          "detail": "Scratching The Surface 1: ¥58.00 → ¥38.00"
-        },
-        {
-          "id": 1381392223,
-          "name": "FRMS - Granular Synthesizer",
-          "type": "iap",
-          "detail": "Sounds Of Bassoon Preset Pack: ¥58.00 → ¥38.00"
-        },
-        {
-          "id": 6472346517,
-          "name": "FAC Punchlab",
-          "type": "price",
-          "detail": "¥98.00 → ¥58.00"
-        },
-        {
-          "id": 6761450030,
-          "name": "词源词典：探索单词起源",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 1637599765,
-          "name": "BAM - Beat Maker & Music Maker",
-          "type": "price",
-          "detail": "¥88.00 → ¥58.00"
-        },
-        {
-          "id": 964800714,
-          "name": "Find PRO",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6754826510,
-          "name": "LiveMic: Bluetooth Speaker Mic",
-          "type": "iap",
-          "detail": "Lifetime Access: ¥298.00 → ¥168.00"
-        },
-        {
-          "id": 1014995444,
-          "name": "Electric PRO",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 1195301998,
-          "name": "Numerology",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6499589553,
-          "name": "Time Zones PRO",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6453696935,
-          "name": "Meditation Master",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6757754493,
-          "name": "AirShots",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 6759118453,
-          "name": "Superlift: Gym Workout Tracker",
-          "type": "iap",
-          "detail": "Superset Pro Yearly: ¥398.00 → ¥328.00"
-        },
-        {
-          "id": 6759118453,
-          "name": "Superlift: Gym Workout Tracker",
-          "type": "iap",
-          "detail": "Lifetime access: ¥898.00 → ¥698.00"
-        },
-        {
-          "id": 6753144562,
-          "name": "今日不吸烟：戒烟打卡挑战",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 1295775756,
-          "name": "Fashion Art",
-          "type": "price",
-          "detail": "¥58.00 → 免费"
-        },
-        {
-          "id": 818394449,
-          "name": "时间轴-全球历史",
-          "type": "price",
-          "detail": "¥28.00 → 免费"
-        },
-        {
-          "id": 1100594649,
-          "name": "Happy Birthday Greeting Wishes",
-          "type": "price",
-          "detail": "¥38.00 → 免费"
-        },
-        {
-          "id": 1117044076,
-          "name": "CDRViewer Pro",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
-        },
-        {
-          "id": 1538268059,
-          "name": "开心果节拍器｜纯净无广告 专业精准",
-          "type": "price",
-          "detail": "¥8.00 → 免费"
-        },
-        {
-          "id": 6806555088,
-          "name": "咪咪计算器",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6792952443,
-          "name": "REDREC - 离线语音转文字",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6770403164,
-          "name": "PebWorld: Your Tiny Companion",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6799075435,
-          "name": "JSON Master",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6808704483,
-          "name": "Awesome Captcha",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6462606384,
-          "name": "Very PINK stickers!",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
