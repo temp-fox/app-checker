@@ -2,6 +2,197 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1099100372,
+      "name": {
+        "cn": "Fine Bass Tuner 低音调谐器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791874378414,
+      "_discountType": "app"
+    },
+    {
+      "id": 1116148680,
+      "name": {
+        "cn": "ExplorOz Traveller"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791874378623,
+      "_discountType": "app"
+    },
+    {
+      "id": 6820295053,
+      "name": {
+        "cn": "拿到大结果-按照版本答案生活"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791874375613,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758269471,
+      "name": {
+        "cn": "Mark Things: 记录日常、备忘计数、打卡、清单"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6780318004,
+      "name": {
+        "cn": "OneZen 一念"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6796222344,
+      "name": {
+        "cn": "OneMusic 离线播放器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6789639056,
+      "name": {
+        "cn": "留声笔记：录音转文字"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6789659103,
+      "name": {
+        "cn": "知音：乐器调音器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6792251542,
+      "name": {
+        "cn": "朕已阅：文件查看器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6788495535,
+      "name": {
+        "cn": "文档扫描 - OneScan"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6766243751,
+      "name": {
+        "cn": "HuePhoto 照片模板海报拼图创意合成与排版工具滤镜"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6798899899,
+      "name": {
+        "cn": "Noise Level Meter: Spectroid"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6821266924,
+      "name": {
+        "cn": "Readora - 微信读书划线与EPUB阅读器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6790887946,
+      "name": {
+        "cn": "Sonio - 复古Classic风格音乐播放器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "app"
+    },
+    {
+      "id": 6753570922,
+      "name": {
+        "cn": "发呆岛 - 白噪音与专注计时器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "app"
+    },
+    {
+      "id": 6790613798,
+      "name": {
+        "cn": "FinCalc: EMI Calculator"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "app"
+    },
+    {
+      "id": 6802049761,
+      "name": {
+        "cn": "Fokuso: Focus Timer & Pomodoro"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791874428615,
+      "_discountType": "app"
+    },
+    {
       "id": 6784924202,
       "name": {
         "cn": "跳绳间歇节奏本精选版2026"
