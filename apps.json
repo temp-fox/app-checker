@@ -2,6 +2,306 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 416756729,
+      "name": {
+        "cn": "GoodPlayer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963865115,
+      "_discountType": "app"
+    },
+    {
+      "id": 1238909846,
+      "name": {
+        "cn": "点击美好记录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963857109,
+      "_discountType": "app"
+    },
+    {
+      "id": 1486070231,
+      "name": {
+        "cn": "智能放大50倍 变焦"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963856956,
+      "_discountType": "app"
+    },
+    {
+      "id": 1524867812,
+      "name": {
+        "cn": "auSCOPE X"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963859741,
+      "_discountType": "app"
+    },
+    {
+      "id": 1561702545,
+      "name": {
+        "cn": "完美计算器-多合一万能计算机"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6749500972,
+      "name": {
+        "cn": "哔咔漫岛-二次元日韩耽美漫画大全"
+      },
+      "addType": "auto",
+      "addSource": "paid-top-all",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963848850,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780524368,
+      "name": {
+        "cn": "工牌证卡排版-工作证制作2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963851466,
+      "_discountType": "app"
+    },
+    {
+      "id": 6749816833,
+      "name": {
+        "cn": "AutoBR Pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963851469,
+      "_discountType": "app"
+    },
+    {
+      "id": 6797018173,
+      "name": {
+        "cn": "HoleCopy:钻孔模板 孔位复制 螺栓孔距 实寸打印"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963851469,
+      "_discountType": "app"
+    },
+    {
+      "id": 6746637464,
+      "name": {
+        "cn": "Husk"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963857109,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799771045,
+      "name": {
+        "cn": "Zoom Pro 150倍变焦：视频拍照相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963856956,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810792998,
+      "name": {
+        "cn": "PLICATA"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963859741,
+      "_discountType": "app"
+    },
+    {
+      "id": 6758423789,
+      "name": {
+        "cn": "Pock-沉浸式记账"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963865153,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799076027,
+      "name": {
+        "cn": "弈棋・将棋"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963865143,
+      "_discountType": "app"
+    },
+    {
+      "id": 6739180076,
+      "name": {
+        "cn": "Trans4motor R"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791963865143,
+      "_discountType": "app"
+    },
+    {
+      "id": 6738792205,
+      "name": {
+        "cn": "Daily Organizer: Easy Planner"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6759546153,
+      "name": {
+        "cn": "EverPass: 证件管理与到期提醒"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6769438893,
+      "name": {
+        "cn": "RouteProof"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6766231134,
+      "name": {
+        "cn": "DuoScope-双摄水印相机前后同框拍Vlog"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6763498457,
+      "name": {
+        "cn": "录音专家-实时转写会议采访备忘"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6781537149,
+      "name": {
+        "cn": "Not My Tempo: 语音节拍器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6790085987,
+      "name": {
+        "cn": "OWrite Pro"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6801003049,
+      "name": {
+        "cn": "Voice Journal AI - Dearly"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6816968488,
+      "name": {
+        "cn": "Ocre: 照片转油画"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6809901776,
+      "name": {
+        "cn": "RACI Master"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "app"
+    },
+    {
+      "id": 6814196653,
+      "name": {
+        "cn": "双鱼文件浏览器"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "app"
+    },
+    {
+      "id": 6755482195,
+      "name": {
+        "cn": "1Lens"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1791963922829,
+      "_discountType": "app"
+    },
+    {
       "id": 6791792269,
       "name": {
         "cn": "省墨打印吧"
