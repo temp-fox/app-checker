@@ -2,6 +2,105 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 454225351,
+      "name": {
+        "cn": "Analyzer"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791985715878,
+      "_discountType": "app"
+    },
+    {
+      "id": 1244412604,
+      "name": {
+        "cn": "Certified Medical Assistant +"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791985721340,
+      "_discountType": "app"
+    },
+    {
+      "id": 6796376003,
+      "name": {
+        "cn": "VNPlayer-视觉小说模拟器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791985707573,
+      "_discountType": "app"
+    },
+    {
+      "id": 6809377378,
+      "name": {
+        "cn": "仓颉相机"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791985713174,
+      "_discountType": "app"
+    },
+    {
+      "id": 6821400249,
+      "name": {
+        "cn": "不烧心时代：规矩不能坏"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791985721346,
+      "_discountType": "app"
+    },
+    {
+      "id": 6819008748,
+      "name": {
+        "cn": "BoomBoom枪 - iwatch空气枪解压枪械声音模拟器"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791985721346,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781115980,
+      "name": {
+        "cn": "阅满分9.0"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791985721340,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759991282,
+      "name": {
+        "cn": "YAPersonal Platform"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791985721340,
+      "_discountType": "app"
+    },
+    {
+      "id": 6738941053,
+      "name": {
+        "cn": "Learn Kotlin Programming"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791985721340,
+      "_discountType": "app"
+    },
+    {
       "id": 416756729,
       "name": {
         "cn": "GoodPlayer"
@@ -1557,8 +1656,8 @@
       "name": {
         "cn": "爱的小事-记录情侣打卡恋爱日记纪念日恋爱清单相册记录日常"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1791723633660,
