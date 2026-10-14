@@ -2,6 +2,83 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6791792269,
+      "name": {
+        "cn": "省墨打印吧"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791926454704,
+      "_discountType": "app"
+    },
+    {
+      "id": 6820485595,
+      "name": {
+        "cn": "泰拉瑞亚向导手册"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791926454704,
+      "_discountType": "app"
+    },
+    {
+      "id": 6804759733,
+      "name": {
+        "cn": "The Orb - Formant Filter"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791926463151,
+      "_discountType": "app"
+    },
+    {
+      "id": 6765771349,
+      "name": {
+        "cn": "SnoreWatcher"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791926465976,
+      "_discountType": "app"
+    },
+    {
+      "id": 6813766030,
+      "name": {
+        "cn": "女巫的毒药 - 双人酒桌游戏"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791926468450,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759032954,
+      "name": {
+        "cn": "PronounFrench"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791926468666,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808957717,
+      "name": {
+        "cn": "爱吕氏春秋 - 天下非一人之天下也天下之天下也"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1791926471337,
+      "_discountType": "app"
+    },
+    {
       "id": 439379952,
       "name": {
         "cn": "下载"
@@ -4840,8 +4917,8 @@
       "name": {
         "cn": "HabitMkr: Habit Tracker"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1791028043585,
@@ -118553,8 +118630,8 @@
       "name": {
         "cn": "To do cards by Frido"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1773894627404,
