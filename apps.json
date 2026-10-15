@@ -2,6 +2,238 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 488892606,
+      "name": {
+        "cn": "My Budget Book"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084074557,
+      "_discountType": "app"
+    },
+    {
+      "id": 1107163858,
+      "name": {
+        "cn": "GCal 适用于 Google 日历™"
+      },
+      "addType": "external",
+      "addSource": "GoFans",
+      "_shouldBePaid": true,
+      "_externalSource": "GoFans",
+      "_externalSourceFirstSeen": 1792084117895,
+      "_discountType": "app"
+    },
+    {
+      "id": 1561444285,
+      "name": {
+        "cn": "Monk Mode"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084071179,
+      "_discountType": "app"
+    },
+    {
+      "id": 1619657670,
+      "name": {
+        "cn": "房奴"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084073905,
+      "_discountType": "app"
+    },
+    {
+      "id": 6788593400,
+      "name": {
+        "cn": "Weather Pushly"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084059259,
+      "_discountType": "app"
+    },
+    {
+      "id": 6657978780,
+      "name": {
+        "cn": "地震チェック"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084059259,
+      "_discountType": "app"
+    },
+    {
+      "id": 6819769588,
+      "name": {
+        "cn": "Aria输入法"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084059208,
+      "_discountType": "app"
+    },
+    {
+      "id": 6822341944,
+      "name": {
+        "cn": "ReplayMark"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084062230,
+      "_discountType": "app"
+    },
+    {
+      "id": 6817391788,
+      "name": {
+        "cn": "活得更好"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084065141,
+      "_discountType": "app"
+    },
+    {
+      "id": 6745885818,
+      "name": {
+        "cn": "Love Hana - Concept Filter"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084064940,
+      "_discountType": "app"
+    },
+    {
+      "id": 6783513643,
+      "name": {
+        "cn": "DigiMimic"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084064940,
+      "_discountType": "app"
+    },
+    {
+      "id": 6795224673,
+      "name": {
+        "cn": "Nocturne LoFi"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084067844,
+      "_discountType": "app"
+    },
+    {
+      "id": 6820352382,
+      "name": {
+        "cn": "还账本"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084074557,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812639070,
+      "name": {
+        "cn": "账清"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084074557,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812648617,
+      "name": {
+        "cn": "职场发疯桌面宠物 (Tippo)"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084073905,
+      "_discountType": "app"
+    },
+    {
+      "id": 6759995603,
+      "name": {
+        "cn": "Divine Names"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084074307,
+      "_discountType": "app"
+    },
+    {
+      "id": 6814305768,
+      "name": {
+        "cn": "成绩分数复盘Pro-学生考试记录"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084074307,
+      "_discountType": "app"
+    },
+    {
+      "id": 6780726979,
+      "name": {
+        "cn": "线段图应用题-小学数学2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084074307,
+      "_discountType": "app"
+    },
+    {
+      "id": 6765531171,
+      "name": {
+        "cn": "轻松学汉字"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084074307,
+      "_discountType": "app"
+    },
+    {
+      "id": 6764842844,
+      "name": {
+        "cn": "小白学俄语"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084074307,
+      "_discountType": "app"
+    },
+    {
+      "id": 6818233525,
+      "name": {
+        "cn": "hhoyu pro"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792084077347,
+      "_discountType": "app"
+    },
+    {
       "id": 6444253288,
       "name": {
         "cn": "Phone Cleaner-AI Clean Storage"
