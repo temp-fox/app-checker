@@ -2,6 +2,127 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 350437349,
+      "name": {
+        "cn": "FunkBox Drum Machine"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792019908407,
+      "_discountType": "app"
+    },
+    {
+      "id": 425162452,
+      "name": {
+        "cn": "SaNa Fischerprüfung & Lexikon"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792019903761,
+      "_discountType": "app"
+    },
+    {
+      "id": 1244006464,
+      "name": {
+        "cn": "银行从业考试大全"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792019903761,
+      "_discountType": "app"
+    },
+    {
+      "id": 1347435975,
+      "name": {
+        "cn": "智能闹钟 - Smart Alarm for Watch"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792019911146,
+      "_discountType": "app"
+    },
+    {
+      "id": 6450915374,
+      "name": {
+        "cn": "珍宝阁"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792019897357,
+      "_discountType": "app"
+    },
+    {
+      "id": 6781025810,
+      "name": {
+        "cn": "跳远跳高田赛记录助手2026"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792019899997,
+      "_discountType": "app"
+    },
+    {
+      "id": 6783917160,
+      "name": {
+        "cn": "Tome Ai"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792019902601,
+      "_discountType": "app"
+    },
+    {
+      "id": 6799092848,
+      "name": {
+        "cn": "FAC Gravity"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792019908407,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807357206,
+      "name": {
+        "cn": "跆拳道入门-技法·品势·考级一本通"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792019911146,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807343245,
+      "name": {
+        "cn": "猪猪存钱-每日打卡攒钱储蓄计划小金库目标养成记账本"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792019913915,
+      "_discountType": "app"
+    },
+    {
+      "id": 6807614158,
+      "name": {
+        "cn": "科目三灯光模拟考试"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792019913688,
+      "_discountType": "app"
+    },
+    {
       "id": 454225351,
       "name": {
         "cn": "Analyzer"
@@ -5851,7 +5972,8 @@
       "addSource": "OODATA",
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1790969096702,
-      "_discountType": "iap"
+      "_discountType": "iap",
+      "allowNotification": false
     },
     {
       "id": 6806190248,
