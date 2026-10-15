@@ -2,6 +2,75 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6444253288,
+      "name": {
+        "cn": "Phone Cleaner-AI Clean Storage"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792039798314,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6758858180,
+      "name": {
+        "cn": "日历Pro：日程·计划·视图·提醒"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792039798314,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6761602554,
+      "name": {
+        "cn": "打鼾记录-鼾声/打呼噜"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792039798314,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6449098473,
+      "name": {
+        "cn": "Palette Hunt: 照片取色与海报"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792039798314,
+      "_discountType": "app"
+    },
+    {
+      "id": 6812366681,
+      "name": {
+        "cn": "Dumori — 投资组合追踪"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792039798314,
+      "_discountType": "app"
+    },
+    {
+      "id": 6757125640,
+      "name": {
+        "cn": "有声记忆"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792039798314,
+      "_discountType": "app"
+    },
+    {
       "id": 350437349,
       "name": {
         "cn": "FunkBox Drum Machine"
