@@ -2,6 +2,50 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 570664099,
+      "name": {
+        "cn": "iGrand Piano"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792099819988,
+      "_discountType": "app"
+    },
+    {
+      "id": 6819275390,
+      "name": {
+        "cn": "疏影"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792099817316,
+      "_discountType": "app"
+    },
+    {
+      "id": 6808901224,
+      "name": {
+        "cn": "EXIS 70"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792099817316,
+      "_discountType": "app"
+    },
+    {
+      "id": 6801799964,
+      "name": {
+        "cn": "iY2K"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792099817316,
+      "_discountType": "app"
+    },
+    {
       "id": 488892606,
       "name": {
         "cn": "My Budget Book"
@@ -32783,8 +32827,8 @@
       "name": {
         "cn": "Gordian Seed Tool"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1785982642276,
@@ -45638,8 +45682,8 @@
       "name": {
         "cn": "PDF Reader - PDF Viewer,Edit"
       },
-      "addType": "external",
-      "addSource": "OODATA",
+      "addType": "auto",
+      "addSource": "paid-top",
       "_shouldBePaid": true,
       "_externalSource": "OODATA",
       "_externalSourceFirstSeen": 1783823342828,
