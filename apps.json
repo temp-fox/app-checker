@@ -2,6 +2,141 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 972109672,
+      "name": {
+        "cn": "Voice Pack: US English"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792135043662,
+      "_discountType": "app"
+    },
+    {
+      "id": 1543657970,
+      "name": {
+        "cn": "Nimble Click"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792135088370,
+      "_discountType": "app"
+    },
+    {
+      "id": 1561514816,
+      "name": {
+        "cn": "iAlignShaft"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792135035633,
+      "_discountType": "app"
+    },
+    {
+      "id": 1594054077,
+      "name": {
+        "cn": "Input Recorder"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792135088370,
+      "_discountType": "app"
+    },
+    {
+      "id": 1662238887,
+      "name": {
+        "cn": "Zweep 微风 - 照片清理"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792135088370,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6476835045,
+      "name": {
+        "cn": "Mind the Focus"
+      },
+      "addType": "auto",
+      "addSource": "paid-top",
+      "_shouldBePaid": true,
+      "_externalSourceFirstSeen": 1792135035633,
+      "_discountType": "app"
+    },
+    {
+      "id": 6810930763,
+      "name": {
+        "cn": "ddPlayer"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792135088370,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6802575161,
+      "name": {
+        "cn": "闪亮灯牌 - LED手持灯牌字幕"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792135088370,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6755030188,
+      "name": {
+        "cn": "指南针- AR预测太阳和月亮"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792135088370,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6820008763,
+      "name": {
+        "cn": "M3UHub"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792135088370,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6779620781,
+      "name": {
+        "cn": "一步步 - 个人SOP管理与执行"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792135088370,
+      "_discountType": "iap"
+    },
+    {
+      "id": 6818828064,
+      "name": {
+        "cn": "班序 - 轮班日历与换班提醒"
+      },
+      "addType": "external",
+      "addSource": "OODATA",
+      "_shouldBePaid": true,
+      "_externalSource": "OODATA",
+      "_externalSourceFirstSeen": 1792135088370,
+      "_discountType": "app"
+    },
+    {
       "id": 570664099,
       "name": {
         "cn": "iGrand Piano"
