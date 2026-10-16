@@ -1,11 +1,23 @@
 [
   {
-    "timestamp": 1792117284776,
+    "timestamp": 1792134322576,
     "cn": {
       "total": 6,
-      "price": 2,
-      "iap": 4,
+      "price": 5,
+      "iap": 1,
       "apps": [
+        {
+          "id": 6804756267,
+          "name": "目标买入价计算器",
+          "type": "price",
+          "detail": "¥6.00 → ¥3.00"
+        },
+        {
+          "id": 6796486391,
+          "name": "BreakThree",
+          "type": "price",
+          "detail": "¥12.00 → ¥6.00"
+        },
         {
           "id": 1595186051,
           "name": "最强震动器 - ZOONZOON",
@@ -19,28 +31,16 @@
           "detail": "¥38.00 → 免费"
         },
         {
-          "id": 972572731,
-          "name": "Money Pro: Personal Finance",
-          "type": "iap",
-          "detail": "PLUS: ¥148.00 → ¥38.00"
-        },
-        {
-          "id": 972572731,
-          "name": "Money Pro: Personal Finance",
-          "type": "iap",
-          "detail": "GOLD: ¥298.00 → ¥68.00"
-        },
-        {
           "id": 6757167172,
           "name": "GemNote",
           "type": "iap",
           "detail": "Own GemNote: ¥68.00 → ¥22.00"
         },
         {
-          "id": 6759487521,
-          "name": "AnySchedule - 日程管理规划",
-          "type": "iap",
-          "detail": "Yearly Plan: ¥128.00 → ¥88.00"
+          "id": 6751800458,
+          "name": "简单视力表",
+          "type": "price",
+          "detail": "¥12.00 → ¥8.00"
         }
       ]
     }
@@ -3335,76 +3335,6 @@
           "name": "BirdSnap: AI Bird Identifier",
           "type": "price",
           "detail": "付费 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1791255864088,
-    "cn": {
-      "total": 10,
-      "price": 10,
-      "iap": 0,
-      "apps": [
-        {
-          "id": 6797442775,
-          "name": "睡眠记录-作息规律睡前仪式助眠白噪音洞察助手工具管理",
-          "type": "price",
-          "detail": "¥1.00 → 免费"
-        },
-        {
-          "id": 431058916,
-          "name": "Mango IRC",
-          "type": "price",
-          "detail": "¥58.00 → ¥22.00"
-        },
-        {
-          "id": 6784488049,
-          "name": "视频日记-每日一秒vlog时光轴回放本地私密手账记录",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6772426629,
-          "name": "喝酒记-啤酒红酒白酒威士忌饮酒打卡记账·酒精热量统计",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6770173206,
-          "name": "错题本-分科整理错题复习刷题闯关背诵单机本地助手版",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6760980619,
-          "name": "Compress & Upload for Safari",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6772426340,
-          "name": "每日复盘-习惯打卡目标追踪自律成长日记本助手工具与应用版本",
-          "type": "price",
-          "detail": "¥15.00 → 免费"
-        },
-        {
-          "id": 6782304065,
-          "name": "MacPad",
-          "type": "price",
-          "detail": "¥298.00 → 免费"
-        },
-        {
-          "id": 6761301125,
-          "name": "Passeporté",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 312028507,
-          "name": "Today In History",
-          "type": "price",
-          "detail": "¥68.00 → 免费"
         }
       ]
     }
