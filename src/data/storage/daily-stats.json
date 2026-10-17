@@ -1,10 +1,10 @@
 [
   {
-    "timestamp": 1792201899904,
+    "timestamp": 1792218121360,
     "cn": {
-      "total": 13,
-      "price": 8,
-      "iap": 5,
+      "total": 18,
+      "price": 11,
+      "iap": 7,
       "apps": [
         {
           "id": 6756335040,
@@ -31,6 +31,12 @@
           "detail": "Lastly Pro 月付: ¥8.00 → ¥3.00"
         },
         {
+          "id": 6809154327,
+          "name": "DOH1: Synthesizer 303 Bassline",
+          "type": "price",
+          "detail": "¥38.00 → 免费"
+        },
+        {
           "id": 6799973308,
           "name": "Galplay: 多引擎Galgame 播放器",
           "type": "price",
@@ -47,6 +53,12 @@
           "name": "伊斯兰回历",
           "type": "iap",
           "detail": "PRO Version: ¥68.00 → ¥15.00"
+        },
+        {
+          "id": 6797049214,
+          "name": "DBHub - 生活记录与整理",
+          "type": "iap",
+          "detail": "月度订阅: ¥18.00 → ¥8.00"
         },
         {
           "id": 1295524988,
@@ -67,6 +79,12 @@
           "detail": "¥15.00 → ¥8.00"
         },
         {
+          "id": 6761450030,
+          "name": "词源词典：探索单词起源",
+          "type": "price",
+          "detail": "¥68.00 → 免费"
+        },
+        {
           "id": 6761421523,
           "name": "SWAtlas - 短波探索器",
           "type": "price",
@@ -79,10 +97,22 @@
           "detail": "palabros 专业版: ¥283.00 → ¥203.00"
         },
         {
+          "id": 1135239600,
+          "name": "Coffee Terms",
+          "type": "price",
+          "detail": "¥8.00 → 免费"
+        },
+        {
           "id": 525997288,
           "name": "CalcTape - 纸带票据计算器",
           "type": "price",
           "detail": "¥22.00 → ¥18.00"
+        },
+        {
+          "id": 6759504986,
+          "name": "UniReader: 多格式阅读器",
+          "type": "iap",
+          "detail": "UniReader Premium 终身版: ¥228.00 → ¥198.00"
         }
       ]
     }
@@ -3183,82 +3213,6 @@
           "name": "蜡烛人",
           "type": "price",
           "detail": "¥16.80 → 免费"
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": 1791346089566,
-    "cn": {
-      "total": 11,
-      "price": 10,
-      "iap": 1,
-      "apps": [
-        {
-          "id": 1632735603,
-          "name": "Visio.AI - Photo Gallery Pro",
-          "type": "price",
-          "detail": "¥15.00 → ¥8.00"
-        },
-        {
-          "id": 6741730996,
-          "name": "手机测速-网络测速",
-          "type": "iap",
-          "detail": "手机测速永久会员: ¥68.00 → ¥0.00"
-        },
-        {
-          "id": 1481100296,
-          "name": "BreatheIn: Calm Breathing",
-          "type": "price",
-          "detail": "¥58.00 → ¥8.00"
-        },
-        {
-          "id": 6816436573,
-          "name": "Memodo: Local AI Note Taker",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6792239866,
-          "name": "Notepad Calculator",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6741035066,
-          "name": "Mahoney",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6499077028,
-          "name": "Cmd-X",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6744909217,
-          "name": "AI Video Eraser",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6806592855,
-          "name": "Network & System Admin Toolkit",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6751835572,
-          "name": "FinderHub - Places Near Me",
-          "type": "price",
-          "detail": "付费 → 免费"
-        },
-        {
-          "id": 6764438055,
-          "name": "NoteQuick: Notas y Dictado IA",
-          "type": "price",
-          "detail": "付费 → 免费"
         }
       ]
     }
