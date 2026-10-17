@@ -43,8 +43,8 @@
       "inAppPurchase": {}
     },
     "392514814": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "398335225": {
@@ -123,6 +123,11 @@
       }
     },
     "525944153": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "525997288": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -674,6 +679,11 @@
       "inAppPurchase": {}
     },
     "1295034677": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1295524988": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -1316,11 +1326,12 @@
       "inAppPurchase": {}
     },
     "6756335040": {
-      "all": 3,
+      "all": 4,
       "price": 0,
       "inAppPurchase": {
         "Lifetime Access (One Time Payment)": 3,
-        "Monthly Subscription": 1
+        "Monthly Subscription": 1,
+        "Yearly Subscription": 1
       }
     },
     "6753719624": {
@@ -2622,9 +2633,11 @@
       "inAppPurchase": {}
     },
     "6738603556": {
-      "all": 1,
+      "all": 2,
       "price": 1,
-      "inAppPurchase": {}
+      "inAppPurchase": {
+        "PRO Version": 1
+      }
     },
     "6786560987": {
       "all": 1,
@@ -3266,10 +3279,11 @@
       }
     },
     "6799605111": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Pro Yearly": 1
+        "Pro Yearly": 1,
+        "Pro Monthly": 1
       }
     },
     "6807221693": {
@@ -3508,10 +3522,11 @@
       "inAppPurchase": {}
     },
     "6792000032": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Lastly Pro 终身": 1
+        "Lastly Pro 终身": 1,
+        "Lastly Pro 月付": 1
       }
     },
     "6779936477": {
@@ -3617,6 +3632,38 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6784456632": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6799973308": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6761064962": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6478019548": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6761421523": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6758098070": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "palabros 专业版": 1
+      }
     }
   }
 }
